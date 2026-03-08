@@ -24,6 +24,27 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap" rel="stylesheet">
     <script type="module" crossorigin src="/assets/index-DsPlL9Qz.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-8zT-Q6kN.css">
+    <style>
+      /* Force game board grid to fit without scrolling on host page */
+      .grid.grid-cols-6 {
+        max-height: 100% !important;
+        overflow: hidden !important;
+      }
+      .grid.grid-cols-6 > div {
+        min-height: 0 !important;
+        overflow: hidden !important;
+      }
+      /* Make the board container fill available space without scrollbar */
+      .bg-neutral-900.rounded-lg.border.border-neutral-800 {
+        overflow: hidden !important;
+        max-height: 100% !important;
+      }
+      /* Ensure host page uses full viewport height without overflow */
+      #root, #root > div {
+        max-height: 100vh !important;
+        overflow: hidden !important;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
