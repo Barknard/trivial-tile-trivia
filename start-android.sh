@@ -105,6 +105,17 @@ else
 fi
 cd "$GAME_DIR"
 
+# Import questions from output/ folder into runtime-questions.json
+QUESTIONS_DIR="$GAME_DIR/output"
+if [ -d "$QUESTIONS_DIR" ]; then
+    JSON_COUNT=$(find "$QUESTIONS_DIR" -name "*.json" 2>/dev/null | wc -l)
+    if [ "$JSON_COUNT" -gt 0 ]; then
+        echo "[...] Importing $JSON_COUNT question files..."
+        node "$GAME_DIR/import-questions.cjs" "$QUESTIONS_DIR" "$GAME_DIR/public/runtime-questions.json"
+        echo "[OK] Questions imported!"
+    fi
+fi
+
 # Auto-create Termux:Widget shortcut for one-tap launching
 SCRIPT_PATH="$(cd "$(dirname "$0")" && pwd)/start-android.sh"
 SHORTCUT_DIR="$HOME/.shortcuts"
