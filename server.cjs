@@ -27521,7 +27521,7 @@ async function registerRoutes(httpServer2, app2) {
     }
   });
   // Dynamic quiz loading from output/ directory
-  const outputDir = import_path.default.resolve(__dirname, "output");
+  const outputDir = path.resolve(__dirname, "output");
   let quizCache = null;
   let quizCacheTime = 0;
   const CACHE_TTL = 30000; // 30 second cache
