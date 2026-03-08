@@ -1,398 +1,267 @@
 {
   "category": "Beach Music",
-  "description": "Questions about beach music, surf music, coastal songs, and music inspired by ocean and seaside themes",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "This 1963 song by The Beach Boys has 'Surfin'' in the title",
-      "answer": "What is Surfin' USA?"
-    },
-    {
-      "points": 200,
-      "clue": "The Beach Boys' signature song from 1966 about a fun vehicle",
-      "answer": "What is Fun, Fun, Fun?"
-    },
-    {
-      "points": 200,
-      "clue": "A tropical fruit often associated with beach and vacation songs",
-      "answer": "What is pineapple?"
-    },
-    {
-      "points": 200,
-      "clue": "This genre of music features the sound of waves and seagulls",
-      "answer": "What is ocean/ambient music?"
-    },
-    {
-      "points": 200,
-      "clue": "The Beach Boys sang about this kind of California girl in 1965",
-      "answer": "What is a Surfer Girl?"
-    },
-    {
-      "points": 200,
-      "clue": "This Hawaiian instrument is commonly associated with beach music",
-      "answer": "What is an ukulele?"
-    },
-    {
-      "points": 200,
-      "clue": "Jimmy Buffett's most famous song about being barefoot and carefree",
-      "answer": "What is Margaritaville?"
-    },
-    {
-      "points": 200,
-      "clue": "This color is often mentioned in beach-themed songs",
-      "answer": "What is blue (for the ocean/sky)?"
-    },
-    {
-      "points": 200,
-      "clue": "The Beach Boys' 1966 album that brought a whole new dimension to pop",
-      "answer": "What is Pet Sounds?"
-    },
-    {
-      "points": 200,
-      "clue": "A musical style that uses steel drums common in tropical beach settings",
-      "answer": "What is calypso or steel drum music?"
-    },
-    {
-      "points": 400,
-      "clue": "The Beach Boys hit from 1966 about a romantic moment in a car",
-      "answer": "What is Wouldn't It Be Nice?"
-    },
-    {
-      "points": 400,
-      "clue": "This instrument, popular in reggae and beach music, is played with a bow",
-      "answer": "What is a steel drum or bass guitar?"
-    },
-    {
-      "points": 400,
-      "clue": "Jan and Dean's 1963 hit about California's most famous beach activity",
-      "answer": "What is Surf City?"
-    },
-    {
-      "points": 400,
-      "clue": "The Ventures' famous surf rock instrumental from 1960",
-      "answer": "What is Walk, Don't Run?"
-    },
-    {
-      "points": 400,
-      "clue": "This Beach Boys song from 1963 mentions 'giddy up' and riding",
-      "answer": "What is Shut Down?"
-    },
-    {
-      "points": 400,
-      "clue": "A Jimmy Buffett fan is often called this",
-      "answer": "What is a Parrothead?"
-    },
-    {
-      "points": 400,
-      "clue": "This 1968 Beach Boys song is about good vibrations",
-      "answer": "What is Good Vibrations?"
-    },
-    {
-      "points": 400,
-      "clue": "The Beach Boys' song from 1965 that combines surfing and hot rods",
-      "answer": "What is The Little Girl I Once Knew or Shut Down?"
-    },
-    {
-      "points": 400,
-      "clue": "This tropical alcoholic beverage features prominently in beach music",
-      "answer": "What is a piña colada or tropical drink?"
-    },
-    {
-      "points": 400,
-      "clue": "Surfer music often features this type of guitar with a twangy sound",
-      "answer": "What is electric guitar or surf guitar?"
-    },
-    {
-      "points": 600,
-      "clue": "This Beach Boys album from 1965 features 'California Girls' and other classics",
-      "answer": "What is Surf's Up or Summer Days (and Summer Nights!)?"
-    },
-    {
-      "points": 600,
-      "clue": "The Surfaris' famous 1962 instrumental that mimics the ocean",
-      "answer": "What is Wipe Out?"
-    },
-    {
-      "points": 600,
-      "clue": "This Beach Boys album from 1964 captures the essence of California beach culture",
-      "answer": "What is Endless Summer?"
-    },
-    {
-      "points": 600,
-      "clue": "Dick Dale's famous surf rock instrumental from 1962",
-      "answer": "What is Misirlou?"
-    },
-    {
-      "points": 600,
-      "clue": "The Beach Boys' Brian Wilson produced this masterpiece in the studio",
-      "answer": "What is Pet Sounds?"
-    },
-    {
-      "points": 600,
-      "clue": "This tropical island inspired many beach and reggae music styles",
-      "answer": "What is Jamaica or Hawaii?"
-    },
-    {
-      "points": 600,
-      "clue": "Coconut-based rum used in many tropical beach cocktails and songs",
-      "answer": "What is Coconut Rum or Malibu?"
-    },
-    {
-      "points": 600,
-      "clue": "This Beach Boys song from 1964 is about a loyal canine companion",
-      "answer": "What is Surfin' Safari?"
-    },
-    {
-      "points": 600,
-      "clue": "The Chantays' 1962 instrumental that captures the excitement of surfing",
-      "answer": "What is Pipeline?"
-    },
-    {
-      "points": 600,
-      "clue": "This type of ukulele has a distinctly bright beach/tiki sound",
-      "answer": "What is a soprano ukulele?"
-    },
-    {
-      "points": 800,
-      "clue": "Brian Wilson's magnum opus pet project that revolutionized beach music in 1966",
-      "answer": "What is Pet Sounds?"
-    },
-    {
-      "points": 800,
-      "clue": "This 1960s surf rock pioneer played a Fender Stratocaster with tremolo effects",
-      "answer": "Who is Dick Dale?"
-    },
-    {
-      "points": 800,
-      "clue": "The Beach Boys' 1965 hit features this activity and was a response to 'Shut Down'",
-      "answer": "What is Drag City?"
-    },
-    {
-      "points": 800,
-      "clue": "This music genre blends reggae with electronic beats and Caribbean influences",
-      "answer": "What is dancehall or reggae fusion?"
-    },
-    {
-      "points": 800,
-      "clue": "The Beach Boys' only #1 hit single was this 1966 song",
-      "answer": "What is Good Vibrations?"
-    },
-    {
-      "points": 800,
-      "clue": "This steel drum instrument originates from Trinidad and Tobago",
-      "answer": "What is the steelpan?"
-    },
-    {
-      "points": 800,
-      "clue": "Jimmy Buffett's 1973 debut album that launched his beach music career",
-      "answer": "What is Down to Earth?"
-    },
-    {
-      "points": 800,
-      "clue": "This Weather Girls' song from 1982 is perfect for hot beach parties",
-      "answer": "What is It's Raining Men?"
-    },
-    {
-      "points": 800,
-      "clue": "The Beach Boys song from 1966 that starts with 'ba-ba-ba-ba-ba'",
-      "answer": "What is Barbara Ann?"
-    },
-    {
-      "points": 800,
-      "clue": "This Bob Marley classic is one of the most iconic reggae beach songs",
-      "answer": "What is No Woman No Cry or One Love?"
-    },
-    {
-      "points": 1000,
-      "clue": "The Beach Boys' 'Smile' sessions created this unreleased album concept",
-      "answer": "What is the Smile album or Smiley Smile?"
-    },
-    {
-      "points": 1000,
-      "clue": "This legendary surf rock guitarist and composer created the 'surf sound' style",
-      "answer": "Who is Dick Dale, the King of the Surf Guitar?"
-    },
-    {
-      "points": 1000,
-      "clue": "The Ventures' 1960 version of this Asian melody became an iconic surf song",
-      "answer": "What is Walk, Don't Run or Hawaii style?"
-    },
-    {
-      "points": 1000,
-      "clue": "This Beach Boys member was the genius producer behind 'Pet Sounds'",
-      "answer": "Who is Brian Wilson?"
-    },
-    {
-      "points": 1000,
-      "clue": "The Beach Boys' 1969 album featured their last big hit before later revivals",
-      "answer": "What is Smiley Smile or Wildflowers?"
-    },
-    {
-      "points": 1000,
-      "clue": "This calypso musician's song 'Matilda' became famous in beach music circles",
-      "answer": "Who is Harry Belafonte?"
-    },
-    {
-      "points": 1000,
-      "clue": "The Beach Boys' 1962 debut single that started the California sound",
-      "answer": "What is Surfin'?"
-    },
-    {
-      "points": 1000,
-      "clue": "This West Indian music style uses congas, bongos, and vocals prominently",
-      "answer": "What is Caribbean folk music or calypso?"
-    },
-    {
-      "points": 1000,
-      "clue": "The Surfaris' 1962 album 'Wipe Out' featured this iconic drum fill",
-      "answer": "What is the famous 'Wipe Out' drum break or solo?"
-    },
-    {
-      "points": 1000,
-      "clue": "Jimmy Buffett's 1977 hit single that became his signature song",
-      "answer": "What is Come Monday or Margaritaville?"
-    }
-  ],
-  "no_humanity_clues": [
-    {
-      "points": 200,
-      "clue": "What you pretend to like when someone plays Jimmy Buffett at a party",
-      "answer": "What is tropical vibes?"
-    },
-    {
-      "points": 200,
-      "clue": "The Beach Boys song that gets stuck in your head for three days straight",
-      "answer": "What is Surfin' USA?"
-    },
-    {
-      "points": 200,
-      "clue": "What you're actually doing when listening to 'Margaritaville' in winter",
-      "answer": "What is staring out the window dreaming of escape?"
-    },
-    {
-      "points": 200,
-      "clue": "The lie you tell when someone catches you listening to beach music",
-      "answer": "What is it's ironic or I'm researching something?"
-    },
-    {
-      "points": 200,
-      "clue": "What happens every time 'Wipe Out' plays at a bar",
-      "answer": "What is everyone does the drum fill with their mouth?"
-    },
-    {
-      "points": 200,
-      "clue": "The number of cocktail umbrellas that actually make someone look cool",
-      "answer": "What is zero?"
-    },
-    {
-      "points": 400,
-      "clue": "What Beach Boys fans are called but shouldn't be repeated in public",
-      "answer": "What is guilty pleasures or dad rock enthusiasts?"
-    },
-    {
-      "points": 400,
-      "clue": "Why Jimmy Buffett has more fans than actual Parrot Heads",
-      "answer": "What is his music makes people feel better about their lives?"
-    },
-    {
-      "points": 400,
-      "clue": "What you do when someone suggests a Beach Boys karaoke night",
-      "answer": "What is make an excuse about being busy that night?"
-    },
-    {
-      "points": 400,
-      "clue": "The real reason people love 'Margaritaville' at 3 AM",
-      "answer": "What is they've had too many margaritas?"
-    },
-    {
-      "points": 400,
-      "clue": "What the Beach Boys should've called their group if honest",
-      "answer": "What is The Beach Boys' Collective Midlife Crisis?"
-    },
-    {
-      "points": 400,
-      "clue": "The emotion you feel when you realize you know all Beach Boys lyrics",
-      "answer": "What is regret or shame?"
-    },
-    {
-      "points": 600,
-      "clue": "What Jimmy Buffett did for mid-life crises that therapy never could",
-      "answer": "What is make them musical?"
-    },
-    {
-      "points": 600,
-      "clue": "Why the Beach Boys' 'Pet Sounds' is called a masterpiece but still has ukuleles",
-      "answer": "What is because critics have been gaslit?"
-    },
-    {
-      "points": 600,
-      "clue": "What percentage of beach music lyrics are actually about beaches",
-      "answer": "What is surprisingly low?"
-    },
-    {
-      "points": 600,
-      "clue": "The real reason 'Wipe Out' is played at every surf movie",
-      "answer": "What is it's cheap licensing and no one knows better anymore?"
-    },
-    {
-      "points": 600,
-      "clue": "What you're really thinking during a Beach Boys song about cars",
-      "answer": "What is why are surfers obsessed with cars?"
-    },
-    {
-      "points": 600,
-      "clue": "The lie you tell your therapist about liking beach music ironically",
-      "answer": "What is yeah totally, it's retro cool?"
-    },
-    {
-      "points": 800,
-      "clue": "Why Brian Wilson took sixteen weeks to record 'Pet Sounds'",
-      "answer": "What is perfectionism mixed with possible substance-assisted inspiration?"
-    },
-    {
-      "points": 800,
-      "clue": "What happened when The Beach Boys performed for actual surfers",
-      "answer": "What is surfers were confused they were singing about cars?"
-    },
-    {
-      "points": 800,
-      "clue": "The real reason Jimmy Buffett wrote so many songs about margaritas",
-      "answer": "What is depression and tropical escapism fantasies?"
-    },
-    {
-      "points": 800,
-      "clue": "What beach music has in common with pineapple on pizza",
-      "answer": "What is polarizing yet oddly addictive?"
-    },
-    {
-      "points": 800,
-      "clue": "The number of actual surfboards mentioned in 'Surfin' USA' lyrics",
-      "answer": "What is zero or one (you'd have to check)?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why The Beach Boys' harmony is so perfect they must have made a deal",
-      "answer": "What is they clearly sold their souls to the doo-wop devil?"
-    },
-    {
-      "points": 1000,
-      "clue": "What 'Good Vibrations' is actually code for in Beach Boys albums",
-      "answer": "What is let's pretend we're not sad about our relationships?"
-    },
-    {
-      "points": 1000,
-      "clue": "The real story behind why Dick Dale used reverb so much on his guitar",
-      "answer": "What is the echo made him less lonely in the studio?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why beach music became the soundtrack for corporate team building",
-      "answer": "What is it's inoffensive enough to not cause HR incidents?"
-    },
-    {
-      "points": 1000,
-      "clue": "The number of people who've faked an appreciation for The Ventures",
-      "answer": "What is everyone who's ever been to a tiki bar?"
-    }
-  ]
+  "theme": "beach",
+  "category_id": "beach_music",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This 1963 song by The Beach Boys has 'Surfin'' in the title",
+        "correctQuestion": "What is Surfin' USA?",
+        "value": 200
+      },
+      {
+        "clue": "The Beach Boys' signature song from 1966 about a fun vehicle",
+        "correctQuestion": "What is Fun, Fun, Fun?",
+        "value": 200
+      },
+      {
+        "clue": "A tropical fruit often associated with beach and vacation songs",
+        "correctQuestion": "What is pineapple?",
+        "value": 200
+      },
+      {
+        "clue": "This genre of music features the sound of waves and seagulls",
+        "correctQuestion": "What is ocean/ambient music?",
+        "value": 200
+      },
+      {
+        "clue": "The Beach Boys sang about this kind of California girl in 1965",
+        "correctQuestion": "What is a Surfer Girl?",
+        "value": 200
+      },
+      {
+        "clue": "This Hawaiian instrument is commonly associated with beach music",
+        "correctQuestion": "What is an ukulele?",
+        "value": 200
+      },
+      {
+        "clue": "Jimmy Buffett's most famous song about being barefoot and carefree",
+        "correctQuestion": "What is Margaritaville?",
+        "value": 200
+      },
+      {
+        "clue": "This color is often mentioned in beach-themed songs",
+        "correctQuestion": "What is blue (for the ocean/sky)?",
+        "value": 200
+      },
+      {
+        "clue": "The Beach Boys' 1966 album that brought a whole new dimension to pop",
+        "correctQuestion": "What is Pet Sounds?",
+        "value": 200
+      },
+      {
+        "clue": "A musical style that uses steel drums common in tropical beach settings",
+        "correctQuestion": "What is calypso or steel drum music?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The Beach Boys hit from 1966 about a romantic moment in a car",
+        "correctQuestion": "What is Wouldn't It Be Nice?",
+        "value": 400
+      },
+      {
+        "clue": "This instrument, popular in reggae and beach music, is played with a bow",
+        "correctQuestion": "What is a steel drum or bass guitar?",
+        "value": 400
+      },
+      {
+        "clue": "Jan and Dean's 1963 hit about California's most famous beach activity",
+        "correctQuestion": "What is Surf City?",
+        "value": 400
+      },
+      {
+        "clue": "The Ventures' famous surf rock instrumental from 1960",
+        "correctQuestion": "What is Walk, Don't Run?",
+        "value": 400
+      },
+      {
+        "clue": "This Beach Boys song from 1963 mentions 'giddy up' and riding",
+        "correctQuestion": "What is Shut Down?",
+        "value": 400
+      },
+      {
+        "clue": "A Jimmy Buffett fan is often called this",
+        "correctQuestion": "What is a Parrothead?",
+        "value": 400
+      },
+      {
+        "clue": "This 1968 Beach Boys song is about good vibrations",
+        "correctQuestion": "What is Good Vibrations?",
+        "value": 400
+      },
+      {
+        "clue": "The Beach Boys' song from 1965 that combines surfing and hot rods",
+        "correctQuestion": "What is The Little Girl I Once Knew or Shut Down?",
+        "value": 400
+      },
+      {
+        "clue": "This tropical alcoholic beverage features prominently in beach music",
+        "correctQuestion": "What is a piña colada or tropical drink?",
+        "value": 400
+      },
+      {
+        "clue": "Surfer music often features this type of guitar with a twangy sound",
+        "correctQuestion": "What is electric guitar or surf guitar?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This Beach Boys album from 1965 features 'California Girls' and other classics",
+        "correctQuestion": "What is Surf's Up or Summer Days (and Summer Nights!)?",
+        "value": 600
+      },
+      {
+        "clue": "The Surfaris' famous 1962 instrumental that mimics the ocean",
+        "correctQuestion": "What is Wipe Out?",
+        "value": 600
+      },
+      {
+        "clue": "This Beach Boys album from 1964 captures the essence of California beach culture",
+        "correctQuestion": "What is Endless Summer?",
+        "value": 600
+      },
+      {
+        "clue": "Dick Dale's famous surf rock instrumental from 1962",
+        "correctQuestion": "What is Misirlou?",
+        "value": 600
+      },
+      {
+        "clue": "The Beach Boys' Brian Wilson produced this masterpiece in the studio",
+        "correctQuestion": "What is Pet Sounds?",
+        "value": 600
+      },
+      {
+        "clue": "This tropical island inspired many beach and reggae music styles",
+        "correctQuestion": "What is Jamaica or Hawaii?",
+        "value": 600
+      },
+      {
+        "clue": "Coconut-based rum used in many tropical beach cocktails and songs",
+        "correctQuestion": "What is Coconut Rum or Malibu?",
+        "value": 600
+      },
+      {
+        "clue": "This Beach Boys song from 1964 is about a loyal canine companion",
+        "correctQuestion": "What is Surfin' Safari?",
+        "value": 600
+      },
+      {
+        "clue": "The Chantays' 1962 instrumental that captures the excitement of surfing",
+        "correctQuestion": "What is Pipeline?",
+        "value": 600
+      },
+      {
+        "clue": "This type of ukulele has a distinctly bright beach/tiki sound",
+        "correctQuestion": "What is a soprano ukulele?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Brian Wilson's magnum opus pet project that revolutionized beach music in 1966",
+        "correctQuestion": "What is Pet Sounds?",
+        "value": 800
+      },
+      {
+        "clue": "This 1960s surf rock pioneer played a Fender Stratocaster with tremolo effects",
+        "correctQuestion": "Who is Dick Dale?",
+        "value": 800
+      },
+      {
+        "clue": "The Beach Boys' 1965 hit features this activity and was a response to 'Shut Down'",
+        "correctQuestion": "What is Drag City?",
+        "value": 800
+      },
+      {
+        "clue": "This music genre blends reggae with electronic beats and Caribbean influences",
+        "correctQuestion": "What is dancehall or reggae fusion?",
+        "value": 800
+      },
+      {
+        "clue": "The Beach Boys' only #1 hit single was this 1966 song",
+        "correctQuestion": "What is Good Vibrations?",
+        "value": 800
+      },
+      {
+        "clue": "This steel drum instrument originates from Trinidad and Tobago",
+        "correctQuestion": "What is the steelpan?",
+        "value": 800
+      },
+      {
+        "clue": "Jimmy Buffett's 1973 debut album that launched his beach music career",
+        "correctQuestion": "What is Down to Earth?",
+        "value": 800
+      },
+      {
+        "clue": "This Weather Girls' song from 1982 is perfect for hot beach parties",
+        "correctQuestion": "What is It's Raining Men?",
+        "value": 800
+      },
+      {
+        "clue": "The Beach Boys song from 1966 that starts with 'ba-ba-ba-ba-ba'",
+        "correctQuestion": "What is Barbara Ann?",
+        "value": 800
+      },
+      {
+        "clue": "This Bob Marley classic is one of the most iconic reggae beach songs",
+        "correctQuestion": "What is No Woman No Cry or One Love?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "The Beach Boys' 'Smile' sessions created this unreleased album concept",
+        "correctQuestion": "What is the Smile album or Smiley Smile?",
+        "value": 1000
+      },
+      {
+        "clue": "This legendary surf rock guitarist and composer created the 'surf sound' style",
+        "correctQuestion": "Who is Dick Dale, the King of the Surf Guitar?",
+        "value": 1000
+      },
+      {
+        "clue": "The Ventures' 1960 version of this Asian melody became an iconic surf song",
+        "correctQuestion": "What is Walk, Don't Run or Hawaii style?",
+        "value": 1000
+      },
+      {
+        "clue": "This Beach Boys member was the genius producer behind 'Pet Sounds'",
+        "correctQuestion": "Who is Brian Wilson?",
+        "value": 1000
+      },
+      {
+        "clue": "The Beach Boys' 1969 album featured their last big hit before later revivals",
+        "correctQuestion": "What is Smiley Smile or Wildflowers?",
+        "value": 1000
+      },
+      {
+        "clue": "This calypso musician's song 'Matilda' became famous in beach music circles",
+        "correctQuestion": "Who is Harry Belafonte?",
+        "value": 1000
+      },
+      {
+        "clue": "The Beach Boys' 1962 debut single that started the California sound",
+        "correctQuestion": "What is Surfin'?",
+        "value": 1000
+      },
+      {
+        "clue": "This West Indian music style uses congas, bongos, and vocals prominently",
+        "correctQuestion": "What is Caribbean folk music or calypso?",
+        "value": 1000
+      },
+      {
+        "clue": "The Surfaris' 1962 album 'Wipe Out' featured this iconic drum fill",
+        "correctQuestion": "What is the famous 'Wipe Out' drum break or solo?",
+        "value": 1000
+      },
+      {
+        "clue": "Jimmy Buffett's 1977 hit single that became his signature song",
+        "correctQuestion": "What is Come Monday or Margaritaville?",
+        "value": 1000
+      }
+    ]
+  }
 }

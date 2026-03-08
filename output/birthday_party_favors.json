@@ -2,9 +2,8 @@
   "category": "Birthday Party Favors",
   "theme": "birthday",
   "category_id": "birthday_party_favors",
-  "research_basis": "Party planning, gift-giving etiquette, consumer psychology, packaging design, budget management, guest appreciation traditions, cultural gift-giving practices",
   "audiences": {
-    "regular_clues": [
+    "adults": [
       {
         "clue": "Small toys and treats given to guests as they leave a birthday party",
         "correctQuestion": "What is a goodie bag?",
@@ -156,7 +155,7 @@
         "value": 1000
       }
     ],
-    "cah_style_clues": [
+    "no_humanity": [
       {
         "clue": "The goodie bag filler that represents a parent's attempt to create memories while quietly destroying the birthday kid's room",
         "correctQuestion": "What are glitter pens?",

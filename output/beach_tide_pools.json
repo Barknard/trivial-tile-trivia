@@ -1,1180 +1,847 @@
 {
-  "title": "Beach Tide Pools",
-  "description": "Explore rocky shores, sea creatures, and tide pool ecosystems - family-friendly Jeopardy format",
-  "format": "jeopardy",
-  "difficulty_levels": 6,
-  "total_questions": 180,
-  "questions_per_level": 30,
-  "categories": [
-    "Tide Pool Basics",
-    "Sea Creatures",
-    "Rocky Shore Habitats",
-    "Tides & Water",
-    "Beach Exploration",
-    "Ocean Life"
-  ],
-  "questions": [
-    {
-      "level": 1,
-      "category": "Tide Pool Basics",
-      "clue": "A pool of water left behind on a rocky beach when the tide goes out",
-      "answer": "What is a tide pool?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tide Pool Basics",
-      "clue": "The time of day when ocean water covers the most of the beach",
-      "answer": "What is high tide?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tide Pool Basics",
-      "clue": "The time when the ocean water retreats and exposes the beach rocks",
-      "answer": "What is low tide?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Sea Creatures",
-      "clue": "A spiky round creature that looks like a sea ball and moves slowly",
-      "answer": "What is a sea urchin?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Sea Creatures",
-      "clue": "A creature with 8 arms that can change color and hide in small spaces",
-      "answer": "What is an octopus?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Sea Creatures",
-      "clue": "A small crustacean that crawls on rocks and hides under seaweed",
-      "answer": "What is a crab?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Rocky Shore Habitats",
-      "clue": "The plants with long strands that float in tide pools",
-      "answer": "What is seaweed?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Rocky Shore Habitats",
-      "clue": "Hard rocky formations that stick out from the water",
-      "answer": "What are rocks?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tides & Water",
-      "clue": "The salty water that fills the ocean and tide pools",
-      "answer": "What is seawater?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tides & Water",
-      "clue": "The regular rising and falling of ocean water caused by the moon",
-      "answer": "What are tides?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Beach Exploration",
-      "clue": "What should you wear on your feet to protect them from sharp rocks?",
-      "answer": "What are water shoes or sandals?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Beach Exploration",
-      "clue": "A tool used to carefully observe small creatures in tide pools",
-      "answer": "What is a magnifying glass?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Ocean Life",
-      "clue": "An animal with a spiral shell that leaves a slimy trail",
-      "answer": "What is a snail?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Ocean Life",
-      "clue": "A creature shaped like a star that lives on the ocean floor",
-      "answer": "What is a starfish?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tide Pool Basics",
-      "clue": "The soft part of a crab that makes the shell look bumpy",
-      "answer": "What is an exoskeleton?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Sea Creatures",
-      "clue": "A creature that sticks to rocks and looks like a volcano",
-      "answer": "What is a barnacle?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Rocky Shore Habitats",
-      "clue": "The line where the ocean meets the rocks and sand",
-      "answer": "What is the shoreline?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tides & Water",
-      "clue": "The force that pulls on the ocean and causes tides",
-      "answer": "What is gravity?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Beach Exploration",
-      "clue": "The best time to visit tide pools is when the water is at this level",
-      "answer": "What is low tide?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Ocean Life",
-      "clue": "A creature that looks like a round pin cushion and lives in tide pools",
-      "answer": "What is a sea urchin?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tide Pool Basics",
-      "clue": "The study of animals and plants that live in the ocean",
-      "answer": "What is marine biology?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Sea Creatures",
-      "clue": "A small fish with many spines along its back found in tide pools",
-      "answer": "What is a stickleback?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Rocky Shore Habitats",
-      "clue": "The zone of the beach that gets wet when waves crash on rocks",
-      "answer": "What is the splash zone?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tides & Water",
-      "clue": "The type of environment that has both salt water and freshwater",
-      "answer": "What is brackish?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Beach Exploration",
-      "clue": "You should never go tide pooling alone - always bring a trusted ___",
-      "answer": "What is an adult?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Ocean Life",
-      "clue": "A tiny animal that stings and lives in ocean water",
-      "answer": "What is a jellyfish?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tide Pool Basics",
-      "clue": "The path the moon takes around the Earth, affecting tides",
-      "answer": "What is the lunar orbit?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Sea Creatures",
-      "clue": "A flatfish that hides on the sandy bottom of tide pools",
-      "answer": "What is a flounder?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Rocky Shore Habitats",
-      "clue": "The cracks and crevices where animals hide on rocky shores",
-      "answer": "What are tide pool refuges or shelters?",
-      "value": 100
-    },
-    {
-      "level": 1,
-      "category": "Tides & Water",
-      "clue": "The amount of salt in ocean water",
-      "answer": "What is salinity?",
-      "value": 100
-    },
-    {
-      "level": 2,
-      "category": "Tide Pool Basics",
-      "clue": "The process where animals adapt to survive in changing tide pool conditions",
-      "answer": "What is adaptation?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tide Pool Basics",
-      "clue": "Creatures that cling tightly to rocks to avoid being washed away",
-      "answer": "What do barnacles and mussels do?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tide Pool Basics",
-      "clue": "The container used by marine biologists to safely observe tide pool creatures",
-      "answer": "What is a viewing bucket or aquarium?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Sea Creatures",
-      "clue": "These creatures have a foot they use to cling to rocks - examples include mussels",
-      "answer": "What are mollusks?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Sea Creatures",
-      "clue": "A creature that hides in a shell and snaps closed quickly - like a clam",
-      "answer": "What is a bivalve?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Sea Creatures",
-      "clue": "The spiny-skinned creatures that include starfish and sea urchins",
-      "answer": "What are echinoderms?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Rocky Shore Habitats",
-      "clue": "The zone between high and low tide where most tide pool creatures live",
-      "answer": "What is the intertidal zone?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Rocky Shore Habitats",
-      "clue": "Green or brown plant-like creatures that grow on rocks and filter feed",
-      "answer": "What are sea anemones?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tides & Water",
-      "clue": "The gravitational pull of the moon causes this ocean phenomenon",
-      "answer": "What are tides?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tides & Water",
-      "clue": "When two tides happen at the same time, creating extra-high and extra-low water",
-      "answer": "What are spring tides?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Beach Exploration",
-      "clue": "The best season to visit tide pools when the tidal range is greatest",
-      "answer": "What is spring or autumn?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Beach Exploration",
-      "clue": "You should never turn over rocks without doing this first",
-      "answer": "What is checking underneath carefully or looking for creatures?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Ocean Life",
-      "clue": "Tiny organisms that form the base of the ocean food chain",
-      "answer": "What is plankton?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Ocean Life",
-      "clue": "A creature that looks like a tube with a ring of tentacles at the top",
-      "answer": "What is a sea anemone or coral?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tide Pool Basics",
-      "clue": "The shells of sea creatures that wash up on beaches",
-      "answer": "What is a seashell?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Sea Creatures",
-      "clue": "A creature with a soft body that often hides in a coiled shell",
-      "answer": "What is a gastropod or snail?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Rocky Shore Habitats",
-      "clue": "The tiny organisms that turn rocks slimy and provide food for grazers",
-      "answer": "What is algae or diatoms?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tides & Water",
-      "clue": "The temperature change in tide pools that can harm sensitive creatures",
-      "answer": "What is thermal stress?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Beach Exploration",
-      "clue": "Always return creatures to their original location and do this to the water",
-      "answer": "What is let them soak gently or return them gradually?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Ocean Life",
-      "clue": "A creature that breathes through gills and has fins - found in tide pools",
-      "answer": "What is a fish?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tide Pool Basics",
-      "clue": "The process of water flowing in and out of tide pools creates this circulation",
-      "answer": "What is water exchange or aeration?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Sea Creatures",
-      "clue": "These creatures use their tube feet to move around tide pools",
-      "answer": "What are starfish or sea stars?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Rocky Shore Habitats",
-      "clue": "The upper rocky area that gets splashed by waves but stays mostly dry",
-      "answer": "What is the upper supratidal zone?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Tides & Water",
-      "clue": "The lowest point the ocean reaches during the tidal cycle",
-      "answer": "What is the lowest low tide?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Beach Exploration",
-      "clue": "The tool used to scrape algae samples and observe tiny creatures",
-      "answer": "What is a net or collection container?",
-      "value": 200
-    },
-    {
-      "level": 2,
-      "category": "Ocean Life",
-      "clue": "A creature with jointed legs and a hard outer shell",
-      "answer": "What is a crustacean?",
-      "value": 200
-    },
-    {
-      "level": 3,
-      "category": "Tide Pool Basics",
-      "clue": "The pH level of tide pools can change due to this gas produced by algae",
-      "answer": "What is oxygen or carbon dioxide?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tide Pool Basics",
-      "clue": "The practice of studying ecosystems and taking measurements without harming them",
-      "answer": "What is non-invasive sampling or observation?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tide Pool Basics",
-      "clue": "Organisms that produce their own food through photosynthesis in tide pools",
-      "answer": "What are primary producers or algae?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Sea Creatures",
-      "clue": "Carnivorous snails that hunt other tide pool creatures",
-      "answer": "What is a murex or predatory snail?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Sea Creatures",
-      "clue": "These creatures lack a backbone and live in tide pools",
-      "answer": "What are invertebrates?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Sea Creatures",
-      "clue": "The larval stage of many tide pool creatures that drifts in ocean currents",
-      "answer": "What is a larva or planula?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Rocky Shore Habitats",
-      "clue": "The relationship where one organism benefits and another is not affected",
-      "answer": "What is commensalism?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Rocky Shore Habitats",
-      "clue": "The process of competition for limited space and food in tide pools",
-      "answer": "What is resource competition?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tides & Water",
-      "clue": "When the sun and moon are not aligned, creating smaller tidal changes",
-      "answer": "What are neap tides?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tides & Water",
-      "clue": "The time when water level changes most rapidly during the tidal cycle",
-      "answer": "What is slack water or tidal slack?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Beach Exploration",
-      "clue": "The tide table tool used to predict when low tide occurs",
-      "answer": "What is a tidal prediction chart or almanac?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Beach Exploration",
-      "clue": "The recommended time to observe tide pools is during this level of tide",
-      "answer": "What is the lowest low tide or spring low tide?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Ocean Life",
-      "clue": "Creatures that feed on detritus and dead organic matter",
-      "answer": "What are detritivores or scavengers?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Ocean Life",
-      "clue": "The feeding strategy where an organism eats only plants",
-      "answer": "What is herbivory?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tide Pool Basics",
-      "clue": "The energy source for most tide pool ecosystems",
-      "answer": "What is the sun?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Sea Creatures",
-      "clue": "These echinoderms can regenerate lost arms over time",
-      "answer": "What are starfish or sea stars?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Rocky Shore Habitats",
-      "clue": "The vertical gradient of different species found from high to low tide",
-      "answer": "What is zonation?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tides & Water",
-      "clue": "The dissolved mineral content that affects animal osmoregulation",
-      "answer": "What is salinity?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Beach Exploration",
-      "clue": "The practice of returning animals exactly where they were found",
-      "answer": "What is responsible collecting or ethical observation?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Ocean Life",
-      "clue": "The relationship where both organisms benefit from living together",
-      "answer": "What is mutualism?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tide Pool Basics",
-      "clue": "The barrier that prevents water loss during low tide for many creatures",
-      "answer": "What is the mucus layer or slime coat?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Sea Creatures",
-      "clue": "Organisms that filter feed by drawing water through their bodies",
-      "answer": "What are filter feeders or suspension feeders?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Rocky Shore Habitats",
-      "clue": "The community of organisms living in tide pools",
-      "answer": "What is a biotic community or ecosystem?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Tides & Water",
-      "clue": "The maximum difference between high and low tide levels",
-      "answer": "What is the tidal range?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Beach Exploration",
-      "clue": "The scientific method step where you make predictions about tide pool life",
-      "answer": "What is hypothesis formation?",
-      "value": 300
-    },
-    {
-      "level": 3,
-      "category": "Ocean Life",
-      "clue": "Organisms that live on the surface or in the upper water column",
-      "answer": "What are pelagic or planktonic organisms?",
-      "value": 300
-    },
-    {
-      "level": 4,
-      "category": "Tide Pool Basics",
-      "clue": "The process where species composition changes over time in newly formed tide pools",
-      "answer": "What is ecological succession?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tide Pool Basics",
-      "clue": "The measurement of dissolved oxygen levels critical for tide pool survival",
-      "answer": "What is oxygen saturation or dissolved oxygen concentration?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tide Pool Basics",
-      "clue": "The phenomenon where more individuals survive if resources are equally distributed",
-      "answer": "What is the lottery hypothesis?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Sea Creatures",
-      "clue": "The specialized appendages starfish use to move and open shells",
-      "answer": "What are tube feet or podia?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Sea Creatures",
-      "clue": "The chemical compound that provides structural support in sea urchin exoskeletons",
-      "answer": "What is calcium carbonate?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Sea Creatures",
-      "clue": "The water-vascular system in echinoderms that functions similarly to a hydraulic system",
-      "answer": "What is the ambulacral system?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Rocky Shore Habitats",
-      "clue": "The niche where Balanus barnacles dominate the mid-intertidal zone",
-      "answer": "What is the barnacle zone?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Rocky Shore Habitats",
-      "clue": "The competitive exclusion where one species prevents another from occupying space",
-      "answer": "What is interspecific competition?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tides & Water",
-      "clue": "The period of approximately 24 hours and 50 minutes between successive tides",
-      "answer": "What is a tidal day or lunar day?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tides & Water",
-      "clue": "The mathematical model that predicts tidal height based on astronomical cycles",
-      "answer": "What is harmonic analysis or tidal prediction?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Beach Exploration",
-      "clue": "The protocol for measuring biodiversity in tide pools using transect sampling",
-      "answer": "What is quadrat sampling?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Beach Exploration",
-      "clue": "The equipment used for quantitatively sampling benthic organisms in tide pools",
-      "answer": "What is a Secchi disk or sampling core?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Ocean Life",
-      "clue": "The feeding strategy involving predation on multiple trophic levels",
-      "answer": "What is omnivory?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Ocean Life",
-      "clue": "The adaptation allowing organisms to regulate internal osmotic pressure",
-      "answer": "What is osmoregulation?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tide Pool Basics",
-      "clue": "The substrate preference affecting which species colonize different tide pool habitats",
-      "answer": "What is habitat selection or substrate preference?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Sea Creatures",
-      "clue": "The shell-dwelling creatures that undergo metamorphosis from planktonic larvae",
-      "answer": "What are bivalves or gastropods?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Rocky Shore Habitats",
-      "clue": "The microhabitat where meiofauna live between sand grains in tide pools",
-      "answer": "What is the interstitial environment or pore water?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tides & Water",
-      "clue": "The effect where tidal currents are deflected by Earth's rotation",
-      "answer": "What is the Coriolis effect?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Beach Exploration",
-      "clue": "The long-term monitoring program that tracks tide pool ecosystem changes",
-      "answer": "What is a longitudinal study or time series analysis?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Ocean Life",
-      "clue": "The stage in the life cycle when larvae settle and metamorphose",
-      "answer": "What is settlement?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tide Pool Basics",
-      "clue": "The resistance to environmental change in tide pool ecosystems",
-      "answer": "What is resilience or resistance?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Sea Creatures",
-      "clue": "The cephalopod adaptation allowing rapid color and texture changes",
-      "answer": "What is chromatophore control?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Rocky Shore Habitats",
-      "clue": "The chemical signaling that influences larval settlement and recruitment",
-      "answer": "What is conspecific attraction or cue detection?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Tides & Water",
-      "clue": "The epipelagic zone depth in open ocean that receives sufficient light",
-      "answer": "What is the euphotic zone?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Beach Exploration",
-      "clue": "The GPS and sonar technology used to map tide pool bathymetry and substrates",
-      "answer": "What is multibeam sonar or LiDAR?",
-      "value": 400
-    },
-    {
-      "level": 4,
-      "category": "Ocean Life",
-      "clue": "The bioluminescent communication system used by some marine organisms",
-      "answer": "What is quorum sensing or bioluminescence?",
-      "value": 400
-    },
-    {
-      "level": 5,
-      "category": "Tide Pool Basics",
-      "clue": "The threshold for ecosystem collapse when a critical species is removed",
-      "answer": "What is the tipping point or critical transition?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tide Pool Basics",
-      "clue": "The metric combining species abundance and presence to assess community structure",
-      "answer": "What is the Shannon diversity index?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tide Pool Basics",
-      "clue": "The process by which keystone species maintain ecosystem stability through predation",
-      "answer": "What is trophic cascade or predation-mediated coexistence?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Sea Creatures",
-      "clue": "The hydraulic locomotion mechanism in echinoderms with actin-myosin fibers",
-      "answer": "What are podial muscles or catch connective tissue?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Sea Creatures",
-      "clue": "The cryptic coloration pattern providing visual camouflage in rocky substrates",
-      "answer": "What is disruptive coloration or background matching?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Sea Creatures",
-      "clue": "The chemoreceptor organs that allow crustaceans to detect predators and mates",
-      "answer": "What are antennules or statocysts?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Rocky Shore Habitats",
-      "clue": "The phenomenon where intermediate disturbance maintains the highest species diversity",
-      "answer": "What is the intermediate disturbance hypothesis?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Rocky Shore Habitats",
-      "clue": "The facilitation effect where pioneer species alter substrate for later arrivals",
-      "answer": "What is ecosystem engineering or niche construction?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tides & Water",
-      "clue": "The amphidromic point where tidal current direction rotates continuously",
-      "answer": "What is cotidal line or amphidromic node?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tides & Water",
-      "clue": "The nonlinear feedback between tidal mixing and density stratification",
-      "answer": "What is tidal straining or advective-diffusive balance?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Beach Exploration",
-      "clue": "The statistical method determining significant differences in species composition",
-      "answer": "What is PERMANOVA or multivariate analysis of variance?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Beach Exploration",
-      "clue": "The acoustic telemetry system tracking organism movement between tide pools",
-      "answer": "What is passive integrated transponder tracking or biotelemetry?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Ocean Life",
-      "clue": "The process where juvenile organisms grow and accumulate biomass differentially",
-      "answer": "What is ontogenetic niche shift?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Ocean Life",
-      "clue": "The neural mechanisms underlying larval phototaxis and geotaxis behavior",
-      "answer": "What are photo-receptors or statocyst organs?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tide Pool Basics",
-      "clue": "The metabolic trade-off where organisms prioritize growth versus stress tolerance",
-      "answer": "What is life-history trade-off or phenotypic plasticity?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Sea Creatures",
-      "clue": "The membrane proteins allowing selective transport against concentration gradients",
-      "answer": "What are active pumps or Na+/K+-ATPase?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Rocky Shore Habitats",
-      "clue": "The allometric relationship between organism size and metabolic rate",
-      "answer": "What is Kleiber's law or metabolic scaling?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tides & Water",
-      "clue": "The stratification gradient affecting nutrient cycling in tide pool water columns",
-      "answer": "What is pycnocline or thermocline?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Beach Exploration",
-      "clue": "The proteomics approach quantifying protein expression under environmental stress",
-      "answer": "What is mass spectrometry or 2D gel electrophoresis?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Ocean Life",
-      "clue": "The epigenetic modifications altering gene expression without DNA sequence changes",
-      "answer": "What are DNA methylation or histone acetylation?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tide Pool Basics",
-      "clue": "The network analysis revealing connectance and robustness of food webs",
-      "answer": "What is complex networks analysis or graph theory?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Sea Creatures",
-      "clue": "The larval dispersal distance influenced by ocean currents and behavioral responses",
-      "answer": "What is larval retention or connectivity?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Rocky Shore Habitats",
-      "clue": "The coevolutionary arms race between shell thickness and predator morphology",
-      "answer": "What is predator-prey coevolution?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Tides & Water",
-      "clue": "The constituent harmonic components used in tidal potential models",
-      "answer": "What are tidal constituents or Darwin constituents?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Beach Exploration",
-      "clue": "The molecular marker analysis revealing population genetic structure and connectivity",
-      "answer": "What is microsatellite genotyping or SNP analysis?",
-      "value": 500
-    },
-    {
-      "level": 5,
-      "category": "Ocean Life",
-      "clue": "The circadian rhythm synchronization with tidal cycles in organisms",
-      "answer": "What is tidal synchronization or semilunar periodicity?",
-      "value": 500
-    },
-    {
-      "level": 6,
-      "category": "Tide Pool Basics",
-      "clue": "The adaptive capacity of communities to maintain functions under cumulative stressors",
-      "answer": "What is functional redundancy or response diversity?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tide Pool Basics",
-      "clue": "The phase lag between tidal forcing and ecosystem productivity response",
-      "answer": "What is ecological hysteresis or time-delay dynamics?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tide Pool Basics",
-      "clue": "The bifurcation analysis revealing critical transitions in community assembly",
-      "answer": "What is catastrophe theory or bifurcation analysis?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Sea Creatures",
-      "clue": "The molecular expression of heat-shock proteins modulating thermal tolerance limits",
-      "answer": "What are HSP70 or molecular chaperones?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Sea Creatures",
-      "clue": "The mechanoreceptor transduction cascade enabling rheotaxis in larval organisms",
-      "answer": "What are TRPN channels or hair cells?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Sea Creatures",
-      "clue": "The allomeric regulation of enzyme kinetics under hypoxic conditions",
-      "answer": "What is allosteric regulation or cooperative binding?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Rocky Shore Habitats",
-      "clue": "The metacommunity assembly rules integrating spatial and temporal dynamics",
-      "answer": "What is neutral community assembly or stochastic niche partitioning?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Rocky Shore Habitats",
-      "clue": "The biodiversity-ecosystem function relationships under resource limitation",
-      "answer": "What is insurance effect or response diversity hypothesis?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tides & Water",
-      "clue": "The Ekman spiral describing shear stress effects on tidal current profiles",
-      "answer": "What is Ekman transport or Ekman boundary layer?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tides & Water",
-      "clue": "The nonlinear shallow-water equations governing tidal wave propagation in estuaries",
-      "answer": "What are shallow-water equations or Saint-Venant equations?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Beach Exploration",
-      "clue": "The genomic sequencing approach revealing cryptic species and population divergence",
-      "answer": "What is whole-genome sequencing or metagenomics?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Beach Exploration",
-      "clue": "The remote sensing technology detecting chlorophyll fluorescence in phytoplankton",
-      "answer": "What is multispectral imaging or pulse-amplitude modulation fluorometry?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Ocean Life",
-      "clue": "The metabolomic profiling identifying stress-responsive metabolite signatures",
-      "answer": "What is nuclear magnetic resonance or liquid chromatography-mass spectrometry?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Ocean Life",
-      "clue": "The calcium isotope fractionation tracing biogeochemical cycling pathways",
-      "answer": "What is isotope ratio mass spectrometry?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tide Pool Basics",
-      "clue": "The consumer-resource feedback loops creating oscillatory population dynamics",
-      "answer": "What are Lotka-Volterra equations or predator-prey cycles?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Sea Creatures",
-      "clue": "The morphogenetic field gradients establishing body axis polarity in development",
-      "answer": "What are morphogen gradients or BMP signaling cascades?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Rocky Shore Habitats",
-      "clue": "The nutrient stoichiometry constraints limiting primary production rates",
-      "answer": "What is Redfield ratio or elemental limitation?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tides & Water",
-      "clue": "The baroclinic instability mechanisms generating internal waves at pycnoclines",
-      "answer": "What are internal gravity waves or Kelvin-Helmholtz instability?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Beach Exploration",
-      "clue": "The particle image velocimetry quantifying microscale turbulent diffusion rates",
-      "answer": "What is PIV analysis or eddy diffusivity estimation?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Ocean Life",
-      "clue": "The transcriptomic analysis revealing co-expression networks under environmental change",
-      "answer": "What is RNA-sequencing or weighted gene correlation network analysis?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tide Pool Basics",
-      "clue": "The stochastic differential equations incorporating environmental noise in population models",
-      "answer": "What are Langevin equations or dynamical systems with noise?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Sea Creatures",
-      "clue": "The vectorial capacity framework assessing disease transmission through biotic vectors",
-      "answer": "What is epidemiological modeling or basic reproduction number?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Rocky Shore Habitats",
-      "clue": "The variational methods optimizing energy allocation in resource competition models",
-      "answer": "What is dynamic energy budget theory or optimal allocation theory?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tides & Water",
-      "clue": "The Navier-Stokes equations with Boussinesq approximation governing fluid dynamics",
-      "answer": "What are hydrostatic equations or Boussinesq mechanics?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Beach Exploration",
-      "clue": "The Bayesian hierarchical models incorporating multi-source environmental data fusion",
-      "answer": "What is data assimilation or Kalman filtering?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Ocean Life",
-      "clue": "The systems biology approach integrating omics data across molecular hierarchies",
-      "answer": "What is systems biology or synthetic biology?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tide Pool Basics",
-      "clue": "The agent-based modeling simulating individual-based decisions and emergent properties",
-      "answer": "What is individual-based modeling or complex adaptive systems?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Sea Creatures",
-      "clue": "The functional trait analysis linking phenotypic variation to ecological performance",
-      "answer": "What is trait-based ecology or phenotypic integration?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Rocky Shore Habitats",
-      "clue": "The null model approaches testing whether community patterns exceed random expectations",
-      "answer": "What is null model testing or standardized effect size?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Tides & Water",
-      "clue": "The spectral analysis decomposing temporal variance across frequency domains",
-      "answer": "What is Fourier analysis or wavelet analysis?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Beach Exploration",
-      "clue": "The maximum entropy production principle predicting non-equilibrium ecosystem states",
-      "answer": "What is non-equilibrium thermodynamics or MEP principle?",
-      "value": 600
-    },
-    {
-      "level": 6,
-      "category": "Ocean Life",
-      "clue": "The information-theoretic approaches quantifying ecological network complexity and entropy",
-      "answer": "What is information entropy or Kullback-Leibler divergence?",
-      "value": 600
-    }
-  ]
+  "category": "Beach Tide Pools",
+  "theme": "beach",
+  "category_id": "beach_tide_pools",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "A pool of water left behind on a rocky beach when the tide goes out",
+        "correctQuestion": "What is a tide pool?",
+        "value": 100
+      },
+      {
+        "clue": "The time of day when ocean water covers the most of the beach",
+        "correctQuestion": "What is high tide?",
+        "value": 100
+      },
+      {
+        "clue": "The time when the ocean water retreats and exposes the beach rocks",
+        "correctQuestion": "What is low tide?",
+        "value": 100
+      },
+      {
+        "clue": "A spiky round creature that looks like a sea ball and moves slowly",
+        "correctQuestion": "What is a sea urchin?",
+        "value": 100
+      },
+      {
+        "clue": "A creature with 8 arms that can change color and hide in small spaces",
+        "correctQuestion": "What is an octopus?",
+        "value": 100
+      },
+      {
+        "clue": "A small crustacean that crawls on rocks and hides under seaweed",
+        "correctQuestion": "What is a crab?",
+        "value": 100
+      },
+      {
+        "clue": "The plants with long strands that float in tide pools",
+        "correctQuestion": "What is seaweed?",
+        "value": 100
+      },
+      {
+        "clue": "Hard rocky formations that stick out from the water",
+        "correctQuestion": "What are rocks?",
+        "value": 100
+      },
+      {
+        "clue": "The salty water that fills the ocean and tide pools",
+        "correctQuestion": "What is seawater?",
+        "value": 100
+      },
+      {
+        "clue": "The regular rising and falling of ocean water caused by the moon",
+        "correctQuestion": "What are tides?",
+        "value": 100
+      },
+      {
+        "clue": "What should you wear on your feet to protect them from sharp rocks?",
+        "correctQuestion": "What are water shoes or sandals?",
+        "value": 100
+      },
+      {
+        "clue": "A tool used to carefully observe small creatures in tide pools",
+        "correctQuestion": "What is a magnifying glass?",
+        "value": 100
+      },
+      {
+        "clue": "An animal with a spiral shell that leaves a slimy trail",
+        "correctQuestion": "What is a snail?",
+        "value": 100
+      },
+      {
+        "clue": "A creature shaped like a star that lives on the ocean floor",
+        "correctQuestion": "What is a starfish?",
+        "value": 100
+      },
+      {
+        "clue": "The soft part of a crab that makes the shell look bumpy",
+        "correctQuestion": "What is an exoskeleton?",
+        "value": 100
+      },
+      {
+        "clue": "A creature that sticks to rocks and looks like a volcano",
+        "correctQuestion": "What is a barnacle?",
+        "value": 100
+      },
+      {
+        "clue": "The line where the ocean meets the rocks and sand",
+        "correctQuestion": "What is the shoreline?",
+        "value": 100
+      },
+      {
+        "clue": "The force that pulls on the ocean and causes tides",
+        "correctQuestion": "What is gravity?",
+        "value": 100
+      },
+      {
+        "clue": "The best time to visit tide pools is when the water is at this level",
+        "correctQuestion": "What is low tide?",
+        "value": 100
+      },
+      {
+        "clue": "A creature that looks like a round pin cushion and lives in tide pools",
+        "correctQuestion": "What is a sea urchin?",
+        "value": 100
+      },
+      {
+        "clue": "The study of animals and plants that live in the ocean",
+        "correctQuestion": "What is marine biology?",
+        "value": 100
+      },
+      {
+        "clue": "A small fish with many spines along its back found in tide pools",
+        "correctQuestion": "What is a stickleback?",
+        "value": 100
+      },
+      {
+        "clue": "The zone of the beach that gets wet when waves crash on rocks",
+        "correctQuestion": "What is the splash zone?",
+        "value": 100
+      },
+      {
+        "clue": "The type of environment that has both salt water and freshwater",
+        "correctQuestion": "What is brackish?",
+        "value": 100
+      },
+      {
+        "clue": "You should never go tide pooling alone - always bring a trusted ___",
+        "correctQuestion": "What is an adult?",
+        "value": 100
+      },
+      {
+        "clue": "A tiny animal that stings and lives in ocean water",
+        "correctQuestion": "What is a jellyfish?",
+        "value": 100
+      },
+      {
+        "clue": "The path the moon takes around the Earth, affecting tides",
+        "correctQuestion": "What is the lunar orbit?",
+        "value": 100
+      },
+      {
+        "clue": "A flatfish that hides on the sandy bottom of tide pools",
+        "correctQuestion": "What is a flounder?",
+        "value": 100
+      },
+      {
+        "clue": "The cracks and crevices where animals hide on rocky shores",
+        "correctQuestion": "What are tide pool refuges or shelters?",
+        "value": 100
+      },
+      {
+        "clue": "The amount of salt in ocean water",
+        "correctQuestion": "What is salinity?",
+        "value": 100
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The process where animals adapt to survive in changing tide pool conditions",
+        "correctQuestion": "What is adaptation?",
+        "value": 200
+      },
+      {
+        "clue": "Creatures that cling tightly to rocks to avoid being washed away",
+        "correctQuestion": "What do barnacles and mussels do?",
+        "value": 200
+      },
+      {
+        "clue": "The container used by marine biologists to safely observe tide pool creatures",
+        "correctQuestion": "What is a viewing bucket or aquarium?",
+        "value": 200
+      },
+      {
+        "clue": "These creatures have a foot they use to cling to rocks - examples include mussels",
+        "correctQuestion": "What are mollusks?",
+        "value": 200
+      },
+      {
+        "clue": "A creature that hides in a shell and snaps closed quickly - like a clam",
+        "correctQuestion": "What is a bivalve?",
+        "value": 200
+      },
+      {
+        "clue": "The spiny-skinned creatures that include starfish and sea urchins",
+        "correctQuestion": "What are echinoderms?",
+        "value": 200
+      },
+      {
+        "clue": "The zone between high and low tide where most tide pool creatures live",
+        "correctQuestion": "What is the intertidal zone?",
+        "value": 200
+      },
+      {
+        "clue": "Green or brown plant-like creatures that grow on rocks and filter feed",
+        "correctQuestion": "What are sea anemones?",
+        "value": 200
+      },
+      {
+        "clue": "The gravitational pull of the moon causes this ocean phenomenon",
+        "correctQuestion": "What are tides?",
+        "value": 200
+      },
+      {
+        "clue": "When two tides happen at the same time, creating extra-high and extra-low water",
+        "correctQuestion": "What are spring tides?",
+        "value": 200
+      },
+      {
+        "clue": "The best season to visit tide pools when the tidal range is greatest",
+        "correctQuestion": "What is spring or autumn?",
+        "value": 200
+      },
+      {
+        "clue": "You should never turn over rocks without doing this first",
+        "correctQuestion": "What is checking underneath carefully or looking for creatures?",
+        "value": 200
+      },
+      {
+        "clue": "Tiny organisms that form the base of the ocean food chain",
+        "correctQuestion": "What is plankton?",
+        "value": 200
+      },
+      {
+        "clue": "A creature that looks like a tube with a ring of tentacles at the top",
+        "correctQuestion": "What is a sea anemone or coral?",
+        "value": 200
+      },
+      {
+        "clue": "The shells of sea creatures that wash up on beaches",
+        "correctQuestion": "What is a seashell?",
+        "value": 200
+      },
+      {
+        "clue": "A creature with a soft body that often hides in a coiled shell",
+        "correctQuestion": "What is a gastropod or snail?",
+        "value": 200
+      },
+      {
+        "clue": "The tiny organisms that turn rocks slimy and provide food for grazers",
+        "correctQuestion": "What is algae or diatoms?",
+        "value": 200
+      },
+      {
+        "clue": "The temperature change in tide pools that can harm sensitive creatures",
+        "correctQuestion": "What is thermal stress?",
+        "value": 200
+      },
+      {
+        "clue": "Always return creatures to their original location and do this to the water",
+        "correctQuestion": "What is let them soak gently or return them gradually?",
+        "value": 200
+      },
+      {
+        "clue": "A creature that breathes through gills and has fins - found in tide pools",
+        "correctQuestion": "What is a fish?",
+        "value": 200
+      },
+      {
+        "clue": "The process of water flowing in and out of tide pools creates this circulation",
+        "correctQuestion": "What is water exchange or aeration?",
+        "value": 200
+      },
+      {
+        "clue": "These creatures use their tube feet to move around tide pools",
+        "correctQuestion": "What are starfish or sea stars?",
+        "value": 200
+      },
+      {
+        "clue": "The upper rocky area that gets splashed by waves but stays mostly dry",
+        "correctQuestion": "What is the upper supratidal zone?",
+        "value": 200
+      },
+      {
+        "clue": "The lowest point the ocean reaches during the tidal cycle",
+        "correctQuestion": "What is the lowest low tide?",
+        "value": 200
+      },
+      {
+        "clue": "The tool used to scrape algae samples and observe tiny creatures",
+        "correctQuestion": "What is a net or collection container?",
+        "value": 200
+      },
+      {
+        "clue": "A creature with jointed legs and a hard outer shell",
+        "correctQuestion": "What is a crustacean?",
+        "value": 200
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "The pH level of tide pools can change due to this gas produced by algae",
+        "correctQuestion": "What is oxygen or carbon dioxide?",
+        "value": 300
+      },
+      {
+        "clue": "The practice of studying ecosystems and taking measurements without harming them",
+        "correctQuestion": "What is non-invasive sampling or observation?",
+        "value": 300
+      },
+      {
+        "clue": "Organisms that produce their own food through photosynthesis in tide pools",
+        "correctQuestion": "What are primary producers or algae?",
+        "value": 300
+      },
+      {
+        "clue": "Carnivorous snails that hunt other tide pool creatures",
+        "correctQuestion": "What is a murex or predatory snail?",
+        "value": 300
+      },
+      {
+        "clue": "These creatures lack a backbone and live in tide pools",
+        "correctQuestion": "What are invertebrates?",
+        "value": 300
+      },
+      {
+        "clue": "The larval stage of many tide pool creatures that drifts in ocean currents",
+        "correctQuestion": "What is a larva or planula?",
+        "value": 300
+      },
+      {
+        "clue": "The relationship where one organism benefits and another is not affected",
+        "correctQuestion": "What is commensalism?",
+        "value": 300
+      },
+      {
+        "clue": "The process of competition for limited space and food in tide pools",
+        "correctQuestion": "What is resource competition?",
+        "value": 300
+      },
+      {
+        "clue": "When the sun and moon are not aligned, creating smaller tidal changes",
+        "correctQuestion": "What are neap tides?",
+        "value": 300
+      },
+      {
+        "clue": "The time when water level changes most rapidly during the tidal cycle",
+        "correctQuestion": "What is slack water or tidal slack?",
+        "value": 300
+      },
+      {
+        "clue": "The tide table tool used to predict when low tide occurs",
+        "correctQuestion": "What is a tidal prediction chart or almanac?",
+        "value": 300
+      },
+      {
+        "clue": "The recommended time to observe tide pools is during this level of tide",
+        "correctQuestion": "What is the lowest low tide or spring low tide?",
+        "value": 300
+      },
+      {
+        "clue": "Creatures that feed on detritus and dead organic matter",
+        "correctQuestion": "What are detritivores or scavengers?",
+        "value": 300
+      },
+      {
+        "clue": "The feeding strategy where an organism eats only plants",
+        "correctQuestion": "What is herbivory?",
+        "value": 300
+      },
+      {
+        "clue": "The energy source for most tide pool ecosystems",
+        "correctQuestion": "What is the sun?",
+        "value": 300
+      },
+      {
+        "clue": "These echinoderms can regenerate lost arms over time",
+        "correctQuestion": "What are starfish or sea stars?",
+        "value": 300
+      },
+      {
+        "clue": "The vertical gradient of different species found from high to low tide",
+        "correctQuestion": "What is zonation?",
+        "value": 300
+      },
+      {
+        "clue": "The dissolved mineral content that affects animal osmoregulation",
+        "correctQuestion": "What is salinity?",
+        "value": 300
+      },
+      {
+        "clue": "The practice of returning animals exactly where they were found",
+        "correctQuestion": "What is responsible collecting or ethical observation?",
+        "value": 300
+      },
+      {
+        "clue": "The relationship where both organisms benefit from living together",
+        "correctQuestion": "What is mutualism?",
+        "value": 300
+      },
+      {
+        "clue": "The barrier that prevents water loss during low tide for many creatures",
+        "correctQuestion": "What is the mucus layer or slime coat?",
+        "value": 300
+      },
+      {
+        "clue": "Organisms that filter feed by drawing water through their bodies",
+        "correctQuestion": "What are filter feeders or suspension feeders?",
+        "value": 300
+      },
+      {
+        "clue": "The community of organisms living in tide pools",
+        "correctQuestion": "What is a biotic community or ecosystem?",
+        "value": 300
+      },
+      {
+        "clue": "The maximum difference between high and low tide levels",
+        "correctQuestion": "What is the tidal range?",
+        "value": 300
+      },
+      {
+        "clue": "The scientific method step where you make predictions about tide pool life",
+        "correctQuestion": "What is hypothesis formation?",
+        "value": 300
+      },
+      {
+        "clue": "Organisms that live on the surface or in the upper water column",
+        "correctQuestion": "What are pelagic or planktonic organisms?",
+        "value": 300
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The process where species composition changes over time in newly formed tide pools",
+        "correctQuestion": "What is ecological succession?",
+        "value": 400
+      },
+      {
+        "clue": "The measurement of dissolved oxygen levels critical for tide pool survival",
+        "correctQuestion": "What is oxygen saturation or dissolved oxygen concentration?",
+        "value": 400
+      },
+      {
+        "clue": "The phenomenon where more individuals survive if resources are equally distributed",
+        "correctQuestion": "What is the lottery hypothesis?",
+        "value": 400
+      },
+      {
+        "clue": "The specialized appendages starfish use to move and open shells",
+        "correctQuestion": "What are tube feet or podia?",
+        "value": 400
+      },
+      {
+        "clue": "The chemical compound that provides structural support in sea urchin exoskeletons",
+        "correctQuestion": "What is calcium carbonate?",
+        "value": 400
+      },
+      {
+        "clue": "The water-vascular system in echinoderms that functions similarly to a hydraulic system",
+        "correctQuestion": "What is the ambulacral system?",
+        "value": 400
+      },
+      {
+        "clue": "The niche where Balanus barnacles dominate the mid-intertidal zone",
+        "correctQuestion": "What is the barnacle zone?",
+        "value": 400
+      },
+      {
+        "clue": "The competitive exclusion where one species prevents another from occupying space",
+        "correctQuestion": "What is interspecific competition?",
+        "value": 400
+      },
+      {
+        "clue": "The period of approximately 24 hours and 50 minutes between successive tides",
+        "correctQuestion": "What is a tidal day or lunar day?",
+        "value": 400
+      },
+      {
+        "clue": "The mathematical model that predicts tidal height based on astronomical cycles",
+        "correctQuestion": "What is harmonic analysis or tidal prediction?",
+        "value": 400
+      },
+      {
+        "clue": "The protocol for measuring biodiversity in tide pools using transect sampling",
+        "correctQuestion": "What is quadrat sampling?",
+        "value": 400
+      },
+      {
+        "clue": "The equipment used for quantitatively sampling benthic organisms in tide pools",
+        "correctQuestion": "What is a Secchi disk or sampling core?",
+        "value": 400
+      },
+      {
+        "clue": "The feeding strategy involving predation on multiple trophic levels",
+        "correctQuestion": "What is omnivory?",
+        "value": 400
+      },
+      {
+        "clue": "The adaptation allowing organisms to regulate internal osmotic pressure",
+        "correctQuestion": "What is osmoregulation?",
+        "value": 400
+      },
+      {
+        "clue": "The substrate preference affecting which species colonize different tide pool habitats",
+        "correctQuestion": "What is habitat selection or substrate preference?",
+        "value": 400
+      },
+      {
+        "clue": "The shell-dwelling creatures that undergo metamorphosis from planktonic larvae",
+        "correctQuestion": "What are bivalves or gastropods?",
+        "value": 400
+      },
+      {
+        "clue": "The microhabitat where meiofauna live between sand grains in tide pools",
+        "correctQuestion": "What is the interstitial environment or pore water?",
+        "value": 400
+      },
+      {
+        "clue": "The effect where tidal currents are deflected by Earth's rotation",
+        "correctQuestion": "What is the Coriolis effect?",
+        "value": 400
+      },
+      {
+        "clue": "The long-term monitoring program that tracks tide pool ecosystem changes",
+        "correctQuestion": "What is a longitudinal study or time series analysis?",
+        "value": 400
+      },
+      {
+        "clue": "The stage in the life cycle when larvae settle and metamorphose",
+        "correctQuestion": "What is settlement?",
+        "value": 400
+      },
+      {
+        "clue": "The resistance to environmental change in tide pool ecosystems",
+        "correctQuestion": "What is resilience or resistance?",
+        "value": 400
+      },
+      {
+        "clue": "The cephalopod adaptation allowing rapid color and texture changes",
+        "correctQuestion": "What is chromatophore control?",
+        "value": 400
+      },
+      {
+        "clue": "The chemical signaling that influences larval settlement and recruitment",
+        "correctQuestion": "What is conspecific attraction or cue detection?",
+        "value": 400
+      },
+      {
+        "clue": "The epipelagic zone depth in open ocean that receives sufficient light",
+        "correctQuestion": "What is the euphotic zone?",
+        "value": 400
+      },
+      {
+        "clue": "The GPS and sonar technology used to map tide pool bathymetry and substrates",
+        "correctQuestion": "What is multibeam sonar or LiDAR?",
+        "value": 400
+      },
+      {
+        "clue": "The bioluminescent communication system used by some marine organisms",
+        "correctQuestion": "What is quorum sensing or bioluminescence?",
+        "value": 400
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "The threshold for ecosystem collapse when a critical species is removed",
+        "correctQuestion": "What is the tipping point or critical transition?",
+        "value": 500
+      },
+      {
+        "clue": "The metric combining species abundance and presence to assess community structure",
+        "correctQuestion": "What is the Shannon diversity index?",
+        "value": 500
+      },
+      {
+        "clue": "The process by which keystone species maintain ecosystem stability through predation",
+        "correctQuestion": "What is trophic cascade or predation-mediated coexistence?",
+        "value": 500
+      },
+      {
+        "clue": "The hydraulic locomotion mechanism in echinoderms with actin-myosin fibers",
+        "correctQuestion": "What are podial muscles or catch connective tissue?",
+        "value": 500
+      },
+      {
+        "clue": "The cryptic coloration pattern providing visual camouflage in rocky substrates",
+        "correctQuestion": "What is disruptive coloration or background matching?",
+        "value": 500
+      },
+      {
+        "clue": "The chemoreceptor organs that allow crustaceans to detect predators and mates",
+        "correctQuestion": "What are antennules or statocysts?",
+        "value": 500
+      },
+      {
+        "clue": "The phenomenon where intermediate disturbance maintains the highest species diversity",
+        "correctQuestion": "What is the intermediate disturbance hypothesis?",
+        "value": 500
+      },
+      {
+        "clue": "The facilitation effect where pioneer species alter substrate for later arrivals",
+        "correctQuestion": "What is ecosystem engineering or niche construction?",
+        "value": 500
+      },
+      {
+        "clue": "The amphidromic point where tidal current direction rotates continuously",
+        "correctQuestion": "What is cotidal line or amphidromic node?",
+        "value": 500
+      },
+      {
+        "clue": "The nonlinear feedback between tidal mixing and density stratification",
+        "correctQuestion": "What is tidal straining or advective-diffusive balance?",
+        "value": 500
+      },
+      {
+        "clue": "The statistical method determining significant differences in species composition",
+        "correctQuestion": "What is PERMANOVA or multivariate analysis of variance?",
+        "value": 500
+      },
+      {
+        "clue": "The acoustic telemetry system tracking organism movement between tide pools",
+        "correctQuestion": "What is passive integrated transponder tracking or biotelemetry?",
+        "value": 500
+      },
+      {
+        "clue": "The process where juvenile organisms grow and accumulate biomass differentially",
+        "correctQuestion": "What is ontogenetic niche shift?",
+        "value": 500
+      },
+      {
+        "clue": "The neural mechanisms underlying larval phototaxis and geotaxis behavior",
+        "correctQuestion": "What are photo-receptors or statocyst organs?",
+        "value": 500
+      },
+      {
+        "clue": "The metabolic trade-off where organisms prioritize growth versus stress tolerance",
+        "correctQuestion": "What is life-history trade-off or phenotypic plasticity?",
+        "value": 500
+      },
+      {
+        "clue": "The membrane proteins allowing selective transport against concentration gradients",
+        "correctQuestion": "What are active pumps or Na+/K+-ATPase?",
+        "value": 500
+      },
+      {
+        "clue": "The allometric relationship between organism size and metabolic rate",
+        "correctQuestion": "What is Kleiber's law or metabolic scaling?",
+        "value": 500
+      },
+      {
+        "clue": "The stratification gradient affecting nutrient cycling in tide pool water columns",
+        "correctQuestion": "What is pycnocline or thermocline?",
+        "value": 500
+      },
+      {
+        "clue": "The proteomics approach quantifying protein expression under environmental stress",
+        "correctQuestion": "What is mass spectrometry or 2D gel electrophoresis?",
+        "value": 500
+      },
+      {
+        "clue": "The epigenetic modifications altering gene expression without DNA sequence changes",
+        "correctQuestion": "What are DNA methylation or histone acetylation?",
+        "value": 500
+      },
+      {
+        "clue": "The network analysis revealing connectance and robustness of food webs",
+        "correctQuestion": "What is complex networks analysis or graph theory?",
+        "value": 500
+      },
+      {
+        "clue": "The larval dispersal distance influenced by ocean currents and behavioral responses",
+        "correctQuestion": "What is larval retention or connectivity?",
+        "value": 500
+      },
+      {
+        "clue": "The coevolutionary arms race between shell thickness and predator morphology",
+        "correctQuestion": "What is predator-prey coevolution?",
+        "value": 500
+      },
+      {
+        "clue": "The constituent harmonic components used in tidal potential models",
+        "correctQuestion": "What are tidal constituents or Darwin constituents?",
+        "value": 500
+      },
+      {
+        "clue": "The molecular marker analysis revealing population genetic structure and connectivity",
+        "correctQuestion": "What is microsatellite genotyping or SNP analysis?",
+        "value": 500
+      },
+      {
+        "clue": "The circadian rhythm synchronization with tidal cycles in organisms",
+        "correctQuestion": "What is tidal synchronization or semilunar periodicity?",
+        "value": 500
+      },
+      {
+        "clue": "The adaptive capacity of communities to maintain functions under cumulative stressors",
+        "correctQuestion": "What is functional redundancy or response diversity?",
+        "value": 600
+      },
+      {
+        "clue": "The phase lag between tidal forcing and ecosystem productivity response",
+        "correctQuestion": "What is ecological hysteresis or time-delay dynamics?",
+        "value": 600
+      },
+      {
+        "clue": "The bifurcation analysis revealing critical transitions in community assembly",
+        "correctQuestion": "What is catastrophe theory or bifurcation analysis?",
+        "value": 600
+      },
+      {
+        "clue": "The molecular expression of heat-shock proteins modulating thermal tolerance limits",
+        "correctQuestion": "What are HSP70 or molecular chaperones?",
+        "value": 600
+      },
+      {
+        "clue": "The mechanoreceptor transduction cascade enabling rheotaxis in larval organisms",
+        "correctQuestion": "What are TRPN channels or hair cells?",
+        "value": 600
+      },
+      {
+        "clue": "The allomeric regulation of enzyme kinetics under hypoxic conditions",
+        "correctQuestion": "What is allosteric regulation or cooperative binding?",
+        "value": 600
+      },
+      {
+        "clue": "The metacommunity assembly rules integrating spatial and temporal dynamics",
+        "correctQuestion": "What is neutral community assembly or stochastic niche partitioning?",
+        "value": 600
+      },
+      {
+        "clue": "The biodiversity-ecosystem function relationships under resource limitation",
+        "correctQuestion": "What is insurance effect or response diversity hypothesis?",
+        "value": 600
+      },
+      {
+        "clue": "The Ekman spiral describing shear stress effects on tidal current profiles",
+        "correctQuestion": "What is Ekman transport or Ekman boundary layer?",
+        "value": 600
+      },
+      {
+        "clue": "The nonlinear shallow-water equations governing tidal wave propagation in estuaries",
+        "correctQuestion": "What are shallow-water equations or Saint-Venant equations?",
+        "value": 600
+      },
+      {
+        "clue": "The genomic sequencing approach revealing cryptic species and population divergence",
+        "correctQuestion": "What is whole-genome sequencing or metagenomics?",
+        "value": 600
+      },
+      {
+        "clue": "The remote sensing technology detecting chlorophyll fluorescence in phytoplankton",
+        "correctQuestion": "What is multispectral imaging or pulse-amplitude modulation fluorometry?",
+        "value": 600
+      },
+      {
+        "clue": "The metabolomic profiling identifying stress-responsive metabolite signatures",
+        "correctQuestion": "What is nuclear magnetic resonance or liquid chromatography-mass spectrometry?",
+        "value": 600
+      },
+      {
+        "clue": "The calcium isotope fractionation tracing biogeochemical cycling pathways",
+        "correctQuestion": "What is isotope ratio mass spectrometry?",
+        "value": 600
+      },
+      {
+        "clue": "The consumer-resource feedback loops creating oscillatory population dynamics",
+        "correctQuestion": "What are Lotka-Volterra equations or predator-prey cycles?",
+        "value": 600
+      },
+      {
+        "clue": "The morphogenetic field gradients establishing body axis polarity in development",
+        "correctQuestion": "What are morphogen gradients or BMP signaling cascades?",
+        "value": 600
+      },
+      {
+        "clue": "The nutrient stoichiometry constraints limiting primary production rates",
+        "correctQuestion": "What is Redfield ratio or elemental limitation?",
+        "value": 600
+      },
+      {
+        "clue": "The baroclinic instability mechanisms generating internal waves at pycnoclines",
+        "correctQuestion": "What are internal gravity waves or Kelvin-Helmholtz instability?",
+        "value": 600
+      },
+      {
+        "clue": "The particle image velocimetry quantifying microscale turbulent diffusion rates",
+        "correctQuestion": "What is PIV analysis or eddy diffusivity estimation?",
+        "value": 600
+      },
+      {
+        "clue": "The transcriptomic analysis revealing co-expression networks under environmental change",
+        "correctQuestion": "What is RNA-sequencing or weighted gene correlation network analysis?",
+        "value": 600
+      },
+      {
+        "clue": "The stochastic differential equations incorporating environmental noise in population models",
+        "correctQuestion": "What are Langevin equations or dynamical systems with noise?",
+        "value": 600
+      },
+      {
+        "clue": "The vectorial capacity framework assessing disease transmission through biotic vectors",
+        "correctQuestion": "What is epidemiological modeling or basic reproduction number?",
+        "value": 600
+      },
+      {
+        "clue": "The variational methods optimizing energy allocation in resource competition models",
+        "correctQuestion": "What is dynamic energy budget theory or optimal allocation theory?",
+        "value": 600
+      },
+      {
+        "clue": "The Navier-Stokes equations with Boussinesq approximation governing fluid dynamics",
+        "correctQuestion": "What are hydrostatic equations or Boussinesq mechanics?",
+        "value": 600
+      },
+      {
+        "clue": "The Bayesian hierarchical models incorporating multi-source environmental data fusion",
+        "correctQuestion": "What is data assimilation or Kalman filtering?",
+        "value": 600
+      },
+      {
+        "clue": "The systems biology approach integrating omics data across molecular hierarchies",
+        "correctQuestion": "What is systems biology or synthetic biology?",
+        "value": 600
+      },
+      {
+        "clue": "The agent-based modeling simulating individual-based decisions and emergent properties",
+        "correctQuestion": "What is individual-based modeling or complex adaptive systems?",
+        "value": 600
+      },
+      {
+        "clue": "The functional trait analysis linking phenotypic variation to ecological performance",
+        "correctQuestion": "What is trait-based ecology or phenotypic integration?",
+        "value": 600
+      },
+      {
+        "clue": "The null model approaches testing whether community patterns exceed random expectations",
+        "correctQuestion": "What is null model testing or standardized effect size?",
+        "value": 600
+      },
+      {
+        "clue": "The spectral analysis decomposing temporal variance across frequency domains",
+        "correctQuestion": "What is Fourier analysis or wavelet analysis?",
+        "value": 600
+      },
+      {
+        "clue": "The maximum entropy production principle predicting non-equilibrium ecosystem states",
+        "correctQuestion": "What is non-equilibrium thermodynamics or MEP principle?",
+        "value": 600
+      },
+      {
+        "clue": "The information-theoretic approaches quantifying ecological network complexity and entropy",
+        "correctQuestion": "What is information entropy or Kullback-Leibler divergence?",
+        "value": 600
+      }
+    ]
+  }
 }

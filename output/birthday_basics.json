@@ -1,308 +1,167 @@
 {
   "category": "Birthday Basics",
-  "description": "Essential birthday traditions, customs, and celebrations",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "This Roman candle on top of a birthday cake makes a wish come true",
-      "answer": "What is a candle?"
-    },
-    {
-      "points": 200,
-      "clue": "Traditional birthday song that starts with 'Happy...'",
-      "answer": "What is Happy Birthday to You?"
-    },
-    {
-      "points": 200,
-      "clue": "Wrapped presents given to celebrate someone's special day",
-      "answer": "What are gifts?"
-    },
-    {
-      "points": 200,
-      "clue": "Sweet dessert typically served at birthday parties",
-      "answer": "What is cake?"
-    },
-    {
-      "points": 200,
-      "clue": "Colorful decorations blown up to fill party spaces",
-      "answer": "What are balloons?"
-    },
-    {
-      "points": 200,
-      "clue": "The day and month a person was born",
-      "answer": "What is a birthday?"
-    },
-    {
-      "points": 400,
-      "clue": "The tradition of blowing out all candles while making a secret wish",
-      "answer": "What is making a birthday wish?"
-    },
-    {
-      "points": 400,
-      "clue": "Streamers, confetti, and decorations that transform a room for celebrations",
-      "answer": "What are party decorations?"
-    },
-    {
-      "points": 400,
-      "clue": "The gathering of friends and family to celebrate someone's birth",
-      "answer": "What is a birthday party?"
-    },
-    {
-      "points": 400,
-      "clue": "Flat, frosted confection with layers, often chocolate or vanilla",
-      "answer": "What is a birthday cake?"
-    },
-    {
-      "points": 400,
-      "clue": "Number that increases by one on your birthday",
-      "answer": "What is your age?"
-    },
-    {
-      "points": 400,
-      "clue": "Festive hats shaped like cones worn at celebrations",
-      "answer": "What are party hats?"
-    },
-    {
-      "points": 600,
-      "clue": "In many cultures, this milestone birthday marks the transition to adulthood",
-      "answer": "What is 18 (or 21)?"
-    },
-    {
-      "points": 600,
-      "clue": "The ancient Romans celebrated this birth celebration as a religious observance",
-      "answer": "What is a birthday celebration?"
-    },
-    {
-      "points": 600,
-      "clue": "Birthday parties for teenagers often feature these interactive activities",
-      "answer": "What are games?"
-    },
-    {
-      "points": 600,
-      "clue": "Paper or cardstock sent to wish someone a happy birthday",
-      "answer": "What is a birthday card?"
-    },
-    {
-      "points": 600,
-      "clue": "Tradition where the birthday person gets first choice of food",
-      "answer": "What is getting to choose first?"
-    },
-    {
-      "points": 600,
-      "clue": "The glow from lit birthday candles symbolizes this concept",
-      "answer": "What is hope or light?"
-    },
-    {
-      "points": 800,
-      "clue": "In ancient Egypt, this person's birthday was called a 'naming day'",
-      "answer": "What is the Pharaoh's?"
-    },
-    {
-      "points": 800,
-      "clue": "Medieval birthday cakes were often shaped like these astronomical objects",
-      "answer": "What are moons (crescent shapes)?"
-    },
-    {
-      "points": 800,
-      "clue": "The Chinese traditionally celebrate this number of candles for long life symbolism",
-      "answer": "What is an even number?"
-    },
-    {
-      "points": 800,
-      "clue": "Birthday traditions in Victorian times included these scented wax items",
-      "answer": "What are candles?"
-    },
-    {
-      "points": 800,
-      "clue": "This superstition says you must blow out all candles in one breath",
-      "answer": "What is the belief that your wish won't come true (if you don't)?"
-    },
-    {
-      "points": 800,
-      "clue": "Greeks would bake these special round cakes for Artemis with candles",
-      "answer": "What are moon cakes?"
-    },
-    {
-      "points": 1000,
-      "clue": "The tradition of singing 'Happy Birthday' became popular after this 1893 publication",
-      "answer": "What is the songbook publication?"
-    },
-    {
-      "points": 1000,
-      "clue": "In Mesopotamia, only this group of people had their birthdays celebrated",
-      "answer": "What are the gods or royalty?"
-    },
-    {
-      "points": 1000,
-      "clue": "This rite of passage was observed differently across cultures, often at puberty",
-      "answer": "What is coming of age?"
-    },
-    {
-      "points": 1000,
-      "clue": "Medieval England celebrated the birthdays of this social group exclusively",
-      "answer": "What is the nobility?"
-    },
-    {
-      "points": 1000,
-      "clue": "This type of party game where a person is blindfolded originated in medieval times",
-      "answer": "What is blind man's bluff?"
-    },
-    {
-      "points": 1000,
-      "clue": "The tradition of giving birthday gifts dates back to these civilizations",
-      "answer": "What are ancient Egypt, Rome, and Greece?"
-    }
-  ],
-  "no_humanity_clues": [
-    {
-      "points": 200,
-      "clue": "Age you lie about on dating apps",
-      "answer": "What is 29?"
-    },
-    {
-      "points": 200,
-      "clue": "What replaced birthday cards in 2010",
-      "answer": "What is a Facebook post?"
-    },
-    {
-      "points": 200,
-      "clue": "How millennials request birthday money now",
-      "answer": "What is Venmo cash?"
-    },
-    {
-      "points": 200,
-      "clue": "What grandma sends in an email",
-      "answer": "What is a digital greeting card?"
-    },
-    {
-      "points": 200,
-      "clue": "Why nobody remembers your birthday anymore",
-      "answer": "What is no one checks calendars?"
-    },
-    {
-      "points": 200,
-      "clue": "The lie you tell at work about leaving early",
-      "answer": "What is an important appointment?"
-    },
-    {
-      "points": 400,
-      "clue": "What you actually want for your birthday after age 30",
-      "answer": "What is to be left alone?"
-    },
-    {
-      "points": 400,
-      "clue": "Millennial birthday party activity featuring selfies",
-      "answer": "What is Instagram photo shoot?"
-    },
-    {
-      "points": 400,
-      "clue": "Thing your parents got cheaper by ordering online",
-      "answer": "What is your birthday cake?"
-    },
-    {
-      "points": 400,
-      "clue": "Your response when asked what you want for your birthday",
-      "answer": "What is nothing, you're fine?"
-    },
-    {
-      "points": 400,
-      "clue": "What Gen Z does instead of a party",
-      "answer": "What is streams it on TikTok?"
-    },
-    {
-      "points": 400,
-      "clue": "The real gift at adult birthday parties",
-      "answer": "What is expensive wine?"
-    },
-    {
-      "points": 600,
-      "clue": "What you scroll through while pretending to enjoy your birthday",
-      "answer": "What is Instagram?"
-    },
-    {
-      "points": 600,
-      "clue": "The cruel tradition of reminding you you're older",
-      "answer": "What is having another birthday?"
-    },
-    {
-      "points": 600,
-      "clue": "What killed the surprise birthday party in 2015",
-      "answer": "What is everyone having your location turned on?"
-    },
-    {
-      "points": 600,
-      "clue": "Why the drunk uncle skipped your birthday zoom call",
-      "answer": "What is his streaming subscription ran out?"
-    },
-    {
-      "points": 600,
-      "clue": "Modern tradition that costs more than the actual cake",
-      "answer": "What is the custom cake order from Instagram?"
-    },
-    {
-      "points": 600,
-      "clue": "What you pretend to want but secretly hope for",
-      "answer": "What is money?"
-    },
-    {
-      "points": 800,
-      "clue": "Thing you check to see who actually remembered your birthday",
-      "answer": "What is your phone notifications?"
-    },
-    {
-      "points": 800,
-      "clue": "Why the drunk uncle brought expired wine to your party",
-      "answer": "What is inflation made him cheap?"
-    },
-    {
-      "points": 800,
-      "clue": "The part of your birthday everyone forgets",
-      "answer": "What is anything after the cake?"
-    },
-    {
-      "points": 800,
-      "clue": "What Karen demanded at the birthday restaurant",
-      "answer": "What is a free meal for her suffering?"
-    },
-    {
-      "points": 800,
-      "clue": "Modern birthday tradition replacing actual phone calls",
-      "answer": "What is a group text nobody asked for?"
-    },
-    {
-      "points": 800,
-      "clue": "Why you panic when your ex sends you birthday wishes",
-      "answer": "What is they looked you up on Facebook?"
-    },
-    {
-      "points": 1000,
-      "clue": "The real reason your friends threw you a surprise party",
-      "answer": "What is tax write-off as a business expense?"
-    },
-    {
-      "points": 1000,
-      "clue": "What toxic family member brings to sabotage it",
-      "answer": "What is passive aggressive comments?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why the influencer posted your cake with five wrong tags",
-      "answer": "What is to get more engagement?"
-    },
-    {
-      "points": 1000,
-      "clue": "The LinkedIn post nobody wanted to see",
-      "answer": "What is someone celebrating their work anniversary?"
-    },
-    {
-      "points": 1000,
-      "clue": "What the group chat really says after you leave",
-      "answer": "What is should we actually go to this?"
-    },
-    {
-      "points": 1000,
-      "clue": "Modern milestone birthday everyone celebrates except the person having it",
-      "answer": "What is turning 30 or 40?"
-    }
-  ]
+  "theme": "birthday",
+  "category_id": "birthday_basics",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This Roman candle on top of a birthday cake makes a wish come true",
+        "correctQuestion": "What is a candle?",
+        "value": 200
+      },
+      {
+        "clue": "Traditional birthday song that starts with 'Happy...'",
+        "correctQuestion": "What is Happy Birthday to You?",
+        "value": 200
+      },
+      {
+        "clue": "Wrapped presents given to celebrate someone's special day",
+        "correctQuestion": "What are gifts?",
+        "value": 200
+      },
+      {
+        "clue": "Sweet dessert typically served at birthday parties",
+        "correctQuestion": "What is cake?",
+        "value": 200
+      },
+      {
+        "clue": "Colorful decorations blown up to fill party spaces",
+        "correctQuestion": "What are balloons?",
+        "value": 200
+      },
+      {
+        "clue": "The day and month a person was born",
+        "correctQuestion": "What is a birthday?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The tradition of blowing out all candles while making a secret wish",
+        "correctQuestion": "What is making a birthday wish?",
+        "value": 400
+      },
+      {
+        "clue": "Streamers, confetti, and decorations that transform a room for celebrations",
+        "correctQuestion": "What are party decorations?",
+        "value": 400
+      },
+      {
+        "clue": "The gathering of friends and family to celebrate someone's birth",
+        "correctQuestion": "What is a birthday party?",
+        "value": 400
+      },
+      {
+        "clue": "Flat, frosted confection with layers, often chocolate or vanilla",
+        "correctQuestion": "What is a birthday cake?",
+        "value": 400
+      },
+      {
+        "clue": "Number that increases by one on your birthday",
+        "correctQuestion": "What is your age?",
+        "value": 400
+      },
+      {
+        "clue": "Festive hats shaped like cones worn at celebrations",
+        "correctQuestion": "What are party hats?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "In many cultures, this milestone birthday marks the transition to adulthood",
+        "correctQuestion": "What is 18 (or 21)?",
+        "value": 600
+      },
+      {
+        "clue": "The ancient Romans celebrated this birth celebration as a religious observance",
+        "correctQuestion": "What is a birthday celebration?",
+        "value": 600
+      },
+      {
+        "clue": "Birthday parties for teenagers often feature these interactive activities",
+        "correctQuestion": "What are games?",
+        "value": 600
+      },
+      {
+        "clue": "Paper or cardstock sent to wish someone a happy birthday",
+        "correctQuestion": "What is a birthday card?",
+        "value": 600
+      },
+      {
+        "clue": "Tradition where the birthday person gets first choice of food",
+        "correctQuestion": "What is getting to choose first?",
+        "value": 600
+      },
+      {
+        "clue": "The glow from lit birthday candles symbolizes this concept",
+        "correctQuestion": "What is hope or light?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "In ancient Egypt, this person's birthday was called a 'naming day'",
+        "correctQuestion": "What is the Pharaoh's?",
+        "value": 800
+      },
+      {
+        "clue": "Medieval birthday cakes were often shaped like these astronomical objects",
+        "correctQuestion": "What are moons (crescent shapes)?",
+        "value": 800
+      },
+      {
+        "clue": "The Chinese traditionally celebrate this number of candles for long life symbolism",
+        "correctQuestion": "What is an even number?",
+        "value": 800
+      },
+      {
+        "clue": "Birthday traditions in Victorian times included these scented wax items",
+        "correctQuestion": "What are candles?",
+        "value": 800
+      },
+      {
+        "clue": "This superstition says you must blow out all candles in one breath",
+        "correctQuestion": "What is the belief that your wish won't come true (if you don't)?",
+        "value": 800
+      },
+      {
+        "clue": "Greeks would bake these special round cakes for Artemis with candles",
+        "correctQuestion": "What are moon cakes?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "The tradition of singing 'Happy Birthday' became popular after this 1893 publication",
+        "correctQuestion": "What is the songbook publication?",
+        "value": 1000
+      },
+      {
+        "clue": "In Mesopotamia, only this group of people had their birthdays celebrated",
+        "correctQuestion": "What are the gods or royalty?",
+        "value": 1000
+      },
+      {
+        "clue": "This rite of passage was observed differently across cultures, often at puberty",
+        "correctQuestion": "What is coming of age?",
+        "value": 1000
+      },
+      {
+        "clue": "Medieval England celebrated the birthdays of this social group exclusively",
+        "correctQuestion": "What is the nobility?",
+        "value": 1000
+      },
+      {
+        "clue": "This type of party game where a person is blindfolded originated in medieval times",
+        "correctQuestion": "What is blind man's bluff?",
+        "value": 1000
+      },
+      {
+        "clue": "The tradition of giving birthday gifts dates back to these civilizations",
+        "correctQuestion": "What are ancient Egypt, Rome, and Greece?",
+        "value": 1000
+      }
+    ]
+  }
 }

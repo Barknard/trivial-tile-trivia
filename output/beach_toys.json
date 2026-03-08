@@ -1,947 +1,917 @@
 {
-  "title": "Beach Toys Trivia",
-  "description": "Family-friendly questions about beach toys, beach balls, floaties, and water toys",
-  "category": "Beach & Water",
-  "difficulty_levels": 6,
-  "questions_per_level": 30,
-  "total_questions": 180,
-  "format": "Jeopardy",
-  "levels": {
-    "1": {
-      "difficulty": "Very Easy",
-      "point_value": 100,
-      "questions": [
-        {
-          "id": "1_1",
-          "question": "What inflatable item is round, colorful, and often bounced at the beach?",
-          "answer": "Beach ball"
-        },
-        {
-          "id": "1_2",
-          "question": "What device helps you float in the water and looks like a ring?",
-          "answer": "Floatie or inner tube"
-        },
-        {
-          "id": "1_3",
-          "question": "What flat board do you ride on ocean waves?",
-          "answer": "Surfboard"
-        },
-        {
-          "id": "1_4",
-          "question": "What do you use to dig holes in the sand?",
-          "answer": "Shovel or spade"
-        },
-        {
-          "id": "1_5",
-          "question": "What bucket-shaped tool is used to build sandcastles?",
-          "answer": "Pail or bucket"
-        },
-        {
-          "id": "1_6",
-          "question": "What swim outfit do you wear to the beach?",
-          "answer": "Swimsuit or bathing suit"
-        },
-        {
-          "id": "1_7",
-          "question": "What do you use to keep sand out of your beach bag?",
-          "answer": "Mesh bag or net bag"
-        },
-        {
-          "id": "1_8",
-          "question": "What floatie looks like a duck or other animal?",
-          "answer": "Pool float or inflatable float"
-        },
-        {
-          "id": "1_9",
-          "question": "What water toy has a handle and helps you propel through water?",
-          "answer": "Paddle or oar"
-        },
-        {
-          "id": "1_10",
-          "question": "What protective gear prevents sun damage?",
-          "answer": "Sunscreen or sunblock"
-        },
-        {
-          "id": "1_11",
-          "question": "What beach toy makes impressions in the sand?",
-          "answer": "Sand mold or beach mold"
-        },
-        {
-          "id": "1_12",
-          "question": "What flying toy do kids launch into the air at the beach?",
-          "answer": "Kite"
-        },
-        {
-          "id": "1_13",
-          "question": "What container holds water and sand toys?",
-          "answer": "Beach bag or tote"
-        },
-        {
-          "id": "1_14",
-          "question": "What do you wear on your feet to protect from hot sand?",
-          "answer": "Sandals or flip-flops"
-        },
-        {
-          "id": "1_15",
-          "question": "What toy bounces when thrown in the water?",
-          "answer": "Beach ball"
-        },
-        {
-          "id": "1_16",
-          "question": "What foam device helps beginners learn to swim?",
-          "answer": "Kickboard or flotation device"
-        },
-        {
-          "id": "1_17",
-          "question": "What do you use to rake or smooth sand?",
-          "answer": "Rake"
-        },
-        {
-          "id": "1_18",
-          "question": "What inflatable item sits under you in the water?",
-          "answer": "Air mattress or inflatable raft"
-        },
-        {
-          "id": "1_19",
-          "question": "What hat protects your head from the sun?",
-          "answer": "Beach hat, sun hat, or visor"
-        },
-        {
-          "id": "1_20",
-          "question": "What net-like toy catches things in the water?",
-          "answer": "Net or fishing net"
-        },
-        {
-          "id": "1_21",
-          "question": "What frisbee-like toy flies through the air?",
-          "answer": "Frisbee or disc"
-        },
-        {
-          "id": "1_22",
-          "question": "What do you wear over your eyes at the beach?",
-          "answer": "Sunglasses"
-        },
-        {
-          "id": "1_23",
-          "question": "What water toy has a handle and cup for scooping?",
-          "answer": "Water scoop or dipper"
-        },
-        {
-          "id": "1_24",
-          "question": "What small ball is used for beach paddleball?",
-          "answer": "Paddle ball or beach ball"
-        },
-        {
-          "id": "1_25",
-          "question": "What tube floatie goes around your waist?",
-          "answer": "Swim ring or flotation ring"
-        },
-        {
-          "id": "1_26",
-          "question": "What do you spray on your body to rinse off salt water?",
-          "answer": "Fresh water or shower"
-        },
-        {
-          "id": "1_27",
-          "question": "What toy helps you dig deeper in the sand?",
-          "answer": "Shovel"
-        },
-        {
-          "id": "1_28",
-          "question": "What floatie lets you rest while swimming?",
-          "answer": "Float or kickboard"
-        },
-        {
-          "id": "1_29",
-          "question": "What straw hat is often worn at the beach?",
-          "answer": "Sun hat or beach hat"
-        },
-        {
-          "id": "1_30",
-          "question": "What beach toy is shaped like a ring and bounces?",
-          "answer": "Beach ball"
-        }
-      ]
-    },
-    "2": {
-      "difficulty": "Easy",
-      "point_value": 200,
-      "questions": [
-        {
-          "id": "2_1",
-          "question": "What type of beach ball has patches of different colors forming a pattern?",
-          "answer": "Striped beach ball or panel beach ball"
-        },
-        {
-          "id": "2_2",
-          "question": "What inflatable device shaped like an animal helps children float?",
-          "answer": "Animal floatie or pool float"
-        },
-        {
-          "id": "2_3",
-          "question": "What water sport uses a board with straps for your feet?",
-          "answer": "Wakeboarding or water skiing"
-        },
-        {
-          "id": "2_4",
-          "question": "What tool with a long handle helps you collect shells?",
-          "answer": "Sand scoop or beach rake"
-        },
-        {
-          "id": "2_5",
-          "question": "What rubber ring floatie was popular in the 1980s?",
-          "answer": "Inner tube"
-        },
-        {
-          "id": "2_6",
-          "question": "What protective clothing covers your skin from sun?",
-          "answer": "Rash guard or beach shirt"
-        },
-        {
-          "id": "2_7",
-          "question": "What type of floatie fits around your arms?",
-          "answer": "Arm floaties or flotation bands"
-        },
-        {
-          "id": "2_8",
-          "question": "What water toy creates waves when pushed back and forth?",
-          "answer": "Kickboard or water board"
-        },
-        {
-          "id": "2_9",
-          "question": "What game is played with a net and a soft ball at the beach?",
-          "answer": "Volleyball"
-        },
-        {
-          "id": "2_10",
-          "question": "What sand toy creates turrets and towers?",
-          "answer": "Sand molds or bucket molds"
-        },
-        {
-          "id": "2_11",
-          "question": "What floatie is shaped like your head and neck for safety?",
-          "answer": "Head floatie or neck ring"
-        },
-        {
-          "id": "2_12",
-          "question": "What tube-shaped floatie goes under your arms?",
-          "answer": "Water wings or swim rings"
-        },
-        {
-          "id": "2_13",
-          "question": "What collapsible toy can be pumped up quickly?",
-          "answer": "Inflatable raft or air mattress"
-        },
-        {
-          "id": "2_14",
-          "question": "What spray-on product prevents waterlogging of toys?",
-          "answer": "Waterproofing spray or sealant"
-        },
-        {
-          "id": "2_15",
-          "question": "What water toy helps you propel yourself through water?",
-          "answer": "Fins or flippers"
-        },
-        {
-          "id": "2_16",
-          "question": "What diving toy is weighted to sink and retrieve?",
-          "answer": "Diving ring or weighted toy"
-        },
-        {
-          "id": "2_17",
-          "question": "What inflatable device is shaped like an unicorn?",
-          "answer": "Unicorn floatie or pool float"
-        },
-        {
-          "id": "2_18",
-          "question": "What mesh toy holds beach toys while draining water?",
-          "answer": "Mesh bag or net bag"
-        },
-        {
-          "id": "2_19",
-          "question": "What water sport uses a parachute?",
-          "answer": "Parasailing"
-        },
-        {
-          "id": "2_20",
-          "question": "What inflatable device helps you lay flat on water?",
-          "answer": "Air mattress or pool lounger"
-        },
-        {
-          "id": "2_21",
-          "question": "What sand toy has a small handle and wide cup?",
-          "answer": "Sand scoop or beach shovel"
-        },
-        {
-          "id": "2_22",
-          "question": "What water toy makes splashing sounds?",
-          "answer": "Water gun or water blaster"
-        },
-        {
-          "id": "2_23",
-          "question": "What floatie attaches to your chest for visibility?",
-          "answer": "Life jacket or personal flotation device"
-        },
-        {
-          "id": "2_24",
-          "question": "What paddling toy has two handles?",
-          "answer": "Paddle or oar"
-        },
-        {
-          "id": "2_25",
-          "question": "What dome-shaped toy holds sand in place?",
-          "answer": "Sand dome or castle mold"
-        },
-        {
-          "id": "2_26",
-          "question": "What tube-shaped floatie fits around your middle?",
-          "answer": "Swim ring or waist floatie"
-        },
-        {
-          "id": "2_27",
-          "question": "What toy is used in beach badminton?",
-          "answer": "Shuttlecock or birdie"
-        },
-        {
-          "id": "2_28",
-          "question": "What inflatable has a window to see underwater?",
-          "answer": "Observation buoy or underwater viewer"
-        },
-        {
-          "id": "2_29",
-          "question": "What water toy helps you float on your back?",
-          "answer": "Kickboard or floating board"
-        },
-        {
-          "id": "2_30",
-          "question": "What sand toy is used to pack down sand firmly?",
-          "answer": "Tamper or sand compactor"
-        }
-      ]
-    },
-    "3": {
-      "difficulty": "Medium",
-      "point_value": 300,
-      "questions": [
-        {
-          "id": "3_1",
-          "question": "What is the standard diameter of a regulation beach ball in inches?",
-          "answer": "16 to 20 inches (accept 16-20 or approximately 18)"
-        },
-        {
-          "id": "3_2",
-          "question": "What material were the first inflatable pool floats made from in the 1950s?",
-          "answer": "Vinyl or rubberized fabric"
-        },
-        {
-          "id": "3_3",
-          "question": "What water sport combines surfing with a motorized board?",
-          "answer": "Jet ski or personal watercraft"
-        },
-        {
-          "id": "3_4",
-          "question": "What type of floatie is specifically designed for babies learning to swim?",
-          "answer": "Baby swim ring or infant floatie"
-        },
-        {
-          "id": "3_5",
-          "question": "What safety feature prevents beach balls from losing air quickly?",
-          "answer": "Air valve or one-way valve"
-        },
-        {
-          "id": "3_6",
-          "question": "What inflatable device is used in water polo matches?",
-          "answer": "Water polo ball"
-        },
-        {
-          "id": "3_7",
-          "question": "What type of sand toy was invented to make complex patterns?",
-          "answer": "Impression molds or sand shapers"
-        },
-        {
-          "id": "3_8",
-          "question": "What water toy helps strengthen your swimming muscles?",
-          "answer": "Pull buoy or resistance device"
-        },
-        {
-          "id": "3_9",
-          "question": "What inflatable floatie is shaped like a ring with handles?",
-          "answer": "Ring buoy or rescue ring"
-        },
-        {
-          "id": "3_10",
-          "question": "What material makes modern beach toys waterproof and durable?",
-          "answer": "PVC or vinyl"
-        },
-        {
-          "id": "3_11",
-          "question": "What water sport uses an inflatable tube pulled behind a boat?",
-          "answer": "Tubing or water tubing"
-        },
-        {
-          "id": "3_12",
-          "question": "What floatie device helps swimmers practice correct body position?",
-          "answer": "Board or flotation board"
-        },
-        {
-          "id": "3_13",
-          "question": "What type of sand toy has multiple levels for building structures?",
-          "answer": "Tower molds or tiered molds"
-        },
-        {
-          "id": "3_14",
-          "question": "What protective gear prevents ear infections from water?",
-          "answer": "Ear plugs or swim caps"
-        },
-        {
-          "id": "3_15",
-          "question": "What inflatable has a mesh net underneath to hold objects?",
-          "answer": "Floating cooler or net floatie"
-        },
-        {
-          "id": "3_16",
-          "question": "What water toy is used in synchronized swimming competitions?",
-          "answer": "Kickboard or musical accompaniment (accept artistic swimming equipment)"
-        },
-        {
-          "id": "3_17",
-          "question": "What type of floatie provides the most buoyancy for adults?",
-          "answer": "Life jacket or PFD (personal flotation device)"
-        },
-        {
-          "id": "3_18",
-          "question": "What sand toy creates castle walls when filled with sand?",
-          "answer": "Wall molds or brick molds"
-        },
-        {
-          "id": "3_19",
-          "question": "What water sport uses a handheld board and air pump?",
-          "answer": "Stand-up paddleboarding or SUP"
-        },
-        {
-          "id": "3_20",
-          "question": "What inflatable device helps build water confidence in children?",
-          "answer": "Floatie jacket or swim aid"
-        },
-        {
-          "id": "3_21",
-          "question": "What material should beach toys be made from to prevent UV damage?",
-          "answer": "UV-resistant plastic or reinforced vinyl"
-        },
-        {
-          "id": "3_22",
-          "question": "What water toy has air chambers for buoyancy control?",
-          "answer": "Adjustable floatie or air chamber device"
-        },
-        {
-          "id": "3_23",
-          "question": "What sand toy is specifically designed for shell collecting?",
-          "answer": "Shell sifter or sand sieve"
-        },
-        {
-          "id": "3_24",
-          "question": "What floatie is shaped like a donut and designed for stability?",
-          "answer": "Donut floatie or ring floatie"
-        },
-        {
-          "id": "3_25",
-          "question": "What water sport uses a hollow board with foot straps?",
-          "answer": "Kiteboarding or kitesurfing"
-        },
-        {
-          "id": "3_26",
-          "question": "What inflatable toy has see-through sides for visibility?",
-          "answer": "Clear floatie or transparent float"
-        },
-        {
-          "id": "3_27",
-          "question": "What sand toy helps build smooth sand walls?",
-          "answer": "Wall builder or sand leveler"
-        },
-        {
-          "id": "3_28",
-          "question": "What water toy measures water temperature?",
-          "answer": "Thermometer or temperature gauge"
-        },
-        {
-          "id": "3_29",
-          "question": "What floatie device fits snugly around your torso?",
-          "answer": "Swim vest or flotation vest"
-        },
-        {
-          "id": "3_30",
-          "question": "What material prevents mildew on wet beach toys?",
-          "answer": "Antimicrobial coating or treated vinyl"
-        }
-      ]
-    },
-    "4": {
-      "difficulty": "Hard",
-      "point_value": 400,
-      "questions": [
-        {
-          "id": "4_1",
-          "question": "What is the minimum Coast Guard-approved buoyancy rating in pounds for a Type III PFD floatie?",
-          "answer": "Fifteen pounds (or 15 lbs, or 6.8 kg)"
-        },
-        {
-          "id": "4_2",
-          "question": "What specific gravity rating determines whether a floatie sinks or floats?",
-          "answer": "Specific gravity less than 1.0"
-        },
-        {
-          "id": "4_3",
-          "question": "What manufacturing process creates the watertight seams on inflatable beach toys?",
-          "answer": "Radio frequency welding or RF welding"
-        },
-        {
-          "id": "4_4",
-          "question": "What is the optimal PSI (pounds per square inch) for most beach ball inflation?",
-          "answer": "0.6 to 0.8 PSI (or approximately 1 pound pressure)"
-        },
-        {
-          "id": "4_5",
-          "question": "What classification of water toys must pass ISO 13138 safety standards?",
-          "answer": "Inflatable water toys (or children's floaties)"
-        },
-        {
-          "id": "4_6",
-          "question": "What polymer material is used in high-end floaties for puncture resistance?",
-          "answer": "Thermoplastic polyurethane or TPU"
-        },
-        {
-          "id": "4_7",
-          "question": "What hydrodynamic principle explains why kickboards reduce drag?",
-          "answer": "Reduction of form drag or hydrodynamic streamlining"
-        },
-        {
-          "id": "4_8",
-          "question": "What is the buoyancy coefficient that determines weight capacity of a floatie?",
-          "answer": "Water displacement divided by total weight"
-        },
-        {
-          "id": "4_9",
-          "question": "What chemical additive prevents PVC degradation in beach toys?",
-          "answer": "UV stabilizers or hindered amine light stabilizers (HALS)"
-        },
-        {
-          "id": "4_10",
-          "question": "What material composition creates the high-visibility colors in water toys?",
-          "answer": "Fluorescent pigments or day-glo dyes"
-        },
-        {
-          "id": "4_11",
-          "question": "What is the minimum thickness in millimeters for safe inflatable beach toy walls?",
-          "answer": "0.3 to 0.5 millimeters (or approximately 300-500 microns)"
-        },
-        {
-          "id": "4_12",
-          "question": "What manufacturing defect most commonly causes floatie seam failures?",
-          "answer": "Insufficient welding penetration or seal integrity"
-        },
-        {
-          "id": "4_13",
-          "question": "What surface treatment improves grip on wet floaties and boards?",
-          "answer": "Non-slip coating or textured surface treatment"
-        },
-        {
-          "id": "4_14",
-          "question": "What is the recommended inflation method for pressure-sensitive beach toys?",
-          "answer": "Low-pressure hand pump or electric pump under 1.5 PSI"
-        },
-        {
-          "id": "4_15",
-          "question": "What environmental factor causes most beach toy degradation over time?",
-          "answer": "UV radiation or saltwater corrosion"
-        },
-        {
-          "id": "4_16",
-          "question": "What medical condition affects a swimmer's need for specific floatie types?",
-          "answer": "Buoyancy impairment or muscle weakness"
-        },
-        {
-          "id": "4_17",
-          "question": "What is the weight-to-buoyancy ratio that determines safe floatie capacity?",
-          "answer": "75 to 85 percent submersion safety margin"
-        },
-        {
-          "id": "4_18",
-          "question": "What chemical process vulcanizes rubber in traditional floatie construction?",
-          "answer": "Sulfur vulcanization or cross-linking"
-        },
-        {
-          "id": "4_19",
-          "question": "What acoustic property makes some beach balls ideal for hearing-impaired players?",
-          "answer": "High-frequency tones or audible frequency emissions"
-        },
-        {
-          "id": "4_20",
-          "question": "What is the drag coefficient measurement for streamlined water toys?",
-          "answer": "Approximately 0.04 to 0.08 (or low drag coefficient)"
-        },
-        {
-          "id": "4_21",
-          "question": "What ergonomic principle guides the handle design on water paddles?",
-          "answer": "Grip circumference matching hand morphology"
-        },
-        {
-          "id": "4_22",
-          "question": "What pressure-relief mechanism prevents over-inflation damage?",
-          "answer": "Pressure release valve or pop-off valve"
-        },
-        {
-          "id": "4_23",
-          "question": "What biofilm formation risk requires antimicrobial treatment of wet toys?",
-          "answer": "Bacterial colonization or mold growth"
-        },
-        {
-          "id": "4_24",
-          "question": "What material property of floaties determines their temperature flexibility?",
-          "answer": "Glass transition temperature or Tg"
-        },
-        {
-          "id": "4_25",
-          "question": "What is the shear strength requirement for welded seams in beach toy standards?",
-          "answer": "Minimum 50 N/cm (or specified tensile strength)"
-        },
-        {
-          "id": "4_26",
-          "question": "What geometric design principle distributes weight in stability-critical floaties?",
-          "answer": "Center of buoyancy alignment with center of gravity"
-        },
-        {
-          "id": "4_27",
-          "question": "What material coating prevents chlorine damage to beach toy surfaces?",
-          "answer": "Chlorine-resistant sealant or protective coating"
-        },
-        {
-          "id": "4_28",
-          "question": "What is the tensile strength standard in MPa for quality beach ball material?",
-          "answer": "Minimum 5 to 10 MPa (or specified material standard)"
-        },
-        {
-          "id": "4_29",
-          "question": "What hydrodynamic advantage does a kickboard provide over unassisted swimming?",
-          "answer": "Reduced drag and improved flotation efficiency"
-        },
-        {
-          "id": "4_30",
-          "question": "What quality control test ensures floatie air retention for durability?",
-          "answer": "Air retention test or pressure hold test"
-        }
-      ]
-    },
-    "5": {
-      "difficulty": "Very Hard",
-      "point_value": 500,
-      "questions": [
-        {
-          "id": "5_1",
-          "question": "What is the exact air volume displacement needed for a 200-pound adult using a Type II floatie?",
-          "answer": "Approximately 15-20 liters (or 4-5 gallons, accepting 15-25 liters)"
-        },
-        {
-          "id": "5_2",
-          "question": "What is the critical Reynolds number above which turbulent flow affects floatie drag?",
-          "answer": "Approximately 1,000,000 (or 10^6)"
-        },
-        {
-          "id": "5_3",
-          "question": "What specific ISO 8339 standard defines floatie safety for children under 3?",
-          "answer": "Inflatable buoyant aids classification"
-        },
-        {
-          "id": "5_4",
-          "question": "What elastomer modulus rating determines PVC flexibility in extreme temperatures?",
-          "answer": "Storage modulus (G') in the range of 0.5-2.0 MPa"
-        },
-        {
-          "id": "5_5",
-          "question": "What is the specified leakage rate limit in ISO 13219 for sealed floatie valves?",
-          "answer": "Less than 0.05 mL/min (or specified maximum leakage)"
-        },
-        {
-          "id": "5_6",
-          "question": "What thermodynamic principle explains heat transfer in wet beach toy materials?",
-          "answer": "Fourier's law of heat conduction or convective cooling"
-        },
-        {
-          "id": "5_7",
-          "question": "What is the required puncture resistance rating in Joules for commercial floaties?",
-          "answer": "Minimum 5-10 Joules (or specified impact energy)"
-        },
-        {
-          "id": "5_8",
-          "question": "What hydrostatic pressure coefficient determines maximum diving depth for floaties?",
-          "answer": "0.1 bar per meter (or 10 kPa per meter)"
-        },
-        {
-          "id": "5_9",
-          "question": "What is the elongation-at-break percentage required for safe PVC floatie material?",
-          "answer": "Minimum 200-300 percent elongation"
-        },
-        {
-          "id": "5_10",
-          "question": "What polymer crystallinity percentage affects UV resistance in beach toy materials?",
-          "answer": "Low crystallinity (20-40%) improves flexibility and UV resistance"
-        },
-        {
-          "id": "5_11",
-          "question": "What is the specified tensile set retention percentage after 24-hour water immersion?",
-          "answer": "Less than 20-25 percent set (per ASTM D412)"
-        },
-        {
-          "id": "5_12",
-          "question": "What molecular weight distribution of polyurethane provides optimal floatie durability?",
-          "answer": "Bimodal distribution with Mw 1000-3000 g/mol"
-        },
-        {
-          "id": "5_13",
-          "question": "What is the Stokes drag force equation for spherical beach balls in water?",
-          "answer": "F equals 6 pi eta r v (or Stokes drag formula)"
-        },
-        {
-          "id": "5_14",
-          "question": "What surface energy measurement determines coating adhesion on floaty materials?",
-          "answer": "Dyne per centimeter (dyn/cm) or surface tension"
-        },
-        {
-          "id": "5_15",
-          "question": "What is the minimum adhesion peel strength in N/cm for floatie seam bonds?",
-          "answer": "Greater than 50 N/cm (or specified ASTM D1876)"
-        },
-        {
-          "id": "5_16",
-          "question": "What microorganism causes the most damage to waterlogged beach toy foam cores?",
-          "answer": "Pseudomonas aeruginosa or marine bacteria"
-        },
-        {
-          "id": "5_17",
-          "question": "What is the acetone extraction percentage limit for plasticizers in beach toys?",
-          "answer": "Less than 25-30 percent (or specified material standard)"
-        },
-        {
-          "id": "5_18",
-          "question": "What Vicat softening point in Celsius indicates optimal PVC formulation?",
-          "answer": "78-85 degrees Celsius (or 172-185 Fahrenheit)"
-        },
-        {
-          "id": "5_19",
-          "question": "What is the critical stress relaxation time for pressurized beach toy chambers?",
-          "answer": "Greater than 1000 hours under load (or specified durability test)"
-        },
-        {
-          "id": "5_20",
-          "question": "What capillary flow rate measurement predicts water intrusion into floatie seams?",
-          "answer": "Less than 1 mm per hour (or specified penetration rate)"
-        },
-        {
-          "id": "5_21",
-          "question": "What is the required shore hardness rating on the ASTM A scale for floatie material?",
-          "answer": "50-70 Shore A (or specified durometer rating)"
-        },
-        {
-          "id": "5_22",
-          "question": "What gamma irradiation dose sterilizes contaminated beach toys?",
-          "answer": "25-35 kGy (or 2.5-3.5 Mrad)"
-        },
-        {
-          "id": "5_23",
-          "question": "What is the water vapor transmission rate limit in g/m2/24h for floaty materials?",
-          "answer": "Less than 5-10 g/m2/24h (or specified moisture barrier)"
-        },
-        {
-          "id": "5_24",
-          "question": "What dielectric constant of PVC affects electrical properties in conductive floaties?",
-          "answer": "Approximately 3.5-4.5 (relative permittivity)"
-        },
-        {
-          "id": "5_25",
-          "question": "What is the specified oil resistance percentage for sun-exposed beach toy plastics?",
-          "answer": "Greater than 90 percent mass retention"
-        },
-        {
-          "id": "5_26",
-          "question": "What viscosity rating in cSt determines optimal adhesive flow for sealing?",
-          "answer": "50-200 cSt (centistokes) depending on application"
-        },
-        {
-          "id": "5_27",
-          "question": "What is the flammability rating standard for beach toy materials per UL or FAA?",
-          "answer": "UL 94 V-0 or V-1 rating (or FAA flammability standard)"
-        },
-        {
-          "id": "5_28",
-          "question": "What particulate filtration size removes microplastic leachate from floaties?",
-          "answer": "Less than 0.5 microns (or specified nanofiltration)"
-        },
-        {
-          "id": "5_29",
-          "question": "What is the equilibrium moisture absorption percentage for polyurethane floaties?",
-          "answer": "1-3 percent by weight (or specified moisture content)"
-        },
-        {
-          "id": "5_30",
-          "question": "What optical density measurement confirms UV-absorbing additive concentration?",
-          "answer": "OD greater than 0.5 at 365 nanometers"
-        }
-      ]
-    },
-    "6": {
-      "difficulty": "Expert",
-      "point_value": 600,
-      "questions": [
-        {
-          "id": "6_1",
-          "question": "What is the precise molecular structure of polyvinyl chloride that determines its lower critical solution temperature behavior in beach toys?",
-          "answer": "Syndiotactic-rich vinyl chloride polymer with Tm approximately 180-212 degrees Celsius"
-        },
-        {
-          "id": "6_2",
-          "question": "What quantitative relationship exists between Archimedes principle and actual buoyancy coefficient variations in scaled floaties?",
-          "answer": "Buoyancy equals volume times fluid density times gravitational acceleration minus weight; surface area scaling affects pressure distribution"
-        },
-        {
-          "id": "6_3",
-          "question": "What is the exact mechanism of triboelectric charging that can damage electronic floatie sensors?",
-          "answer": "Transfer of electrons between different polymers due to friction, creating surface potentials exceeding 5-10 kV"
-        },
-        {
-          "id": "6_4",
-          "question": "How does cross-linking density affect the glass transition temperature and elasticity of thermoplastic polyurethane floaties?",
-          "answer": "Higher cross-link density increases Tg by 5-15 degrees Celsius and modulus by 50-200 percent"
-        },
-        {
-          "id": "6_5",
-          "question": "What bioaccumulation pathway describes how phthalate plasticizers from floaties enter the marine food web?",
-          "answer": "Leaching into seawater, biosorption by plankton, and trophic transfer to fish and marine mammals"
-        },
-        {
-          "id": "6_6",
-          "question": "What is the critical strain energy release rate in J/m2 for stable crack propagation in floatie materials?",
-          "answer": "Approximately 1-10 kJ/m2 (or specified Fracture Mechanics standard)"
-        },
-        {
-          "id": "6_7",
-          "question": "How does the Stefan problem of moving boundaries affect air bubble coalescence in inflatable beach toys?",
-          "answer": "Diffusional growth of larger bubbles at expense of smaller ones due to pressure difference across curved interfaces"
-        },
-        {
-          "id": "6_8",
-          "question": "What is the precise calculation of cavitation number for floaties operating in varying pressure environments?",
-          "answer": "Sigma equals (P minus vapor pressure) divided by (one-half rho v squared)"
-        },
-        {
-          "id": "6_9",
-          "question": "How do plasticizer migration kinetics follow Fick's second law in beach toy degradation?",
-          "answer": "Concentration gradient driven diffusion rate proportional to diffusion coefficient and concentration gradient cubed"
-        },
-        {
-          "id": "6_10",
-          "question": "What is the quantitative relationship between Tg suppression and oligomeric plasticizer content in PVC formulations?",
-          "answer": "Linear correlation with Tg reduction of approximately 2-4 degrees Celsius per weight percent plasticizer"
-        },
-        {
-          "id": "6_11",
-          "question": "How does the Navier-Stokes equation predict non-Newtonian flow behavior in viscous floatie adhesives?",
-          "answer": "Shear stress and strain rate relationship deviates from linearity for non-Newtonian fluids with power-law behavior"
-        },
-        {
-          "id": "6_12",
-          "question": "What is the exact mechanism of synergistic antioxidant action between phenolic and phosphite stabilizers?",
-          "answer": "Phenolics donate hydrogen to free radicals; phosphites regenerate phenolic radicals while decomposing hydroperoxides"
-        },
-        {
-          "id": "6_13",
-          "question": "How does the Beer-Lambert law quantify UV absorber effectiveness in transparent floatie materials?",
-          "answer": "Absorbance equals extinction coefficient times concentration times path length; exponential reduction of transmitted intensity"
-        },
-        {
-          "id": "6_14",
-          "question": "What is the precise electrochemical mechanism of galvanic corrosion in metal-reinforced beach toy fasteners?",
-          "answer": "Electron transfer from anode (more reactive metal) through external circuit to cathode, with anodic oxidation and cathodic reduction"
-        },
-        {
-          "id": "6_15",
-          "question": "How does osmotic pressure variation affect water sorption into hydrophilic floatie foam cores?",
-          "answer": "Water uptake follows inverse relationship with osmotic pressure differential; maximum at zero external solute concentration"
-        },
-        {
-          "id": "6_16",
-          "question": "What is the quantitative calculation of dynamic viscosity changes in floatie material under non-isothermal conditions?",
-          "answer": "Arrhenius equation with activation energy approximately 50-100 kJ/mol for polymer creep processes"
-        },
-        {
-          "id": "6_17",
-          "question": "How does the Deborah number predict whether floatie materials behave elastically or viscously during rapid deformation?",
-          "answer": "De equals relaxation time divided by observation time; De greater than 1 indicates elastic behavior"
-        },
-        {
-          "id": "6_18",
-          "question": "What is the exact mechanism of photooxidative degradation involving singlet oxygen species in UV-exposed floaties?",
-          "answer": "UV excitation generates triplet oxygen states that abstract allylic hydrogens, creating conjugated diene intermediates leading to chain scission"
-        },
-        {
-          "id": "6_19",
-          "question": "How does the Flory-Huggins interaction parameter predict miscibility of polymer blends in composite floaties?",
-          "answer": "Chi parameter less than 0.5 indicates favorable mixing; negative values show exothermic mixing with improved properties"
-        },
-        {
-          "id": "6_20",
-          "question": "What is the precise molecular weight distribution (Mw/Mn) optimization for floatie polymer mechanical balance?",
-          "answer": "Polydispersity index of 2.5-3.5 provides optimal balance between processability and mechanical properties"
-        },
-        {
-          "id": "6_21",
-          "question": "How does nucleation site concentration affect crystallization kinetics and mechanical properties of floatie polymers?",
-          "answer": "Higher nucleation density (>10^10 sites/cm3) increases crystallization rate and modulus while reducing toughness"
-        },
-        {
-          "id": "6_22",
-          "question": "What is the exact calculation of permselectivity in membranes used for selective water barrier coatings?",
-          "answer": "Permselectivity equals permeability of transported species divided by permeability of competing species"
-        },
-        {
-          "id": "6_23",
-          "question": "How does the Williams-Landel-Ferry equation predict floatie material performance across temperature ranges?",
-          "answer": "Time-temperature superposition using WLF constants C1 and C2; shift factors predict relaxation time variation"
-        },
-        {
-          "id": "6_24",
-          "question": "What is the precise mechanism of environmental stress cracking in chlorine-exposed floatie materials?",
-          "answer": "Penetrant absorption creates stress concentration; combined with applied or residual stress causes brittle fracture at low strain"
-        },
-        {
-          "id": "6_25",
-          "question": "How does the Boltzmann superposition principle apply to long-term creep prediction in floaties?",
-          "answer": "Cumulative strain equals sum of individual strain responses to sequential stress increments, with time-dependent relaxation"
-        },
-        {
-          "id": "6_26",
-          "question": "What is the exact quantitative relationship between molecular entanglement density and floatie tensile strength?",
-          "answer": "Tensile strength approximately proportional to square root of entanglement density; Me (entanglement molecular weight) inversely proportional"
-        },
-        {
-          "id": "6_27",
-          "question": "How does the Mark-Houwink equation relate polymer intrinsic viscosity to molecular weight in floatie material characterization?",
-          "answer": "Intrinsic viscosity equals K times molecular weight to power a; K and a constants depend on polymer-solvent interaction"
-        },
-        {
-          "id": "6_28",
-          "question": "What is the precise mechanism of hydrolytic degradation in polyurethane floaties exposed to moisture and heat?",
-          "answer": "Water molecules attack urethane linkages forming unstable intermediates that decompose to amines and CO2, with ester bonds also vulnerable"
-        },
-        {
-          "id": "6_29",
-          "question": "How does the Mooney-Rivlin constitutive model predict stress-strain behavior of rubber floaties under large deformations?",
-          "answer": "Strain energy equals C1(I1-3) plus C2(I2-3); predicts deviation from Hooke's law with increasing strain"
-        },
-        {
-          "id": "6_30",
-          "question": "What is the exact calculation of surface free energy contributions to adhesive bonding strength in floatie seams?",
-          "answer": "Total surface energy equals sum of dispersion, polar, and hydrogen bonding components; work of adhesion equals interfacial tension reduction"
-        }
-      ]
-    }
+  "category": "Beach Toys Trivia",
+  "theme": "beach",
+  "category_id": "beach_toys",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What inflatable item is round, colorful, and often bounced at the beach?",
+        "correctQuestion": "Beach ball",
+        "value": 100
+      },
+      {
+        "clue": "What device helps you float in the water and looks like a ring?",
+        "correctQuestion": "Floatie or inner tube",
+        "value": 100
+      },
+      {
+        "clue": "What flat board do you ride on ocean waves?",
+        "correctQuestion": "Surfboard",
+        "value": 100
+      },
+      {
+        "clue": "What do you use to dig holes in the sand?",
+        "correctQuestion": "Shovel or spade",
+        "value": 100
+      },
+      {
+        "clue": "What bucket-shaped tool is used to build sandcastles?",
+        "correctQuestion": "Pail or bucket",
+        "value": 100
+      },
+      {
+        "clue": "What swim outfit do you wear to the beach?",
+        "correctQuestion": "Swimsuit or bathing suit",
+        "value": 100
+      },
+      {
+        "clue": "What do you use to keep sand out of your beach bag?",
+        "correctQuestion": "Mesh bag or net bag",
+        "value": 100
+      },
+      {
+        "clue": "What floatie looks like a duck or other animal?",
+        "correctQuestion": "Pool float or inflatable float",
+        "value": 100
+      },
+      {
+        "clue": "What water toy has a handle and helps you propel through water?",
+        "correctQuestion": "Paddle or oar",
+        "value": 100
+      },
+      {
+        "clue": "What protective gear prevents sun damage?",
+        "correctQuestion": "Sunscreen or sunblock",
+        "value": 100
+      },
+      {
+        "clue": "What beach toy makes impressions in the sand?",
+        "correctQuestion": "Sand mold or beach mold",
+        "value": 100
+      },
+      {
+        "clue": "What flying toy do kids launch into the air at the beach?",
+        "correctQuestion": "Kite",
+        "value": 100
+      },
+      {
+        "clue": "What container holds water and sand toys?",
+        "correctQuestion": "Beach bag or tote",
+        "value": 100
+      },
+      {
+        "clue": "What do you wear on your feet to protect from hot sand?",
+        "correctQuestion": "Sandals or flip-flops",
+        "value": 100
+      },
+      {
+        "clue": "What toy bounces when thrown in the water?",
+        "correctQuestion": "Beach ball",
+        "value": 100
+      },
+      {
+        "clue": "What foam device helps beginners learn to swim?",
+        "correctQuestion": "Kickboard or flotation device",
+        "value": 100
+      },
+      {
+        "clue": "What do you use to rake or smooth sand?",
+        "correctQuestion": "Rake",
+        "value": 100
+      },
+      {
+        "clue": "What inflatable item sits under you in the water?",
+        "correctQuestion": "Air mattress or inflatable raft",
+        "value": 100
+      },
+      {
+        "clue": "What hat protects your head from the sun?",
+        "correctQuestion": "Beach hat, sun hat, or visor",
+        "value": 100
+      },
+      {
+        "clue": "What net-like toy catches things in the water?",
+        "correctQuestion": "Net or fishing net",
+        "value": 100
+      },
+      {
+        "clue": "What frisbee-like toy flies through the air?",
+        "correctQuestion": "Frisbee or disc",
+        "value": 100
+      },
+      {
+        "clue": "What do you wear over your eyes at the beach?",
+        "correctQuestion": "Sunglasses",
+        "value": 100
+      },
+      {
+        "clue": "What water toy has a handle and cup for scooping?",
+        "correctQuestion": "Water scoop or dipper",
+        "value": 100
+      },
+      {
+        "clue": "What small ball is used for beach paddleball?",
+        "correctQuestion": "Paddle ball or beach ball",
+        "value": 100
+      },
+      {
+        "clue": "What tube floatie goes around your waist?",
+        "correctQuestion": "Swim ring or flotation ring",
+        "value": 100
+      },
+      {
+        "clue": "What do you spray on your body to rinse off salt water?",
+        "correctQuestion": "Fresh water or shower",
+        "value": 100
+      },
+      {
+        "clue": "What toy helps you dig deeper in the sand?",
+        "correctQuestion": "Shovel",
+        "value": 100
+      },
+      {
+        "clue": "What floatie lets you rest while swimming?",
+        "correctQuestion": "Float or kickboard",
+        "value": 100
+      },
+      {
+        "clue": "What straw hat is often worn at the beach?",
+        "correctQuestion": "Sun hat or beach hat",
+        "value": 100
+      },
+      {
+        "clue": "What beach toy is shaped like a ring and bounces?",
+        "correctQuestion": "Beach ball",
+        "value": 100
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "What type of beach ball has patches of different colors forming a pattern?",
+        "correctQuestion": "Striped beach ball or panel beach ball",
+        "value": 200
+      },
+      {
+        "clue": "What inflatable device shaped like an animal helps children float?",
+        "correctQuestion": "Animal floatie or pool float",
+        "value": 200
+      },
+      {
+        "clue": "What water sport uses a board with straps for your feet?",
+        "correctQuestion": "Wakeboarding or water skiing",
+        "value": 200
+      },
+      {
+        "clue": "What tool with a long handle helps you collect shells?",
+        "correctQuestion": "Sand scoop or beach rake",
+        "value": 200
+      },
+      {
+        "clue": "What rubber ring floatie was popular in the 1980s?",
+        "correctQuestion": "Inner tube",
+        "value": 200
+      },
+      {
+        "clue": "What protective clothing covers your skin from sun?",
+        "correctQuestion": "Rash guard or beach shirt",
+        "value": 200
+      },
+      {
+        "clue": "What type of floatie fits around your arms?",
+        "correctQuestion": "Arm floaties or flotation bands",
+        "value": 200
+      },
+      {
+        "clue": "What water toy creates waves when pushed back and forth?",
+        "correctQuestion": "Kickboard or water board",
+        "value": 200
+      },
+      {
+        "clue": "What game is played with a net and a soft ball at the beach?",
+        "correctQuestion": "Volleyball",
+        "value": 200
+      },
+      {
+        "clue": "What sand toy creates turrets and towers?",
+        "correctQuestion": "Sand molds or bucket molds",
+        "value": 200
+      },
+      {
+        "clue": "What floatie is shaped like your head and neck for safety?",
+        "correctQuestion": "Head floatie or neck ring",
+        "value": 200
+      },
+      {
+        "clue": "What tube-shaped floatie goes under your arms?",
+        "correctQuestion": "Water wings or swim rings",
+        "value": 200
+      },
+      {
+        "clue": "What collapsible toy can be pumped up quickly?",
+        "correctQuestion": "Inflatable raft or air mattress",
+        "value": 200
+      },
+      {
+        "clue": "What spray-on product prevents waterlogging of toys?",
+        "correctQuestion": "Waterproofing spray or sealant",
+        "value": 200
+      },
+      {
+        "clue": "What water toy helps you propel yourself through water?",
+        "correctQuestion": "Fins or flippers",
+        "value": 200
+      },
+      {
+        "clue": "What diving toy is weighted to sink and retrieve?",
+        "correctQuestion": "Diving ring or weighted toy",
+        "value": 200
+      },
+      {
+        "clue": "What inflatable device is shaped like an unicorn?",
+        "correctQuestion": "Unicorn floatie or pool float",
+        "value": 200
+      },
+      {
+        "clue": "What mesh toy holds beach toys while draining water?",
+        "correctQuestion": "Mesh bag or net bag",
+        "value": 200
+      },
+      {
+        "clue": "What water sport uses a parachute?",
+        "correctQuestion": "Parasailing",
+        "value": 200
+      },
+      {
+        "clue": "What inflatable device helps you lay flat on water?",
+        "correctQuestion": "Air mattress or pool lounger",
+        "value": 200
+      },
+      {
+        "clue": "What sand toy has a small handle and wide cup?",
+        "correctQuestion": "Sand scoop or beach shovel",
+        "value": 200
+      },
+      {
+        "clue": "What water toy makes splashing sounds?",
+        "correctQuestion": "Water gun or water blaster",
+        "value": 200
+      },
+      {
+        "clue": "What floatie attaches to your chest for visibility?",
+        "correctQuestion": "Life jacket or personal flotation device",
+        "value": 200
+      },
+      {
+        "clue": "What paddling toy has two handles?",
+        "correctQuestion": "Paddle or oar",
+        "value": 200
+      },
+      {
+        "clue": "What dome-shaped toy holds sand in place?",
+        "correctQuestion": "Sand dome or castle mold",
+        "value": 200
+      },
+      {
+        "clue": "What tube-shaped floatie fits around your middle?",
+        "correctQuestion": "Swim ring or waist floatie",
+        "value": 200
+      },
+      {
+        "clue": "What toy is used in beach badminton?",
+        "correctQuestion": "Shuttlecock or birdie",
+        "value": 200
+      },
+      {
+        "clue": "What inflatable has a window to see underwater?",
+        "correctQuestion": "Observation buoy or underwater viewer",
+        "value": 200
+      },
+      {
+        "clue": "What water toy helps you float on your back?",
+        "correctQuestion": "Kickboard or floating board",
+        "value": 200
+      },
+      {
+        "clue": "What sand toy is used to pack down sand firmly?",
+        "correctQuestion": "Tamper or sand compactor",
+        "value": 200
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "What is the standard diameter of a regulation beach ball in inches?",
+        "correctQuestion": "16 to 20 inches (accept 16-20 or approximately 18)",
+        "value": 300
+      },
+      {
+        "clue": "What material were the first inflatable pool floats made from in the 1950s?",
+        "correctQuestion": "Vinyl or rubberized fabric",
+        "value": 300
+      },
+      {
+        "clue": "What water sport combines surfing with a motorized board?",
+        "correctQuestion": "Jet ski or personal watercraft",
+        "value": 300
+      },
+      {
+        "clue": "What type of floatie is specifically designed for babies learning to swim?",
+        "correctQuestion": "Baby swim ring or infant floatie",
+        "value": 300
+      },
+      {
+        "clue": "What safety feature prevents beach balls from losing air quickly?",
+        "correctQuestion": "Air valve or one-way valve",
+        "value": 300
+      },
+      {
+        "clue": "What inflatable device is used in water polo matches?",
+        "correctQuestion": "Water polo ball",
+        "value": 300
+      },
+      {
+        "clue": "What type of sand toy was invented to make complex patterns?",
+        "correctQuestion": "Impression molds or sand shapers",
+        "value": 300
+      },
+      {
+        "clue": "What water toy helps strengthen your swimming muscles?",
+        "correctQuestion": "Pull buoy or resistance device",
+        "value": 300
+      },
+      {
+        "clue": "What inflatable floatie is shaped like a ring with handles?",
+        "correctQuestion": "Ring buoy or rescue ring",
+        "value": 300
+      },
+      {
+        "clue": "What material makes modern beach toys waterproof and durable?",
+        "correctQuestion": "PVC or vinyl",
+        "value": 300
+      },
+      {
+        "clue": "What water sport uses an inflatable tube pulled behind a boat?",
+        "correctQuestion": "Tubing or water tubing",
+        "value": 300
+      },
+      {
+        "clue": "What floatie device helps swimmers practice correct body position?",
+        "correctQuestion": "Board or flotation board",
+        "value": 300
+      },
+      {
+        "clue": "What type of sand toy has multiple levels for building structures?",
+        "correctQuestion": "Tower molds or tiered molds",
+        "value": 300
+      },
+      {
+        "clue": "What protective gear prevents ear infections from water?",
+        "correctQuestion": "Ear plugs or swim caps",
+        "value": 300
+      },
+      {
+        "clue": "What inflatable has a mesh net underneath to hold objects?",
+        "correctQuestion": "Floating cooler or net floatie",
+        "value": 300
+      },
+      {
+        "clue": "What water toy is used in synchronized swimming competitions?",
+        "correctQuestion": "Kickboard or musical accompaniment (accept artistic swimming equipment)",
+        "value": 300
+      },
+      {
+        "clue": "What type of floatie provides the most buoyancy for adults?",
+        "correctQuestion": "Life jacket or PFD (personal flotation device)",
+        "value": 300
+      },
+      {
+        "clue": "What sand toy creates castle walls when filled with sand?",
+        "correctQuestion": "Wall molds or brick molds",
+        "value": 300
+      },
+      {
+        "clue": "What water sport uses a handheld board and air pump?",
+        "correctQuestion": "Stand-up paddleboarding or SUP",
+        "value": 300
+      },
+      {
+        "clue": "What inflatable device helps build water confidence in children?",
+        "correctQuestion": "Floatie jacket or swim aid",
+        "value": 300
+      },
+      {
+        "clue": "What material should beach toys be made from to prevent UV damage?",
+        "correctQuestion": "UV-resistant plastic or reinforced vinyl",
+        "value": 300
+      },
+      {
+        "clue": "What water toy has air chambers for buoyancy control?",
+        "correctQuestion": "Adjustable floatie or air chamber device",
+        "value": 300
+      },
+      {
+        "clue": "What sand toy is specifically designed for shell collecting?",
+        "correctQuestion": "Shell sifter or sand sieve",
+        "value": 300
+      },
+      {
+        "clue": "What floatie is shaped like a donut and designed for stability?",
+        "correctQuestion": "Donut floatie or ring floatie",
+        "value": 300
+      },
+      {
+        "clue": "What water sport uses a hollow board with foot straps?",
+        "correctQuestion": "Kiteboarding or kitesurfing",
+        "value": 300
+      },
+      {
+        "clue": "What inflatable toy has see-through sides for visibility?",
+        "correctQuestion": "Clear floatie or transparent float",
+        "value": 300
+      },
+      {
+        "clue": "What sand toy helps build smooth sand walls?",
+        "correctQuestion": "Wall builder or sand leveler",
+        "value": 300
+      },
+      {
+        "clue": "What water toy measures water temperature?",
+        "correctQuestion": "Thermometer or temperature gauge",
+        "value": 300
+      },
+      {
+        "clue": "What floatie device fits snugly around your torso?",
+        "correctQuestion": "Swim vest or flotation vest",
+        "value": 300
+      },
+      {
+        "clue": "What material prevents mildew on wet beach toys?",
+        "correctQuestion": "Antimicrobial coating or treated vinyl",
+        "value": 300
+      }
+    ],
+    "adults": [
+      {
+        "clue": "What is the minimum Coast Guard-approved buoyancy rating in pounds for a Type III PFD floatie?",
+        "correctQuestion": "Fifteen pounds (or 15 lbs, or 6.8 kg)",
+        "value": 400
+      },
+      {
+        "clue": "What specific gravity rating determines whether a floatie sinks or floats?",
+        "correctQuestion": "Specific gravity less than 1.0",
+        "value": 400
+      },
+      {
+        "clue": "What manufacturing process creates the watertight seams on inflatable beach toys?",
+        "correctQuestion": "Radio frequency welding or RF welding",
+        "value": 400
+      },
+      {
+        "clue": "What is the optimal PSI (pounds per square inch) for most beach ball inflation?",
+        "correctQuestion": "0.6 to 0.8 PSI (or approximately 1 pound pressure)",
+        "value": 400
+      },
+      {
+        "clue": "What classification of water toys must pass ISO 13138 safety standards?",
+        "correctQuestion": "Inflatable water toys (or children's floaties)",
+        "value": 400
+      },
+      {
+        "clue": "What polymer material is used in high-end floaties for puncture resistance?",
+        "correctQuestion": "Thermoplastic polyurethane or TPU",
+        "value": 400
+      },
+      {
+        "clue": "What hydrodynamic principle explains why kickboards reduce drag?",
+        "correctQuestion": "Reduction of form drag or hydrodynamic streamlining",
+        "value": 400
+      },
+      {
+        "clue": "What is the buoyancy coefficient that determines weight capacity of a floatie?",
+        "correctQuestion": "Water displacement divided by total weight",
+        "value": 400
+      },
+      {
+        "clue": "What chemical additive prevents PVC degradation in beach toys?",
+        "correctQuestion": "UV stabilizers or hindered amine light stabilizers (HALS)",
+        "value": 400
+      },
+      {
+        "clue": "What material composition creates the high-visibility colors in water toys?",
+        "correctQuestion": "Fluorescent pigments or day-glo dyes",
+        "value": 400
+      },
+      {
+        "clue": "What is the minimum thickness in millimeters for safe inflatable beach toy walls?",
+        "correctQuestion": "0.3 to 0.5 millimeters (or approximately 300-500 microns)",
+        "value": 400
+      },
+      {
+        "clue": "What manufacturing defect most commonly causes floatie seam failures?",
+        "correctQuestion": "Insufficient welding penetration or seal integrity",
+        "value": 400
+      },
+      {
+        "clue": "What surface treatment improves grip on wet floaties and boards?",
+        "correctQuestion": "Non-slip coating or textured surface treatment",
+        "value": 400
+      },
+      {
+        "clue": "What is the recommended inflation method for pressure-sensitive beach toys?",
+        "correctQuestion": "Low-pressure hand pump or electric pump under 1.5 PSI",
+        "value": 400
+      },
+      {
+        "clue": "What environmental factor causes most beach toy degradation over time?",
+        "correctQuestion": "UV radiation or saltwater corrosion",
+        "value": 400
+      },
+      {
+        "clue": "What medical condition affects a swimmer's need for specific floatie types?",
+        "correctQuestion": "Buoyancy impairment or muscle weakness",
+        "value": 400
+      },
+      {
+        "clue": "What is the weight-to-buoyancy ratio that determines safe floatie capacity?",
+        "correctQuestion": "75 to 85 percent submersion safety margin",
+        "value": 400
+      },
+      {
+        "clue": "What chemical process vulcanizes rubber in traditional floatie construction?",
+        "correctQuestion": "Sulfur vulcanization or cross-linking",
+        "value": 400
+      },
+      {
+        "clue": "What acoustic property makes some beach balls ideal for hearing-impaired players?",
+        "correctQuestion": "High-frequency tones or audible frequency emissions",
+        "value": 400
+      },
+      {
+        "clue": "What is the drag coefficient measurement for streamlined water toys?",
+        "correctQuestion": "Approximately 0.04 to 0.08 (or low drag coefficient)",
+        "value": 400
+      },
+      {
+        "clue": "What ergonomic principle guides the handle design on water paddles?",
+        "correctQuestion": "Grip circumference matching hand morphology",
+        "value": 400
+      },
+      {
+        "clue": "What pressure-relief mechanism prevents over-inflation damage?",
+        "correctQuestion": "Pressure release valve or pop-off valve",
+        "value": 400
+      },
+      {
+        "clue": "What biofilm formation risk requires antimicrobial treatment of wet toys?",
+        "correctQuestion": "Bacterial colonization or mold growth",
+        "value": 400
+      },
+      {
+        "clue": "What material property of floaties determines their temperature flexibility?",
+        "correctQuestion": "Glass transition temperature or Tg",
+        "value": 400
+      },
+      {
+        "clue": "What is the shear strength requirement for welded seams in beach toy standards?",
+        "correctQuestion": "Minimum 50 N/cm (or specified tensile strength)",
+        "value": 400
+      },
+      {
+        "clue": "What geometric design principle distributes weight in stability-critical floaties?",
+        "correctQuestion": "Center of buoyancy alignment with center of gravity",
+        "value": 400
+      },
+      {
+        "clue": "What material coating prevents chlorine damage to beach toy surfaces?",
+        "correctQuestion": "Chlorine-resistant sealant or protective coating",
+        "value": 400
+      },
+      {
+        "clue": "What is the tensile strength standard in MPa for quality beach ball material?",
+        "correctQuestion": "Minimum 5 to 10 MPa (or specified material standard)",
+        "value": 400
+      },
+      {
+        "clue": "What hydrodynamic advantage does a kickboard provide over unassisted swimming?",
+        "correctQuestion": "Reduced drag and improved flotation efficiency",
+        "value": 400
+      },
+      {
+        "clue": "What quality control test ensures floatie air retention for durability?",
+        "correctQuestion": "Air retention test or pressure hold test",
+        "value": 400
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "What is the exact air volume displacement needed for a 200-pound adult using a Type II floatie?",
+        "correctQuestion": "Approximately 15-20 liters (or 4-5 gallons, accepting 15-25 liters)",
+        "value": 500
+      },
+      {
+        "clue": "What is the critical Reynolds number above which turbulent flow affects floatie drag?",
+        "correctQuestion": "Approximately 1,000,000 (or 10^6)",
+        "value": 500
+      },
+      {
+        "clue": "What specific ISO 8339 standard defines floatie safety for children under 3?",
+        "correctQuestion": "Inflatable buoyant aids classification",
+        "value": 500
+      },
+      {
+        "clue": "What elastomer modulus rating determines PVC flexibility in extreme temperatures?",
+        "correctQuestion": "Storage modulus (G') in the range of 0.5-2.0 MPa",
+        "value": 500
+      },
+      {
+        "clue": "What is the specified leakage rate limit in ISO 13219 for sealed floatie valves?",
+        "correctQuestion": "Less than 0.05 mL/min (or specified maximum leakage)",
+        "value": 500
+      },
+      {
+        "clue": "What thermodynamic principle explains heat transfer in wet beach toy materials?",
+        "correctQuestion": "Fourier's law of heat conduction or convective cooling",
+        "value": 500
+      },
+      {
+        "clue": "What is the required puncture resistance rating in Joules for commercial floaties?",
+        "correctQuestion": "Minimum 5-10 Joules (or specified impact energy)",
+        "value": 500
+      },
+      {
+        "clue": "What hydrostatic pressure coefficient determines maximum diving depth for floaties?",
+        "correctQuestion": "0.1 bar per meter (or 10 kPa per meter)",
+        "value": 500
+      },
+      {
+        "clue": "What is the elongation-at-break percentage required for safe PVC floatie material?",
+        "correctQuestion": "Minimum 200-300 percent elongation",
+        "value": 500
+      },
+      {
+        "clue": "What polymer crystallinity percentage affects UV resistance in beach toy materials?",
+        "correctQuestion": "Low crystallinity (20-40%) improves flexibility and UV resistance",
+        "value": 500
+      },
+      {
+        "clue": "What is the specified tensile set retention percentage after 24-hour water immersion?",
+        "correctQuestion": "Less than 20-25 percent set (per ASTM D412)",
+        "value": 500
+      },
+      {
+        "clue": "What molecular weight distribution of polyurethane provides optimal floatie durability?",
+        "correctQuestion": "Bimodal distribution with Mw 1000-3000 g/mol",
+        "value": 500
+      },
+      {
+        "clue": "What is the Stokes drag force equation for spherical beach balls in water?",
+        "correctQuestion": "F equals 6 pi eta r v (or Stokes drag formula)",
+        "value": 500
+      },
+      {
+        "clue": "What surface energy measurement determines coating adhesion on floaty materials?",
+        "correctQuestion": "Dyne per centimeter (dyn/cm) or surface tension",
+        "value": 500
+      },
+      {
+        "clue": "What is the minimum adhesion peel strength in N/cm for floatie seam bonds?",
+        "correctQuestion": "Greater than 50 N/cm (or specified ASTM D1876)",
+        "value": 500
+      },
+      {
+        "clue": "What microorganism causes the most damage to waterlogged beach toy foam cores?",
+        "correctQuestion": "Pseudomonas aeruginosa or marine bacteria",
+        "value": 500
+      },
+      {
+        "clue": "What is the acetone extraction percentage limit for plasticizers in beach toys?",
+        "correctQuestion": "Less than 25-30 percent (or specified material standard)",
+        "value": 500
+      },
+      {
+        "clue": "What Vicat softening point in Celsius indicates optimal PVC formulation?",
+        "correctQuestion": "78-85 degrees Celsius (or 172-185 Fahrenheit)",
+        "value": 500
+      },
+      {
+        "clue": "What is the critical stress relaxation time for pressurized beach toy chambers?",
+        "correctQuestion": "Greater than 1000 hours under load (or specified durability test)",
+        "value": 500
+      },
+      {
+        "clue": "What capillary flow rate measurement predicts water intrusion into floatie seams?",
+        "correctQuestion": "Less than 1 mm per hour (or specified penetration rate)",
+        "value": 500
+      },
+      {
+        "clue": "What is the required shore hardness rating on the ASTM A scale for floatie material?",
+        "correctQuestion": "50-70 Shore A (or specified durometer rating)",
+        "value": 500
+      },
+      {
+        "clue": "What gamma irradiation dose sterilizes contaminated beach toys?",
+        "correctQuestion": "25-35 kGy (or 2.5-3.5 Mrad)",
+        "value": 500
+      },
+      {
+        "clue": "What is the water vapor transmission rate limit in g/m2/24h for floaty materials?",
+        "correctQuestion": "Less than 5-10 g/m2/24h (or specified moisture barrier)",
+        "value": 500
+      },
+      {
+        "clue": "What dielectric constant of PVC affects electrical properties in conductive floaties?",
+        "correctQuestion": "Approximately 3.5-4.5 (relative permittivity)",
+        "value": 500
+      },
+      {
+        "clue": "What is the specified oil resistance percentage for sun-exposed beach toy plastics?",
+        "correctQuestion": "Greater than 90 percent mass retention",
+        "value": 500
+      },
+      {
+        "clue": "What viscosity rating in cSt determines optimal adhesive flow for sealing?",
+        "correctQuestion": "50-200 cSt (centistokes) depending on application",
+        "value": 500
+      },
+      {
+        "clue": "What is the flammability rating standard for beach toy materials per UL or FAA?",
+        "correctQuestion": "UL 94 V-0 or V-1 rating (or FAA flammability standard)",
+        "value": 500
+      },
+      {
+        "clue": "What particulate filtration size removes microplastic leachate from floaties?",
+        "correctQuestion": "Less than 0.5 microns (or specified nanofiltration)",
+        "value": 500
+      },
+      {
+        "clue": "What is the equilibrium moisture absorption percentage for polyurethane floaties?",
+        "correctQuestion": "1-3 percent by weight (or specified moisture content)",
+        "value": 500
+      },
+      {
+        "clue": "What optical density measurement confirms UV-absorbing additive concentration?",
+        "correctQuestion": "OD greater than 0.5 at 365 nanometers",
+        "value": 500
+      },
+      {
+        "clue": "What is the precise molecular structure of polyvinyl chloride that determines its lower critical solution temperature behavior in beach toys?",
+        "correctQuestion": "Syndiotactic-rich vinyl chloride polymer with Tm approximately 180-212 degrees Celsius",
+        "value": 600
+      },
+      {
+        "clue": "What quantitative relationship exists between Archimedes principle and actual buoyancy coefficient variations in scaled floaties?",
+        "correctQuestion": "Buoyancy equals volume times fluid density times gravitational acceleration minus weight; surface area scaling affects pressure distribution",
+        "value": 600
+      },
+      {
+        "clue": "What is the exact mechanism of triboelectric charging that can damage electronic floatie sensors?",
+        "correctQuestion": "Transfer of electrons between different polymers due to friction, creating surface potentials exceeding 5-10 kV",
+        "value": 600
+      },
+      {
+        "clue": "How does cross-linking density affect the glass transition temperature and elasticity of thermoplastic polyurethane floaties?",
+        "correctQuestion": "Higher cross-link density increases Tg by 5-15 degrees Celsius and modulus by 50-200 percent",
+        "value": 600
+      },
+      {
+        "clue": "What bioaccumulation pathway describes how phthalate plasticizers from floaties enter the marine food web?",
+        "correctQuestion": "Leaching into seawater, biosorption by plankton, and trophic transfer to fish and marine mammals",
+        "value": 600
+      },
+      {
+        "clue": "What is the critical strain energy release rate in J/m2 for stable crack propagation in floatie materials?",
+        "correctQuestion": "Approximately 1-10 kJ/m2 (or specified Fracture Mechanics standard)",
+        "value": 600
+      },
+      {
+        "clue": "How does the Stefan problem of moving boundaries affect air bubble coalescence in inflatable beach toys?",
+        "correctQuestion": "Diffusional growth of larger bubbles at expense of smaller ones due to pressure difference across curved interfaces",
+        "value": 600
+      },
+      {
+        "clue": "What is the precise calculation of cavitation number for floaties operating in varying pressure environments?",
+        "correctQuestion": "Sigma equals (P minus vapor pressure) divided by (one-half rho v squared)",
+        "value": 600
+      },
+      {
+        "clue": "How do plasticizer migration kinetics follow Fick's second law in beach toy degradation?",
+        "correctQuestion": "Concentration gradient driven diffusion rate proportional to diffusion coefficient and concentration gradient cubed",
+        "value": 600
+      },
+      {
+        "clue": "What is the quantitative relationship between Tg suppression and oligomeric plasticizer content in PVC formulations?",
+        "correctQuestion": "Linear correlation with Tg reduction of approximately 2-4 degrees Celsius per weight percent plasticizer",
+        "value": 600
+      },
+      {
+        "clue": "How does the Navier-Stokes equation predict non-Newtonian flow behavior in viscous floatie adhesives?",
+        "correctQuestion": "Shear stress and strain rate relationship deviates from linearity for non-Newtonian fluids with power-law behavior",
+        "value": 600
+      },
+      {
+        "clue": "What is the exact mechanism of synergistic antioxidant action between phenolic and phosphite stabilizers?",
+        "correctQuestion": "Phenolics donate hydrogen to free radicals; phosphites regenerate phenolic radicals while decomposing hydroperoxides",
+        "value": 600
+      },
+      {
+        "clue": "How does the Beer-Lambert law quantify UV absorber effectiveness in transparent floatie materials?",
+        "correctQuestion": "Absorbance equals extinction coefficient times concentration times path length; exponential reduction of transmitted intensity",
+        "value": 600
+      },
+      {
+        "clue": "What is the precise electrochemical mechanism of galvanic corrosion in metal-reinforced beach toy fasteners?",
+        "correctQuestion": "Electron transfer from anode (more reactive metal) through external circuit to cathode, with anodic oxidation and cathodic reduction",
+        "value": 600
+      },
+      {
+        "clue": "How does osmotic pressure variation affect water sorption into hydrophilic floatie foam cores?",
+        "correctQuestion": "Water uptake follows inverse relationship with osmotic pressure differential; maximum at zero external solute concentration",
+        "value": 600
+      },
+      {
+        "clue": "What is the quantitative calculation of dynamic viscosity changes in floatie material under non-isothermal conditions?",
+        "correctQuestion": "Arrhenius equation with activation energy approximately 50-100 kJ/mol for polymer creep processes",
+        "value": 600
+      },
+      {
+        "clue": "How does the Deborah number predict whether floatie materials behave elastically or viscously during rapid deformation?",
+        "correctQuestion": "De equals relaxation time divided by observation time; De greater than 1 indicates elastic behavior",
+        "value": 600
+      },
+      {
+        "clue": "What is the exact mechanism of photooxidative degradation involving singlet oxygen species in UV-exposed floaties?",
+        "correctQuestion": "UV excitation generates triplet oxygen states that abstract allylic hydrogens, creating conjugated diene intermediates leading to chain scission",
+        "value": 600
+      },
+      {
+        "clue": "How does the Flory-Huggins interaction parameter predict miscibility of polymer blends in composite floaties?",
+        "correctQuestion": "Chi parameter less than 0.5 indicates favorable mixing; negative values show exothermic mixing with improved properties",
+        "value": 600
+      },
+      {
+        "clue": "What is the precise molecular weight distribution (Mw/Mn) optimization for floatie polymer mechanical balance?",
+        "correctQuestion": "Polydispersity index of 2.5-3.5 provides optimal balance between processability and mechanical properties",
+        "value": 600
+      },
+      {
+        "clue": "How does nucleation site concentration affect crystallization kinetics and mechanical properties of floatie polymers?",
+        "correctQuestion": "Higher nucleation density (>10^10 sites/cm3) increases crystallization rate and modulus while reducing toughness",
+        "value": 600
+      },
+      {
+        "clue": "What is the exact calculation of permselectivity in membranes used for selective water barrier coatings?",
+        "correctQuestion": "Permselectivity equals permeability of transported species divided by permeability of competing species",
+        "value": 600
+      },
+      {
+        "clue": "How does the Williams-Landel-Ferry equation predict floatie material performance across temperature ranges?",
+        "correctQuestion": "Time-temperature superposition using WLF constants C1 and C2; shift factors predict relaxation time variation",
+        "value": 600
+      },
+      {
+        "clue": "What is the precise mechanism of environmental stress cracking in chlorine-exposed floatie materials?",
+        "correctQuestion": "Penetrant absorption creates stress concentration; combined with applied or residual stress causes brittle fracture at low strain",
+        "value": 600
+      },
+      {
+        "clue": "How does the Boltzmann superposition principle apply to long-term creep prediction in floaties?",
+        "correctQuestion": "Cumulative strain equals sum of individual strain responses to sequential stress increments, with time-dependent relaxation",
+        "value": 600
+      },
+      {
+        "clue": "What is the exact quantitative relationship between molecular entanglement density and floatie tensile strength?",
+        "correctQuestion": "Tensile strength approximately proportional to square root of entanglement density; Me (entanglement molecular weight) inversely proportional",
+        "value": 600
+      },
+      {
+        "clue": "How does the Mark-Houwink equation relate polymer intrinsic viscosity to molecular weight in floatie material characterization?",
+        "correctQuestion": "Intrinsic viscosity equals K times molecular weight to power a; K and a constants depend on polymer-solvent interaction",
+        "value": 600
+      },
+      {
+        "clue": "What is the precise mechanism of hydrolytic degradation in polyurethane floaties exposed to moisture and heat?",
+        "correctQuestion": "Water molecules attack urethane linkages forming unstable intermediates that decompose to amines and CO2, with ester bonds also vulnerable",
+        "value": 600
+      },
+      {
+        "clue": "How does the Mooney-Rivlin constitutive model predict stress-strain behavior of rubber floaties under large deformations?",
+        "correctQuestion": "Strain energy equals C1(I1-3) plus C2(I2-3); predicts deviation from Hooke's law with increasing strain",
+        "value": 600
+      },
+      {
+        "clue": "What is the exact calculation of surface free energy contributions to adhesive bonding strength in floatie seams?",
+        "correctQuestion": "Total surface energy equals sum of dispersion, polar, and hydrogen bonding components; work of adhesion equals interfacial tension reduction",
+        "value": 600
+      }
+    ]
   }
 }

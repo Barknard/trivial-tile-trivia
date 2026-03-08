@@ -1,421 +1,164 @@
 {
   "category": "New Year's Eve Parties, Celebrations & Gatherings",
-  "subcategories": {
-    "regular_trivia": "Traditional New Year's party knowledge questions (30 clues)",
-    "cah_style": "Cards Against Humanity style humor (30 clues, 6 words max)"
-  },
-  "research_basis": {
-    "mainstream_references_only": [
-      "Apps: Uber, DoorDash, Venmo, Instagram, TikTok",
-      "Tech: iPhone, Alexa, Netflix, Zoom, Ring",
-      "People: Taylor Swift, Elon Musk, celebrities",
-      "Events: COVID-19, pandemic, New Year resolutions",
-      "Brands: Hotels, nightclubs, restaurants, champagne",
-      "Cultural: Parties, celebrations, gatherings, venues"
-    ]
-  },
-  "regular_trivia_clues": [
-    {
-      "id": "nyp_001",
-      "clue": "This type of gathering on New Year's Eve typically features dancing, drinks, and a countdown to midnight",
-      "correctQuestion": "What is a party?",
-      "value": 200
-    },
-    {
-      "id": "nyp_002",
-      "clue": "These festive items are traditionally thrown into the air during New Year's Eve celebrations",
-      "correctQuestion": "What is confetti?",
-      "value": 200
-    },
-    {
-      "id": "nyp_003",
-      "clue": "The New Year's Eve party at this NYC venue is attended by nearly one million revelers",
-      "correctQuestion": "What is Times Square?",
-      "value": 300
-    },
-    {
-      "id": "nyp_004",
-      "clue": "This pastel-colored stringed decoration is commonly thrown during New Year's Eve celebrations",
-      "correctQuestion": "What are streamers?",
-      "value": 200
-    },
-    {
-      "id": "nyp_005",
-      "clue": "This tradition of gathering at a specific location and shouting in unison marks New Year's midnight",
-      "correctQuestion": "What is counting down?",
-      "value": 200
-    },
-    {
-      "id": "nyp_006",
-      "clue": "Hotels and nightclubs often hold these special evening events on December 31st with premium pricing",
-      "correctQuestion": "What are New Year's Eve parties (or galas/balls)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_007",
-      "clue": "This sparkly eyewear shaped like the current year is popular party attire on New Year's Eve",
-      "correctQuestion": "What are number glasses (or year glasses)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_008",
-      "clue": "This celebration format originated in Boston in 1976 as a family-friendly alternative to bar parties",
-      "correctQuestion": "What is First Night?",
-      "value": 400
-    },
-    {
-      "id": "nyp_009",
-      "clue": "These decorations featuring metallic ribbons are often used to decorate party rooms and entrances",
-      "correctQuestion": "What are tinsel garlands (or metallic garlands)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_010",
-      "clue": "This popular party game involves wearing a hat and having another person give clues about a name on your forehead",
-      "correctQuestion": "What is Post-it Note game (or sticky note game)?",
-      "value": 400
-    },
-    {
-      "id": "nyp_011",
-      "clue": "These party favors that burst open with a string pull are common New Year's Eve decorations",
-      "correctQuestion": "What are party poppers (or crackers)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_012",
-      "clue": "This tradition of standing outside in the cold to watch fireworks originates from many cultures celebrating the new year",
-      "correctQuestion": "What is viewing fireworks?",
-      "value": 200
-    },
-    {
-      "id": "nyp_013",
-      "clue": "These spoon-like items used to throw confetti at parties are often made of plastic and colorful",
-      "correctQuestion": "What are confetti spoons (or party scoops)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_014",
-      "clue": "This beverage is traditionally served at upscale New Year's Eve parties and costs significantly more when served at restaurants",
-      "correctQuestion": "What is champagne (or sparkling wine/prosecco)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_015",
-      "clue": "This DJ tradition involves dropping a bass-heavy remix as midnight strikes at a New Year's Eve party",
-      "correctQuestion": "What is playing club music?",
-      "value": 400
-    },
-    {
-      "id": "nyp_016",
-      "clue": "These string-like decorations create a ceiling effect in party venues and fall down as the new year arrives",
-      "correctQuestion": "What are streamers (or string garlands)?",
-      "value": 200
-    },
-    {
-      "id": "nyp_017",
-      "clue": "This face covering with the current year on it is worn at parties to signify entering a new era",
-      "correctQuestion": "What is a masquerade mask (or year mask)?",
-      "value": 400
-    },
-    {
-      "id": "nyp_018",
-      "clue": "These outdoor public celebrations in major cities broadcast live on television for nationwide viewing",
-      "correctQuestion": "What are city celebrations (or public events/ball drops)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_019",
-      "clue": "This tradition of hosting guests for an all-night celebration has roots in ancient Rome and Greece",
-      "correctQuestion": "What is throwing a party?",
-      "value": 200
-    },
-    {
-      "id": "nyp_020",
-      "clue": "This gathering format where groups toast at the stroke of midnight is common in many cultures",
-      "correctQuestion": "What is a dinner party (or dinner gathering)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_021",
-      "clue": "These special themed New Year's Eve parties often require elaborate costumes and formal attire",
-      "correctQuestion": "What are masquerade balls (or galas)?",
-      "value": 400
-    },
-    {
-      "id": "nyp_022",
-      "clue": "This type of venue often charges an entrance fee and minimum drink purchase for New Year's Eve access",
-      "correctQuestion": "What is a nightclub (or hotel ballroom)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_023",
-      "clue": "These gatherings held after midnight are historically called this, referring to the first day of the new year",
-      "correctQuestion": "What are New Year's Day parties?",
-      "value": 200
-    },
-    {
-      "id": "nyp_024",
-      "clue": "This tradition of inviting people to celebrate together is thought to bring good luck for the entire group",
-      "correctQuestion": "What is attending a gathering?",
-      "value": 200
-    },
-    {
-      "id": "nyp_025",
-      "clue": "These party games involving resolutions, memories, and predictions are popular icebreakers at group celebrations",
-      "correctQuestion": "What are New Year's games?",
-      "value": 300
-    },
-    {
-      "id": "nyp_026",
-      "clue": "This technology allows remote friends and family to join New Year's Eve celebrations virtually",
-      "correctQuestion": "What is video calling (or Zoom/FaceTime)?",
-      "value": 300
-    },
-    {
-      "id": "nyp_027",
-      "clue": "These outdoor venues with fire pits and heating lamps have become increasingly popular for New Year's Eve gatherings",
-      "correctQuestion": "What are backyard parties (or outdoor celebrations)?",
-      "value": 400
-    },
-    {
-      "id": "nyp_028",
-      "clue": "This gathering at someone's home without hired entertainment or reservations is the most common way Americans celebrate",
-      "correctQuestion": "What is a house party?",
-      "value": 200
-    },
-    {
-      "id": "nyp_029",
-      "clue": "These planned activities at parties such as charades, trivia, and games keep guests entertained before midnight",
-      "correctQuestion": "What are party games?",
-      "value": 300
-    },
-    {
-      "id": "nyp_030",
-      "clue": "This tradition of serving specific foods believed to bring luck originates from Southern and international cultures",
-      "correctQuestion": "What are lucky foods (or black-eyed peas)?",
-      "value": 400
-    }
-  ],
-  "cah_style_clues": [
-    {
-      "id": "nyp_cah_001",
-      "clue": "The person who leaves early",
-      "correctQuestion": "What is the killjoy?",
-      "value": 200,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_002",
-      "clue": "What's really on the playlist",
-      "correctQuestion": "What is terrible techno?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_003",
-      "clue": "The drunk guy ruining everything",
-      "correctQuestion": "What is your uncle?",
-      "value": 400,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_004",
-      "clue": "What dies at midnight tomorrow",
-      "correctQuestion": "What is your diet?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_005",
-      "clue": "Person on phone whole party",
-      "correctQuestion": "What is Instagram?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_006",
-      "clue": "Why you won't leave early",
-      "correctQuestion": "What is spite?",
-      "value": 400,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_007",
-      "clue": "Actual dress code for parties",
-      "correctQuestion": "What is sweatpants?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_008",
-      "clue": "What champagne tastes like",
-      "correctQuestion": "What is regret?",
-      "value": 400,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_009",
-      "clue": "Game nobody wants to play",
-      "correctQuestion": "What is charades?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_010",
-      "clue": "Real resolution at 1am",
-      "correctQuestion": "What is going to bed?",
-      "value": 400,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_011",
-      "clue": "Uninvited person showing up anyway",
-      "correctQuestion": "What is your ex?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_012",
-      "clue": "Why resolutions always fail",
-      "correctQuestion": "What is weakness?",
-      "value": 400,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_013",
-      "clue": "One bottle costs more everything",
-      "correctQuestion": "What is champagne?",
-      "value": 400,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_014",
-      "clue": "Person telling entire life story",
-      "correctQuestion": "What is drunk Susan?",
-      "value": 400,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_015",
-      "clue": "What you text your crush",
-      "correctQuestion": "What is nothing?",
-      "value": 400,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_016",
-      "clue": "Real reason at this party",
-      "correctQuestion": "What is free alcohol?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_017",
-      "clue": "Decorations nobody cleans afterward",
-      "correctQuestion": "What is confetti?",
-      "value": 300,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_018",
-      "clue": "Person making awkward small talk",
-      "correctQuestion": "What is your coworker?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_019",
-      "clue": "Everyone checking during countdown",
-      "correctQuestion": "What is their phone?",
-      "value": 400,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_020",
-      "clue": "Midnight kiss is actually",
-      "correctQuestion": "What is your hand?",
-      "value": 300,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_021",
-      "clue": "Favors nobody uses later",
-      "correctQuestion": "What are number glasses?",
-      "value": 300,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_022",
-      "clue": "Why invites come last minute",
-      "correctQuestion": "What is desperation?",
-      "value": 400,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_023",
-      "clue": "Text you send after leaving",
-      "correctQuestion": "What is thank God?",
-      "value": 400,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_024",
-      "clue": "What you're wearing underneath",
-      "correctQuestion": "What is nothing fancy?",
-      "value": 300,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_025",
-      "clue": "App for finding the party",
-      "correctQuestion": "What is Google Maps?",
-      "value": 300,
-      "word_count": 5
-    },
-    {
-      "id": "nyp_cah_026",
-      "clue": "Who enjoys getting ready",
-      "correctQuestion": "What is nobody?",
-      "value": 200,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_027",
-      "clue": "Conversation nobody wants here",
-      "correctQuestion": "What is money talk?",
-      "value": 300,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_028",
-      "clue": "What you promise yearly",
-      "correctQuestion": "What is party less?",
-      "value": 400,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_029",
-      "clue": "Why parties suck later",
-      "correctQuestion": "What is exhaustion?",
-      "value": 400,
-      "word_count": 4
-    },
-    {
-      "id": "nyp_cah_030",
-      "clue": "Resolution by January 2nd",
-      "correctQuestion": "What is giving up?",
-      "value": 300,
-      "word_count": 4
-    }
-  ],
-  "metadata": {
-    "total_clues": 60,
-    "regular_trivia_count": 30,
-    "cah_style_count": 30,
-    "all_cah_clues_word_count_verified": "6 words maximum",
-    "mainstream_references_only": true,
-    "style_guide_version": "CAH_STYLE_GUIDE_2025.md",
-    "created_date": "2026-01-02",
-    "category_theme": "New Year's Eve Parties, Celebrations & Gatherings"
+  "theme": "newyear",
+  "category_id": "newyear_parties",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This type of gathering on New Year's Eve typically features dancing, drinks, and a countdown to midnight",
+        "correctQuestion": "What is a party?",
+        "value": 200
+      },
+      {
+        "clue": "These festive items are traditionally thrown into the air during New Year's Eve celebrations",
+        "correctQuestion": "What is confetti?",
+        "value": 200
+      },
+      {
+        "clue": "This pastel-colored stringed decoration is commonly thrown during New Year's Eve celebrations",
+        "correctQuestion": "What are streamers?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of gathering at a specific location and shouting in unison marks New Year's midnight",
+        "correctQuestion": "What is counting down?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of standing outside in the cold to watch fireworks originates from many cultures celebrating the new year",
+        "correctQuestion": "What is viewing fireworks?",
+        "value": 200
+      },
+      {
+        "clue": "These string-like decorations create a ceiling effect in party venues and fall down as the new year arrives",
+        "correctQuestion": "What are streamers (or string garlands)?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of hosting guests for an all-night celebration has roots in ancient Rome and Greece",
+        "correctQuestion": "What is throwing a party?",
+        "value": 200
+      },
+      {
+        "clue": "These gatherings held after midnight are historically called this, referring to the first day of the new year",
+        "correctQuestion": "What are New Year's Day parties?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of inviting people to celebrate together is thought to bring good luck for the entire group",
+        "correctQuestion": "What is attending a gathering?",
+        "value": 200
+      },
+      {
+        "clue": "This gathering at someone's home without hired entertainment or reservations is the most common way Americans celebrate",
+        "correctQuestion": "What is a house party?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The New Year's Eve party at this NYC venue is attended by nearly one million revelers",
+        "correctQuestion": "What is Times Square?",
+        "value": 300
+      },
+      {
+        "clue": "Hotels and nightclubs often hold these special evening events on December 31st with premium pricing",
+        "correctQuestion": "What are New Year's Eve parties (or galas/balls)?",
+        "value": 300
+      },
+      {
+        "clue": "This sparkly eyewear shaped like the current year is popular party attire on New Year's Eve",
+        "correctQuestion": "What are number glasses (or year glasses)?",
+        "value": 300
+      },
+      {
+        "clue": "This celebration format originated in Boston in 1976 as a family-friendly alternative to bar parties",
+        "correctQuestion": "What is First Night?",
+        "value": 400
+      },
+      {
+        "clue": "These decorations featuring metallic ribbons are often used to decorate party rooms and entrances",
+        "correctQuestion": "What are tinsel garlands (or metallic garlands)?",
+        "value": 300
+      },
+      {
+        "clue": "This popular party game involves wearing a hat and having another person give clues about a name on your forehead",
+        "correctQuestion": "What is Post-it Note game (or sticky note game)?",
+        "value": 400
+      },
+      {
+        "clue": "These party favors that burst open with a string pull are common New Year's Eve decorations",
+        "correctQuestion": "What are party poppers (or crackers)?",
+        "value": 300
+      },
+      {
+        "clue": "These spoon-like items used to throw confetti at parties are often made of plastic and colorful",
+        "correctQuestion": "What are confetti spoons (or party scoops)?",
+        "value": 300
+      },
+      {
+        "clue": "This beverage is traditionally served at upscale New Year's Eve parties and costs significantly more when served at restaurants",
+        "correctQuestion": "What is champagne (or sparkling wine/prosecco)?",
+        "value": 300
+      },
+      {
+        "clue": "This DJ tradition involves dropping a bass-heavy remix as midnight strikes at a New Year's Eve party",
+        "correctQuestion": "What is playing club music?",
+        "value": 400
+      },
+      {
+        "clue": "This face covering with the current year on it is worn at parties to signify entering a new era",
+        "correctQuestion": "What is a masquerade mask (or year mask)?",
+        "value": 400
+      },
+      {
+        "clue": "These outdoor public celebrations in major cities broadcast live on television for nationwide viewing",
+        "correctQuestion": "What are city celebrations (or public events/ball drops)?",
+        "value": 300
+      },
+      {
+        "clue": "This gathering format where groups toast at the stroke of midnight is common in many cultures",
+        "correctQuestion": "What is a dinner party (or dinner gathering)?",
+        "value": 300
+      },
+      {
+        "clue": "These special themed New Year's Eve parties often require elaborate costumes and formal attire",
+        "correctQuestion": "What are masquerade balls (or galas)?",
+        "value": 400
+      },
+      {
+        "clue": "This type of venue often charges an entrance fee and minimum drink purchase for New Year's Eve access",
+        "correctQuestion": "What is a nightclub (or hotel ballroom)?",
+        "value": 300
+      },
+      {
+        "clue": "These party games involving resolutions, memories, and predictions are popular icebreakers at group celebrations",
+        "correctQuestion": "What are New Year's games?",
+        "value": 300
+      },
+      {
+        "clue": "This technology allows remote friends and family to join New Year's Eve celebrations virtually",
+        "correctQuestion": "What is video calling (or Zoom/FaceTime)?",
+        "value": 300
+      },
+      {
+        "clue": "These outdoor venues with fire pits and heating lamps have become increasingly popular for New Year's Eve gatherings",
+        "correctQuestion": "What are backyard parties (or outdoor celebrations)?",
+        "value": 400
+      },
+      {
+        "clue": "These planned activities at parties such as charades, trivia, and games keep guests entertained before midnight",
+        "correctQuestion": "What are party games?",
+        "value": 300
+      },
+      {
+        "clue": "This tradition of serving specific foods believed to bring luck originates from Southern and international cultures",
+        "correctQuestion": "What are lucky foods (or black-eyed peas)?",
+        "value": 400
+      }
+    ],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
   }
 }

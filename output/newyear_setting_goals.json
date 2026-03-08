@@ -1,315 +1,163 @@
 {
-  "metadata": {
-    "title": "New Year Goal-Setting & Planning",
-    "description": "30 regular trivia clues + 30 CAH-style clues about resolutions, goal-setting, and planning ahead",
-    "created": "2026-01-02",
-    "style_guide": "CAH_STYLE_GUIDE_2025.md",
-    "total_clues": 60,
-    "regular_count": 30,
-    "cah_count": 30
-  },
-  "regular_clues": [
-    {
-      "id": "regular_001",
-      "clue": "The practice of setting objectives for the new year",
-      "answer": "What are resolutions?"
-    },
-    {
-      "id": "regular_002",
-      "clue": "The first month of the calendar year",
-      "answer": "What is January?"
-    },
-    {
-      "id": "regular_003",
-      "clue": "The long-term desired state you work toward",
-      "answer": "What is a goal?"
-    },
-    {
-      "id": "regular_004",
-      "clue": "Breaking a large goal into these smaller steps makes it manageable",
-      "answer": "What are milestones?"
-    },
-    {
-      "id": "regular_005",
-      "clue": "The measurable standard to track progress toward a goal",
-      "answer": "What is a metric?"
-    },
-    {
-      "id": "regular_006",
-      "clue": "Writing down your plans increases likelihood of achievement by this percentage",
-      "answer": "What is 42%?"
-    },
-    {
-      "id": "regular_007",
-      "clue": "Time management tool dividing work into 25-minute intervals",
-      "answer": "What is the Pomodoro Technique?"
-    },
-    {
-      "id": "regular_008",
-      "clue": "Setting goals that are Specific, Measurable, Achievable, Relevant, and Time-bound",
-      "answer": "What is SMART goal-setting?"
-    },
-    {
-      "id": "regular_009",
-      "clue": "The failure to achieve a resolution by mid-January",
-      "answer": "What is a broken promise?"
-    },
-    {
-      "id": "regular_010",
-      "clue": "The mental state of being fully concentrated on a goal",
-      "answer": "What is focus?"
-    },
-    {
-      "id": "regular_011",
-      "clue": "A strategy for staying consistent with habits",
-      "answer": "What is habit stacking?"
-    },
-    {
-      "id": "regular_012",
-      "clue": "The delay between deciding something and actually starting it",
-      "answer": "What is procrastination?"
-    },
-    {
-      "id": "regular_013",
-      "clue": "The framework for identifying your values and life direction",
-      "answer": "What is life planning?"
-    },
-    {
-      "id": "regular_014",
-      "clue": "Regular review of progress toward your goals",
-      "answer": "What is a check-in?"
-    },
-    {
-      "id": "regular_015",
-      "clue": "The ability to delay gratification for long-term success",
-      "answer": "What is self-discipline?"
-    },
-    {
-      "id": "regular_016",
-      "clue": "A graph showing progress toward measurable goals over time",
-      "answer": "What is a progress tracker?"
-    },
-    {
-      "id": "regular_017",
-      "clue": "The strategy of identifying what you need to stop doing",
-      "answer": "What is elimination?"
-    },
-    {
-      "id": "regular_018",
-      "clue": "A personal advisor or role model who guides your growth",
-      "answer": "What is a mentor?"
-    },
-    {
-      "id": "regular_019",
-      "clue": "The skill of planning how to handle obstacles in advance",
-      "answer": "What is contingency planning?"
-    },
-    {
-      "id": "regular_020",
-      "clue": "Annual assessment of achievements and lessons learned",
-      "answer": "What is a year-end review?"
-    },
-    {
-      "id": "regular_021",
-      "clue": "The practice of reflecting on your strengths and weaknesses",
-      "answer": "What is self-assessment?"
-    },
-    {
-      "id": "regular_022",
-      "clue": "A budget allocated to personal development or new pursuits",
-      "answer": "What is a learning budget?"
-    },
-    {
-      "id": "regular_023",
-      "clue": "The gap between where you are and where you want to be",
-      "answer": "What is an opportunity?"
-    },
-    {
-      "id": "regular_024",
-      "clue": "A system using past data to predict future performance",
-      "answer": "What is forecasting?"
-    },
-    {
-      "id": "regular_025",
-      "clue": "The practice of scheduling time blocks for specific goals",
-      "answer": "What is time blocking?"
-    },
-    {
-      "id": "regular_026",
-      "clue": "The person or group who will be held accountable for goal progress",
-      "answer": "What is an accountability partner?"
-    },
-    {
-      "id": "regular_027",
-      "clue": "Adjusting goals when circumstances change unexpectedly",
-      "answer": "What is pivoting?"
-    },
-    {
-      "id": "regular_028",
-      "clue": "The long-term vision of the person you want to become",
-      "answer": "What is your future self?"
-    },
-    {
-      "id": "regular_029",
-      "clue": "Scientific study showing that visualization improves goal achievement by what percentage?",
-      "answer": "What is 15-20%?"
-    },
-    {
-      "id": "regular_030",
-      "clue": "The moment when you finally achieve your goal",
-      "answer": "What is victory?"
-    }
-  ],
-  "cah_clues": [
-    {
-      "id": "cah_001",
-      "clue": "What most New Year's resolutions actually become by February",
-      "answer": "What is a forgotten memo on your phone?"
-    },
-    {
-      "id": "cah_002",
-      "clue": "The app you're going to pay $14.99/month for to finally become consistent with",
-      "answer": "What is a fitness tracking app you'll unsubscribe from in March?"
-    },
-    {
-      "id": "cah_003",
-      "clue": "What your therapist says you should do instead of setting impossible goals",
-      "answer": "What is have realistic expectations and self-compassion?"
-    },
-    {
-      "id": "cah_004",
-      "clue": "The LinkedIn post people make on January 1st at 5am full of motivational energy",
-      "answer": "What is 'New year, new me, same problems'?"
-    },
-    {
-      "id": "cah_005",
-      "clue": "What gym memberships spike by every January 2nd",
-      "answer": "What is 200% while commitment lasts 3 weeks?"
-    },
-    {
-      "id": "cah_006",
-      "clue": "The thing stopping you from achieving your goals despite buying every productivity app",
-      "answer": "What is actually doing the work?"
-    },
-    {
-      "id": "cah_007",
-      "clue": "This productivity guru's method got you to buy his $497 course you never finished",
-      "answer": "What is David Allen's Getting Things Done?"
-    },
-    {
-      "id": "cah_008",
-      "clue": "What your goal-setting spreadsheet looks like after two weeks",
-      "answer": "What is an abandoned Google Sheet with no updates?"
-    },
-    {
-      "id": "cah_009",
-      "clue": "The motivational poster technique that fails everyone by mid-February",
-      "answer": "What is vision boards?"
-    },
-    {
-      "id": "cah_010",
-      "clue": "What your goals need according to every productivity bro on TikTok",
-      "answer": "What is 'measurable milestones' and 'accountability'?"
-    },
-    {
-      "id": "cah_011",
-      "clue": "The app promising to build habits that you downloaded, used twice, then ghosted",
-      "answer": "What is Habitica or Streaks?"
-    },
-    {
-      "id": "cah_012",
-      "clue": "What happens when your goal-setting is too ambitious, too fast, too unrealistic",
-      "answer": "What is spectacular failure and shame-eating?"
-    },
-    {
-      "id": "cah_013",
-      "clue": "The one goal everyone sets that has a 92% failure rate by Valentine's Day",
-      "answer": "What is losing weight or getting fit?"
-    },
-    {
-      "id": "cah_014",
-      "clue": "What your Notion workspace looks like before life gets busy again",
-      "answer": "What is a beautifully organized masterpiece you'll never touch?"
-    },
-    {
-      "id": "cah_015",
-      "clue": "The thing you convince yourself about when you haven't met your goals",
-      "answer": "What is 'goals are just suggestions anyway'?"
-    },
-    {
-      "id": "cah_016",
-      "clue": "This productivity framework you'll Google obsessively then abandon by March",
-      "answer": "What is SMART, OKRs, or goal-setting matrix?"
-    },
-    {
-      "id": "cah_017",
-      "clue": "What your goals actually reflect about your self-esteem",
-      "answer": "What is severe self-loathing and impossible standards?"
-    },
-    {
-      "id": "cah_018",
-      "clue": "The person who actually achieves their New Year's goals",
-      "answer": "What is someone with legitimate free time and no Netflix subscription?"
-    },
-    {
-      "id": "cah_019",
-      "clue": "What derails your carefully planned goals faster than anything else",
-      "answer": "What is literally anything unexpected happening?"
-    },
-    {
-      "id": "cah_020",
-      "clue": "The planner you bought that has 47 unused pages by March",
-      "answer": "What is a $40 minimalist goal-setting journal nobody writes in?"
-    },
-    {
-      "id": "cah_021",
-      "clue": "What your goals need according to every self-help book written after 2010",
-      "answer": "What is aggressive ambition and radical accountability?"
-    },
-    {
-      "id": "cah_022",
-      "clue": "The energy level required to maintain New Year goals that most humans don't have",
-      "answer": "What is unsustainable enthusiasm?"
-    },
-    {
-      "id": "cah_023",
-      "clue": "This CEO's goal-setting formula got millions to subscribe to his podcast",
-      "answer": "What is Elon Musk-style extreme goal-setting that nobody can achieve?"
-    },
-    {
-      "id": "cah_024",
-      "clue": "What your bullet journal goal-tracking system becomes after week one",
-      "answer": "What is a sad diary of broken promises?"
-    },
-    {
-      "id": "cah_025",
-      "clue": "The LinkedIn CEO posting how they achieved all 47 goals while sleeping 4 hours a night",
-      "answer": "What is lying, or possibly a psychopath?"
-    },
-    {
-      "id": "cah_026",
-      "clue": "What happened to your last 4 years of New Year's resolutions",
-      "answer": "What is they've been forgotten entirely?"
-    },
-    {
-      "id": "cah_027",
-      "clue": "This productivity hack turns out to just be an excuse to avoid your actual goals",
-      "answer": "What is researching productivity systems?"
-    },
-    {
-      "id": "cah_028",
-      "clue": "The uncomfortable truth about people who actually achieve their goals",
-      "answer": "What is they probably didn't set them in December drunk?"
-    },
-    {
-      "id": "cah_029",
-      "clue": "What your goal to 'be more organized' actually costs you in time and stress",
-      "answer": "What is way more than just living like a functional disaster?"
-    },
-    {
-      "id": "cah_030",
-      "clue": "What you're going to tell yourself on January 2nd next year about this year's failures",
-      "answer": "What is 'this year will be different' while making the same exact goals?"
-    }
-  ]
+  "category": "Newyear Setting Goals",
+  "theme": "newyear",
+  "category_id": "newyear_setting_goals",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The practice of setting objectives for the new year",
+        "correctQuestion": "What are resolutions?",
+        "value": 200
+      },
+      {
+        "clue": "The first month of the calendar year",
+        "correctQuestion": "What is January?",
+        "value": 200
+      },
+      {
+        "clue": "The long-term desired state you work toward",
+        "correctQuestion": "What is a goal?",
+        "value": 200
+      },
+      {
+        "clue": "Breaking a large goal into these smaller steps makes it manageable",
+        "correctQuestion": "What are milestones?",
+        "value": 200
+      },
+      {
+        "clue": "The measurable standard to track progress toward a goal",
+        "correctQuestion": "What is a metric?",
+        "value": 200
+      },
+      {
+        "clue": "Writing down your plans increases likelihood of achievement by this percentage",
+        "correctQuestion": "What is 42%?",
+        "value": 200
+      },
+      {
+        "clue": "Time management tool dividing work into 25-minute intervals",
+        "correctQuestion": "What is the Pomodoro Technique?",
+        "value": 200
+      },
+      {
+        "clue": "Setting goals that are Specific, Measurable, Achievable, Relevant, and Time-bound",
+        "correctQuestion": "What is SMART goal-setting?",
+        "value": 200
+      },
+      {
+        "clue": "The failure to achieve a resolution by mid-January",
+        "correctQuestion": "What is a broken promise?",
+        "value": 200
+      },
+      {
+        "clue": "The mental state of being fully concentrated on a goal",
+        "correctQuestion": "What is focus?",
+        "value": 200
+      },
+      {
+        "clue": "A strategy for staying consistent with habits",
+        "correctQuestion": "What is habit stacking?",
+        "value": 200
+      },
+      {
+        "clue": "The delay between deciding something and actually starting it",
+        "correctQuestion": "What is procrastination?",
+        "value": 200
+      },
+      {
+        "clue": "The framework for identifying your values and life direction",
+        "correctQuestion": "What is life planning?",
+        "value": 200
+      },
+      {
+        "clue": "Regular review of progress toward your goals",
+        "correctQuestion": "What is a check-in?",
+        "value": 200
+      },
+      {
+        "clue": "The ability to delay gratification for long-term success",
+        "correctQuestion": "What is self-discipline?",
+        "value": 200
+      },
+      {
+        "clue": "A graph showing progress toward measurable goals over time",
+        "correctQuestion": "What is a progress tracker?",
+        "value": 200
+      },
+      {
+        "clue": "The strategy of identifying what you need to stop doing",
+        "correctQuestion": "What is elimination?",
+        "value": 200
+      },
+      {
+        "clue": "A personal advisor or role model who guides your growth",
+        "correctQuestion": "What is a mentor?",
+        "value": 200
+      },
+      {
+        "clue": "The skill of planning how to handle obstacles in advance",
+        "correctQuestion": "What is contingency planning?",
+        "value": 200
+      },
+      {
+        "clue": "Annual assessment of achievements and lessons learned",
+        "correctQuestion": "What is a year-end review?",
+        "value": 200
+      },
+      {
+        "clue": "The practice of reflecting on your strengths and weaknesses",
+        "correctQuestion": "What is self-assessment?",
+        "value": 200
+      },
+      {
+        "clue": "A budget allocated to personal development or new pursuits",
+        "correctQuestion": "What is a learning budget?",
+        "value": 200
+      },
+      {
+        "clue": "The gap between where you are and where you want to be",
+        "correctQuestion": "What is an opportunity?",
+        "value": 200
+      },
+      {
+        "clue": "A system using past data to predict future performance",
+        "correctQuestion": "What is forecasting?",
+        "value": 200
+      },
+      {
+        "clue": "The practice of scheduling time blocks for specific goals",
+        "correctQuestion": "What is time blocking?",
+        "value": 200
+      },
+      {
+        "clue": "The person or group who will be held accountable for goal progress",
+        "correctQuestion": "What is an accountability partner?",
+        "value": 200
+      },
+      {
+        "clue": "Adjusting goals when circumstances change unexpectedly",
+        "correctQuestion": "What is pivoting?",
+        "value": 200
+      },
+      {
+        "clue": "The long-term vision of the person you want to become",
+        "correctQuestion": "What is your future self?",
+        "value": 200
+      },
+      {
+        "clue": "Scientific study showing that visualization improves goal achievement by what percentage?",
+        "correctQuestion": "What is 15-20%?",
+        "value": 200
+      },
+      {
+        "clue": "The moment when you finally achieve your goal",
+        "correctQuestion": "What is victory?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

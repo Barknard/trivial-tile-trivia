@@ -1,411 +1,311 @@
 {
   "category": "Birthday: Growing Older & Aging",
-  "description": "60 Jeopardy questions about aging, birthdays, getting older, aging bodies, life milestones, mortality, and time passing. 30 regular questions + 30 Cards Against Humanity-style edgy humor questions",
-  "total_questions": 60,
+  "theme": "birthday",
+  "category_id": "birthday_growing_older",
   "audiences": {
-    "regular": {
-      "level": "General (All Ages)",
-      "difficulty": 2,
-      "question_count": 30,
-      "style": "Traditional Jeopardy",
-      "questions": [
-        {
-          "id": "REG_001",
-          "clue": "This birthday is often called a person's 'sweet' milestone at age 16.",
-          "answer": "What is a Sweet Sixteen?",
-          "category": "Life Milestones"
-        },
-        {
-          "id": "REG_002",
-          "clue": "In the United States, this is the age when you're legally an adult.",
-          "answer": "What is 18?",
-          "category": "Legal Milestones"
-        },
-        {
-          "id": "REG_003",
-          "clue": "A person who has lived 100 years old is called this.",
-          "answer": "What is a centenarian?",
-          "category": "Age Terms"
-        },
-        {
-          "id": "REG_004",
-          "clue": "This wrinkle-fighting skincare ingredient becomes more necessary with each birthday.",
-          "answer": "What is sunscreen or retinol?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_005",
-          "clue": "Gray or white hairs are a sign of aging caused by loss of this pigment.",
-          "answer": "What is melanin?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_006",
-          "clue": "This gland, located at the base of the brain, slows down with age affecting metabolism.",
-          "answer": "What is the pituitary gland?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_007",
-          "clue": "At age 65, most people in the U.S. become eligible for this government health program.",
-          "answer": "What is Medicare?",
-          "category": "Legal Milestones"
-        },
-        {
-          "id": "REG_008",
-          "clue": "This organ becomes less elastic and pumps less efficiently with age.",
-          "answer": "What is the heart?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_009",
-          "clue": "Birthday candles become increasingly difficult to blow out due to reduced lung capacity caused by this.",
-          "answer": "What is aging?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "REG_010",
-          "clue": "This major life transition typically happens to women between ages 45-55.",
-          "answer": "What is menopause?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_011",
-          "clue": "The 50th birthday is often called this milestone birthday.",
-          "answer": "What is the golden birthday or half-century?",
-          "category": "Life Milestones"
-        },
-        {
-          "id": "REG_012",
-          "clue": "This part of your brain continues developing until around age 25.",
-          "answer": "What is the prefrontal cortex?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_013",
-          "clue": "Bone density peaks around this age and declines thereafter.",
-          "answer": "What is 30?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_014",
-          "clue": "This sense typically declines most noticeably with age after hearing.",
-          "answer": "What is smell or taste?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_015",
-          "clue": "Reading glasses or bifocals become necessary due to this age-related eye condition.",
-          "answer": "What is presbyopia?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_016",
-          "clue": "The oldest person ever recorded lived to be this age (Jeanne Calment).",
-          "answer": "What is 122 years old?",
-          "category": "Age Records"
-        },
-        {
-          "id": "REG_017",
-          "clue": "This biological process slows down after age 20, causing slower wound healing.",
-          "answer": "What is cellular regeneration or metabolism?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_018",
-          "clue": "Memory, specifically this type, often declines with age.",
-          "answer": "What is short-term memory?",
-          "category": "Cognitive Aging"
-        },
-        {
-          "id": "REG_019",
-          "clue": "This muscle mass loss is a natural part of aging called this.",
-          "answer": "What is sarcopenia?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_020",
-          "clue": "The human immune system becomes less effective at preventing illness after this age range.",
-          "answer": "What is age 60?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_021",
-          "clue": "A 75th birthday is sometimes called this golden milestone.",
-          "answer": "What is the diamond jubilee?",
-          "category": "Life Milestones"
-        },
-        {
-          "id": "REG_022",
-          "clue": "This vitamin becomes harder for the body to absorb with age, especially in the stomach.",
-          "answer": "What is Vitamin B12?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_023",
-          "clue": "The speed at which your body processes medications slows down, affecting drug metabolism called this.",
-          "answer": "What is pharmacokinetics?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_024",
-          "clue": "This protein in connective tissue breaks down over time, causing skin sagging.",
-          "answer": "What is collagen?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_025",
-          "clue": "The average life expectancy in the U.S. is approximately this many years.",
-          "answer": "What is 76-79 years?",
-          "category": "Age Statistics"
-        },
-        {
-          "id": "REG_026",
-          "clue": "Birthday parties become less frequent for most people after reaching this age.",
-          "answer": "What is age 30 or adulthood?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "REG_027",
-          "clue": "This gland shrinks with age and produces less of the hormone that regulates sleep.",
-          "answer": "What is the pineal gland?",
-          "category": "Biology of Aging"
-        },
-        {
-          "id": "REG_028",
-          "clue": "Hearing loss at high frequencies, called presbycusis, becomes noticeable around this age.",
-          "answer": "What is age 60-70?",
-          "category": "Aging Bodies"
-        },
-        {
-          "id": "REG_029",
-          "clue": "The number of candles traditionally placed on a birthday cake becomes impractical after this age.",
-          "answer": "What is age 100?",
-          "category": "Birthday Traditions"
-        },
-        {
-          "id": "REG_030",
-          "clue": "This celebrated author wrote 'The Years Are Short' reflecting on mortality and aging.",
-          "answer": "What is aging or the passage of time?",
-          "category": "Cultural References"
-        }
-      ]
-    },
-    "CAH_style": {
-      "level": "Adult (18+) - Cards Against Humanity Style",
-      "difficulty": 4,
-      "question_count": 30,
-      "style": "Dark Humor - Edgy & Mainstream References",
-      "notes": "These follow CAH style guide: short/punchy, unexpected dark humor, mainstream references (2000-2025), culturally relevant",
-      "questions": [
-        {
-          "id": "CAH_001",
-          "clue": "The one thing millennials can afford after turning 30.",
-          "answer": "What is student loan debt?",
-          "category": "Modern Life"
-        },
-        {
-          "id": "CAH_002",
-          "clue": "Why your parents ask if you're 'seeing anyone special' at every birthday dinner.",
-          "answer": "What is they think you're dying alone?",
-          "category": "Family Dynamics"
-        },
-        {
-          "id": "CAH_003",
-          "clue": "The actual gift you get for reaching 40.",
-          "answer": "What is crippling back pain and insomnia?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_004",
-          "clue": "What TikTok teenagers now make fun of you for after 25.",
-          "answer": "What is being alive?",
-          "category": "Social Media Reality"
-        },
-        {
-          "id": "CAH_005",
-          "clue": "The biological process that speeds up after 30 but still slower than your metabolism.",
-          "answer": "What is aging?",
-          "category": "Metabolism Jokes"
-        },
-        {
-          "id": "CAH_006",
-          "clue": "What your knees do now that you're older when you stand up.",
-          "answer": "What is crack like Rice Krispies?",
-          "category": "Aging Bodies - Humor"
-        },
-        {
-          "id": "CAH_007",
-          "clue": "The reason your parents went to bed at 9 PM on their birthday.",
-          "answer": "What is that's what you do now?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_008",
-          "clue": "Turning 21 used to mean partying. Turning 40 means this.",
-          "answer": "What is scheduling a colonoscopy?",
-          "category": "Medical Humor"
-        },
-        {
-          "id": "CAH_009",
-          "clue": "The most exciting thing that happens on a birthday past age 35.",
-          "answer": "What is getting a free appetizer at Applebee's?",
-          "category": "Depressing Truths"
-        },
-        {
-          "id": "CAH_010",
-          "clue": "Gray hair isn't distinguished anymore, it just means this.",
-          "answer": "What is you've given up?",
-          "category": "Aging Bodies - Humor"
-        },
-        {
-          "id": "CAH_011",
-          "clue": "The real reason your 8 PM bedtime isn't a choice after 50.",
-          "answer": "What is your body literally shutting down?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_012",
-          "clue": "What 'happy hour' means when you're 45.",
-          "answer": "What is the hour you remember how to make it to bed?",
-          "category": "Modern Adult Life"
-        },
-        {
-          "id": "CAH_013",
-          "clue": "The most relatable part of a birthday cake after 40.",
-          "answer": "What is needing antacids afterward?",
-          "category": "Digestion Humor"
-        },
-        {
-          "id": "CAH_014",
-          "clue": "Why your Spotify playlist now includes this genre.",
-          "answer": "What is podcasts about joint pain?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_015",
-          "clue": "The thing that hurts more than birthday cake now.",
-          "answer": "What is literally everything?",
-          "category": "Aging Bodies - Humor"
-        },
-        {
-          "id": "CAH_016",
-          "clue": "Turning 30 used to mean a quarter-life crisis. Now at 40 it means this.",
-          "answer": "What is accepting you're halfway through?",
-          "category": "Depressing Truths"
-        },
-        {
-          "id": "CAH_017",
-          "clue": "The one thing that gets better with age instead of your body.",
-          "answer": "What is your wine collection or knowledge of your issues?",
-          "category": "Life Wisdom"
-        },
-        {
-          "id": "CAH_018",
-          "clue": "Why anyone over 35 celebrating another birthday is basically this.",
-          "answer": "What is winning the lottery?",
-          "category": "Perspective"
-        },
-        {
-          "id": "CAH_019",
-          "clue": "The real reason you need to blow out birthday candles fast now.",
-          "answer": "What is you might not have enough breath left?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_020",
-          "clue": "What your birthday list looks like at 45.",
-          "answer": "What is Advil and a nap?",
-          "category": "Birthday Wishes"
-        },
-        {
-          "id": "CAH_021",
-          "clue": "The birthday surprise everyone over 40 secretly wants.",
-          "answer": "What is nobody mentioning it?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_022",
-          "clue": "Why your friends stop asking 'how old are you now' after a certain age.",
-          "answer": "What is it's too depressing for everyone?",
-          "category": "Friendship Reality"
-        },
-        {
-          "id": "CAH_023",
-          "clue": "The new way people celebrate birthdays past 50.",
-          "answer": "What is a wellness check that you survived another year?",
-          "category": "Modern Aging"
-        },
-        {
-          "id": "CAH_024",
-          "clue": "What 'young at heart' really means when you're 60.",
-          "answer": "What is your cardiologist's concern?",
-          "category": "Medical Humor"
-        },
-        {
-          "id": "CAH_025",
-          "clue": "The thing millennials are now afraid to admit they're turning.",
-          "answer": "What is 40?",
-          "category": "Generational Humor"
-        },
-        {
-          "id": "CAH_026",
-          "clue": "Why your birthday party now includes this on the invitation.",
-          "answer": "What is 'please bring your own chair'?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_027",
-          "clue": "The most painful part of aging that nobody warns you about.",
-          "answer": "What is how fast it happens?",
-          "category": "Existential Dread"
-        },
-        {
-          "id": "CAH_028",
-          "clue": "Your birthday cake's frosting now represents this.",
-          "answer": "What is the amount of sugar your body can't process?",
-          "category": "Metabolism Humor"
-        },
-        {
-          "id": "CAH_029",
-          "clue": "The reason you can't stay up until midnight to celebrate your own birthday anymore.",
-          "answer": "What is basic human biology and self-care?",
-          "category": "Getting Older"
-        },
-        {
-          "id": "CAH_030",
-          "clue": "What your birthday countdown really is after 35.",
-          "answer": "What is a countdown to needing different medications?",
-          "category": "Medical Humor"
-        }
-      ]
-    }
-  },
-  "metadata": {
-    "creation_date": "2026-01-01",
-    "category_focus": "Birthday Growing Older & Aging",
-    "subtopics": [
-      "Life Milestones & Age Records",
-      "Biological Changes with Aging",
-      "Getting Older (Dark Humor)",
-      "Cognitive & Physical Decline",
-      "Birthday Traditions & Cultural References",
-      "Modern Life After 30/40/50",
-      "CAH-Style Dark Humor"
+    "adults": [
+      {
+        "clue": "This birthday is often called a person's 'sweet' milestone at age 16.",
+        "correctQuestion": "What is a Sweet Sixteen?",
+        "value": 200
+      },
+      {
+        "clue": "In the United States, this is the age when you're legally an adult.",
+        "correctQuestion": "What is 18?",
+        "value": 200
+      },
+      {
+        "clue": "A person who has lived 100 years old is called this.",
+        "correctQuestion": "What is a centenarian?",
+        "value": 200
+      },
+      {
+        "clue": "This wrinkle-fighting skincare ingredient becomes more necessary with each birthday.",
+        "correctQuestion": "What is sunscreen or retinol?",
+        "value": 200
+      },
+      {
+        "clue": "Gray or white hairs are a sign of aging caused by loss of this pigment.",
+        "correctQuestion": "What is melanin?",
+        "value": 200
+      },
+      {
+        "clue": "This gland, located at the base of the brain, slows down with age affecting metabolism.",
+        "correctQuestion": "What is the pituitary gland?",
+        "value": 200
+      },
+      {
+        "clue": "At age 65, most people in the U.S. become eligible for this government health program.",
+        "correctQuestion": "What is Medicare?",
+        "value": 200
+      },
+      {
+        "clue": "This organ becomes less elastic and pumps less efficiently with age.",
+        "correctQuestion": "What is the heart?",
+        "value": 200
+      },
+      {
+        "clue": "Birthday candles become increasingly difficult to blow out due to reduced lung capacity caused by this.",
+        "correctQuestion": "What is aging?",
+        "value": 200
+      },
+      {
+        "clue": "This major life transition typically happens to women between ages 45-55.",
+        "correctQuestion": "What is menopause?",
+        "value": 200
+      },
+      {
+        "clue": "The 50th birthday is often called this milestone birthday.",
+        "correctQuestion": "What is the golden birthday or half-century?",
+        "value": 200
+      },
+      {
+        "clue": "This part of your brain continues developing until around age 25.",
+        "correctQuestion": "What is the prefrontal cortex?",
+        "value": 200
+      },
+      {
+        "clue": "Bone density peaks around this age and declines thereafter.",
+        "correctQuestion": "What is 30?",
+        "value": 200
+      },
+      {
+        "clue": "This sense typically declines most noticeably with age after hearing.",
+        "correctQuestion": "What is smell or taste?",
+        "value": 200
+      },
+      {
+        "clue": "Reading glasses or bifocals become necessary due to this age-related eye condition.",
+        "correctQuestion": "What is presbyopia?",
+        "value": 200
+      },
+      {
+        "clue": "The oldest person ever recorded lived to be this age (Jeanne Calment).",
+        "correctQuestion": "What is 122 years old?",
+        "value": 200
+      },
+      {
+        "clue": "This biological process slows down after age 20, causing slower wound healing.",
+        "correctQuestion": "What is cellular regeneration or metabolism?",
+        "value": 200
+      },
+      {
+        "clue": "Memory, specifically this type, often declines with age.",
+        "correctQuestion": "What is short-term memory?",
+        "value": 200
+      },
+      {
+        "clue": "This muscle mass loss is a natural part of aging called this.",
+        "correctQuestion": "What is sarcopenia?",
+        "value": 200
+      },
+      {
+        "clue": "The human immune system becomes less effective at preventing illness after this age range.",
+        "correctQuestion": "What is age 60?",
+        "value": 200
+      },
+      {
+        "clue": "A 75th birthday is sometimes called this golden milestone.",
+        "correctQuestion": "What is the diamond jubilee?",
+        "value": 200
+      },
+      {
+        "clue": "This vitamin becomes harder for the body to absorb with age, especially in the stomach.",
+        "correctQuestion": "What is Vitamin B12?",
+        "value": 200
+      },
+      {
+        "clue": "The speed at which your body processes medications slows down, affecting drug metabolism called this.",
+        "correctQuestion": "What is pharmacokinetics?",
+        "value": 200
+      },
+      {
+        "clue": "This protein in connective tissue breaks down over time, causing skin sagging.",
+        "correctQuestion": "What is collagen?",
+        "value": 200
+      },
+      {
+        "clue": "The average life expectancy in the U.S. is approximately this many years.",
+        "correctQuestion": "What is 76-79 years?",
+        "value": 200
+      },
+      {
+        "clue": "Birthday parties become less frequent for most people after reaching this age.",
+        "correctQuestion": "What is age 30 or adulthood?",
+        "value": 200
+      },
+      {
+        "clue": "This gland shrinks with age and produces less of the hormone that regulates sleep.",
+        "correctQuestion": "What is the pineal gland?",
+        "value": 200
+      },
+      {
+        "clue": "Hearing loss at high frequencies, called presbycusis, becomes noticeable around this age.",
+        "correctQuestion": "What is age 60-70?",
+        "value": 200
+      },
+      {
+        "clue": "The number of candles traditionally placed on a birthday cake becomes impractical after this age.",
+        "correctQuestion": "What is age 100?",
+        "value": 200
+      },
+      {
+        "clue": "This celebrated author wrote 'The Years Are Short' reflecting on mortality and aging.",
+        "correctQuestion": "What is aging or the passage of time?",
+        "value": 200
+      }
     ],
-    "regular_questions": 30,
-    "CAH_questions": 30,
-    "CAH_style_guide_followed": true,
-    "CAH_features": [
-      "Short & punchy answers",
-      "Mainstream references (2000-2025)",
-      "Dark humor but clever",
-      "Unexpected connections",
-      "Culturally relevant (millennials, TikTok, modern adulting)",
-      "Relatable modern life struggles",
-      "Health/mortality humor that lands"
-    ],
-    "difficulty_progression": "General → Adult Dark Humor",
-    "format": "Jeopardy-style Questions with CAH-style subset"
+    "no_humanity": [
+      {
+        "clue": "The one thing millennials can afford after turning 30.",
+        "correctQuestion": "What is student loan debt?",
+        "value": 200
+      },
+      {
+        "clue": "Why your parents ask if you're 'seeing anyone special' at every birthday dinner.",
+        "correctQuestion": "What is they think you're dying alone?",
+        "value": 200
+      },
+      {
+        "clue": "The actual gift you get for reaching 40.",
+        "correctQuestion": "What is crippling back pain and insomnia?",
+        "value": 200
+      },
+      {
+        "clue": "What TikTok teenagers now make fun of you for after 25.",
+        "correctQuestion": "What is being alive?",
+        "value": 200
+      },
+      {
+        "clue": "The biological process that speeds up after 30 but still slower than your metabolism.",
+        "correctQuestion": "What is aging?",
+        "value": 200
+      },
+      {
+        "clue": "What your knees do now that you're older when you stand up.",
+        "correctQuestion": "What is crack like Rice Krispies?",
+        "value": 200
+      },
+      {
+        "clue": "The reason your parents went to bed at 9 PM on their birthday.",
+        "correctQuestion": "What is that's what you do now?",
+        "value": 200
+      },
+      {
+        "clue": "Turning 21 used to mean partying. Turning 40 means this.",
+        "correctQuestion": "What is scheduling a colonoscopy?",
+        "value": 200
+      },
+      {
+        "clue": "The most exciting thing that happens on a birthday past age 35.",
+        "correctQuestion": "What is getting a free appetizer at Applebee's?",
+        "value": 200
+      },
+      {
+        "clue": "Gray hair isn't distinguished anymore, it just means this.",
+        "correctQuestion": "What is you've given up?",
+        "value": 200
+      },
+      {
+        "clue": "The real reason your 8 PM bedtime isn't a choice after 50.",
+        "correctQuestion": "What is your body literally shutting down?",
+        "value": 200
+      },
+      {
+        "clue": "What 'happy hour' means when you're 45.",
+        "correctQuestion": "What is the hour you remember how to make it to bed?",
+        "value": 200
+      },
+      {
+        "clue": "The most relatable part of a birthday cake after 40.",
+        "correctQuestion": "What is needing antacids afterward?",
+        "value": 200
+      },
+      {
+        "clue": "Why your Spotify playlist now includes this genre.",
+        "correctQuestion": "What is podcasts about joint pain?",
+        "value": 200
+      },
+      {
+        "clue": "The thing that hurts more than birthday cake now.",
+        "correctQuestion": "What is literally everything?",
+        "value": 200
+      },
+      {
+        "clue": "Turning 30 used to mean a quarter-life crisis. Now at 40 it means this.",
+        "correctQuestion": "What is accepting you're halfway through?",
+        "value": 200
+      },
+      {
+        "clue": "The one thing that gets better with age instead of your body.",
+        "correctQuestion": "What is your wine collection or knowledge of your issues?",
+        "value": 200
+      },
+      {
+        "clue": "Why anyone over 35 celebrating another birthday is basically this.",
+        "correctQuestion": "What is winning the lottery?",
+        "value": 200
+      },
+      {
+        "clue": "The real reason you need to blow out birthday candles fast now.",
+        "correctQuestion": "What is you might not have enough breath left?",
+        "value": 200
+      },
+      {
+        "clue": "What your birthday list looks like at 45.",
+        "correctQuestion": "What is Advil and a nap?",
+        "value": 200
+      },
+      {
+        "clue": "The birthday surprise everyone over 40 secretly wants.",
+        "correctQuestion": "What is nobody mentioning it?",
+        "value": 200
+      },
+      {
+        "clue": "Why your friends stop asking 'how old are you now' after a certain age.",
+        "correctQuestion": "What is it's too depressing for everyone?",
+        "value": 200
+      },
+      {
+        "clue": "The new way people celebrate birthdays past 50.",
+        "correctQuestion": "What is a wellness check that you survived another year?",
+        "value": 200
+      },
+      {
+        "clue": "What 'young at heart' really means when you're 60.",
+        "correctQuestion": "What is your cardiologist's concern?",
+        "value": 200
+      },
+      {
+        "clue": "The thing millennials are now afraid to admit they're turning.",
+        "correctQuestion": "What is 40?",
+        "value": 200
+      },
+      {
+        "clue": "Why your birthday party now includes this on the invitation.",
+        "correctQuestion": "What is 'please bring your own chair'?",
+        "value": 200
+      },
+      {
+        "clue": "The most painful part of aging that nobody warns you about.",
+        "correctQuestion": "What is how fast it happens?",
+        "value": 200
+      },
+      {
+        "clue": "Your birthday cake's frosting now represents this.",
+        "correctQuestion": "What is the amount of sugar your body can't process?",
+        "value": 200
+      },
+      {
+        "clue": "The reason you can't stay up until midnight to celebrate your own birthday anymore.",
+        "correctQuestion": "What is basic human biology and self-care?",
+        "value": 200
+      },
+      {
+        "clue": "What your birthday countdown really is after 35.",
+        "correctQuestion": "What is a countdown to needing different medications?",
+        "value": 200
+      }
+    ]
   }
 }

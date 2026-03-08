@@ -1,403 +1,163 @@
 {
   "category": "Birthday Invitations, RSVPs & Guest Lists",
-  "description": "60 questions about birthday invitations, RSVPs, guest etiquette, party planning communication, and social invitation culture (30 regular Jeopardy-style + 30 Cards Against Humanity style)",
-  "total_questions": 60,
-  "content_split": {
-    "regular_jeopardy": 30,
-    "cah_style": 30
-  },
-  "jeopardy_questions": [
-    {
-      "id": "J001",
-      "clue": "This formal written request asks someone to attend a party or event.",
-      "answer": "What is an invitation?",
-      "category": "Basic Concepts"
-    },
-    {
-      "id": "J002",
-      "clue": "The abbreviation used on invitations that asks guests to confirm they're coming.",
-      "answer": "What is RSVP?",
-      "category": "Invitation Etiquette"
-    },
-    {
-      "id": "J003",
-      "clue": "This date is printed on an invitation to tell guests when the party happens.",
-      "answer": "What is the date?",
-      "category": "Invitation Details"
-    },
-    {
-      "id": "J004",
-      "clue": "This information on an invitation tells guests where to go for the party.",
-      "answer": "What is the address?",
-      "category": "Invitation Details"
-    },
-    {
-      "id": "J005",
-      "clue": "This person receives an invitation to attend a birthday party.",
-      "answer": "What is a guest?",
-      "category": "Guest Terminology"
-    },
-    {
-      "id": "J006",
-      "clue": "You should respond to a birthday invitation at least this many days in advance.",
-      "answer": "What is two weeks?",
-      "category": "Etiquette Timing"
-    },
-    {
-      "id": "J007",
-      "clue": "This is the polite response when you plan to attend a birthday party.",
-      "answer": "What is 'yes' or 'I accept'?",
-      "category": "RSVP Responses"
-    },
-    {
-      "id": "J008",
-      "clue": "This is the appropriate response if you cannot attend a birthday party.",
-      "answer": "What is 'no' or 'I regret to inform you I cannot attend'?",
-      "category": "RSVP Responses"
-    },
-    {
-      "id": "J009",
-      "clue": "The maximum number of guests typically invited to a party depends on this factor.",
-      "answer": "What is the venue size or budget?",
-      "category": "Guest List Planning"
-    },
-    {
-      "id": "J010",
-      "clue": "This is a list of all the people invited to a birthday party.",
-      "answer": "What is a guest list?",
-      "category": "Guest List Planning"
-    },
-    {
-      "id": "J011",
-      "clue": "Digital invitations sent via email are often called this.",
-      "answer": "What is an e-invitation or e-vite?",
-      "category": "Modern Invitations"
-    },
-    {
-      "id": "J012",
-      "clue": "This popular website is commonly used to send digital party invitations.",
-      "answer": "What is Evite?",
-      "category": "Modern Invitations"
-    },
-    {
-      "id": "J013",
-      "clue": "This social media platform is increasingly used to send birthday party invitations.",
-      "answer": "What is Facebook?",
-      "category": "Modern Invitations"
-    },
-    {
-      "id": "J014",
-      "clue": "The host should follow up with non-respondents at least this long before the party.",
-      "answer": "What is one week?",
-      "category": "Party Planning"
-    },
-    {
-      "id": "J015",
-      "clue": "This detail on an invitation tells guests what time the party begins.",
-      "answer": "What is the start time?",
-      "category": "Invitation Details"
-    },
-    {
-      "id": "J016",
-      "clue": "This information helps guests know how long to stay at a birthday party.",
-      "answer": "What is the end time?",
-      "category": "Invitation Details"
-    },
-    {
-      "id": "J017",
-      "clue": "It's important to include this person's contact information on the invitation for questions.",
-      "answer": "What is the host's phone number or email?",
-      "category": "Invitation Details"
-    },
-    {
-      "id": "J018",
-      "clue": "This term describes people you're not sure whether to invite to your party.",
-      "answer": "What is the maybe list?",
-      "category": "Guest List Planning"
-    },
-    {
-      "id": "J019",
-      "clue": "Inviting someone's friend without their consent is called this.",
-      "answer": "What is a plus-one?",
-      "category": "Guest Etiquette"
-    },
-    {
-      "id": "J020",
-      "clue": "These three letters on an invitation stand for Regrets Only.",
-      "answer": "What is RO?",
-      "category": "Invitation Etiquette"
-    },
-    {
-      "id": "J021",
-      "clue": "A guest should mention this dietary need on their RSVP response.",
-      "answer": "What is allergies or dietary restrictions?",
-      "category": "Guest Etiquette"
-    },
-    {
-      "id": "J022",
-      "clue": "The deadline date for responding to an invitation is usually called the RSVP this.",
-      "answer": "What is the RSVP date?",
-      "category": "Invitation Details"
-    },
-    {
-      "id": "J023",
-      "clue": "If you're not sure about attending, you might tell the host you need this many days to decide.",
-      "answer": "What is a few days?",
-      "category": "RSVP Responses"
-    },
-    {
-      "id": "J024",
-      "clue": "A handwritten invitation is considered this level of formality.",
-      "answer": "What is formal?",
-      "category": "Invitation Types"
-    },
-    {
-      "id": "J025",
-      "clue": "This type of invitation is printed and mailed through the postal service.",
-      "answer": "What is a formal invitation or card?",
-      "category": "Invitation Types"
-    },
-    {
-      "id": "J026",
-      "clue": "A text message invitation is generally considered this level of formality.",
-      "answer": "What is casual?",
-      "category": "Invitation Types"
-    },
-    {
-      "id": "J027",
-      "clue": "This is the appropriate time frame for sending invitations before a party.",
-      "answer": "What is 2-4 weeks?",
-      "category": "Party Planning"
-    },
-    {
-      "id": "J028",
-      "clue": "If a guest accidentally doesn't respond, the host should send them this.",
-      "answer": "What is a reminder?",
-      "category": "Party Planning"
-    },
-    {
-      "id": "J029",
-      "clue": "A celebrity or important person who sends regrets should still include this in their response.",
-      "answer": "What is a kind note or apology?",
-      "category": "Guest Etiquette"
-    },
-    {
-      "id": "J030",
-      "clue": "The most common reason someone declines a birthday party invitation is this.",
-      "answer": "What is a prior commitment?",
-      "category": "RSVP Responses"
-    }
-  ],
-  "cah_questions": [
-    {
-      "id": "C001",
-      "clue": "That one person who responds 'maybe' to the birthday invitation, ruins the headcount, then doesn't show up",
-      "answer": "What is friendship ending?",
-      "value": 400,
-      "why_it_works": "Universal party planning pain point, relatable frustration"
-    },
-    {
-      "id": "C002",
-      "clue": "The emergency excuse you Google at 2pm when you totally forgot you RSVPd 'yes' to something",
-      "answer": "What is a fake family emergency?",
-      "value": 600,
-      "why_it_works": "Everyone has done this + relatable social anxiety"
-    },
-    {
-      "id": "C003",
-      "clue": "How your mom responds to 'Can I bring 5 random people to my party?' without saying the word 'no'",
-      "answer": "What is a disappointed sigh?",
-      "value": 400,
-      "why_it_works": "Classic parent reaction, universally understood communication"
-    },
-    {
-      "id": "C004",
-      "clue": "What you do with the guest list your mom made vs. what you actually wanted to invite",
-      "answer": "What is completely ignore it?",
-      "value": 400,
-      "why_it_works": "Relatable teen/young adult power struggle"
-    },
-    {
-      "id": "C005",
-      "clue": "The thing that makes RSVPing to a Millennial's party harder than actually attending",
-      "answer": "What is Eventbrite with a novelty payment process?",
-      "value": 600,
-      "why_it_works": "Modern party planning culture, mainstream complaint"
-    },
-    {
-      "id": "C006",
-      "clue": "Your drunk uncle's take when he asks why he wasn't on the guest list 'for a family friend'",
-      "answer": "What is 'well I guess I'm dead to everyone' while cracking a beer?",
-      "value": 600,
-      "why_it_works": "Relatable drunk family member behavior"
-    },
-    {
-      "id": "C007",
-      "clue": "What grandma does when you don't invite her but your cousin posts about the party on social media",
-      "answer": "What is call and guilt trip you?",
-      "value": 400,
-      "why_it_works": "Universal family guilt dynamic"
-    },
-    {
-      "id": "C008",
-      "clue": "The real reason your coworker 'can't make it' to your birthday party",
-      "answer": "What is they don't actually like you?",
-      "value": 400,
-      "why_it_works": "Office awkwardness reality check"
-    },
-    {
-      "id": "C009",
-      "clue": "What happens 2 minutes after you send the group chat invitation to your 'close friends'",
-      "answer": "What is half of them are already in other plans?",
-      "value": 400,
-      "why_it_works": "Modern group chat frustration"
-    },
-    {
-      "id": "C010",
-      "clue": "The app your Facebook friends use to RSVP 'interested' then ghost you completely",
-      "answer": "What is Facebook events?",
-      "value": 400,
-      "why_it_works": "Universal Facebook event experience"
-    },
-    {
-      "id": "C011",
-      "clue": "That couple who asks 'can we bring our kids?' when the invitation literally said 'adults only'",
-      "answer": "What is intentional obliviousness?",
-      "value": 400,
-      "why_it_works": "Relatable party planning nightmare"
-    },
-    {
-      "id": "C012",
-      "clue": "How many people from your 47-person group chat actually read the invitation details before asking 'where is this again?'",
-      "answer": "What is none?",
-      "value": 400,
-      "why_it_works": "Modern communication paradox"
-    },
-    {
-      "id": "C013",
-      "clue": "What your mom calls it when she insists on inviting people you literally have no memory of",
-      "answer": "What is 'family friends you should know'?",
-      "value": 400,
-      "why_it_works": "Generational party planning clash"
-    },
-    {
-      "id": "C014",
-      "clue": "The state of your anxiety when someone responds 'can I bring a date?' 12 hours before the party",
-      "answer": "What is full panic?",
-      "value": 400,
-      "why_it_works": "Relatable party hosting stress"
-    },
-    {
-      "id": "C015",
-      "clue": "What you put in the RSVP details when you really need people to actually tell you if they're coming",
-      "answer": "What is 'I need a headcount' or threatening emojis?",
-      "value": 400,
-      "why_it_works": "Exasperated party host communication"
-    },
-    {
-      "id": "C016",
-      "clue": "That person who RSVPs 'yes' to absolutely everything on their timeline without reading the date",
-      "answer": "What is someone who will definitely flake?",
-      "value": 400,
-      "why_it_works": "Common social media behavior"
-    },
-    {
-      "id": "C017",
-      "clue": "How to diplomatically tell your crush they're not invited without crushing their soul",
-      "answer": "What is: you can't, so pretend the group just came up with the list?",
-      "value": 600,
-      "why_it_works": "Awkward social situations, relatable embarrassment"
-    },
-    {
-      "id": "C018",
-      "clue": "Why your ex is still on the group chat and responding to party invitations like nothing happened",
-      "answer": "What is mutual friends who don't understand social boundaries?",
-      "value": 600,
-      "why_it_works": "Modern dating/breakup etiquette complexity"
-    },
-    {
-      "id": "C019",
-      "clue": "The amount of time your anxious self spends planning the guest list before actually inviting anyone",
-      "answer": "What is way too long?",
-      "value": 400,
-      "why_it_works": "Relatable overthinking and social anxiety"
-    },
-    {
-      "id": "C020",
-      "clue": "What you do when the person who RSVPd for 5 people shows up alone",
-      "answer": "What is pretend you never asked 'where's everyone else?'?",
-      "value": 400,
-      "why_it_works": "Awkward party hosting moments"
-    },
-    {
-      "id": "C021",
-      "clue": "The real purpose of the RSVP deadline when people respond for the next 2 weeks anyway",
-      "answer": "What is a gentle fiction?",
-      "value": 400,
-      "why_it_works": "Honest party planning reality"
-    },
-    {
-      "id": "C022",
-      "clue": "Why your best friend suddenly acts like they're a celebrity when you send them the guest list",
-      "answer": "What is FOMO or jealousy about who else is invited?",
-      "value": 600,
-      "why_it_works": "Relatable friendship drama"
-    },
-    {
-      "id": "C023",
-      "clue": "The emoji your drunk group chat sends when someone gets invited to a party they weren't part of planning",
-      "answer": "What is the crying face or middle finger?",
-      "value": 400,
-      "why_it_works": "Modern group chat behavior"
-    },
-    {
-      "id": "C024",
-      "clue": "What passive-aggressive thing you check after not being invited to someone's party",
-      "answer": "What is their Instagram stories from the party?",
-      "value": 400,
-      "why_it_works": "Modern social media stalking behavior"
-    },
-    {
-      "id": "C025",
-      "clue": "How your cousin responds when you invite them to a party instead of their spouse you're closer to",
-      "answer": "What is 'well I'm definitely not coming'?",
-      "value": 600,
-      "why_it_works": "Family drama and unspoken rules"
-    },
-    {
-      "id": "C026",
-      "clue": "The text you send when someone RSVPs 'yes' but you literally do not remember who they are",
-      "answer": "What is 'awesome, see you there!' with internal confusion?",
-      "value": 400,
-      "why_it_works": "Social media connections you've forgotten about"
-    },
-    {
-      "id": "C027",
-      "clue": "Why your introverted friend says 'yes' to the party invitation then cancels hours before",
-      "answer": "What is social battery depletion?",
-      "value": 400,
-      "why_it_works": "Modern mental health understanding, relatable behavior"
-    },
-    {
-      "id": "C028",
-      "clue": "The universal lie you tell when declining a birthday invitation you just can't face",
-      "answer": "What is 'I have to work' or 'family thing'?",
-      "value": 400,
-      "why_it_works": "Universal white lies, relatable avoidance"
-    },
-    {
-      "id": "C029",
-      "clue": "What the plus-one person does the entire party when they don't know anyone there",
-      "answer": "What is stand awkwardly by the snacks?",
-      "value": 400,
-      "why_it_works": "Awkward social situations, relatable discomfort"
-    },
-    {
-      "id": "C030",
-      "clue": "The email subject line that guarantees nobody will actually read your party invitation details",
-      "answer": "What is anything longer than 6 words?",
-      "value": 400,
-      "why_it_works": "Modern attention span reality"
-    }
-  ]
+  "theme": "birthday",
+  "category_id": "birthday_invitations",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This formal written request asks someone to attend a party or event.",
+        "correctQuestion": "What is an invitation?",
+        "value": 200
+      },
+      {
+        "clue": "The abbreviation used on invitations that asks guests to confirm they're coming.",
+        "correctQuestion": "What is RSVP?",
+        "value": 200
+      },
+      {
+        "clue": "This date is printed on an invitation to tell guests when the party happens.",
+        "correctQuestion": "What is the date?",
+        "value": 200
+      },
+      {
+        "clue": "This information on an invitation tells guests where to go for the party.",
+        "correctQuestion": "What is the address?",
+        "value": 200
+      },
+      {
+        "clue": "This person receives an invitation to attend a birthday party.",
+        "correctQuestion": "What is a guest?",
+        "value": 200
+      },
+      {
+        "clue": "You should respond to a birthday invitation at least this many days in advance.",
+        "correctQuestion": "What is two weeks?",
+        "value": 200
+      },
+      {
+        "clue": "This is the polite response when you plan to attend a birthday party.",
+        "correctQuestion": "What is 'yes' or 'I accept'?",
+        "value": 200
+      },
+      {
+        "clue": "This is the appropriate response if you cannot attend a birthday party.",
+        "correctQuestion": "What is 'no' or 'I regret to inform you I cannot attend'?",
+        "value": 200
+      },
+      {
+        "clue": "The maximum number of guests typically invited to a party depends on this factor.",
+        "correctQuestion": "What is the venue size or budget?",
+        "value": 200
+      },
+      {
+        "clue": "This is a list of all the people invited to a birthday party.",
+        "correctQuestion": "What is a guest list?",
+        "value": 200
+      },
+      {
+        "clue": "Digital invitations sent via email are often called this.",
+        "correctQuestion": "What is an e-invitation or e-vite?",
+        "value": 200
+      },
+      {
+        "clue": "This popular website is commonly used to send digital party invitations.",
+        "correctQuestion": "What is Evite?",
+        "value": 200
+      },
+      {
+        "clue": "This social media platform is increasingly used to send birthday party invitations.",
+        "correctQuestion": "What is Facebook?",
+        "value": 200
+      },
+      {
+        "clue": "The host should follow up with non-respondents at least this long before the party.",
+        "correctQuestion": "What is one week?",
+        "value": 200
+      },
+      {
+        "clue": "This detail on an invitation tells guests what time the party begins.",
+        "correctQuestion": "What is the start time?",
+        "value": 200
+      },
+      {
+        "clue": "This information helps guests know how long to stay at a birthday party.",
+        "correctQuestion": "What is the end time?",
+        "value": 200
+      },
+      {
+        "clue": "It's important to include this person's contact information on the invitation for questions.",
+        "correctQuestion": "What is the host's phone number or email?",
+        "value": 200
+      },
+      {
+        "clue": "This term describes people you're not sure whether to invite to your party.",
+        "correctQuestion": "What is the maybe list?",
+        "value": 200
+      },
+      {
+        "clue": "Inviting someone's friend without their consent is called this.",
+        "correctQuestion": "What is a plus-one?",
+        "value": 200
+      },
+      {
+        "clue": "These three letters on an invitation stand for Regrets Only.",
+        "correctQuestion": "What is RO?",
+        "value": 200
+      },
+      {
+        "clue": "A guest should mention this dietary need on their RSVP response.",
+        "correctQuestion": "What is allergies or dietary restrictions?",
+        "value": 200
+      },
+      {
+        "clue": "The deadline date for responding to an invitation is usually called the RSVP this.",
+        "correctQuestion": "What is the RSVP date?",
+        "value": 200
+      },
+      {
+        "clue": "If you're not sure about attending, you might tell the host you need this many days to decide.",
+        "correctQuestion": "What is a few days?",
+        "value": 200
+      },
+      {
+        "clue": "A handwritten invitation is considered this level of formality.",
+        "correctQuestion": "What is formal?",
+        "value": 200
+      },
+      {
+        "clue": "This type of invitation is printed and mailed through the postal service.",
+        "correctQuestion": "What is a formal invitation or card?",
+        "value": 200
+      },
+      {
+        "clue": "A text message invitation is generally considered this level of formality.",
+        "correctQuestion": "What is casual?",
+        "value": 200
+      },
+      {
+        "clue": "This is the appropriate time frame for sending invitations before a party.",
+        "correctQuestion": "What is 2-4 weeks?",
+        "value": 200
+      },
+      {
+        "clue": "If a guest accidentally doesn't respond, the host should send them this.",
+        "correctQuestion": "What is a reminder?",
+        "value": 200
+      },
+      {
+        "clue": "A celebrity or important person who sends regrets should still include this in their response.",
+        "correctQuestion": "What is a kind note or apology?",
+        "value": 200
+      },
+      {
+        "clue": "The most common reason someone declines a birthday party invitation is this.",
+        "correctQuestion": "What is a prior commitment?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

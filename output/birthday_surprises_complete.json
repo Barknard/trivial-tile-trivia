@@ -2,7 +2,6 @@
   "category": "Birthday Surprises",
   "theme": "birthday",
   "category_id": "birthday_surprises",
-  "research_basis": "Emotional psychology of surprise (expectation violations, brain network dynamics), theory of mind and secret planning (recursive mental models, deception calibration), gift-giving psychology (dopamine/anticipation, oxytocin/bonding), social planning (coordination theory, information asymmetry), developmental psychology (false belief understanding, surprise as belief-emotion)",
   "audiences": {
     "kids_4_under": [
       {
@@ -323,7 +322,7 @@
         "value": 400
       }
     ],
-    "teens_15_under": [
+    "teenagers": [
       {
         "clue": "The neuroscience principle that dopamine release is about the pursuit of the reward, not the reward itself",
         "correctQuestion": "What is anticipatory reward?",
@@ -500,7 +499,7 @@
         "value": 400
       }
     ],
-    "adults_18": [
+    "adults": [
       {
         "clue": "The ventral striatum's dopamine response to gift-giving is stronger during this phase than during actual receipt",
         "correctQuestion": "What is anticipation or planning?",
@@ -662,7 +661,7 @@
         "value": 400
       }
     ],
-    "experts": [
+    "no_humanity": [
       {
         "clue": "The dual-process theory of surprise distinguishes between this fast evaluation and slower belief updating",
         "correctQuestion": "What is automatic affect versus deliberate cognition?",
@@ -914,12 +913,5 @@
         "value": 600
       }
     ]
-  },
-  "additional_research_notes": {
-    "emotional_psychology": "Surprise is both a cognitive state (violation of expectations/prediction error) and an emotional state (valenced response). Recent neuroscience shows the brain's prediction error signals (anterior insula, prediction networks) integrate with affective systems, activating both reward regions and mentalizing networks. The phenomenology of anticipatory joy (waiting for surprise) produces dopamine release that is neurochemically distinct from the dopamine response to actual receipt - the anticipation itself is a primary source of hedonic value.",
-    "theory_of_mind": "Successful surprise planning requires recursive theory of mind: planners must understand that the target holds a false belief about their birthday, AND they must continuously model whether the target might infer the truth. Research on multiagent deception shows that rational agents equipped with theory of mind automatically calibrate their deceptions based on assumptions about target rationality. Surprise as an emotion uniquely requires holding contradictory beliefs - it is quintessentially a belief-based emotion dependent on understanding false belief states.",
-    "gift_psychology": "Gift-giving activates two distinct reward systems: (1) The hedonic/dopamine system responds to the pleasure of giving itself, even before the recipient knows about the gift. (2) The oxytocin system mediates bonding and prosocial sentiment. Importantly, unexpected gifts trigger stronger dopamine response than expected gifts because of the prediction error signal. This means surprise wrapping and secret giving produce measurably greater neural reward than transparent gift-giving.",
-    "social_planning": "Surprise party coordination requires managing information asymmetries across teams of planners. Game-theoretic analysis shows that rational agents with misaligned utilities will engage in strategic information hiding. Successful surprise planning requires this to be undetectable by the target - the planners must maintain common knowledge among themselves while preventing the target from inferring any breach in the false belief they're maintaining.",
-    "research_citations": "Brain network dynamics (PubMed 39715875), Children's surprise-based competence inference (Stanford), Theory of mind and emotional mismatch (Springer Affective Science 2025), Multiagent deception and skepticism (OpenReview/MIT Open Mind), Gift-giving neuroscience (University of Arizona), Anticipatory dopamine and mood (Six Seconds), False belief development in surprise understanding (developmental psychology literature), Bayesian pragmatics of deception (cognitive science)"
   }
 }

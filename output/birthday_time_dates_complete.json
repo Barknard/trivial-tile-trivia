@@ -2,7 +2,6 @@
   "category": "Birthday Time and Dates",
   "theme": "birthdays",
   "category_id": "birthday_time_dates",
-  "research_basis": "Temporal cognition and calendar understanding in developmental psychology (Friedman, 2008), mathematical understanding of time intervals and age calculation (Piaget's cognitive development theory), calendrical systems and date mathematics (ISO 8601 international standards), leap year calculations and astronomical principles (Meeus, 1991), chronological reasoning in cross-cultural contexts (Hutchins, 1995), time perception across lifespan development (Block & Zakay, 2008), mathematical age calculations and birthday paradoxes (probability theory - Diaconis & Mosteller, 1989), historical calendar reforms and date standardization (Richards, 1998), cross-cultural birthday traditions and temporal markers (Foley & Robbins, 2005), neurocognitive development of temporal understanding (Wittmann, 2009)",
   "audiences": {
     "kids_4_under": [
       {
@@ -695,9 +694,7 @@
         "clue": "This is the number of different birth months you could be born in",
         "correctQuestion": "What is twelve?",
         "value": 1000
-      }
-    ],
-    "seniors": [
+      },
       {
         "clue": "Someone born in 1940 reached their birthday milestone of this age in 2024",
         "correctQuestion": "What is eighty-four?",

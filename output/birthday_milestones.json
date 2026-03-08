@@ -1,430 +1,313 @@
 {
-  "title": "Birthday Milestones Trivia",
-  "description": "Regular and Cards Against Humanity style clues about milestone birthdays",
-  "total_clues": 60,
-  "regular_clues": 30,
-  "cah_clues": 30,
-  "milestones": [16, 18, 21, 30, 40, 50, 60, 65, 70, 75],
-  "clues": [
-    {
-      "id": 1,
-      "type": "regular",
-      "milestone": 16,
-      "clue": "This age marks when most teens can legally drive in the USA",
-      "answer": "What is 16?"
-    },
-    {
-      "id": 2,
-      "type": "regular",
-      "milestone": 18,
-      "clue": "The legal voting age in the United States",
-      "answer": "What is 18?"
-    },
-    {
-      "id": 3,
-      "type": "regular",
-      "milestone": 21,
-      "clue": "Legal drinking age in the United States",
-      "answer": "What is 21?"
-    },
-    {
-      "id": 4,
-      "type": "regular",
-      "milestone": 30,
-      "clue": "First major milestone where 'adulting' really begins",
-      "answer": "What is 30?"
-    },
-    {
-      "id": 5,
-      "type": "regular",
-      "milestone": 40,
-      "clue": "The age of the midlife crisis cliché",
-      "answer": "What is 40?"
-    },
-    {
-      "id": 6,
-      "type": "regular",
-      "milestone": 50,
-      "clue": "Golden anniversary of half a century",
-      "answer": "What is 50?"
-    },
-    {
-      "id": 7,
-      "type": "regular",
-      "milestone": 60,
-      "clue": "When retirement planning becomes a real concern",
-      "answer": "What is 60?"
-    },
-    {
-      "id": 8,
-      "type": "regular",
-      "milestone": 65,
-      "clue": "Traditional full retirement age in many countries",
-      "answer": "What is 65?"
-    },
-    {
-      "id": 9,
-      "type": "regular",
-      "milestone": 70,
-      "clue": "When 'getting older' becomes undeniable",
-      "answer": "What is 70?"
-    },
-    {
-      "id": 10,
-      "type": "regular",
-      "milestone": 75,
-      "clue": "Age when most people qualify for senior discounts everywhere",
-      "answer": "What is 75?"
-    },
-    {
-      "id": 11,
-      "type": "regular",
-      "milestone": 16,
-      "clue": "Sweet ___ party celebrates this milestone",
-      "answer": "What is 16?"
-    },
-    {
-      "id": 12,
-      "type": "regular",
-      "milestone": 18,
-      "clue": "Officially becoming an adult in most Western countries",
-      "answer": "What is 18?"
-    },
-    {
-      "id": 13,
-      "type": "regular",
-      "milestone": 21,
-      "clue": "When you stop lying about your age at bars",
-      "answer": "What is 21?"
-    },
-    {
-      "id": 14,
-      "type": "regular",
-      "milestone": 30,
-      "clue": "Age when your knees start making noise when you stand up",
-      "answer": "What is 30?"
-    },
-    {
-      "id": 15,
-      "type": "regular",
-      "milestone": 40,
-      "clue": "When you realize your life didn't go according to plan",
-      "answer": "What is 40?"
-    },
-    {
-      "id": 16,
-      "type": "regular",
-      "milestone": 50,
-      "clue": "Age when you finally stop caring what people think",
-      "answer": "What is 50?"
-    },
-    {
-      "id": 17,
-      "type": "regular",
-      "milestone": 60,
-      "clue": "The new forty, allegedly",
-      "answer": "What is 60?"
-    },
-    {
-      "id": 18,
-      "type": "regular",
-      "milestone": 65,
-      "clue": "Time to collect Social Security benefits",
-      "answer": "What is 65?"
-    },
-    {
-      "id": 19,
-      "type": "regular",
-      "milestone": 70,
-      "clue": "When airplane seat recline becomes a priority",
-      "answer": "What is 70?"
-    },
-    {
-      "id": 20,
-      "type": "regular",
-      "milestone": 75,
-      "clue": "Age for AARP membership eligibility",
-      "answer": "What is 75?"
-    },
-    {
-      "id": 21,
-      "type": "regular",
-      "milestone": 16,
-      "clue": "Year of the learner's permit and unlimited freedom",
-      "answer": "What is 16?"
-    },
-    {
-      "id": 22,
-      "type": "regular",
-      "milestone": 18,
-      "clue": "When you can legally sign contracts without parental consent",
-      "answer": "What is 18?"
-    },
-    {
-      "id": 23,
-      "type": "regular",
-      "milestone": 21,
-      "clue": "Age for renting a car without surcharges",
-      "answer": "What is 21?"
-    },
-    {
-      "id": 24,
-      "type": "regular",
-      "milestone": 30,
-      "clue": "Quarter-century marker plus five years",
-      "answer": "What is 30?"
-    },
-    {
-      "id": 25,
-      "type": "regular",
-      "milestone": 40,
-      "clue": "Double your teens equals this milestone",
-      "answer": "What is 40?"
-    },
-    {
-      "id": 26,
-      "type": "regular",
-      "milestone": 50,
-      "clue": "Half a century of existence",
-      "answer": "What is 50?"
-    },
-    {
-      "id": 27,
-      "type": "regular",
-      "milestone": 60,
-      "clue": "Triple your twenties",
-      "answer": "What is 60?"
-    },
-    {
-      "id": 28,
-      "type": "regular",
-      "milestone": 65,
-      "clue": "When most people trade office hours for nap time",
-      "answer": "What is 65?"
-    },
-    {
-      "id": 29,
-      "type": "regular",
-      "milestone": 70,
-      "clue": "Age when you finally understand what your parents were talking about",
-      "answer": "What is 70?"
-    },
-    {
-      "id": 30,
-      "type": "regular",
-      "milestone": 75,
-      "clue": "When showing up to an event counts as an accomplishment",
-      "answer": "What is 75?"
-    },
-    {
-      "id": 31,
-      "type": "cah",
-      "milestone": 16,
-      "clue": "The age when you think you can parallel park like you own the road, but you're actually a menace to society",
-      "answer": "What is 16?"
-    },
-    {
-      "id": 32,
-      "type": "cah",
-      "milestone": 18,
-      "clue": "The moment you realize your parents didn't know what they were doing either",
-      "answer": "What is 18?"
-    },
-    {
-      "id": 33,
-      "type": "cah",
-      "milestone": 21,
-      "clue": "When you finally understand why your dad drinks so much",
-      "answer": "What is 21?"
-    },
-    {
-      "id": 34,
-      "type": "cah",
-      "milestone": 30,
-      "clue": "Age when you realize student loans will chase you until the grave",
-      "answer": "What is 30?"
-    },
-    {
-      "id": 35,
-      "type": "cah",
-      "milestone": 40,
-      "clue": "The perfect age to buy a sports car to cope with your terrible life choices",
-      "answer": "What is 40?"
-    },
-    {
-      "id": 36,
-      "type": "cah",
-      "milestone": 50,
-      "clue": "When your knees hurt more than your ex's Instagram hurts your feelings",
-      "answer": "What is 50?"
-    },
-    {
-      "id": 37,
-      "type": "cah",
-      "milestone": 60,
-      "clue": "The age when your parents start asking you for tech support, but you Google it too",
-      "answer": "What is 60?"
-    },
-    {
-      "id": 38,
-      "type": "cah",
-      "milestone": 65,
-      "clue": "When you finally have time to yell at clouds, but TikTok teenagers ruin it",
-      "answer": "What is 65?"
-    },
-    {
-      "id": 39,
-      "type": "cah",
-      "milestone": 70,
-      "clue": "The age when a good bowel movement feels like a major accomplishment",
-      "answer": "What is 70?"
-    },
-    {
-      "id": 40,
-      "type": "cah",
-      "milestone": 75,
-      "clue": "When your medication list is longer than your actual to-do list",
-      "answer": "What is 75?"
-    },
-    {
-      "id": 41,
-      "type": "cah",
-      "milestone": 16,
-      "clue": "The age when you're invincible on social media but absolutely terrified your mom will find your browsing history",
-      "answer": "What is 16?"
-    },
-    {
-      "id": 42,
-      "type": "cah",
-      "milestone": 18,
-      "clue": "When you can vote for the same person your parents despise",
-      "answer": "What is 18?"
-    },
-    {
-      "id": 43,
-      "type": "cah",
-      "milestone": 21,
-      "clue": "The age when you're still too poor to afford good alcohol, so you drink gas station wine",
-      "answer": "What is 21?"
-    },
-    {
-      "id": 44,
-      "type": "cah",
-      "milestone": 30,
-      "clue": "When your friends with kids stop responding to group texts from 2015",
-      "answer": "What is 30?"
-    },
-    {
-      "id": 45,
-      "type": "cah",
-      "milestone": 40,
-      "clue": "The age where TikTok makes you feel ancient, but you're still not ready for a flip phone",
-      "answer": "What is 40?"
-    },
-    {
-      "id": 46,
-      "type": "cah",
-      "milestone": 50,
-      "clue": "When you realize your Spotify Discover Weekly has devolved into classic rock and lo-fi beats",
-      "answer": "What is 50?"
-    },
-    {
-      "id": 47,
-      "type": "cah",
-      "milestone": 60,
-      "clue": "The age when you ask the barista what the WiFi password is instead of just asking for coffee",
-      "answer": "What is 60?"
-    },
-    {
-      "id": 48,
-      "type": "cah",
-      "milestone": 65,
-      "clue": "When your grandkids finally understand why you complain about the weather constantly",
-      "answer": "What is 65?"
-    },
-    {
-      "id": 49,
-      "type": "cah",
-      "milestone": 70,
-      "clue": "The age when you've seen enough government scandals to be perpetually disappointed",
-      "answer": "What is 70?"
-    },
-    {
-      "id": 50,
-      "type": "cah",
-      "milestone": 75,
-      "clue": "When your browser history is just WebMD articles about things that probably aren't actually wrong",
-      "answer": "What is 75?"
-    },
-    {
-      "id": 51,
-      "type": "cah",
-      "milestone": 16,
-      "clue": "The moment you think you're cool enough to ignore your parents, but you're not paying bills yet",
-      "answer": "What is 16?"
-    },
-    {
-      "id": 52,
-      "type": "cah",
-      "milestone": 18,
-      "clue": "When you can legally get arrested for stuff your parents used to do in high school",
-      "answer": "What is 18?"
-    },
-    {
-      "id": 53,
-      "type": "cah",
-      "milestone": 21,
-      "clue": "The age when hangovers last a week and your liver starts filing a complaint",
-      "answer": "What is 21?"
-    },
-    {
-      "id": 54,
-      "type": "cah",
-      "milestone": 30,
-      "clue": "When your Instagram transitions from party pics to kitchen renovation photos",
-      "answer": "What is 30?"
-    },
-    {
-      "id": 55,
-      "type": "cah",
-      "milestone": 40,
-      "clue": "The age when your back goes out more than you do",
-      "answer": "What is 40?"
-    },
-    {
-      "id": 56,
-      "type": "cah",
-      "milestone": 50,
-      "clue": "When your kids become embarrassed by your TikTok dance attempts",
-      "answer": "What is 50?"
-    },
-    {
-      "id": 57,
-      "type": "cah",
-      "milestone": 60,
-      "clue": "The age when Amazon Prime is your only joy and Costco trips are your social life",
-      "answer": "What is 60?"
-    },
-    {
-      "id": 58,
-      "type": "cah",
-      "milestone": 65,
-      "clue": "When you finally have time to write angry letters, but nobody reads physical mail anymore",
-      "answer": "What is 65?"
-    },
-    {
-      "id": 59,
-      "type": "cah",
-      "milestone": 70,
-      "clue": "The age when you've forgotten so much useful information you're basically a storage unit",
-      "answer": "What is 70?"
-    },
-    {
-      "id": 60,
-      "type": "cah",
-      "milestone": 75,
-      "clue": "When you qualify for discounts on everything except the healthcare you actually need",
-      "answer": "What is 75?"
-    }
-  ]
+  "category": "Birthday Milestones",
+  "theme": "birthday",
+  "category_id": "birthday_milestones",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This age marks when most teens can legally drive in the USA",
+        "correctQuestion": "What is 16?",
+        "value": 200
+      },
+      {
+        "clue": "The legal voting age in the United States",
+        "correctQuestion": "What is 18?",
+        "value": 200
+      },
+      {
+        "clue": "Legal drinking age in the United States",
+        "correctQuestion": "What is 21?",
+        "value": 200
+      },
+      {
+        "clue": "First major milestone where 'adulting' really begins",
+        "correctQuestion": "What is 30?",
+        "value": 200
+      },
+      {
+        "clue": "The age of the midlife crisis cliché",
+        "correctQuestion": "What is 40?",
+        "value": 200
+      },
+      {
+        "clue": "Golden anniversary of half a century",
+        "correctQuestion": "What is 50?",
+        "value": 200
+      },
+      {
+        "clue": "When retirement planning becomes a real concern",
+        "correctQuestion": "What is 60?",
+        "value": 200
+      },
+      {
+        "clue": "Traditional full retirement age in many countries",
+        "correctQuestion": "What is 65?",
+        "value": 200
+      },
+      {
+        "clue": "When 'getting older' becomes undeniable",
+        "correctQuestion": "What is 70?",
+        "value": 200
+      },
+      {
+        "clue": "Age when most people qualify for senior discounts everywhere",
+        "correctQuestion": "What is 75?",
+        "value": 200
+      },
+      {
+        "clue": "Sweet ___ party celebrates this milestone",
+        "correctQuestion": "What is 16?",
+        "value": 200
+      },
+      {
+        "clue": "Officially becoming an adult in most Western countries",
+        "correctQuestion": "What is 18?",
+        "value": 200
+      },
+      {
+        "clue": "When you stop lying about your age at bars",
+        "correctQuestion": "What is 21?",
+        "value": 200
+      },
+      {
+        "clue": "Age when your knees start making noise when you stand up",
+        "correctQuestion": "What is 30?",
+        "value": 200
+      },
+      {
+        "clue": "When you realize your life didn't go according to plan",
+        "correctQuestion": "What is 40?",
+        "value": 200
+      },
+      {
+        "clue": "Age when you finally stop caring what people think",
+        "correctQuestion": "What is 50?",
+        "value": 200
+      },
+      {
+        "clue": "The new forty, allegedly",
+        "correctQuestion": "What is 60?",
+        "value": 200
+      },
+      {
+        "clue": "Time to collect Social Security benefits",
+        "correctQuestion": "What is 65?",
+        "value": 200
+      },
+      {
+        "clue": "When airplane seat recline becomes a priority",
+        "correctQuestion": "What is 70?",
+        "value": 200
+      },
+      {
+        "clue": "Age for AARP membership eligibility",
+        "correctQuestion": "What is 75?",
+        "value": 200
+      },
+      {
+        "clue": "Year of the learner's permit and unlimited freedom",
+        "correctQuestion": "What is 16?",
+        "value": 200
+      },
+      {
+        "clue": "When you can legally sign contracts without parental consent",
+        "correctQuestion": "What is 18?",
+        "value": 200
+      },
+      {
+        "clue": "Age for renting a car without surcharges",
+        "correctQuestion": "What is 21?",
+        "value": 200
+      },
+      {
+        "clue": "Quarter-century marker plus five years",
+        "correctQuestion": "What is 30?",
+        "value": 200
+      },
+      {
+        "clue": "Double your teens equals this milestone",
+        "correctQuestion": "What is 40?",
+        "value": 200
+      },
+      {
+        "clue": "Half a century of existence",
+        "correctQuestion": "What is 50?",
+        "value": 200
+      },
+      {
+        "clue": "Triple your twenties",
+        "correctQuestion": "What is 60?",
+        "value": 200
+      },
+      {
+        "clue": "When most people trade office hours for nap time",
+        "correctQuestion": "What is 65?",
+        "value": 200
+      },
+      {
+        "clue": "Age when you finally understand what your parents were talking about",
+        "correctQuestion": "What is 70?",
+        "value": 200
+      },
+      {
+        "clue": "When showing up to an event counts as an accomplishment",
+        "correctQuestion": "What is 75?",
+        "value": 200
+      },
+      {
+        "clue": "The age when you think you can parallel park like you own the road, but you're actually a menace to society",
+        "correctQuestion": "What is 16?",
+        "value": 200
+      },
+      {
+        "clue": "The moment you realize your parents didn't know what they were doing either",
+        "correctQuestion": "What is 18?",
+        "value": 200
+      },
+      {
+        "clue": "When you finally understand why your dad drinks so much",
+        "correctQuestion": "What is 21?",
+        "value": 200
+      },
+      {
+        "clue": "Age when you realize student loans will chase you until the grave",
+        "correctQuestion": "What is 30?",
+        "value": 200
+      },
+      {
+        "clue": "The perfect age to buy a sports car to cope with your terrible life choices",
+        "correctQuestion": "What is 40?",
+        "value": 200
+      },
+      {
+        "clue": "When your knees hurt more than your ex's Instagram hurts your feelings",
+        "correctQuestion": "What is 50?",
+        "value": 200
+      },
+      {
+        "clue": "The age when your parents start asking you for tech support, but you Google it too",
+        "correctQuestion": "What is 60?",
+        "value": 200
+      },
+      {
+        "clue": "When you finally have time to yell at clouds, but TikTok teenagers ruin it",
+        "correctQuestion": "What is 65?",
+        "value": 200
+      },
+      {
+        "clue": "The age when a good bowel movement feels like a major accomplishment",
+        "correctQuestion": "What is 70?",
+        "value": 200
+      },
+      {
+        "clue": "When your medication list is longer than your actual to-do list",
+        "correctQuestion": "What is 75?",
+        "value": 200
+      },
+      {
+        "clue": "The age when you're invincible on social media but absolutely terrified your mom will find your browsing history",
+        "correctQuestion": "What is 16?",
+        "value": 200
+      },
+      {
+        "clue": "When you can vote for the same person your parents despise",
+        "correctQuestion": "What is 18?",
+        "value": 200
+      },
+      {
+        "clue": "The age when you're still too poor to afford good alcohol, so you drink gas station wine",
+        "correctQuestion": "What is 21?",
+        "value": 200
+      },
+      {
+        "clue": "When your friends with kids stop responding to group texts from 2015",
+        "correctQuestion": "What is 30?",
+        "value": 200
+      },
+      {
+        "clue": "The age where TikTok makes you feel ancient, but you're still not ready for a flip phone",
+        "correctQuestion": "What is 40?",
+        "value": 200
+      },
+      {
+        "clue": "When you realize your Spotify Discover Weekly has devolved into classic rock and lo-fi beats",
+        "correctQuestion": "What is 50?",
+        "value": 200
+      },
+      {
+        "clue": "The age when you ask the barista what the WiFi password is instead of just asking for coffee",
+        "correctQuestion": "What is 60?",
+        "value": 200
+      },
+      {
+        "clue": "When your grandkids finally understand why you complain about the weather constantly",
+        "correctQuestion": "What is 65?",
+        "value": 200
+      },
+      {
+        "clue": "The age when you've seen enough government scandals to be perpetually disappointed",
+        "correctQuestion": "What is 70?",
+        "value": 200
+      },
+      {
+        "clue": "When your browser history is just WebMD articles about things that probably aren't actually wrong",
+        "correctQuestion": "What is 75?",
+        "value": 200
+      },
+      {
+        "clue": "The moment you think you're cool enough to ignore your parents, but you're not paying bills yet",
+        "correctQuestion": "What is 16?",
+        "value": 200
+      },
+      {
+        "clue": "When you can legally get arrested for stuff your parents used to do in high school",
+        "correctQuestion": "What is 18?",
+        "value": 200
+      },
+      {
+        "clue": "The age when hangovers last a week and your liver starts filing a complaint",
+        "correctQuestion": "What is 21?",
+        "value": 200
+      },
+      {
+        "clue": "When your Instagram transitions from party pics to kitchen renovation photos",
+        "correctQuestion": "What is 30?",
+        "value": 200
+      },
+      {
+        "clue": "The age when your back goes out more than you do",
+        "correctQuestion": "What is 40?",
+        "value": 200
+      },
+      {
+        "clue": "When your kids become embarrassed by your TikTok dance attempts",
+        "correctQuestion": "What is 50?",
+        "value": 200
+      },
+      {
+        "clue": "The age when Amazon Prime is your only joy and Costco trips are your social life",
+        "correctQuestion": "What is 60?",
+        "value": 200
+      },
+      {
+        "clue": "When you finally have time to write angry letters, but nobody reads physical mail anymore",
+        "correctQuestion": "What is 65?",
+        "value": 200
+      },
+      {
+        "clue": "The age when you've forgotten so much useful information you're basically a storage unit",
+        "correctQuestion": "What is 70?",
+        "value": 200
+      },
+      {
+        "clue": "When you qualify for discounts on everything except the healthcare you actually need",
+        "correctQuestion": "What is 75?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

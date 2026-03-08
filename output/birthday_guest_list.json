@@ -1,447 +1,164 @@
 {
   "category": "Birthday Guest Lists & Party Invitations",
-  "description": "Party guest lists, inviting friends, who to invite, RSVP culture, friendship groups, and celebration attendance",
-  "total_questions": 60,
-  "sections": {
-    "regular_trivia": 30,
-    "cah_style": 30
-  },
-  "research_basis": {
-    "regular_trivia": [
-      "Social etiquette and party planning (2025)",
-      "Friendship groups and social dynamics",
-      "RSVP culture and invitation traditions",
-      "Party guest management and logistics"
+  "theme": "birthday",
+  "category_id": "birthday_guest_list",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What is a guest list?",
+        "correctQuestion": "A list of people invited to an event",
+        "value": 100
+      },
+      {
+        "clue": "What is the typical deadline for RSVP responses?",
+        "correctQuestion": "1-2 weeks before the event",
+        "value": 100
+      },
+      {
+        "clue": "What is an invitation?",
+        "correctQuestion": "A written or verbal request asking someone to an event",
+        "value": 100
+      },
+      {
+        "clue": "What is a plus-one?",
+        "correctQuestion": "Permission to bring one additional guest to an event",
+        "value": 100
+      },
+      {
+        "clue": "What is a surprise party?",
+        "correctQuestion": "A party where the guest of honor doesn't know about it beforehand",
+        "value": 100
+      },
+      {
+        "clue": "What is an intimate birthday gathering?",
+        "correctQuestion": "A small party with close friends or family only",
+        "value": 100
+      },
+      {
+        "clue": "What is a guest of honor?",
+        "correctQuestion": "The most important person at an event, usually the birthday person",
+        "value": 100
+      },
+      {
+        "clue": "What is a birthday registry?",
+        "correctQuestion": "A curated list of gifts or preferences from the birthday person",
+        "value": 100
+      },
+      {
+        "clue": "What is a 'no-show' at a party?",
+        "correctQuestion": "When an invited guest doesn't attend and doesn't notify the host",
+        "value": 100
+      },
+      {
+        "clue": "What is a birthday theme party?",
+        "correctQuestion": "A party where decorations, food, and entertainment follow a specific theme",
+        "value": 100
+      },
+      {
+        "clue": "What is a pot-luck party?",
+        "correctQuestion": "A gathering where each guest brings a dish to share",
+        "value": 100
+      },
+      {
+        "clue": "What is a birthday countdown?",
+        "correctQuestion": "The period leading up to someone's birthday",
+        "value": 100
+      },
+      {
+        "clue": "What is a guest book at a party?",
+        "correctQuestion": "A book where guests sign their names and write messages",
+        "value": 100
+      },
+      {
+        "clue": "What is a destination birthday party?",
+        "correctQuestion": "A celebration held at a location away from the birthday person's home",
+        "value": 100
+      },
+      {
+        "clue": "What is virtual party attendance?",
+        "correctQuestion": "Joining a celebration remotely through video call or online platform",
+        "value": 100
+      },
+      {
+        "clue": "What is a last-minute RSVP?",
+        "correctQuestion": "Responding to an invitation close to the event date",
+        "value": 100
+      },
+      {
+        "clue": "What is a group chat for party planning?",
+        "correctQuestion": "A digital conversation where attendees discuss party logistics",
+        "value": 100
+      },
+      {
+        "clue": "What is a birthday surprise planned by friends?",
+        "correctQuestion": "A coordinated effort by friends to surprise the birthday person",
+        "value": 100
+      }
     ],
-    "cah_style": [
-      "Modern social anxiety and friend management",
-      "Digital age invitations and social media",
-      "Workplace and social friendship hierarchies",
-      "Contemporary party culture and attendance issues"
-    ]
-  },
-  "regular_trivia": [
-    {
-      "id": "reg_001",
-      "question": "What does RSVP stand for?",
-      "answer": "Repondez s'il vous plait (Please respond)",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_002",
-      "question": "What is a guest list?",
-      "answer": "A list of people invited to an event",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_003",
-      "question": "What is the typical deadline for RSVP responses?",
-      "answer": "1-2 weeks before the event",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_004",
-      "question": "What is an invitation?",
-      "answer": "A written or verbal request asking someone to an event",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_005",
-      "question": "What is a plus-one?",
-      "answer": "Permission to bring one additional guest to an event",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_006",
-      "question": "What is the proper way to decline an invitation?",
-      "answer": "Politely respond as soon as possible, usually by phone or card",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_007",
-      "question": "What is a surprise party?",
-      "answer": "A party where the guest of honor doesn't know about it beforehand",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_008",
-      "question": "What is an intimate birthday gathering?",
-      "answer": "A small party with close friends or family only",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_009",
-      "question": "What is a cocktail party reception?",
-      "answer": "A formal gathering where guests mingle and drink",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_010",
-      "question": "What does 'no plus-ones' mean on an invitation?",
-      "answer": "You cannot bring additional guests beyond yourself",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_011",
-      "question": "What is a guest of honor?",
-      "answer": "The most important person at an event, usually the birthday person",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_012",
-      "question": "What should you do if you receive an invitation but cannot attend?",
-      "answer": "Respond as soon as possible with a polite decline and reason if appropriate",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_013",
-      "question": "What is a birthday registry?",
-      "answer": "A curated list of gifts or preferences from the birthday person",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_014",
-      "question": "What is the purpose of a seating arrangement at a formal dinner party?",
-      "answer": "To ensure good conversation and social flow among guests",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_015",
-      "question": "What is a 'no-show' at a party?",
-      "answer": "When an invited guest doesn't attend and doesn't notify the host",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_016",
-      "question": "What is a birthday theme party?",
-      "answer": "A party where decorations, food, and entertainment follow a specific theme",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_017",
-      "question": "What is a pot-luck party?",
-      "answer": "A gathering where each guest brings a dish to share",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_018",
-      "question": "What is cocktail attire?",
-      "answer": "Semi-formal dress code for evening events",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_019",
-      "question": "What is a birthday countdown?",
-      "answer": "The period leading up to someone's birthday",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_020",
-      "question": "What is a guest book at a party?",
-      "answer": "A book where guests sign their names and write messages",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_021",
-      "question": "What should an invitation include?",
-      "answer": "Date, time, location, RSVP details, and dress code if applicable",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_022",
-      "question": "What is a destination birthday party?",
-      "answer": "A celebration held at a location away from the birthday person's home",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_023",
-      "question": "What is virtual party attendance?",
-      "answer": "Joining a celebration remotely through video call or online platform",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_024",
-      "question": "What is a last-minute RSVP?",
-      "answer": "Responding to an invitation close to the event date",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_025",
-      "question": "What is an exclusive guest list?",
-      "answer": "A carefully selected limited group of invited guests",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_026",
-      "question": "What is a rain date for an outdoor party?",
-      "answer": "An alternate date in case of bad weather",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_027",
-      "question": "What is a group chat for party planning?",
-      "answer": "A digital conversation where attendees discuss party logistics",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_028",
-      "question": "What is the etiquette for bringing uninvited guests?",
-      "answer": "You should not bring uninvited guests without asking the host first",
-      "difficulty": "Medium",
-      "value": 300
-    },
-    {
-      "id": "reg_029",
-      "question": "What is a birthday surprise planned by friends?",
-      "answer": "A coordinated effort by friends to surprise the birthday person",
-      "difficulty": "Easy",
-      "value": 100
-    },
-    {
-      "id": "reg_030",
-      "question": "What is proper timing for sending birthday invitations?",
-      "answer": "Typically 2-3 weeks in advance for most occasions",
-      "difficulty": "Medium",
-      "value": 300
-    }
-  ],
-  "cah_style_clues": [
-    {
-      "id": "cah_001",
-      "clue": "That one friend who shows up to every birthday party uninvited with a case of beer, a dog, and a reason to do shots",
-      "correctQuestion": "Who is that friend nobody knows how to uninvite?",
-      "value": 400,
-      "why_it_works": "Universal friend group experience - everyone has this person"
-    },
-    {
-      "id": "cah_002",
-      "clue": "The excuse people use when they RSVP 'yes' but ghost the party anyway",
-      "correctQuestion": "What is 'emergency work stuff came up'?",
-      "value": 600,
-      "why_it_works": "Modern flaking culture - everyone does this or knows someone who does"
-    },
-    {
-      "id": "cah_003",
-      "clue": "What your anxiety-ridden friend does 30 minutes before the party: texts 'can I still come?' after already confirming",
-      "correctQuestion": "What is having a mental breakdown?",
-      "value": 400,
-      "why_it_works": "Relatable social anxiety and last-minute panic"
-    },
-    {
-      "id": "cah_004",
-      "clue": "The type of people who take a photo of the guest list and discuss who's coming like it's Oscar predictions",
-      "correctQuestion": "Who are competitive party attendees?",
-      "value": 400,
-      "why_it_works": "Social hierarchy at parties is real - everyone has experienced this"
-    },
-    {
-      "id": "cah_005",
-      "clue": "The thing your workplace 'friend' does when they find out there's a birthday party you didn't invite them to",
-      "correctQuestion": "What is act hurt for two weeks straight?",
-      "value": 600,
-      "why_it_works": "Office politics and workplace grudges - extremely relatable"
-    },
-    {
-      "id": "cah_006",
-      "clue": "What happens when you forget to put someone on the birthday group chat and they find out through Instagram stories",
-      "correctQuestion": "What is irreversible social damage?",
-      "value": 600,
-      "why_it_works": "Digital age friendship drama - very current"
-    },
-    {
-      "id": "cah_007",
-      "clue": "The percentage of people who say 'yes' to a Facebook event invitation but never actually show up",
-      "correctQuestion": "What is like 60-70%?",
-      "value": 600,
-      "why_it_works": "Facebook RSVP culture is universally known as meaningless"
-    },
-    {
-      "id": "cah_008",
-      "clue": "That friend who asks for plus-one on an invitation that specifically says 'no plus-ones'",
-      "correctQuestion": "Who is that friend with zero social awareness?",
-      "value": 400,
-      "why_it_works": "Common party etiquette violation everyone experiences"
-    },
-    {
-      "id": "cah_009",
-      "clue": "What your mom does when she meets your friend group for the first time at your birthday party",
-      "correctQuestion": "What is try way too hard to be cool and embarrass you?",
-      "value": 400,
-      "why_it_works": "Universal parent embarrassment at social events"
-    },
-    {
-      "id": "cah_010",
-      "clue": "The awkward moment when you forgot someone important existed and have to add them to the guest list last-minute",
-      "correctQuestion": "What is panic and make a vague excuse?",
-      "value": 600,
-      "why_it_works": "Real social anxiety situation - very relatable"
-    },
-    {
-      "id": "cah_011",
-      "clue": "What the people who didn't get invited to your party are doing while you're getting lit with the chosen ones",
-      "correctQuestion": "What is scrolling through your Instagram stories at home alone?",
-      "value": 600,
-      "why_it_works": "FOMO and social exclusion through social media"
-    },
-    {
-      "id": "cah_012",
-      "clue": "The type of party where people check their phones more than they talk to the actual guests",
-      "correctQuestion": "What is a boring party with nobody you actually like?",
-      "value": 400,
-      "why_it_works": "Modern smartphone distraction at parties"
-    },
-    {
-      "id": "cah_013",
-      "clue": "That extended family member who wasn't invited but shows up anyway with a casserole and zero shame",
-      "correctQuestion": "Who is Aunt Carol or Uncle Dave?",
-      "value": 400,
-      "why_it_works": "Relatable family party crasher experience"
-    },
-    {
-      "id": "cah_014",
-      "clue": "What you text in the group chat an hour before the party starts when you realize you don't actually want to go",
-      "correctQuestion": "What is 'hey guys something came up'?",
-      "value": 600,
-      "why_it_works": "Universal flaking response - everyone recognizes this text"
-    },
-    {
-      "id": "cah_015",
-      "clue": "The reason someone gives for not inviting an ex to their birthday party without sounding like they still care",
-      "correctQuestion": "What is 'we just moved on to different friend groups'?",
-      "value": 600,
-      "why_it_works": "Post-breakup social drama and careful management"
-    },
-    {
-      "id": "cah_016",
-      "clue": "Who you're forced to invite to your birthday even though they never show up or acknowledge your existence otherwise",
-      "correctQuestion": "Who is your coworker you barely know?",
-      "value": 400,
-      "why_it_works": "Obligation invitations to people you don't really want there"
-    },
-    {
-      "id": "cah_017",
-      "clue": "The group chat rule that everyone breaks: only telling people the time but showing up 45 minutes late",
-      "correctQuestion": "What is 'CP time' or 'being fashionably late'?",
-      "value": 400,
-      "why_it_works": "Common party timing culture and expectations"
-    },
-    {
-      "id": "cah_018",
-      "clue": "What everyone claims they're bringing to the potluck birthday dinner that they obviously bought from the store",
-      "correctQuestion": "What is 'homemade' dessert or sides?",
-      "value": 600,
-      "why_it_works": "Fake potluck contributions - universal party behavior"
-    },
-    {
-      "id": "cah_019",
-      "clue": "That one friend who turns your birthday party into a networking event and keeps giving everyone their business card",
-      "correctQuestion": "Who is the aggressive entrepreneur friend?",
-      "value": 400,
-      "why_it_works": "Awkward networking at social events"
-    },
-    {
-      "id": "cah_020",
-      "clue": "The awkward moment when your two friend groups meet and have absolutely nothing in common to talk about",
-      "correctQuestion": "What is dead silence and everyone checking their phones?",
-      "value": 600,
-      "why_it_works": "Social mixing anxiety - very relatable"
-    },
-    {
-      "id": "cah_021",
-      "clue": "What someone inevitably does when you create a birthday group chat: lurks for three days then asks 'am I invited?'",
-      "correctQuestion": "What is prove they weren't actually invited?",
-      "value": 600,
-      "why_it_works": "Digital age party invite drama"
-    },
-    {
-      "id": "cah_022",
-      "clue": "The reason your friend's new boyfriend ruins the entire guest list dynamic and makes everyone uncomfortable",
-      "correctQuestion": "What is he's controlling and 'doesn't let her go out'?",
-      "value": 600,
-      "why_it_works": "Toxic relationship dynamics affecting friend groups"
-    },
-    {
-      "id": "cah_023",
-      "clue": "What you pretend to do when an acquaintance says they want to 'catch up' and invites themselves to your birthday",
-      "correctQuestion": "What is forget they asked?",
-      "value": 400,
-      "why_it_works": "Avoiding awkward social obligations"
-    },
-    {
-      "id": "cah_024",
-      "clue": "That friend who asks for the guest list so they can see who's more important than them this year",
-      "correctQuestion": "Who is your insecure competitive friend?",
-      "value": 600,
-      "why_it_works": "Friendship hierarchy and insecurity"
-    },
-    {
-      "id": "cah_025",
-      "clue": "The thing everyone does on their phone when they arrive at a birthday party with people they don't know",
-      "correctQuestion": "What is hide in the bathroom for five minutes?",
-      "value": 400,
-      "why_it_works": "Social anxiety escape tactics"
-    },
-    {
-      "id": "cah_026",
-      "clue": "Who shows up to your party, eats all the good food, leaves early, and sends a text 'thanks for the party!' three weeks later",
-      "correctQuestion": "Who is your flaky friend with zero manners?",
-      "value": 600,
-      "why_it_works": "Rude party guest behavior - universal experience"
-    },
-    {
-      "id": "cah_027",
-      "clue": "The reason you can't have a small intimate birthday party without offending five people who found out via Instagram",
-      "correctQuestion": "What is social media stalking?",
-      "value": 600,
-      "why_it_works": "Digital age social drama and FOMO"
-    },
-    {
-      "id": "cah_028",
-      "clue": "What your drunk uncle does at your birthday party instead of just eating cake like a normal person",
-      "correctQuestion": "What is start a political argument with a 19-year-old and ruin everything?",
-      "value": 600,
-      "why_it_works": "Drunk relative party chaos - extremely relatable"
-    },
-    {
-      "id": "cah_029",
-      "clue": "The person on your guest list nobody actually invited but just assumes they were and shows up anyway",
-      "correctQuestion": "Who is that friend-of-a-friend with boundary issues?",
-      "value": 400,
-      "why_it_works": "Party crasher dynamics and unclear invitations"
-    },
-    {
-      "id": "cah_030",
-      "clue": "What your mom keeps saying to convince you to invite that one person you actively dislike to your birthday party",
-      "correctQuestion": "What is 'but you've known them since third grade'?",
-      "value": 600,
-      "why_it_works": "Parent pressure to include old acquaintances"
-    }
-  ]
+    "kids_10_under": [
+      {
+        "clue": "What does RSVP stand for?",
+        "correctQuestion": "Repondez s'il vous plait (Please respond)",
+        "value": 300
+      },
+      {
+        "clue": "What is the proper way to decline an invitation?",
+        "correctQuestion": "Politely respond as soon as possible, usually by phone or card",
+        "value": 300
+      },
+      {
+        "clue": "What is a cocktail party reception?",
+        "correctQuestion": "A formal gathering where guests mingle and drink",
+        "value": 300
+      },
+      {
+        "clue": "What does 'no plus-ones' mean on an invitation?",
+        "correctQuestion": "You cannot bring additional guests beyond yourself",
+        "value": 300
+      },
+      {
+        "clue": "What should you do if you receive an invitation but cannot attend?",
+        "correctQuestion": "Respond as soon as possible with a polite decline and reason if appropriate",
+        "value": 300
+      },
+      {
+        "clue": "What is the purpose of a seating arrangement at a formal dinner party?",
+        "correctQuestion": "To ensure good conversation and social flow among guests",
+        "value": 300
+      },
+      {
+        "clue": "What is cocktail attire?",
+        "correctQuestion": "Semi-formal dress code for evening events",
+        "value": 300
+      },
+      {
+        "clue": "What should an invitation include?",
+        "correctQuestion": "Date, time, location, RSVP details, and dress code if applicable",
+        "value": 300
+      },
+      {
+        "clue": "What is an exclusive guest list?",
+        "correctQuestion": "A carefully selected limited group of invited guests",
+        "value": 300
+      },
+      {
+        "clue": "What is a rain date for an outdoor party?",
+        "correctQuestion": "An alternate date in case of bad weather",
+        "value": 300
+      },
+      {
+        "clue": "What is the etiquette for bringing uninvited guests?",
+        "correctQuestion": "You should not bring uninvited guests without asking the host first",
+        "value": 300
+      },
+      {
+        "clue": "What is proper timing for sending birthday invitations?",
+        "correctQuestion": "Typically 2-3 weeks in advance for most occasions",
+        "value": 300
+      }
+    ],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

@@ -2,7 +2,6 @@
   "category": "Birthday Party Etiquette",
   "theme": "birthday",
   "category_id": "birthday_party_etiquette",
-  "research_basis": "Social norms and etiquette education (Emily Post Institute, etiquette guides), prosocial behavior development, social awareness and relationship skills (SEL framework), host-guest social contracts, age-appropriate party behavior expectations, gift-giving customs, gratitude norms, conflict resolution in social settings",
   "audiences": {
     "kids_4_under": [
       {
@@ -308,7 +307,7 @@
         "value": 1000
       }
     ],
-    "teens": [
+    "teenagers": [
       {
         "clue": "The standard timeline for responding to a birthday party invitation is within this timeframe",
         "correctQuestion": "What is 1-2 weeks in advance?",
@@ -610,9 +609,7 @@
         "clue": "A respectful host acknowledges these contributions from guests who help with party preparation",
         "correctQuestion": "What is thank them sincerely, verbally and in writing?",
         "value": 1000
-      }
-    ],
-    "mixed_audiences": [
+      },
       {
         "clue": "When receiving a birthday invitation, the first step in etiquette is to do this",
         "correctQuestion": "What is respond with your attendance status promptly?",

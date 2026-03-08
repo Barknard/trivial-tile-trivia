@@ -1,307 +1,163 @@
 {
   "category": "New Year: Staying Up Until Midnight",
-  "regular": [
-    {
-      "clue": "Watching this on TV the night before New Year's Day",
-      "correctQuestion": "What is the Times Square ball drop?",
-      "value": 200
-    },
-    {
-      "clue": "The number of hours you're actually supposed to stay awake on New Year's Eve",
-      "correctQuestion": "What is one hour (until midnight)?",
-      "value": 200
-    },
-    {
-      "clue": "What automatically runs off your phone at midnight on January 1st",
-      "correctQuestion": "What is last year's calendar?",
-      "value": 200
-    },
-    {
-      "clue": "The most popular drink to toast with at midnight",
-      "correctQuestion": "What is champagne?",
-      "value": 200
-    },
-    {
-      "clue": "Country known for the oldest New Year celebration tradition",
-      "correctQuestion": "What is Scotland?",
-      "value": 200
-    },
-    {
-      "clue": "New Year's Eve outfit that makes you look fancy but feels uncomfortable",
-      "correctQuestion": "What are high heels?",
-      "value": 200
-    },
-    {
-      "clue": "The activity most people do at exactly 11:59pm",
-      "correctQuestion": "What is checking the time?",
-      "value": 200
-    },
-    {
-      "clue": "Popular game played to pass time on New Year's Eve",
-      "correctQuestion": "What are board games?",
-      "value": 200
-    },
-    {
-      "clue": "The decade-long party in Las Vegas for New Year's",
-      "correctQuestion": "What is the Las Vegas Strip?",
-      "value": 200
-    },
-    {
-      "clue": "Common resolution people make that they'll break by January 2nd",
-      "correctQuestion": "What is losing weight?",
-      "value": 200
-    },
-    {
-      "clue": "Tradition of watching this Times Square event live on TV",
-      "correctQuestion": "What is the New Year's Eve ball drop?",
-      "value": 200
-    },
-    {
-      "clue": "What you wear on your head to look festive while exhausted",
-      "correctQuestion": "What is a party hat?",
-      "value": 200
-    },
-    {
-      "clue": "The sound that blasts at midnight in most celebrations",
-      "correctQuestion": "What is a horn or noisemaker?",
-      "value": 200
-    },
-    {
-      "clue": "Guy who hosts the ball drop on TV every year",
-      "correctQuestion": "Who is Anderson Cooper?",
-      "value": 200
-    },
-    {
-      "clue": "Ritual where you vow to improve yourself starting January 1st",
-      "correctQuestion": "What are New Year's resolutions?",
-      "value": 200
-    },
-    {
-      "clue": "The glowing sphere that descends in Times Square at midnight",
-      "correctQuestion": "What is Waterford Crystal ball?",
-      "value": 200
-    },
-    {
-      "clue": "Snack most people eat while staying up late on New Year's Eve",
-      "correctQuestion": "What are chips and dip?",
-      "value": 200
-    },
-    {
-      "clue": "Number of seconds until midnight that people countdown from",
-      "correctQuestion": "What is ten?",
-      "value": 200
-    },
-    {
-      "clue": "Famous New York location where millions gather for New Year's Eve",
-      "correctQuestion": "What is Times Square?",
-      "value": 200
-    },
-    {
-      "clue": "The moment when everyone hugs and kisses at midnight",
-      "correctQuestion": "What is midnight?",
-      "value": 200
-    },
-    {
-      "clue": "Streamer service where you can watch New Year's specials",
-      "correctQuestion": "What is Netflix?",
-      "value": 200
-    },
-    {
-      "clue": "Popular activity to keep yourself awake: watching these with friends",
-      "correctQuestion": "What are movies?",
-      "value": 200
-    },
-    {
-      "clue": "Game often played at parties to pass time before midnight",
-      "correctQuestion": "What are card games?",
-      "value": 200
-    },
-    {
-      "clue": "Temperature outside that makes staying up outside difficult",
-      "correctQuestion": "What is freezing cold?",
-      "value": 200
-    },
-    {
-      "clue": "Beverage people drink coffee to stay awake on New Year's Eve",
-      "correctQuestion": "What is coffee?",
-      "value": 200
-    },
-    {
-      "clue": "The opposite of staying up late: what most people do instead",
-      "correctQuestion": "What is sleeping early?",
-      "value": 200
-    },
-    {
-      "clue": "Celebrity who appears on the New Year's Eve broadcast every year",
-      "correctQuestion": "Who is Ryan Seacrest?",
-      "value": 200
-    },
-    {
-      "clue": "What hangs in the sky at midnight that counts down to the new year",
-      "correctQuestion": "What is a clock?",
-      "value": 200
-    },
-    {
-      "clue": "Common reason people fail to stay up until midnight",
-      "correctQuestion": "What is getting tired?",
-      "value": 200
-    },
-    {
-      "clue": "The traditional thing to do right after the clock strikes midnight",
-      "correctQuestion": "What is kiss someone?",
-      "value": 200
-    }
-  ],
-  "no_humanity": [
-    {
-      "clue": "What your body's doing while you're scrolling TikTok at 11:45pm",
-      "correctQuestion": "What is begging for sleep?",
-      "value": 400
-    },
-    {
-      "clue": "Your energy level at 11:59pm versus your Instagram story hype",
-      "correctQuestion": "What is a lie?",
-      "value": 400
-    },
-    {
-      "clue": "The app you refresh obsessively while fighting eyelids at 11:50pm",
-      "correctQuestion": "What is Instagram?",
-      "value": 400
-    },
-    {
-      "clue": "What your coffee is actually made of by 11:30pm",
-      "correctQuestion": "What is desperation and cocaine dreams?",
-      "value": 400
-    },
-    {
-      "clue": "Why staying awake past 10pm feels like running a marathon",
-      "correctQuestion": "What is being a millennial with a sleep schedule?",
-      "value": 400
-    },
-    {
-      "clue": "The real New Year's resolution most people make but never keep",
-      "correctQuestion": "What is going to bed before 2am?",
-      "value": 400
-    },
-    {
-      "clue": "What's playing on your phone at midnight because you're too tired to celebrate",
-      "correctQuestion": "What is Netflix?",
-      "value": 400
-    },
-    {
-      "clue": "The group chat at 11:55pm when everyone's pretending to have fun",
-      "correctQuestion": "What is a chorus of complaining?",
-      "value": 400
-    },
-    {
-      "clue": "Why Times Square on New Year's is basically a hostage situation",
-      "correctQuestion": "What is refusing to leave until midnight because you've invested this much?",
-      "value": 400
-    },
-    {
-      "clue": "What your body's cortisol levels are doing while your Instagram pretends otherwise",
-      "correctQuestion": "What is completely destroyed?",
-      "value": 400
-    },
-    {
-      "clue": "The lie you tell yourself at 10pm about staying up",
-      "correctQuestion": "What is 'I'm totally awake'?",
-      "value": 400
-    },
-    {
-      "clue": "What your eyes feel like at 11:58pm while counting down",
-      "correctQuestion": "What is sandpaper?",
-      "value": 400
-    },
-    {
-      "clue": "Supplement you take at 11:30pm that absolutely won't help anymore",
-      "correctQuestion": "What is energy drink?",
-      "value": 400
-    },
-    {
-      "clue": "Why your New Year's Eve selfie at 11:59pm looks different than your 8pm one",
-      "correctQuestion": "What is the slow death of your will to live?",
-      "value": 400
-    },
-    {
-      "clue": "The only thing keeping you awake past midnight on January 1st",
-      "correctQuestion": "What is spite?",
-      "value": 400
-    },
-    {
-      "clue": "What you'll regret while paying for staying up this late tomorrow",
-      "correctQuestion": "What is literally everything?",
-      "value": 400
-    },
-    {
-      "clue": "Your actual body's countdown versus what you're saying at midnight",
-      "correctQuestion": "What is 'counting down to sleep'?",
-      "value": 400
-    },
-    {
-      "clue": "The Zoom meeting everyone called in for to celebrate New Year's together",
-      "correctQuestion": "What is a depressing substitute for actual fun?",
-      "value": 400
-    },
-    {
-      "clue": "Why pinching yourself at 11:45pm just makes you tired and hurt",
-      "correctQuestion": "What is being an adult?",
-      "value": 400
-    },
-    {
-      "clue": "The confetti cannon you're too exhausted to appreciate at midnight",
-      "correctQuestion": "What is just more cleanup?",
-      "value": 400
-    },
-    {
-      "clue": "App monitoring your sleep debt while you brag about staying up",
-      "correctQuestion": "What is Apple Health?",
-      "value": 400
-    },
-    {
-      "clue": "What your metabolism does to that midnight champagne and snacks",
-      "correctQuestion": "What is absolutely nothing good?",
-      "value": 400
-    },
-    {
-      "clue": "The student loan payments that won't let you relax enough to sleep",
-      "correctQuestion": "What is American anxiety?",
-      "value": 400
-    },
-    {
-      "clue": "Your face in the mirror at midnight versus your TikTok at midnight",
-      "correctQuestion": "What is two different people?",
-      "value": 400
-    },
-    {
-      "clue": "The only valid reason to stay up past 10pm in 2026",
-      "correctQuestion": "What is making other people miserable tomorrow with your mood?",
-      "value": 400
-    },
-    {
-      "clue": "Why staying up isn't rebellious anymore, it's just self-harm",
-      "correctQuestion": "What is millennial adulting?",
-      "value": 400
-    },
-    {
-      "clue": "The existential dread that keeps you wired past midnight",
-      "correctQuestion": "What is knowing you'll regret this?",
-      "value": 400
-    },
-    {
-      "clue": "What your eyes look like the morning of January 1st after staying up",
-      "correctQuestion": "What is a crime scene?",
-      "value": 400
-    },
-    {
-      "clue": "Why staying up all night stopped being fun and became character building",
-      "correctQuestion": "What is turning 30?",
-      "value": 400
-    },
-    {
-      "clue": "The thing nobody tells you about New Year's: the _____ hangover hits different",
-      "correctQuestion": "What is sleep deprivation?",
-      "value": 400
-    }
-  ]
+  "theme": "newyear",
+  "category_id": "newyear_staying_up",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Watching this on TV the night before New Year's Day",
+        "correctQuestion": "What is the Times Square ball drop?",
+        "value": 200
+      },
+      {
+        "clue": "The number of hours you're actually supposed to stay awake on New Year's Eve",
+        "correctQuestion": "What is one hour (until midnight)?",
+        "value": 200
+      },
+      {
+        "clue": "What automatically runs off your phone at midnight on January 1st",
+        "correctQuestion": "What is last year's calendar?",
+        "value": 200
+      },
+      {
+        "clue": "The most popular drink to toast with at midnight",
+        "correctQuestion": "What is champagne?",
+        "value": 200
+      },
+      {
+        "clue": "Country known for the oldest New Year celebration tradition",
+        "correctQuestion": "What is Scotland?",
+        "value": 200
+      },
+      {
+        "clue": "New Year's Eve outfit that makes you look fancy but feels uncomfortable",
+        "correctQuestion": "What are high heels?",
+        "value": 200
+      },
+      {
+        "clue": "The activity most people do at exactly 11:59pm",
+        "correctQuestion": "What is checking the time?",
+        "value": 200
+      },
+      {
+        "clue": "Popular game played to pass time on New Year's Eve",
+        "correctQuestion": "What are board games?",
+        "value": 200
+      },
+      {
+        "clue": "The decade-long party in Las Vegas for New Year's",
+        "correctQuestion": "What is the Las Vegas Strip?",
+        "value": 200
+      },
+      {
+        "clue": "Common resolution people make that they'll break by January 2nd",
+        "correctQuestion": "What is losing weight?",
+        "value": 200
+      },
+      {
+        "clue": "Tradition of watching this Times Square event live on TV",
+        "correctQuestion": "What is the New Year's Eve ball drop?",
+        "value": 200
+      },
+      {
+        "clue": "What you wear on your head to look festive while exhausted",
+        "correctQuestion": "What is a party hat?",
+        "value": 200
+      },
+      {
+        "clue": "The sound that blasts at midnight in most celebrations",
+        "correctQuestion": "What is a horn or noisemaker?",
+        "value": 200
+      },
+      {
+        "clue": "Guy who hosts the ball drop on TV every year",
+        "correctQuestion": "Who is Anderson Cooper?",
+        "value": 200
+      },
+      {
+        "clue": "Ritual where you vow to improve yourself starting January 1st",
+        "correctQuestion": "What are New Year's resolutions?",
+        "value": 200
+      },
+      {
+        "clue": "The glowing sphere that descends in Times Square at midnight",
+        "correctQuestion": "What is Waterford Crystal ball?",
+        "value": 200
+      },
+      {
+        "clue": "Snack most people eat while staying up late on New Year's Eve",
+        "correctQuestion": "What are chips and dip?",
+        "value": 200
+      },
+      {
+        "clue": "Number of seconds until midnight that people countdown from",
+        "correctQuestion": "What is ten?",
+        "value": 200
+      },
+      {
+        "clue": "Famous New York location where millions gather for New Year's Eve",
+        "correctQuestion": "What is Times Square?",
+        "value": 200
+      },
+      {
+        "clue": "The moment when everyone hugs and kisses at midnight",
+        "correctQuestion": "What is midnight?",
+        "value": 200
+      },
+      {
+        "clue": "Streamer service where you can watch New Year's specials",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "Popular activity to keep yourself awake: watching these with friends",
+        "correctQuestion": "What are movies?",
+        "value": 200
+      },
+      {
+        "clue": "Game often played at parties to pass time before midnight",
+        "correctQuestion": "What are card games?",
+        "value": 200
+      },
+      {
+        "clue": "Temperature outside that makes staying up outside difficult",
+        "correctQuestion": "What is freezing cold?",
+        "value": 200
+      },
+      {
+        "clue": "Beverage people drink coffee to stay awake on New Year's Eve",
+        "correctQuestion": "What is coffee?",
+        "value": 200
+      },
+      {
+        "clue": "The opposite of staying up late: what most people do instead",
+        "correctQuestion": "What is sleeping early?",
+        "value": 200
+      },
+      {
+        "clue": "Celebrity who appears on the New Year's Eve broadcast every year",
+        "correctQuestion": "Who is Ryan Seacrest?",
+        "value": 200
+      },
+      {
+        "clue": "What hangs in the sky at midnight that counts down to the new year",
+        "correctQuestion": "What is a clock?",
+        "value": 200
+      },
+      {
+        "clue": "Common reason people fail to stay up until midnight",
+        "correctQuestion": "What is getting tired?",
+        "value": 200
+      },
+      {
+        "clue": "The traditional thing to do right after the clock strikes midnight",
+        "correctQuestion": "What is kiss someone?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

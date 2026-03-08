@@ -1,762 +1,917 @@
 {
-  "title": "Beach Basics",
-  "description": "Family-friendly beach trivia questions about beach safety, gear, sand, sun, and fun activities",
-  "categories": [
-    {
-      "points": 200,
-      "difficulty": "Easy",
-      "questions": [
-        {
-          "clue": "What do you wear on your feet to protect them from hot sand at the beach?",
-          "correctQuestion": "What are flip-flops or sandals?"
-        },
-        {
-          "clue": "This yellow gas in the sky can burn your skin if you're not careful at the beach.",
-          "correctQuestion": "What is the sun?"
-        },
-        {
-          "clue": "You should apply this lotion to your skin before spending time in the sun.",
-          "correctQuestion": "What is sunscreen?"
-        },
-        {
-          "clue": "The salty water that covers most of Earth is found at the beach.",
-          "correctQuestion": "What is the ocean?"
-        },
-        {
-          "clue": "Children often build castles with this material found at the beach.",
-          "correctQuestion": "What is sand?"
-        },
-        {
-          "clue": "You swim in this body of water at a beach.",
-          "correctQuestion": "What is the sea or ocean?"
-        },
-        {
-          "clue": "This piece of clothing protects your eyes from the sun's glare.",
-          "correctQuestion": "What are sunglasses?"
-        },
-        {
-          "clue": "A device you use to float or ride waves in the ocean.",
-          "correctQuestion": "What is a surfboard?"
-        },
-        {
-          "clue": "This type of hat protects your head and face from the sun.",
-          "correctQuestion": "What is a sun hat or cap?"
-        },
-        {
-          "clue": "A colorful object that flies in the wind above the beach.",
-          "correctQuestion": "What is a kite?"
-        },
-        {
-          "clue": "You lay on this at the beach to relax and sunbathe.",
-          "correctQuestion": "What is a beach towel or beach chair?"
-        },
-        {
-          "clue": "A bag you carry to the beach with your supplies.",
-          "correctQuestion": "What is a beach bag?"
-        },
-        {
-          "clue": "This footwear is designed for swimming and walking in water.",
-          "correctQuestion": "What are water shoes?"
-        },
-        {
-          "clue": "A small shovel kids use to dig in the sand.",
-          "correctQuestion": "What is a spade or shovel?"
-        },
-        {
-          "clue": "The mold used to make sand castles.",
-          "correctQuestion": "What is a bucket or pail?"
-        },
-        {
-          "clue": "You wear this before swimming to keep dry land clothes clean.",
-          "correctQuestion": "What is a bathing suit or swimsuit?"
-        },
-        {
-          "clue": "These floating devices help people stay safe in the water.",
-          "correctQuestion": "What are floaties or water wings?"
-        },
-        {
-          "clue": "A drink served in a cold cup to keep you hydrated in the heat.",
-          "correctQuestion": "What is water or juice?"
-        },
-        {
-          "clue": "A snack often packed in a cooler for the beach.",
-          "correctQuestion": "What is a sandwich or fruit?"
-        },
-        {
-          "clue": "This container keeps drinks cold at the beach.",
-          "correctQuestion": "What is a cooler or ice chest?"
-        },
-        {
-          "clue": "The time of day when the sun is strongest and you should be most careful.",
-          "correctQuestion": "What is afternoon or midday?"
-        },
-        {
-          "clue": "A place where you can change into your swimsuit at the beach.",
-          "correctQuestion": "What is a changing room or beach house?"
-        },
-        {
-          "clue": "These colorful toys can be filled with air to float in the water.",
-          "correctQuestion": "What are beach balls?"
-        },
-        {
-          "clue": "A net used to catch fish in shallow water at the beach.",
-          "correctQuestion": "What is a fishing net?"
-        },
-        {
-          "clue": "You use this to dig for seashells in the sand.",
-          "correctQuestion": "What is a rake or shovel?"
-        },
-        {
-          "clue": "A rope with a hook at the end used for fishing.",
-          "correctQuestion": "What is a fishing line?"
-        },
-        {
-          "clue": "These hard-shelled creatures are found on the beach.",
-          "correctQuestion": "What are seashells or clams?"
-        },
-        {
-          "clue": "Small rocks smoothed by water and found on beaches.",
-          "correctQuestion": "What are pebbles or stones?"
-        },
-        {
-          "clue": "This animal scuttles sideways on the sand and beach.",
-          "correctQuestion": "What is a crab?"
-        },
-        {
-          "clue": "A spiky sea animal that lives in tide pools and on rocky beaches.",
-          "correctQuestion": "What is a sea urchin?"
-        }
-      ]
-    },
-    {
-      "points": 400,
-      "difficulty": "Intermediate",
-      "questions": [
-        {
-          "clue": "The recommended SPF level for sunscreen is at least this high to protect from UV rays.",
-          "correctQuestion": "What is 30 or 15?"
-        },
-        {
-          "clue": "You should reapply sunscreen every this many minutes, especially after swimming.",
-          "correctQuestion": "What is 60 to 80 minutes or two hours?"
-        },
-        {
-          "clue": "This rip current is dangerous because it pulls swimmers away from shore.",
-          "correctQuestion": "What is a riptide or rip current?"
-        },
-        {
-          "clue": "If caught in a rip current, swim this direction to escape safely.",
-          "correctQuestion": "What is parallel to shore or sideways?"
-        },
-        {
-          "clue": "A trained professional who watches over swimmers and rescues them if needed.",
-          "correctQuestion": "What is a lifeguard?"
-        },
-        {
-          "clue": "Never swim alone; always use the buddy system with this many people.",
-          "correctQuestion": "What is at least one other person or a friend?"
-        },
-        {
-          "clue": "This protective gear keeps your head safe while surfing or water skiing.",
-          "correctQuestion": "What is a wetsuit helmet or water sports helmet?"
-        },
-        {
-          "clue": "A rescue device thrown to someone in the water that floats.",
-          "correctQuestion": "What is a life preserver or life ring?"
-        },
-        {
-          "clue": "You should avoid swimming alone and especially avoid this time of day.",
-          "correctQuestion": "What is dawn, dusk, or dark?"
-        },
-        {
-          "clue": "This flag on the beach indicates dangerous conditions and warns swimmers to stay out.",
-          "correctQuestion": "What is a red flag?"
-        },
-        {
-          "clue": "A medical condition where your skin turns red from too much sun.",
-          "correctQuestion": "What is sunburn?"
-        },
-        {
-          "clue": "You should drink plenty of this to stay hydrated at the beach.",
-          "correctQuestion": "What is water?"
-        },
-        {
-          "clue": "This condition happens when your body temperature gets too high from the heat.",
-          "correctQuestion": "What is heat exhaustion or heat stroke?"
-        },
-        {
-          "clue": "Symptoms include chills, headache, and feeling sick from too much sun.",
-          "correctQuestion": "What is heat exhaustion or sun poisoning?"
-        },
-        {
-          "clue": "You should apply sunscreen this many minutes before going into the sun.",
-          "correctQuestion": "What is 15 minutes?"
-        },
-        {
-          "clue": "A dense fabric used to create shade at the beach.",
-          "correctQuestion": "What is an umbrella or beach tent?"
-        },
-        {
-          "clue": "UV rays are most intense during this time of day.",
-          "correctQuestion": "What is 10 AM to 4 PM or midday?"
-        },
-        {
-          "clue": "This full-body suit protects surfers and swimmers from the sun and cold water.",
-          "correctQuestion": "What is a wetsuit or rash guard?"
-        },
-        {
-          "clue": "A loose, lightweight shirt worn over a swimsuit for sun protection.",
-          "correctQuestion": "What is a rash guard or cover-up?"
-        },
-        {
-          "clue": "Long this type of clothing provides better sun protection than shorts.",
-          "correctQuestion": "What are pants or leggings?"
-        },
-        {
-          "clue": "The smallest units of time when reapplying sunscreen is crucial.",
-          "correctQuestion": "What is every hour?"
-        },
-        {
-          "clue": "This is what seaweed can do if you're not watching where you swim.",
-          "correctQuestion": "What is tangle you up or brush against you?"
-        },
-        {
-          "clue": "Shells with rough edges can cause this minor injury.",
-          "correctQuestion": "What is a cut?"
-        },
-        {
-          "clue": "Sea creatures like jellyfish can cause this painful reaction.",
-          "correctQuestion": "What is a sting?"
-        },
-        {
-          "clue": "If stung by a jellyfish, you should rinse with this liquid.",
-          "correctQuestion": "What is vinegar?"
-        },
-        {
-          "clue": "Never turn your back on these waves at the beach.",
-          "correctQuestion": "What are large waves or the ocean?"
-        },
-        {
-          "clue": "This emergency number should be called if someone is in serious trouble at the beach.",
-          "correctQuestion": "What is 911?"
-        },
-        {
-          "clue": "A boogie board is used to ride this in the water.",
-          "correctQuestion": "What are waves?"
-        },
-        {
-          "clue": "These tools help dig deeper into sand for buried treasures or shells.",
-          "correctQuestion": "What are shovels or spades?"
-        },
-        {
-          "clue": "Sand toys include buckets, shovels, molds, and this digging tool.",
-          "correctQuestion": "What is a rake?"
-        }
-      ]
-    },
-    {
-      "points": 600,
-      "difficulty": "Intermediate-Advanced",
-      "questions": [
-        {
-          "clue": "This type of sunscreen doesn't leave white residue and absorbs into skin.",
-          "correctQuestion": "What is chemical sunscreen?"
-        },
-        {
-          "clue": "This type of sunscreen sits on skin and reflects UV rays.",
-          "correctQuestion": "What is mineral sunscreen or physical sunscreen?"
-        },
-        {
-          "clue": "Broad spectrum sunscreen protects against both UVA and this type of ray.",
-          "correctQuestion": "What is UVB?"
-        },
-        {
-          "clue": "A strong wind condition that creates large, dangerous waves at sea.",
-          "correctQuestion": "What is a storm or gale?"
-        },
-        {
-          "clue": "Rip currents are most common at beaches with this type of bottom.",
-          "correctQuestion": "What is sandbars?"
-        },
-        {
-          "clue": "This natural phenomenon causes water levels to rise and fall throughout the day.",
-          "correctQuestion": "What are tides?"
-        },
-        {
-          "clue": "The time when the water level is highest is called high this.",
-          "correctQuestion": "What is tide?"
-        },
-        {
-          "clue": "The time when the water level is lowest is called low this.",
-          "correctQuestion": "What is tide?"
-        },
-        {
-          "clue": "These strong currents can be dangerous and pull swimmers away from shore.",
-          "correctQuestion": "What are rip currents?"
-        },
-        {
-          "clue": "A device used to measure water temperature at the beach.",
-          "correctQuestion": "What is a thermometer?"
-        },
-        {
-          "clue": "This cloud type can form quickly and lead to sudden rain at the beach.",
-          "correctQuestion": "What is a thundercloud or storm cloud?"
-        },
-        {
-          "clue": "Never shelter under these during lightning storms at the beach.",
-          "correctQuestion": "What are trees?"
-        },
-        {
-          "clue": "The proper way to remove a jellyfish sting is with this substance.",
-          "correctQuestion": "What is vinegar or salt water?"
-        },
-        {
-          "clue": "Sea lice are actually this organism causing itchy rashes on swimmers.",
-          "correctQuestion": "What are thimble jellyfish larvae?"
-        },
-        {
-          "clue": "This spiky sea creature can be dangerous if stepped on.",
-          "correctQuestion": "What is a sea urchin?"
-        },
-        {
-          "clue": "Stingrays have this weapon on their tail that can be painful if stepped on.",
-          "correctQuestion": "What is a barb or spine?"
-        },
-        {
-          "clue": "The proper treatment for a stingray wound is to soak it in water this hot.",
-          "correctQuestion": "What is as hot as you can tolerate or 110-113 degrees Fahrenheit?"
-        },
-        {
-          "clue": "This term describes when your muscles involuntarily contract from cold water.",
-          "correctQuestion": "What is a muscle cramp?"
-        },
-        {
-          "clue": "A condition where someone swallows water and can't breathe.",
-          "correctQuestion": "What is drowning?"
-        },
-        {
-          "clue": "Drain any water from ears after swimming by doing this action.",
-          "correctQuestion": "What is tilting your head to the side?"
-        },
-        {
-          "clue": "An ear infection common in swimmers is called swimmer's this.",
-          "correctQuestion": "What is ear?"
-        },
-        {
-          "clue": "This mineral is essential to replace when you sweat heavily at the beach.",
-          "correctQuestion": "What is salt or electrolytes?"
-        },
-        {
-          "clue": "The level of salt in ocean water is measured in parts per this.",
-          "correctQuestion": "What is thousand?"
-        },
-        {
-          "clue": "Waves are created by this natural force acting on water.",
-          "correctQuestion": "What is wind?"
-        },
-        {
-          "clue": "Beach erosion is caused by these moving water waves.",
-          "correctQuestion": "What are waves or currents?"
-        },
-        {
-          "clue": "Seaweed helps filter this gas out of the ocean water.",
-          "correctQuestion": "What is carbon dioxide?"
-        },
-        {
-          "clue": "This protective equipment includes goggles and a snorkel.",
-          "correctQuestion": "What is snorkeling gear?"
-        },
-        {
-          "clue": "Wetsuit thickness is measured in this unit of measurement.",
-          "correctQuestion": "What is millimeters?"
-        },
-        {
-          "clue": "A water sport where you stand on a board and paddle.",
-          "correctQuestion": "What is stand-up paddleboarding or SUP?"
-        },
-        {
-          "clue": "This activity involves riding a board on top of waves.",
-          "correctQuestion": "What is surfing?"
-        }
-      ]
-    },
-    {
-      "points": 800,
-      "difficulty": "Advanced",
-      "questions": [
-        {
-          "clue": "SPF stands for Sun Protection this.",
-          "correctQuestion": "What is Factor?"
-        },
-        {
-          "clue": "UVA rays penetrate deeper into skin and can cause this type of damage.",
-          "correctQuestion": "What is aging or wrinkles?"
-        },
-        {
-          "clue": "UVB rays are the primary cause of this painful skin condition.",
-          "correctQuestion": "What is sunburn?"
-        },
-        {
-          "clue": "A person with this condition loses pigment in their skin.",
-          "correctQuestion": "What is vitiligo?"
-        },
-        {
-          "clue": "The Earth's protective layer that filters UV rays is called the this.",
-          "correctQuestion": "What is ozone layer?"
-        },
-        {
-          "clue": "Water can intensify UV rays by reflecting them off this substance.",
-          "correctQuestion": "What is sand?"
-        },
-        {
-          "clue": "The angle of incidence affects how much this is absorbed by skin.",
-          "correctQuestion": "What is UV radiation?"
-        },
-        {
-          "clue": "Phenotype with more melanin provides natural protection of about this SPF.",
-          "correctQuestion": "What is 13 or 15?"
-        },
-        {
-          "clue": "This vitamin is produced in skin when exposed to UVB rays.",
-          "correctQuestion": "What is Vitamin D?"
-        },
-        {
-          "clue": "Too much sun exposure can increase risk of this disease.",
-          "correctQuestion": "What is skin cancer or melanoma?"
-        },
-        {
-          "clue": "A rip current's flow perpendicular to shore moves at this speed.",
-          "correctQuestion": "What is 1 to 8 feet per second?"
-        },
-        {
-          "clue": "The width of a rip current is typically between this many feet.",
-          "correctQuestion": "What is 30 to 100 feet?"
-        },
-        {
-          "clue": "To find the location of a rip current, look for water that appears this color.",
-          "correctQuestion": "What is darker or choppy?"
-        },
-        {
-          "clue": "Tides are caused by the gravitational pull of this celestial body.",
-          "correctQuestion": "What is the moon?"
-        },
-        {
-          "clue": "Spring tides occur when the sun and moon are aligned in this configuration.",
-          "correctQuestion": "What is a line or straight line?"
-        },
-        {
-          "clue": "Neap tides occur when the sun and moon are at this angle.",
-          "correctQuestion": "What is 90 degrees?"
-        },
-        {
-          "clue": "Salinity of ocean water is approximately this percentage.",
-          "correctQuestion": "What is 3.5 percent?"
-        },
-        {
-          "clue": "The primary salt in ocean water is sodium this.",
-          "correctQuestion": "What is chloride?"
-        },
-        {
-          "clue": "Ocean currents are driven by this combined force of wind and rotation.",
-          "correctQuestion": "What is the Coriolis effect?"
-        },
-        {
-          "clue": "Plankton at the beach are producers in this type of food chain.",
-          "correctQuestion": "What is marine?"
-        },
-        {
-          "clue": "This condition occurs when water temperature drops so low it causes shivering.",
-          "correctQuestion": "What is hypothermia?"
-        },
-        {
-          "clue": "Immersion foot syndrome can result from prolonged exposure to this.",
-          "correctQuestion": "What is cold, wet conditions?"
-        },
-        {
-          "clue": "The condition where your core body temperature rises dangerously is called this.",
-          "correctQuestion": "What is hyperthermia?"
-        },
-        {
-          "clue": "Dehydration at the beach causes electrolyte imbalance of sodium and this.",
-          "correctQuestion": "What is potassium?"
-        },
-        {
-          "clue": "This enzyme in jellyfish venom causes the stinging sensation.",
-          "correctQuestion": "What is a nematocyst or cnidocyte?"
-        },
-        {
-          "clue": "Blue-bottle jellyfish are named for their this colored gas float.",
-          "correctQuestion": "What is blue?"
-        },
-        {
-          "clue": "Stingray spines are composed of this material similar to bone.",
-          "correctQuestion": "What is calcified tissue?"
-        },
-        {
-          "clue": "This protein is secreted in skin that provides color and UV protection.",
-          "correctQuestion": "What is melanin?"
-        },
-        {
-          "clue": "Sunscreen's active ingredients work by absorbing or this UV rays.",
-          "correctQuestion": "What is reflecting?"
-        },
-        {
-          "clue": "This term describes skin cells that die and peel off after sunburn.",
-          "correctQuestion": "What is desquamation?"
-        }
-      ]
-    },
-    {
-      "points": 1000,
-      "difficulty": "Expert",
-      "questions": [
-        {
-          "clue": "This measure of ozone depletion is expressed in Dobson these.",
-          "correctQuestion": "What are units?"
-        },
-        {
-          "clue": "The Antarctic ozone hole reaches its maximum extent during this season.",
-          "correctQuestion": "What is spring (Southern Hemisphere)?"
-        },
-        {
-          "clue": "Photolyase is an enzyme that repairs DNA damage from UV rays in this organism.",
-          "correctQuestion": "What is plankton or microorganisms?"
-        },
-        {
-          "clue": "The threshold dose of UV radiation that causes visible erythema is called this.",
-          "correctQuestion": "What is the minimal erythemal dose or MED?"
-        },
-        {
-          "clue": "This transcription factor is activated by UV damage and triggers apoptosis.",
-          "correctQuestion": "What is p53?"
-        },
-        {
-          "clue": "The primary photon of UV damage to DNA creates this type of dimer.",
-          "correctQuestion": "What is a thymine dimer or cyclobutane pyrimidine dimer?"
-        },
-        {
-          "clue": "This protein complex is responsible for nucleotide excision repair of UV damage.",
-          "correctQuestion": "What is the excision repair cross-complementation protein or ERCC?"
-        },
-        {
-          "clue": "Rip current formation is related to this differential in water height.",
-          "correctQuestion": "What is the setup height or gradient?"
-        },
-        {
-          "clue": "The Ekman spiral describes how ocean current direction changes with this.",
-          "correctQuestion": "What is depth?"
-        },
-        {
-          "clue": "The thermocline is characterized by this rapid change in water temperature.",
-          "correctQuestion": "What is a gradient?"
-        },
-        {
-          "clue": "This number represents the ratio of inertial to gravitational forces.",
-          "correctQuestion": "What is the Froude number?"
-        },
-        {
-          "clue": "Internal waves form at the interface between layers of different this.",
-          "correctQuestion": "What is density?"
-        },
-        {
-          "clue": "The speed of ocean surface waves is determined by this and wavelength.",
-          "correctQuestion": "What is frequency?"
-        },
-        {
-          "clue": "In deep water, wave velocity is proportional to the square root of this.",
-          "correctQuestion": "What is the wavelength?"
-        },
-        {
-          "clue": "This equation describes wave propagation in shallow water conditions.",
-          "correctQuestion": "What is the shallow water equations or Saint-Venant equations?"
-        },
-        {
-          "clue": "The compensation depth in ocean waters is where photosynthesis equals this.",
-          "correctQuestion": "What is respiration?"
-        },
-        {
-          "clue": "This process describes the vertical mixing of water layers in coastal areas.",
-          "correctQuestion": "What is upwelling?"
-        },
-        {
-          "clue": "The critical angle for total internal reflection in water is approximately this many degrees.",
-          "correctQuestion": "What is 49 degrees?"
-        },
-        {
-          "clue": "This phenomenon explains why the ocean appears blue in color.",
-          "correctQuestion": "What is Rayleigh scattering?"
-        },
-        {
-          "clue": "Snell's law describes the refraction of light at this boundary.",
-          "correctQuestion": "What is the air-water interface?"
-        },
-        {
-          "clue": "The permeability of skin to UV radiation is measured using this technique.",
-          "correctQuestion": "What is in vitro skin penetration testing?"
-        },
-        {
-          "clue": "This sun protection index is used in the European Union.",
-          "correctQuestion": "What is the UVA star rating?"
-        },
-        {
-          "clue": "Nanoparticles of zinc oxide and this provide physical UV protection.",
-          "correctQuestion": "What is titanium dioxide?"
-        },
-        {
-          "clue": "This water-resistant sunscreen formulation uses petroleum distillates.",
-          "correctQuestion": "What is a stick or balm?"
-        },
-        {
-          "clue": "The dissolution of minerals in salt water is called this process.",
-          "correctQuestion": "What is weathering?"
-        },
-        {
-          "clue": "Halite is the mineral name for this common beach salt.",
-          "correctQuestion": "What is sodium chloride or table salt?"
-        },
-        {
-          "clue": "This crystalline mineral makes up most sandy beaches worldwide.",
-          "correctQuestion": "What is quartz or silicon dioxide?"
-        },
-        {
-          "clue": "Black sand beaches are composed primarily of this volcanic mineral.",
-          "correctQuestion": "What is magnetite or iron oxide?"
-        },
-        {
-          "clue": "This gastropod mollusk is commonly found in tide pools.",
-          "correctQuestion": "What is a sea snail?"
-        },
-        {
-          "clue": "This echinoderm has five arms and is a predator in tide pools.",
-          "correctQuestion": "What is a sea star or starfish?"
-        }
-      ]
-    },
-    {
-      "points": 1200,
-      "difficulty": "Extreme Expert",
-      "questions": [
-        {
-          "clue": "The photodimer lesion created by UV radiation is specifically this type of thymine product.",
-          "correctQuestion": "What is the (6-4) photoproduct or thymine dimer?"
-        },
-        {
-          "clue": "This protein binds to single-stranded DNA exposed during UV damage repair.",
-          "correctQuestion": "What is replication protein A or RPA?"
-        },
-        {
-          "clue": "The repair of UV lesions through homologous recombination involves this nucleotide.",
-          "correctQuestion": "What is adenosine triphosphate or ATP?"
-        },
-        {
-          "clue": "This checkpoint protein halts the cell cycle if UV damage is detected.",
-          "correctQuestion": "What is ATM or ATR kinase?"
-        },
-        {
-          "clue": "Programmed cell death triggered by excessive UV damage is mediated by this pathway.",
-          "correctQuestion": "What is the apoptotic pathway or caspase cascade?"
-        },
-        {
-          "clue": "This wavelength range of UV radiation is most dangerous to human skin.",
-          "correctQuestion": "What is UVB (280-320 nm)?"
-        },
-        {
-          "clue": "Vitamin D production requires this specific wavelength of UV radiation.",
-          "correctQuestion": "What is UVB (280-320 nm)?"
-        },
-        {
-          "clue": "This mathematical principle explains the refraction of water waves at coastlines.",
-          "correctQuestion": "What is Snell's law or Fermat's principle?"
-        },
-        {
-          "clue": "The shear stress at the air-water interface is quantified by this dimensionless number.",
-          "correctQuestion": "What is the wind stress coefficient or drag coefficient?"
-        },
-        {
-          "clue": "Langmuir circulation forms in water when wind this the surface.",
-          "correctQuestion": "What is shears or drags?"
-        },
-        {
-          "clue": "This instability in ocean layers causes breaking internal waves.",
-          "correctQuestion": "What is the Rayleigh-Taylor instability or Kelvin-Helmholtz instability?"
-        },
-        {
-          "clue": "The Coriolis force deflects moving objects by an amount proportional to this.",
-          "correctQuestion": "What is the sine of latitude?"
-        },
-        {
-          "clue": "This parameter characterizes the ratio of inertial to Coriolis forces.",
-          "correctQuestion": "What is the Rossby number?"
-        },
-        {
-          "clue": "Coastal jets form due to this geostrophic balance between pressure and Coriolis forces.",
-          "correctQuestion": "What is thermal wind shear?"
-        },
-        {
-          "clue": "This spectrophotometric method measures UV absorption in sunscreen formulations.",
-          "correctQuestion": "What is high-performance liquid chromatography or HPLC?"
-        },
-        {
-          "clue": "The organic UV filter oxybenzone is known to cause this adverse reaction.",
-          "correctQuestion": "What is photoallergen contact dermatitis?"
-        },
-        {
-          "clue": "This organic UV filter has been restricted in Hawaii due to environmental concerns.",
-          "correctQuestion": "What is oxybenzone or octinoxate?"
-        },
-        {
-          "clue": "Avobenzone is a broad-spectrum UV filter with this structural classification.",
-          "correctQuestion": "What is a dibenzoylmethane derivative?"
-        },
-        {
-          "clue": "This reef-safe sunscreen ingredient reflects UV rays without chemical absorption.",
-          "correctQuestion": "What is mineral sunscreen or non-nano zinc oxide?"
-        },
-        {
-          "clue": "The quantum yield for thymine dimer formation is this fraction of incident photons.",
-          "correctQuestion": "What is approximately 0.01 or one percent?"
-        },
-        {
-          "clue": "This crystalline form of silica creates sharp edges that cut skin at the beach.",
-          "correctQuestion": "What is obsidian or volcanic glass?"
-        },
-        {
-          "clue": "The density of seawater varies with this parameter besides salinity.",
-          "correctQuestion": "What is temperature?"
-        },
-        {
-          "clue": "This organic compound in seawater reduces the freezing point.",
-          "correctQuestion": "What is salt or dissolved electrolytes?"
-        },
-        {
-          "clue": "The colligative property of seawater that results in freezing point depression is caused by this.",
-          "correctQuestion": "What is osmotic pressure or dissolved solutes?"
-        },
-        {
-          "clue": "This chemotaxis response allows planktonic organisms to find optimal light depths.",
-          "correctQuestion": "What is phototaxis?"
-        },
-        {
-          "clue": "Diatoms use this structure for photosynthesis in marine phytoplankton.",
-          "correctQuestion": "What is the chloroplast?"
-        },
-        {
-          "clue": "This primary producer in coastal waters synthesizes ribulose bisphosphate carboxylase.",
-          "correctQuestion": "What is phytoplankton or algae?"
-        },
-        {
-          "clue": "Harmful algal blooms are often triggered by this nutrient enrichment process.",
-          "correctQuestion": "What is eutrophication or nitrogen fixation?"
-        },
-        {
-          "clue": "This toxin produced by dinoflagellates causes paralytic shellfish poisoning.",
-          "correctQuestion": "What is saxitoxin?"
-        },
-        {
-          "clue": "The phenomenon where some animals produce their own light is called this.",
-          "correctQuestion": "What is bioluminescence?"
-        }
-      ]
-    }
-  ]
+  "category": "Beach Basics",
+  "theme": "beach",
+  "category_id": "beach_basics",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What do you wear on your feet to protect them from hot sand at the beach?",
+        "correctQuestion": "What are flip-flops or sandals?",
+        "value": 200
+      },
+      {
+        "clue": "This yellow gas in the sky can burn your skin if you're not careful at the beach.",
+        "correctQuestion": "What is the sun?",
+        "value": 200
+      },
+      {
+        "clue": "You should apply this lotion to your skin before spending time in the sun.",
+        "correctQuestion": "What is sunscreen?",
+        "value": 200
+      },
+      {
+        "clue": "The salty water that covers most of Earth is found at the beach.",
+        "correctQuestion": "What is the ocean?",
+        "value": 200
+      },
+      {
+        "clue": "Children often build castles with this material found at the beach.",
+        "correctQuestion": "What is sand?",
+        "value": 200
+      },
+      {
+        "clue": "You swim in this body of water at a beach.",
+        "correctQuestion": "What is the sea or ocean?",
+        "value": 200
+      },
+      {
+        "clue": "This piece of clothing protects your eyes from the sun's glare.",
+        "correctQuestion": "What are sunglasses?",
+        "value": 200
+      },
+      {
+        "clue": "A device you use to float or ride waves in the ocean.",
+        "correctQuestion": "What is a surfboard?",
+        "value": 200
+      },
+      {
+        "clue": "This type of hat protects your head and face from the sun.",
+        "correctQuestion": "What is a sun hat or cap?",
+        "value": 200
+      },
+      {
+        "clue": "A colorful object that flies in the wind above the beach.",
+        "correctQuestion": "What is a kite?",
+        "value": 200
+      },
+      {
+        "clue": "You lay on this at the beach to relax and sunbathe.",
+        "correctQuestion": "What is a beach towel or beach chair?",
+        "value": 200
+      },
+      {
+        "clue": "A bag you carry to the beach with your supplies.",
+        "correctQuestion": "What is a beach bag?",
+        "value": 200
+      },
+      {
+        "clue": "This footwear is designed for swimming and walking in water.",
+        "correctQuestion": "What are water shoes?",
+        "value": 200
+      },
+      {
+        "clue": "A small shovel kids use to dig in the sand.",
+        "correctQuestion": "What is a spade or shovel?",
+        "value": 200
+      },
+      {
+        "clue": "The mold used to make sand castles.",
+        "correctQuestion": "What is a bucket or pail?",
+        "value": 200
+      },
+      {
+        "clue": "You wear this before swimming to keep dry land clothes clean.",
+        "correctQuestion": "What is a bathing suit or swimsuit?",
+        "value": 200
+      },
+      {
+        "clue": "These floating devices help people stay safe in the water.",
+        "correctQuestion": "What are floaties or water wings?",
+        "value": 200
+      },
+      {
+        "clue": "A drink served in a cold cup to keep you hydrated in the heat.",
+        "correctQuestion": "What is water or juice?",
+        "value": 200
+      },
+      {
+        "clue": "A snack often packed in a cooler for the beach.",
+        "correctQuestion": "What is a sandwich or fruit?",
+        "value": 200
+      },
+      {
+        "clue": "This container keeps drinks cold at the beach.",
+        "correctQuestion": "What is a cooler or ice chest?",
+        "value": 200
+      },
+      {
+        "clue": "The time of day when the sun is strongest and you should be most careful.",
+        "correctQuestion": "What is afternoon or midday?",
+        "value": 200
+      },
+      {
+        "clue": "A place where you can change into your swimsuit at the beach.",
+        "correctQuestion": "What is a changing room or beach house?",
+        "value": 200
+      },
+      {
+        "clue": "These colorful toys can be filled with air to float in the water.",
+        "correctQuestion": "What are beach balls?",
+        "value": 200
+      },
+      {
+        "clue": "A net used to catch fish in shallow water at the beach.",
+        "correctQuestion": "What is a fishing net?",
+        "value": 200
+      },
+      {
+        "clue": "You use this to dig for seashells in the sand.",
+        "correctQuestion": "What is a rake or shovel?",
+        "value": 200
+      },
+      {
+        "clue": "A rope with a hook at the end used for fishing.",
+        "correctQuestion": "What is a fishing line?",
+        "value": 200
+      },
+      {
+        "clue": "These hard-shelled creatures are found on the beach.",
+        "correctQuestion": "What are seashells or clams?",
+        "value": 200
+      },
+      {
+        "clue": "Small rocks smoothed by water and found on beaches.",
+        "correctQuestion": "What are pebbles or stones?",
+        "value": 200
+      },
+      {
+        "clue": "This animal scuttles sideways on the sand and beach.",
+        "correctQuestion": "What is a crab?",
+        "value": 200
+      },
+      {
+        "clue": "A spiky sea animal that lives in tide pools and on rocky beaches.",
+        "correctQuestion": "What is a sea urchin?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The recommended SPF level for sunscreen is at least this high to protect from UV rays.",
+        "correctQuestion": "What is 30 or 15?",
+        "value": 400
+      },
+      {
+        "clue": "You should reapply sunscreen every this many minutes, especially after swimming.",
+        "correctQuestion": "What is 60 to 80 minutes or two hours?",
+        "value": 400
+      },
+      {
+        "clue": "This rip current is dangerous because it pulls swimmers away from shore.",
+        "correctQuestion": "What is a riptide or rip current?",
+        "value": 400
+      },
+      {
+        "clue": "If caught in a rip current, swim this direction to escape safely.",
+        "correctQuestion": "What is parallel to shore or sideways?",
+        "value": 400
+      },
+      {
+        "clue": "A trained professional who watches over swimmers and rescues them if needed.",
+        "correctQuestion": "What is a lifeguard?",
+        "value": 400
+      },
+      {
+        "clue": "Never swim alone; always use the buddy system with this many people.",
+        "correctQuestion": "What is at least one other person or a friend?",
+        "value": 400
+      },
+      {
+        "clue": "This protective gear keeps your head safe while surfing or water skiing.",
+        "correctQuestion": "What is a wetsuit helmet or water sports helmet?",
+        "value": 400
+      },
+      {
+        "clue": "A rescue device thrown to someone in the water that floats.",
+        "correctQuestion": "What is a life preserver or life ring?",
+        "value": 400
+      },
+      {
+        "clue": "You should avoid swimming alone and especially avoid this time of day.",
+        "correctQuestion": "What is dawn, dusk, or dark?",
+        "value": 400
+      },
+      {
+        "clue": "This flag on the beach indicates dangerous conditions and warns swimmers to stay out.",
+        "correctQuestion": "What is a red flag?",
+        "value": 400
+      },
+      {
+        "clue": "A medical condition where your skin turns red from too much sun.",
+        "correctQuestion": "What is sunburn?",
+        "value": 400
+      },
+      {
+        "clue": "You should drink plenty of this to stay hydrated at the beach.",
+        "correctQuestion": "What is water?",
+        "value": 400
+      },
+      {
+        "clue": "This condition happens when your body temperature gets too high from the heat.",
+        "correctQuestion": "What is heat exhaustion or heat stroke?",
+        "value": 400
+      },
+      {
+        "clue": "Symptoms include chills, headache, and feeling sick from too much sun.",
+        "correctQuestion": "What is heat exhaustion or sun poisoning?",
+        "value": 400
+      },
+      {
+        "clue": "You should apply sunscreen this many minutes before going into the sun.",
+        "correctQuestion": "What is 15 minutes?",
+        "value": 400
+      },
+      {
+        "clue": "A dense fabric used to create shade at the beach.",
+        "correctQuestion": "What is an umbrella or beach tent?",
+        "value": 400
+      },
+      {
+        "clue": "UV rays are most intense during this time of day.",
+        "correctQuestion": "What is 10 AM to 4 PM or midday?",
+        "value": 400
+      },
+      {
+        "clue": "This full-body suit protects surfers and swimmers from the sun and cold water.",
+        "correctQuestion": "What is a wetsuit or rash guard?",
+        "value": 400
+      },
+      {
+        "clue": "A loose, lightweight shirt worn over a swimsuit for sun protection.",
+        "correctQuestion": "What is a rash guard or cover-up?",
+        "value": 400
+      },
+      {
+        "clue": "Long this type of clothing provides better sun protection than shorts.",
+        "correctQuestion": "What are pants or leggings?",
+        "value": 400
+      },
+      {
+        "clue": "The smallest units of time when reapplying sunscreen is crucial.",
+        "correctQuestion": "What is every hour?",
+        "value": 400
+      },
+      {
+        "clue": "This is what seaweed can do if you're not watching where you swim.",
+        "correctQuestion": "What is tangle you up or brush against you?",
+        "value": 400
+      },
+      {
+        "clue": "Shells with rough edges can cause this minor injury.",
+        "correctQuestion": "What is a cut?",
+        "value": 400
+      },
+      {
+        "clue": "Sea creatures like jellyfish can cause this painful reaction.",
+        "correctQuestion": "What is a sting?",
+        "value": 400
+      },
+      {
+        "clue": "If stung by a jellyfish, you should rinse with this liquid.",
+        "correctQuestion": "What is vinegar?",
+        "value": 400
+      },
+      {
+        "clue": "Never turn your back on these waves at the beach.",
+        "correctQuestion": "What are large waves or the ocean?",
+        "value": 400
+      },
+      {
+        "clue": "This emergency number should be called if someone is in serious trouble at the beach.",
+        "correctQuestion": "What is 911?",
+        "value": 400
+      },
+      {
+        "clue": "A boogie board is used to ride this in the water.",
+        "correctQuestion": "What are waves?",
+        "value": 400
+      },
+      {
+        "clue": "These tools help dig deeper into sand for buried treasures or shells.",
+        "correctQuestion": "What are shovels or spades?",
+        "value": 400
+      },
+      {
+        "clue": "Sand toys include buckets, shovels, molds, and this digging tool.",
+        "correctQuestion": "What is a rake?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This type of sunscreen doesn't leave white residue and absorbs into skin.",
+        "correctQuestion": "What is chemical sunscreen?",
+        "value": 600
+      },
+      {
+        "clue": "This type of sunscreen sits on skin and reflects UV rays.",
+        "correctQuestion": "What is mineral sunscreen or physical sunscreen?",
+        "value": 600
+      },
+      {
+        "clue": "Broad spectrum sunscreen protects against both UVA and this type of ray.",
+        "correctQuestion": "What is UVB?",
+        "value": 600
+      },
+      {
+        "clue": "A strong wind condition that creates large, dangerous waves at sea.",
+        "correctQuestion": "What is a storm or gale?",
+        "value": 600
+      },
+      {
+        "clue": "Rip currents are most common at beaches with this type of bottom.",
+        "correctQuestion": "What is sandbars?",
+        "value": 600
+      },
+      {
+        "clue": "This natural phenomenon causes water levels to rise and fall throughout the day.",
+        "correctQuestion": "What are tides?",
+        "value": 600
+      },
+      {
+        "clue": "The time when the water level is highest is called high this.",
+        "correctQuestion": "What is tide?",
+        "value": 600
+      },
+      {
+        "clue": "The time when the water level is lowest is called low this.",
+        "correctQuestion": "What is tide?",
+        "value": 600
+      },
+      {
+        "clue": "These strong currents can be dangerous and pull swimmers away from shore.",
+        "correctQuestion": "What are rip currents?",
+        "value": 600
+      },
+      {
+        "clue": "A device used to measure water temperature at the beach.",
+        "correctQuestion": "What is a thermometer?",
+        "value": 600
+      },
+      {
+        "clue": "This cloud type can form quickly and lead to sudden rain at the beach.",
+        "correctQuestion": "What is a thundercloud or storm cloud?",
+        "value": 600
+      },
+      {
+        "clue": "Never shelter under these during lightning storms at the beach.",
+        "correctQuestion": "What are trees?",
+        "value": 600
+      },
+      {
+        "clue": "The proper way to remove a jellyfish sting is with this substance.",
+        "correctQuestion": "What is vinegar or salt water?",
+        "value": 600
+      },
+      {
+        "clue": "Sea lice are actually this organism causing itchy rashes on swimmers.",
+        "correctQuestion": "What are thimble jellyfish larvae?",
+        "value": 600
+      },
+      {
+        "clue": "This spiky sea creature can be dangerous if stepped on.",
+        "correctQuestion": "What is a sea urchin?",
+        "value": 600
+      },
+      {
+        "clue": "Stingrays have this weapon on their tail that can be painful if stepped on.",
+        "correctQuestion": "What is a barb or spine?",
+        "value": 600
+      },
+      {
+        "clue": "The proper treatment for a stingray wound is to soak it in water this hot.",
+        "correctQuestion": "What is as hot as you can tolerate or 110-113 degrees Fahrenheit?",
+        "value": 600
+      },
+      {
+        "clue": "This term describes when your muscles involuntarily contract from cold water.",
+        "correctQuestion": "What is a muscle cramp?",
+        "value": 600
+      },
+      {
+        "clue": "A condition where someone swallows water and can't breathe.",
+        "correctQuestion": "What is drowning?",
+        "value": 600
+      },
+      {
+        "clue": "Drain any water from ears after swimming by doing this action.",
+        "correctQuestion": "What is tilting your head to the side?",
+        "value": 600
+      },
+      {
+        "clue": "An ear infection common in swimmers is called swimmer's this.",
+        "correctQuestion": "What is ear?",
+        "value": 600
+      },
+      {
+        "clue": "This mineral is essential to replace when you sweat heavily at the beach.",
+        "correctQuestion": "What is salt or electrolytes?",
+        "value": 600
+      },
+      {
+        "clue": "The level of salt in ocean water is measured in parts per this.",
+        "correctQuestion": "What is thousand?",
+        "value": 600
+      },
+      {
+        "clue": "Waves are created by this natural force acting on water.",
+        "correctQuestion": "What is wind?",
+        "value": 600
+      },
+      {
+        "clue": "Beach erosion is caused by these moving water waves.",
+        "correctQuestion": "What are waves or currents?",
+        "value": 600
+      },
+      {
+        "clue": "Seaweed helps filter this gas out of the ocean water.",
+        "correctQuestion": "What is carbon dioxide?",
+        "value": 600
+      },
+      {
+        "clue": "This protective equipment includes goggles and a snorkel.",
+        "correctQuestion": "What is snorkeling gear?",
+        "value": 600
+      },
+      {
+        "clue": "Wetsuit thickness is measured in this unit of measurement.",
+        "correctQuestion": "What is millimeters?",
+        "value": 600
+      },
+      {
+        "clue": "A water sport where you stand on a board and paddle.",
+        "correctQuestion": "What is stand-up paddleboarding or SUP?",
+        "value": 600
+      },
+      {
+        "clue": "This activity involves riding a board on top of waves.",
+        "correctQuestion": "What is surfing?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "SPF stands for Sun Protection this.",
+        "correctQuestion": "What is Factor?",
+        "value": 800
+      },
+      {
+        "clue": "UVA rays penetrate deeper into skin and can cause this type of damage.",
+        "correctQuestion": "What is aging or wrinkles?",
+        "value": 800
+      },
+      {
+        "clue": "UVB rays are the primary cause of this painful skin condition.",
+        "correctQuestion": "What is sunburn?",
+        "value": 800
+      },
+      {
+        "clue": "A person with this condition loses pigment in their skin.",
+        "correctQuestion": "What is vitiligo?",
+        "value": 800
+      },
+      {
+        "clue": "The Earth's protective layer that filters UV rays is called the this.",
+        "correctQuestion": "What is ozone layer?",
+        "value": 800
+      },
+      {
+        "clue": "Water can intensify UV rays by reflecting them off this substance.",
+        "correctQuestion": "What is sand?",
+        "value": 800
+      },
+      {
+        "clue": "The angle of incidence affects how much this is absorbed by skin.",
+        "correctQuestion": "What is UV radiation?",
+        "value": 800
+      },
+      {
+        "clue": "Phenotype with more melanin provides natural protection of about this SPF.",
+        "correctQuestion": "What is 13 or 15?",
+        "value": 800
+      },
+      {
+        "clue": "This vitamin is produced in skin when exposed to UVB rays.",
+        "correctQuestion": "What is Vitamin D?",
+        "value": 800
+      },
+      {
+        "clue": "Too much sun exposure can increase risk of this disease.",
+        "correctQuestion": "What is skin cancer or melanoma?",
+        "value": 800
+      },
+      {
+        "clue": "A rip current's flow perpendicular to shore moves at this speed.",
+        "correctQuestion": "What is 1 to 8 feet per second?",
+        "value": 800
+      },
+      {
+        "clue": "The width of a rip current is typically between this many feet.",
+        "correctQuestion": "What is 30 to 100 feet?",
+        "value": 800
+      },
+      {
+        "clue": "To find the location of a rip current, look for water that appears this color.",
+        "correctQuestion": "What is darker or choppy?",
+        "value": 800
+      },
+      {
+        "clue": "Tides are caused by the gravitational pull of this celestial body.",
+        "correctQuestion": "What is the moon?",
+        "value": 800
+      },
+      {
+        "clue": "Spring tides occur when the sun and moon are aligned in this configuration.",
+        "correctQuestion": "What is a line or straight line?",
+        "value": 800
+      },
+      {
+        "clue": "Neap tides occur when the sun and moon are at this angle.",
+        "correctQuestion": "What is 90 degrees?",
+        "value": 800
+      },
+      {
+        "clue": "Salinity of ocean water is approximately this percentage.",
+        "correctQuestion": "What is 3.5 percent?",
+        "value": 800
+      },
+      {
+        "clue": "The primary salt in ocean water is sodium this.",
+        "correctQuestion": "What is chloride?",
+        "value": 800
+      },
+      {
+        "clue": "Ocean currents are driven by this combined force of wind and rotation.",
+        "correctQuestion": "What is the Coriolis effect?",
+        "value": 800
+      },
+      {
+        "clue": "Plankton at the beach are producers in this type of food chain.",
+        "correctQuestion": "What is marine?",
+        "value": 800
+      },
+      {
+        "clue": "This condition occurs when water temperature drops so low it causes shivering.",
+        "correctQuestion": "What is hypothermia?",
+        "value": 800
+      },
+      {
+        "clue": "Immersion foot syndrome can result from prolonged exposure to this.",
+        "correctQuestion": "What is cold, wet conditions?",
+        "value": 800
+      },
+      {
+        "clue": "The condition where your core body temperature rises dangerously is called this.",
+        "correctQuestion": "What is hyperthermia?",
+        "value": 800
+      },
+      {
+        "clue": "Dehydration at the beach causes electrolyte imbalance of sodium and this.",
+        "correctQuestion": "What is potassium?",
+        "value": 800
+      },
+      {
+        "clue": "This enzyme in jellyfish venom causes the stinging sensation.",
+        "correctQuestion": "What is a nematocyst or cnidocyte?",
+        "value": 800
+      },
+      {
+        "clue": "Blue-bottle jellyfish are named for their this colored gas float.",
+        "correctQuestion": "What is blue?",
+        "value": 800
+      },
+      {
+        "clue": "Stingray spines are composed of this material similar to bone.",
+        "correctQuestion": "What is calcified tissue?",
+        "value": 800
+      },
+      {
+        "clue": "This protein is secreted in skin that provides color and UV protection.",
+        "correctQuestion": "What is melanin?",
+        "value": 800
+      },
+      {
+        "clue": "Sunscreen's active ingredients work by absorbing or this UV rays.",
+        "correctQuestion": "What is reflecting?",
+        "value": 800
+      },
+      {
+        "clue": "This term describes skin cells that die and peel off after sunburn.",
+        "correctQuestion": "What is desquamation?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "This measure of ozone depletion is expressed in Dobson these.",
+        "correctQuestion": "What are units?",
+        "value": 1000
+      },
+      {
+        "clue": "The Antarctic ozone hole reaches its maximum extent during this season.",
+        "correctQuestion": "What is spring (Southern Hemisphere)?",
+        "value": 1000
+      },
+      {
+        "clue": "Photolyase is an enzyme that repairs DNA damage from UV rays in this organism.",
+        "correctQuestion": "What is plankton or microorganisms?",
+        "value": 1000
+      },
+      {
+        "clue": "The threshold dose of UV radiation that causes visible erythema is called this.",
+        "correctQuestion": "What is the minimal erythemal dose or MED?",
+        "value": 1000
+      },
+      {
+        "clue": "This transcription factor is activated by UV damage and triggers apoptosis.",
+        "correctQuestion": "What is p53?",
+        "value": 1000
+      },
+      {
+        "clue": "The primary photon of UV damage to DNA creates this type of dimer.",
+        "correctQuestion": "What is a thymine dimer or cyclobutane pyrimidine dimer?",
+        "value": 1000
+      },
+      {
+        "clue": "This protein complex is responsible for nucleotide excision repair of UV damage.",
+        "correctQuestion": "What is the excision repair cross-complementation protein or ERCC?",
+        "value": 1000
+      },
+      {
+        "clue": "Rip current formation is related to this differential in water height.",
+        "correctQuestion": "What is the setup height or gradient?",
+        "value": 1000
+      },
+      {
+        "clue": "The Ekman spiral describes how ocean current direction changes with this.",
+        "correctQuestion": "What is depth?",
+        "value": 1000
+      },
+      {
+        "clue": "The thermocline is characterized by this rapid change in water temperature.",
+        "correctQuestion": "What is a gradient?",
+        "value": 1000
+      },
+      {
+        "clue": "This number represents the ratio of inertial to gravitational forces.",
+        "correctQuestion": "What is the Froude number?",
+        "value": 1000
+      },
+      {
+        "clue": "Internal waves form at the interface between layers of different this.",
+        "correctQuestion": "What is density?",
+        "value": 1000
+      },
+      {
+        "clue": "The speed of ocean surface waves is determined by this and wavelength.",
+        "correctQuestion": "What is frequency?",
+        "value": 1000
+      },
+      {
+        "clue": "In deep water, wave velocity is proportional to the square root of this.",
+        "correctQuestion": "What is the wavelength?",
+        "value": 1000
+      },
+      {
+        "clue": "This equation describes wave propagation in shallow water conditions.",
+        "correctQuestion": "What is the shallow water equations or Saint-Venant equations?",
+        "value": 1000
+      },
+      {
+        "clue": "The compensation depth in ocean waters is where photosynthesis equals this.",
+        "correctQuestion": "What is respiration?",
+        "value": 1000
+      },
+      {
+        "clue": "This process describes the vertical mixing of water layers in coastal areas.",
+        "correctQuestion": "What is upwelling?",
+        "value": 1000
+      },
+      {
+        "clue": "The critical angle for total internal reflection in water is approximately this many degrees.",
+        "correctQuestion": "What is 49 degrees?",
+        "value": 1000
+      },
+      {
+        "clue": "This phenomenon explains why the ocean appears blue in color.",
+        "correctQuestion": "What is Rayleigh scattering?",
+        "value": 1000
+      },
+      {
+        "clue": "Snell's law describes the refraction of light at this boundary.",
+        "correctQuestion": "What is the air-water interface?",
+        "value": 1000
+      },
+      {
+        "clue": "The permeability of skin to UV radiation is measured using this technique.",
+        "correctQuestion": "What is in vitro skin penetration testing?",
+        "value": 1000
+      },
+      {
+        "clue": "This sun protection index is used in the European Union.",
+        "correctQuestion": "What is the UVA star rating?",
+        "value": 1000
+      },
+      {
+        "clue": "Nanoparticles of zinc oxide and this provide physical UV protection.",
+        "correctQuestion": "What is titanium dioxide?",
+        "value": 1000
+      },
+      {
+        "clue": "This water-resistant sunscreen formulation uses petroleum distillates.",
+        "correctQuestion": "What is a stick or balm?",
+        "value": 1000
+      },
+      {
+        "clue": "The dissolution of minerals in salt water is called this process.",
+        "correctQuestion": "What is weathering?",
+        "value": 1000
+      },
+      {
+        "clue": "Halite is the mineral name for this common beach salt.",
+        "correctQuestion": "What is sodium chloride or table salt?",
+        "value": 1000
+      },
+      {
+        "clue": "This crystalline mineral makes up most sandy beaches worldwide.",
+        "correctQuestion": "What is quartz or silicon dioxide?",
+        "value": 1000
+      },
+      {
+        "clue": "Black sand beaches are composed primarily of this volcanic mineral.",
+        "correctQuestion": "What is magnetite or iron oxide?",
+        "value": 1000
+      },
+      {
+        "clue": "This gastropod mollusk is commonly found in tide pools.",
+        "correctQuestion": "What is a sea snail?",
+        "value": 1000
+      },
+      {
+        "clue": "This echinoderm has five arms and is a predator in tide pools.",
+        "correctQuestion": "What is a sea star or starfish?",
+        "value": 1000
+      },
+      {
+        "clue": "The photodimer lesion created by UV radiation is specifically this type of thymine product.",
+        "correctQuestion": "What is the (6-4) photoproduct or thymine dimer?",
+        "value": 1200
+      },
+      {
+        "clue": "This protein binds to single-stranded DNA exposed during UV damage repair.",
+        "correctQuestion": "What is replication protein A or RPA?",
+        "value": 1200
+      },
+      {
+        "clue": "The repair of UV lesions through homologous recombination involves this nucleotide.",
+        "correctQuestion": "What is adenosine triphosphate or ATP?",
+        "value": 1200
+      },
+      {
+        "clue": "This checkpoint protein halts the cell cycle if UV damage is detected.",
+        "correctQuestion": "What is ATM or ATR kinase?",
+        "value": 1200
+      },
+      {
+        "clue": "Programmed cell death triggered by excessive UV damage is mediated by this pathway.",
+        "correctQuestion": "What is the apoptotic pathway or caspase cascade?",
+        "value": 1200
+      },
+      {
+        "clue": "This wavelength range of UV radiation is most dangerous to human skin.",
+        "correctQuestion": "What is UVB (280-320 nm)?",
+        "value": 1200
+      },
+      {
+        "clue": "Vitamin D production requires this specific wavelength of UV radiation.",
+        "correctQuestion": "What is UVB (280-320 nm)?",
+        "value": 1200
+      },
+      {
+        "clue": "This mathematical principle explains the refraction of water waves at coastlines.",
+        "correctQuestion": "What is Snell's law or Fermat's principle?",
+        "value": 1200
+      },
+      {
+        "clue": "The shear stress at the air-water interface is quantified by this dimensionless number.",
+        "correctQuestion": "What is the wind stress coefficient or drag coefficient?",
+        "value": 1200
+      },
+      {
+        "clue": "Langmuir circulation forms in water when wind this the surface.",
+        "correctQuestion": "What is shears or drags?",
+        "value": 1200
+      },
+      {
+        "clue": "This instability in ocean layers causes breaking internal waves.",
+        "correctQuestion": "What is the Rayleigh-Taylor instability or Kelvin-Helmholtz instability?",
+        "value": 1200
+      },
+      {
+        "clue": "The Coriolis force deflects moving objects by an amount proportional to this.",
+        "correctQuestion": "What is the sine of latitude?",
+        "value": 1200
+      },
+      {
+        "clue": "This parameter characterizes the ratio of inertial to Coriolis forces.",
+        "correctQuestion": "What is the Rossby number?",
+        "value": 1200
+      },
+      {
+        "clue": "Coastal jets form due to this geostrophic balance between pressure and Coriolis forces.",
+        "correctQuestion": "What is thermal wind shear?",
+        "value": 1200
+      },
+      {
+        "clue": "This spectrophotometric method measures UV absorption in sunscreen formulations.",
+        "correctQuestion": "What is high-performance liquid chromatography or HPLC?",
+        "value": 1200
+      },
+      {
+        "clue": "The organic UV filter oxybenzone is known to cause this adverse reaction.",
+        "correctQuestion": "What is photoallergen contact dermatitis?",
+        "value": 1200
+      },
+      {
+        "clue": "This organic UV filter has been restricted in Hawaii due to environmental concerns.",
+        "correctQuestion": "What is oxybenzone or octinoxate?",
+        "value": 1200
+      },
+      {
+        "clue": "Avobenzone is a broad-spectrum UV filter with this structural classification.",
+        "correctQuestion": "What is a dibenzoylmethane derivative?",
+        "value": 1200
+      },
+      {
+        "clue": "This reef-safe sunscreen ingredient reflects UV rays without chemical absorption.",
+        "correctQuestion": "What is mineral sunscreen or non-nano zinc oxide?",
+        "value": 1200
+      },
+      {
+        "clue": "The quantum yield for thymine dimer formation is this fraction of incident photons.",
+        "correctQuestion": "What is approximately 0.01 or one percent?",
+        "value": 1200
+      },
+      {
+        "clue": "This crystalline form of silica creates sharp edges that cut skin at the beach.",
+        "correctQuestion": "What is obsidian or volcanic glass?",
+        "value": 1200
+      },
+      {
+        "clue": "The density of seawater varies with this parameter besides salinity.",
+        "correctQuestion": "What is temperature?",
+        "value": 1200
+      },
+      {
+        "clue": "This organic compound in seawater reduces the freezing point.",
+        "correctQuestion": "What is salt or dissolved electrolytes?",
+        "value": 1200
+      },
+      {
+        "clue": "The colligative property of seawater that results in freezing point depression is caused by this.",
+        "correctQuestion": "What is osmotic pressure or dissolved solutes?",
+        "value": 1200
+      },
+      {
+        "clue": "This chemotaxis response allows planktonic organisms to find optimal light depths.",
+        "correctQuestion": "What is phototaxis?",
+        "value": 1200
+      },
+      {
+        "clue": "Diatoms use this structure for photosynthesis in marine phytoplankton.",
+        "correctQuestion": "What is the chloroplast?",
+        "value": 1200
+      },
+      {
+        "clue": "This primary producer in coastal waters synthesizes ribulose bisphosphate carboxylase.",
+        "correctQuestion": "What is phytoplankton or algae?",
+        "value": 1200
+      },
+      {
+        "clue": "Harmful algal blooms are often triggered by this nutrient enrichment process.",
+        "correctQuestion": "What is eutrophication or nitrogen fixation?",
+        "value": 1200
+      },
+      {
+        "clue": "This toxin produced by dinoflagellates causes paralytic shellfish poisoning.",
+        "correctQuestion": "What is saxitoxin?",
+        "value": 1200
+      },
+      {
+        "clue": "The phenomenon where some animals produce their own light is called this.",
+        "correctQuestion": "What is bioluminescence?",
+        "value": 1200
+      }
+    ]
+  }
 }

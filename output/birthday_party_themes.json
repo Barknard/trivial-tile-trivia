@@ -1,308 +1,166 @@
 {
   "category": "Birthday Party Themes",
-  "description": "Themed birthday party concepts across all ages and interests - from classic princess parties to modern superhero celebrations",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "Magical party theme featuring tiaras, ballgowns, and glass slippers",
-      "answer": "What is a princess party?"
-    },
-    {
-      "points": 200,
-      "clue": "Party where guests wear capes and masks to fight crime",
-      "answer": "What is a superhero party?"
-    },
-    {
-      "points": 200,
-      "clue": "Themed celebration with soccer balls, basketballs, and athletic competitions",
-      "answer": "What is a sports party?"
-    },
-    {
-      "points": 200,
-      "clue": "Party inspired by a galaxy far, far away with lightsabers and droids",
-      "answer": "What is a Star Wars party?"
-    },
-    {
-      "points": 200,
-      "clue": "Underwater-themed party with mermaids, fish, and ocean creatures",
-      "answer": "What is a mermaid party?"
-    },
-    {
-      "points": 200,
-      "clue": "Wild jungle-themed celebration with animal costumes and vines",
-      "answer": "What is a jungle party?"
-    },
-    {
-      "points": 200,
-      "clue": "Medieval celebration with knights, castles, and royal feasts",
-      "answer": "What is a knight or castle party?"
-    },
-    {
-      "points": 200,
-      "clue": "Halloween-themed party with ghosts, vampires, and spooky decorations",
-      "answer": "What is a monster or Halloween party?"
-    },
-    {
-      "points": 200,
-      "clue": "Pirate-themed adventure with treasure hunts and eye patches",
-      "answer": "What is a pirate party?"
-    },
-    {
-      "points": 200,
-      "clue": "Pink-themed celebration inspired by a doll brand and dream house",
-      "answer": "What is a Barbie party?"
-    },
-    {
-      "points": 400,
-      "clue": "Tea party theme with fancy hats, tiny cakes, and pink napkins",
-      "answer": "What is a tea party?"
-    },
-    {
-      "points": 400,
-      "clue": "Western-themed party with cowboys, saloons, and rodeos",
-      "answer": "What is a cowboy or Western party?"
-    },
-    {
-      "points": 400,
-      "clue": "Dinosaur-themed celebration with roaring T-Rexes and fossils",
-      "answer": "What is a dinosaur party?"
-    },
-    {
-      "points": 400,
-      "clue": "Glow-in-the-dark party with neon colors, blacklights, and glow sticks",
-      "answer": "What is a neon or glow party?"
-    },
-    {
-      "points": 400,
-      "clue": "Movie-themed party celebrating a favorite animated fantasy film",
-      "answer": "What is a Frozen party?"
-    },
-    {
-      "points": 400,
-      "clue": "Video game-themed celebration with Mario, Zelda, or gaming challenges",
-      "answer": "What is a video game party?"
-    },
-    {
-      "points": 400,
-      "clue": "Spa-themed party with manicures, face masks, and relaxation activities",
-      "answer": "What is a spa party?"
-    },
-    {
-      "points": 400,
-      "clue": "Carnival-themed celebration with games, prizes, and colorful decorations",
-      "answer": "What is a carnival or fair party?"
-    },
-    {
-      "points": 400,
-      "clue": "Greek-themed party with mythology, togas, and Olympic games",
-      "answer": "What is a Greek gods party?"
-    },
-    {
-      "points": 400,
-      "clue": "Time-travel party celebrating a specific decade like the 1980s or 1990s",
-      "answer": "What is a decade or retro party?"
-    },
-    {
-      "points": 600,
-      "clue": "Superhero training academy where guests learn secret powers",
-      "answer": "What is a superhero academy party?"
-    },
-    {
-      "points": 600,
-      "clue": "Art and craft-focused party with painting, pottery, and creative stations",
-      "answer": "What is an art or craft party?"
-    },
-    {
-      "points": 600,
-      "clue": "Mystery murder-themed party where guests solve a crime",
-      "answer": "What is a murder mystery party?"
-    },
-    {
-      "points": 600,
-      "clue": "Wizard-themed celebration inspired by a famous magical academy",
-      "answer": "What is a Harry Potter or wizard party?"
-    },
-    {
-      "points": 600,
-      "clue": "Rainbow-themed celebration with every color imaginable everywhere",
-      "answer": "What is a rainbow party?"
-    },
-    {
-      "points": 600,
-      "clue": "Tropical luau party with tiki torches, grass skirts, and Hawaiian vibes",
-      "answer": "What is a luau or tropical party?"
-    },
-    {
-      "points": 800,
-      "clue": "Detective-themed party where kids become Sherlock Holmes and solve puzzles",
-      "answer": "What is a detective or mystery party?"
-    },
-    {
-      "points": 800,
-      "clue": "Superhero training bootcamp teaching special agent espionage skills",
-      "answer": "What is a secret agent or spy party?"
-    },
-    {
-      "points": 800,
-      "clue": "Mad scientist laboratory party with crazy contraptions and experiments",
-      "answer": "What is a mad scientist party?"
-    },
-    {
-      "points": 800,
-      "clue": "Video game tournament party competing in racing and fighting games",
-      "answer": "What is a gaming tournament or esports party?"
-    }
-  ],
-  "no_humanity_clues": [
-    {
-      "points": 200,
-      "clue": "Pinterest party theme nobody can actually execute perfectly",
-      "answer": "What is any themed party?"
-    },
-    {
-      "points": 200,
-      "clue": "What ruins the superhero party when kids get too aggressive",
-      "answer": "What is actual violence?"
-    },
-    {
-      "points": 200,
-      "clue": "How much Karen spent on her daughter's princess party",
-      "answer": "What is more than your rent?"
-    },
-    {
-      "points": 200,
-      "clue": "What the sports party kids are actually thinking about",
-      "answer": "What is their phones?"
-    },
-    {
-      "points": 200,
-      "clue": "Why the pirate party got shut down by parents",
-      "answer": "What is walking the plank turned literal?"
-    },
-    {
-      "points": 200,
-      "clue": "The mermaid party decoration that nobody warned you about",
-      "answer": "What is glitter everywhere forever?"
-    },
-    {
-      "points": 400,
-      "clue": "What actually happens at the spa party",
-      "answer": "What is kids poking each other with nail files?"
-    },
-    {
-      "points": 400,
-      "clue": "Why the themed party turned into a disaster",
-      "answer": "What is one kid refusing to participate?"
-    },
-    {
-      "points": 400,
-      "clue": "The lie parents tell to book a themed party venue",
-      "answer": "What is we'll clean up after ourselves?"
-    },
-    {
-      "points": 400,
-      "clue": "What Gen Z thinks about adults throwing themed parties",
-      "answer": "What is it's giving try-hard?"
-    },
-    {
-      "points": 400,
-      "clue": "The one kid who shows up to the costume party without a costume",
-      "answer": "What is every single party?"
-    },
-    {
-      "points": 400,
-      "clue": "Why your expensive themed cake tasted like sadness",
-      "answer": "What is you ordered from Instagram?"
-    },
-    {
-      "points": 600,
-      "clue": "What the princess party is actually preparing girls for",
-      "answer": "What is unrealistic expectations?"
-    },
-    {
-      "points": 600,
-      "clue": "Why the jungle party got shut down by animal lovers",
-      "answer": "What is inappropriate animal representation?"
-    },
-    {
-      "points": 600,
-      "clue": "The pirate party activity that created actual trauma",
-      "answer": "What is the plank scene?"
-    },
-    {
-      "points": 600,
-      "clue": "What killed the murder mystery party vibe",
-      "answer": "What is someone taking it too seriously?"
-    },
-    {
-      "points": 600,
-      "clue": "The themed party nobody admits they threw",
-      "answer": "What is anything from their Pinterest board?"
-    },
-    {
-      "points": 600,
-      "clue": "Why the medieval party got cancelled",
-      "answer": "What is the turkey leg incident?"
-    },
-    {
-      "points": 600,
-      "clue": "What the space party really cost per child",
-      "answer": "What is your house down payment divided by six?"
-    },
-    {
-      "points": 600,
-      "clue": "The superhero party activity that broke someone's arm",
-      "answer": "What is the 'powers training' obstacle course?"
-    },
-    {
-      "points": 800,
-      "clue": "Why Karen's Barbie party ended in tears",
-      "answer": "What is she spent more than the actual birthday girl's college fund?"
-    },
-    {
-      "points": 800,
-      "clue": "What the wizard party attendee used to actually bully someone",
-      "answer": "What is house point deductions?"
-    },
-    {
-      "points": 800,
-      "clue": "The spy party game that exposed everyone's secrets",
-      "answer": "What is the 'interrogation' scene?"
-    },
-    {
-      "points": 800,
-      "clue": "Why the parent's themed party fantasy clashed with reality",
-      "answer": "What is kids being kids?"
-    },
-    {
-      "points": 800,
-      "clue": "What the drunk parent brought to the Halloween party",
-      "answer": "What is their actual problem?"
-    },
-    {
-      "points": 800,
-      "clue": "The science party experiment that actually exploded",
-      "answer": "What is the baking soda volcano from hell?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why the influencer's perfect themed party post was fake",
-      "answer": "What is it took 47 takes and the kids hated it?"
-    },
-    {
-      "points": 1000,
-      "clue": "What the group chat says about Karen's $5k princess party",
-      "answer": "What is 'overcompensating much?'"
-    },
-    {
-      "points": 1000,
-      "clue": "The real reason you went with a boring theme party",
-      "answer": "What is your budget was $200?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why every themed party looks the same on Instagram",
-      "answer": "What is they're all from the same basic vendor?"
-    }
-  ]
+  "theme": "birthday",
+  "category_id": "birthday_party_themes",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Magical party theme featuring tiaras, ballgowns, and glass slippers",
+        "correctQuestion": "What is a princess party?",
+        "value": 200
+      },
+      {
+        "clue": "Party where guests wear capes and masks to fight crime",
+        "correctQuestion": "What is a superhero party?",
+        "value": 200
+      },
+      {
+        "clue": "Themed celebration with soccer balls, basketballs, and athletic competitions",
+        "correctQuestion": "What is a sports party?",
+        "value": 200
+      },
+      {
+        "clue": "Party inspired by a galaxy far, far away with lightsabers and droids",
+        "correctQuestion": "What is a Star Wars party?",
+        "value": 200
+      },
+      {
+        "clue": "Underwater-themed party with mermaids, fish, and ocean creatures",
+        "correctQuestion": "What is a mermaid party?",
+        "value": 200
+      },
+      {
+        "clue": "Wild jungle-themed celebration with animal costumes and vines",
+        "correctQuestion": "What is a jungle party?",
+        "value": 200
+      },
+      {
+        "clue": "Medieval celebration with knights, castles, and royal feasts",
+        "correctQuestion": "What is a knight or castle party?",
+        "value": 200
+      },
+      {
+        "clue": "Halloween-themed party with ghosts, vampires, and spooky decorations",
+        "correctQuestion": "What is a monster or Halloween party?",
+        "value": 200
+      },
+      {
+        "clue": "Pirate-themed adventure with treasure hunts and eye patches",
+        "correctQuestion": "What is a pirate party?",
+        "value": 200
+      },
+      {
+        "clue": "Pink-themed celebration inspired by a doll brand and dream house",
+        "correctQuestion": "What is a Barbie party?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Tea party theme with fancy hats, tiny cakes, and pink napkins",
+        "correctQuestion": "What is a tea party?",
+        "value": 400
+      },
+      {
+        "clue": "Western-themed party with cowboys, saloons, and rodeos",
+        "correctQuestion": "What is a cowboy or Western party?",
+        "value": 400
+      },
+      {
+        "clue": "Dinosaur-themed celebration with roaring T-Rexes and fossils",
+        "correctQuestion": "What is a dinosaur party?",
+        "value": 400
+      },
+      {
+        "clue": "Glow-in-the-dark party with neon colors, blacklights, and glow sticks",
+        "correctQuestion": "What is a neon or glow party?",
+        "value": 400
+      },
+      {
+        "clue": "Movie-themed party celebrating a favorite animated fantasy film",
+        "correctQuestion": "What is a Frozen party?",
+        "value": 400
+      },
+      {
+        "clue": "Video game-themed celebration with Mario, Zelda, or gaming challenges",
+        "correctQuestion": "What is a video game party?",
+        "value": 400
+      },
+      {
+        "clue": "Spa-themed party with manicures, face masks, and relaxation activities",
+        "correctQuestion": "What is a spa party?",
+        "value": 400
+      },
+      {
+        "clue": "Carnival-themed celebration with games, prizes, and colorful decorations",
+        "correctQuestion": "What is a carnival or fair party?",
+        "value": 400
+      },
+      {
+        "clue": "Greek-themed party with mythology, togas, and Olympic games",
+        "correctQuestion": "What is a Greek gods party?",
+        "value": 400
+      },
+      {
+        "clue": "Time-travel party celebrating a specific decade like the 1980s or 1990s",
+        "correctQuestion": "What is a decade or retro party?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "Superhero training academy where guests learn secret powers",
+        "correctQuestion": "What is a superhero academy party?",
+        "value": 600
+      },
+      {
+        "clue": "Art and craft-focused party with painting, pottery, and creative stations",
+        "correctQuestion": "What is an art or craft party?",
+        "value": 600
+      },
+      {
+        "clue": "Mystery murder-themed party where guests solve a crime",
+        "correctQuestion": "What is a murder mystery party?",
+        "value": 600
+      },
+      {
+        "clue": "Wizard-themed celebration inspired by a famous magical academy",
+        "correctQuestion": "What is a Harry Potter or wizard party?",
+        "value": 600
+      },
+      {
+        "clue": "Rainbow-themed celebration with every color imaginable everywhere",
+        "correctQuestion": "What is a rainbow party?",
+        "value": 600
+      },
+      {
+        "clue": "Tropical luau party with tiki torches, grass skirts, and Hawaiian vibes",
+        "correctQuestion": "What is a luau or tropical party?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Detective-themed party where kids become Sherlock Holmes and solve puzzles",
+        "correctQuestion": "What is a detective or mystery party?",
+        "value": 800
+      },
+      {
+        "clue": "Superhero training bootcamp teaching special agent espionage skills",
+        "correctQuestion": "What is a secret agent or spy party?",
+        "value": 800
+      },
+      {
+        "clue": "Mad scientist laboratory party with crazy contraptions and experiments",
+        "correctQuestion": "What is a mad scientist party?",
+        "value": 800
+      },
+      {
+        "clue": "Video game tournament party competing in racing and fighting games",
+        "correctQuestion": "What is a gaming tournament or esports party?",
+        "value": 800
+      }
+    ],
+    "no_humanity": []
+  }
 }

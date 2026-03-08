@@ -2,235 +2,1096 @@
   "category": "Reindeer Team",
   "theme": "christmas",
   "category_id": "reindeer_names",
-  "research_basis": "Name recall, sequencing, memory skills, character recognition",
   "audiences": {
     "kids_4_under": [
-      {"clue": "Reindeer with shiny red nose", "correctQuestion": "Who is Rudolph?", "value": 200},
-      {"clue": "Animals pulling Santa's sleigh", "correctQuestion": "What are reindeer?", "value": 200},
-      {"clue": "Color of Rudolph's nose", "correctQuestion": "What is red?", "value": 200},
-      {"clue": "How many reindeer pull sleigh", "correctQuestion": "What is nine?", "value": 200},
-      {"clue": "Reindeer name sounds like runs fast", "correctQuestion": "Who is Dasher?", "value": 200},
-      {"clue": "Reindeer name sounds like dances", "correctQuestion": "Who is Dancer?", "value": 200},
-      {"clue": "Reindeer nose glows and lights way", "correctQuestion": "Who is Rudolph?", "value": 400},
-      {"clue": "What reindeer eat kids leave", "correctQuestion": "What are carrots?", "value": 400},
-      {"clue": "Reindeer name rhymes with answer", "correctQuestion": "Who is Prancer?", "value": 400},
-      {"clue": "Girl reindeer's name", "correctQuestion": "Who is Vixen?", "value": 400},
-      {"clue": "What makes Santa's reindeer fly", "correctQuestion": "What is magic?", "value": 400},
-      {"clue": "Reindeer shares Valentine character's name", "correctQuestion": "Who is Cupid?", "value": 400},
-      {"clue": "Reindeer named for space tail", "correctQuestion": "Who is Comet?", "value": 600},
-      {"clue": "Every reindeer has these atop head", "correctQuestion": "What are antlers?", "value": 600},
-      {"clue": "Reindeer leads team foggy nights", "correctQuestion": "Who is Rudolph?", "value": 600},
-      {"clue": "Where reindeer live with Santa", "correctQuestion": "What is the North Pole?", "value": 600},
-      {"clue": "Jingle on reindeer's harness", "correctQuestion": "What are bells?", "value": 600},
-      {"clue": "Reindeer name sounds like thunder", "correctQuestion": "Who is Donner?", "value": 600},
-      {"clue": "What you call baby reindeer", "correctQuestion": "What is a calf?", "value": 800},
-      {"clue": "Reindeer name means lightning", "correctQuestion": "Who is Blitzen?", "value": 800},
-      {"clue": "Fastest reindeer goes first", "correctQuestion": "Who is Dasher?", "value": 800},
-      {"clue": "How reindeer help Santa Christmas Eve", "correctQuestion": "What is pulling his sleigh?", "value": 800},
-      {"clue": "Color most reindeer are", "correctQuestion": "What is brown?", "value": 800},
-      {"clue": "What reindeer have on heads", "correctQuestion": "What are antlers?", "value": 800},
-      {"clue": "Famous reindeer born red nose", "correctQuestion": "Who is Rudolph?", "value": 1000},
-      {"clue": "Reindeer named after dancing", "correctQuestion": "Who is Dancer?", "value": 1000},
-      {"clue": "Reindeer named after prancing", "correctQuestion": "Who is Prancer?", "value": 1000},
-      {"clue": "Reindeer name same as love symbol", "correctQuestion": "Who is Cupid?", "value": 1000},
-      {"clue": "How many legs each reindeer has", "correctQuestion": "What is four?", "value": 1000},
-      {"clue": "Reindeer hooves good for this", "correctQuestion": "What is walking in snow?", "value": 1000},
-      {"clue": "Sound reindeer hooves make rooftops", "correctQuestion": "What is clicking (or clatter)?", "value": 1000},
-      {"clue": "Reindeer teased for being different", "correctQuestion": "Who is Rudolph?", "value": 1000},
-      {"clue": "Reindeer laugh and call him names", "correctQuestion": "What is Rudolph?", "value": 1000},
-      {"clue": "Santa says to make reindeer fly", "correctQuestion": "What is 'Now Dasher, now Dancer'?", "value": 1000},
-      {"clue": "All reindeer do this through sky", "correctQuestion": "What is fly?", "value": 1000},
-      {"clue": "White stuff where reindeer land", "correctQuestion": "What is snow?", "value": 1000}
+      {
+        "clue": "Reindeer with shiny red nose",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 200
+      },
+      {
+        "clue": "Animals pulling Santa's sleigh",
+        "correctQuestion": "What are reindeer?",
+        "value": 200
+      },
+      {
+        "clue": "Color of Rudolph's nose",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "How many reindeer pull sleigh",
+        "correctQuestion": "What is nine?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer name sounds like runs fast",
+        "correctQuestion": "Who is Dasher?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer name sounds like dances",
+        "correctQuestion": "Who is Dancer?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer nose glows and lights way",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 400
+      },
+      {
+        "clue": "What reindeer eat kids leave",
+        "correctQuestion": "What are carrots?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer name rhymes with answer",
+        "correctQuestion": "Who is Prancer?",
+        "value": 400
+      },
+      {
+        "clue": "Girl reindeer's name",
+        "correctQuestion": "Who is Vixen?",
+        "value": 400
+      },
+      {
+        "clue": "What makes Santa's reindeer fly",
+        "correctQuestion": "What is magic?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer shares Valentine character's name",
+        "correctQuestion": "Who is Cupid?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer named for space tail",
+        "correctQuestion": "Who is Comet?",
+        "value": 600
+      },
+      {
+        "clue": "Every reindeer has these atop head",
+        "correctQuestion": "What are antlers?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer leads team foggy nights",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 600
+      },
+      {
+        "clue": "Where reindeer live with Santa",
+        "correctQuestion": "What is the North Pole?",
+        "value": 600
+      },
+      {
+        "clue": "Jingle on reindeer's harness",
+        "correctQuestion": "What are bells?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer name sounds like thunder",
+        "correctQuestion": "Who is Donner?",
+        "value": 600
+      },
+      {
+        "clue": "What you call baby reindeer",
+        "correctQuestion": "What is a calf?",
+        "value": 800
+      },
+      {
+        "clue": "Reindeer name means lightning",
+        "correctQuestion": "Who is Blitzen?",
+        "value": 800
+      },
+      {
+        "clue": "Fastest reindeer goes first",
+        "correctQuestion": "Who is Dasher?",
+        "value": 800
+      },
+      {
+        "clue": "How reindeer help Santa Christmas Eve",
+        "correctQuestion": "What is pulling his sleigh?",
+        "value": 800
+      },
+      {
+        "clue": "Color most reindeer are",
+        "correctQuestion": "What is brown?",
+        "value": 800
+      },
+      {
+        "clue": "What reindeer have on heads",
+        "correctQuestion": "What are antlers?",
+        "value": 800
+      },
+      {
+        "clue": "Famous reindeer born red nose",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer named after dancing",
+        "correctQuestion": "Who is Dancer?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer named after prancing",
+        "correctQuestion": "Who is Prancer?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer name same as love symbol",
+        "correctQuestion": "Who is Cupid?",
+        "value": 1000
+      },
+      {
+        "clue": "How many legs each reindeer has",
+        "correctQuestion": "What is four?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer hooves good for this",
+        "correctQuestion": "What is walking in snow?",
+        "value": 1000
+      },
+      {
+        "clue": "Sound reindeer hooves make rooftops",
+        "correctQuestion": "What is clicking (or clatter)?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer teased for being different",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer laugh and call him names",
+        "correctQuestion": "What is Rudolph?",
+        "value": 1000
+      },
+      {
+        "clue": "Santa says to make reindeer fly",
+        "correctQuestion": "What is 'Now Dasher, now Dancer'?",
+        "value": 1000
+      },
+      {
+        "clue": "All reindeer do this through sky",
+        "correctQuestion": "What is fly?",
+        "value": 1000
+      },
+      {
+        "clue": "White stuff where reindeer land",
+        "correctQuestion": "What is snow?",
+        "value": 1000
+      }
     ],
     "kids_10_under": [
-      {"clue": "Montgomery Ward created this reindeer 1939", "correctQuestion": "Who is Rudolph?", "value": 200},
-      {"clue": "Original eight reindeer before Rudolph", "correctQuestion": "Who are Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, and Blitzen?", "value": 200},
-      {"clue": "Reindeer name means thunder in German", "correctQuestion": "Who is Donner?", "value": 200},
-      {"clue": "Reindeer name means lightning in German", "correctQuestion": "Who is Blitzen?", "value": 200},
-      {"clue": "1823 poem named eight reindeer", "correctQuestion": "What is 'A Visit from St. Nicholas' (or 'Twas the Night Before Christmas)?", "value": 200},
-      {"clue": "Author of original Rudolph story", "correctQuestion": "Who is Robert L. May?", "value": 200},
-      {"clue": "Reindeer named after celestial object", "correctQuestion": "Who is Comet?", "value": 400},
-      {"clue": "Reindeer named for Roman love god", "correctQuestion": "Who is Cupid?", "value": 400},
-      {"clue": "Reindeer name means female fox", "correctQuestion": "Who is Vixen?", "value": 400},
-      {"clue": "Total number reindeer on team", "correctQuestion": "What is nine?", "value": 400},
-      {"clue": "Year Rudolph TV special aired", "correctQuestion": "What is 1964?", "value": 400},
-      {"clue": "Rudolph's girlfriend in movie", "correctQuestion": "Who is Clarice?", "value": 400},
-      {"clue": "Actor narrated as Sam Snowman", "correctQuestion": "Who is Burl Ives?", "value": 600},
-      {"clue": "Rudolph song hit number one 1949", "correctQuestion": "What is 'Rudolph the Red-Nosed Reindeer'?", "value": 600},
-      {"clue": "Singer made Rudolph song famous", "correctQuestion": "Who is Gene Autry?", "value": 600},
-      {"clue": "Elf wanted to be dentist", "correctQuestion": "Who is Hermey?", "value": 600},
-      {"clue": "Abominable snowman in Rudolph movie", "correctQuestion": "Who is the Bumble?", "value": 600},
-      {"clue": "Island where misfit toys live", "correctQuestion": "What is the Island of Misfit Toys?", "value": 600},
-      {"clue": "Rudolph's father in the movie", "correctQuestion": "Who is Donner?", "value": 800},
-      {"clue": "Rudolph's mother in the movie", "correctQuestion": "Who is Mrs. Donner?", "value": 800},
-      {"clue": "Prospector befriends Rudolph", "correctQuestion": "Who is Yukon Cornelius?", "value": 800},
-      {"clue": "Department store distributed first Rudolph", "correctQuestion": "What is Montgomery Ward?", "value": 800},
-      {"clue": "Original purpose of Rudolph story", "correctQuestion": "What is a promotional coloring book?", "value": 800},
-      {"clue": "Rudolph's nose helps Santa do this", "correctQuestion": "What is see through fog and guide the sleigh?", "value": 800},
-      {"clue": "Company produced stop-motion Rudolph special", "correctQuestion": "What is Rankin/Bass?", "value": 1000},
-      {"clue": "Animation type for Rudolph special", "correctQuestion": "What is stop-motion (or Animagic)?", "value": 1000},
-      {"clue": "Rudolph story copies given 1939", "correctQuestion": "What is 2.4 million?", "value": 1000},
-      {"clue": "May's brother-in-law wrote Rudolph song", "correctQuestion": "Who is Johnny Marks?", "value": 1000},
-      {"clue": "Robert May's Montgomery Ward job", "correctQuestion": "What is a copywriter?", "value": 1000},
-      {"clue": "Network first aired Rudolph special", "correctQuestion": "What is NBC?", "value": 1000},
-      {"clue": "Scientific reason Rudolph's nose glows", "correctQuestion": "What is bioluminescence (or it's magic)?", "value": 1000},
-      {"clue": "Arctic animal related to reindeer", "correctQuestion": "What is caribou?", "value": 1000},
-      {"clue": "Continent where wild reindeer live", "correctQuestion": "What is Europe (or Asia/North America)?", "value": 1000},
-      {"clue": "North American word for reindeer", "correctQuestion": "What is caribou?", "value": 1000},
-      {"clue": "Gender keeps antlers through winter", "correctQuestion": "What are female reindeer?", "value": 1000},
-      {"clue": "Antlers at Christmas means reindeer are", "correctQuestion": "What is all girls?", "value": 1000}
+      {
+        "clue": "Montgomery Ward created this reindeer 1939",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 200
+      },
+      {
+        "clue": "Original eight reindeer before Rudolph",
+        "correctQuestion": "Who are Dasher, Dancer, Prancer, Vixen, Comet, Cupid, Donner, and Blitzen?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer name means thunder in German",
+        "correctQuestion": "Who is Donner?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer name means lightning in German",
+        "correctQuestion": "Who is Blitzen?",
+        "value": 200
+      },
+      {
+        "clue": "1823 poem named eight reindeer",
+        "correctQuestion": "What is 'A Visit from St. Nicholas' (or 'Twas the Night Before Christmas)?",
+        "value": 200
+      },
+      {
+        "clue": "Author of original Rudolph story",
+        "correctQuestion": "Who is Robert L. May?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer named after celestial object",
+        "correctQuestion": "Who is Comet?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer named for Roman love god",
+        "correctQuestion": "Who is Cupid?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer name means female fox",
+        "correctQuestion": "Who is Vixen?",
+        "value": 400
+      },
+      {
+        "clue": "Total number reindeer on team",
+        "correctQuestion": "What is nine?",
+        "value": 400
+      },
+      {
+        "clue": "Year Rudolph TV special aired",
+        "correctQuestion": "What is 1964?",
+        "value": 400
+      },
+      {
+        "clue": "Rudolph's girlfriend in movie",
+        "correctQuestion": "Who is Clarice?",
+        "value": 400
+      },
+      {
+        "clue": "Actor narrated as Sam Snowman",
+        "correctQuestion": "Who is Burl Ives?",
+        "value": 600
+      },
+      {
+        "clue": "Rudolph song hit number one 1949",
+        "correctQuestion": "What is 'Rudolph the Red-Nosed Reindeer'?",
+        "value": 600
+      },
+      {
+        "clue": "Singer made Rudolph song famous",
+        "correctQuestion": "Who is Gene Autry?",
+        "value": 600
+      },
+      {
+        "clue": "Elf wanted to be dentist",
+        "correctQuestion": "Who is Hermey?",
+        "value": 600
+      },
+      {
+        "clue": "Abominable snowman in Rudolph movie",
+        "correctQuestion": "Who is the Bumble?",
+        "value": 600
+      },
+      {
+        "clue": "Island where misfit toys live",
+        "correctQuestion": "What is the Island of Misfit Toys?",
+        "value": 600
+      },
+      {
+        "clue": "Rudolph's father in the movie",
+        "correctQuestion": "Who is Donner?",
+        "value": 800
+      },
+      {
+        "clue": "Rudolph's mother in the movie",
+        "correctQuestion": "Who is Mrs. Donner?",
+        "value": 800
+      },
+      {
+        "clue": "Prospector befriends Rudolph",
+        "correctQuestion": "Who is Yukon Cornelius?",
+        "value": 800
+      },
+      {
+        "clue": "Department store distributed first Rudolph",
+        "correctQuestion": "What is Montgomery Ward?",
+        "value": 800
+      },
+      {
+        "clue": "Original purpose of Rudolph story",
+        "correctQuestion": "What is a promotional coloring book?",
+        "value": 800
+      },
+      {
+        "clue": "Rudolph's nose helps Santa do this",
+        "correctQuestion": "What is see through fog and guide the sleigh?",
+        "value": 800
+      },
+      {
+        "clue": "Company produced stop-motion Rudolph special",
+        "correctQuestion": "What is Rankin/Bass?",
+        "value": 1000
+      },
+      {
+        "clue": "Animation type for Rudolph special",
+        "correctQuestion": "What is stop-motion (or Animagic)?",
+        "value": 1000
+      },
+      {
+        "clue": "Rudolph story copies given 1939",
+        "correctQuestion": "What is 2.4 million?",
+        "value": 1000
+      },
+      {
+        "clue": "May's brother-in-law wrote Rudolph song",
+        "correctQuestion": "Who is Johnny Marks?",
+        "value": 1000
+      },
+      {
+        "clue": "Robert May's Montgomery Ward job",
+        "correctQuestion": "What is a copywriter?",
+        "value": 1000
+      },
+      {
+        "clue": "Network first aired Rudolph special",
+        "correctQuestion": "What is NBC?",
+        "value": 1000
+      },
+      {
+        "clue": "Scientific reason Rudolph's nose glows",
+        "correctQuestion": "What is bioluminescence (or it's magic)?",
+        "value": 1000
+      },
+      {
+        "clue": "Arctic animal related to reindeer",
+        "correctQuestion": "What is caribou?",
+        "value": 1000
+      },
+      {
+        "clue": "Continent where wild reindeer live",
+        "correctQuestion": "What is Europe (or Asia/North America)?",
+        "value": 1000
+      },
+      {
+        "clue": "North American word for reindeer",
+        "correctQuestion": "What is caribou?",
+        "value": 1000
+      },
+      {
+        "clue": "Gender keeps antlers through winter",
+        "correctQuestion": "What are female reindeer?",
+        "value": 1000
+      },
+      {
+        "clue": "Antlers at Christmas means reindeer are",
+        "correctQuestion": "What is all girls?",
+        "value": 1000
+      }
     ],
     "teenagers": [
-      {"clue": "1823 poem first named eight reindeer", "correctQuestion": "What is 'A Visit from St. Nicholas'?", "value": 200},
-      {"clue": "Montgomery Ward copywriter created Rudolph 1939", "correctQuestion": "Who is Robert L. May?", "value": 200},
-      {"clue": "Original name considered before Rudolph", "correctQuestion": "What is Rollo (or Reginald)?", "value": 200},
-      {"clue": "Biological phenomenon explains glowing nose", "correctQuestion": "What is bioluminescence?", "value": 200},
-      {"clue": "Taxonomic species name for reindeer", "correctQuestion": "What is Rangifer tarandus?", "value": 200},
-      {"clue": "North American name for reindeer", "correctQuestion": "What is caribou?", "value": 200},
-      {"clue": "Percentage Rudolph copies given free 1939", "correctQuestion": "What is 100%?", "value": 400},
-      {"clue": "Copies Rudolph story distributed 1939", "correctQuestion": "What is 2.4 million?", "value": 400},
-      {"clue": "May's relative wrote Rudolph song", "correctQuestion": "Who is Johnny Marks (his brother-in-law)?", "value": 400},
-      {"clue": "Year Autry recorded Rudolph song", "correctQuestion": "What is 1949?", "value": 400},
-      {"clue": "Weeks Rudolph song was number one", "correctQuestion": "What is one week?", "value": 400},
-      {"clue": "Stop-motion technique for 1964 special", "correctQuestion": "What is Animagic?", "value": 400},
-      {"clue": "Japanese company created Rudolph puppets", "correctQuestion": "What is MOM Production?", "value": 600},
-      {"clue": "Only gender keeps antlers in winter", "correctQuestion": "What are female reindeer (or castrated males)?", "value": 600},
-      {"clue": "Antlers in December means reindeer are", "correctQuestion": "What is all female?", "value": 600},
-      {"clue": "Adaptation lets reindeer see UV light", "correctQuestion": "What is enhanced UV vision?", "value": 600},
-      {"clue": "Reindeer eyes change to this color", "correctQuestion": "What is blue (from gold)?", "value": 600},
-      {"clue": "Change helps reindeer see in darkness", "correctQuestion": "What is tapetum lucidum color change?", "value": 600},
-      {"clue": "Norse god associated with reindeer", "correctQuestion": "Who is Thor (or other Norse deities)?", "value": 800},
-      {"clue": "Northern European people herd reindeer traditionally", "correctQuestion": "Who are the Sami people?", "value": 800},
-      {"clue": "Percentage reindeer wild vs domesticated", "correctQuestion": "What is 60% wild, 40% domesticated?", "value": 800},
-      {"clue": "Maximum speed a reindeer runs", "correctQuestion": "What is 50 mph (80 km/h)?", "value": 800},
-      {"clue": "Reindeer clicking sound comes from this", "correctQuestion": "What are tendons in their feet?", "value": 800},
-      {"clue": "CBS exec initially rejected Rudolph special", "correctQuestion": "Who is James Aubrey?", "value": 800},
-      {"clue": "Sponsor saved Rudolph from cancellation", "correctQuestion": "What is General Electric?", "value": 1000},
-      {"clue": "Ethical concern over Rudolph rights initially", "correctQuestion": "What is Montgomery Ward owned the copyright?", "value": 1000},
-      {"clue": "Year Ward transferred Rudolph to May", "correctQuestion": "What is 1947?", "value": 1000},
-      {"clue": "BMJ paper studied Rudolph's nose", "correctQuestion": "What is 'The Anatomy and Physiology of Rudolph's Nose'?", "value": 1000},
-      {"clue": "Blood vessels needed for red nose", "correctQuestion": "What is a dense capillary network?", "value": 1000},
-      {"clue": "Thermal explanation for nose redness", "correctQuestion": "What is thermoregulation and increased blood flow?", "value": 1000},
-      {"clue": "Original 1939 ending changed too dark", "correctQuestion": "What is Rudolph dying in the story?", "value": 1000},
-      {"clue": "Donner vs Donder name controversy", "correctQuestion": "What is Dutch vs German spelling variations?", "value": 1000},
-      {"clue": "Meaning of Donder in Dutch", "correctQuestion": "What is thunder?", "value": 1000},
-      {"clue": "Year poem attributed to Moore", "correctQuestion": "What is 1837?", "value": 1000},
-      {"clue": "Alternative author proposed for 1823 poem", "correctQuestion": "Who is Henry Livingston Jr.?", "value": 1000},
-      {"clue": "Analysis supports Livingston authorship theory", "correctQuestion": "What is stylometric analysis?", "value": 1000}
+      {
+        "clue": "1823 poem first named eight reindeer",
+        "correctQuestion": "What is 'A Visit from St. Nicholas'?",
+        "value": 200
+      },
+      {
+        "clue": "Montgomery Ward copywriter created Rudolph 1939",
+        "correctQuestion": "Who is Robert L. May?",
+        "value": 200
+      },
+      {
+        "clue": "Original name considered before Rudolph",
+        "correctQuestion": "What is Rollo (or Reginald)?",
+        "value": 200
+      },
+      {
+        "clue": "Biological phenomenon explains glowing nose",
+        "correctQuestion": "What is bioluminescence?",
+        "value": 200
+      },
+      {
+        "clue": "Taxonomic species name for reindeer",
+        "correctQuestion": "What is Rangifer tarandus?",
+        "value": 200
+      },
+      {
+        "clue": "North American name for reindeer",
+        "correctQuestion": "What is caribou?",
+        "value": 200
+      },
+      {
+        "clue": "Percentage Rudolph copies given free 1939",
+        "correctQuestion": "What is 100%?",
+        "value": 400
+      },
+      {
+        "clue": "Copies Rudolph story distributed 1939",
+        "correctQuestion": "What is 2.4 million?",
+        "value": 400
+      },
+      {
+        "clue": "May's relative wrote Rudolph song",
+        "correctQuestion": "Who is Johnny Marks (his brother-in-law)?",
+        "value": 400
+      },
+      {
+        "clue": "Year Autry recorded Rudolph song",
+        "correctQuestion": "What is 1949?",
+        "value": 400
+      },
+      {
+        "clue": "Weeks Rudolph song was number one",
+        "correctQuestion": "What is one week?",
+        "value": 400
+      },
+      {
+        "clue": "Stop-motion technique for 1964 special",
+        "correctQuestion": "What is Animagic?",
+        "value": 400
+      },
+      {
+        "clue": "Japanese company created Rudolph puppets",
+        "correctQuestion": "What is MOM Production?",
+        "value": 600
+      },
+      {
+        "clue": "Only gender keeps antlers in winter",
+        "correctQuestion": "What are female reindeer (or castrated males)?",
+        "value": 600
+      },
+      {
+        "clue": "Antlers in December means reindeer are",
+        "correctQuestion": "What is all female?",
+        "value": 600
+      },
+      {
+        "clue": "Adaptation lets reindeer see UV light",
+        "correctQuestion": "What is enhanced UV vision?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer eyes change to this color",
+        "correctQuestion": "What is blue (from gold)?",
+        "value": 600
+      },
+      {
+        "clue": "Change helps reindeer see in darkness",
+        "correctQuestion": "What is tapetum lucidum color change?",
+        "value": 600
+      },
+      {
+        "clue": "Norse god associated with reindeer",
+        "correctQuestion": "Who is Thor (or other Norse deities)?",
+        "value": 800
+      },
+      {
+        "clue": "Northern European people herd reindeer traditionally",
+        "correctQuestion": "Who are the Sami people?",
+        "value": 800
+      },
+      {
+        "clue": "Percentage reindeer wild vs domesticated",
+        "correctQuestion": "What is 60% wild, 40% domesticated?",
+        "value": 800
+      },
+      {
+        "clue": "Maximum speed a reindeer runs",
+        "correctQuestion": "What is 50 mph (80 km/h)?",
+        "value": 800
+      },
+      {
+        "clue": "Reindeer clicking sound comes from this",
+        "correctQuestion": "What are tendons in their feet?",
+        "value": 800
+      },
+      {
+        "clue": "CBS exec initially rejected Rudolph special",
+        "correctQuestion": "Who is James Aubrey?",
+        "value": 800
+      },
+      {
+        "clue": "Sponsor saved Rudolph from cancellation",
+        "correctQuestion": "What is General Electric?",
+        "value": 1000
+      },
+      {
+        "clue": "Ethical concern over Rudolph rights initially",
+        "correctQuestion": "What is Montgomery Ward owned the copyright?",
+        "value": 1000
+      },
+      {
+        "clue": "Year Ward transferred Rudolph to May",
+        "correctQuestion": "What is 1947?",
+        "value": 1000
+      },
+      {
+        "clue": "BMJ paper studied Rudolph's nose",
+        "correctQuestion": "What is 'The Anatomy and Physiology of Rudolph's Nose'?",
+        "value": 1000
+      },
+      {
+        "clue": "Blood vessels needed for red nose",
+        "correctQuestion": "What is a dense capillary network?",
+        "value": 1000
+      },
+      {
+        "clue": "Thermal explanation for nose redness",
+        "correctQuestion": "What is thermoregulation and increased blood flow?",
+        "value": 1000
+      },
+      {
+        "clue": "Original 1939 ending changed too dark",
+        "correctQuestion": "What is Rudolph dying in the story?",
+        "value": 1000
+      },
+      {
+        "clue": "Donner vs Donder name controversy",
+        "correctQuestion": "What is Dutch vs German spelling variations?",
+        "value": 1000
+      },
+      {
+        "clue": "Meaning of Donder in Dutch",
+        "correctQuestion": "What is thunder?",
+        "value": 1000
+      },
+      {
+        "clue": "Year poem attributed to Moore",
+        "correctQuestion": "What is 1837?",
+        "value": 1000
+      },
+      {
+        "clue": "Alternative author proposed for 1823 poem",
+        "correctQuestion": "Who is Henry Livingston Jr.?",
+        "value": 1000
+      },
+      {
+        "clue": "Analysis supports Livingston authorship theory",
+        "correctQuestion": "What is stylometric analysis?",
+        "value": 1000
+      }
     ],
     "adults": [
-      {"clue": "2012 study explained reindeer eye change", "correctQuestion": "What is the tapetum lucidum seasonal adaptation study?", "value": 200},
-      {"clue": "UV wavelength range reindeer detect", "correctQuestion": "What is 310-380 nanometers?", "value": 200},
-      {"clue": "UV vision advantage for Arctic reindeer", "correctQuestion": "What is detecting predators and finding lichen?", "value": 200},
-      {"clue": "2013 BMJ article analyzed Rudolph nose", "correctQuestion": "What is 'The Luminous Nose of Rudolph: A Retrospective Analysis'?", "value": 200},
-      {"clue": "Medical condition causes red noses", "correctQuestion": "What is rhinophyma (or rosacea)?", "value": 200},
-      {"clue": "Reindeer population decline last two decades", "correctQuestion": "What is 56% decline in some herds?", "value": 200},
-      {"clue": "Climate change threatens reindeer food", "correctQuestion": "What is Arctic warming affecting lichen growth?", "value": 400},
-      {"clue": "Rain-on-snow events impact reindeer survival", "correctQuestion": "What is ice crust formation preventing foraging?", "value": 400},
-      {"clue": "UNESCO status protects Sami herding", "correctQuestion": "What is Intangible Cultural Heritage?", "value": 400},
-      {"clue": "Sami people still practice reindeer herding", "correctQuestion": "What is 10% of Sami population (about 2,500 herders)?", "value": 400},
-      {"clue": "Metabolic adaptation for Arctic winters", "correctQuestion": "What is reducing metabolic rate by 30%?", "value": 400},
-      {"clue": "Reindeer knees produce clicking sounds", "correctQuestion": "What is a specialized tendon slipping over bone?", "value": 400},
-      {"clue": "Copyright dispute surrounded Rudolph 1939-1947", "correctQuestion": "What is Montgomery Ward vs Robert L. May ownership?", "value": 600},
-      {"clue": "Rudolph intellectual property value today", "correctQuestion": "What is over $100 million?", "value": 600},
-      {"clue": "Theological critique of Rudolph story", "correctQuestion": "What is acceptance only through usefulness?", "value": 600},
-      {"clue": "Rudolph as disability narrative reading", "correctQuestion": "What is ableism and conditional acceptance?", "value": 600},
-      {"clue": "Feminist interpretation reindeer gender Santa team", "correctQuestion": "What is invisible female labor supporting male figurehead?", "value": 600},
-      {"clue": "Stylometric evidence for Livingston authorship", "correctQuestion": "What is anapestic meter and vocabulary patterns?", "value": 600},
-      {"clue": "Scholar championed Livingston authorship theory", "correctQuestion": "Who is Don Foster?", "value": 800},
-      {"clue": "Year Moore family published under Clement", "correctQuestion": "What is 1844?", "value": 800},
-      {"clue": "Why Livingston never claimed authorship", "correctQuestion": "What is he died in 1828 before Moore's attribution?", "value": 800},
-      {"clue": "Environmental impact domesticated reindeer herding", "correctQuestion": "What is overgrazing and tundra degradation?", "value": 800},
-      {"clue": "Global reindeer husbandry industry value", "correctQuestion": "What is approximately $2 billion annually?", "value": 800},
-      {"clue": "Parasitic threat from climate change", "correctQuestion": "What are warble flies and nasal bot flies?", "value": 800},
-      {"clue": "Prion disease in reindeer populations", "correctQuestion": "What is Chronic Wasting Disease in cervids?", "value": 1000},
-      {"clue": "IUCN conservation status wild reindeer", "correctQuestion": "What is Vulnerable?", "value": 1000},
-      {"clue": "Percentage global reindeer in Russia", "correctQuestion": "What is 60%?", "value": 1000},
-      {"clue": "Smallest Svalbard reindeer subspecies", "correctQuestion": "What is Rangifer tarandus platyrhynchus?", "value": 1000},
-      {"clue": "Longest migratory reindeer herd distance", "correctQuestion": "What is the Porcupine caribou herd (2,400 miles)?", "value": 1000},
-      {"clue": "Reindeer circadian rhythm research Arctic", "correctQuestion": "What is suppressed circadian clock gene expression?", "value": 1000},
-      {"clue": "Digestive symbiosis lets reindeer eat lichen", "correctQuestion": "What is lichenase-producing gut microbiota?", "value": 1000},
-      {"clue": "Military use reindeer in WWII", "correctQuestion": "What is Soviet reindeer battalions in Arctic warfare?", "value": 1000},
-      {"clue": "Sami grazing rights controversy Norway", "correctQuestion": "What is traditional land rights vs development conflicts?", "value": 1000},
-      {"clue": "Genetic study reindeer domestication timeline", "correctQuestion": "What is 2,000-3,000 years ago in Northern Eurasia?", "value": 1000},
-      {"clue": "Reindeer run on ice without slipping", "correctQuestion": "What is adjustable hoof pad traction control?", "value": 1000},
-      {"clue": "Biomechanical study reindeer locomotion snow", "correctQuestion": "What is spreading toes increasing surface area distribution?", "value": 1000}
-    ],
-    "seniors": [
-      {"clue": "Autry recorded Rudolph reluctantly why", "correctQuestion": "What is he thought it was a children's song unworthy of recording?", "value": 200},
-      {"clue": "May's boss requested nose change why", "correctQuestion": "What is the red nose being associated with alcoholism?", "value": 200},
-      {"clue": "Personal tragedy influenced May's Rudolph", "correctQuestion": "What is his wife dying of cancer during writing?", "value": 200},
-      {"clue": "Robert May rewrites for Rudolph", "correctQuestion": "What is several drafts over months?", "value": 200},
-      {"clue": "Illustrator created original Rudolph 1939", "correctQuestion": "Who is Denver Gillen?", "value": 200},
-      {"clue": "Original Rudolph was smaller weaker", "correctQuestion": "What is a runt rejected by other reindeer?", "value": 200},
-      {"clue": "Montgomery Ward exec championed Rudolph", "correctQuestion": "Who is Sewell Avery?", "value": 400},
-      {"clue": "Wartime Rudolph not published 1944-1945", "correctQuestion": "What is paper rationing during WWII?", "value": 400},
-      {"clue": "Year Rudolph published after war", "correctQuestion": "What is 1946?", "value": 400},
-      {"clue": "Ward gave rights to May why", "correctQuestion": "What is goodwill and May's financial struggles?", "value": 400},
-      {"clue": "May made from Rudolph first year", "correctQuestion": "What is enough to clear his debts?", "value": 400},
-      {"clue": "Connection between Autry and Marks", "correctQuestion": "What is Marks pitched the song directly to Autry?", "value": 400},
-      {"clue": "Singer rejected Rudolph before Autry", "correctQuestion": "Who is Bing Crosby?", "value": 600},
-      {"clue": "Original Rudolph TV ending changed", "correctQuestion": "What is leaving the Misfit Toys behind initially?", "value": 600},
-      {"clue": "Public outcry re-edited Rudolph special", "correctQuestion": "What is viewers upset about abandoned Misfit Toys?", "value": 600},
-      {"clue": "Scene added 1965 re-broadcast", "correctQuestion": "What is Santa returning for the Misfit Toys?", "value": 600},
-      {"clue": "Reindeer domestication site Northern Russia", "correctQuestion": "What is the Yamal Peninsula?", "value": 600},
-      {"clue": "Cave painting evidence reindeer importance", "correctQuestion": "What is Lascaux and other Paleolithic art?", "value": 600},
-      {"clue": "Reindeer in Arctic religions cultural memory", "correctQuestion": "What is animistic beliefs and reindeer spirit worship?", "value": 800},
-      {"clue": "Shamanic practice reindeer Sami culture", "correctQuestion": "What is ritual sacrifice and divination?", "value": 800},
-      {"clue": "Christianization suppressed Sami reindeer culture", "correctQuestion": "What is traditional joik singing and shamanism?", "value": 800},
-      {"clue": "1970s movement strengthened Sami herding", "correctQuestion": "What is the Alta controversy and Sami Parliament establishment?", "value": 800},
-      {"clue": "Traditional Sami reindeer marking system", "correctQuestion": "What is ear-notching patterns unique to families?", "value": 800},
-      {"clue": "Seasonal migration traditional reindeer herding", "correctQuestion": "What is summer mountain pastures to winter coastal areas?", "value": 800},
-      {"clue": "Cold War impact Scandinavian reindeer", "correctQuestion": "What is Chernobyl radiation contamination?", "value": 1000},
-      {"clue": "Year Chernobyl affected Norwegian reindeer", "correctQuestion": "What is 1986?", "value": 1000},
-      {"clue": "Lasting Chernobyl impact reindeer herding", "correctQuestion": "What is cesium-137 in lichen requiring meat monitoring?", "value": 1000},
-      {"clue": "Traditional use every reindeer part", "correctQuestion": "What is meat, hide, antlers, sinew, and bones all used?", "value": 1000},
-      {"clue": "Reindeer product historically valuable trade", "correctQuestion": "What is hide for clothing and tents?", "value": 1000},
-      {"clue": "Modern threat traditional reindeer ranges", "correctQuestion": "What is mining, wind farms, and infrastructure development?", "value": 1000},
-      {"clue": "Legal framework protecting Sami rights", "correctQuestion": "What is the Reindeer Husbandry Act?", "value": 1000},
-      {"clue": "Tension nation-states Sami traditional territories", "correctQuestion": "What is cross-border herding vs modern borders?", "value": 1000},
-      {"clue": "Medieval reindeer evidence European chronicles", "correctQuestion": "What is Norse sagas and trading records?", "value": 1000},
-      {"clue": "Victorian reindeer to Christmas symbol", "correctQuestion": "What is romanticization of Arctic and Santa mythology?", "value": 1000},
-      {"clue": "Saint Nicholas and reindeer connection", "correctQuestion": "What is none originally, added by American adaptations?", "value": 1000},
-      {"clue": "Cultural appropriation concern commercial reindeer", "correctQuestion": "What is commodifying Sami cultural animals?", "value": 1000}
+      {
+        "clue": "2012 study explained reindeer eye change",
+        "correctQuestion": "What is the tapetum lucidum seasonal adaptation study?",
+        "value": 200
+      },
+      {
+        "clue": "UV wavelength range reindeer detect",
+        "correctQuestion": "What is 310-380 nanometers?",
+        "value": 200
+      },
+      {
+        "clue": "UV vision advantage for Arctic reindeer",
+        "correctQuestion": "What is detecting predators and finding lichen?",
+        "value": 200
+      },
+      {
+        "clue": "2013 BMJ article analyzed Rudolph nose",
+        "correctQuestion": "What is 'The Luminous Nose of Rudolph: A Retrospective Analysis'?",
+        "value": 200
+      },
+      {
+        "clue": "Medical condition causes red noses",
+        "correctQuestion": "What is rhinophyma (or rosacea)?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer population decline last two decades",
+        "correctQuestion": "What is 56% decline in some herds?",
+        "value": 200
+      },
+      {
+        "clue": "Climate change threatens reindeer food",
+        "correctQuestion": "What is Arctic warming affecting lichen growth?",
+        "value": 400
+      },
+      {
+        "clue": "Rain-on-snow events impact reindeer survival",
+        "correctQuestion": "What is ice crust formation preventing foraging?",
+        "value": 400
+      },
+      {
+        "clue": "UNESCO status protects Sami herding",
+        "correctQuestion": "What is Intangible Cultural Heritage?",
+        "value": 400
+      },
+      {
+        "clue": "Sami people still practice reindeer herding",
+        "correctQuestion": "What is 10% of Sami population (about 2,500 herders)?",
+        "value": 400
+      },
+      {
+        "clue": "Metabolic adaptation for Arctic winters",
+        "correctQuestion": "What is reducing metabolic rate by 30%?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer knees produce clicking sounds",
+        "correctQuestion": "What is a specialized tendon slipping over bone?",
+        "value": 400
+      },
+      {
+        "clue": "Copyright dispute surrounded Rudolph 1939-1947",
+        "correctQuestion": "What is Montgomery Ward vs Robert L. May ownership?",
+        "value": 600
+      },
+      {
+        "clue": "Rudolph intellectual property value today",
+        "correctQuestion": "What is over $100 million?",
+        "value": 600
+      },
+      {
+        "clue": "Theological critique of Rudolph story",
+        "correctQuestion": "What is acceptance only through usefulness?",
+        "value": 600
+      },
+      {
+        "clue": "Rudolph as disability narrative reading",
+        "correctQuestion": "What is ableism and conditional acceptance?",
+        "value": 600
+      },
+      {
+        "clue": "Feminist interpretation reindeer gender Santa team",
+        "correctQuestion": "What is invisible female labor supporting male figurehead?",
+        "value": 600
+      },
+      {
+        "clue": "Stylometric evidence for Livingston authorship",
+        "correctQuestion": "What is anapestic meter and vocabulary patterns?",
+        "value": 600
+      },
+      {
+        "clue": "Scholar championed Livingston authorship theory",
+        "correctQuestion": "Who is Don Foster?",
+        "value": 800
+      },
+      {
+        "clue": "Year Moore family published under Clement",
+        "correctQuestion": "What is 1844?",
+        "value": 800
+      },
+      {
+        "clue": "Why Livingston never claimed authorship",
+        "correctQuestion": "What is he died in 1828 before Moore's attribution?",
+        "value": 800
+      },
+      {
+        "clue": "Environmental impact domesticated reindeer herding",
+        "correctQuestion": "What is overgrazing and tundra degradation?",
+        "value": 800
+      },
+      {
+        "clue": "Global reindeer husbandry industry value",
+        "correctQuestion": "What is approximately $2 billion annually?",
+        "value": 800
+      },
+      {
+        "clue": "Parasitic threat from climate change",
+        "correctQuestion": "What are warble flies and nasal bot flies?",
+        "value": 800
+      },
+      {
+        "clue": "Prion disease in reindeer populations",
+        "correctQuestion": "What is Chronic Wasting Disease in cervids?",
+        "value": 1000
+      },
+      {
+        "clue": "IUCN conservation status wild reindeer",
+        "correctQuestion": "What is Vulnerable?",
+        "value": 1000
+      },
+      {
+        "clue": "Percentage global reindeer in Russia",
+        "correctQuestion": "What is 60%?",
+        "value": 1000
+      },
+      {
+        "clue": "Smallest Svalbard reindeer subspecies",
+        "correctQuestion": "What is Rangifer tarandus platyrhynchus?",
+        "value": 1000
+      },
+      {
+        "clue": "Longest migratory reindeer herd distance",
+        "correctQuestion": "What is the Porcupine caribou herd (2,400 miles)?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer circadian rhythm research Arctic",
+        "correctQuestion": "What is suppressed circadian clock gene expression?",
+        "value": 1000
+      },
+      {
+        "clue": "Digestive symbiosis lets reindeer eat lichen",
+        "correctQuestion": "What is lichenase-producing gut microbiota?",
+        "value": 1000
+      },
+      {
+        "clue": "Military use reindeer in WWII",
+        "correctQuestion": "What is Soviet reindeer battalions in Arctic warfare?",
+        "value": 1000
+      },
+      {
+        "clue": "Sami grazing rights controversy Norway",
+        "correctQuestion": "What is traditional land rights vs development conflicts?",
+        "value": 1000
+      },
+      {
+        "clue": "Genetic study reindeer domestication timeline",
+        "correctQuestion": "What is 2,000-3,000 years ago in Northern Eurasia?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer run on ice without slipping",
+        "correctQuestion": "What is adjustable hoof pad traction control?",
+        "value": 1000
+      },
+      {
+        "clue": "Biomechanical study reindeer locomotion snow",
+        "correctQuestion": "What is spreading toes increasing surface area distribution?",
+        "value": 1000
+      },
+      {
+        "clue": "Autry recorded Rudolph reluctantly why",
+        "correctQuestion": "What is he thought it was a children's song unworthy of recording?",
+        "value": 200
+      },
+      {
+        "clue": "May's boss requested nose change why",
+        "correctQuestion": "What is the red nose being associated with alcoholism?",
+        "value": 200
+      },
+      {
+        "clue": "Personal tragedy influenced May's Rudolph",
+        "correctQuestion": "What is his wife dying of cancer during writing?",
+        "value": 200
+      },
+      {
+        "clue": "Robert May rewrites for Rudolph",
+        "correctQuestion": "What is several drafts over months?",
+        "value": 200
+      },
+      {
+        "clue": "Illustrator created original Rudolph 1939",
+        "correctQuestion": "Who is Denver Gillen?",
+        "value": 200
+      },
+      {
+        "clue": "Original Rudolph was smaller weaker",
+        "correctQuestion": "What is a runt rejected by other reindeer?",
+        "value": 200
+      },
+      {
+        "clue": "Montgomery Ward exec championed Rudolph",
+        "correctQuestion": "Who is Sewell Avery?",
+        "value": 400
+      },
+      {
+        "clue": "Wartime Rudolph not published 1944-1945",
+        "correctQuestion": "What is paper rationing during WWII?",
+        "value": 400
+      },
+      {
+        "clue": "Year Rudolph published after war",
+        "correctQuestion": "What is 1946?",
+        "value": 400
+      },
+      {
+        "clue": "Ward gave rights to May why",
+        "correctQuestion": "What is goodwill and May's financial struggles?",
+        "value": 400
+      },
+      {
+        "clue": "May made from Rudolph first year",
+        "correctQuestion": "What is enough to clear his debts?",
+        "value": 400
+      },
+      {
+        "clue": "Connection between Autry and Marks",
+        "correctQuestion": "What is Marks pitched the song directly to Autry?",
+        "value": 400
+      },
+      {
+        "clue": "Singer rejected Rudolph before Autry",
+        "correctQuestion": "Who is Bing Crosby?",
+        "value": 600
+      },
+      {
+        "clue": "Original Rudolph TV ending changed",
+        "correctQuestion": "What is leaving the Misfit Toys behind initially?",
+        "value": 600
+      },
+      {
+        "clue": "Public outcry re-edited Rudolph special",
+        "correctQuestion": "What is viewers upset about abandoned Misfit Toys?",
+        "value": 600
+      },
+      {
+        "clue": "Scene added 1965 re-broadcast",
+        "correctQuestion": "What is Santa returning for the Misfit Toys?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer domestication site Northern Russia",
+        "correctQuestion": "What is the Yamal Peninsula?",
+        "value": 600
+      },
+      {
+        "clue": "Cave painting evidence reindeer importance",
+        "correctQuestion": "What is Lascaux and other Paleolithic art?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer in Arctic religions cultural memory",
+        "correctQuestion": "What is animistic beliefs and reindeer spirit worship?",
+        "value": 800
+      },
+      {
+        "clue": "Shamanic practice reindeer Sami culture",
+        "correctQuestion": "What is ritual sacrifice and divination?",
+        "value": 800
+      },
+      {
+        "clue": "Christianization suppressed Sami reindeer culture",
+        "correctQuestion": "What is traditional joik singing and shamanism?",
+        "value": 800
+      },
+      {
+        "clue": "1970s movement strengthened Sami herding",
+        "correctQuestion": "What is the Alta controversy and Sami Parliament establishment?",
+        "value": 800
+      },
+      {
+        "clue": "Traditional Sami reindeer marking system",
+        "correctQuestion": "What is ear-notching patterns unique to families?",
+        "value": 800
+      },
+      {
+        "clue": "Seasonal migration traditional reindeer herding",
+        "correctQuestion": "What is summer mountain pastures to winter coastal areas?",
+        "value": 800
+      },
+      {
+        "clue": "Cold War impact Scandinavian reindeer",
+        "correctQuestion": "What is Chernobyl radiation contamination?",
+        "value": 1000
+      },
+      {
+        "clue": "Year Chernobyl affected Norwegian reindeer",
+        "correctQuestion": "What is 1986?",
+        "value": 1000
+      },
+      {
+        "clue": "Lasting Chernobyl impact reindeer herding",
+        "correctQuestion": "What is cesium-137 in lichen requiring meat monitoring?",
+        "value": 1000
+      },
+      {
+        "clue": "Traditional use every reindeer part",
+        "correctQuestion": "What is meat, hide, antlers, sinew, and bones all used?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer product historically valuable trade",
+        "correctQuestion": "What is hide for clothing and tents?",
+        "value": 1000
+      },
+      {
+        "clue": "Modern threat traditional reindeer ranges",
+        "correctQuestion": "What is mining, wind farms, and infrastructure development?",
+        "value": 1000
+      },
+      {
+        "clue": "Legal framework protecting Sami rights",
+        "correctQuestion": "What is the Reindeer Husbandry Act?",
+        "value": 1000
+      },
+      {
+        "clue": "Tension nation-states Sami traditional territories",
+        "correctQuestion": "What is cross-border herding vs modern borders?",
+        "value": 1000
+      },
+      {
+        "clue": "Medieval reindeer evidence European chronicles",
+        "correctQuestion": "What is Norse sagas and trading records?",
+        "value": 1000
+      },
+      {
+        "clue": "Victorian reindeer to Christmas symbol",
+        "correctQuestion": "What is romanticization of Arctic and Santa mythology?",
+        "value": 1000
+      },
+      {
+        "clue": "Saint Nicholas and reindeer connection",
+        "correctQuestion": "What is none originally, added by American adaptations?",
+        "value": 1000
+      },
+      {
+        "clue": "Cultural appropriation concern commercial reindeer",
+        "correctQuestion": "What is commodifying Sami cultural animals?",
+        "value": 1000
+      }
     ],
     "no_humanity": [
-      {"clue": "Rudolph's red nose really is", "correctQuestion": "What is alcoholism?", "value": 200},
-      {"clue": "Dasher's side hustle", "correctQuestion": "What is DoorDash?", "value": 200},
-      {"clue": "Where reindeer harnesses really come from", "correctQuestion": "What is Amazon?", "value": 200},
-      {"clue": "NORAD tracks reindeer but missed this", "correctQuestion": "What is the Chinese spy balloon?", "value": 200},
-      {"clue": "App that replaced watching Rudolph together", "correctQuestion": "What is Netflix?", "value": 200},
-      {"clue": "Rudolph teaches kids about workplace what", "correctQuestion": "What is bullying?", "value": 200},
-      {"clue": "What reindeer hit at 2am Christmas", "correctQuestion": "What is McDonald's?", "value": 400},
-      {"clue": "Prancer and Vixen's real gig", "correctQuestion": "What is Uber?", "value": 400},
-      {"clue": "What got Rudolph sleigh-ready fast", "correctQuestion": "What is Ozempic?", "value": 400},
-      {"clue": "War on Christmas reindeer battleground", "correctQuestion": "What is Starbucks?", "value": 400},
-      {"clue": "What reindeer want instead of carrots", "correctQuestion": "What is an iPhone?", "value": 400},
-      {"clue": "Where moms buy reindeer wrapping paper", "correctQuestion": "What is Target?", "value": 400},
-      {"clue": "Self-driving car that'd hit Rudolph", "correctQuestion": "What is a Tesla?", "value": 600},
-      {"clue": "What makes reindeer fly, says Facebook", "correctQuestion": "What are chemtrails?", "value": 600},
-      {"clue": "Alexa heard you say reindeer aren't", "correctQuestion": "What is real?", "value": 600},
-      {"clue": "Millennials want reindeer to deliver this", "correctQuestion": "What is student loan forgiveness?", "value": 600},
-      {"clue": "Replaced watching Rudolph during COVID", "correctQuestion": "What is Zoom?", "value": 600},
-      {"clue": "Pop star who defrosts every December", "correctQuestion": "Who is Mariah Carey?", "value": 600},
-      {"clue": "Reindeer antlers in December means what", "correctQuestion": "What is they're all female?", "value": 800},
-      {"clue": "Topic that ruins dinner faster than", "correctQuestion": "Who is Trump?", "value": 800},
-      {"clue": "Other topic that destroys Christmas dinner", "correctQuestion": "What is COVID vaccines?", "value": 800},
-      {"clue": "Retail chain Amazon killed with reindeer", "correctQuestion": "What is Toys R Us?", "value": 800},
-      {"clue": "What kids use to track reindeer", "correctQuestion": "What is their iPad?", "value": 800},
-      {"clue": "Gen Z wants reindeer to deliver", "correctQuestion": "What is affordable housing?", "value": 800},
-      {"clue": "What killed flying reindeer magic forever", "correctQuestion": "What is the internet?", "value": 1000},
-      {"clue": "Warehouse with 50 pounds reindeer food", "correctQuestion": "What is Costco?", "value": 1000},
-      {"clue": "Rudolph promotes toxic workplace what", "correctQuestion": "What is culture?", "value": 1000},
-      {"clue": "Parents do this instead watching reindeer", "correctQuestion": "What is assembling toys?", "value": 1000},
-      {"clue": "Reindeer team's real economic problem", "correctQuestion": "What is inflation?", "value": 1000},
-      {"clue": "TikTok learned Rudolph story is really", "correctQuestion": "What is workplace exploitation?", "value": 1000},
-      {"clue": "Venmo shows your ex's reindeer games", "correctQuestion": "What is with deer emoji?", "value": 1000},
-      {"clue": "Reindeer food subscription you forgot to", "correctQuestion": "What is cancel?", "value": 1000},
-      {"clue": "Comet's gig when not flying", "correctQuestion": "What is Instacart?", "value": 1000},
-      {"clue": "Flying team has no benefits, zero", "correctQuestion": "What is workers' rights?", "value": 1000},
-      {"clue": "Reindeer dances went viral here 2023", "correctQuestion": "What is TikTok?", "value": 1000},
-      {"clue": "Blitzen demands this instead of hay", "correctQuestion": "What are edibles?", "value": 1000}
+      {
+        "clue": "Rudolph's red nose really is",
+        "correctQuestion": "What is alcoholism?",
+        "value": 200
+      },
+      {
+        "clue": "Dasher's side hustle",
+        "correctQuestion": "What is DoorDash?",
+        "value": 200
+      },
+      {
+        "clue": "Where reindeer harnesses really come from",
+        "correctQuestion": "What is Amazon?",
+        "value": 200
+      },
+      {
+        "clue": "NORAD tracks reindeer but missed this",
+        "correctQuestion": "What is the Chinese spy balloon?",
+        "value": 200
+      },
+      {
+        "clue": "App that replaced watching Rudolph together",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "Rudolph teaches kids about workplace what",
+        "correctQuestion": "What is bullying?",
+        "value": 200
+      },
+      {
+        "clue": "What reindeer hit at 2am Christmas",
+        "correctQuestion": "What is McDonald's?",
+        "value": 400
+      },
+      {
+        "clue": "Prancer and Vixen's real gig",
+        "correctQuestion": "What is Uber?",
+        "value": 400
+      },
+      {
+        "clue": "What got Rudolph sleigh-ready fast",
+        "correctQuestion": "What is Ozempic?",
+        "value": 400
+      },
+      {
+        "clue": "War on Christmas reindeer battleground",
+        "correctQuestion": "What is Starbucks?",
+        "value": 400
+      },
+      {
+        "clue": "What reindeer want instead of carrots",
+        "correctQuestion": "What is an iPhone?",
+        "value": 400
+      },
+      {
+        "clue": "Where moms buy reindeer wrapping paper",
+        "correctQuestion": "What is Target?",
+        "value": 400
+      },
+      {
+        "clue": "Self-driving car that'd hit Rudolph",
+        "correctQuestion": "What is a Tesla?",
+        "value": 600
+      },
+      {
+        "clue": "What makes reindeer fly, says Facebook",
+        "correctQuestion": "What are chemtrails?",
+        "value": 600
+      },
+      {
+        "clue": "Alexa heard you say reindeer aren't",
+        "correctQuestion": "What is real?",
+        "value": 600
+      },
+      {
+        "clue": "Millennials want reindeer to deliver this",
+        "correctQuestion": "What is student loan forgiveness?",
+        "value": 600
+      },
+      {
+        "clue": "Replaced watching Rudolph during COVID",
+        "correctQuestion": "What is Zoom?",
+        "value": 600
+      },
+      {
+        "clue": "Pop star who defrosts every December",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer antlers in December means what",
+        "correctQuestion": "What is they're all female?",
+        "value": 800
+      },
+      {
+        "clue": "Topic that ruins dinner faster than",
+        "correctQuestion": "Who is Trump?",
+        "value": 800
+      },
+      {
+        "clue": "Other topic that destroys Christmas dinner",
+        "correctQuestion": "What is COVID vaccines?",
+        "value": 800
+      },
+      {
+        "clue": "Retail chain Amazon killed with reindeer",
+        "correctQuestion": "What is Toys R Us?",
+        "value": 800
+      },
+      {
+        "clue": "What kids use to track reindeer",
+        "correctQuestion": "What is their iPad?",
+        "value": 800
+      },
+      {
+        "clue": "Gen Z wants reindeer to deliver",
+        "correctQuestion": "What is affordable housing?",
+        "value": 800
+      },
+      {
+        "clue": "What killed flying reindeer magic forever",
+        "correctQuestion": "What is the internet?",
+        "value": 1000
+      },
+      {
+        "clue": "Warehouse with 50 pounds reindeer food",
+        "correctQuestion": "What is Costco?",
+        "value": 1000
+      },
+      {
+        "clue": "Rudolph promotes toxic workplace what",
+        "correctQuestion": "What is culture?",
+        "value": 1000
+      },
+      {
+        "clue": "Parents do this instead watching reindeer",
+        "correctQuestion": "What is assembling toys?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer team's real economic problem",
+        "correctQuestion": "What is inflation?",
+        "value": 1000
+      },
+      {
+        "clue": "TikTok learned Rudolph story is really",
+        "correctQuestion": "What is workplace exploitation?",
+        "value": 1000
+      },
+      {
+        "clue": "Venmo shows your ex's reindeer games",
+        "correctQuestion": "What is with deer emoji?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer food subscription you forgot to",
+        "correctQuestion": "What is cancel?",
+        "value": 1000
+      },
+      {
+        "clue": "Comet's gig when not flying",
+        "correctQuestion": "What is Instacart?",
+        "value": 1000
+      },
+      {
+        "clue": "Flying team has no benefits, zero",
+        "correctQuestion": "What is workers' rights?",
+        "value": 1000
+      },
+      {
+        "clue": "Reindeer dances went viral here 2023",
+        "correctQuestion": "What is TikTok?",
+        "value": 1000
+      },
+      {
+        "clue": "Blitzen demands this instead of hay",
+        "correctQuestion": "What are edibles?",
+        "value": 1000
+      }
     ]
   }
 }

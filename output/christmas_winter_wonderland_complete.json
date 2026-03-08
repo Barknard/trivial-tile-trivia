@@ -1,1451 +1,916 @@
 {
-  "category": {
-    "id": "winter_weather",
-    "name": "Winter Wonderland",
-    "description": "Snow, ice, cold weather phenomena",
-    "ageSuitability": "All ages",
-    "researchAlignment": "Science connection - weather, states of matter, meteorology"
-  },
-  "questions": [
-    {
-      "id": "ww_kids4_001",
-      "audience": "kids_4_under",
-      "clue": "This white, fluffy stuff falls from the sky in winter and is perfect for making snowmen",
-      "correctQuestion": "What is snow?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_002",
-      "audience": "kids_4_under",
-      "clue": "This frozen water forms when it's very cold outside and can be slippery to walk on",
-      "correctQuestion": "What is ice?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_003",
-      "audience": "kids_4_under",
-      "clue": "You wear these on your hands to keep them warm in the snow",
-      "correctQuestion": "What are mittens?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_004",
-      "audience": "kids_4_under",
-      "clue": "This round object made of snow sits on top of a snowman's body",
-      "correctQuestion": "What is a snowball?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_005",
-      "audience": "kids_4_under",
-      "clue": "When you're outside in winter, you can see this coming out of your mouth when you breathe",
-      "correctQuestion": "What is breath (or steam)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_006",
-      "audience": "kids_4_under",
-      "clue": "These hang from the roof and are made of frozen water that drips and freezes again",
-      "correctQuestion": "What are icicles?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_007",
-      "audience": "kids_4_under",
-      "clue": "This orange vegetable is used for a snowman's nose",
-      "correctQuestion": "What is a carrot?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_008",
-      "audience": "kids_4_under",
-      "clue": "You ride down a snowy hill on this flat piece of wood or plastic",
-      "correctQuestion": "What is a sled?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_009",
-      "audience": "kids_4_under",
-      "clue": "This warm drink with marshmallows on top is perfect after playing in the snow",
-      "correctQuestion": "What is hot chocolate (or cocoa)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_010",
-      "audience": "kids_4_under",
-      "clue": "These special boots keep your feet warm and dry in the snow",
-      "correctQuestion": "What are snow boots?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_011",
-      "audience": "kids_4_under",
-      "clue": "You wrap this long, warm cloth around your neck in winter",
-      "correctQuestion": "What is a scarf?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_012",
-      "audience": "kids_4_under",
-      "clue": "Each one of these tiny pieces of snow has six points and looks like a tiny star",
-      "correctQuestion": "What is a snowflake?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_013",
-      "audience": "kids_4_under",
-      "clue": "This is the season when snow falls and it gets very cold outside",
-      "correctQuestion": "What is winter?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_014",
-      "audience": "kids_4_under",
-      "clue": "These coal pieces are used to make buttons and eyes on a snowman",
-      "correctQuestion": "What are lumps of coal?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids4_015",
-      "audience": "kids_4_under",
-      "clue": "You put this hat on top of your head to keep warm in the snow",
-      "correctQuestion": "What is a winter hat (or beanie)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_016",
-      "audience": "kids_4_under",
-      "clue": "When lots of snow falls all at once, we call it this kind of storm",
-      "correctQuestion": "What is a snowstorm (or blizzard)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_017",
-      "audience": "kids_4_under",
-      "clue": "These birds with orange bellies often stay during winter instead of flying south",
-      "correctQuestion": "What are robins?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_018",
-      "audience": "kids_4_under",
-      "clue": "You make these by lying in the snow and moving your arms and legs",
-      "correctQuestion": "What are snow angels?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_019",
-      "audience": "kids_4_under",
-      "clue": "This frozen rain falls as little balls of ice instead of snowflakes",
-      "correctQuestion": "What is sleet (or hail)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_020",
-      "audience": "kids_4_under",
-      "clue": "People build these snow structures to have pretend battles throwing snowballs",
-      "correctQuestion": "What is a snow fort?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_021",
-      "audience": "kids_4_under",
-      "clue": "When snow melts a little and then freezes again, it makes these slippery patches",
-      "correctQuestion": "What is black ice (or ice patches)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_022",
-      "audience": "kids_4_under",
-      "clue": "This special coat keeps you extra warm and puffy in the winter",
-      "correctQuestion": "What is a puffer jacket (or winter coat)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_023",
-      "audience": "kids_4_under",
-      "clue": "These animals with bushy tails gather nuts before winter and hide in trees",
-      "correctQuestion": "What are squirrels?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids4_024",
-      "audience": "kids_4_under",
-      "clue": "This word means when the temperature drops below the freezing point",
-      "correctQuestion": "What is cold (or freezing)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids4_025",
-      "audience": "kids_4_under",
-      "clue": "These tiny ice crystals form on windows in pretty patterns when it's very cold",
-      "correctQuestion": "What is frost?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids4_026",
-      "audience": "kids_4_under",
-      "clue": "This frozen lake or pond is where people go ice skating in winter",
-      "correctQuestion": "What is a frozen pond (or ice rink)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids4_027",
-      "audience": "kids_4_under",
-      "clue": "These special socks keep your toes warm and cozy in winter boots",
-      "correctQuestion": "What are wool socks (or thick socks)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids4_028",
-      "audience": "kids_4_under",
-      "clue": "This house made entirely of ice blocks is where some people in very cold places live",
-      "correctQuestion": "What is an igloo?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids4_029",
-      "audience": "kids_4_under",
-      "clue": "When snow is perfect for making snowmen, we say it's this kind of snow",
-      "correctQuestion": "What is packing snow (or wet snow)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids4_030",
-      "audience": "kids_4_under",
-      "clue": "These red birds with pointy heads stay in winter and stand out against white snow",
-      "correctQuestion": "What are cardinals?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids4_031",
-      "audience": "kids_4_under",
-      "clue": "This frozen waterfall happens when moving water freezes in the winter",
-      "correctQuestion": "What is an ice fall (or frozen waterfall)?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids4_032",
-      "audience": "kids_4_under",
-      "clue": "These special lights in the sky sometimes appear in winter in very cold places",
-      "correctQuestion": "What are the Northern Lights (or Aurora Borealis)?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids4_033",
-      "audience": "kids_4_under",
-      "clue": "This special day in December is the shortest day with the least sunlight of the whole year",
-      "correctQuestion": "What is the winter solstice?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids4_034",
-      "audience": "kids_4_under",
-      "clue": "This dangerous pile of snow can slide down a mountain very fast",
-      "correctQuestion": "What is an avalanche?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids4_035",
-      "audience": "kids_4_under",
-      "clue": "These large sheets of ice float in the ocean in very cold places near the North Pole",
-      "correctQuestion": "What are icebergs?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids4_036",
-      "audience": "kids_4_under",
-      "clue": "This special kind of snow that looks like powder is very light and fluffy",
-      "correctQuestion": "What is powder snow?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids10_001",
-      "audience": "kids_10_under",
-      "clue": "Water freezes into ice at this temperature in degrees Celsius",
-      "correctQuestion": "What is 0 degrees (or 32 Fahrenheit)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_002",
-      "audience": "kids_10_under",
-      "clue": "This state of matter is what water becomes when it freezes",
-      "correctQuestion": "What is a solid?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_003",
-      "audience": "kids_10_under",
-      "clue": "This process is when water vapor in clouds turns directly into ice crystals without becoming liquid first",
-      "correctQuestion": "What is deposition?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_004",
-      "audience": "kids_10_under",
-      "clue": "This winter sport involves sliding down snowy mountains on two long boards attached to your feet",
-      "correctQuestion": "What is skiing?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_005",
-      "audience": "kids_10_under",
-      "clue": "This type of cloud, often gray and low in the sky, usually brings snow in winter",
-      "correctQuestion": "What are nimbostratus clouds?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_006",
-      "audience": "kids_10_under",
-      "clue": "All snowflakes have this many sides or points due to the hexagonal structure of ice crystals",
-      "correctQuestion": "What is six?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_007",
-      "audience": "kids_10_under",
-      "clue": "This term describes frozen water droplets that fall as small, hard pellets",
-      "correctQuestion": "What is sleet?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_008",
-      "audience": "kids_10_under",
-      "clue": "This instrument measures the temperature of the air outside",
-      "correctQuestion": "What is a thermometer?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_009",
-      "audience": "kids_10_under",
-      "clue": "This layer of gas surrounds Earth and contains the weather we experience",
-      "correctQuestion": "What is the atmosphere?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_010",
-      "audience": "kids_10_under",
-      "clue": "This winter sport uses a single wide board to slide down snowy slopes",
-      "correctQuestion": "What is snowboarding?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_011",
-      "audience": "kids_10_under",
-      "clue": "This scientist studies weather patterns and makes predictions about upcoming conditions",
-      "correctQuestion": "What is a meteorologist?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_012",
-      "audience": "kids_10_under",
-      "clue": "This happens when water changes from liquid to gas, like when puddles disappear after snow melts",
-      "correctQuestion": "What is evaporation?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_013",
-      "audience": "kids_10_under",
-      "clue": "This severe winter storm has winds over 35 mph and heavy snow reducing visibility",
-      "correctQuestion": "What is a blizzard?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_014",
-      "audience": "kids_10_under",
-      "clue": "This type of precipitation forms when raindrops freeze into ice pellets before hitting the ground",
-      "correctQuestion": "What is freezing rain?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_kids10_015",
-      "audience": "kids_10_under",
-      "clue": "This scale measures wind speed and is often used to describe blizzard conditions",
-      "correctQuestion": "What is the Beaufort scale?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_016",
-      "audience": "kids_10_under",
-      "clue": "This Japanese scientist photographed over 5,000 snowflakes and proved no two are exactly alike",
-      "correctQuestion": "Who is Wilson Bentley (or Snowflake Bentley)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_017",
-      "audience": "kids_10_under",
-      "clue": "This protective layer of fat helps polar animals survive in freezing temperatures",
-      "correctQuestion": "What is blubber?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_018",
-      "audience": "kids_10_under",
-      "clue": "This is the scientific term for when animals sleep through the winter to conserve energy",
-      "correctQuestion": "What is hibernation?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_019",
-      "audience": "kids_10_under",
-      "clue": "This happens when water vapor touches a cold surface and freezes directly into ice crystals",
-      "correctQuestion": "What is frost formation?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_020",
-      "audience": "kids_10_under",
-      "clue": "This Olympic winter sport involves sliding down an ice track on a small sled while lying face-down",
-      "correctQuestion": "What is luge?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_021",
-      "audience": "kids_10_under",
-      "clue": "This large mass of ice and snow that slowly moves down mountains is called this",
-      "correctQuestion": "What is a glacier?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_022",
-      "audience": "kids_10_under",
-      "clue": "This temperature scale is used in most scientific measurements and has water freezing at 0 degrees",
-      "correctQuestion": "What is Celsius (or centigrade)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_023",
-      "audience": "kids_10_under",
-      "clue": "This medical condition occurs when body tissue freezes due to extreme cold exposure",
-      "correctQuestion": "What is frostbite?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_kids10_024",
-      "audience": "kids_10_under",
-      "clue": "This phenomenon causes ice to float on water because frozen water is less dense than liquid water",
-      "correctQuestion": "What is density (or ice expansion)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids10_025",
-      "audience": "kids_10_under",
-      "clue": "This classification system identifies seven main types of snowflake shapes based on temperature and humidity",
-      "correctQuestion": "What is the Nakaya diagram (or snowflake classification)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids10_026",
-      "audience": "kids_10_under",
-      "clue": "This weather phenomenon creates a visible ring or halo around the sun or moon during winter",
-      "correctQuestion": "What are ice crystals (or 22-degree halo)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids10_027",
-      "audience": "kids_10_under",
-      "clue": "This massive pile of snow that can rush down a mountain at over 80 mph is extremely dangerous",
-      "correctQuestion": "What is an avalanche?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids10_028",
-      "audience": "kids_10_under",
-      "clue": "This layer of the atmosphere where weather occurs extends about 12 kilometers above Earth's surface",
-      "correctQuestion": "What is the troposphere?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids10_029",
-      "audience": "kids_10_under",
-      "clue": "This type of snow crystal forms at temperatures between -10 and -22 degrees Celsius, creating plate-like shapes",
-      "correctQuestion": "What are dendrites (or stellar crystals)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids10_030",
-      "audience": "kids_10_under",
-      "clue": "This measurement describes how cold the air feels on exposed skin when factoring in wind speed",
-      "correctQuestion": "What is wind chill?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_kids10_031",
-      "audience": "kids_10_under",
-      "clue": "This process is when solid ice changes directly to water vapor without becoming liquid first",
-      "correctQuestion": "What is sublimation?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids10_032",
-      "audience": "kids_10_under",
-      "clue": "This instrument measures atmospheric pressure and helps predict weather changes",
-      "correctQuestion": "What is a barometer?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids10_033",
-      "audience": "kids_10_under",
-      "clue": "This rare weather event called 'thundersnow' combines lightning with this type of precipitation",
-      "correctQuestion": "What is snow (or snowstorm)?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids10_034",
-      "audience": "kids_10_under",
-      "clue": "This is the lowest temperature theoretically possible, equal to -273.15 degrees Celsius",
-      "correctQuestion": "What is absolute zero?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids10_035",
-      "audience": "kids_10_under",
-      "clue": "This term describes the boundary between cold and warm air masses that often creates winter storms",
-      "correctQuestion": "What is a front (or cold front)?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_kids10_036",
-      "audience": "kids_10_under",
-      "clue": "This phenomenon occurs when supercooled water droplets instantly freeze on contact with surfaces",
-      "correctQuestion": "What is rime ice (or hoar frost)?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_teen_001",
-      "audience": "teenagers",
-      "clue": "This effect describes how water's maximum density at 4 degrees Celsius allows aquatic life to survive winter",
-      "correctQuestion": "What is the density anomaly of water?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_002",
-      "audience": "teenagers",
-      "clue": "This atmospheric circulation pattern brings cold Arctic air southward during winter months",
-      "correctQuestion": "What is the polar vortex?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_003",
-      "audience": "teenagers",
-      "clue": "This ratio of water vapor present to the maximum possible at a given temperature affects snowflake formation",
-      "correctQuestion": "What is relative humidity?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_004",
-      "audience": "teenagers",
-      "clue": "This branch of Earth science specifically studies atmospheric phenomena including winter weather",
-      "correctQuestion": "What is meteorology?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_005",
-      "audience": "teenagers",
-      "clue": "This term describes snow that has been compacted and recrystallized over multiple seasons",
-      "correctQuestion": "What is firn (or névé)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_006",
-      "audience": "teenagers",
-      "clue": "This scale categorizes blizzards from 1 to 5 based on their severity and impacts",
-      "correctQuestion": "What is the Regional Snowfall Index (or NESIS)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_007",
-      "audience": "teenagers",
-      "clue": "This greenhouse gas, in the form of snow and ice, has high albedo that reflects solar radiation",
-      "correctQuestion": "What is water (or H2O)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_008",
-      "audience": "teenagers",
-      "clue": "This phenomenon describes the scattering of light by ice crystals that makes snow appear white",
-      "correctQuestion": "What is Mie scattering (or light diffusion)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_009",
-      "audience": "teenagers",
-      "clue": "This ocean current helps moderate winter temperatures in Western Europe by bringing warm water north",
-      "correctQuestion": "What is the Gulf Stream?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_010",
-      "audience": "teenagers",
-      "clue": "This term describes the percentage of solar radiation reflected by a surface like snow or ice",
-      "correctQuestion": "What is albedo?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_011",
-      "audience": "teenagers",
-      "clue": "This climate oscillation in the Pacific affects winter precipitation patterns across North America",
-      "correctQuestion": "What is El Niño (or ENSO)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_012",
-      "audience": "teenagers",
-      "clue": "This force, caused by Earth's rotation, deflects moving air and affects winter storm tracks",
-      "correctQuestion": "What is the Coriolis effect?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_013",
-      "audience": "teenagers",
-      "clue": "This type of cloud forms when moist air is forced upward over mountains, often producing heavy snow",
-      "correctQuestion": "What are orographic clouds?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_014",
-      "audience": "teenagers",
-      "clue": "This measurement equals the depth of water that would result from melting snow, typically 10:1 ratio",
-      "correctQuestion": "What is snow water equivalent (or SWE)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_teen_015",
-      "audience": "teenagers",
-      "clue": "This atmospheric instability creates intense localized snowfall called snow squalls near large bodies of water",
-      "correctQuestion": "What is lake-effect snow?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_016",
-      "audience": "teenagers",
-      "clue": "This process occurs when falling snow partially melts, then refreezes into irregular ice pellets",
-      "correctQuestion": "What is graupel formation (or soft hail)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_017",
-      "audience": "teenagers",
-      "clue": "This temperature inversion traps cold air near the surface while warmer air sits above",
-      "correctQuestion": "What is a temperature inversion?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_018",
-      "audience": "teenagers",
-      "clue": "This atmospheric river phenomenon can bring heavy precipitation to the West Coast during winter",
-      "correctQuestion": "What is a Pineapple Express?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_019",
-      "audience": "teenagers",
-      "clue": "This Norwegian scientist developed the theory of cold and warm fronts that revolutionized meteorology",
-      "correctQuestion": "Who is Vilhelm Bjerknes?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_020",
-      "audience": "teenagers",
-      "clue": "This crystalline structure of ice features hydrogen bonds arranged in a hexagonal lattice",
-      "correctQuestion": "What is ice Ih (or hexagonal ice)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_021",
-      "audience": "teenagers",
-      "clue": "This weather phenomenon produces lightning and thunder during snowstorms due to strong convection",
-      "correctQuestion": "What is thundersnow?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_022",
-      "audience": "teenagers",
-      "clue": "This measurement technique uses radar to estimate precipitation rates and track winter storms",
-      "correctQuestion": "What is Doppler radar?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_023",
-      "audience": "teenagers",
-      "clue": "This layer of permanently frozen ground beneath the surface affects Arctic and subarctic regions",
-      "correctQuestion": "What is permafrost?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_teen_024",
-      "audience": "teenagers",
-      "clue": "This phenomenon creates snow rollers when wind rolls snow into cylindrical shapes across fields",
-      "correctQuestion": "What are snow rollers?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_teen_025",
-      "audience": "teenagers",
-      "clue": "This Japanese physicist created the first artificial snowflakes in a laboratory in 1936",
-      "correctQuestion": "Who is Ukichiro Nakaya?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_teen_026",
-      "audience": "teenagers",
-      "clue": "This process describes how ice crystals grow at the expense of liquid water droplets in mixed-phase clouds",
-      "correctQuestion": "What is the Bergeron process (or Wegener-Bergeron-Findeisen process)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_teen_027",
-      "audience": "teenagers",
-      "clue": "This type of winter storm forms when cold continental air meets warm oceanic air along the East Coast",
-      "correctQuestion": "What is a nor'easter?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_teen_028",
-      "audience": "teenagers",
-      "clue": "This climate feedback loop accelerates warming as decreased ice and snow cover reduces Earth's reflectivity",
-      "correctQuestion": "What is the ice-albedo feedback?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_teen_029",
-      "audience": "teenagers",
-      "clue": "This stratospheric phenomenon involves sudden temperature increases that can affect winter weather patterns",
-      "correctQuestion": "What is sudden stratospheric warming (or SSW)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_teen_030",
-      "audience": "teenagers",
-      "clue": "This dimensionless number describes the ratio of thermal to kinetic energy in atmospheric flows",
-      "correctQuestion": "What is the Richardson number?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_teen_031",
-      "audience": "teenagers",
-      "clue": "This boundary layer phenomenon creates temperature gradients that affect snow crystal morphology",
-      "correctQuestion": "What is the temperature gradient metamorphism?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_teen_032",
-      "audience": "teenagers",
-      "clue": "This mesoscale meteorological feature produces intense snowbands in winter cyclones",
-      "correctQuestion": "What are frontogenetical circulations (or deformation zones)?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_teen_033",
-      "audience": "teenagers",
-      "clue": "This theoretical framework explains snowflake symmetry through diffusion-limited aggregation models",
-      "correctQuestion": "What is dendritic growth theory?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_teen_034",
-      "audience": "teenagers",
-      "clue": "This index quantifies the North Atlantic Oscillation that influences European and North American winters",
-      "correctQuestion": "What is the NAO index?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_teen_035",
-      "audience": "teenagers",
-      "clue": "This microphysical process involves ice crystal multiplication through secondary ice production",
-      "correctQuestion": "What is the Hallett-Mossop process?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_teen_036",
-      "audience": "teenagers",
-      "clue": "This climate mode involves stratospheric polar vortex variability affecting tropospheric circulation",
-      "correctQuestion": "What is the Arctic Oscillation (or AO)?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_adult_001",
-      "audience": "adults",
-      "clue": "This 1888 storm paralyzed the Northeast United States, killing over 400 people in the Great White Hurricane",
-      "correctQuestion": "What is the Blizzard of 1888?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_002",
-      "audience": "adults",
-      "clue": "This climate pattern oscillating every 2-7 years significantly impacts winter precipitation globally",
-      "correctQuestion": "What is the El Niño-Southern Oscillation (ENSO)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_003",
-      "audience": "adults",
-      "clue": "This 1993 superstorm affected 26 states and caused over $6 billion in damage across Eastern North America",
-      "correctQuestion": "What is the Storm of the Century (or 1993 Superstorm)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_004",
-      "audience": "adults",
-      "clue": "This Russian city holds the record for lowest temperature ever recorded in an inhabited place at -96°F",
-      "correctQuestion": "What is Oymyakon?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_005",
-      "audience": "adults",
-      "clue": "This atmospheric blocking pattern can cause prolonged cold spells by stalling weather systems",
-      "correctQuestion": "What is an omega block?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_006",
-      "audience": "adults",
-      "clue": "This location in Antarctica recorded Earth's coldest temperature of -128.6°F in 1983",
-      "correctQuestion": "What is Vostok Station?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_007",
-      "audience": "adults",
-      "clue": "This 1996 blizzard buried parts of the Eastern United States under several feet of snow, paralyzing major cities",
-      "correctQuestion": "What is the Blizzard of 1996 (or North American blizzard)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_008",
-      "audience": "adults",
-      "clue": "This phenomenon occurs when Arctic sea ice extent reaches its annual minimum, typically in September",
-      "correctQuestion": "What is sea ice minimum?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_009",
-      "audience": "adults",
-      "clue": "This U.S. state holds the record for the most snow in a single season at Mount Baker with 1,140 inches",
-      "correctQuestion": "What is Washington?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_010",
-      "audience": "adults",
-      "clue": "This winter of 1816, known as the 'Year Without a Summer,' followed this Indonesian volcano's eruption",
-      "correctQuestion": "What is Mount Tambora?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_011",
-      "audience": "adults",
-      "clue": "This meteorological service began issuing winter storm warnings in the United States in 1870",
-      "correctQuestion": "What is the National Weather Service (or Weather Bureau)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_012",
-      "audience": "adults",
-      "clue": "This phenomenon describes the warming of Arctic regions at twice the global average rate",
-      "correctQuestion": "What is Arctic amplification?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_013",
-      "audience": "adults",
-      "clue": "This 1967 Chicago blizzard dropped 23 inches of snow and stranded thousands of vehicles",
-      "correctQuestion": "What is the Chicago Blizzard of 1967?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_014",
-      "audience": "adults",
-      "clue": "This Canadian province experiences the most severe winter weather with temperatures below -40°F common",
-      "correctQuestion": "What is Yukon (or Northwest Territories)?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_adult_015",
-      "audience": "adults",
-      "clue": "This teleconnection pattern links stratospheric circulation anomalies to surface winter weather",
-      "correctQuestion": "What is the Quasi-Biennial Oscillation (QBO)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_016",
-      "audience": "adults",
-      "clue": "This 1972 blizzard in Iran killed approximately 4,000 people, making it the deadliest on record",
-      "correctQuestion": "What is the Iran Blizzard of 1972?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_017",
-      "audience": "adults",
-      "clue": "This period from roughly 1300-1850 CE featured cooler global temperatures and harsh winters",
-      "correctQuestion": "What is the Little Ice Age?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_018",
-      "audience": "adults",
-      "clue": "This winter of 1683-1684 saw the Thames River freeze so solidly that Londoners held a frost fair",
-      "correctQuestion": "What is the Great Frost?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_019",
-      "audience": "adults",
-      "clue": "This weather modification technique involves seeding clouds with silver iodide to enhance snowfall",
-      "correctQuestion": "What is cloud seeding?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_020",
-      "audience": "adults",
-      "clue": "This 2014 polar vortex event brought record cold to much of North America with wind chills below -50°F",
-      "correctQuestion": "What is the 2014 North American cold wave?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_021",
-      "audience": "adults",
-      "clue": "This 1978 nor'easter buried parts of New England under 27 inches of snow with 100 mph winds",
-      "correctQuestion": "What is the Northeastern United States blizzard of 1978?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_022",
-      "audience": "adults",
-      "clue": "This atmospheric index measures the pressure difference between Iceland and the Azores",
-      "correctQuestion": "What is the North Atlantic Oscillation (NAO)?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_023",
-      "audience": "adults",
-      "clue": "This 2010 snowstorm nicknamed 'Snowmageddon' paralyzed Washington D.C. with over 30 inches",
-      "correctQuestion": "What is the February 2010 North American blizzard?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_adult_024",
-      "audience": "adults",
-      "clue": "This submarine ridge extending across the Arctic Ocean affects sea ice dynamics and winter circulation",
-      "correctQuestion": "What is the Lomonosov Ridge?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_adult_025",
-      "audience": "adults",
-      "clue": "This winter weather phenomenon involves downslope winds that can raise temperatures 40°F in hours",
-      "correctQuestion": "What is a chinook wind (or föhn wind)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_adult_026",
-      "audience": "adults",
-      "clue": "This 1880-1881 winter saw the Schoolhouse Blizzard kill 235 people across the Great Plains",
-      "correctQuestion": "What is the Schoolhouse Blizzard (or Children's Blizzard)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_adult_027",
-      "audience": "adults",
-      "clue": "This climate proxy uses oxygen isotope ratios in ice cores to reconstruct past winter temperatures",
-      "correctQuestion": "What is δ18O (delta-O-18)?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_adult_028",
-      "audience": "adults",
-      "clue": "This 1950 Thanksgiving storm produced snow from the Appalachians to the Atlantic, killing 353 people",
-      "correctQuestion": "What is the Great Appalachian Storm of 1950?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_adult_029",
-      "audience": "adults",
-      "clue": "This paleoclimate period around 12,800 years ago saw a rapid return to glacial conditions",
-      "correctQuestion": "What is the Younger Dryas?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_adult_030",
-      "audience": "adults",
-      "clue": "This Norwegian explorer's 1893-1896 Arctic drift expedition provided crucial winter climate data",
-      "correctQuestion": "Who is Fridtjof Nansen?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_adult_031",
-      "audience": "adults",
-      "clue": "This 1940 Armistice Day Blizzard killed 154 people with sudden temperature drops of 50°F",
-      "correctQuestion": "What is the Armistice Day Blizzard?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_adult_032",
-      "audience": "adults",
-      "clue": "This Greenland ice core project drilled 3,029 meters, revealing 110,000 years of climate history",
-      "correctQuestion": "What is GISP2 (Greenland Ice Sheet Project)?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_adult_033",
-      "audience": "adults",
-      "clue": "This mechanism describes how Dansgaard-Oeschger events caused rapid warming during glacial periods",
-      "correctQuestion": "What is thermohaline circulation disruption?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_adult_034",
-      "audience": "adults",
-      "clue": "This 1779-1780 winter was the coldest on record for the Eastern United States with New York Harbor frozen",
-      "correctQuestion": "What is the Hard Winter (or Winter of 1780)?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_adult_035",
-      "audience": "adults",
-      "clue": "This climate reconstruction method uses varved lake sediments to analyze historical winter conditions",
-      "correctQuestion": "What is varve chronology?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_adult_036",
-      "audience": "adults",
-      "clue": "This 1717 nor'easter buried New England under snow drifts up to 25 feet deep",
-      "correctQuestion": "What is the Great Snow of 1717?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_001",
-      "audience": "no_humanity",
-      "clue": "Blizzard Taco Bell delivery at 2am",
-      "correctQuestion": "What is DoorDash?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_002",
-      "audience": "no_humanity",
-      "clue": "Where snow days become 14-hour binges",
-      "correctQuestion": "What is Netflix?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_003",
-      "audience": "no_humanity",
-      "clue": "What ruined winter 2020",
-      "correctQuestion": "What is COVID-19?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_004",
-      "audience": "no_humanity",
-      "clue": "Your aunt's snow day minion memes",
-      "correctQuestion": "What is Facebook?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_005",
-      "audience": "no_humanity",
-      "clue": "What murdered your local hardware store",
-      "correctQuestion": "What is Amazon?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_006",
-      "audience": "no_humanity",
-      "clue": "Costs more than monthly heating bills",
-      "correctQuestion": "What is an iPhone?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_007",
-      "audience": "no_humanity",
-      "clue": "Snow challenges instead of shoveling driveways",
-      "correctQuestion": "What is TikTok?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_008",
-      "audience": "no_humanity",
-      "clue": "Millennials' real winter holiday wish",
-      "correctQuestion": "What is student loan forgiveness?",
-      "pointValue": 200,
-      "difficulty": "easy"
-    },
-    {
-      "id": "ww_nohumanity_009",
-      "audience": "no_humanity",
-      "clue": "Why your neighbor lost 40 pounds",
-      "correctQuestion": "What is Ozempic?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_010",
-      "audience": "no_humanity",
-      "clue": "5X surge pricing during snowstorms",
-      "correctQuestion": "What is Uber?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_011",
-      "audience": "no_humanity",
-      "clue": "2015 War on Christmas battleground",
-      "correctQuestion": "What is Starbucks?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_012",
-      "audience": "no_humanity",
-      "clue": "Holiday family argument surveillance device",
-      "correctQuestion": "What is Alexa?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_013",
-      "audience": "no_humanity",
-      "clue": "See your ex's 'hot cocoa' payments",
-      "correctQuestion": "What is Venmo?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_014",
-      "audience": "no_humanity",
-      "clue": "Who defrosts every December for millions",
-      "correctQuestion": "Who is Mariah Carey?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_015",
-      "audience": "no_humanity",
-      "clue": "Where moms spend $200 on nothing",
-      "correctQuestion": "What is Target?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_016",
-      "audience": "no_humanity",
-      "clue": "Frozen screens and unmuted relatives nightmare",
-      "correctQuestion": "What is Zoom?",
-      "pointValue": 400,
-      "difficulty": "medium"
-    },
-    {
-      "id": "ww_nohumanity_017",
-      "audience": "no_humanity",
-      "clue": "Topic that ruins winter dinners",
-      "correctQuestion": "What is Trump?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_018",
-      "audience": "no_humanity",
-      "clue": "Gen Z's real holiday miracle",
-      "correctQuestion": "What is a living wage?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_019",
-      "audience": "no_humanity",
-      "clue": "The other winter 2021 dinner destroyer",
-      "correctQuestion": "What is the COVID vaccine?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_020",
-      "audience": "no_humanity",
-      "clue": "Electric cars catching fire in snow",
-      "correctQuestion": "What is Tesla?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_021",
-      "audience": "no_humanity",
-      "clue": "Finding someone to split heating costs",
-      "correctQuestion": "What is Tinder?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_022",
-      "audience": "no_humanity",
-      "clue": "What replaced holiday cards",
-      "correctQuestion": "What is a group text?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_023",
-      "audience": "no_humanity",
-      "clue": "Judges your 47 Mariah plays",
-      "correctQuestion": "What is Spotify?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_024",
-      "audience": "no_humanity",
-      "clue": "Fleece blanket fight club warehouse",
-      "correctQuestion": "What is Costco?",
-      "pointValue": 600,
-      "difficulty": "hard"
-    },
-    {
-      "id": "ww_nohumanity_025",
-      "audience": "no_humanity",
-      "clue": "Fake cozy winter aesthetic factory",
-      "correctQuestion": "What is Instagram?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_026",
-      "audience": "no_humanity",
-      "clue": "The real winter miracle workers want",
-      "correctQuestion": "What is PTO?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_027",
-      "audience": "no_humanity",
-      "clue": "What killed the holiday spirit",
-      "correctQuestion": "What is capitalism?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_028",
-      "audience": "no_humanity",
-      "clue": "Drunk 1am snowstorm food source",
-      "correctQuestion": "What is McDonald's?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_029",
-      "audience": "no_humanity",
-      "clue": "Mrs. Claus's browser history revenge platform",
-      "correctQuestion": "What is OnlyFans?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_030",
-      "audience": "no_humanity",
-      "clue": "Watches you shovel in pajamas",
-      "correctQuestion": "What is Ring?",
-      "pointValue": 800,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_031",
-      "audience": "no_humanity",
-      "clue": "Holiday work for minimum wage",
-      "correctQuestion": "What is Walmart?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_032",
-      "audience": "no_humanity",
-      "clue": "Costco's $600 unnecessary winter purchase",
-      "correctQuestion": "What is a smart TV?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_033",
-      "audience": "no_humanity",
-      "clue": "Post-Thanksgiving trampling event",
-      "correctQuestion": "What is Black Friday?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_034",
-      "audience": "no_humanity",
-      "clue": "Ruined winter 2020-2021 family gatherings",
-      "correctQuestion": "Who is Donald Trump?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_035",
-      "audience": "no_humanity",
-      "clue": "Why your kids won't see snow",
-      "correctQuestion": "What is global warming?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    },
-    {
-      "id": "ww_nohumanity_036",
-      "audience": "no_humanity",
-      "clue": "Makes heating bills a luxury expense",
-      "correctQuestion": "What is the wealth gap?",
-      "pointValue": 1000,
-      "difficulty": "expert"
-    }
-  ]
+  "category": "[object Object]",
+  "theme": "christmas",
+  "category_id": "christmas_winter_wonderland_complete",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This white, fluffy stuff falls from the sky in winter and is perfect for making snowmen",
+        "correctQuestion": "What is snow?",
+        "value": 200
+      },
+      {
+        "clue": "This frozen water forms when it's very cold outside and can be slippery to walk on",
+        "correctQuestion": "What is ice?",
+        "value": 200
+      },
+      {
+        "clue": "You wear these on your hands to keep them warm in the snow",
+        "correctQuestion": "What are mittens?",
+        "value": 200
+      },
+      {
+        "clue": "This round object made of snow sits on top of a snowman's body",
+        "correctQuestion": "What is a snowball?",
+        "value": 200
+      },
+      {
+        "clue": "When you're outside in winter, you can see this coming out of your mouth when you breathe",
+        "correctQuestion": "What is breath (or steam)?",
+        "value": 200
+      },
+      {
+        "clue": "These hang from the roof and are made of frozen water that drips and freezes again",
+        "correctQuestion": "What are icicles?",
+        "value": 200
+      },
+      {
+        "clue": "This orange vegetable is used for a snowman's nose",
+        "correctQuestion": "What is a carrot?",
+        "value": 200
+      },
+      {
+        "clue": "You ride down a snowy hill on this flat piece of wood or plastic",
+        "correctQuestion": "What is a sled?",
+        "value": 200
+      },
+      {
+        "clue": "This warm drink with marshmallows on top is perfect after playing in the snow",
+        "correctQuestion": "What is hot chocolate (or cocoa)?",
+        "value": 200
+      },
+      {
+        "clue": "These special boots keep your feet warm and dry in the snow",
+        "correctQuestion": "What are snow boots?",
+        "value": 200
+      },
+      {
+        "clue": "You wrap this long, warm cloth around your neck in winter",
+        "correctQuestion": "What is a scarf?",
+        "value": 200
+      },
+      {
+        "clue": "Each one of these tiny pieces of snow has six points and looks like a tiny star",
+        "correctQuestion": "What is a snowflake?",
+        "value": 200
+      },
+      {
+        "clue": "This is the season when snow falls and it gets very cold outside",
+        "correctQuestion": "What is winter?",
+        "value": 200
+      },
+      {
+        "clue": "These coal pieces are used to make buttons and eyes on a snowman",
+        "correctQuestion": "What are lumps of coal?",
+        "value": 200
+      },
+      {
+        "clue": "Water freezes into ice at this temperature in degrees Celsius",
+        "correctQuestion": "What is 0 degrees (or 32 Fahrenheit)?",
+        "value": 200
+      },
+      {
+        "clue": "This state of matter is what water becomes when it freezes",
+        "correctQuestion": "What is a solid?",
+        "value": 200
+      },
+      {
+        "clue": "This process is when water vapor in clouds turns directly into ice crystals without becoming liquid first",
+        "correctQuestion": "What is deposition?",
+        "value": 200
+      },
+      {
+        "clue": "This winter sport involves sliding down snowy mountains on two long boards attached to your feet",
+        "correctQuestion": "What is skiing?",
+        "value": 200
+      },
+      {
+        "clue": "This type of cloud, often gray and low in the sky, usually brings snow in winter",
+        "correctQuestion": "What are nimbostratus clouds?",
+        "value": 200
+      },
+      {
+        "clue": "All snowflakes have this many sides or points due to the hexagonal structure of ice crystals",
+        "correctQuestion": "What is six?",
+        "value": 200
+      },
+      {
+        "clue": "This term describes frozen water droplets that fall as small, hard pellets",
+        "correctQuestion": "What is sleet?",
+        "value": 200
+      },
+      {
+        "clue": "This instrument measures the temperature of the air outside",
+        "correctQuestion": "What is a thermometer?",
+        "value": 200
+      },
+      {
+        "clue": "This layer of gas surrounds Earth and contains the weather we experience",
+        "correctQuestion": "What is the atmosphere?",
+        "value": 200
+      },
+      {
+        "clue": "This winter sport uses a single wide board to slide down snowy slopes",
+        "correctQuestion": "What is snowboarding?",
+        "value": 200
+      },
+      {
+        "clue": "This scientist studies weather patterns and makes predictions about upcoming conditions",
+        "correctQuestion": "What is a meteorologist?",
+        "value": 200
+      },
+      {
+        "clue": "This happens when water changes from liquid to gas, like when puddles disappear after snow melts",
+        "correctQuestion": "What is evaporation?",
+        "value": 200
+      },
+      {
+        "clue": "This severe winter storm has winds over 35 mph and heavy snow reducing visibility",
+        "correctQuestion": "What is a blizzard?",
+        "value": 200
+      },
+      {
+        "clue": "This type of precipitation forms when raindrops freeze into ice pellets before hitting the ground",
+        "correctQuestion": "What is freezing rain?",
+        "value": 200
+      },
+      {
+        "clue": "This effect describes how water's maximum density at 4 degrees Celsius allows aquatic life to survive winter",
+        "correctQuestion": "What is the density anomaly of water?",
+        "value": 200
+      },
+      {
+        "clue": "This atmospheric circulation pattern brings cold Arctic air southward during winter months",
+        "correctQuestion": "What is the polar vortex?",
+        "value": 200
+      },
+      {
+        "clue": "This ratio of water vapor present to the maximum possible at a given temperature affects snowflake formation",
+        "correctQuestion": "What is relative humidity?",
+        "value": 200
+      },
+      {
+        "clue": "This branch of Earth science specifically studies atmospheric phenomena including winter weather",
+        "correctQuestion": "What is meteorology?",
+        "value": 200
+      },
+      {
+        "clue": "This term describes snow that has been compacted and recrystallized over multiple seasons",
+        "correctQuestion": "What is firn (or névé)?",
+        "value": 200
+      },
+      {
+        "clue": "This scale categorizes blizzards from 1 to 5 based on their severity and impacts",
+        "correctQuestion": "What is the Regional Snowfall Index (or NESIS)?",
+        "value": 200
+      },
+      {
+        "clue": "This greenhouse gas, in the form of snow and ice, has high albedo that reflects solar radiation",
+        "correctQuestion": "What is water (or H2O)?",
+        "value": 200
+      },
+      {
+        "clue": "This phenomenon describes the scattering of light by ice crystals that makes snow appear white",
+        "correctQuestion": "What is Mie scattering (or light diffusion)?",
+        "value": 200
+      },
+      {
+        "clue": "This ocean current helps moderate winter temperatures in Western Europe by bringing warm water north",
+        "correctQuestion": "What is the Gulf Stream?",
+        "value": 200
+      },
+      {
+        "clue": "This term describes the percentage of solar radiation reflected by a surface like snow or ice",
+        "correctQuestion": "What is albedo?",
+        "value": 200
+      },
+      {
+        "clue": "This climate oscillation in the Pacific affects winter precipitation patterns across North America",
+        "correctQuestion": "What is El Niño (or ENSO)?",
+        "value": 200
+      },
+      {
+        "clue": "This force, caused by Earth's rotation, deflects moving air and affects winter storm tracks",
+        "correctQuestion": "What is the Coriolis effect?",
+        "value": 200
+      },
+      {
+        "clue": "This type of cloud forms when moist air is forced upward over mountains, often producing heavy snow",
+        "correctQuestion": "What are orographic clouds?",
+        "value": 200
+      },
+      {
+        "clue": "This measurement equals the depth of water that would result from melting snow, typically 10:1 ratio",
+        "correctQuestion": "What is snow water equivalent (or SWE)?",
+        "value": 200
+      },
+      {
+        "clue": "This 1888 storm paralyzed the Northeast United States, killing over 400 people in the Great White Hurricane",
+        "correctQuestion": "What is the Blizzard of 1888?",
+        "value": 200
+      },
+      {
+        "clue": "This climate pattern oscillating every 2-7 years significantly impacts winter precipitation globally",
+        "correctQuestion": "What is the El Niño-Southern Oscillation (ENSO)?",
+        "value": 200
+      },
+      {
+        "clue": "This 1993 superstorm affected 26 states and caused over $6 billion in damage across Eastern North America",
+        "correctQuestion": "What is the Storm of the Century (or 1993 Superstorm)?",
+        "value": 200
+      },
+      {
+        "clue": "This Russian city holds the record for lowest temperature ever recorded in an inhabited place at -96°F",
+        "correctQuestion": "What is Oymyakon?",
+        "value": 200
+      },
+      {
+        "clue": "This atmospheric blocking pattern can cause prolonged cold spells by stalling weather systems",
+        "correctQuestion": "What is an omega block?",
+        "value": 200
+      },
+      {
+        "clue": "This location in Antarctica recorded Earth's coldest temperature of -128.6°F in 1983",
+        "correctQuestion": "What is Vostok Station?",
+        "value": 200
+      },
+      {
+        "clue": "This 1996 blizzard buried parts of the Eastern United States under several feet of snow, paralyzing major cities",
+        "correctQuestion": "What is the Blizzard of 1996 (or North American blizzard)?",
+        "value": 200
+      },
+      {
+        "clue": "This phenomenon occurs when Arctic sea ice extent reaches its annual minimum, typically in September",
+        "correctQuestion": "What is sea ice minimum?",
+        "value": 200
+      },
+      {
+        "clue": "This U.S. state holds the record for the most snow in a single season at Mount Baker with 1,140 inches",
+        "correctQuestion": "What is Washington?",
+        "value": 200
+      },
+      {
+        "clue": "This winter of 1816, known as the 'Year Without a Summer,' followed this Indonesian volcano's eruption",
+        "correctQuestion": "What is Mount Tambora?",
+        "value": 200
+      },
+      {
+        "clue": "This meteorological service began issuing winter storm warnings in the United States in 1870",
+        "correctQuestion": "What is the National Weather Service (or Weather Bureau)?",
+        "value": 200
+      },
+      {
+        "clue": "This phenomenon describes the warming of Arctic regions at twice the global average rate",
+        "correctQuestion": "What is Arctic amplification?",
+        "value": 200
+      },
+      {
+        "clue": "This 1967 Chicago blizzard dropped 23 inches of snow and stranded thousands of vehicles",
+        "correctQuestion": "What is the Chicago Blizzard of 1967?",
+        "value": 200
+      },
+      {
+        "clue": "This Canadian province experiences the most severe winter weather with temperatures below -40°F common",
+        "correctQuestion": "What is Yukon (or Northwest Territories)?",
+        "value": 200
+      },
+      {
+        "clue": "Blizzard Taco Bell delivery at 2am",
+        "correctQuestion": "What is DoorDash?",
+        "value": 200
+      },
+      {
+        "clue": "Where snow days become 14-hour binges",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "What ruined winter 2020",
+        "correctQuestion": "What is COVID-19?",
+        "value": 200
+      },
+      {
+        "clue": "Your aunt's snow day minion memes",
+        "correctQuestion": "What is Facebook?",
+        "value": 200
+      },
+      {
+        "clue": "What murdered your local hardware store",
+        "correctQuestion": "What is Amazon?",
+        "value": 200
+      },
+      {
+        "clue": "Costs more than monthly heating bills",
+        "correctQuestion": "What is an iPhone?",
+        "value": 200
+      },
+      {
+        "clue": "Snow challenges instead of shoveling driveways",
+        "correctQuestion": "What is TikTok?",
+        "value": 200
+      },
+      {
+        "clue": "Millennials' real winter holiday wish",
+        "correctQuestion": "What is student loan forgiveness?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [
+      {
+        "clue": "You put this hat on top of your head to keep warm in the snow",
+        "correctQuestion": "What is a winter hat (or beanie)?",
+        "value": 200
+      },
+      {
+        "clue": "When lots of snow falls all at once, we call it this kind of storm",
+        "correctQuestion": "What is a snowstorm (or blizzard)?",
+        "value": 200
+      },
+      {
+        "clue": "These birds with orange bellies often stay during winter instead of flying south",
+        "correctQuestion": "What are robins?",
+        "value": 200
+      },
+      {
+        "clue": "You make these by lying in the snow and moving your arms and legs",
+        "correctQuestion": "What are snow angels?",
+        "value": 200
+      },
+      {
+        "clue": "This frozen rain falls as little balls of ice instead of snowflakes",
+        "correctQuestion": "What is sleet (or hail)?",
+        "value": 200
+      },
+      {
+        "clue": "People build these snow structures to have pretend battles throwing snowballs",
+        "correctQuestion": "What is a snow fort?",
+        "value": 200
+      },
+      {
+        "clue": "When snow melts a little and then freezes again, it makes these slippery patches",
+        "correctQuestion": "What is black ice (or ice patches)?",
+        "value": 200
+      },
+      {
+        "clue": "This special coat keeps you extra warm and puffy in the winter",
+        "correctQuestion": "What is a puffer jacket (or winter coat)?",
+        "value": 200
+      },
+      {
+        "clue": "These animals with bushy tails gather nuts before winter and hide in trees",
+        "correctQuestion": "What are squirrels?",
+        "value": 200
+      },
+      {
+        "clue": "This scale measures wind speed and is often used to describe blizzard conditions",
+        "correctQuestion": "What is the Beaufort scale?",
+        "value": 200
+      },
+      {
+        "clue": "This Japanese scientist photographed over 5,000 snowflakes and proved no two are exactly alike",
+        "correctQuestion": "Who is Wilson Bentley (or Snowflake Bentley)?",
+        "value": 200
+      },
+      {
+        "clue": "This protective layer of fat helps polar animals survive in freezing temperatures",
+        "correctQuestion": "What is blubber?",
+        "value": 200
+      },
+      {
+        "clue": "This is the scientific term for when animals sleep through the winter to conserve energy",
+        "correctQuestion": "What is hibernation?",
+        "value": 200
+      },
+      {
+        "clue": "This happens when water vapor touches a cold surface and freezes directly into ice crystals",
+        "correctQuestion": "What is frost formation?",
+        "value": 200
+      },
+      {
+        "clue": "This Olympic winter sport involves sliding down an ice track on a small sled while lying face-down",
+        "correctQuestion": "What is luge?",
+        "value": 200
+      },
+      {
+        "clue": "This large mass of ice and snow that slowly moves down mountains is called this",
+        "correctQuestion": "What is a glacier?",
+        "value": 200
+      },
+      {
+        "clue": "This temperature scale is used in most scientific measurements and has water freezing at 0 degrees",
+        "correctQuestion": "What is Celsius (or centigrade)?",
+        "value": 200
+      },
+      {
+        "clue": "This medical condition occurs when body tissue freezes due to extreme cold exposure",
+        "correctQuestion": "What is frostbite?",
+        "value": 200
+      },
+      {
+        "clue": "This atmospheric instability creates intense localized snowfall called snow squalls near large bodies of water",
+        "correctQuestion": "What is lake-effect snow?",
+        "value": 200
+      },
+      {
+        "clue": "This process occurs when falling snow partially melts, then refreezes into irregular ice pellets",
+        "correctQuestion": "What is graupel formation (or soft hail)?",
+        "value": 200
+      },
+      {
+        "clue": "This temperature inversion traps cold air near the surface while warmer air sits above",
+        "correctQuestion": "What is a temperature inversion?",
+        "value": 200
+      },
+      {
+        "clue": "This atmospheric river phenomenon can bring heavy precipitation to the West Coast during winter",
+        "correctQuestion": "What is a Pineapple Express?",
+        "value": 200
+      },
+      {
+        "clue": "This Norwegian scientist developed the theory of cold and warm fronts that revolutionized meteorology",
+        "correctQuestion": "Who is Vilhelm Bjerknes?",
+        "value": 200
+      },
+      {
+        "clue": "This crystalline structure of ice features hydrogen bonds arranged in a hexagonal lattice",
+        "correctQuestion": "What is ice Ih (or hexagonal ice)?",
+        "value": 200
+      },
+      {
+        "clue": "This weather phenomenon produces lightning and thunder during snowstorms due to strong convection",
+        "correctQuestion": "What is thundersnow?",
+        "value": 200
+      },
+      {
+        "clue": "This measurement technique uses radar to estimate precipitation rates and track winter storms",
+        "correctQuestion": "What is Doppler radar?",
+        "value": 200
+      },
+      {
+        "clue": "This layer of permanently frozen ground beneath the surface affects Arctic and subarctic regions",
+        "correctQuestion": "What is permafrost?",
+        "value": 200
+      },
+      {
+        "clue": "This teleconnection pattern links stratospheric circulation anomalies to surface winter weather",
+        "correctQuestion": "What is the Quasi-Biennial Oscillation (QBO)?",
+        "value": 200
+      },
+      {
+        "clue": "This 1972 blizzard in Iran killed approximately 4,000 people, making it the deadliest on record",
+        "correctQuestion": "What is the Iran Blizzard of 1972?",
+        "value": 200
+      },
+      {
+        "clue": "This period from roughly 1300-1850 CE featured cooler global temperatures and harsh winters",
+        "correctQuestion": "What is the Little Ice Age?",
+        "value": 200
+      },
+      {
+        "clue": "This winter of 1683-1684 saw the Thames River freeze so solidly that Londoners held a frost fair",
+        "correctQuestion": "What is the Great Frost?",
+        "value": 200
+      },
+      {
+        "clue": "This weather modification technique involves seeding clouds with silver iodide to enhance snowfall",
+        "correctQuestion": "What is cloud seeding?",
+        "value": 200
+      },
+      {
+        "clue": "This 2014 polar vortex event brought record cold to much of North America with wind chills below -50°F",
+        "correctQuestion": "What is the 2014 North American cold wave?",
+        "value": 200
+      },
+      {
+        "clue": "This 1978 nor'easter buried parts of New England under 27 inches of snow with 100 mph winds",
+        "correctQuestion": "What is the Northeastern United States blizzard of 1978?",
+        "value": 200
+      },
+      {
+        "clue": "This atmospheric index measures the pressure difference between Iceland and the Azores",
+        "correctQuestion": "What is the North Atlantic Oscillation (NAO)?",
+        "value": 200
+      },
+      {
+        "clue": "This 2010 snowstorm nicknamed 'Snowmageddon' paralyzed Washington D.C. with over 30 inches",
+        "correctQuestion": "What is the February 2010 North American blizzard?",
+        "value": 200
+      },
+      {
+        "clue": "Why your neighbor lost 40 pounds",
+        "correctQuestion": "What is Ozempic?",
+        "value": 200
+      },
+      {
+        "clue": "5X surge pricing during snowstorms",
+        "correctQuestion": "What is Uber?",
+        "value": 200
+      },
+      {
+        "clue": "2015 War on Christmas battleground",
+        "correctQuestion": "What is Starbucks?",
+        "value": 200
+      },
+      {
+        "clue": "Holiday family argument surveillance device",
+        "correctQuestion": "What is Alexa?",
+        "value": 200
+      },
+      {
+        "clue": "See your ex's 'hot cocoa' payments",
+        "correctQuestion": "What is Venmo?",
+        "value": 200
+      },
+      {
+        "clue": "Who defrosts every December for millions",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 200
+      },
+      {
+        "clue": "Where moms spend $200 on nothing",
+        "correctQuestion": "What is Target?",
+        "value": 200
+      },
+      {
+        "clue": "Frozen screens and unmuted relatives nightmare",
+        "correctQuestion": "What is Zoom?",
+        "value": 200
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This word means when the temperature drops below the freezing point",
+        "correctQuestion": "What is cold (or freezing)?",
+        "value": 200
+      },
+      {
+        "clue": "These tiny ice crystals form on windows in pretty patterns when it's very cold",
+        "correctQuestion": "What is frost?",
+        "value": 200
+      },
+      {
+        "clue": "This frozen lake or pond is where people go ice skating in winter",
+        "correctQuestion": "What is a frozen pond (or ice rink)?",
+        "value": 200
+      },
+      {
+        "clue": "These special socks keep your toes warm and cozy in winter boots",
+        "correctQuestion": "What are wool socks (or thick socks)?",
+        "value": 200
+      },
+      {
+        "clue": "This house made entirely of ice blocks is where some people in very cold places live",
+        "correctQuestion": "What is an igloo?",
+        "value": 200
+      },
+      {
+        "clue": "When snow is perfect for making snowmen, we say it's this kind of snow",
+        "correctQuestion": "What is packing snow (or wet snow)?",
+        "value": 200
+      },
+      {
+        "clue": "These red birds with pointy heads stay in winter and stand out against white snow",
+        "correctQuestion": "What are cardinals?",
+        "value": 200
+      },
+      {
+        "clue": "This phenomenon causes ice to float on water because frozen water is less dense than liquid water",
+        "correctQuestion": "What is density (or ice expansion)?",
+        "value": 200
+      },
+      {
+        "clue": "This classification system identifies seven main types of snowflake shapes based on temperature and humidity",
+        "correctQuestion": "What is the Nakaya diagram (or snowflake classification)?",
+        "value": 200
+      },
+      {
+        "clue": "This weather phenomenon creates a visible ring or halo around the sun or moon during winter",
+        "correctQuestion": "What are ice crystals (or 22-degree halo)?",
+        "value": 200
+      },
+      {
+        "clue": "This massive pile of snow that can rush down a mountain at over 80 mph is extremely dangerous",
+        "correctQuestion": "What is an avalanche?",
+        "value": 200
+      },
+      {
+        "clue": "This layer of the atmosphere where weather occurs extends about 12 kilometers above Earth's surface",
+        "correctQuestion": "What is the troposphere?",
+        "value": 200
+      },
+      {
+        "clue": "This type of snow crystal forms at temperatures between -10 and -22 degrees Celsius, creating plate-like shapes",
+        "correctQuestion": "What are dendrites (or stellar crystals)?",
+        "value": 200
+      },
+      {
+        "clue": "This measurement describes how cold the air feels on exposed skin when factoring in wind speed",
+        "correctQuestion": "What is wind chill?",
+        "value": 200
+      },
+      {
+        "clue": "This phenomenon creates snow rollers when wind rolls snow into cylindrical shapes across fields",
+        "correctQuestion": "What are snow rollers?",
+        "value": 200
+      },
+      {
+        "clue": "This Japanese physicist created the first artificial snowflakes in a laboratory in 1936",
+        "correctQuestion": "Who is Ukichiro Nakaya?",
+        "value": 200
+      },
+      {
+        "clue": "This process describes how ice crystals grow at the expense of liquid water droplets in mixed-phase clouds",
+        "correctQuestion": "What is the Bergeron process (or Wegener-Bergeron-Findeisen process)?",
+        "value": 200
+      },
+      {
+        "clue": "This type of winter storm forms when cold continental air meets warm oceanic air along the East Coast",
+        "correctQuestion": "What is a nor'easter?",
+        "value": 200
+      },
+      {
+        "clue": "This climate feedback loop accelerates warming as decreased ice and snow cover reduces Earth's reflectivity",
+        "correctQuestion": "What is the ice-albedo feedback?",
+        "value": 200
+      },
+      {
+        "clue": "This stratospheric phenomenon involves sudden temperature increases that can affect winter weather patterns",
+        "correctQuestion": "What is sudden stratospheric warming (or SSW)?",
+        "value": 200
+      },
+      {
+        "clue": "This dimensionless number describes the ratio of thermal to kinetic energy in atmospheric flows",
+        "correctQuestion": "What is the Richardson number?",
+        "value": 200
+      },
+      {
+        "clue": "This submarine ridge extending across the Arctic Ocean affects sea ice dynamics and winter circulation",
+        "correctQuestion": "What is the Lomonosov Ridge?",
+        "value": 200
+      },
+      {
+        "clue": "This winter weather phenomenon involves downslope winds that can raise temperatures 40°F in hours",
+        "correctQuestion": "What is a chinook wind (or föhn wind)?",
+        "value": 200
+      },
+      {
+        "clue": "This 1880-1881 winter saw the Schoolhouse Blizzard kill 235 people across the Great Plains",
+        "correctQuestion": "What is the Schoolhouse Blizzard (or Children's Blizzard)?",
+        "value": 200
+      },
+      {
+        "clue": "This climate proxy uses oxygen isotope ratios in ice cores to reconstruct past winter temperatures",
+        "correctQuestion": "What is δ18O (delta-O-18)?",
+        "value": 200
+      },
+      {
+        "clue": "This 1950 Thanksgiving storm produced snow from the Appalachians to the Atlantic, killing 353 people",
+        "correctQuestion": "What is the Great Appalachian Storm of 1950?",
+        "value": 200
+      },
+      {
+        "clue": "This paleoclimate period around 12,800 years ago saw a rapid return to glacial conditions",
+        "correctQuestion": "What is the Younger Dryas?",
+        "value": 200
+      },
+      {
+        "clue": "This Norwegian explorer's 1893-1896 Arctic drift expedition provided crucial winter climate data",
+        "correctQuestion": "Who is Fridtjof Nansen?",
+        "value": 200
+      },
+      {
+        "clue": "Topic that ruins winter dinners",
+        "correctQuestion": "What is Trump?",
+        "value": 200
+      },
+      {
+        "clue": "Gen Z's real holiday miracle",
+        "correctQuestion": "What is a living wage?",
+        "value": 200
+      },
+      {
+        "clue": "The other winter 2021 dinner destroyer",
+        "correctQuestion": "What is the COVID vaccine?",
+        "value": 200
+      },
+      {
+        "clue": "Electric cars catching fire in snow",
+        "correctQuestion": "What is Tesla?",
+        "value": 200
+      },
+      {
+        "clue": "Finding someone to split heating costs",
+        "correctQuestion": "What is Tinder?",
+        "value": 200
+      },
+      {
+        "clue": "What replaced holiday cards",
+        "correctQuestion": "What is a group text?",
+        "value": 200
+      },
+      {
+        "clue": "Judges your 47 Mariah plays",
+        "correctQuestion": "What is Spotify?",
+        "value": 200
+      },
+      {
+        "clue": "Fleece blanket fight club warehouse",
+        "correctQuestion": "What is Costco?",
+        "value": 200
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "This frozen waterfall happens when moving water freezes in the winter",
+        "correctQuestion": "What is an ice fall (or frozen waterfall)?",
+        "value": 200
+      },
+      {
+        "clue": "These special lights in the sky sometimes appear in winter in very cold places",
+        "correctQuestion": "What are the Northern Lights (or Aurora Borealis)?",
+        "value": 200
+      },
+      {
+        "clue": "This special day in December is the shortest day with the least sunlight of the whole year",
+        "correctQuestion": "What is the winter solstice?",
+        "value": 200
+      },
+      {
+        "clue": "This dangerous pile of snow can slide down a mountain very fast",
+        "correctQuestion": "What is an avalanche?",
+        "value": 200
+      },
+      {
+        "clue": "These large sheets of ice float in the ocean in very cold places near the North Pole",
+        "correctQuestion": "What are icebergs?",
+        "value": 200
+      },
+      {
+        "clue": "This special kind of snow that looks like powder is very light and fluffy",
+        "correctQuestion": "What is powder snow?",
+        "value": 200
+      },
+      {
+        "clue": "This process is when solid ice changes directly to water vapor without becoming liquid first",
+        "correctQuestion": "What is sublimation?",
+        "value": 200
+      },
+      {
+        "clue": "This instrument measures atmospheric pressure and helps predict weather changes",
+        "correctQuestion": "What is a barometer?",
+        "value": 200
+      },
+      {
+        "clue": "This rare weather event called 'thundersnow' combines lightning with this type of precipitation",
+        "correctQuestion": "What is snow (or snowstorm)?",
+        "value": 200
+      },
+      {
+        "clue": "This is the lowest temperature theoretically possible, equal to -273.15 degrees Celsius",
+        "correctQuestion": "What is absolute zero?",
+        "value": 200
+      },
+      {
+        "clue": "This term describes the boundary between cold and warm air masses that often creates winter storms",
+        "correctQuestion": "What is a front (or cold front)?",
+        "value": 200
+      },
+      {
+        "clue": "This phenomenon occurs when supercooled water droplets instantly freeze on contact with surfaces",
+        "correctQuestion": "What is rime ice (or hoar frost)?",
+        "value": 200
+      },
+      {
+        "clue": "This boundary layer phenomenon creates temperature gradients that affect snow crystal morphology",
+        "correctQuestion": "What is the temperature gradient metamorphism?",
+        "value": 200
+      },
+      {
+        "clue": "This mesoscale meteorological feature produces intense snowbands in winter cyclones",
+        "correctQuestion": "What are frontogenetical circulations (or deformation zones)?",
+        "value": 200
+      },
+      {
+        "clue": "This theoretical framework explains snowflake symmetry through diffusion-limited aggregation models",
+        "correctQuestion": "What is dendritic growth theory?",
+        "value": 200
+      },
+      {
+        "clue": "This index quantifies the North Atlantic Oscillation that influences European and North American winters",
+        "correctQuestion": "What is the NAO index?",
+        "value": 200
+      },
+      {
+        "clue": "This microphysical process involves ice crystal multiplication through secondary ice production",
+        "correctQuestion": "What is the Hallett-Mossop process?",
+        "value": 200
+      },
+      {
+        "clue": "This climate mode involves stratospheric polar vortex variability affecting tropospheric circulation",
+        "correctQuestion": "What is the Arctic Oscillation (or AO)?",
+        "value": 200
+      },
+      {
+        "clue": "This 1940 Armistice Day Blizzard killed 154 people with sudden temperature drops of 50°F",
+        "correctQuestion": "What is the Armistice Day Blizzard?",
+        "value": 200
+      },
+      {
+        "clue": "This Greenland ice core project drilled 3,029 meters, revealing 110,000 years of climate history",
+        "correctQuestion": "What is GISP2 (Greenland Ice Sheet Project)?",
+        "value": 200
+      },
+      {
+        "clue": "This mechanism describes how Dansgaard-Oeschger events caused rapid warming during glacial periods",
+        "correctQuestion": "What is thermohaline circulation disruption?",
+        "value": 200
+      },
+      {
+        "clue": "This 1779-1780 winter was the coldest on record for the Eastern United States with New York Harbor frozen",
+        "correctQuestion": "What is the Hard Winter (or Winter of 1780)?",
+        "value": 200
+      },
+      {
+        "clue": "This climate reconstruction method uses varved lake sediments to analyze historical winter conditions",
+        "correctQuestion": "What is varve chronology?",
+        "value": 200
+      },
+      {
+        "clue": "This 1717 nor'easter buried New England under snow drifts up to 25 feet deep",
+        "correctQuestion": "What is the Great Snow of 1717?",
+        "value": 200
+      },
+      {
+        "clue": "Fake cozy winter aesthetic factory",
+        "correctQuestion": "What is Instagram?",
+        "value": 200
+      },
+      {
+        "clue": "The real winter miracle workers want",
+        "correctQuestion": "What is PTO?",
+        "value": 200
+      },
+      {
+        "clue": "What killed the holiday spirit",
+        "correctQuestion": "What is capitalism?",
+        "value": 200
+      },
+      {
+        "clue": "Drunk 1am snowstorm food source",
+        "correctQuestion": "What is McDonald's?",
+        "value": 200
+      },
+      {
+        "clue": "Mrs. Claus's browser history revenge platform",
+        "correctQuestion": "What is OnlyFans?",
+        "value": 200
+      },
+      {
+        "clue": "Watches you shovel in pajamas",
+        "correctQuestion": "What is Ring?",
+        "value": 200
+      },
+      {
+        "clue": "Holiday work for minimum wage",
+        "correctQuestion": "What is Walmart?",
+        "value": 200
+      },
+      {
+        "clue": "Costco's $600 unnecessary winter purchase",
+        "correctQuestion": "What is a smart TV?",
+        "value": 200
+      },
+      {
+        "clue": "Post-Thanksgiving trampling event",
+        "correctQuestion": "What is Black Friday?",
+        "value": 200
+      },
+      {
+        "clue": "Ruined winter 2020-2021 family gatherings",
+        "correctQuestion": "Who is Donald Trump?",
+        "value": 200
+      },
+      {
+        "clue": "Why your kids won't see snow",
+        "correctQuestion": "What is global warming?",
+        "value": 200
+      },
+      {
+        "clue": "Makes heating bills a luxury expense",
+        "correctQuestion": "What is the wealth gap?",
+        "value": 200
+      }
+    ]
+  }
 }

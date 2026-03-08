@@ -2,13 +2,8 @@
   "category": "Beach Colors: Blue Ocean, Golden Sand & Colorful Shores",
   "theme": "beach_colors",
   "category_id": "beach_colors",
-  "description": "A vibrant exploration of beach colors including the deep blues of the ocean, golden sands, colorful shells, tropical fish, vibrant sunsets, beach umbrellas, and the natural palette of coastal environments",
-  "age_suitability": "All ages",
-  "research_alignment": "Color theory, marine biology, geology, light and optics, art and design, geography, oceanography, weather patterns, environmental science, coastal ecosystems",
-  "generated_date": "2025-01-02",
-  "total_questions": 180,
   "audiences": {
-    "regular_trivia": [
+    "adults": [
       {
         "clue": "This shade of blue, named after the sea, is often used to describe the ocean's color",
         "correctQuestion": "What is azure?",

@@ -2,13 +2,8 @@
   "category": "Birthday Gift Wrapping, Bows, Ribbons & Paper",
   "theme": "party_gifts",
   "category_id": "birthday_wrapping",
-  "description": "Gift wrapping techniques, wrapping paper materials, bows, ribbons, tape, folding methods, decorative elements, regional gift presentation styles, environmental considerations, and professional wrapping skills",
-  "age_suitability": "All ages",
-  "research_alignment": "Paper production, craft skills, material science, decorative arts, cultural gift-giving traditions, sustainable packaging, origami principles, color theory, spatial design, retail commerce",
-  "generated_date": "2025-12-27",
-  "total_questions": 60,
   "audiences": {
-    "regular_trivia": [
+    "adults": [
       {
         "clue": "This material is the most common type used to wrap gifts",
         "correctQuestion": "What is wrapping paper?",
@@ -160,7 +155,7 @@
         "value": 800
       }
     ],
-    "cah_style": [
+    "no_humanity": [
       {
         "clue": "What you spend more time doing than the actual gift costs",
         "correctQuestion": "What is trying to wrap a box perfectly?",

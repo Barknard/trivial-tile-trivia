@@ -1,308 +1,167 @@
 {
   "category": "Birthday Goodie Bags",
-  "description": "Goodie bags, loot bags, party favors for birthday guests",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "Small gifts assembled in a bag for party guests to take home",
-      "answer": "What is a goodie bag?"
-    },
-    {
-      "points": 200,
-      "clue": "Common treat included in goodie bags at kids' birthday parties",
-      "answer": "What is candy?"
-    },
-    {
-      "points": 200,
-      "clue": "Bag used to contain party favors and small gifts for guests",
-      "answer": "What is a loot bag?"
-    },
-    {
-      "points": 200,
-      "clue": "Small plastic toy commonly found in birthday goodie bags",
-      "answer": "What are action figures?"
-    },
-    {
-      "points": 200,
-      "clue": "Sticker sheets often included as party favors for kids",
-      "answer": "What are sticker sheets?"
-    },
-    {
-      "points": 200,
-      "clue": "Bouncy ball often tucked into goodie bags at celebrations",
-      "answer": "What is a rubber ball?"
-    },
-    {
-      "points": 400,
-      "clue": "Popular decoration for goodie bags that twists and transforms",
-      "answer": "What are balloon animals?"
-    },
-    {
-      "points": 400,
-      "clue": "Decorative item used to wrap goodie bag contents",
-      "answer": "What is tissue paper?"
-    },
-    {
-      "points": 400,
-      "clue": "Custom item often printed with birthday theme on goodie bags",
-      "answer": "What are party favors?"
-    },
-    {
-      "points": 400,
-      "clue": "Glow-in-the-dark items popular in late-night party goodie bags",
-      "answer": "What are glow sticks?"
-    },
-    {
-      "points": 400,
-      "clue": "Small games or puzzles included in themed goodie bags",
-      "answer": "What are fidget toys?"
-    },
-    {
-      "points": 400,
-      "clue": "Character-themed goodie bags inspire kids to collect these",
-      "answer": "What is merchandise?"
-    },
-    {
-      "points": 600,
-      "clue": "Chocolates and confections wrapped for goodie bag inclusion",
-      "answer": "What are truffles or candy?"
-    },
-    {
-      "points": 600,
-      "clue": "Personalization option for goodie bags featuring guest's name",
-      "answer": "What are custom tags or labels?"
-    },
-    {
-      "points": 600,
-      "clue": "Small book or comic often given as party favor to older kids",
-      "answer": "What is a graphic novel?"
-    },
-    {
-      "points": 600,
-      "clue": "Jewelry item commonly placed in girls' birthday goodie bags",
-      "answer": "What are friendship bracelets?"
-    },
-    {
-      "points": 600,
-      "clue": "Budget-conscious parents fill these with items from dollar stores",
-      "answer": "What are goodie bags?"
-    },
-    {
-      "points": 600,
-      "clue": "Luxury goodie bags often include spa items and these skincare products",
-      "answer": "What are bath bombs?"
-    },
-    {
-      "points": 800,
-      "clue": "Expensive alternative to goodie bags where each guest gets their own box",
-      "answer": "What is a gift box?"
-    },
-    {
-      "points": 800,
-      "clue": "Eco-friendly alternative to plastic goodie bags for conscious hosts",
-      "answer": "What is a reusable tote bag?"
-    },
-    {
-      "points": 800,
-      "clue": "Virtual goodie bags sent digitally at pandemic-era birthday celebrations",
-      "answer": "What are digital downloads?"
-    },
-    {
-      "points": 800,
-      "clue": "Goodie bags themed around this franchise remain perennially popular",
-      "answer": "What is Disney?"
-    },
-    {
-      "points": 800,
-      "clue": "Small electronics or gadgets in premium goodie bags for tech-savvy kids",
-      "answer": "What are wireless earbuds?"
-    },
-    {
-      "points": 800,
-      "clue": "Games inside goodie bags that teach while entertaining",
-      "answer": "What are STEM toys?"
-    },
-    {
-      "points": 1000,
-      "clue": "Goodie bag trend where guests receive items aligned with their interests instead of identical ones",
-      "answer": "What are personalized goodie bags?"
-    },
-    {
-      "points": 1000,
-      "clue": "Holiday-specific goodie bags given during winter birthday parties often contain these",
-      "answer": "What are snowflake decorations or holiday treats?"
-    },
-    {
-      "points": 1000,
-      "clue": "High-end goodie bags for adult parties often include wines paired with these items",
-      "answer": "What are artisan chocolates?"
-    },
-    {
-      "points": 1000,
-      "clue": "Corporate goodie bags and these promotional items share the same category",
-      "answer": "What are branded merchandise?"
-    },
-    {
-      "points": 1000,
-      "clue": "Goodie bags at destination birthday parties are actually these tax-deductible business items",
-      "answer": "What are hospitality favors?"
-    },
-    {
-      "points": 1000,
-      "clue": "Environmentally conscious hosts replaced single-use goodie bags with guest experiences called this",
-      "answer": "What are memory-making moments?"
-    }
-  ],
-  "no_humanity_clues": [
-    {
-      "points": 200,
-      "clue": "What's actually worth keeping from a goodie bag",
-      "answer": "What is nothing?"
-    },
-    {
-      "points": 200,
-      "clue": "Why your kid immediately loses goodie bag toys",
-      "answer": "What is they're cheap plastic garbage?"
-    },
-    {
-      "points": 200,
-      "clue": "What goodie bags actually contain for adults",
-      "answer": "What is shame about their childhood?"
-    },
-    {
-      "points": 200,
-      "clue": "Where goodie bag pencils end up",
-      "answer": "What is the trash within five minutes?"
-    },
-    {
-      "points": 200,
-      "clue": "What parents use goodie bags for instead",
-      "answer": "What is keeping their sanity?"
-    },
-    {
-      "points": 200,
-      "clue": "The goodie bag item kids actually wanted",
-      "answer": "What is nothing from this bag?"
-    },
-    {
-      "points": 400,
-      "clue": "Goodie bag filler that costs $0.03 to make",
-      "answer": "What are plastic toys from China?"
-    },
-    {
-      "points": 400,
-      "clue": "Why Karen complained about gluten in the goodie bag",
-      "answer": "What is she invented an allergy for attention?"
-    },
-    {
-      "points": 400,
-      "clue": "How much parents spend on goodie bags nobody uses",
-      "answer": "What is $200 they don't have?"
-    },
-    {
-      "points": 400,
-      "clue": "What your kid traded their goodie bag for",
-      "answer": "What is a friend's Nintendo?"
-    },
-    {
-      "points": 400,
-      "clue": "Instagram influencer goodie bags now include",
-      "answer": "What is a fake promise of a code?"
-    },
-    {
-      "points": 400,
-      "clue": "The goodie bag item you secretly stole from your kid",
-      "answer": "What is the good candy?"
-    },
-    {
-      "points": 600,
-      "clue": "What goodie bags actually teach kids",
-      "answer": "What is expectations management and disappointment?"
-    },
-    {
-      "points": 600,
-      "clue": "Why Pinterest moms spend six hours on goodie bags",
-      "answer": "What is they have nothing else going on?"
-    },
-    {
-      "points": 600,
-      "clue": "The goodie bag dollar store item that broke immediately",
-      "answer": "What is everything?"
-    },
-    {
-      "points": 600,
-      "clue": "Why your kid dumped the goodie bag by the car door",
-      "answer": "What is it's trash?"
-    },
-    {
-      "points": 600,
-      "clue": "The goodie bag thank you note nobody sent",
-      "answer": "What is the required acknowledgment?"
-    },
-    {
-      "points": 600,
-      "clue": "Goodie bags at hedge fund kids' parties now include",
-      "answer": "What is stock tips and therapy referrals?"
-    },
-    {
-      "points": 800,
-      "clue": "What goodie bags cost when you actually care about decor",
-      "answer": "What is $75 per bag?"
-    },
-    {
-      "points": 800,
-      "clue": "Why the party went viral on Reddit",
-      "answer": "What is someone spent $5000 on goodie bags?"
-    },
-    {
-      "points": 800,
-      "clue": "The influencer goodie bag that caused outrage",
-      "answer": "What is promoting a brand she didn't disclose?"
-    },
-    {
-      "points": 800,
-      "clue": "What the drunk uncle stole from the goodie bag pile",
-      "answer": "What is the expensive snacks?"
-    },
-    {
-      "points": 800,
-      "clue": "Why middle class goodie bags now resemble corporate swag",
-      "answer": "What is Instagram pressure?"
-    },
-    {
-      "points": 800,
-      "clue": "Goodie bags at MLM host's party contained",
-      "answer": "What is her essential oils and recruitment cards?"
-    },
-    {
-      "points": 1000,
-      "clue": "The goodie bag flex nobody asked for",
-      "answer": "What is designer branded gift bags?"
-    },
-    {
-      "points": 1000,
-      "clue": "What goodie bags have become in 2024",
-      "answer": "What is a status symbol of parental guilt?"
-    },
-    {
-      "points": 1000,
-      "clue": "The TikTok trend that destroyed goodie bag sanity",
-      "answer": "What is showing off luxury party favors?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why nobody sends goodie bags to adult birthday parties anymore",
-      "answer": "What is we're all drowning in junk?"
-    },
-    {
-      "points": 1000,
-      "clue": "The goodie bag that actually changed someone's life",
-      "answer": "What is none, they're all garbage?"
-    },
-    {
-      "points": 1000,
-      "clue": "Modern goodie bags now require this before opening",
-      "answer": "What is an Instagram unboxing video?"
-    }
-  ]
+  "theme": "birthday",
+  "category_id": "birthday_goodie_bags",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Small gifts assembled in a bag for party guests to take home",
+        "correctQuestion": "What is a goodie bag?",
+        "value": 200
+      },
+      {
+        "clue": "Common treat included in goodie bags at kids' birthday parties",
+        "correctQuestion": "What is candy?",
+        "value": 200
+      },
+      {
+        "clue": "Bag used to contain party favors and small gifts for guests",
+        "correctQuestion": "What is a loot bag?",
+        "value": 200
+      },
+      {
+        "clue": "Small plastic toy commonly found in birthday goodie bags",
+        "correctQuestion": "What are action figures?",
+        "value": 200
+      },
+      {
+        "clue": "Sticker sheets often included as party favors for kids",
+        "correctQuestion": "What are sticker sheets?",
+        "value": 200
+      },
+      {
+        "clue": "Bouncy ball often tucked into goodie bags at celebrations",
+        "correctQuestion": "What is a rubber ball?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Popular decoration for goodie bags that twists and transforms",
+        "correctQuestion": "What are balloon animals?",
+        "value": 400
+      },
+      {
+        "clue": "Decorative item used to wrap goodie bag contents",
+        "correctQuestion": "What is tissue paper?",
+        "value": 400
+      },
+      {
+        "clue": "Custom item often printed with birthday theme on goodie bags",
+        "correctQuestion": "What are party favors?",
+        "value": 400
+      },
+      {
+        "clue": "Glow-in-the-dark items popular in late-night party goodie bags",
+        "correctQuestion": "What are glow sticks?",
+        "value": 400
+      },
+      {
+        "clue": "Small games or puzzles included in themed goodie bags",
+        "correctQuestion": "What are fidget toys?",
+        "value": 400
+      },
+      {
+        "clue": "Character-themed goodie bags inspire kids to collect these",
+        "correctQuestion": "What is merchandise?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "Chocolates and confections wrapped for goodie bag inclusion",
+        "correctQuestion": "What are truffles or candy?",
+        "value": 600
+      },
+      {
+        "clue": "Personalization option for goodie bags featuring guest's name",
+        "correctQuestion": "What are custom tags or labels?",
+        "value": 600
+      },
+      {
+        "clue": "Small book or comic often given as party favor to older kids",
+        "correctQuestion": "What is a graphic novel?",
+        "value": 600
+      },
+      {
+        "clue": "Jewelry item commonly placed in girls' birthday goodie bags",
+        "correctQuestion": "What are friendship bracelets?",
+        "value": 600
+      },
+      {
+        "clue": "Budget-conscious parents fill these with items from dollar stores",
+        "correctQuestion": "What are goodie bags?",
+        "value": 600
+      },
+      {
+        "clue": "Luxury goodie bags often include spa items and these skincare products",
+        "correctQuestion": "What are bath bombs?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Expensive alternative to goodie bags where each guest gets their own box",
+        "correctQuestion": "What is a gift box?",
+        "value": 800
+      },
+      {
+        "clue": "Eco-friendly alternative to plastic goodie bags for conscious hosts",
+        "correctQuestion": "What is a reusable tote bag?",
+        "value": 800
+      },
+      {
+        "clue": "Virtual goodie bags sent digitally at pandemic-era birthday celebrations",
+        "correctQuestion": "What are digital downloads?",
+        "value": 800
+      },
+      {
+        "clue": "Goodie bags themed around this franchise remain perennially popular",
+        "correctQuestion": "What is Disney?",
+        "value": 800
+      },
+      {
+        "clue": "Small electronics or gadgets in premium goodie bags for tech-savvy kids",
+        "correctQuestion": "What are wireless earbuds?",
+        "value": 800
+      },
+      {
+        "clue": "Games inside goodie bags that teach while entertaining",
+        "correctQuestion": "What are STEM toys?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Goodie bag trend where guests receive items aligned with their interests instead of identical ones",
+        "correctQuestion": "What are personalized goodie bags?",
+        "value": 1000
+      },
+      {
+        "clue": "Holiday-specific goodie bags given during winter birthday parties often contain these",
+        "correctQuestion": "What are snowflake decorations or holiday treats?",
+        "value": 1000
+      },
+      {
+        "clue": "High-end goodie bags for adult parties often include wines paired with these items",
+        "correctQuestion": "What are artisan chocolates?",
+        "value": 1000
+      },
+      {
+        "clue": "Corporate goodie bags and these promotional items share the same category",
+        "correctQuestion": "What are branded merchandise?",
+        "value": 1000
+      },
+      {
+        "clue": "Goodie bags at destination birthday parties are actually these tax-deductible business items",
+        "correctQuestion": "What are hospitality favors?",
+        "value": 1000
+      },
+      {
+        "clue": "Environmentally conscious hosts replaced single-use goodie bags with guest experiences called this",
+        "correctQuestion": "What are memory-making moments?",
+        "value": 1000
+      }
+    ]
+  }
 }

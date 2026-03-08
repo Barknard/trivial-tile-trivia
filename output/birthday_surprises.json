@@ -2,344 +2,165 @@
   "category": "Birthday Surprises",
   "theme": "birthday",
   "category_id": "birthday_surprises",
-  "style": "mixed_regular_and_cah",
-  "description": "30 regular trivia + 30 CAH-style dark humor clues about surprise parties, unexpected gifts, birthday surprises",
-  "regular_clues": [
-    {
-      "clue": "The sudden feeling you get when someone jumps out and yells this word at a surprise party",
-      "correctQuestion": "What is surprise?",
-      "value": 200
-    },
-    {
-      "clue": "The most common greeting people yell in unison when the birthday person walks through the door",
-      "correctQuestion": "What is surprise?",
-      "value": 200
-    },
-    {
-      "clue": "A gift you didn't know someone was getting for you until they hand it to you",
-      "correctQuestion": "What is a surprise gift?",
-      "value": 200
-    },
-    {
-      "clue": "The emotion you feel when your expectations are suddenly violated in a positive way",
-      "correctQuestion": "What is surprise or astonishment?",
-      "value": 200
-    },
-    {
-      "clue": "Friends must keep this to successfully execute a surprise party for someone",
-      "correctQuestion": "What is a secret?",
-      "value": 200
-    },
-    {
-      "clue": "Balloons, streamers, and confetti are types of these decorations for a surprise party",
-      "correctQuestion": "What are decorations?",
-      "value": 200
-    },
-    {
-      "clue": "The anticipation you feel while waiting for a surprise to be revealed",
-      "correctQuestion": "What is suspense or excitement?",
-      "value": 200
-    },
-    {
-      "clue": "You must do this to your mouth to keep from spoiling a surprise for the birthday person",
-      "correctQuestion": "What is keep it closed or zip it?",
-      "value": 200
-    },
-    {
-      "clue": "The moment when the birthday person first sees the hidden party setup",
-      "correctQuestion": "What is the reveal?",
-      "value": 300
-    },
-    {
-      "clue": "Your facial expression when you genuinely didn't expect the gift or party",
-      "correctQuestion": "What is shock or wide eyes and open mouth?",
-      "value": 300
-    },
-    {
-      "clue": "A surprise birthday celebration where no one arrives on time is this kind of party",
-      "correctQuestion": "What is a failed surprise or disappointment?",
-      "value": 300
-    },
-    {
-      "clue": "The group of people who work together to organize and keep a surprise party secret",
-      "correctQuestion": "What is the planning committee or conspirators?",
-      "value": 300
-    },
-    {
-      "clue": "This chemical in your brain releases when you anticipate something exciting like a surprise",
-      "correctQuestion": "What is dopamine?",
-      "value": 400
-    },
-    {
-      "clue": "A surprise party requires managing this between planners and the birthday person",
-      "correctQuestion": "What is information asymmetry?",
-      "value": 400
-    },
-    {
-      "clue": "The false belief the birthday person must hold about their day for a surprise to work",
-      "correctQuestion": "What is thinking nothing special is happening?",
-      "value": 400
-    },
-    {
-      "clue": "Unexpected gifts trigger stronger activation in your brain's system than expected ones",
-      "correctQuestion": "What is the reward system?",
-      "value": 400
-    },
-    {
-      "clue": "The brain region that encodes memories is more active when you receive surprise gifts",
-      "correctQuestion": "What is the hippocampus?",
-      "value": 500
-    },
-    {
-      "clue": "Surprise requires holding two contradictory beliefs at once - expected something else but got this",
-      "correctQuestion": "What is a prediction error or expectation violation?",
-      "value": 500
-    },
-    {
-      "clue": "The hormone released during gift-giving that bonds people together beside dopamine",
-      "correctQuestion": "What is oxytocin?",
-      "value": 500
-    },
-    {
-      "clue": "In theory of mind, planners must understand the target person holds this about their birthday",
-      "correctQuestion": "What is a false belief?",
-      "value": 500
-    },
-    {
-      "clue": "Planning surprises requires this recursive ability to understand what others are thinking about you",
-      "correctQuestion": "What is theory of mind?",
-      "value": 600
-    },
-    {
-      "clue": "The neural network involved in surprise includes prediction, emotion, and this other system",
-      "correctQuestion": "What is the mentalizing network?",
-      "value": 600
-    },
-    {
-      "clue": "A surprise party needs this type of reasoning to coordinate information between planners secretly",
-      "correctQuestion": "What is strategic planning or Bayesian reasoning?",
-      "value": 600
-    },
-    {
-      "clue": "The memory of a surprise event is stronger than a regular event because of this encoding mechanism",
-      "correctQuestion": "What is the novelty effect or prediction error?",
-      "value": 600
-    },
-    {
-      "clue": "Surprise planning requires agents to maintain this knowledge state without the target knowing",
-      "correctQuestion": "What is common knowledge or shared intent?",
-      "value": 700
-    },
-    {
-      "clue": "The anterior insula in your brain responds to surprise by computing this signal",
-      "correctQuestion": "What is a prediction error?",
-      "value": 700
-    },
-    {
-      "clue": "In game theory, successful surprise party coordination requires this strategic property",
-      "correctQuestion": "What is information asymmetry?",
-      "value": 700
-    },
-    {
-      "clue": "The ventral tegmental area releases this when you anticipate a surprise gift",
-      "correctQuestion": "What is dopamine?",
-      "value": 700
-    },
-    {
-      "clue": "Surprise as an emotion uniquely depends on your understanding of this about the other person",
-      "correctQuestion": "What is their beliefs or mental state?",
-      "value": 800
-    },
-    {
-      "clue": "The developmental milestone when children first understand that others can have false beliefs about surprises",
-      "correctQuestion": "What is age five or six?",
-      "value": 800
-    }
-  ],
-  "cah_clues": [
-    {
-      "clue": "What the office surprise party organizer finds out they're planning on the group chat at 11pm",
-      "correctQuestion": "What is a birthday for someone they didn't know existed?",
-      "value": 200
-    },
-    {
-      "clue": "The two-word phrase people text the group chat when someone almost spoils the surprise party",
-      "correctQuestion": "What is dude seriously?",
-      "value": 200
-    },
-    {
-      "clue": "That thing you buy at Whole Foods for $89 thinking it's impressive but it's actually just arugula",
-      "correctQuestion": "What is a surprise charcuterie board?",
-      "value": 300
-    },
-    {
-      "clue": "Why your friend sent 47 messages about her 'small intimate birthday' then 200 people showed up",
-      "correctQuestion": "What is Instagram finsta culture?",
-      "value": 300
-    },
-    {
-      "clue": "The real reason someone's asking about your schedule in October: they're this",
-      "correctQuestion": "What is stalking you for a surprise party?",
-      "value": 400
-    },
-    {
-      "clue": "Your TikTok birthday surprise went viral for the wrong reason because someone's ex showed up as",
-      "correctQuestion": "What is the uninvited plus-one?",
-      "value": 400
-    },
-    {
-      "clue": "The surprise party at your office where they forgot this completely",
-      "correctQuestion": "What is that you're lactose intolerant?",
-      "value": 400
-    },
-    {
-      "clue": "What happens when your friend plans a surprise and invites everyone you actively avoided in high school",
-      "correctQuestion": "What is you fake your own death?",
-      "value": 400
-    },
-    {
-      "clue": "The app where your mom is seeing that she helped plan your surprise by tagging you in a post about it",
-      "correctQuestion": "What is Facebook?",
-      "value": 400
-    },
-    {
-      "clue": "The streaming service where they're showing your surprise birthday roast that's mostly people mentioning your eating disorder",
-      "correctQuestion": "What is TikTok Live?",
-      "value": 500
-    },
-    {
-      "clue": "Why the surprise party failed: they booked this thinking it was a restaurant but it's actually a strip club",
-      "correctQuestion": "What is Pleasure Grill?",
-      "value": 500
-    },
-    {
-      "clue": "Your richest friend brought this as the surprise gift which cost exactly as much as your monthly rent",
-      "correctQuestion": "What is a knockoff designer handbag?",
-      "value": 500
-    },
-    {
-      "clue": "The only person at the surprise party who drank too much and started this",
-      "correctQuestion": "What is crying about their divorce?",
-      "value": 500
-    },
-    {
-      "clue": "They surprised you with this instead of the actual gift you asked for multiple times",
-      "correctQuestion": "What is a pottery class gift card?",
-      "value": 500
-    },
-    {
-      "clue": "The surprise from your ex that nobody asked them to give you at the party",
-      "correctQuestion": "What is unresolved feelings?",
-      "value": 600
-    },
-    {
-      "clue": "Your friend bought you this as a surprise gift thinking it would be funny but it's your worst nightmare",
-      "correctQuestion": "What is couples therapy?",
-      "value": 600
-    },
-    {
-      "clue": "The surprise when you see how much your friends spent on you by checking the Venmo history",
-      "correctQuestion": "What is $17 total from 8 people?",
-      "value": 600
-    },
-    {
-      "clue": "The gift wrapping is this expensive but what's inside costs $2.99 from Target clearance",
-      "correctQuestion": "What is immaculate?",
-      "value": 600
-    },
-    {
-      "clue": "They said surprise but really meant they're giving you this which is the opposite of a gift",
-      "correctQuestion": "What is responsibility?",
-      "value": 700
-    },
-    {
-      "clue": "The surprise party location your friend booked is in this dangerous neighborhood at this sketchy time",
-      "correctQuestion": "What is near the highway at midnight?",
-      "value": 700
-    },
-    {
-      "clue": "Your Instagram post about the surprise party has this many likes from people who weren't invited",
-      "correctQuestion": "What is 47?",
-      "value": 700
-    },
-    {
-      "clue": "The surprise message your Uber driver texts you: he's this and is two blocks away",
-      "correctQuestion": "What is definitely not the guy who booked the car?",
-      "value": 700
-    },
-    {
-      "clue": "The surprise they organized turned into this when someone posted the location online",
-      "correctQuestion": "What is a party for 300 strangers?",
-      "value": 800
-    },
-    {
-      "clue": "The only surprise was finding out your 'close friends' group chat was actually this",
-      "correctQuestion": "What is you excluded from planning anything?",
-      "value": 800
-    },
-    {
-      "clue": "They surprised you by doing this instead of showing up to your party",
-      "correctQuestion": "What is texting they overslept?",
-      "value": 800
-    },
-    {
-      "clue": "The biggest surprise is discovering your friend's new partner is this who's way too young",
-      "correctQuestion": "What is your ex?",
-      "value": 900
-    },
-    {
-      "clue": "Your surprise birthday gift arrived but it's definitely not what you ordered because it's this",
-      "correctQuestion": "What is a dildo?",
-      "value": 900
-    },
-    {
-      "clue": "The surprise when you realize the party planner didn't invite this person you explicitly said to exclude",
-      "correctQuestion": "What is your mother-in-law?",
-      "value": 900
-    },
-    {
-      "clue": "This is what they surprise you with every birthday after everyone pretends the previous years never happened",
-      "correctQuestion": "What is renewed trauma?",
-      "value": 1000
-    },
-    {
-      "clue": "Your coworkers gave you this as a surprise which legally constitutes workplace harassment",
-      "correctQuestion": "What is a gag gift about your body?",
-      "value": 1000
-    }
-  ],
-  "style_notes": {
-    "regular_clues": "Science and psychology-based clues about surprise parties, gift-giving, and cognitive science",
-    "cah_clues": "Dark humor, mainstream references (Facebook, Instagram, TikTok, Venmo, Target, etc), real-world party disasters",
-    "cah_principles_applied": [
-      "SHORT & PUNCHY - Most clues fit on one line",
-      "MAINSTREAM REFERENCES - Facebook, Instagram, TikTok, Venmo, Target, Whole Foods, Uber, strip clubs",
-      "UNEXPECTED CONNECTIONS - Setup/punchline structure with dark humor",
-      "RELATABLE DISASTERS - Things that actually happen at surprise parties",
-      "NO RANDOM SHOCK - Crude references connect logically to the setup",
-      "BOOMER TEST - Most parents would get the Instagram/Facebook/party planning references"
-    ]
-  },
-  "value_distribution": {
-    "regular_clues": {
-      "200": 9,
-      "300": 3,
-      "400": 6,
-      "500": 5,
-      "600": 4,
-      "700": 2,
-      "800": 1
-    },
-    "cah_clues": {
-      "200": 1,
-      "300": 2,
-      "400": 6,
-      "500": 5,
-      "600": 5,
-      "700": 4,
-      "800": 3,
-      "900": 3,
-      "1000": 1
-    }
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The sudden feeling you get when someone jumps out and yells this word at a surprise party",
+        "correctQuestion": "What is surprise?",
+        "value": 200
+      },
+      {
+        "clue": "The most common greeting people yell in unison when the birthday person walks through the door",
+        "correctQuestion": "What is surprise?",
+        "value": 200
+      },
+      {
+        "clue": "A gift you didn't know someone was getting for you until they hand it to you",
+        "correctQuestion": "What is a surprise gift?",
+        "value": 200
+      },
+      {
+        "clue": "The emotion you feel when your expectations are suddenly violated in a positive way",
+        "correctQuestion": "What is surprise or astonishment?",
+        "value": 200
+      },
+      {
+        "clue": "Friends must keep this to successfully execute a surprise party for someone",
+        "correctQuestion": "What is a secret?",
+        "value": 200
+      },
+      {
+        "clue": "Balloons, streamers, and confetti are types of these decorations for a surprise party",
+        "correctQuestion": "What are decorations?",
+        "value": 200
+      },
+      {
+        "clue": "The anticipation you feel while waiting for a surprise to be revealed",
+        "correctQuestion": "What is suspense or excitement?",
+        "value": 200
+      },
+      {
+        "clue": "You must do this to your mouth to keep from spoiling a surprise for the birthday person",
+        "correctQuestion": "What is keep it closed or zip it?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The moment when the birthday person first sees the hidden party setup",
+        "correctQuestion": "What is the reveal?",
+        "value": 300
+      },
+      {
+        "clue": "Your facial expression when you genuinely didn't expect the gift or party",
+        "correctQuestion": "What is shock or wide eyes and open mouth?",
+        "value": 300
+      },
+      {
+        "clue": "A surprise birthday celebration where no one arrives on time is this kind of party",
+        "correctQuestion": "What is a failed surprise or disappointment?",
+        "value": 300
+      },
+      {
+        "clue": "The group of people who work together to organize and keep a surprise party secret",
+        "correctQuestion": "What is the planning committee or conspirators?",
+        "value": 300
+      },
+      {
+        "clue": "This chemical in your brain releases when you anticipate something exciting like a surprise",
+        "correctQuestion": "What is dopamine?",
+        "value": 400
+      },
+      {
+        "clue": "A surprise party requires managing this between planners and the birthday person",
+        "correctQuestion": "What is information asymmetry?",
+        "value": 400
+      },
+      {
+        "clue": "The false belief the birthday person must hold about their day for a surprise to work",
+        "correctQuestion": "What is thinking nothing special is happening?",
+        "value": 400
+      },
+      {
+        "clue": "Unexpected gifts trigger stronger activation in your brain's system than expected ones",
+        "correctQuestion": "What is the reward system?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "The brain region that encodes memories is more active when you receive surprise gifts",
+        "correctQuestion": "What is the hippocampus?",
+        "value": 500
+      },
+      {
+        "clue": "Surprise requires holding two contradictory beliefs at once - expected something else but got this",
+        "correctQuestion": "What is a prediction error or expectation violation?",
+        "value": 500
+      },
+      {
+        "clue": "The hormone released during gift-giving that bonds people together beside dopamine",
+        "correctQuestion": "What is oxytocin?",
+        "value": 500
+      },
+      {
+        "clue": "In theory of mind, planners must understand the target person holds this about their birthday",
+        "correctQuestion": "What is a false belief?",
+        "value": 500
+      },
+      {
+        "clue": "Planning surprises requires this recursive ability to understand what others are thinking about you",
+        "correctQuestion": "What is theory of mind?",
+        "value": 600
+      },
+      {
+        "clue": "The neural network involved in surprise includes prediction, emotion, and this other system",
+        "correctQuestion": "What is the mentalizing network?",
+        "value": 600
+      },
+      {
+        "clue": "A surprise party needs this type of reasoning to coordinate information between planners secretly",
+        "correctQuestion": "What is strategic planning or Bayesian reasoning?",
+        "value": 600
+      },
+      {
+        "clue": "The memory of a surprise event is stronger than a regular event because of this encoding mechanism",
+        "correctQuestion": "What is the novelty effect or prediction error?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Surprise planning requires agents to maintain this knowledge state without the target knowing",
+        "correctQuestion": "What is common knowledge or shared intent?",
+        "value": 700
+      },
+      {
+        "clue": "The anterior insula in your brain responds to surprise by computing this signal",
+        "correctQuestion": "What is a prediction error?",
+        "value": 700
+      },
+      {
+        "clue": "In game theory, successful surprise party coordination requires this strategic property",
+        "correctQuestion": "What is information asymmetry?",
+        "value": 700
+      },
+      {
+        "clue": "The ventral tegmental area releases this when you anticipate a surprise gift",
+        "correctQuestion": "What is dopamine?",
+        "value": 700
+      },
+      {
+        "clue": "Surprise as an emotion uniquely depends on your understanding of this about the other person",
+        "correctQuestion": "What is their beliefs or mental state?",
+        "value": 800
+      },
+      {
+        "clue": "The developmental milestone when children first understand that others can have false beliefs about surprises",
+        "correctQuestion": "What is age five or six?",
+        "value": 800
+      }
+    ],
+    "no_humanity": []
   }
 }

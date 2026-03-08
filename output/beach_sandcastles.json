@@ -1,916 +1,167 @@
 {
   "category": "Beach Sandcastles",
-  "description": "Family-friendly questions about building sandcastles, sand sculptures, and beach construction",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "The granular material used to build sandcastles at the beach",
-      "answer": "What is sand?"
-    },
-    {
-      "points": 200,
-      "clue": "A bucket used to collect and shape sand into castle towers",
-      "answer": "What is a sand bucket?"
-    },
-    {
-      "points": 200,
-      "clue": "A small shovel-like tool essential for digging and shaping sandcastles",
-      "answer": "What is a spade or shovel?"
-    },
-    {
-      "points": 200,
-      "clue": "The wall-like structure that surrounds a sandcastle for protection",
-      "answer": "What is a moat or rampart?"
-    },
-    {
-      "points": 200,
-      "clue": "Tall pointed structures that form the main features of a castle",
-      "answer": "What are towers or turrets?"
-    },
-    {
-      "points": 200,
-      "clue": "The liquid element mixed with sand to make it easier to mold",
-      "answer": "What is water?"
-    },
-    {
-      "points": 400,
-      "clue": "The type of sand that works best for building detailed sandcastles",
-      "answer": "What is wet sand or damp sand?"
-    },
-    {
-      "points": 400,
-      "clue": "A decorative gate or opening in a sandcastle's walls",
-      "answer": "What is a drawbridge or gate?"
-    },
-    {
-      "points": 400,
-      "clue": "A small flag or marker often placed on top of the tallest tower",
-      "answer": "What is a flag?"
-    },
-    {
-      "points": 400,
-      "clue": "The flat-topped lookout point on a castle tower",
-      "answer": "What is a battlement or turret?"
-    },
-    {
-      "points": 400,
-      "clue": "The deep ditch dug around a sandcastle to represent a water defense",
-      "answer": "What is a moat?"
-    },
-    {
-      "points": 400,
-      "clue": "Shells, seaweed, or pebbles used as decorations on sandcastles",
-      "answer": "What are beach decorations or embellishments?"
-    },
-    {
-      "points": 600,
-      "clue": "This tool helps carve detailed designs and windows into sand structures",
-      "answer": "What is a popsicle stick or carving tool?"
-    },
-    {
-      "points": 600,
-      "clue": "A sandcastle shaped like this royal dwelling typically has multiple towers",
-      "answer": "What is a medieval or royal castle?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand that has too much clay content may do this when building",
-      "answer": "What is crumble or collapse?"
-    },
-    {
-      "points": 600,
-      "clue": "The best time of day to build sandcastles is when sand moisture is highest",
-      "answer": "What is morning or after high tide?"
-    },
-    {
-      "points": 600,
-      "clue": "This simple machine helps compress and shape sand efficiently",
-      "answer": "What is a tamper or packing tool?"
-    },
-    {
-      "points": 600,
-      "clue": "A technique where layers of sand are packed to create stronger walls",
-      "answer": "What is layering or stratification?"
-    },
-    {
-      "points": 800,
-      "clue": "The ancient Romans built sand structures for this military training purpose",
-      "answer": "What is siege tactics training?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand erosion is accelerated by this natural water phenomenon at beaches",
-      "answer": "What are waves or tide?"
-    },
-    {
-      "points": 800,
-      "clue": "Professional sand sculptors often win competitions for creating structures this tall",
-      "answer": "What is 60+ feet or multiple stories?"
-    },
-    {
-      "points": 800,
-      "clue": "The atomic composition of sand is primarily this mineral",
-      "answer": "What is silicon dioxide or quartz?"
-    },
-    {
-      "points": 800,
-      "clue": "Beach sand closer to this geographic location tends to be coarser and better for building",
-      "answer": "What is near rocky cliffs or mountains?"
-    },
-    {
-      "points": 800,
-      "clue": "The curved structures that support arches in sand construction",
-      "answer": "What are buttresses or supports?"
-    },
-    {
-      "points": 1000,
-      "clue": "This measurement indicates the optimal moisture content for sandcastle building",
-      "answer": "What is 12-15% water content?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand sculptures have existed since ancient times, with evidence found in this region",
-      "answer": "What is Egypt or the Middle East?"
-    },
-    {
-      "points": 1000,
-      "clue": "This physics principle explains why sandcastles lose structural integrity over time",
-      "answer": "What is gravity or settling?"
-    },
-    {
-      "points": 1000,
-      "clue": "Professional sculptors use this technique to carve intricate details without damaging sand",
-      "answer": "What is air chiseling or pneumatic tools?"
-    },
-    {
-      "points": 1000,
-      "clue": "The largest sandcastle in the world was built to raise awareness for this cause",
-      "answer": "What is environmental or climate change?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand from this location is often preferred by professional sculptors due to its mineral composition",
-      "answer": "What is volcanic regions or specific beaches?"
-    }
-  ],
-  "themed_clues_level2": [
-    {
-      "points": 200,
-      "clue": "Kids often call the smallest sand structures by this name",
-      "answer": "What is a sand hill or mound?"
-    },
-    {
-      "points": 200,
-      "clue": "A sandcastle moat is fun to fill with this liquid from the ocean",
-      "answer": "What is salt water or sea water?"
-    },
-    {
-      "points": 200,
-      "clue": "This protective headwear helps while building sandcastles in bright sun",
-      "answer": "What is a hat or sun hat?"
-    },
-    {
-      "points": 200,
-      "clue": "Beach sand becomes easier to shape after this weather event",
-      "answer": "What is rain?"
-    },
-    {
-      "points": 200,
-      "clue": "This protective lotion prevents burns while playing at the beach",
-      "answer": "What is sunscreen?"
-    },
-    {
-      "points": 200,
-      "clue": "A sandcastle's foundation is most stable when built on this part of the beach",
-      "answer": "What is damp sand or near the waterline?"
-    },
-    {
-      "points": 400,
-      "clue": "This four-sided sand shape is easier to build than a perfect circle",
-      "answer": "What is a square or rectangle?"
-    },
-    {
-      "points": 400,
-      "clue": "Kids often decorate their castles with these colorful seaside treasures",
-      "answer": "What are shells or sea glass?"
-    },
-    {
-      "points": 400,
-      "clue": "This architectural feature on sandcastles shoots water as a defense",
-      "answer": "What is a cannon or embrasure?"
-    },
-    {
-      "points": 400,
-      "clue": "A sandcastle erodes faster when exposed to this moving medium",
-      "answer": "What is wind?"
-    },
-    {
-      "points": 400,
-      "clue": "This trendy decoration has kids building sandcastles with multiple levels",
-      "answer": "What is a tiered or stepped design?"
-    },
-    {
-      "points": 400,
-      "clue": "Adding this to sand helps bind particles and strengthen structures",
-      "answer": "What is clay or binding agent?"
-    },
-    {
-      "points": 600,
-      "clue": "This sculpture technique involves carving away sand to create details",
-      "answer": "What is subtractive sculpture?"
-    },
-    {
-      "points": 600,
-      "clue": "A sandcastle's most vulnerable point is typically this weak spot",
-      "answer": "What is the connection between towers and base?"
-    },
-    {
-      "points": 600,
-      "clue": "This water feature running down sandcastle walls is called",
-      "answer": "What is an aqueduct or water channel?"
-    },
-    {
-      "points": 600,
-      "clue": "Professional sand artists often seal their sculptures with this material",
-      "answer": "What is resin or fixative spray?"
-    },
-    {
-      "points": 600,
-      "clue": "The optimal temperature for building sandcastles is when the sand is this warm",
-      "answer": "What is warm but not hot?"
-    },
-    {
-      "points": 600,
-      "clue": "This type of architecture inspired many modern sandcastle designs",
-      "answer": "What is medieval or Gothic architecture?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand sculpture as an art form became internationally recognized during this decade",
-      "answer": "What is the 1990s or 2000s?"
-    },
-    {
-      "points": 800,
-      "clue": "This geometric principle helps create structurally sound sandcastle arches",
-      "answer": "What is the keystone or arch theory?"
-    },
-    {
-      "points": 800,
-      "clue": "Professional sculptors use this measurement tool to ensure castle symmetry",
-      "answer": "What is a measuring tape or level?"
-    },
-    {
-      "points": 800,
-      "clue": "A sandcastle's compressive strength is maximized by this packing method",
-      "answer": "What is uniform compression or hammering?"
-    },
-    {
-      "points": 800,
-      "clue": "This type of sand is unsuitable for sculpting due to salt crystal interference",
-      "answer": "What is beach sand with high salt content?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand particle size measured in this unit affects buildability significantly",
-      "answer": "What is millimeters or micrometers?"
-    },
-    {
-      "points": 1000,
-      "clue": "This physics concept explains why tall, narrow sandcastles fail more easily",
-      "answer": "What is center of gravity?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand's ability to hold shape depends on this percentage range of saturation",
-      "answer": "What is 10-20% moisture content?"
-    },
-    {
-      "points": 1000,
-      "clue": "This artistic movement influenced modern abstract sand sculpture designs",
-      "answer": "What is modernism or abstract art?"
-    },
-    {
-      "points": 1000,
-      "clue": "The world record for fastest sandcastle was built in this timeframe",
-      "answer": "What is under one hour?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand sculptures created in this location are preserved using 3D scanning",
-      "answer": "What is museums or galleries?"
-    },
-    {
-      "points": 1000,
-      "clue": "This environmental concern affects the availability of quality sand for art",
-      "answer": "What is sand mining or beach erosion?"
-    }
-  ],
-  "themed_clues_level3": [
-    {
-      "points": 200,
-      "clue": "Packed sand achieves this property when water fills gaps between grains",
-      "answer": "What is cohesion?"
-    },
-    {
-      "points": 200,
-      "clue": "This family often built elaborate sand forts for entertainment throughout history",
-      "answer": "What is the royal family?"
-    },
-    {
-      "points": 200,
-      "clue": "A moat dug around a sandcastle represents this historical defense system",
-      "answer": "What is a water barrier?"
-    },
-    {
-      "points": 200,
-      "clue": "This tool, often homemade, helps pack sand into bucket molds efficiently",
-      "answer": "What is a hammer or mallet?"
-    },
-    {
-      "points": 200,
-      "clue": "Sandcastle competitions often take place during this season for optimal sand conditions",
-      "answer": "What is summer?"
-    },
-    {
-      "points": 200,
-      "clue": "This mathematical concept helps plan proportional sandcastle dimensions",
-      "answer": "What is ratios or scaling?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand's permeability is important because it allows this to drain away",
-      "answer": "What is water or excess moisture?"
-    },
-    {
-      "points": 400,
-      "clue": "Professional sculptors often apprentice for this many years to master the craft",
-      "answer": "What is 5-10 years?"
-    },
-    {
-      "points": 400,
-      "clue": "This ancient form of architecture influenced elaborate sandcastle designs",
-      "answer": "What is castle or fortress design?"
-    },
-    {
-      "points": 400,
-      "clue": "A sandcastle made from compressed sand will last approximately this long",
-      "answer": "What is a few hours to a day?"
-    },
-    {
-      "points": 400,
-      "clue": "This property of sand determines how well it can be sculpted into fine details",
-      "answer": "What is particle size distribution or granularity?"
-    },
-    {
-      "points": 400,
-      "clue": "Winners of international sand sculpture competitions can receive prizes of this value",
-      "answer": "What is thousands of dollars?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand artists use this technique to create spiraling towers without collapse",
-      "answer": "What is helical or coiled building?"
-    },
-    {
-      "points": 600,
-      "clue": "This structural element prevents sandcastle walls from bulging outward under pressure",
-      "answer": "What is reinforcement or bracing?"
-    },
-    {
-      "points": 600,
-      "clue": "The International Sand Sculpture Championship is held annually in this country",
-      "answer": "What is the United States or various countries?"
-    },
-    {
-      "points": 600,
-      "clue": "A sandcastle's aerodynamic design minimizes damage from this natural force",
-      "answer": "What is wind?"
-    },
-    {
-      "points": 600,
-      "clue": "This optical illusion in sand sculptures involves shadow and texture patterns",
-      "answer": "What is shading or trompe-l'oeil?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand from river deltas produces sculptures different from ocean sand due to this factor",
-      "answer": "What is grain composition or smoothness?"
-    },
-    {
-      "points": 800,
-      "clue": "This biomechanical principle explains how sand settles and compacts over time",
-      "answer": "What is vibrational settlement?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand sculptures documented in this medium preserve artworks longer than photographs",
-      "answer": "What is 3D scanning or digital documentation?"
-    },
-    {
-      "points": 800,
-      "clue": "This European country hosted some of the earliest recorded sand sculpture competitions",
-      "answer": "What is the United Kingdom or Netherlands?"
-    },
-    {
-      "points": 800,
-      "clue": "A sandcastle's tensile strength is improved through this method of construction",
-      "answer": "What is layering or stratified packing?"
-    },
-    {
-      "points": 800,
-      "clue": "This mineral content in sand can reduce sculptability and increase fragility",
-      "answer": "What is mica or salt?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand particle shape is described as this in geological surveys",
-      "answer": "What is angular, rounded, or subangular?"
-    },
-    {
-      "points": 1000,
-      "clue": "This conservation technique preserves award-winning sand sculptures after display",
-      "answer": "What is resin coating or encapsulation?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand sculpture is now recognized as this type of artistic expression by museums",
-      "answer": "What is public or environmental art?"
-    },
-    {
-      "points": 1000,
-      "clue": "The physics of capillary action in sand affects building this type of structure",
-      "answer": "What is thin walls or delicate features?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sculptures built with this type of internal reinforcement last significantly longer",
-      "answer": "What is hidden armatures or supports?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand composition determined by this type of analysis affects an artist's material selection",
-      "answer": "What is particle size analysis or sieve testing?"
-    },
-    {
-      "points": 1000,
-      "clue": "Professional sandcastles are sometimes sealed with this biodegradable alternative to plastic",
-      "answer": "What is natural wax or resin?"
-    }
-  ],
-  "themed_clues_level4": [
-    {
-      "points": 200,
-      "clue": "The packing fraction of sand grains determines this physical property crucial for sculpting",
-      "answer": "What is compressive strength?"
-    },
-    {
-      "points": 200,
-      "clue": "This metric measures sand grain size in the Wentworth scale system",
-      "answer": "What is phi scale or diameter in millimeters?"
-    },
-    {
-      "points": 200,
-      "clue": "Sandcastle stability is compromised by this phenomenon causing particle redistribution",
-      "answer": "What is liquefaction or settlement?"
-    },
-    {
-      "points": 200,
-      "clue": "This thermodynamic property of wet sand affects the adhesion between grains",
-      "answer": "What is surface tension?"
-    },
-    {
-      "points": 200,
-      "clue": "The angle of repose for sand determines this maximum feature on sculptures",
-      "answer": "What is steepness or slope angle?"
-    },
-    {
-      "points": 200,
-      "clue": "Sandcastles built from sand with this grain size distribution exhibit maximum strength",
-      "answer": "What is well-graded or mixed sizes?"
-    },
-    {
-      "points": 400,
-      "clue": "This geotechnical property measures sand's resistance to volume change under stress",
-      "answer": "What is dilatancy or consolidation?"
-    },
-    {
-      "points": 400,
-      "clue": "Coastal sand composition varies due to this geological process over millennia",
-      "answer": "What is weathering or erosion?"
-    },
-    {
-      "points": 400,
-      "clue": "The void ratio of packed sand directly affects this engineering parameter in construction",
-      "answer": "What is bearing capacity?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand sculptures use this principle to counteract lateral forces from wind and water",
-      "answer": "What is triangulation or bracing?"
-    },
-    {
-      "points": 400,
-      "clue": "This ratio of fine to coarse sand particles optimizes both buildability and detail",
-      "answer": "What is 60/40 or 50/50?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand's hydraulic conductivity determines how quickly this percolates through the structure",
-      "answer": "What is water or groundwater?"
-    },
-    {
-      "points": 600,
-      "clue": "This wave-induced phenomenon can undermine a sandcastle's foundational support",
-      "answer": "What is scouring or erosive action?"
-    },
-    {
-      "points": 600,
-      "clue": "The viscoelastic behavior of wet sand creates this time-dependent strength change",
-      "answer": "What is creep or plastic deformation?"
-    },
-    {
-      "points": 600,
-      "clue": "This advanced technique uses ground-penetrating radar to study sand structure internally",
-      "answer": "What is non-destructive testing?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand from this type of environment produces superior sculpting material due to sorting",
-      "answer": "What is fluvial or river delta deposits?"
-    },
-    {
-      "points": 600,
-      "clue": "This architectural cantilever principle allows overhanging sandcastle features without internal support",
-      "answer": "What is distributed loading or suspension?"
-    },
-    {
-      "points": 600,
-      "clue": "The friction angle of sand determines this property governing slope stability",
-      "answer": "What is shear strength or angle of internal friction?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand's specific gravity compared to other materials affects this design consideration",
-      "answer": "What is structural load or weight distribution?"
-    },
-    {
-      "points": 800,
-      "clue": "This UNESCO-listed sand sculpture festival in Europe attracts international artists annually",
-      "answer": "What is the Netherlands or Denmark festivals?"
-    },
-    {
-      "points": 800,
-      "clue": "The capillary rise height in sand is inversely proportional to this parameter",
-      "answer": "What is grain size diameter?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand sculptures are sometimes photographed with this technology for permanent digital archiving",
-      "answer": "What is photogrammetry or LIDAR?"
-    },
-    {
-      "points": 800,
-      "clue": "This microscopic analysis reveals sand composition determining its sculptural potential",
-      "answer": "What is petrography or grain mounting?"
-    },
-    {
-      "points": 800,
-      "clue": "The suction stress in partially saturated sand provides this engineering advantage",
-      "answer": "What is apparent cohesion or tension?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand entrainment in this environmental process gradually destroys sandcastle beaches",
-      "answer": "What is aeolian erosion or wind transport?"
-    },
-    {
-      "points": 1000,
-      "clue": "This mechanical analysis determines sand gradation affecting packing efficiency theoretically",
-      "answer": "What is sieve analysis or hydrometer testing?"
-    },
-    {
-      "points": 1000,
-      "clue": "The triaxial shear test provides this critical engineering data for sand stability modeling",
-      "answer": "What is shear strength envelope or Mohr-Coulomb parameters?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand sculptures in museums use this preventative conservation method to slow degradation",
-      "answer": "What is controlled humidity and temperature environment?"
-    },
-    {
-      "points": 1000,
-      "clue": "This finite element analysis technique models sandcastle structural behavior numerically",
-      "answer": "What is FEA or computational mechanics simulation?"
-    },
-    {
-      "points": 1000,
-      "clue": "The Poisson ratio for sand is critical in calculating this response to applied forces",
-      "answer": "What is lateral strain or deformation?"
-    }
-  ],
-  "themed_clues_level5": [
-    {
-      "points": 200,
-      "clue": "Effective stress in saturated sand directly influences this mechanical property critical for sculpting",
-      "answer": "What is effective shear strength?"
-    },
-    {
-      "points": 200,
-      "clue": "This state of sand saturation creates maximum molecular cohesion for detailed work",
-      "answer": "What is capillary saturation or funicular state?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand grains with this shape classification pack more efficiently than angular variants",
-      "answer": "What is well-rounded or spherical?"
-    },
-    {
-      "points": 200,
-      "clue": "This minerological component of sand originates from feldspar weathering and reduces workability",
-      "answer": "What is clay fraction or fines?"
-    },
-    {
-      "points": 200,
-      "clue": "The Reynolds number for flow through sandcastle drainage determines this hydraulic behavior",
-      "answer": "What is laminar or turbulent flow regime?"
-    },
-    {
-      "points": 200,
-      "clue": "This geochemical process causes cementation in ancient sandcastles found buried in sediment",
-      "answer": "What is diagenesis or lithification?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand anisotropy created through this deposition process affects carving behavior directionally",
-      "answer": "What is directional packing or layered settlement?"
-    },
-    {
-      "points": 400,
-      "clue": "This advanced material science technique analyzes sand particle surfaces at the nanoscale",
-      "answer": "What is electron microscopy or atomic force microscopy?"
-    },
-    {
-      "points": 400,
-      "clue": "The soil suction potential in partially saturated sand is measured using this instrument",
-      "answer": "What is a tensiometer or pressure plate?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand from this depositional environment exhibits superior sculptability due to grain shape optimization",
-      "answer": "What is glacial or wind-blown aeolian deposits?"
-    },
-    {
-      "points": 400,
-      "clue": "This acoustic property of sand structures allows non-destructive testing through resonance analysis",
-      "answer": "What is acoustical impedance or sonic velocity?"
-    },
-    {
-      "points": 400,
-      "clue": "The critical state line in sand mechanics governs this phase transformation during loading",
-      "answer": "What is dilation to contraction transition?"
-    },
-    {
-      "points": 600,
-      "clue": "This pore pressure response in rapidly loaded sand explains sudden structural failures",
-      "answer": "What is excess pore pressure or liquefaction potential?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand's fabric tensor anisotropy created during this process determines failure mode orientation",
-      "answer": "What is shear band formation or strain localization?"
-    },
-    {
-      "points": 600,
-      "clue": "This advanced imaging technique reveals internal sand rearrangement during loading experiments",
-      "answer": "What is X-ray tomography or CT scanning?"
-    },
-    {
-      "points": 600,
-      "clue": "The thermotropic behavior of sand particles is influenced by this molecular property",
-      "answer": "What is particle hydrophobicity or surface chemistry?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand stabilization through this biological process creates natural cementation in coastal environments",
-      "answer": "What is microbial carbonate precipitation or biocementation?"
-    },
-    {
-      "points": 600,
-      "clue": "This principle from colloid chemistry explains enhanced cohesion at critical moisture levels",
-      "answer": "What is ionic strength or electrostatic attraction?"
-    },
-    {
-      "points": 800,
-      "clue": "The Roscoe and Jaky equations predict this stress parameter crucial for sandcastle foundation design",
-      "answer": "What is coefficient of earth pressure at rest or K0?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand exhibiting this grain size distribution characteristic produces maximum strength through optimal packing",
-      "answer": "What is gap-graded or ideal Fuller distribution?"
-    },
-    {
-      "points": 800,
-      "clue": "This thermodynamic phase diagram for binary sand mixtures predicts segregation patterns",
-      "answer": "What is phase separation or demixing diagram?"
-    },
-    {
-      "points": 800,
-      "clue": "The Duncan-Chang nonlinear elasticity model predicts this stress-strain response in sand",
-      "answer": "What is hyperbolic behavior or tangent modulus variation?"
-    },
-    {
-      "points": 800,
-      "clue": "Microstructural imaging reveals this fractal characteristic of sand grain assemblies",
-      "answer": "What is power-law distribution or self-similarity?"
-    },
-    {
-      "points": 800,
-      "clue": "This spectroscopic technique identifies mineral phases determining sand composition effects on buildability",
-      "answer": "What is X-ray diffraction or infrared spectroscopy?"
-    },
-    {
-      "points": 1000,
-      "clue": "The constitutive model by this researcher describes sand behavior through stress ratio mobilization",
-      "answer": "What is the Modified Cam-Clay model or Rowe's theory?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand wave propagation velocity measured through this geophysical technique correlates with density",
-      "answer": "What is seismic refraction or crosshole testing?"
-    },
-    {
-      "points": 1000,
-      "clue": "This chaos theory phenomenon explains unpredictable brittle failure in high-strength sand structures",
-      "answer": "What is bifurcation or transition to instability?"
-    },
-    {
-      "points": 1000,
-      "clue": "The lattice Boltzmann method simulates this particle-fluid interaction in saturated sand domains",
-      "answer": "What is fluid flow with drag forces or hydrodynamic coupling?"
-    },
-    {
-      "points": 1000,
-      "clue": "Molecular dynamics simulation reveals this fundamental mechanism controlling sand grain sliding friction",
-      "answer": "What is atomic-scale asperity interaction or roughness?"
-    },
-    {
-      "points": 1000,
-      "clue": "This emerging field combines artificial intelligence to predict optimal sand composition for sculptures",
-      "answer": "What is machine learning material science or AI optimization?"
-    }
-  ],
-  "themed_clues_level6": [
-    {
-      "points": 200,
-      "clue": "The kinetic energy dissipation during sand grain rearrangement creates this mechanical phenomenon",
-      "answer": "What is damping or energy loss?"
-    },
-    {
-      "points": 200,
-      "clue": "This nanotechnology application uses nanofibers to create composite reinforced sand structures",
-      "answer": "What is nanofiber reinforcement or nanocomposite enhancement?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand grain contact stiffness is influenced by this fundamental property at the atomic scale",
-      "answer": "What is Hertzian contact stress or elastic deformation?"
-    },
-    {
-      "points": 200,
-      "clue": "This quantum property of surface atoms affects molecular adhesion between sand grains",
-      "answer": "What is van der Waals forces or London dispersion forces?"
-    },
-    {
-      "points": 200,
-      "clue": "The acoustic emission signature during sand failure reveals this microscopic process occurring",
-      "answer": "What is particle crushing or microcracking?"
-    },
-    {
-      "points": 200,
-      "clue": "This multi-scale modeling approach bridges sandgrain physics with macroscopic structure behavior",
-      "answer": "What is multiphysics or hierarchical modeling?"
-    },
-    {
-      "points": 400,
-      "clue": "The memory effect in sand subjected to cyclic loading creates this path-dependent behavior",
-      "answer": "What is hysteretic damping or ratcheting?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand dilatancy governed by this slip criterion determines pore pressure generation during shear",
-      "answer": "What is the Rowe dilatancy theory or stress state dependency?"
-    },
-    {
-      "points": 400,
-      "clue": "This statistical mechanics approach models sand as a granular gas with temperature-like parameter",
-      "answer": "What is granular temperature or Edwards ensemble?"
-    },
-    {
-      "points": 400,
-      "clue": "The instability criterion for sandcastle failure is predicted by this bifurcation analysis method",
-      "answer": "What is perturbation theory or linear stability analysis?"
-    },
-    {
-      "points": 400,
-      "clue": "Electromagnetic properties of sand containing this mineral enable detection through geophysical methods",
-      "answer": "What is magnetite or magnetic minerals?"
-    },
-    {
-      "points": 400,
-      "clue": "This fractional calculus framework models the anomalous diffusion of water in sand pores",
-      "answer": "What is fractional order differential equations?"
-    },
-    {
-      "points": 600,
-      "clue": "The Boltzmann transport equation predicts particle concentration redistribution through this mechanism",
-      "answer": "What is advection-diffusion or saltation?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand exhibiting this non-Newtonian fluid behavior exhibits velocity-dependent viscosity changes",
-      "answer": "What is dilatant or shear-thickening response?"
-    },
-    {
-      "points": 600,
-      "clue": "This topological invariant in sand force networks determines structural stability characteristics",
-      "answer": "What is Euler characteristic or network connectivity?"
-    },
-    {
-      "points": 600,
-      "clue": "The Fourier transform of sand particle displacement data reveals this spectral characteristic",
-      "answer": "What is power spectrum or frequency response?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand grain surface roughness quantified through this fractal dimension determines friction behavior",
-      "answer": "What is Hausdorff dimension or fractal geometry?"
-    },
-    {
-      "points": 600,
-      "clue": "This viscoelastic model with temperature-dependent parameters predicts sand creep deformation",
-      "answer": "What is Kelvin-Voigt or Maxwell models with time-temperature superposition?"
-    },
-    {
-      "points": 800,
-      "clue": "The homogenization theory for this two-phase system upscales pore-scale physics to bulk properties",
-      "answer": "What is sand-water mixture or poroelastic continuum?"
-    },
-    {
-      "points": 800,
-      "clue": "Singular perturbation analysis reveals this layer phenomenon near sandcastle boundaries during failure",
-      "answer": "What is boundary layer formation or shear band localization?"
-    },
-    {
-      "points": 800,
-      "clue": "The Navier-Stokes equations coupled with this principle govern fluid-grain interaction in saturated sand",
-      "answer": "What is momentum coupling or drag force law?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand's irreversible thermodynamic processes are governed by this fundamental inequality",
-      "answer": "What is the Clausius-Duhem inequality or entropy generation?"
-    },
-    {
-      "points": 800,
-      "clue": "This catastrophe theory model explains the sudden transition from stable to failed sandcastle state",
-      "answer": "What is cusp catastrophe or hysteretic instability?"
-    },
-    {
-      "points": 800,
-      "clue": "The Lyapunov exponent for sand particle trajectories measures this chaotic system property",
-      "answer": "What is sensitivity to initial conditions or chaos level?"
-    },
-    {
-      "points": 1000,
-      "clue": "This Riemannian geometry approach models sand deformation through intrinsic curvature changes",
-      "answer": "What is differential geometry or curved space deformation?"
-    },
-    {
-      "points": 1000,
-      "clue": "The variational formulation using this principle derives constitutive equations from energy potentials",
-      "answer": "What is Hamilton's principle or virtual work theorem?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand failure surfaces satisfy this optimality criterion from limit analysis theory",
-      "answer": "What is extremum principles or Coulomb yield criterion?"
-    },
-    {
-      "points": 1000,
-      "clue": "This stochastic process with correlated increments models sand parameter variability realistically",
-      "answer": "What is fractional Brownian motion or Gaussian random fields?"
-    },
-    {
-      "points": 1000,
-      "clue": "The holomorphic function theory predicts this behavior for stress fields in idealized sand domains",
-      "answer": "What is harmonic stress distribution or potential theory?"
-    },
-    {
-      "points": 1000,
-      "clue": "This operator algebra framework enables spectral decomposition of sand deformation tensors",
-      "answer": "What is functional analysis or spectral theory?"
-    }
-  ]
+  "theme": "beach",
+  "category_id": "beach_sandcastles",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The granular material used to build sandcastles at the beach",
+        "correctQuestion": "What is sand?",
+        "value": 200
+      },
+      {
+        "clue": "A bucket used to collect and shape sand into castle towers",
+        "correctQuestion": "What is a sand bucket?",
+        "value": 200
+      },
+      {
+        "clue": "A small shovel-like tool essential for digging and shaping sandcastles",
+        "correctQuestion": "What is a spade or shovel?",
+        "value": 200
+      },
+      {
+        "clue": "The wall-like structure that surrounds a sandcastle for protection",
+        "correctQuestion": "What is a moat or rampart?",
+        "value": 200
+      },
+      {
+        "clue": "Tall pointed structures that form the main features of a castle",
+        "correctQuestion": "What are towers or turrets?",
+        "value": 200
+      },
+      {
+        "clue": "The liquid element mixed with sand to make it easier to mold",
+        "correctQuestion": "What is water?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The type of sand that works best for building detailed sandcastles",
+        "correctQuestion": "What is wet sand or damp sand?",
+        "value": 400
+      },
+      {
+        "clue": "A decorative gate or opening in a sandcastle's walls",
+        "correctQuestion": "What is a drawbridge or gate?",
+        "value": 400
+      },
+      {
+        "clue": "A small flag or marker often placed on top of the tallest tower",
+        "correctQuestion": "What is a flag?",
+        "value": 400
+      },
+      {
+        "clue": "The flat-topped lookout point on a castle tower",
+        "correctQuestion": "What is a battlement or turret?",
+        "value": 400
+      },
+      {
+        "clue": "The deep ditch dug around a sandcastle to represent a water defense",
+        "correctQuestion": "What is a moat?",
+        "value": 400
+      },
+      {
+        "clue": "Shells, seaweed, or pebbles used as decorations on sandcastles",
+        "correctQuestion": "What are beach decorations or embellishments?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This tool helps carve detailed designs and windows into sand structures",
+        "correctQuestion": "What is a popsicle stick or carving tool?",
+        "value": 600
+      },
+      {
+        "clue": "A sandcastle shaped like this royal dwelling typically has multiple towers",
+        "correctQuestion": "What is a medieval or royal castle?",
+        "value": 600
+      },
+      {
+        "clue": "Sand that has too much clay content may do this when building",
+        "correctQuestion": "What is crumble or collapse?",
+        "value": 600
+      },
+      {
+        "clue": "The best time of day to build sandcastles is when sand moisture is highest",
+        "correctQuestion": "What is morning or after high tide?",
+        "value": 600
+      },
+      {
+        "clue": "This simple machine helps compress and shape sand efficiently",
+        "correctQuestion": "What is a tamper or packing tool?",
+        "value": 600
+      },
+      {
+        "clue": "A technique where layers of sand are packed to create stronger walls",
+        "correctQuestion": "What is layering or stratification?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The ancient Romans built sand structures for this military training purpose",
+        "correctQuestion": "What is siege tactics training?",
+        "value": 800
+      },
+      {
+        "clue": "Sand erosion is accelerated by this natural water phenomenon at beaches",
+        "correctQuestion": "What are waves or tide?",
+        "value": 800
+      },
+      {
+        "clue": "Professional sand sculptors often win competitions for creating structures this tall",
+        "correctQuestion": "What is 60+ feet or multiple stories?",
+        "value": 800
+      },
+      {
+        "clue": "The atomic composition of sand is primarily this mineral",
+        "correctQuestion": "What is silicon dioxide or quartz?",
+        "value": 800
+      },
+      {
+        "clue": "Beach sand closer to this geographic location tends to be coarser and better for building",
+        "correctQuestion": "What is near rocky cliffs or mountains?",
+        "value": 800
+      },
+      {
+        "clue": "The curved structures that support arches in sand construction",
+        "correctQuestion": "What are buttresses or supports?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "This measurement indicates the optimal moisture content for sandcastle building",
+        "correctQuestion": "What is 12-15% water content?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand sculptures have existed since ancient times, with evidence found in this region",
+        "correctQuestion": "What is Egypt or the Middle East?",
+        "value": 1000
+      },
+      {
+        "clue": "This physics principle explains why sandcastles lose structural integrity over time",
+        "correctQuestion": "What is gravity or settling?",
+        "value": 1000
+      },
+      {
+        "clue": "Professional sculptors use this technique to carve intricate details without damaging sand",
+        "correctQuestion": "What is air chiseling or pneumatic tools?",
+        "value": 1000
+      },
+      {
+        "clue": "The largest sandcastle in the world was built to raise awareness for this cause",
+        "correctQuestion": "What is environmental or climate change?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand from this location is often preferred by professional sculptors due to its mineral composition",
+        "correctQuestion": "What is volcanic regions or specific beaches?",
+        "value": 1000
+      }
+    ]
+  }
 }

@@ -1,375 +1,313 @@
 {
-  "title": "Birthday Special Day",
-  "description": "Trivia clues about birthdays being your special day, once a year celebration",
+  "category": "Birthday Special Day",
   "theme": "birthdays",
-  "clues": [
-    {
-      "id": 1,
-      "type": "regular",
-      "clue": "The one day per year when you can demand cake for breakfast",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 2,
-      "type": "regular",
-      "clue": "The annual event where your age officially increases by one",
-      "answer": "Birthday"
-    },
-    {
-      "id": 3,
-      "type": "regular",
-      "clue": "A celebration marking the anniversary of your birth",
-      "answer": "Birthday"
-    },
-    {
-      "id": 4,
-      "type": "regular",
-      "clue": "The day when everyone is legally obligated to say nice things about you",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 5,
-      "type": "regular",
-      "clue": "An excuse to eat an entire cake without judgment",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 6,
-      "type": "regular",
-      "clue": "The only day you can guilt-trip friends into giving you presents",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 7,
-      "type": "regular",
-      "clue": "An annual reminder that you're getting older",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 8,
-      "type": "regular",
-      "clue": "The celebration where candles on a cake represent your age",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 9,
-      "type": "regular",
-      "clue": "When you make a wish, blow out candles, and hope it comes true",
-      "answer": "Birthday"
-    },
-    {
-      "id": 10,
-      "type": "regular",
-      "clue": "The day that returns once every 365 days to remind you of your existence",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 11,
-      "type": "regular",
-      "clue": "An annual tradition where people sing an awkward song to you",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 12,
-      "type": "regular",
-      "clue": "The one occasion when you're the main character",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 13,
-      "type": "regular",
-      "clue": "A yearly celebration of the day you entered the world",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 14,
-      "type": "regular",
-      "clue": "The day you're allowed to be selfish and everyone accepts it",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 15,
-      "type": "regular",
-      "clue": "An annual event that gets progressively more depressing with age",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 16,
-      "type": "regular",
-      "clue": "The special day when your birth is commemorated",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 17,
-      "type": "regular",
-      "clue": "An excuse to throw a party once a year",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 18,
-      "type": "regular",
-      "clue": "When you blow out candles and pretend your wish might actually happen",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 19,
-      "type": "regular",
-      "clue": "The day society expects you to celebrate your own existence",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 20,
-      "type": "regular",
-      "clue": "An annual reminder that you're another year closer to death",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 21,
-      "type": "regular",
-      "clue": "The yearly event where you receive gifts for being alive",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 22,
-      "type": "regular",
-      "clue": "A special day when strangers on social media pretend to care",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 23,
-      "type": "regular",
-      "clue": "When you rank up your age counter",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 24,
-      "type": "regular",
-      "clue": "The occasion when 'it's all about you' isn't just a phrase",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 25,
-      "type": "regular",
-      "clue": "An annual celebration of not having died yet",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 26,
-      "type": "regular",
-      "clue": "The day marked on your driver's license that makes you legally older",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 27,
-      "type": "regular",
-      "clue": "A yearly event where your birth is treated as newsworthy",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 28,
-      "type": "regular",
-      "clue": "When presents wrap around you like a warm hug",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 29,
-      "type": "regular",
-      "clue": "The annual guarantee that you'll be the center of attention",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 30,
-      "type": "regular",
-      "clue": "A once-a-year occasion for guilt-free self-indulgence",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 31,
-      "type": "cah",
-      "clue": "The annual tradition where people sing an off-key song while you contemplate mortality",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 32,
-      "type": "cah",
-      "clue": "What Instagram uses to manipulate you into believing people actually remember",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 33,
-      "type": "cah",
-      "clue": "The one day your parents won't let you forget they suffered through labor",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 34,
-      "type": "cah",
-      "clue": "What cake and candles distract you from the existential dread of aging",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 35,
-      "type": "cah",
-      "clue": "The annual reminder that you're running out of time and people know how old you are now",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 36,
-      "type": "cah",
-      "clue": "What's marked in red on everyone's phone but they'll still forget unless notified",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 37,
-      "type": "cah",
-      "clue": "The social media event that generates fake affection from 300 distant acquaintances",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 38,
-      "type": "cah",
-      "clue": "What turns grown adults into people who sing while you die inside",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 39,
-      "type": "cah",
-      "clue": "The once-yearly excuse to demand people show up and validate your existence",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 40,
-      "type": "cah",
-      "clue": "What makes your parents regret not having you on a leap year",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 41,
-      "type": "cah",
-      "clue": "The annual phenomenon where people pretend the cake doesn't taste like sadness and sugar",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 42,
-      "type": "cah",
-      "clue": "What transforms a regular Tuesday into a forced celebration of your slow decay",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 43,
-      "type": "cah",
-      "clue": "The day when blowing out candles symbolizes all your wasted wishes from last year",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 44,
-      "type": "cah",
-      "clue": "What turns you into the main character for 24 hours before returning to obscurity",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 45,
-      "type": "cah",
-      "clue": "The annual event that proves time is a merciless construct and you're losing",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 46,
-      "type": "cah",
-      "clue": "What LinkedIn uses to algorithmically remind everyone that you still exist",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 47,
-      "type": "cah",
-      "clue": "The day you're contractually obligated to pretend getting older is exciting",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 48,
-      "type": "cah",
-      "clue": "What your coworkers remember because HR sent a calendar notification",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 49,
-      "type": "cah",
-      "clue": "The one occasion when people are legally required to pretend you haven't aged 10 years since last party",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 50,
-      "type": "cah",
-      "clue": "What proves TikTok knows everything about you by suggesting the perfect gift",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 51,
-      "type": "cah",
-      "clue": "The annual reminder that another year of student loans, rent, and anxiety has passed",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 52,
-      "type": "cah",
-      "clue": "What makes your friend group act like they didn't forget until midnight",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 53,
-      "type": "cah",
-      "clue": "The day you receive gifts that are either thoughtful or something from Target's clearance bin",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 54,
-      "type": "cah",
-      "clue": "What your dog doesn't understand but eats the cake anyway",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 55,
-      "type": "cah",
-      "clue": "The social media moment when your mom posts the most embarrassing photo from 1997",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 56,
-      "type": "cah",
-      "clue": "What transforms a regular day into mandatory fun with people you tolerate",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 57,
-      "type": "cah",
-      "clue": "The annual occurrence that proves your parents' contraceptive failure is worth celebrating",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 58,
-      "type": "cah",
-      "clue": "What makes you wonder if you'll actually use that gift or if it'll sit in a closet",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 59,
-      "type": "cah",
-      "clue": "The day when candles cost more than the cake but nobody questions it",
-      "answer": "Your birthday"
-    },
-    {
-      "id": 60,
-      "type": "cah",
-      "clue": "What proves that a year has passed by how many people forgot to text you until 11:59pm",
-      "answer": "Your birthday"
-    }
-  ],
-  "metadata": {
-    "total_clues": 60,
-    "regular_clues": 30,
-    "cah_clues": 30,
-    "style": "CAH_STYLE_GUIDE_2025",
-    "theme": "birthdays_annual_celebration",
-    "created": "2026-01-01"
+  "category_id": "birthday_special_day",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The one day per year when you can demand cake for breakfast",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual event where your age officially increases by one",
+        "correctQuestion": "Birthday",
+        "value": 200
+      },
+      {
+        "clue": "A celebration marking the anniversary of your birth",
+        "correctQuestion": "Birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day when everyone is legally obligated to say nice things about you",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "An excuse to eat an entire cake without judgment",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The only day you can guilt-trip friends into giving you presents",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "An annual reminder that you're getting older",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The celebration where candles on a cake represent your age",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "When you make a wish, blow out candles, and hope it comes true",
+        "correctQuestion": "Birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day that returns once every 365 days to remind you of your existence",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "An annual tradition where people sing an awkward song to you",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The one occasion when you're the main character",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "A yearly celebration of the day you entered the world",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day you're allowed to be selfish and everyone accepts it",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "An annual event that gets progressively more depressing with age",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The special day when your birth is commemorated",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "An excuse to throw a party once a year",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "When you blow out candles and pretend your wish might actually happen",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day society expects you to celebrate your own existence",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "An annual reminder that you're another year closer to death",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The yearly event where you receive gifts for being alive",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "A special day when strangers on social media pretend to care",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "When you rank up your age counter",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The occasion when 'it's all about you' isn't just a phrase",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "An annual celebration of not having died yet",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day marked on your driver's license that makes you legally older",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "A yearly event where your birth is treated as newsworthy",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "When presents wrap around you like a warm hug",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual guarantee that you'll be the center of attention",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "A once-a-year occasion for guilt-free self-indulgence",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual tradition where people sing an off-key song while you contemplate mortality",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What Instagram uses to manipulate you into believing people actually remember",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The one day your parents won't let you forget they suffered through labor",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What cake and candles distract you from the existential dread of aging",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual reminder that you're running out of time and people know how old you are now",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What's marked in red on everyone's phone but they'll still forget unless notified",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The social media event that generates fake affection from 300 distant acquaintances",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What turns grown adults into people who sing while you die inside",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The once-yearly excuse to demand people show up and validate your existence",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What makes your parents regret not having you on a leap year",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual phenomenon where people pretend the cake doesn't taste like sadness and sugar",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What transforms a regular Tuesday into a forced celebration of your slow decay",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day when blowing out candles symbolizes all your wasted wishes from last year",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What turns you into the main character for 24 hours before returning to obscurity",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual event that proves time is a merciless construct and you're losing",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What LinkedIn uses to algorithmically remind everyone that you still exist",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day you're contractually obligated to pretend getting older is exciting",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What your coworkers remember because HR sent a calendar notification",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The one occasion when people are legally required to pretend you haven't aged 10 years since last party",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What proves TikTok knows everything about you by suggesting the perfect gift",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual reminder that another year of student loans, rent, and anxiety has passed",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What makes your friend group act like they didn't forget until midnight",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day you receive gifts that are either thoughtful or something from Target's clearance bin",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What your dog doesn't understand but eats the cake anyway",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The social media moment when your mom posts the most embarrassing photo from 1997",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What transforms a regular day into mandatory fun with people you tolerate",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The annual occurrence that proves your parents' contraceptive failure is worth celebrating",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What makes you wonder if you'll actually use that gift or if it'll sit in a closet",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "The day when candles cost more than the cake but nobody questions it",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      },
+      {
+        "clue": "What proves that a year has passed by how many people forgot to text you until 11:59pm",
+        "correctQuestion": "Your birthday",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
   }
 }

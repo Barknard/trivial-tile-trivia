@@ -1,400 +1,163 @@
 {
   "category": "New Year Wishes",
-  "description": "Regular and Cards Against Humanity style clues about New Year wishes, making wishes, and hoping for change",
-  "version": "1.0",
-  "generated_date": "2026-01-02",
-  "regular_clues": [
-    {
-      "id": "ny_001",
-      "clue": "The midnight moment when anything seems possible",
-      "answer": "New Year's Eve",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_002",
-      "clue": "A fresh start that happens once a year",
-      "answer": "New Year",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_003",
-      "clue": "You make these on January 1st but break them by February",
-      "answer": "New Year's resolutions",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_004",
-      "clue": "The countdown that marks the official beginning of a new year",
-      "answer": "New Year's Eve countdown",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_005",
-      "clue": "The silent hope people make as the clock strikes twelve",
-      "answer": "New Year's wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_006",
-      "clue": "The tradition of crossing off dates until the next major celebration",
-      "answer": "Calendar marking",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_007",
-      "clue": "Champagne bubbles rising at the stroke of midnight",
-      "answer": "New Year's toast",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_008",
-      "clue": "The number that represents a fresh start in numerology",
-      "answer": "The number 1",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_009",
-      "clue": "The month where gym memberships spike and then decline",
-      "answer": "January",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_010",
-      "clue": "The personal goals we set but rarely achieve",
-      "answer": "New Year's resolutions",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_011",
-      "clue": "The feeling that this year will be different",
-      "answer": "Hope",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_012",
-      "clue": "The time people promise to change their habits",
-      "answer": "New Year",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_013",
-      "clue": "What you hope the next twelve months will bring",
-      "answer": "Good fortune",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_014",
-      "clue": "The list you write but rarely revisit",
-      "answer": "New Year's resolutions",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_015",
-      "clue": "The night when strangers kiss and hug",
-      "answer": "New Year's Eve",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_016",
-      "clue": "The promise to yourself at midnight",
-      "answer": "New Year's resolution",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_017",
-      "clue": "The glass you raise at 11:59 PM",
-      "answer": "Champagne flute",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_018",
-      "clue": "When you vow to hit the gym five times a week",
-      "answer": "New Year's resolution",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_019",
-      "clue": "The arbitrary date when everyone thinks they'll change",
-      "answer": "January 1st",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_020",
-      "clue": "The period when people actively pursue their goals",
-      "answer": "Early January",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_021",
-      "clue": "The moment when you set intentions for the year ahead",
-      "answer": "New Year's planning",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_022",
-      "clue": "The ancient tradition of making vows to improve oneself",
-      "answer": "New Year's resolutions",
-      "difficulty": "hard"
-    },
-    {
-      "id": "ny_023",
-      "clue": "The belief that a new year brings new opportunities",
-      "answer": "Hope for change",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_024",
-      "clue": "The quiet moment before the year officially begins",
-      "answer": "Midnight on New Year's Eve",
-      "difficulty": "hard"
-    },
-    {
-      "id": "ny_025",
-      "clue": "What the clock represents when it turns over",
-      "answer": "A fresh start",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_026",
-      "clue": "The collective desire for improvement on January 1st",
-      "answer": "New Year's spirit",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_027",
-      "clue": "The tradition of reviewing the past year",
-      "answer": "Year in review",
-      "difficulty": "medium"
-    },
-    {
-      "id": "ny_028",
-      "clue": "What January first symbolizes for many cultures",
-      "answer": "New beginning",
-      "difficulty": "easy"
-    },
-    {
-      "id": "ny_029",
-      "clue": "The secret hopes we wish upon the changing year",
-      "answer": "Personal wishes",
-      "difficulty": "hard"
-    },
-    {
-      "id": "ny_030",
-      "clue": "The moment when 365 days of possibilities await you",
-      "answer": "New Year's beginning",
-      "difficulty": "hard"
-    }
-  ],
-  "cah_clues": [
-    {
-      "id": "cah_ny_001",
-      "clue": "What millennials actually wish for on New Year's Eve",
-      "answer": "Affordable housing and mental health therapy",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_002",
-      "clue": "The New Year's resolution that fails faster than anything else",
-      "answer": "Going to the gym regularly",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_003",
-      "clue": "What your New Year's wish reveals about your life",
-      "answer": "That you're basically unhappy right now",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_004",
-      "clue": "The tradition where we pretend January 1st is magical",
-      "answer": "Making New Year's resolutions",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_005",
-      "clue": "What gym owners wish for every New Year",
-      "answer": "Overconfident people who won't show up by February",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_006",
-      "clue": "The first thing you'll break this year",
-      "answer": "Your New Year's resolution",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_007",
-      "clue": "What your New Year's wish really translates to",
-      "answer": "Please let next year suck less than this one",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_008",
-      "clue": "The lie you tell yourself every January 1st",
-      "answer": "This year will be different",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_009",
-      "clue": "Why people actually make New Year's resolutions",
-      "answer": "To feel like they have some control over their lives",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_010",
-      "clue": "The real reason gym memberships spike in January",
-      "answer": "People with crushing self-doubt and disposable income",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_011",
-      "clue": "What parents wish for their kids on New Year's Eve",
-      "answer": "That they move out soon",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_012",
-      "clue": "The social media challenge that actually works every year",
-      "answer": "Pretending to transform your life on January 1st",
-      "difficulty": "hard",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_013",
-      "clue": "What TikTok will be filled with on January 1st",
-      "answer": "People vowing to become fit and productive",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_014",
-      "clue": "The one wish that never comes true for office workers",
-      "answer": "Finally leaving this miserable job",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_015",
-      "clue": "What your ex wishes for you on New Year's",
-      "answer": "That you develop taste and self-respect",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_016",
-      "clue": "The most honest New Year's resolution",
-      "answer": "To cope better with my problems through avoidance",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_017",
-      "clue": "What you're actually wishing for at midnight",
-      "answer": "That the next year won't be as disastrous as this one",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_018",
-      "clue": "The New Year's resolution politicians make",
-      "answer": "To break fewer promises this year",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_019",
-      "clue": "What your dating app profile suggests about your wishes",
-      "answer": "That you're desperately unhappy and lonely",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_020",
-      "clue": "The reality behind champagne toasts at midnight",
-      "answer": "Everyone's hoping this year doesn't go to hell",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_021",
-      "clue": "What Instagram influencers wish for on New Year's Eve",
-      "answer": "More followers and sponsorship deals",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_022",
-      "clue": "The universal New Year's wish that defines the human condition",
-      "answer": "That things will finally get better",
-      "difficulty": "hard",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_023",
-      "clue": "What corporations are wishing for your New Year's resolution",
-      "answer": "That you spend money trying to improve yourself",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_024",
-      "clue": "The only New Year's wish that actually comes true",
-      "answer": "That you'll forget you made this resolution by February",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_025",
-      "clue": "What motivational speakers wish for on your New Year",
-      "answer": "That you buy their course on life transformation",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_026",
-      "clue": "The real reason people countdown to midnight",
-      "answer": "To feel like something meaningful is happening",
-      "difficulty": "hard",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_027",
-      "clue": "What your drunk friend's New Year's wish actually is",
-      "answer": "To not text their ex this time",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_028",
-      "clue": "The New Year's wish your therapist hears most often",
-      "answer": "That their family wasn't so dysfunctional",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_ny_029",
-      "clue": "What cryptocurrency bros are wishing for in the New Year",
-      "answer": "Another bull run to brag about on Twitter",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_ny_030",
-      "clue": "The beautiful lie we tell ourselves every January 1st",
-      "answer": "That we can change fundamental aspects of ourselves overnight",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    }
-  ]
+  "theme": "newyear",
+  "category_id": "newyear_wishes",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The midnight moment when anything seems possible",
+        "correctQuestion": "New Year's Eve",
+        "value": 200
+      },
+      {
+        "clue": "A fresh start that happens once a year",
+        "correctQuestion": "New Year",
+        "value": 200
+      },
+      {
+        "clue": "You make these on January 1st but break them by February",
+        "correctQuestion": "New Year's resolutions",
+        "value": 200
+      },
+      {
+        "clue": "The countdown that marks the official beginning of a new year",
+        "correctQuestion": "New Year's Eve countdown",
+        "value": 200
+      },
+      {
+        "clue": "The silent hope people make as the clock strikes twelve",
+        "correctQuestion": "New Year's wish",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of crossing off dates until the next major celebration",
+        "correctQuestion": "Calendar marking",
+        "value": 200
+      },
+      {
+        "clue": "Champagne bubbles rising at the stroke of midnight",
+        "correctQuestion": "New Year's toast",
+        "value": 200
+      },
+      {
+        "clue": "The number that represents a fresh start in numerology",
+        "correctQuestion": "The number 1",
+        "value": 200
+      },
+      {
+        "clue": "The month where gym memberships spike and then decline",
+        "correctQuestion": "January",
+        "value": 200
+      },
+      {
+        "clue": "The personal goals we set but rarely achieve",
+        "correctQuestion": "New Year's resolutions",
+        "value": 200
+      },
+      {
+        "clue": "The feeling that this year will be different",
+        "correctQuestion": "Hope",
+        "value": 200
+      },
+      {
+        "clue": "The time people promise to change their habits",
+        "correctQuestion": "New Year",
+        "value": 200
+      },
+      {
+        "clue": "What you hope the next twelve months will bring",
+        "correctQuestion": "Good fortune",
+        "value": 200
+      },
+      {
+        "clue": "The list you write but rarely revisit",
+        "correctQuestion": "New Year's resolutions",
+        "value": 200
+      },
+      {
+        "clue": "The night when strangers kiss and hug",
+        "correctQuestion": "New Year's Eve",
+        "value": 200
+      },
+      {
+        "clue": "The promise to yourself at midnight",
+        "correctQuestion": "New Year's resolution",
+        "value": 200
+      },
+      {
+        "clue": "The glass you raise at 11:59 PM",
+        "correctQuestion": "Champagne flute",
+        "value": 200
+      },
+      {
+        "clue": "When you vow to hit the gym five times a week",
+        "correctQuestion": "New Year's resolution",
+        "value": 200
+      },
+      {
+        "clue": "The arbitrary date when everyone thinks they'll change",
+        "correctQuestion": "January 1st",
+        "value": 200
+      },
+      {
+        "clue": "The period when people actively pursue their goals",
+        "correctQuestion": "Early January",
+        "value": 200
+      },
+      {
+        "clue": "The moment when you set intentions for the year ahead",
+        "correctQuestion": "New Year's planning",
+        "value": 200
+      },
+      {
+        "clue": "The ancient tradition of making vows to improve oneself",
+        "correctQuestion": "New Year's resolutions",
+        "value": 200
+      },
+      {
+        "clue": "The belief that a new year brings new opportunities",
+        "correctQuestion": "Hope for change",
+        "value": 200
+      },
+      {
+        "clue": "The quiet moment before the year officially begins",
+        "correctQuestion": "Midnight on New Year's Eve",
+        "value": 200
+      },
+      {
+        "clue": "What the clock represents when it turns over",
+        "correctQuestion": "A fresh start",
+        "value": 200
+      },
+      {
+        "clue": "The collective desire for improvement on January 1st",
+        "correctQuestion": "New Year's spirit",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of reviewing the past year",
+        "correctQuestion": "Year in review",
+        "value": 200
+      },
+      {
+        "clue": "What January first symbolizes for many cultures",
+        "correctQuestion": "New beginning",
+        "value": 200
+      },
+      {
+        "clue": "The secret hopes we wish upon the changing year",
+        "correctQuestion": "Personal wishes",
+        "value": 200
+      },
+      {
+        "clue": "The moment when 365 days of possibilities await you",
+        "correctQuestion": "New Year's beginning",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

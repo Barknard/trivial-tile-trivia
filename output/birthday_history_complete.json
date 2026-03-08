@@ -1,1269 +1,915 @@
 {
-  "categoryId": "birthday_history",
-  "categoryName": "Birthday Through Time",
-  "categoryDescription": "Origins and historical traditions of birthday celebrations from ancient times to modern era",
-  "ageSuitability": ["kids_4_under", "kids_10_under", "teenagers", "adults", "no_humanity"],
-  "researchAlignment": "Historical analysis - timeline evolution, cultural anthropology, civilization development",
-  "questions": [
-    {
-      "audience": "kids_4_under",
-      "clue": "A long, long time ago, the very first birthday cakes had these hot sticks on top instead of decorations.",
-      "correctQuestion": "What are candles?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In ancient Egypt, kings called these 'Pharaohs' were the first people to have birthday celebrations.",
-      "correctQuestion": "What are Pharaohs?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "A very long time ago in Greece, they sang songs to the Moon Goddess on her birthday - her name was this.",
-      "correctQuestion": "Who is Artemis?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Long ago, people made cakes out of honey and this grain when someone had a birthday.",
-      "correctQuestion": "What is wheat?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Before birthday cakes, ancient Greeks made cakes shaped like this bright circle in the sky.",
-      "correctQuestion": "What is the moon?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In medieval times, people celebrated the day of the person they were named after instead of their real birthday - this was called their.",
-      "correctQuestion": "What is a name day?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Only the richest people like kings and queens had birthday parties in the Middle Ages - regular people could not have these.",
-      "correctQuestion": "What is a birthday celebration?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In the 1700s in Germany, kids had parties called this special name where they got cake and candles.",
-      "correctQuestion": "What is Kinderfest?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "A long time ago, the number of candles on a birthday cake showed how many years old you were - this is still done today.",
-      "correctQuestion": "What is your age?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "When you blow out all the candles in one breath, you make a special wish - people believed this magic came from this ancient practice.",
-      "correctQuestion": "What is blowing out candles?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In ancient Rome, only this type of person had public birthday celebrations - women had to wait thousands of years.",
-      "correctQuestion": "What is a man?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "The song 'Happy Birthday' came from America in the early 1900s - before that, people sang this at parties instead.",
-      "correctQuestion": "What is a different song?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Birthday cards were invented in this country in 1870 because of a new invention that could print lots of copies.",
-      "correctQuestion": "What is England?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Poor children in the 1800s didn't have birthday parties - they were just given this special food at dinner instead.",
-      "correctQuestion": "What is a cake?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In medieval Europe, instead of getting birthday gifts, people wore magical charms to protect them from this bad thing.",
-      "correctQuestion": "What are evil spirits?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The earliest known birthday celebration dates back approximately 3,000 years to this ancient civilization that worshipped Pharaohs as gods.",
-      "correctQuestion": "What is ancient Egypt?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "When Egyptian Pharaohs became rulers, they weren't celebrating their birth date - they were celebrating this religious transformation.",
-      "correctQuestion": "What is their rebirth as a god?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Ancient Greeks copied birthday traditions from Egypt but dedicated their cakes and candles to honor this goddess of the moon.",
-      "correctQuestion": "Who is Artemis?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "In ancient Greece, the moon-shaped birthday cakes were called these and were offered as tribute to the gods.",
-      "correctQuestion": "What are oblation cakes?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Romans invented a special birthday cake for people turning 50 made with wheat flour, honey, and grated cheese - this mixture created what kind of cake?",
-      "correctQuestion": "What is a cheese cake?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The Romans were the first civilization to celebrate birthdays for regular citizens rather than just gods and rulers - they also created this government tradition.",
-      "correctQuestion": "What are public holidays for famous citizens' birthdays?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "During the Middle Ages in Europe, the Christian Church discouraged birthday celebrations because they believed the tradition came from these ancient practices.",
-      "correctQuestion": "What are pagan customs?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "In medieval times, most Europeans didn't celebrate their birth date - instead they celebrated their feast day, which honored this important religious person.",
-      "correctQuestion": "What is a saint?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Medieval nobility celebrated birthdays with elaborate feasts and entertainment by traveling musicians called this.",
-      "correctQuestion": "What are troubadours?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "During medieval times, people believed wearing special items on your birthday could protect you from these supernatural beings.",
-      "correctQuestion": "What are evil spirits?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The German festival of Kinderfest in the 18th century is the direct ancestor of what modern celebration?",
-      "correctQuestion": "What is the children's birthday party?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "One of the first documented uses of candles on a birthday cake occurred in 1746 when this German count held a lavish celebration.",
-      "correctQuestion": "Who is Count Ludwig von Zinzendorf?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The first written record of people blowing out candles on a cake comes from this country in 1881.",
-      "correctQuestion": "What is Switzerland?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "German immigrants brought the birthday candle tradition to America in the 1800s - what popular brand later helped spread it worldwide?",
-      "correctQuestion": "What is Hallmark?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Between 1900 and 1920, birthday candles became the norm among the middle class in these two countries.",
-      "correctQuestion": "What are the United States and United Kingdom?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "After World War II, American companies exported the birthday candle tradition globally through tourism and children's media - this was an example of what type of cultural spread?",
-      "correctQuestion": "What is cultural imperialism or Americanization?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Japan adopted the Western birthday cake and candle tradition in the 1950s after being influenced by this post-war presence.",
-      "correctQuestion": "What is American occupation or American culture?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "In 19th century America, children's birthday parties were started by this social and religious group of wealthy families.",
-      "correctQuestion": "What are wealthy Protestant families?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "During the Great Depression in the 1930s, most children's birthday celebrations were limited to this simple tradition at family dinner.",
-      "correctQuestion": "What is a special cake?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The tradition of 'sweet sixteen' parties became popular in the 1920s as a middle-class alternative to this upper-class ceremony for young women.",
-      "correctQuestion": "What is a debutante ball?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "When birthday celebrations began to emphasize age-appropriate games and activities in the 1950s, parties became more focused on inviting this group of people.",
-      "correctQuestion": "What are age peers or children the same age?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Starting in the 1980s, birthday parties moved out of homes and into commercial venues - this created a whole new type of business in the party industry.",
-      "correctQuestion": "What is a party service or entertainment company?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The song 'Happy Birthday' originated in this country during the early 1900s.",
-      "correctQuestion": "What is the United States?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Ptolemaic Egypt (305-30 BCE) is when birthday feasts for Pharaohs became historically documented, challenging the theory that this practice dates to 3000 BCE.",
-      "correctQuestion": "What is the earlier dating of birthday celebrations?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The ancient Egyptian concept of birthday celebration conflated cosmological rebirth with political legitimization - Pharaohs celebrated their 'birth' as this, not their actual nativity.",
-      "correctQuestion": "What is divine incarnation or godhood?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Ancient Greek birthday practices demonstrated mythological syncretism by offering moon-shaped cakes to Artemis, which combined fertility symbolism with this celestial metaphor.",
-      "correctQuestion": "What is lunar goddess worship or female divinity?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Roman birthday celebrations for non-elites represented a paradigm shift in civilization toward this philosophical principle emphasizing individual worth.",
-      "correctQuestion": "What is humanism or individual personhood?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The exclusion of women from Roman birthday celebrations persisted until the 12th century - this restriction reflected the prevailing social hierarchy based on this factor.",
-      "correctQuestion": "What is patriarchal authority or gender inequality?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Medieval Christianity's suppression of birthday celebrations reflected a broader theological concern about this type of observance derived from pre-Christian cultures.",
-      "correctQuestion": "What are pagan rituals or polytheistic practices?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The substitution of saint's feast days for birthdays in medieval Europe demonstrated how religious institutions attempted to appropriate and Christianize this aspect of secular life.",
-      "correctQuestion": "What is individual celebration or personal identity?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Kinderfest traditions in 18th-century Germany emerged during the Enlightenment when childhood began to be conceptualized as this distinct developmental stage.",
-      "correctQuestion": "What is a separate period requiring unique treatment?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The German practice of placing candles on birthday cakes, with quantity corresponding to age, represented what type of symbolic communication?",
-      "correctQuestion": "What is numerical representation of chronological time?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The belief that candles' smoke carried prayers to gods and fire warded off evil spirits reflects which human cultural phenomenon?",
-      "correctQuestion": "What is magical thinking or animistic belief?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The ritual of blowing out candles while making a silent wish combines elements of this type of magic with the mechanistic aspect of physical action.",
-      "correctQuestion": "What is sympathetic magic or transactional magic?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Between 1900-1920, the normalization of age-appropriate candles on birthday cakes in America represented the spread of what concept?",
-      "correctQuestion": "What is standardization or mass production?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The post-WWII global dissemination of birthday candle traditions through media and consumer culture exemplified what process of cultural change?",
-      "correctQuestion": "What is cultural diffusion or globalization?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The emergence of Kinderfest in Germany signaled a shift from what type of society to one valuing individualism and childhood?",
-      "correctQuestion": "What is collective or communal society?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "19th-century American birthday parties began as instruments of socialization, teaching middle-class children these behaviors through structured celebration.",
-      "correctQuestion": "What are etiquette and social propriety?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The restriction of birthday parties to wealthy Protestant families in 1830s America reflected what type of demographic advantage?",
-      "correctQuestion": "What is economic and cultural capital?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Early 19th-century birthday parties in America could include as many as 40 children and were primarily celebrations for this gender.",
-      "correctQuestion": "What is girls or females?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The transformation of birthday parties from formal home events to commercialized destination experiences represents what broader sociological trend?",
-      "correctQuestion": "What is the commodification of childhood or consumer culture?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Poor and immigrant children in 19th-century America did not have birthday parties until the 20th century - this pattern illustrates what concept?",
-      "correctQuestion": "What is unequal access to cultural practices or class stratification?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The democratization of birthday celebrations over the 19th-20th centuries paralleled broader historical trends toward this principle.",
-      "correctQuestion": "What is egalitarianism or universal rights?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The printing industry's innovation in the 19th century enabled the creation and distribution of birthday cards, exemplifying technology's role in this process.",
-      "correctQuestion": "What is cultural transmission or mass communication?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The composition of early Roman birthday cakes (flour, olive oil, grated cheese, honey) reflected the agricultural products available in this geographical region.",
-      "correctQuestion": "What is the Mediterranean?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The shift from male-only to inclusive birthday celebrations in Roman times reflected changing attitudes toward what social concept?",
-      "correctQuestion": "What is personhood or individual identity?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Medieval German beliefs about adults protecting children through birthday celebrations reflected what type of worldview?",
-      "correctQuestion": "What is supernatural or spirit-based cosmology?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The concept of 'age-appropriate' parties emerging in the 1950s reflected developmental psychology's influence on this institution.",
-      "correctQuestion": "What is childhood or education?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Archaeological evidence suggests that the ideological construction of Pharaonic birthday celebrations served what political function in maintaining dynastic legitimacy?",
-      "correctQuestion": "What is divine right justification for absolute monarchy?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The Greek adaptation of Egyptian birthday traditions through Artemisian moon cakes demonstrates the mechanism of cultural adoption - specifically, what process?",
-      "correctQuestion": "What is religious syncretism or cultural appropriation?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Roman birthday celebrations for non-elites during the Imperial period represented an expansion of civic identity - this reflected which historical development?",
-      "correctQuestion": "What is the evolution from honor-based to fame-based social status?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The exclusion of women from formal birthday celebrations in Rome until the 12th century paralleled broader patterns of what systemic phenomenon?",
-      "correctQuestion": "What is institutionalized gender subordination or patriarchal control?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Medieval Christianity's suppression of birthday observances reflected a theological framework that viewed personal celebration as what kind of transgression?",
-      "correctQuestion": "What is vanity, pride, or idolatry?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The substitution of Christian feast days for birth celebrations demonstrates what anthropological principle about religious institutions?",
-      "correctQuestion": "What is the co-optation of indigenous practices to maintain hegemonic control?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The emergence of Kinderfest in Enlightenment-era Germany coincided with what philosophical movement's emphasis on individualism?",
-      "correctQuestion": "What is the Age of Reason or Enlightenment philosophy?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The ritualized practice of blowing out candles while making silent wishes represents what psychological mechanism?",
-      "correctQuestion": "What is symbolic action as a means of wish fulfillment or magical thinking as cognitive coping?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The belief that candle smoke carries prayers to deities reflects what religious anthropological concept?",
-      "correctQuestion": "What is the transmission of supplication through material intermediaries or sympathetic magic?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "19th-century American birthday parties functioned as mechanisms of socialization specific to what social strata?",
-      "correctQuestion": "What is the emerging urban middle class?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The concentration of children's birthday parties among wealthy Protestant families in antebellum America reflected what form of social distinction?",
-      "correctQuestion": "What is the deployment of cultural capital to maintain class boundaries?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Early American birthday parties emphasized female attendance and social etiquette - this gender emphasis served what sociological function?",
-      "correctQuestion": "What is the reproduction of gendered social hierarchies through childhood enculturation?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The diffusion of birthday celebrations from elite to working-class families over the 20th century exemplifies what historical process?",
-      "correctQuestion": "What is the democratization of consumption or cultural leveling?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The Great Depression's limitation of birthday celebrations to simple cakes demonstrates what principle about economic constraint and cultural practice?",
-      "correctQuestion": "What is the economic determination of cultural consumption patterns?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The emergence of 'sweet sixteen' parties as middle-class alternatives to debutante balls represents what type of social innovation?",
-      "correctQuestion": "What is the democratization of coming-of-age rituals?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Post-WWII global adoption of Western birthday traditions through American popular culture exemplifies what theoretical framework?",
-      "correctQuestion": "What is soft power or cultural imperialism?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The transition of birthday celebrations from informal home-based events to commercialized entertainment venues represents what economic transformation?",
-      "correctQuestion": "What is the financialization of intimacy or the commodification of childhood?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The printing industry's role in popularizing birthday cards in the 19th century enabled what mechanism of cultural standardization?",
-      "correctQuestion": "What is the mass production and distribution of sentimental expression?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The composition of Roman birthday cakes with regional Mediterranean ingredients demonstrates what principle of cultural practice?",
-      "correctQuestion": "What is the embodiment of ecological and economic context in ritual forms?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Medieval European beliefs in protective amulets for birthdays reflect what cognitive framework about human vulnerability?",
-      "correctQuestion": "What is magical thinking as a response to existential uncertainty?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The 1950s emphasis on age-appropriate parties reflected which developmental psychology movement's influence on parenting practices?",
-      "correctQuestion": "What is the child-centered approach or progressive education movement?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The transformation of birthday parties from formal adult-controlled events to child-influenced informal gatherings reflects what broader social change?",
-      "correctQuestion": "What is the shift toward child agency and autonomy in family decision-making?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "German immigrants' transmission of birthday candle traditions to America demonstrates what anthropological mechanism?",
-      "correctQuestion": "What is the maintenance of ethnic cultural practices through diaspora communities?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The delayed adoption of birthday celebrations by immigrant and poor families reflects what structural reality?",
-      "correctQuestion": "What is the intersection of economic deprivation with cultural exclusion?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Construct a triadic homology between ancient Egyptian Pharaonic birthday celebrations, medieval Christian feast days, and modern consumer-driven birthday parties, wherein each serves as a mechanism for legitimizing temporal personhood within their respective epistemological frameworks - what does this genealogy reveal about the relationship between individual identity construction and institutional power?",
-      "correctQuestion": "What is the process of how social institutions codify individual existence through ritualized time-marking?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The evolution from gender-exclusive (male-only Roman) to gender-inclusive birthday celebrations traces an arc of expanding personhood - theorize what conditions enabled this expansion and what structural inequalities may persist despite this formal inclusion.",
-      "correctQuestion": "What is the complex relationship between legal/formal equality and substantive material inequality?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Birthday candles function simultaneously as markers of temporal passage, conduits for magical efficacy, and technological expressions of human civilization - deconstruct this polymorphic nature to analyze what the candle ritual reveals about consciousness and temporality.",
-      "correctQuestion": "What is the dialectical relationship between chronological measurement and existential experience of time?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The silencing wish made while blowing out candles instantiates a paradox - the wish must be unspoken to preserve magical efficacy, yet the ritual requires collective witnessing - what does this contradiction illuminate about the relationship between private intention and public performance?",
-      "correctQuestion": "What is the tension between privacy and community in the performance of identity?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Medieval Christianity's suppression of birthday celebrations while simultaneously Christianizing them through feast days exemplifies what Derridean concept?",
-      "correctQuestion": "What is the trace or the aporia of presence and absence in signification?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The shift from ritual-based to consumer-based birthday celebrations represents a transition from what Weberian category to another - explicate this transformation as a shift in the rationalization of human experience.",
-      "correctQuestion": "What is the shift from substantive to instrumental rationality in the commodification of ritual?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "German Kinderfest traditions emerged precisely when Enlightenment philosophy constructed childhood as a separate developmental category - analyze what this synchronicity reveals about the relationship between philosophical abstraction and material social practice.",
-      "correctQuestion": "What is the mutual constitution of ideology and practice in social institution formation?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Post-WWII American diffusion of birthday traditions globally through consumer culture represents what Gramscian concept applied to temporal practice?",
-      "correctQuestion": "What is cultural hegemony or the production of consent through the universal naturalization of particular cultural forms?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The exclusion of women from Roman birthday celebrations persisted until the 12th century despite women's participation in other public rituals - theorize what this selective exclusion suggests about the political economy of personhood.",
-      "correctQuestion": "What is the contingency of rights-bearing status on changing systems of valuation and exchange?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Birthday cake composition mirrors regional agricultural capacity - medieval honey, Roman olive oil, modern industrial sugar - what does this material genealogy reveal about the relationship between ecological constraint and ritual form?",
-      "correctQuestion": "What is the material basis of cultural practice as theorized in historical materialism?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The transformation of birthday parties from large formal adult-controlled events to intimate child-centered informal gatherings between 1920-1950 reflects what shift in pedagogical ontology?",
-      "correctQuestion": "What is the shift from adult-centric to child-centric models of human development and education?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Printing technology enabled mass reproduction of birthday cards, which then enabled what Foucauldian apparatus?",
-      "correctQuestion": "What is the disciplinary production of standardized emotional expression through technological reproduction?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The belief that unspoken wishes made during candle-blowing carry magical efficacy persists despite scientific knowledge refuting magical causation - what cognitive mechanism explains this persistence?",
-      "correctQuestion": "What is cognitive dissonance management or the persistence of magical thinking despite contradictory beliefs?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Medieval protective amulets for birthdays and modern commercial birthday services both promise to mitigate existential vulnerability - what does this homology suggest about underlying anxieties about temporal existence?",
-      "correctQuestion": "What is the fundamental human anxiety about mortality and discontinuity that ritual attempts to contain?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Pharaonic birthday celebrations constructed the monarch as a deity reborn - modern consumer birthday culture constructs the birthday person as temporarily sovereign over consumption decisions - what is the structural relationship between these two forms of ritual sovereignty?",
-      "correctQuestion": "What is the displacement of political sovereignty onto personal consumption in late capitalism?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The practice of guests applauding the candle-blower's wish-making ritual creates a temporal paradox - the community witnesses a private moment - theorize what this embodied practice reveals about the constitution of the modern autonomous subject.",
-      "correctQuestion": "What is the paradoxical requirement that individual interiority be validated through public performance?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Archaeological absence of birthday evidence for non-elite populations until the Roman period suggests what about the relationship between historical visibility and social stratification?",
-      "correctQuestion": "What is the privilege of having one's existence marked in written or material records as a marker of social power?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The numerical representation of age through candle quantity creates what type of symbolic abstraction in the phenomenology of aging?",
-      "correctQuestion": "What is the reduction of continuous temporal experience into discrete countable units as a form of abstraction?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Gender-exclusive birthday practices in Rome eventually yielded to gender-inclusive norms - what does the timeline of this inclusion suggest about the criteria for recognition as a bearer of ritual rights?",
-      "correctQuestion": "What is the contingent historicity of who counts as a subject worthy of ceremonial acknowledgment?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "In ancient Rome, celebrating birthdays was considered a form of what - a display of wealth and status that separated the elite from common citizens?",
-      "correctQuestion": "What is conspicuous consumption or status signaling?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "In ancient Rome, women couldn't celebrate birthdays as a separate event for thousands of years - this changed in what century?",
-      "correctQuestion": "What is the 12th century?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The evolution of birthday celebrations reveals patterns of capital accumulation - wealthy early American families used birthday parties to display this.",
-      "correctQuestion": "What is cultural capital or social standing?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Some people believe making a birthday wish while blowing out candles makes the wish come true - long ago, people believed this wish would travel to the gods through this.",
-      "correctQuestion": "What is smoke?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In very old times, birthday candles weren't just for looks - people believed they had this magical power to protect from bad things.",
-      "correctQuestion": "What is magic?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The Kinderfest tradition shows how Germans valued childhood as a special time deserving celebration - this attitude represented a major shift in thinking about kids during this era.",
-      "correctQuestion": "What is the 18th century or Enlightenment period?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Early American birthday parties in the 1830s had many similarities to modern children's parties, but differed in that they were much more formal and emphasized teaching children these behaviors.",
-      "correctQuestion": "What are manners or social etiquette?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The concept of 'blowing out candles' as carrying wishes to deities originated in cultures that believed what about the natural world?",
-      "correctQuestion": "What is animism or the belief that natural elements have spiritual significance?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The democratization of birthday celebrations across American society occurred through which technological advancement's ability to manufacture and distribute goods?",
-      "correctQuestion": "What is industrial mass production?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "When birthday celebrations transitioned from religious feast days to secular personal celebrations, this represented a broader shift in European thought from this to this.",
-      "correctQuestion": "What is from theocratic to secular worldview?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The tradition of singing 'Happy Birthday' became popular in the early 1900s - before this song existed, people celebrated birthdays in these ways instead.",
-      "correctQuestion": "What are with prayers, feasts, or other songs?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "A very long time ago in Rome, even rich people got special treatment on their birthdays - the government would make it a day off work called this.",
-      "correctQuestion": "What is a holiday?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In medieval times, bad people believed that saying an evil spell or curse on someone's birthday could hurt them - people wore special things to stop this bad magic.",
-      "correctQuestion": "What is a charm or amulet?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Medieval feast days honoring saints alongside suppressed birthday celebrations represented what religious institution's strategy?",
-      "correctQuestion": "What is Christian hegemonic incorporation of pre-Christian practices?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The restriction of birthday parties to wealthy Protestant families before their gradual diffusion demonstrates what about the nature of cultural practices?",
-      "correctQuestion": "What is that cultural practices are tools of class differentiation until democratized through economic access?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The movement of birthday parties out of homes and into businesses during the 1980s shows how this industry saw an opportunity to make money from celebrations.",
-      "correctQuestion": "What is the entertainment industry?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Long ago in ancient times, people didn't have cake mixes or bakeries - they made birthday cakes from basic ingredients like flour, honey, and sometimes this savory ingredient.",
-      "correctQuestion": "What is cheese?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The transition of birthday parties from being inclusive of many guests to emphasizing intimate friend groups in the 1920s reflected what psychological understanding?",
-      "correctQuestion": "What is the recognition of peer groups as primary in adolescent social development?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The opacity of the unspoken wish - its efficacy supposedly dependent on secrecy - creates an epistemological condition where verification is impossible, yet belief persists - what does this structure reveal about the nature of faith versus evidence?",
-      "correctQuestion": "What is the unfalsifiability of magical claims as a guarantee of their perpetuation?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Industrial cake mixes and Betty Crocker advertisements democratized birthday cake production - this exemplifies what marketing phenomenon?",
-      "correctQuestion": "What is the creation of mass consumer desire through targeted advertising?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "When ancient Greeks celebrated Artemis's birthday with moon-shaped cakes, they were honoring what they believed was her connection to this celestial body.",
-      "correctQuestion": "What is the moon?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "The candles on your birthday cake used to be very special - people believed that as you blow them out, the hot air carries something up into the sky.",
-      "correctQuestion": "What are your wishes or prayers?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The Great Depression's impact on birthday celebrations shows that economic conditions directly shape what?",
-      "correctQuestion": "What is access to leisure activities and celebration?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Construct a genealogical analysis of the birthday candle ritual, tracing its movement from pagan fire magic → Christianized in medieval Europe → industrialized in 19th century Germany → mass-produced in 20th century America → globally disseminated post-WWII, to theorize what this reveals about the relationship between technology and ritual persistence.",
-      "correctQuestion": "What is that ritual forms adapt to technological modes while maintaining underlying symbolic functions?",
-      "points": 600,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The Derridean concept of hauntology can be applied to birthday celebrations - the wish that cannot be spoken yet must exist, the celebration that cannot be attended yet is felt - what absent presence structures the modern birthday ritual?",
-      "correctQuestion": "What is the trace of the private within the performance of the collective?",
-      "points": 600,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Medieval suppression of birthdays coupled with promotion of feast days exemplifies what Althusserian concept about how ideological state apparatuses reproduce social relations?",
-      "correctQuestion": "What is ideological state apparatus in the church's regulation of temporal observation and individual recognition?",
-      "points": 600,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The transition from 19th-century formal home birthday parties to 1980s commercialized destination events represents what economic shift?",
-      "correctQuestion": "What is the shift from household-based reproduction to market-dependent service consumption?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Looking at birthday history, we can see that the value society places on individual celebration reflects that culture's understanding of what?",
-      "correctQuestion": "What is personhood or individual worth?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The archaeological evidence shows that birthday celebrations existed in ancient Egypt, but the historians found it hard to date them accurately because writing and records were kept by which group of people?",
-      "correctQuestion": "What is the upper classes or elites?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "A long time ago, people didn't always know exactly how old they were - so when candles were put on the cake, the number helped them remember this.",
-      "correctQuestion": "What is their age?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The practice of age-marking through candle quantity exemplifies what Derridean concept - the reduction of continuous temporal becoming into discrete numerical presence.",
-      "correctQuestion": "What is différance or the trace of temporal continuity in numerical discretization?",
-      "points": 600,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The presence of birthday celebrations exclusively among scribal elites in ancient Egypt while absent from archaeological record of common people exemplifies what historiographical limitation?",
-      "correctQuestion": "What is the bias of written records toward elite activities and the erasure of lower-class histories?",
-      "points": 500,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The fact that women were excluded from birthday celebrations in Rome but later included represents what type of historical change?",
-      "correctQuestion": "What is the expansion of rights and recognition to previously marginalized groups?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "German immigrants brought many traditions to America, including the birthday cake and candle tradition - they shared this at different times in history, with large waves of immigration in what periods?",
-      "correctQuestion": "What is the 1800s and early 1900s?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Before stores sold birthday cakes, families baked them at home - some families added this sweet liquid to make cakes taste better, which was very expensive and special.",
-      "correctQuestion": "What is honey?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The epistemological condition of the silent birthday wish - where effectiveness requires non-disclosure - mirrors what Foucauldian concept about knowledge and power?",
-      "correctQuestion": "What is the productive nature of secrecy in maintaining belief systems resistant to falsification?",
-      "points": 600,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In very ancient times, people called the day you were born this special name.",
-      "correctQuestion": "What is a birthday?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "The very first birthday cakes were not sweet like today's cakes - they had this savory ingredient in them.",
-      "correctQuestion": "What is cheese?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "When you blow out your birthday candles, people clap and cheer to celebrate - this is a tradition that started in these ancient places.",
-      "correctQuestion": "What are Greece and Rome?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "Instead of having a birthday party, medieval children would celebrate this important religious holiday on their saint's day.",
-      "correctQuestion": "What is a feast day?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "In Germany a long time ago, kids got special birthday parties called this - which is where the modern birthday party comes from.",
-      "correctQuestion": "What is Kinderfest?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Ancient Egyptian Pharaohs' birthdays were not celebrated when they were born - instead, they were celebrated when this important event happened.",
-      "correctQuestion": "What is when they became king or became a god?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The ancient Greeks borrowed the idea of birthday celebrations with moon cakes from this civilization.",
-      "correctQuestion": "What is ancient Egypt?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "In ancient Rome, when someone turned 50 years old, they received a very special cake made with ingredients they had available - this was a luxury item that showed they were this social status.",
-      "correctQuestion": "What is wealthy or rich?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "Medieval European Christians didn't like birthday celebrations because they thought it came from these types of religious practices.",
-      "correctQuestion": "What are pagan or non-Christian religions?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The idea of putting candles on a birthday cake and blowing them out comes from beliefs about what kind of element?",
-      "correctQuestion": "What is fire or spiritual purification?",
-      "points": 400,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The earliest documentation of the modern birthday candle tradition on an actual cake comes from this 18th century count's celebration.",
-      "correctQuestion": "Who is Count Ludwig von Zinzendorf?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The practice of modern birthday parties owes most to traditions that developed in this European country during the Enlightenment.",
-      "correctQuestion": "What is Germany?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Written references to blowing out candles on birthday cakes first appear in historical records from this country in 1881.",
-      "correctQuestion": "What is Switzerland?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "By the 1920s, birthday candles had become mainstream in these two English-speaking countries.",
-      "correctQuestion": "What are the United States and United Kingdom?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The distribution of birthday traditions globally after World War II was primarily driven by what factor?",
-      "correctQuestion": "What is American cultural influence or American military presence?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "In 19th century America, birthday parties were mainly accessible to this economic and social group.",
-      "correctQuestion": "What is wealthy or middle class families?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The song 'Happy Birthday' was created in the United States in what time period?",
-      "correctQuestion": "What is the early 1900s or first decade of the 20th century?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "Birthday cards became widely available in the 19th century thanks to advances in what industry?",
-      "correctQuestion": "What is printing or publishing?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "The commercial birthday party industry emerged in this decade as parties moved from homes to business venues.",
-      "correctQuestion": "What is the 1980s?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "teenagers",
-      "clue": "During the Great Depression, most children celebrated their birthday with this simple homemade item after dinner.",
-      "correctQuestion": "What is a special cake?",
-      "points": 300,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The Ptolemaic era dating of Pharaonic birthday celebrations (305-30 BCE) contradicts earlier assumptions - this demonstrates what about historical documentation?",
-      "correctQuestion": "What is the importance of questioning traditional dating and verifying sources?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Roman birthday celebrations for male citizens but not female citizens until the 12th century reflects what about the relationship between ritual and power?",
-      "correctQuestion": "What is that rituals encode and perpetuate social hierarchies?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The medieval Christian church's prohibition of birthday celebrations while simultaneously promoting saint's feast days exemplifies what institutional strategy?",
-      "correctQuestion": "What is the incorporation and transformation of pre-existing practices to maintain institutional authority?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Early 19th-century American birthday parties restricted to wealthy Protestant families demonstrates what about the distribution of cultural practices?",
-      "correctQuestion": "What is that cultural practices emerge from and reinforce specific class positions?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The Great Depression's suppression of birthday celebration access demonstrates what economic principle?",
-      "correctQuestion": "What is that access to ritual and celebration is mediated by economic capacity?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The transition of birthday parties from private home-based rituals to commercialized destination services represents what sociological transformation?",
-      "correctQuestion": "What is the shift from family-centered reproduction to market-mediated consumption?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "Post-WWII Japanese adoption of Western birthday traditions through American occupation and media demonstrates what about cultural change?",
-      "correctQuestion": "What is the power differential between colonizing and colonized cultures in determining which practices spread?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "adults",
-      "clue": "The restriction of early birthday parties to female participants more than males in 19th century America served what socialization function?",
-      "correctQuestion": "What is training in gendered social behavior and middle-class propriety?",
-      "points": 450,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The archaeological silence regarding non-elite birthday celebrations in ancient Egypt illustrates what historiographical principle about the relationship between written records and historical knowledge?",
-      "correctQuestion": "What is the epistemological privilege granted to literate classes in the construction of historical narrative?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The ritual of blowing out candles while making an unspoken wish creates a performative paradox - theorize what this reveals about the relationship between individual interiority and collective recognition.",
-      "correctQuestion": "What is the requirement that private subjectivity be validated through public witnessing?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Medieval belief that candle flames protected against evil spirits, combined with modern understanding that candles are mere chemical reactions, suggests what about the persistence of ritual despite contrary knowledge?",
-      "correctQuestion": "What is the decoupling of ritual efficacy from causal explanation in human belief systems?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The numerical representation of age through candle quantity abstracts continuous lived experience into discrete countable units - what does this process reveal about the nature of temporal consciousness?",
-      "correctQuestion": "What is the imposition of quantitative measurement onto qualitative phenomenological experience?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Construct an analysis of how birthday celebrations across historical periods serve as technologies of subject formation - specifically, analyze what subjectivity each era's celebration produces.",
-      "correctQuestion": "What is that different historical periods produce different types of subjects through their ritualization of individual personhood?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The post-WWII global dissemination of Western birthday traditions through American consumer culture exemplifies what Agambenian concept regarding state power and the regulation of life?",
-      "correctQuestion": "What is biopower or the management of human populations through cultural norms?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "The transition from pagan candle rituals to Christian appropriation to scientific reduction reveals what genealogical truth about Western epistemology?",
-      "correctQuestion": "What is the systematic rationalization and desacralization of pre-industrial practices?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "no_humanity",
-      "clue": "Medieval amulets for birthday protection and modern commercial birthday services both claim to mitigate vulnerability - what does this homology across centuries reveal about persistent existential anxiety?",
-      "correctQuestion": "What is that human vulnerability to temporal contingency generates demand for protective rituals regardless of era?",
-      "points": 550,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_4_under",
-      "clue": "A very long time ago in Rome, if you were a famous person, the government gave your birthday this special name to honor you.",
-      "correctQuestion": "What is a public holiday?",
-      "points": 200,
-      "category": "birthday_history"
-    },
-    {
-      "audience": "kids_10_under",
-      "clue": "The first printed birthday cards were made in England in 1870 - this helped spread birthday celebrations because they made people think about and send wishes to their friends.",
-      "correctQuestion": "What is the printing or mass production of cards?",
-      "points": 400,
-      "category": "birthday_history"
-    }
-  ]
+  "category": "Birthday History",
+  "theme": "birthday",
+  "category_id": "birthday_history_complete",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "A long, long time ago, the very first birthday cakes had these hot sticks on top instead of decorations.",
+        "correctQuestion": "What are candles?",
+        "value": 200
+      },
+      {
+        "clue": "In ancient Egypt, kings called these 'Pharaohs' were the first people to have birthday celebrations.",
+        "correctQuestion": "What are Pharaohs?",
+        "value": 200
+      },
+      {
+        "clue": "A very long time ago in Greece, they sang songs to the Moon Goddess on her birthday - her name was this.",
+        "correctQuestion": "Who is Artemis?",
+        "value": 200
+      },
+      {
+        "clue": "Long ago, people made cakes out of honey and this grain when someone had a birthday.",
+        "correctQuestion": "What is wheat?",
+        "value": 200
+      },
+      {
+        "clue": "Before birthday cakes, ancient Greeks made cakes shaped like this bright circle in the sky.",
+        "correctQuestion": "What is the moon?",
+        "value": 200
+      },
+      {
+        "clue": "In medieval times, people celebrated the day of the person they were named after instead of their real birthday - this was called their.",
+        "correctQuestion": "What is a name day?",
+        "value": 200
+      },
+      {
+        "clue": "Only the richest people like kings and queens had birthday parties in the Middle Ages - regular people could not have these.",
+        "correctQuestion": "What is a birthday celebration?",
+        "value": 200
+      },
+      {
+        "clue": "In the 1700s in Germany, kids had parties called this special name where they got cake and candles.",
+        "correctQuestion": "What is Kinderfest?",
+        "value": 200
+      },
+      {
+        "clue": "A long time ago, the number of candles on a birthday cake showed how many years old you were - this is still done today.",
+        "correctQuestion": "What is your age?",
+        "value": 200
+      },
+      {
+        "clue": "When you blow out all the candles in one breath, you make a special wish - people believed this magic came from this ancient practice.",
+        "correctQuestion": "What is blowing out candles?",
+        "value": 200
+      },
+      {
+        "clue": "In ancient Rome, only this type of person had public birthday celebrations - women had to wait thousands of years.",
+        "correctQuestion": "What is a man?",
+        "value": 200
+      },
+      {
+        "clue": "The song 'Happy Birthday' came from America in the early 1900s - before that, people sang this at parties instead.",
+        "correctQuestion": "What is a different song?",
+        "value": 200
+      },
+      {
+        "clue": "Birthday cards were invented in this country in 1870 because of a new invention that could print lots of copies.",
+        "correctQuestion": "What is England?",
+        "value": 200
+      },
+      {
+        "clue": "Poor children in the 1800s didn't have birthday parties - they were just given this special food at dinner instead.",
+        "correctQuestion": "What is a cake?",
+        "value": 200
+      },
+      {
+        "clue": "In medieval Europe, instead of getting birthday gifts, people wore magical charms to protect them from this bad thing.",
+        "correctQuestion": "What are evil spirits?",
+        "value": 200
+      },
+      {
+        "clue": "The earliest known birthday celebration dates back approximately 3,000 years to this ancient civilization that worshipped Pharaohs as gods.",
+        "correctQuestion": "What is ancient Egypt?",
+        "value": 200
+      },
+      {
+        "clue": "When Egyptian Pharaohs became rulers, they weren't celebrating their birth date - they were celebrating this religious transformation.",
+        "correctQuestion": "What is their rebirth as a god?",
+        "value": 200
+      },
+      {
+        "clue": "Ancient Greeks copied birthday traditions from Egypt but dedicated their cakes and candles to honor this goddess of the moon.",
+        "correctQuestion": "Who is Artemis?",
+        "value": 200
+      },
+      {
+        "clue": "In ancient Greece, the moon-shaped birthday cakes were called these and were offered as tribute to the gods.",
+        "correctQuestion": "What are oblation cakes?",
+        "value": 200
+      },
+      {
+        "clue": "Romans invented a special birthday cake for people turning 50 made with wheat flour, honey, and grated cheese - this mixture created what kind of cake?",
+        "correctQuestion": "What is a cheese cake?",
+        "value": 200
+      },
+      {
+        "clue": "The Romans were the first civilization to celebrate birthdays for regular citizens rather than just gods and rulers - they also created this government tradition.",
+        "correctQuestion": "What are public holidays for famous citizens' birthdays?",
+        "value": 200
+      },
+      {
+        "clue": "During the Middle Ages in Europe, the Christian Church discouraged birthday celebrations because they believed the tradition came from these ancient practices.",
+        "correctQuestion": "What are pagan customs?",
+        "value": 200
+      },
+      {
+        "clue": "In medieval times, most Europeans didn't celebrate their birth date - instead they celebrated their feast day, which honored this important religious person.",
+        "correctQuestion": "What is a saint?",
+        "value": 200
+      },
+      {
+        "clue": "Medieval nobility celebrated birthdays with elaborate feasts and entertainment by traveling musicians called this.",
+        "correctQuestion": "What are troubadours?",
+        "value": 200
+      },
+      {
+        "clue": "During medieval times, people believed wearing special items on your birthday could protect you from these supernatural beings.",
+        "correctQuestion": "What are evil spirits?",
+        "value": 200
+      },
+      {
+        "clue": "The German festival of Kinderfest in the 18th century is the direct ancestor of what modern celebration?",
+        "correctQuestion": "What is the children's birthday party?",
+        "value": 200
+      },
+      {
+        "clue": "One of the first documented uses of candles on a birthday cake occurred in 1746 when this German count held a lavish celebration.",
+        "correctQuestion": "Who is Count Ludwig von Zinzendorf?",
+        "value": 200
+      },
+      {
+        "clue": "The first written record of people blowing out candles on a cake comes from this country in 1881.",
+        "correctQuestion": "What is Switzerland?",
+        "value": 200
+      },
+      {
+        "clue": "German immigrants brought the birthday candle tradition to America in the 1800s - what popular brand later helped spread it worldwide?",
+        "correctQuestion": "What is Hallmark?",
+        "value": 200
+      },
+      {
+        "clue": "Between 1900 and 1920, birthday candles became the norm among the middle class in these two countries.",
+        "correctQuestion": "What are the United States and United Kingdom?",
+        "value": 200
+      },
+      {
+        "clue": "After World War II, American companies exported the birthday candle tradition globally through tourism and children's media - this was an example of what type of cultural spread?",
+        "correctQuestion": "What is cultural imperialism or Americanization?",
+        "value": 200
+      },
+      {
+        "clue": "Japan adopted the Western birthday cake and candle tradition in the 1950s after being influenced by this post-war presence.",
+        "correctQuestion": "What is American occupation or American culture?",
+        "value": 200
+      },
+      {
+        "clue": "In 19th century America, children's birthday parties were started by this social and religious group of wealthy families.",
+        "correctQuestion": "What are wealthy Protestant families?",
+        "value": 200
+      },
+      {
+        "clue": "During the Great Depression in the 1930s, most children's birthday celebrations were limited to this simple tradition at family dinner.",
+        "correctQuestion": "What is a special cake?",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of 'sweet sixteen' parties became popular in the 1920s as a middle-class alternative to this upper-class ceremony for young women.",
+        "correctQuestion": "What is a debutante ball?",
+        "value": 200
+      },
+      {
+        "clue": "When birthday celebrations began to emphasize age-appropriate games and activities in the 1950s, parties became more focused on inviting this group of people.",
+        "correctQuestion": "What are age peers or children the same age?",
+        "value": 200
+      },
+      {
+        "clue": "Starting in the 1980s, birthday parties moved out of homes and into commercial venues - this created a whole new type of business in the party industry.",
+        "correctQuestion": "What is a party service or entertainment company?",
+        "value": 200
+      },
+      {
+        "clue": "The song 'Happy Birthday' originated in this country during the early 1900s.",
+        "correctQuestion": "What is the United States?",
+        "value": 200
+      },
+      {
+        "clue": "In very ancient times, people called the day you were born this special name.",
+        "correctQuestion": "What is a birthday?",
+        "value": 200
+      },
+      {
+        "clue": "The very first birthday cakes were not sweet like today's cakes - they had this savory ingredient in them.",
+        "correctQuestion": "What is cheese?",
+        "value": 200
+      },
+      {
+        "clue": "When you blow out your birthday candles, people clap and cheer to celebrate - this is a tradition that started in these ancient places.",
+        "correctQuestion": "What are Greece and Rome?",
+        "value": 200
+      },
+      {
+        "clue": "Instead of having a birthday party, medieval children would celebrate this important religious holiday on their saint's day.",
+        "correctQuestion": "What is a feast day?",
+        "value": 200
+      },
+      {
+        "clue": "In Germany a long time ago, kids got special birthday parties called this - which is where the modern birthday party comes from.",
+        "correctQuestion": "What is Kinderfest?",
+        "value": 200
+      },
+      {
+        "clue": "A very long time ago in Rome, if you were a famous person, the government gave your birthday this special name to honor you.",
+        "correctQuestion": "What is a public holiday?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Ptolemaic Egypt (305-30 BCE) is when birthday feasts for Pharaohs became historically documented, challenging the theory that this practice dates to 3000 BCE.",
+        "correctQuestion": "What is the earlier dating of birthday celebrations?",
+        "value": 300
+      },
+      {
+        "clue": "The ancient Egyptian concept of birthday celebration conflated cosmological rebirth with political legitimization - Pharaohs celebrated their 'birth' as this, not their actual nativity.",
+        "correctQuestion": "What is divine incarnation or godhood?",
+        "value": 300
+      },
+      {
+        "clue": "Ancient Greek birthday practices demonstrated mythological syncretism by offering moon-shaped cakes to Artemis, which combined fertility symbolism with this celestial metaphor.",
+        "correctQuestion": "What is lunar goddess worship or female divinity?",
+        "value": 300
+      },
+      {
+        "clue": "Roman birthday celebrations for non-elites represented a paradigm shift in civilization toward this philosophical principle emphasizing individual worth.",
+        "correctQuestion": "What is humanism or individual personhood?",
+        "value": 300
+      },
+      {
+        "clue": "The exclusion of women from Roman birthday celebrations persisted until the 12th century - this restriction reflected the prevailing social hierarchy based on this factor.",
+        "correctQuestion": "What is patriarchal authority or gender inequality?",
+        "value": 300
+      },
+      {
+        "clue": "Medieval Christianity's suppression of birthday celebrations reflected a broader theological concern about this type of observance derived from pre-Christian cultures.",
+        "correctQuestion": "What are pagan rituals or polytheistic practices?",
+        "value": 300
+      },
+      {
+        "clue": "The substitution of saint's feast days for birthdays in medieval Europe demonstrated how religious institutions attempted to appropriate and Christianize this aspect of secular life.",
+        "correctQuestion": "What is individual celebration or personal identity?",
+        "value": 300
+      },
+      {
+        "clue": "Kinderfest traditions in 18th-century Germany emerged during the Enlightenment when childhood began to be conceptualized as this distinct developmental stage.",
+        "correctQuestion": "What is a separate period requiring unique treatment?",
+        "value": 300
+      },
+      {
+        "clue": "The German practice of placing candles on birthday cakes, with quantity corresponding to age, represented what type of symbolic communication?",
+        "correctQuestion": "What is numerical representation of chronological time?",
+        "value": 300
+      },
+      {
+        "clue": "The belief that candles' smoke carried prayers to gods and fire warded off evil spirits reflects which human cultural phenomenon?",
+        "correctQuestion": "What is magical thinking or animistic belief?",
+        "value": 300
+      },
+      {
+        "clue": "The ritual of blowing out candles while making a silent wish combines elements of this type of magic with the mechanistic aspect of physical action.",
+        "correctQuestion": "What is sympathetic magic or transactional magic?",
+        "value": 300
+      },
+      {
+        "clue": "Between 1900-1920, the normalization of age-appropriate candles on birthday cakes in America represented the spread of what concept?",
+        "correctQuestion": "What is standardization or mass production?",
+        "value": 300
+      },
+      {
+        "clue": "The post-WWII global dissemination of birthday candle traditions through media and consumer culture exemplified what process of cultural change?",
+        "correctQuestion": "What is cultural diffusion or globalization?",
+        "value": 300
+      },
+      {
+        "clue": "The emergence of Kinderfest in Germany signaled a shift from what type of society to one valuing individualism and childhood?",
+        "correctQuestion": "What is collective or communal society?",
+        "value": 300
+      },
+      {
+        "clue": "19th-century American birthday parties began as instruments of socialization, teaching middle-class children these behaviors through structured celebration.",
+        "correctQuestion": "What are etiquette and social propriety?",
+        "value": 300
+      },
+      {
+        "clue": "The restriction of birthday parties to wealthy Protestant families in 1830s America reflected what type of demographic advantage?",
+        "correctQuestion": "What is economic and cultural capital?",
+        "value": 300
+      },
+      {
+        "clue": "Early 19th-century birthday parties in America could include as many as 40 children and were primarily celebrations for this gender.",
+        "correctQuestion": "What is girls or females?",
+        "value": 300
+      },
+      {
+        "clue": "The transformation of birthday parties from formal home events to commercialized destination experiences represents what broader sociological trend?",
+        "correctQuestion": "What is the commodification of childhood or consumer culture?",
+        "value": 300
+      },
+      {
+        "clue": "Poor and immigrant children in 19th-century America did not have birthday parties until the 20th century - this pattern illustrates what concept?",
+        "correctQuestion": "What is unequal access to cultural practices or class stratification?",
+        "value": 300
+      },
+      {
+        "clue": "The democratization of birthday celebrations over the 19th-20th centuries paralleled broader historical trends toward this principle.",
+        "correctQuestion": "What is egalitarianism or universal rights?",
+        "value": 300
+      },
+      {
+        "clue": "The printing industry's innovation in the 19th century enabled the creation and distribution of birthday cards, exemplifying technology's role in this process.",
+        "correctQuestion": "What is cultural transmission or mass communication?",
+        "value": 300
+      },
+      {
+        "clue": "The composition of early Roman birthday cakes (flour, olive oil, grated cheese, honey) reflected the agricultural products available in this geographical region.",
+        "correctQuestion": "What is the Mediterranean?",
+        "value": 300
+      },
+      {
+        "clue": "The shift from male-only to inclusive birthday celebrations in Roman times reflected changing attitudes toward what social concept?",
+        "correctQuestion": "What is personhood or individual identity?",
+        "value": 300
+      },
+      {
+        "clue": "Medieval German beliefs about adults protecting children through birthday celebrations reflected what type of worldview?",
+        "correctQuestion": "What is supernatural or spirit-based cosmology?",
+        "value": 300
+      },
+      {
+        "clue": "The concept of 'age-appropriate' parties emerging in the 1950s reflected developmental psychology's influence on this institution.",
+        "correctQuestion": "What is childhood or education?",
+        "value": 300
+      },
+      {
+        "clue": "Archaeological evidence suggests that the ideological construction of Pharaonic birthday celebrations served what political function in maintaining dynastic legitimacy?",
+        "correctQuestion": "What is divine right justification for absolute monarchy?",
+        "value": 400
+      },
+      {
+        "clue": "The Greek adaptation of Egyptian birthday traditions through Artemisian moon cakes demonstrates the mechanism of cultural adoption - specifically, what process?",
+        "correctQuestion": "What is religious syncretism or cultural appropriation?",
+        "value": 400
+      },
+      {
+        "clue": "Roman birthday celebrations for non-elites during the Imperial period represented an expansion of civic identity - this reflected which historical development?",
+        "correctQuestion": "What is the evolution from honor-based to fame-based social status?",
+        "value": 400
+      },
+      {
+        "clue": "The exclusion of women from formal birthday celebrations in Rome until the 12th century paralleled broader patterns of what systemic phenomenon?",
+        "correctQuestion": "What is institutionalized gender subordination or patriarchal control?",
+        "value": 400
+      },
+      {
+        "clue": "Medieval Christianity's suppression of birthday observances reflected a theological framework that viewed personal celebration as what kind of transgression?",
+        "correctQuestion": "What is vanity, pride, or idolatry?",
+        "value": 400
+      },
+      {
+        "clue": "The substitution of Christian feast days for birth celebrations demonstrates what anthropological principle about religious institutions?",
+        "correctQuestion": "What is the co-optation of indigenous practices to maintain hegemonic control?",
+        "value": 400
+      },
+      {
+        "clue": "The emergence of Kinderfest in Enlightenment-era Germany coincided with what philosophical movement's emphasis on individualism?",
+        "correctQuestion": "What is the Age of Reason or Enlightenment philosophy?",
+        "value": 400
+      },
+      {
+        "clue": "The ritualized practice of blowing out candles while making silent wishes represents what psychological mechanism?",
+        "correctQuestion": "What is symbolic action as a means of wish fulfillment or magical thinking as cognitive coping?",
+        "value": 400
+      },
+      {
+        "clue": "The belief that candle smoke carries prayers to deities reflects what religious anthropological concept?",
+        "correctQuestion": "What is the transmission of supplication through material intermediaries or sympathetic magic?",
+        "value": 400
+      },
+      {
+        "clue": "19th-century American birthday parties functioned as mechanisms of socialization specific to what social strata?",
+        "correctQuestion": "What is the emerging urban middle class?",
+        "value": 400
+      },
+      {
+        "clue": "The concentration of children's birthday parties among wealthy Protestant families in antebellum America reflected what form of social distinction?",
+        "correctQuestion": "What is the deployment of cultural capital to maintain class boundaries?",
+        "value": 400
+      },
+      {
+        "clue": "Early American birthday parties emphasized female attendance and social etiquette - this gender emphasis served what sociological function?",
+        "correctQuestion": "What is the reproduction of gendered social hierarchies through childhood enculturation?",
+        "value": 400
+      },
+      {
+        "clue": "The diffusion of birthday celebrations from elite to working-class families over the 20th century exemplifies what historical process?",
+        "correctQuestion": "What is the democratization of consumption or cultural leveling?",
+        "value": 400
+      },
+      {
+        "clue": "The Great Depression's limitation of birthday celebrations to simple cakes demonstrates what principle about economic constraint and cultural practice?",
+        "correctQuestion": "What is the economic determination of cultural consumption patterns?",
+        "value": 400
+      },
+      {
+        "clue": "The emergence of 'sweet sixteen' parties as middle-class alternatives to debutante balls represents what type of social innovation?",
+        "correctQuestion": "What is the democratization of coming-of-age rituals?",
+        "value": 400
+      },
+      {
+        "clue": "Post-WWII global adoption of Western birthday traditions through American popular culture exemplifies what theoretical framework?",
+        "correctQuestion": "What is soft power or cultural imperialism?",
+        "value": 400
+      },
+      {
+        "clue": "The transition of birthday celebrations from informal home-based events to commercialized entertainment venues represents what economic transformation?",
+        "correctQuestion": "What is the financialization of intimacy or the commodification of childhood?",
+        "value": 400
+      },
+      {
+        "clue": "The printing industry's role in popularizing birthday cards in the 19th century enabled what mechanism of cultural standardization?",
+        "correctQuestion": "What is the mass production and distribution of sentimental expression?",
+        "value": 400
+      },
+      {
+        "clue": "The composition of Roman birthday cakes with regional Mediterranean ingredients demonstrates what principle of cultural practice?",
+        "correctQuestion": "What is the embodiment of ecological and economic context in ritual forms?",
+        "value": 400
+      },
+      {
+        "clue": "Medieval European beliefs in protective amulets for birthdays reflect what cognitive framework about human vulnerability?",
+        "correctQuestion": "What is magical thinking as a response to existential uncertainty?",
+        "value": 400
+      },
+      {
+        "clue": "The 1950s emphasis on age-appropriate parties reflected which developmental psychology movement's influence on parenting practices?",
+        "correctQuestion": "What is the child-centered approach or progressive education movement?",
+        "value": 400
+      },
+      {
+        "clue": "The transformation of birthday parties from formal adult-controlled events to child-influenced informal gatherings reflects what broader social change?",
+        "correctQuestion": "What is the shift toward child agency and autonomy in family decision-making?",
+        "value": 400
+      },
+      {
+        "clue": "German immigrants' transmission of birthday candle traditions to America demonstrates what anthropological mechanism?",
+        "correctQuestion": "What is the maintenance of ethnic cultural practices through diaspora communities?",
+        "value": 400
+      },
+      {
+        "clue": "The delayed adoption of birthday celebrations by immigrant and poor families reflects what structural reality?",
+        "correctQuestion": "What is the intersection of economic deprivation with cultural exclusion?",
+        "value": 400
+      },
+      {
+        "clue": "In ancient Rome, celebrating birthdays was considered a form of what - a display of wealth and status that separated the elite from common citizens?",
+        "correctQuestion": "What is conspicuous consumption or status signaling?",
+        "value": 400
+      },
+      {
+        "clue": "In ancient Rome, women couldn't celebrate birthdays as a separate event for thousands of years - this changed in what century?",
+        "correctQuestion": "What is the 12th century?",
+        "value": 400
+      },
+      {
+        "clue": "Some people believe making a birthday wish while blowing out candles makes the wish come true - long ago, people believed this wish would travel to the gods through this.",
+        "correctQuestion": "What is smoke?",
+        "value": 300
+      },
+      {
+        "clue": "In very old times, birthday candles weren't just for looks - people believed they had this magical power to protect from bad things.",
+        "correctQuestion": "What is magic?",
+        "value": 300
+      },
+      {
+        "clue": "The Kinderfest tradition shows how Germans valued childhood as a special time deserving celebration - this attitude represented a major shift in thinking about kids during this era.",
+        "correctQuestion": "What is the 18th century or Enlightenment period?",
+        "value": 400
+      },
+      {
+        "clue": "Early American birthday parties in the 1830s had many similarities to modern children's parties, but differed in that they were much more formal and emphasized teaching children these behaviors.",
+        "correctQuestion": "What are manners or social etiquette?",
+        "value": 400
+      },
+      {
+        "clue": "The concept of 'blowing out candles' as carrying wishes to deities originated in cultures that believed what about the natural world?",
+        "correctQuestion": "What is animism or the belief that natural elements have spiritual significance?",
+        "value": 400
+      },
+      {
+        "clue": "When birthday celebrations transitioned from religious feast days to secular personal celebrations, this represented a broader shift in European thought from this to this.",
+        "correctQuestion": "What is from theocratic to secular worldview?",
+        "value": 400
+      },
+      {
+        "clue": "The tradition of singing 'Happy Birthday' became popular in the early 1900s - before this song existed, people celebrated birthdays in these ways instead.",
+        "correctQuestion": "What are with prayers, feasts, or other songs?",
+        "value": 400
+      },
+      {
+        "clue": "A very long time ago in Rome, even rich people got special treatment on their birthdays - the government would make it a day off work called this.",
+        "correctQuestion": "What is a holiday?",
+        "value": 300
+      },
+      {
+        "clue": "In medieval times, bad people believed that saying an evil spell or curse on someone's birthday could hurt them - people wore special things to stop this bad magic.",
+        "correctQuestion": "What is a charm or amulet?",
+        "value": 300
+      },
+      {
+        "clue": "Medieval feast days honoring saints alongside suppressed birthday celebrations represented what religious institution's strategy?",
+        "correctQuestion": "What is Christian hegemonic incorporation of pre-Christian practices?",
+        "value": 400
+      },
+      {
+        "clue": "The movement of birthday parties out of homes and into businesses during the 1980s shows how this industry saw an opportunity to make money from celebrations.",
+        "correctQuestion": "What is the entertainment industry?",
+        "value": 400
+      },
+      {
+        "clue": "Long ago in ancient times, people didn't have cake mixes or bakeries - they made birthday cakes from basic ingredients like flour, honey, and sometimes this savory ingredient.",
+        "correctQuestion": "What is cheese?",
+        "value": 300
+      },
+      {
+        "clue": "The transition of birthday parties from being inclusive of many guests to emphasizing intimate friend groups in the 1920s reflected what psychological understanding?",
+        "correctQuestion": "What is the recognition of peer groups as primary in adolescent social development?",
+        "value": 400
+      },
+      {
+        "clue": "When ancient Greeks celebrated Artemis's birthday with moon-shaped cakes, they were honoring what they believed was her connection to this celestial body.",
+        "correctQuestion": "What is the moon?",
+        "value": 400
+      },
+      {
+        "clue": "The candles on your birthday cake used to be very special - people believed that as you blow them out, the hot air carries something up into the sky.",
+        "correctQuestion": "What are your wishes or prayers?",
+        "value": 300
+      },
+      {
+        "clue": "The Great Depression's impact on birthday celebrations shows that economic conditions directly shape what?",
+        "correctQuestion": "What is access to leisure activities and celebration?",
+        "value": 400
+      },
+      {
+        "clue": "Looking at birthday history, we can see that the value society places on individual celebration reflects that culture's understanding of what?",
+        "correctQuestion": "What is personhood or individual worth?",
+        "value": 400
+      },
+      {
+        "clue": "The archaeological evidence shows that birthday celebrations existed in ancient Egypt, but the historians found it hard to date them accurately because writing and records were kept by which group of people?",
+        "correctQuestion": "What is the upper classes or elites?",
+        "value": 400
+      },
+      {
+        "clue": "A long time ago, people didn't always know exactly how old they were - so when candles were put on the cake, the number helped them remember this.",
+        "correctQuestion": "What is their age?",
+        "value": 300
+      },
+      {
+        "clue": "The fact that women were excluded from birthday celebrations in Rome but later included represents what type of historical change?",
+        "correctQuestion": "What is the expansion of rights and recognition to previously marginalized groups?",
+        "value": 400
+      },
+      {
+        "clue": "German immigrants brought many traditions to America, including the birthday cake and candle tradition - they shared this at different times in history, with large waves of immigration in what periods?",
+        "correctQuestion": "What is the 1800s and early 1900s?",
+        "value": 400
+      },
+      {
+        "clue": "Before stores sold birthday cakes, families baked them at home - some families added this sweet liquid to make cakes taste better, which was very expensive and special.",
+        "correctQuestion": "What is honey?",
+        "value": 300
+      },
+      {
+        "clue": "Ancient Egyptian Pharaohs' birthdays were not celebrated when they were born - instead, they were celebrated when this important event happened.",
+        "correctQuestion": "What is when they became king or became a god?",
+        "value": 400
+      },
+      {
+        "clue": "The ancient Greeks borrowed the idea of birthday celebrations with moon cakes from this civilization.",
+        "correctQuestion": "What is ancient Egypt?",
+        "value": 400
+      },
+      {
+        "clue": "In ancient Rome, when someone turned 50 years old, they received a very special cake made with ingredients they had available - this was a luxury item that showed they were this social status.",
+        "correctQuestion": "What is wealthy or rich?",
+        "value": 400
+      },
+      {
+        "clue": "Medieval European Christians didn't like birthday celebrations because they thought it came from these types of religious practices.",
+        "correctQuestion": "What are pagan or non-Christian religions?",
+        "value": 400
+      },
+      {
+        "clue": "The idea of putting candles on a birthday cake and blowing them out comes from beliefs about what kind of element?",
+        "correctQuestion": "What is fire or spiritual purification?",
+        "value": 400
+      },
+      {
+        "clue": "The earliest documentation of the modern birthday candle tradition on an actual cake comes from this 18th century count's celebration.",
+        "correctQuestion": "Who is Count Ludwig von Zinzendorf?",
+        "value": 300
+      },
+      {
+        "clue": "The practice of modern birthday parties owes most to traditions that developed in this European country during the Enlightenment.",
+        "correctQuestion": "What is Germany?",
+        "value": 300
+      },
+      {
+        "clue": "Written references to blowing out candles on birthday cakes first appear in historical records from this country in 1881.",
+        "correctQuestion": "What is Switzerland?",
+        "value": 300
+      },
+      {
+        "clue": "By the 1920s, birthday candles had become mainstream in these two English-speaking countries.",
+        "correctQuestion": "What are the United States and United Kingdom?",
+        "value": 300
+      },
+      {
+        "clue": "The distribution of birthday traditions globally after World War II was primarily driven by what factor?",
+        "correctQuestion": "What is American cultural influence or American military presence?",
+        "value": 300
+      },
+      {
+        "clue": "In 19th century America, birthday parties were mainly accessible to this economic and social group.",
+        "correctQuestion": "What is wealthy or middle class families?",
+        "value": 300
+      },
+      {
+        "clue": "The song 'Happy Birthday' was created in the United States in what time period?",
+        "correctQuestion": "What is the early 1900s or first decade of the 20th century?",
+        "value": 300
+      },
+      {
+        "clue": "Birthday cards became widely available in the 19th century thanks to advances in what industry?",
+        "correctQuestion": "What is printing or publishing?",
+        "value": 300
+      },
+      {
+        "clue": "The commercial birthday party industry emerged in this decade as parties moved from homes to business venues.",
+        "correctQuestion": "What is the 1980s?",
+        "value": 300
+      },
+      {
+        "clue": "During the Great Depression, most children celebrated their birthday with this simple homemade item after dinner.",
+        "correctQuestion": "What is a special cake?",
+        "value": 300
+      },
+      {
+        "clue": "The first printed birthday cards were made in England in 1870 - this helped spread birthday celebrations because they made people think about and send wishes to their friends.",
+        "correctQuestion": "What is the printing or mass production of cards?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "Construct a triadic homology between ancient Egyptian Pharaonic birthday celebrations, medieval Christian feast days, and modern consumer-driven birthday parties, wherein each serves as a mechanism for legitimizing temporal personhood within their respective epistemological frameworks - what does this genealogy reveal about the relationship between individual identity construction and institutional power?",
+        "correctQuestion": "What is the process of how social institutions codify individual existence through ritualized time-marking?",
+        "value": 500
+      },
+      {
+        "clue": "The evolution from gender-exclusive (male-only Roman) to gender-inclusive birthday celebrations traces an arc of expanding personhood - theorize what conditions enabled this expansion and what structural inequalities may persist despite this formal inclusion.",
+        "correctQuestion": "What is the complex relationship between legal/formal equality and substantive material inequality?",
+        "value": 500
+      },
+      {
+        "clue": "Birthday candles function simultaneously as markers of temporal passage, conduits for magical efficacy, and technological expressions of human civilization - deconstruct this polymorphic nature to analyze what the candle ritual reveals about consciousness and temporality.",
+        "correctQuestion": "What is the dialectical relationship between chronological measurement and existential experience of time?",
+        "value": 500
+      },
+      {
+        "clue": "The silencing wish made while blowing out candles instantiates a paradox - the wish must be unspoken to preserve magical efficacy, yet the ritual requires collective witnessing - what does this contradiction illuminate about the relationship between private intention and public performance?",
+        "correctQuestion": "What is the tension between privacy and community in the performance of identity?",
+        "value": 500
+      },
+      {
+        "clue": "Medieval Christianity's suppression of birthday celebrations while simultaneously Christianizing them through feast days exemplifies what Derridean concept?",
+        "correctQuestion": "What is the trace or the aporia of presence and absence in signification?",
+        "value": 500
+      },
+      {
+        "clue": "The shift from ritual-based to consumer-based birthday celebrations represents a transition from what Weberian category to another - explicate this transformation as a shift in the rationalization of human experience.",
+        "correctQuestion": "What is the shift from substantive to instrumental rationality in the commodification of ritual?",
+        "value": 500
+      },
+      {
+        "clue": "German Kinderfest traditions emerged precisely when Enlightenment philosophy constructed childhood as a separate developmental category - analyze what this synchronicity reveals about the relationship between philosophical abstraction and material social practice.",
+        "correctQuestion": "What is the mutual constitution of ideology and practice in social institution formation?",
+        "value": 500
+      },
+      {
+        "clue": "Post-WWII American diffusion of birthday traditions globally through consumer culture represents what Gramscian concept applied to temporal practice?",
+        "correctQuestion": "What is cultural hegemony or the production of consent through the universal naturalization of particular cultural forms?",
+        "value": 500
+      },
+      {
+        "clue": "The exclusion of women from Roman birthday celebrations persisted until the 12th century despite women's participation in other public rituals - theorize what this selective exclusion suggests about the political economy of personhood.",
+        "correctQuestion": "What is the contingency of rights-bearing status on changing systems of valuation and exchange?",
+        "value": 500
+      },
+      {
+        "clue": "Birthday cake composition mirrors regional agricultural capacity - medieval honey, Roman olive oil, modern industrial sugar - what does this material genealogy reveal about the relationship between ecological constraint and ritual form?",
+        "correctQuestion": "What is the material basis of cultural practice as theorized in historical materialism?",
+        "value": 500
+      },
+      {
+        "clue": "The transformation of birthday parties from large formal adult-controlled events to intimate child-centered informal gatherings between 1920-1950 reflects what shift in pedagogical ontology?",
+        "correctQuestion": "What is the shift from adult-centric to child-centric models of human development and education?",
+        "value": 500
+      },
+      {
+        "clue": "Printing technology enabled mass reproduction of birthday cards, which then enabled what Foucauldian apparatus?",
+        "correctQuestion": "What is the disciplinary production of standardized emotional expression through technological reproduction?",
+        "value": 500
+      },
+      {
+        "clue": "The belief that unspoken wishes made during candle-blowing carry magical efficacy persists despite scientific knowledge refuting magical causation - what cognitive mechanism explains this persistence?",
+        "correctQuestion": "What is cognitive dissonance management or the persistence of magical thinking despite contradictory beliefs?",
+        "value": 500
+      },
+      {
+        "clue": "Medieval protective amulets for birthdays and modern commercial birthday services both promise to mitigate existential vulnerability - what does this homology suggest about underlying anxieties about temporal existence?",
+        "correctQuestion": "What is the fundamental human anxiety about mortality and discontinuity that ritual attempts to contain?",
+        "value": 500
+      },
+      {
+        "clue": "Pharaonic birthday celebrations constructed the monarch as a deity reborn - modern consumer birthday culture constructs the birthday person as temporarily sovereign over consumption decisions - what is the structural relationship between these two forms of ritual sovereignty?",
+        "correctQuestion": "What is the displacement of political sovereignty onto personal consumption in late capitalism?",
+        "value": 500
+      },
+      {
+        "clue": "The practice of guests applauding the candle-blower's wish-making ritual creates a temporal paradox - the community witnesses a private moment - theorize what this embodied practice reveals about the constitution of the modern autonomous subject.",
+        "correctQuestion": "What is the paradoxical requirement that individual interiority be validated through public performance?",
+        "value": 500
+      },
+      {
+        "clue": "Archaeological absence of birthday evidence for non-elite populations until the Roman period suggests what about the relationship between historical visibility and social stratification?",
+        "correctQuestion": "What is the privilege of having one's existence marked in written or material records as a marker of social power?",
+        "value": 500
+      },
+      {
+        "clue": "The numerical representation of age through candle quantity creates what type of symbolic abstraction in the phenomenology of aging?",
+        "correctQuestion": "What is the reduction of continuous temporal experience into discrete countable units as a form of abstraction?",
+        "value": 500
+      },
+      {
+        "clue": "Gender-exclusive birthday practices in Rome eventually yielded to gender-inclusive norms - what does the timeline of this inclusion suggest about the criteria for recognition as a bearer of ritual rights?",
+        "correctQuestion": "What is the contingent historicity of who counts as a subject worthy of ceremonial acknowledgment?",
+        "value": 500
+      },
+      {
+        "clue": "The evolution of birthday celebrations reveals patterns of capital accumulation - wealthy early American families used birthday parties to display this.",
+        "correctQuestion": "What is cultural capital or social standing?",
+        "value": 500
+      },
+      {
+        "clue": "The democratization of birthday celebrations across American society occurred through which technological advancement's ability to manufacture and distribute goods?",
+        "correctQuestion": "What is industrial mass production?",
+        "value": 500
+      },
+      {
+        "clue": "The restriction of birthday parties to wealthy Protestant families before their gradual diffusion demonstrates what about the nature of cultural practices?",
+        "correctQuestion": "What is that cultural practices are tools of class differentiation until democratized through economic access?",
+        "value": 500
+      },
+      {
+        "clue": "The opacity of the unspoken wish - its efficacy supposedly dependent on secrecy - creates an epistemological condition where verification is impossible, yet belief persists - what does this structure reveal about the nature of faith versus evidence?",
+        "correctQuestion": "What is the unfalsifiability of magical claims as a guarantee of their perpetuation?",
+        "value": 500
+      },
+      {
+        "clue": "Industrial cake mixes and Betty Crocker advertisements democratized birthday cake production - this exemplifies what marketing phenomenon?",
+        "correctQuestion": "What is the creation of mass consumer desire through targeted advertising?",
+        "value": 500
+      },
+      {
+        "clue": "Construct a genealogical analysis of the birthday candle ritual, tracing its movement from pagan fire magic → Christianized in medieval Europe → industrialized in 19th century Germany → mass-produced in 20th century America → globally disseminated post-WWII, to theorize what this reveals about the relationship between technology and ritual persistence.",
+        "correctQuestion": "What is that ritual forms adapt to technological modes while maintaining underlying symbolic functions?",
+        "value": 600
+      },
+      {
+        "clue": "The Derridean concept of hauntology can be applied to birthday celebrations - the wish that cannot be spoken yet must exist, the celebration that cannot be attended yet is felt - what absent presence structures the modern birthday ritual?",
+        "correctQuestion": "What is the trace of the private within the performance of the collective?",
+        "value": 600
+      },
+      {
+        "clue": "Medieval suppression of birthdays coupled with promotion of feast days exemplifies what Althusserian concept about how ideological state apparatuses reproduce social relations?",
+        "correctQuestion": "What is ideological state apparatus in the church's regulation of temporal observation and individual recognition?",
+        "value": 600
+      },
+      {
+        "clue": "The transition from 19th-century formal home birthday parties to 1980s commercialized destination events represents what economic shift?",
+        "correctQuestion": "What is the shift from household-based reproduction to market-dependent service consumption?",
+        "value": 500
+      },
+      {
+        "clue": "The practice of age-marking through candle quantity exemplifies what Derridean concept - the reduction of continuous temporal becoming into discrete numerical presence.",
+        "correctQuestion": "What is différance or the trace of temporal continuity in numerical discretization?",
+        "value": 600
+      },
+      {
+        "clue": "The presence of birthday celebrations exclusively among scribal elites in ancient Egypt while absent from archaeological record of common people exemplifies what historiographical limitation?",
+        "correctQuestion": "What is the bias of written records toward elite activities and the erasure of lower-class histories?",
+        "value": 500
+      },
+      {
+        "clue": "The epistemological condition of the silent birthday wish - where effectiveness requires non-disclosure - mirrors what Foucauldian concept about knowledge and power?",
+        "correctQuestion": "What is the productive nature of secrecy in maintaining belief systems resistant to falsification?",
+        "value": 600
+      },
+      {
+        "clue": "The Ptolemaic era dating of Pharaonic birthday celebrations (305-30 BCE) contradicts earlier assumptions - this demonstrates what about historical documentation?",
+        "correctQuestion": "What is the importance of questioning traditional dating and verifying sources?",
+        "value": 450
+      },
+      {
+        "clue": "Roman birthday celebrations for male citizens but not female citizens until the 12th century reflects what about the relationship between ritual and power?",
+        "correctQuestion": "What is that rituals encode and perpetuate social hierarchies?",
+        "value": 450
+      },
+      {
+        "clue": "The medieval Christian church's prohibition of birthday celebrations while simultaneously promoting saint's feast days exemplifies what institutional strategy?",
+        "correctQuestion": "What is the incorporation and transformation of pre-existing practices to maintain institutional authority?",
+        "value": 450
+      },
+      {
+        "clue": "Early 19th-century American birthday parties restricted to wealthy Protestant families demonstrates what about the distribution of cultural practices?",
+        "correctQuestion": "What is that cultural practices emerge from and reinforce specific class positions?",
+        "value": 450
+      },
+      {
+        "clue": "The Great Depression's suppression of birthday celebration access demonstrates what economic principle?",
+        "correctQuestion": "What is that access to ritual and celebration is mediated by economic capacity?",
+        "value": 450
+      },
+      {
+        "clue": "The transition of birthday parties from private home-based rituals to commercialized destination services represents what sociological transformation?",
+        "correctQuestion": "What is the shift from family-centered reproduction to market-mediated consumption?",
+        "value": 450
+      },
+      {
+        "clue": "Post-WWII Japanese adoption of Western birthday traditions through American occupation and media demonstrates what about cultural change?",
+        "correctQuestion": "What is the power differential between colonizing and colonized cultures in determining which practices spread?",
+        "value": 450
+      },
+      {
+        "clue": "The restriction of early birthday parties to female participants more than males in 19th century America served what socialization function?",
+        "correctQuestion": "What is training in gendered social behavior and middle-class propriety?",
+        "value": 450
+      },
+      {
+        "clue": "The archaeological silence regarding non-elite birthday celebrations in ancient Egypt illustrates what historiographical principle about the relationship between written records and historical knowledge?",
+        "correctQuestion": "What is the epistemological privilege granted to literate classes in the construction of historical narrative?",
+        "value": 550
+      },
+      {
+        "clue": "The ritual of blowing out candles while making an unspoken wish creates a performative paradox - theorize what this reveals about the relationship between individual interiority and collective recognition.",
+        "correctQuestion": "What is the requirement that private subjectivity be validated through public witnessing?",
+        "value": 550
+      },
+      {
+        "clue": "Medieval belief that candle flames protected against evil spirits, combined with modern understanding that candles are mere chemical reactions, suggests what about the persistence of ritual despite contrary knowledge?",
+        "correctQuestion": "What is the decoupling of ritual efficacy from causal explanation in human belief systems?",
+        "value": 550
+      },
+      {
+        "clue": "The numerical representation of age through candle quantity abstracts continuous lived experience into discrete countable units - what does this process reveal about the nature of temporal consciousness?",
+        "correctQuestion": "What is the imposition of quantitative measurement onto qualitative phenomenological experience?",
+        "value": 550
+      },
+      {
+        "clue": "Construct an analysis of how birthday celebrations across historical periods serve as technologies of subject formation - specifically, analyze what subjectivity each era's celebration produces.",
+        "correctQuestion": "What is that different historical periods produce different types of subjects through their ritualization of individual personhood?",
+        "value": 550
+      },
+      {
+        "clue": "The post-WWII global dissemination of Western birthday traditions through American consumer culture exemplifies what Agambenian concept regarding state power and the regulation of life?",
+        "correctQuestion": "What is biopower or the management of human populations through cultural norms?",
+        "value": 550
+      },
+      {
+        "clue": "The transition from pagan candle rituals to Christian appropriation to scientific reduction reveals what genealogical truth about Western epistemology?",
+        "correctQuestion": "What is the systematic rationalization and desacralization of pre-industrial practices?",
+        "value": 550
+      },
+      {
+        "clue": "Medieval amulets for birthday protection and modern commercial birthday services both claim to mitigate vulnerability - what does this homology across centuries reveal about persistent existential anxiety?",
+        "correctQuestion": "What is that human vulnerability to temporal contingency generates demand for protective rituals regardless of era?",
+        "value": 550
+      }
+    ],
+    "adults": [],
+    "no_humanity": []
+  }
 }

@@ -1,1461 +1,913 @@
 {
   "category": "Birthday Cultural Differences",
-  "description": "180 Jeopardy questions comparing birthday traditions across cultures, exploring cultural diversity in celebrations through comparative anthropology and cross-cultural psychology perspectives.",
-  "total_questions": 180,
-  "difficulty_breakdown": {
-    "elementary": 36,
-    "middle_school": 36,
-    "high_school": 36,
-    "college": 36,
-    "expert": 36
-  },
-  "research_sources": [
-    "Comparative anthropology of birthday traditions",
-    "Cross-cultural psychology frameworks",
-    "East Asian age reckoning systems",
-    "Religious and cultural birthday restrictions",
-    "Ethnographic studies of celebration practices"
-  ],
-  "questions": [
-    {
-      "id": 1,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Mexico, the birthday tradition of 'la mordida' involves pushing someone's face into what dessert?",
-      "answer": "Cake",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 2,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Denmark, what country flag is flown outside a birthday child's house?",
-      "answer": "The Danish flag",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 3,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Japan, children celebrate the festival of Shichi-go-san on what date each year?",
-      "answer": "November 15",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 4,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In South Korea, what special soup made from seaweed is eaten on birthdays to honor your mother?",
-      "answer": "Miyeok-gook (seaweed soup)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 5,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Germany, is it good luck or bad luck to wish someone a happy birthday before their actual birthday?",
-      "answer": "Bad luck",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 6,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Brazil, what items are traditionally thrown at children on their birthdays?",
-      "answer": "Flour and eggs",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 7,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Canada, friends smear what on your nose on your birthday for good luck?",
-      "answer": "Butter",
-      "category_tag": "North American Traditions"
-    },
-    {
-      "id": 8,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In India, the birthday person starts their meal with what course instead of the usual order?",
-      "answer": "Dessert",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 9,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Spain and Italy, the birthday person gets gentle tugs on their ears - one tug for each year of age - in a tradition called what?",
-      "answer": "Los tirones de oreja",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 10,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Mexico, children try to break open a blindfolded piñata to release what?",
-      "answer": "Candy and toys",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 11,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In the traditional Korean age system, how old is a baby from the moment of birth?",
-      "answer": "One year old",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 12,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In traditional Chinese culture, a person gains a new year of age on what occasion rather than on their birthday?",
-      "answer": "Lunar New Year (or Chinese New Year)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 13,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Malta, on a child's first birthday, items are laid out and the child crawls to pick one - what is this tradition called?",
-      "answer": "Quċċija",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 14,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Vietnam, when does someone's age increase by one year, even if it's not their birthday?",
-      "answer": "On Tet (Lunar New Year)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 15,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Germany, who traditionally bakes the birthday cake - the birthday person or their friends?",
-      "answer": "The birthday person",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 16,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Latin America, the 'quinceañera' celebration marks a girl turning what age?",
-      "answer": "Fifteen",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 17,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Spain and Italy, who typically pays for drinks at a birthday celebration?",
-      "answer": "The birthday person",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 18,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Brazil, who is considered the person most special to you, based on a birthday tradition?",
-      "answer": "The person who receives the first slice of your birthday cake",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 19,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Japan, the celebration of Seijin Shiki marks the beginning of what life stage?",
-      "answer": "Adulthood (or when someone turns 20)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 20,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Poland, people celebrate what alongside birthdays, which are assigned to specific days on the calendar?",
-      "answer": "Name days",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 21,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "The anthropological concept of 'rites of temporality' includes celebrating what milestone events?",
-      "answer": "Birthdays, jubilees, and anniversaries",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 22,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "In East Asian cultures, the traditional age counting system was based on what belief about conception?",
-      "answer": "Time spent in the womb counts as the first year of life",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 23,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "What traditional Chinese food symbolizes longevity and is commonly served at birthday celebrations?",
-      "answer": "Longevity noodles",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 24,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "In traditional Chinese astrology, a person's fate is believed to be bound to what astronomical body?",
-      "answer": "Jupiter",
-      "category_tag": "Cultural Beliefs"
-    },
-    {
-      "id": 25,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "What is the psychological significance of celebrating birthdays across all cultures?",
-      "answer": "It communicates that an individual's existence matters to others",
-      "category_tag": "Cross-cultural Psychology"
-    },
-    {
-      "id": 26,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "In Vietnam, people calculate age using two systems - the Gregorian calendar and what other calendar?",
-      "answer": "The lunar calendar",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 27,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "In Japan, the traditional age counting system was called 'kazoe-doshi' - it began at one and added a year on what occasion?",
-      "answer": "New Year's Day (or every January 1st)",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 28,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "What is 'bid'ah' in Islamic tradition?",
-      "answer": "An innovation in religion with no basis in Islamic law",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 29,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "In the quinceañera tradition, what life transition does the celebration mark for girls?",
-      "answer": "The transition from girlhood to womanhood",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 30,
-      "audience": "middle_school",
-      "difficulty_level": 300,
-      "question": "Which Confucian value is reflected in East Asian traditional age-counting systems?",
-      "answer": "Respect for life from conception",
-      "category_tag": "Cultural Values"
-    },
-    {
-      "id": 31,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "What year did South Korea officially switch from the traditional age system to the international age system?",
-      "answer": "2023",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 32,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "In modern mainland China, what is the official age calculation system called?",
-      "answer": "Full age (zhōusuì)",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 33,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "Which biblical figure is mentioned as having a birthday celebration in the Bible?",
-      "answer": "Pharaoh",
-      "category_tag": "Religious Context"
-    },
-    {
-      "id": 34,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "In Jewish tradition, what type of celebration was unknown in traditional Jewish ritual until modern times?",
-      "answer": "Birthday celebrations",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 35,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "What is the Chinese zodiac cycle that completes when someone turns 60?",
-      "answer": "A complete cycle (or twelve animals)",
-      "category_tag": "Cultural Beliefs"
-    },
-    {
-      "id": 36,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "In traditional Vietnamese culture, what communal occasion was traditionally more important than individual birthdays?",
-      "answer": "Tet (Lunar New Year)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 37,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "What modern phenomenon has created increasing homogenization of birthday practices across cultures?",
-      "answer": "Globalization",
-      "category_tag": "Contemporary Changes"
-    },
-    {
-      "id": 38,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "In contemporary celebrations, traditional practices typically do what with imported Western birthday customs?",
-      "answer": "Blend with them (creating hybrid celebrations)",
-      "category_tag": "Contemporary Changes"
-    },
-    {
-      "id": 39,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "In traditional Jewish practice, many conservative Jews viewed birthday celebrations as customs imitating what culture?",
-      "answer": "Non-Jewish cultures (or 'the other nations')",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 40,
-      "audience": "middle_school",
-      "difficulty_level": 400,
-      "question": "What psychological and social function does birthday celebration serve across cultures?",
-      "answer": "Affirming individual identity, strengthening community bonds, and providing reflection and renewal",
-      "category_tag": "Cross-cultural Psychology"
-    },
-    {
-      "id": 41,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "What is the anthropological significance of the 'nominal age' system in East Asian cultures?",
-      "answer": "It reflects Confucian values and the cyclical nature of time marked by lunar calendars",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 42,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "How does the Western age system differ fundamentally from the traditional East Asian system in terms of birth?",
-      "answer": "Western system counts from zero at birth; East Asian counts one year at birth",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 43,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "In cross-cultural psychology, what concept explains how birthday celebrations communicate individual worth?",
-      "answer": "Meeting the basic human need for belonging and affirmation",
-      "category_tag": "Cross-cultural Psychology"
-    },
-    {
-      "id": 44,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "What scholarly debate exists within Islam regarding birthday celebrations?",
-      "answer": "Whether birthdays are impermissible innovations (bid'ah) or acceptable cultural celebrations",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 45,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "How do contemporary Chinese birthday practices represent cultural synthesis?",
-      "answer": "They combine both Western-style cake and traditional longevity noodles",
-      "category_tag": "Contemporary Changes"
-    },
-    {
-      "id": 46,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "What is the significance of the Shichi-go-san festival ages (3, 5, and 7) in Japanese culture?",
-      "answer": "They are considered auspicious ages associated with safe passage to adulthood",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 47,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "In comparative anthropology, what makes the quinceañera fundamentally different from many other birthday celebrations?",
-      "answer": "It marks a specific life transition (girlhood to womanhood) rather than simply marking passage of time",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 48,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "What does the concept of 'rites of temporality' suggest about modern industrial cultures?",
-      "answer": "They developed unique ritual systems that mark numerical milestones and passage of time",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 49,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "How does the traditional Korean age calculation system reflect cultural attitudes toward motherhood?",
-      "answer": "By counting the gestation period as the first year of life, honoring the mother's contribution",
-      "category_tag": "Cultural Values"
-    },
-    {
-      "id": 50,
-      "audience": "high_school",
-      "difficulty_level": 500,
-      "question": "What is the underlying reason why ears never stop growing (according to Spanish and Italian traditions)?",
-      "answer": "This is the cultural belief used to justify the 'tirones de oreja' tradition signifying a longer life",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 51,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "From an anthropological perspective, what does the existence of different age-counting systems reveal about cultural epistemology?",
-      "answer": "Different cultures construct time and life progression through distinct philosophical frameworks",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 52,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "How does the concept of 'identity selection' in birthday celebrations function across cultures?",
-      "answer": "Birthdays serve as socially constructed occasions allowing individuals to define and affirm their identity",
-      "category_tag": "Cross-cultural Psychology"
-    },
-    {
-      "id": 53,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "What is the relationship between Confucian philosophy and East Asian age-reckoning systems?",
-      "answer": "Confucianism emphasizes respect for life from conception, reflected in counting gestation as year one",
-      "category_tag": "Philosophical Frameworks"
-    },
-    {
-      "id": 54,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "In comparative religious studies, why do some conservative Islamic scholars oppose birthday celebrations?",
-      "answer": "Because birthdays are viewed as religious innovations with no basis in Quranic or Sunnah sources",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 55,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "How do hybrid birthday celebrations in modern China exemplify cultural globalization?",
-      "answer": "They combine imported Western customs with traditional practices, neither replacing the other",
-      "category_tag": "Contemporary Changes"
-    },
-    {
-      "id": 56,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "What does the variation in 'milestone age' celebrations across cultures suggest about universal human development?",
-      "answer": "While human development is universal, cultures mark different stages as socially significant",
-      "category_tag": "Developmental Psychology"
-    },
-    {
-      "id": 57,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "How does the polysemy of 'age' (nominal vs. actual) in East Asian cultures reflect broader worldview differences?",
-      "answer": "It reflects cyclical vs. linear time concepts and different philosophical frameworks for understanding life stages",
-      "category_tag": "Philosophical Frameworks"
-    },
-    {
-      "id": 58,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "What anthropological framework explains how the German superstition about birthday wishes relates to broader cultural systems?",
-      "answer": "It functions as a cultural boundary marker reinforcing group identity through shared magical thinking",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 59,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "In cross-cultural analysis, what distinguishes permissible religious practice from cultural celebration in Islamic birthday contexts?",
-      "answer": "Religious celebrations mark religious events; cultural celebrations commemorate secular occurrences without worship",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 60,
-      "audience": "high_school",
-      "difficulty_level": 600,
-      "question": "How does the Jewish distinction between religious and cultural birthday celebrations differ from the Islamic approach?",
-      "answer": "Judaism permits cultural celebrations while Islam has stricter scholarly debate about permissibility",
-      "category_tag": "Comparative Religion"
-    },
-    {
-      "id": 61,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "Analyze how the transition from nominal age to Western-style age calculation in Korea (2023) represents a sociolinguistic shift in cultural identity.",
-      "answer": "It reflects globalization pressures and modernization, though traditional practices persist in cultural contexts despite legal standardization",
-      "category_tag": "Sociolinguistics"
-    },
-    {
-      "id": 62,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "From a comparative epistemology perspective, what fundamental assumptions underlie East Asian versus Western age-reckoning systems?",
-      "answer": "East Asian systems assume time is cyclical and gestation is life's beginning; Western systems assume linear time and biological birth as origin",
-      "category_tag": "Epistemology"
-    },
-    {
-      "id": 63,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "How does Bourdieu's concept of 'habitus' apply to cross-cultural birthday practices?",
-      "answer": "Birthday celebrations function as durable, transposable dispositions that encode cultural values into individual behavior patterns",
-      "category_tag": "Sociological Theory"
-    },
-    {
-      "id": 64,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "What does the absence of traditional Jewish birthday celebrations in historical sources suggest about the relationship between religion and cultural practice?",
-      "answer": "It demonstrates that cultural practices (like birthday celebrations) are not necessarily continuous with religious tradition but may be adopted through cultural diffusion",
-      "category_tag": "Religious Studies"
-    },
-    {
-      "id": 65,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "Explain the tension between Islamic scholars regarding birthday celebrations using the framework of legal pluralism.",
-      "answer": "Conservative scholars apply strict textual hermeneutics (bid'ah framework), while permissive scholars use cultural relativism and contextual interpretation of Shari'ah",
-      "category_tag": "Islamic Legal Studies"
-    },
-    {
-      "id": 66,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "How do contemporary hybrid birthday celebrations in Asia exemplify Hall's theory of cultural hybridity?",
-      "answer": "They represent third spaces where Western and traditional practices are neither assimilated nor separated but creatively recombined",
-      "category_tag": "Cultural Studies"
-    },
-    {
-      "id": 67,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "From a developmental psychology perspective, what universal and culturally-specific aspects emerge in birthday milestone celebrations?",
-      "answer": "Universal: marking developmental transitions; Culture-specific: which ages are salient and what rituals mark them",
-      "category_tag": "Developmental Psychology"
-    },
-    {
-      "id": 68,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "Apply Goffman's dramaturgy to understand the performance aspects of different cultural birthday celebrations.",
-      "answer": "Birthday celebrations are 'front stage' performances where individuals and communities present idealized versions of identity and values",
-      "category_tag": "Sociology"
-    },
-    {
-      "id": 69,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "How does the concept of 'invented tradition' apply to the modern Western birthday celebration complex?",
-      "answer": "Modern birthday celebrations are relatively recent inventions (19th century) that became naturalized as universal through globalization",
-      "category_tag": "Social History"
-    },
-    {
-      "id": 70,
-      "audience": "college",
-      "difficulty_level": 700,
-      "question": "What does the German superstition about birthday wishes suggest about magical thinking and cultural boundary maintenance?",
-      "answer": "It functions as a social norm enforcer that maintains group identity by creating shared systems of magical belief",
-      "category_tag": "Anthropology of Magic"
-    },
-    {
-      "id": 71,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "Critically examine how the discourse of 'cultural diversity' in birthday celebrations obscures underlying power dynamics of cultural imperialism.",
-      "answer": "Western birthday norms (cake, candles, individual focus) are globally imposed while local traditions are framed as equally valid 'diversity'",
-      "category_tag": "Postcolonial Studies"
-    },
-    {
-      "id": 72,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "Using phenomenological analysis, how does the temporal experience of a birthday differ between cultures with cyclical versus linear time conception?",
-      "answer": "Cyclical time (East Asian) creates recursive, collective experiences; linear time (Western) emphasizes irreplaceable, individual moments",
-      "category_tag": "Phenomenology"
-    },
-    {
-      "id": 73,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "How do competing hermeneutical frameworks in Islamic jurisprudence regarding birthdays reflect broader methodological debates?",
-      "answer": "Conservative approaches prioritize textual literalism and qiyas (analogy); permissive approaches use maslaha (public interest) and contextual ijtihad",
-      "category_tag": "Islamic Jurisprudence"
-    },
-    {
-      "id": 74,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "Analyze how age-counting systems function as 'ontological technologies' that construct different versions of personhood.",
-      "answer": "They define when personhood begins, how persons relate to time, and what developmental stages matter socially and legally",
-      "category_tag": "Philosophy of Technology"
-    },
-    {
-      "id": 75,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "What does the quinceañera celebration suggest about the relationship between patriarchal control and ritual rites of passage?",
-      "answer": "It represents a gendered rite marking transition to marriageability, reflecting patriarchal control over female sexuality and family structure",
-      "category_tag": "Feminist Anthropology"
-    },
-    {
-      "id": 76,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "How does Anderson's framework of 'imagined communities' apply to the construction of 'global birthday culture'?",
-      "answer": "Modern birthday celebrations create imagined transnational communities through shared consumption practices (cakes, presents, songs)",
-      "category_tag": "Political Anthropology"
-    },
-    {
-      "id": 77,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "Critically evaluate the claim that birthday celebrations are 'universal' across cultures using evidence from religious traditions.",
-      "answer": "Many religious traditions historically rejected or remain ambivalent about birthdays, suggesting 'universality' is a recent imposition",
-      "category_tag": "Critical Theory"
-    },
-    {
-      "id": 78,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "How do semiotic analyses of birthday foods (noodles, cake, soup) reveal underlying cultural cosmologies?",
-      "answer": "Foods function as signs encoding cultural values: longevity noodles signify circular time; birthday cake signifies individual achievement",
-      "category_tag": "Semiotics"
-    },
-    {
-      "id": 79,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "What epistemological implications arise from the fact that age can be 'wrong' in South Korea until 2023?",
-      "answer": "It demonstrates that social facts (age) are constructed through legal and cultural systems rather than natural givens",
-      "category_tag": "Epistemology"
-    },
-    {
-      "id": 80,
-      "audience": "college",
-      "difficulty_level": 800,
-      "question": "Analyze how naming practices in Polish culture (name days) compared to birthday celebrations reflects different ontologies of personhood.",
-      "answer": "Name days emphasize collective religious and historical identity; birthdays emphasize individual existence in abstract time",
-      "category_tag": "Ontology"
-    },
-    {
-      "id": 81,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "Synthesize perspectives from linguistic relativity (Sapir-Whorf), East Asian ontology, and temporal phenomenology to explain why age-reckoning systems are not merely technical but fundamentally shape consciousness.",
-      "answer": "Different counting systems encode different temporal orientations, leading to divergent experiences of causality, self, and historical agency",
-      "category_tag": "Philosophy of Language"
-    },
-    {
-      "id": 82,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "Deconstruct the binary between 'religious' and 'cultural' in Islamic scholarship on birthdays using poststructuralist semiotics.",
-      "answer": "The distinction itself is unstable; what's framed as 'cultural' often carries religious significance, and 'religious' classifications are contextually determined",
-      "category_tag": "Poststructuralism"
-    },
-    {
-      "id": 83,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "How does Braudel's concept of the 'longue durée' illuminate the resistance to birthday celebrations in conservative religious communities?",
-      "answer": "Birthday celebrations represent short-term globalizing trends, while resistance reflects long-term religious structures and temporal orientations",
-      "category_tag": "Historical Anthropology"
-    },
-    {
-      "id": 84,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "Apply multispecies ethnography to understand how the global dissemination of birthday cakes created new forms of human-cake interdependence.",
-      "answer": "Cakes as material actors shape celebration practices; their dissemination traces networks of colonial trade, sugar politics, and cultural consumption",
-      "category_tag": "Material Culture Studies"
-    },
-    {
-      "id": 85,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "Critique the notion of 'cultural diversity in birthdays' using Chakrabarty's framework of provincializing the West.",
-      "answer": "Treating all birthday practices as equally diverse obscures how Western practices were globally imposed; provincialism would center non-Western knowledge systems",
-      "category_tag": "Postcolonial Theory"
-    },
-    {
-      "id": 86,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "How does Agamben's concept of 'state of exception' apply to the legal standardization of age in South Korea (2023)?",
-      "answer": "The law creates an exceptional moment where traditional practice is suspended, revealing how states use 'normalization' to assert biopolitical control",
-      "category_tag": "Biopolitics"
-    },
-    {
-      "id": 87,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "Using Latour's actor-network theory, map how birthday cake technology networks transformed global celebration practices.",
-      "answer": "Cakes, sugar trade, refrigeration, transportation, and commercial interests formed networks that translated birthday practices across cultures",
-      "category_tag": "Science and Technology Studies"
-    },
-    {
-      "id": 88,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "How do contemporary hybrid Chinese birthday practices instantiate what Tsing calls 'friction' in global encounters?",
-      "answer": "Rather than seamless synthesis, traditional and Western practices create productive friction revealing incompatible temporal and cosmological frameworks",
-      "category_tag": "Global Ethnography"
-    },
-    {
-      "id": 89,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "Analyze the genealogy of the 'Happy Birthday' song as an example of Foucauldian discourse producing the modern birthday subject.",
-      "answer": "The song functions as a disciplinary technology that individualizes celebrants and makes birthday-having a visible, measurable identity practice",
-      "category_tag": "Foucauldian Studies"
-    },
-    {
-      "id": 90,
-      "audience": "expert",
-      "difficulty_level": 900,
-      "question": "What do conflicting Islamic legal rulings on birthdays reveal about the relationship between textual interpretation and cultural change in Islamic jurisprudence?",
-      "answer": "They demonstrate that religious texts are not self-interpreting; historical context, community practice, and interpretive methodology shape permissibility",
-      "category_tag": "Islamic Legal Hermeneutics"
-    },
-    {
-      "id": 91,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "Theorize how the globalization of birthday practices exemplifies what Appadurai calls 'ethnoscapes' - the movement of people and cultures creating transnational formations.",
-      "answer": "Birthday practices circulate through multiple ethnoscapes simultaneously: migrants bring traditions, media disseminates norms, commerce globalizes consumption",
-      "category_tag": "Globalization Theory"
-    },
-    {
-      "id": 92,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "Using Mol's ontological pluralism, argue that different age-counting systems constitute different ontological objects - not alternative descriptions of the 'same' age.",
-      "answer": "Nominal and Western age aren't translations of each other; they perform different ontologies with distinct implications for personhood, time, and causality",
-      "category_tag": "Ontological Pluralism"
-    },
-    {
-      "id": 93,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "How does the quinceañera exemplify what Ortner calls 'serious games' - practices that condense key cultural categories and conflicts?",
-      "answer": "It condenses gender ideology, family structure, religious identity, and modernity/tradition tensions into a single elaborate ritual performance",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 94,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "Problematize the concept of 'cultural diversity' in birthday studies using Chandra Mohanty's framework of epistemic injustice.",
-      "answer": "Celebrating 'diverse traditions' without analyzing power dynamics constitutes epistemic injustice - erasing how Western practices became globally hegemonic",
-      "category_tag": "Epistemology of Power"
-    },
-    {
-      "id": 95,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "Using Derrida's concept of hauntology, analyze how traditional birthday practices persist as 'specters' in globalized celebrations.",
-      "answer": "Traditional practices haunt modern celebrations - neither fully present nor absent - creating temporal uncanniness in hybrid birthday performances",
-      "category_tag": "Deconstruction"
-    },
-    {
-      "id": 96,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "How does the German superstition about birthday wishes function as a 'ritual technology' of social reproduction?",
-      "answer": "It socializes individuals into specific temporal discipline and magical frameworks, reproducing community boundaries through internalized rules",
-      "category_tag": "Ritual Theory"
-    },
-    {
-      "id": 97,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "Apply Viveiros de Castro's perspectivism to argue that different age-counting systems represent incommensurable cultural perspectives.",
-      "answer": "Each system occupies a distinct subject position toward time and personhood; they cannot be harmonized but only shifted between perspectivally",
-      "category_tag": "Amerindian Perspectivism"
-    },
-    {
-      "id": 98,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "Synthesize scholarship from ritual theory, economic anthropology, and postcolonial studies to analyze birthday celebrations as sites of cultural imperialism.",
-      "answer": "Birthday rituals normalize consumption capitalism, individualism, and linear temporality while framing resistance as cultural backwardness",
-      "category_tag": "Critical Cultural Studies"
-    },
-    {
-      "id": 99,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "How does the debate between Islamic scholars on birthday permissibility instantiate Gadamer's 'fusion of horizons' in hermeneutic practice?",
-      "answer": "Scholars fuse textual tradition horizons with contemporary contexts, creating new interpretations where neither tradition nor modernity fully determines meaning",
-      "category_tag": "Hermeneutics"
-    },
-    {
-      "id": 100,
-      "audience": "expert",
-      "difficulty_level": 1000,
-      "question": "Theorize how the transition from nominal to Western age in South Korea (2023) exemplifies what Achille Mbembe calls 'necropolitics' of temporal standardization.",
-      "answer": "Legal age standardization exercises state power over how lives are temporally counted, measured, and made legible to administrative systems",
-      "category_tag": "Political Theory"
-    },
-    {
-      "id": 101,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "Which Asian country celebrates the Shichi-go-san festival on November 15?",
-      "answer": "Japan",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 102,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "What color clothes do Indian children wear on their birthdays?",
-      "answer": "New brightly colored clothes",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 103,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "In which European country is it considered bad luck to bake your own birthday cake?",
-      "answer": "Germany",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 104,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "What Latin American tradition celebrates a girl's transition to womanhood at age 15?",
-      "answer": "Quinceañera",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 105,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "In China, what special ages are traditionally celebrated as important life milestones?",
-      "answer": "Age 60 (and ages like 70, 80, 90, 100 for elders)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 106,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "What tradition happens at a child's first birthday in Malta?",
-      "answer": "Items are laid out and the child crawls to pick one (Quċċija tradition)",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 107,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "In what country do people have two different ways to count their age?",
-      "answer": "Vietnam",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 108,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "In Mexico, what is pushed into the birthday cake during 'la mordida'?",
-      "answer": "The birthday person's face",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 109,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "What celebratory food is eaten on birthdays in South Korea?",
-      "answer": "Miyeok-gook (seaweed soup)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 110,
-      "audience": "elementary",
-      "difficulty_level": 300,
-      "question": "In Poland, what alternative to birthdays is celebrated alongside or instead of birthday celebrations?",
-      "answer": "Name days",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 111,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "What anthropological framework explains how cultures create different rituals around the passage of time?",
-      "answer": "Rites of temporality",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 112,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "According to East Asian philosophy, why does the traditional age system begin at one year old?",
-      "answer": "Because the time in the womb is considered part of life",
-      "category_tag": "Philosophical Frameworks"
-    },
-    {
-      "id": 113,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "What does a Japanese Seijin Shiki ceremony celebrate?",
-      "answer": "The coming of age/beginning of adulthood (around age 20)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 114,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "Why might traditional Jewish families be reluctant to celebrate birthdays?",
-      "answer": "Because birthday celebrations are viewed as customs from non-Jewish cultures",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 115,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "What is the primary objection some Islamic scholars have to birthday celebrations?",
-      "answer": "They view them as innovations (bid'ah) with no basis in Islamic law",
-      "category_tag": "Religious Perspectives"
-    },
-    {
-      "id": 116,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "How has globalization affected birthday traditions across cultures?",
-      "answer": "It has created increasing homogenization while local traditions blend with imported Western customs",
-      "category_tag": "Contemporary Changes"
-    },
-    {
-      "id": 117,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "What is the significance of the number 60 in traditional Chinese birthday celebrations?",
-      "answer": "It completes a full cycle of the Chinese zodiac",
-      "category_tag": "Cultural Beliefs"
-    },
-    {
-      "id": 118,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "In the Confucian tradition, why is the time before birth considered important in age calculation?",
-      "answer": "It reflects respect for life from conception",
-      "category_tag": "Cultural Values"
-    },
-    {
-      "id": 119,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "What does the variety of birthday traditions across cultures reveal about human society?",
-      "answer": "While birthdays are universal, each culture marks different ages and uses different rituals with different meanings",
-      "category_tag": "Cross-cultural Psychology"
-    },
-    {
-      "id": 120,
-      "audience": "middle_school",
-      "difficulty_level": 500,
-      "question": "Why was 2023 an important year for South Korean age counting?",
-      "answer": "South Korea officially switched from the traditional age system to the international age system",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 121,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "How do modern Chinese birthday celebrations exemplify cultural hybridity?",
-      "answer": "They combine Western cake and candles with traditional longevity noodles, integrating rather than replacing traditions",
-      "category_tag": "Contemporary Changes"
-    },
-    {
-      "id": 122,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "What does the persistence of different age-counting systems reveal about cultural resistance to globalization?",
-      "answer": "Cultures maintain alternative temporal frameworks despite legal standardization, indicating persistent ontological differences",
-      "category_tag": "Globalization Theory"
-    },
-    {
-      "id": 123,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "How does the quinceañera ceremony function as a rite of passage in Latin American cultures?",
-      "answer": "It marks a girl's transition from girlhood to womanhood, reinforcing family structure and cultural identity",
-      "category_tag": "Ritual Studies"
-    },
-    {
-      "id": 124,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "What methodological challenge arises when comparing birthday practices across cultures?",
-      "answer": "Determining whether practices are comparable when they occur at different ages and carry different cultural meanings",
-      "category_tag": "Anthropological Methods"
-    },
-    {
-      "id": 125,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "How do religious traditions shape the acceptance or rejection of birthday celebrations?",
-      "answer": "Conservative traditions may view birthdays as religious innovations or cultural imports, while others integrate them into religious practice",
-      "category_tag": "Religious Studies"
-    },
-    {
-      "id": 126,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "What psychological function do birthday celebrations serve in building community bonds?",
-      "answer": "They create shared moments of celebration that affirm an individual's importance and strengthen group cohesion",
-      "category_tag": "Community Psychology"
-    },
-    {
-      "id": 127,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "How does the concept of 'nominal age' versus 'actual age' reflect different philosophical approaches to time?",
-      "answer": "Nominal age reflects cyclical, relational time; actual age reflects linear, absolute time since birth",
-      "category_tag": "Philosophy of Time"
-    },
-    {
-      "id": 128,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "What does the birthday food tradition symbolize in different cultures?",
-      "answer": "Foods carry cultural meanings: longevity noodles symbolize long life, cake symbolizes individual achievement",
-      "category_tag": "Symbolic Anthropology"
-    },
-    {
-      "id": 129,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "How has the global dissemination of Western birthday practices affected local traditions?",
-      "answer": "Some cultures have adopted Western practices while maintaining traditional ones, creating hybrid celebrations",
-      "category_tag": "Cultural Change"
-    },
-    {
-      "id": 130,
-      "audience": "high_school",
-      "difficulty_level": 700,
-      "question": "What does the German superstition about wishing someone happy birthday reveal about cultural values?",
-      "answer": "It reflects cultural beliefs about fate, timing, and the power of words in shaping outcomes",
-      "category_tag": "Cultural Beliefs"
-    },
-    {
-      "id": 131,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "How do competing frameworks in Islamic jurisprudence regarding birthdays reflect broader methodological debates about religious authority?",
-      "answer": "They demonstrate tensions between textualist approaches (bid'ah), contextualist interpretations (ijtihad), and cultural relativism (maslaha)",
-      "category_tag": "Islamic Studies"
-    },
-    {
-      "id": 132,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "What does the legal standardization of age in South Korea exemplify about the relationship between law and culture?",
-      "answer": "Law functions as a technology of normalization that standardizes practices but doesn't necessarily eliminate cultural alternatives",
-      "category_tag": "Legal Anthropology"
-    },
-    {
-      "id": 133,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "How do birthday celebrations function as 'technologies of identity' in contemporary societies?",
-      "answer": "They make personhood visible, measurable, and subject to celebration, transforming age from biological fact to social identity",
-      "category_tag": "Identity Theory"
-    },
-    {
-      "id": 134,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "What theoretical framework best explains why different cultures mark different ages as significant?",
-      "answer": "Cultural materialism: different survival needs and social structures produce different developmental priorities",
-      "category_tag": "Anthropological Theory"
-    },
-    {
-      "id": 135,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "How does Confucian philosophy shape East Asian approaches to age, time, and intergenerational relationships?",
-      "answer": "Confucianism emphasizes respect for elders, cyclical time, and hierarchical relationships, all reflected in age-counting and celebration practices",
-      "category_tag": "Philosophy"
-    },
-    {
-      "id": 136,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "What epistemological implications arise from multiple valid systems of age calculation existing simultaneously?",
-      "answer": "It demonstrates that social facts are constructed rather than natural, and that different cultures can have fundamentally different conceptualizations of the same phenomenon",
-      "category_tag": "Epistemology"
-    },
-    {
-      "id": 137,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "How does the concept of 'third space' apply to hybrid birthday celebrations in globalized contexts?",
-      "answer": "Hybrid celebrations are neither traditional nor Western but create new cultural forms that cannot be reduced to either origin",
-      "category_tag": "Cultural Hybridity"
-    },
-    {
-      "id": 138,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "What does the relationship between birthday practices and commercial consumption patterns reveal about modernity?",
-      "answer": "Modern birthdays are increasingly commodified, transforming celebrations into consumption events that serve economic interests",
-      "category_tag": "Political Economy"
-    },
-    {
-      "id": 139,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "How can anthropological analysis of birthday traditions contribute to understanding broader processes of globalization?",
-      "answer": "Birthday practices reveal how global and local forces interact, showing both homogenization and creative resistance to cultural imperialism",
-      "category_tag": "Globalization Studies"
-    },
-    {
-      "id": 140,
-      "audience": "college",
-      "difficulty_level": 900,
-      "question": "What methodological challenges arise when conducting cross-cultural comparison of birthday traditions?",
-      "answer": "The challenge of finding commensurable categories when meanings, ages, and practices differ fundamentally across cultures",
-      "category_tag": "Comparative Methodology"
-    },
-    {
-      "id": 141,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "Synthesize Foucault's concept of 'biopower' with birthday celebration studies to analyze how states regulate personhood through age standardization.",
-      "answer": "Age standardization functions as biopower: it makes populations legible, measurable, and subject to governance while naturalizing capitalist temporality",
-      "category_tag": "Biopolitics"
-    },
-    {
-      "id": 142,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "How does the semiotics of birthday foods illuminate the 'deep structure' of cultural worldviews?",
-      "answer": "Foods function as condensed symbols encoding cosmological ideas: circular foods represent cycles; individuated foods represent personhood",
-      "category_tag": "Structural Semiotics"
-    },
-    {
-      "id": 143,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "Apply Latour's 'compositionist' approach to map the global networks that produce modern birthday celebrations.",
-      "answer": "Birthdays emerge from networks including sugar production, industrial baking, refrigeration, consumer capitalism, and cultural globalization",
-      "category_tag": "Actor-Network Theory"
-    },
-    {
-      "id": 144,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "How does the Islamic legal debate on birthdays exemplify Gadamer's principle that 'understanding itself is always interpretation'?",
-      "answer": "Different interpretations arise because texts require contextual application; there is no view from nowhere that resolves the debate",
-      "category_tag": "Hermeneutic Philosophy"
-    },
-    {
-      "id": 145,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "What does the persistence of 'magical thinking' in birthday superstitions (German wishes, ear-pulling) suggest about modernity?",
-      "answer": "Modernity has not eliminated magical thinking but rather transformed its functions - it now operates as identity marker and community boundary",
-      "category_tag": "Anthropology of Modernity"
-    },
-    {
-      "id": 146,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "How does performativity theory explain the constitutive role of birthday celebrations in creating cultural identities?",
-      "answer": "Celebrating birthdays performatively produces cultural identity; repeated performances naturalize practices as if they were essential",
-      "category_tag": "Performance Theory"
-    },
-    {
-      "id": 147,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "What does the concept of 'subaltern historiography' offer for understanding suppressed birthday traditions in colonized cultures?",
-      "answer": "It reveals how colonial imposition of Western birthday practices erased alternative temporal systems and cosmologies",
-      "category_tag": "Postcolonial History"
-    },
-    {
-      "id": 148,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "How do different age-counting systems exemplify what Wittgenstein called 'forms of life'?",
-      "answer": "Each system embeds a distinct language game with different rules, values, and ways of being that cannot be translated without remainder",
-      "category_tag": "Philosophy of Language"
-    },
-    {
-      "id": 149,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "Apply Deleuze's concept of 'striated' versus 'smooth' space to analyze how Western birthday standardization creates bureaucratic order.",
-      "answer": "Western age systems striated space (imposed grid), while traditional systems occupy smooth space (relational, fluid); globalization imposes stration",
-      "category_tag": "Spatial Theory"
-    },
-    {
-      "id": 150,
-      "audience": "expert",
-      "difficulty_level": 1100,
-      "question": "How does the anthropology of birthday practices contribute to theorizing the relationship between ritual and social reproduction?",
-      "answer": "Birthday rituals function as 'serious games' that simultaneously reflect and reproduce cultural values, temporalities, and social hierarchies",
-      "category_tag": "Ritual Theory"
-    },
-    {
-      "id": 151,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "What birthday tradition in Spain involves pulling people's ears?",
-      "answer": "Los tirones de oreja (one pull for each year of age)",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 152,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In Vietnam, people celebrate their birthday on which major holiday?",
-      "answer": "Tet (Lunar New Year)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 153,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "What is a 'piñata' used for at Mexican birthday parties?",
-      "answer": "It's broken open to release candy and toys",
-      "category_tag": "Latin American Traditions"
-    },
-    {
-      "id": 154,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In which country does the birthday person traditionally buy drinks for friends?",
-      "answer": "Spain and Italy",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 155,
-      "audience": "elementary",
-      "difficulty_level": 100,
-      "question": "In China, what number represents a complete life cycle in traditional birthday celebrations?",
-      "answer": "Sixty (60)",
-      "category_tag": "Asian Traditions"
-    },
-    {
-      "id": 156,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "What is the modern official age-calculation system in mainland China called?",
-      "answer": "Full age (zhōusuì)",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 157,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In Japanese culture, what traditional name was given to the age-counting system that added a year every New Year's Day?",
-      "answer": "Kazoe-doshi",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 158,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "What is the main belief behind the tradition of eating longevity noodles at Chinese birthdays?",
-      "answer": "They symbolize a long life",
-      "category_tag": "Cultural Beliefs"
-    },
-    {
-      "id": 159,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "In which country is it believed that ears never stop growing, so ear-pulling signifies longer life?",
-      "answer": "Spain and Italy",
-      "category_tag": "European Traditions"
-    },
-    {
-      "id": 160,
-      "audience": "elementary",
-      "difficulty_level": 200,
-      "question": "What does the Japanese term 'man nenrei' refer to in age calculation?",
-      "answer": "The Western-style age system (starting at zero)",
-      "category_tag": "Age Counting Systems"
-    },
-    {
-      "id": 161,
-      "audience": "middle_school",
-      "difficulty_level": 600,
-      "question": "How does understanding birthday traditions contribute to cultural competence in diverse societies?",
-      "answer": "It helps people recognize and respect differences while understanding the values each tradition expresses",
-      "category_tag": "Cultural Competence"
-    },
-    {
-      "id": 162,
-      "audience": "middle_school",
-      "difficulty_level": 600,
-      "question": "Why might traditional communities resist the adoption of Western-style birthday celebrations?",
-      "answer": "Because they may conflict with religious beliefs, cultural values, or different conceptions of personhood and time",
-      "category_tag": "Cultural Resistance"
-    },
-    {
-      "id": 163,
-      "audience": "middle_school",
-      "difficulty_level": 600,
-      "question": "What does the variety of 'milestone age' celebrations reveal about human development?",
-      "answer": "While physical development is universal, cultures define different ages as socially and spiritually significant",
-      "category_tag": "Developmental Anthropology"
-    },
-    {
-      "id": 164,
-      "audience": "middle_school",
-      "difficulty_level": 600,
-      "question": "How does globalization create 'hybrid' birthday celebrations in multicultural societies?",
-      "answer": "When people from different cultures interact, they blend traditional practices with dominant global practices",
-      "category_tag": "Cultural Globalization"
-    },
-    {
-      "id": 165,
-      "audience": "middle_school",
-      "difficulty_level": 600,
-      "question": "What do birthday celebrations reveal about what cultures consider important in human life?",
-      "answer": "They reveal which ages, transitions, and values a culture considers significant enough to mark with ritual",
-      "category_tag": "Cultural Values"
-    },
-    {
-      "id": 166,
-      "audience": "high_school",
-      "difficulty_level": 800,
-      "question": "How does the concept of 'invented tradition' apply to modern birthday celebration practices?",
-      "answer": "Modern birthday celebrations are recent inventions (19th century) that became naturalized as universal through capitalist expansion and globalization",
-      "category_tag": "Social History"
-    },
-    {
-      "id": 167,
-      "audience": "high_school",
-      "difficulty_level": 800,
-      "question": "Analyze the relationship between religious belief systems and the acceptance or rejection of birthday celebrations.",
-      "answer": "Religions that emphasize textual sources over cultural adaptation tend to resist birthdays; those allowing contextual interpretation integrate them",
-      "category_tag": "Comparative Religion"
-    },
-    {
-      "id": 168,
-      "audience": "high_school",
-      "difficulty_level": 800,
-      "question": "How do age-counting systems function as 'embodied philosophy' reflecting deeper cultural assumptions?",
-      "answer": "They physically and linguistically encode worldviews about time, personhood, and mortality through daily practice",
-      "category_tag": "Philosophy of Embodiment"
-    },
-    {
-      "id": 169,
-      "audience": "high_school",
-      "difficulty_level": 800,
-      "question": "What does the resistance to birthday celebrations in some Islamic communities suggest about cultural-religious boundaries?",
-      "answer": "It shows how cultures use religious frameworks to maintain distinct identities against homogenizing global pressures",
-      "category_tag": "Identity Theory"
-    },
-    {
-      "id": 170,
-      "audience": "high_school",
-      "difficulty_level": 800,
-      "question": "How do birthday food traditions function as markers of cultural identity and continuity?",
-      "answer": "Foods maintain cultural knowledge, reinforce group membership, and connect present celebrations to historical tradition",
-      "category_tag": "Food Anthropology"
-    },
-    {
-      "id": 171,
-      "audience": "college",
-      "difficulty_level": 1000,
-      "question": "Synthesize research on temporal anthropology and phenomenology to explain why different age-counting systems create fundamentally different experiences of aging.",
-      "answer": "Cyclical time (nominal age) creates recursive, participatory experience; linear time (Western age) creates directional, individual trajectory experience",
-      "category_tag": "Temporal Phenomenology"
-    },
-    {
-      "id": 172,
-      "audience": "college",
-      "difficulty_level": 1000,
-      "question": "How does the concept of 'cultural capital' (Bourdieu) apply to the consumption practices surrounding modern birthday celebrations?",
-      "answer": "Birthday celebration styles signal class position; expensive cakes, gifts, and venues distinguish high from low cultural capital",
-      "category_tag": "Economic Sociology"
-    },
-    {
-      "id": 173,
-      "audience": "college",
-      "difficulty_level": 1000,
-      "question": "What does the presence of competing Islamic legal frameworks on birthdays reveal about the nature of religious authority?",
-      "answer": "It demonstrates that religious authority is fragmented and contextual; textual authority doesn't determine interpretation without interpretive community",
-      "category_tag": "Religious Authority"
-    },
-    {
-      "id": 174,
-      "audience": "college",
-      "difficulty_level": 1000,
-      "question": "How can anthropological study of birthday celebrations illuminate the relationship between law, culture, and individual agency?",
-      "answer": "It shows how legal standardization (South Korea 2023) attempts to control culture but individuals and communities maintain alternative practices",
-      "category_tag": "Legal Culture"
-    },
-    {
-      "id": 175,
-      "audience": "college",
-      "difficulty_level": 1000,
-      "question": "What theoretical framework best explains why birthday superstitions (German wishes, ear-pulling) persist in modern secular societies?",
-      "answer": "Ritual theory: superstitions function as social bonding mechanisms and boundary markers, not as literal magical beliefs",
-      "category_tag": "Ritual Studies"
-    },
-    {
-      "id": 176,
-      "audience": "expert",
-      "difficulty_level": 1200,
-      "question": "Construct a genealogical argument (Foucauldian) showing how modern birthday practices emerged from specific historical conditions (industrial capitalism, nationalism, mass consumption).",
-      "answer": "Modern birthdays are products of industrial periodization, nationalist identity formation, and capitalist consumption practices, not expressions of unchanging human nature",
-      "category_tag": "Genealogical Method"
-    },
-    {
-      "id": 177,
-      "audience": "expert",
-      "difficulty_level": 1200,
-      "question": "How does the study of age-reckoning systems contribute to Kuhn's paradigm theory in the history and philosophy of science?",
-      "answer": "Different age systems are incommensurable paradigms; switching systems requires gestalt shift, not mere translation",
-      "category_tag": "Philosophy of Science"
-    },
-    {
-      "id": 178,
-      "audience": "expert",
-      "difficulty_level": 1200,
-      "question": "Apply Haraway's 'situated knowledge' framework to problematize claims to objective comparison of birthday traditions.",
-      "answer": "All comparisons are situated in specific power positions; what appears as 'diversity' is actually imposition of Western categories on non-Western practices",
-      "category_tag": "Feminist Epistemology"
-    },
-    {
-      "id": 179,
-      "audience": "expert",
-      "difficulty_level": 1200,
-      "question": "How does Tsing's 'friction' concept help theorize the productivity of global birthday practice encounters?",
-      "answer": "Frictions between different traditions produce new forms and understandings; not all encounters result in seamless hybridity",
-      "category_tag": "Global Ethnography"
-    },
-    {
-      "id": 180,
-      "audience": "expert",
-      "difficulty_level": 1200,
-      "question": "Theorize birthday celebrations as a site where macro forces (globalization, capitalism, law) and micro practices (ritual, kinship, belief) co-constitute each other.",
-      "answer": "Birthday celebrations are neither entirely determined by global forces nor entirely free from them; they are sites of ongoing negotiation and bricolage",
-      "category_tag": "Macro-Micro Theory"
-    }
-  ]
+  "theme": "birthday",
+  "category_id": "birthday_cultural_differences_complete",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "In Mexico, the birthday tradition of 'la mordida' involves pushing someone's face into what dessert?",
+        "correctQuestion": "Cake",
+        "value": 200
+      },
+      {
+        "clue": "In Denmark, what country flag is flown outside a birthday child's house?",
+        "correctQuestion": "The Danish flag",
+        "value": 200
+      },
+      {
+        "clue": "In Japan, children celebrate the festival of Shichi-go-san on what date each year?",
+        "correctQuestion": "November 15",
+        "value": 200
+      },
+      {
+        "clue": "In South Korea, what special soup made from seaweed is eaten on birthdays to honor your mother?",
+        "correctQuestion": "Miyeok-gook (seaweed soup)",
+        "value": 200
+      },
+      {
+        "clue": "In Germany, is it good luck or bad luck to wish someone a happy birthday before their actual birthday?",
+        "correctQuestion": "Bad luck",
+        "value": 200
+      },
+      {
+        "clue": "In Brazil, what items are traditionally thrown at children on their birthdays?",
+        "correctQuestion": "Flour and eggs",
+        "value": 200
+      },
+      {
+        "clue": "In Canada, friends smear what on your nose on your birthday for good luck?",
+        "correctQuestion": "Butter",
+        "value": 200
+      },
+      {
+        "clue": "In India, the birthday person starts their meal with what course instead of the usual order?",
+        "correctQuestion": "Dessert",
+        "value": 200
+      },
+      {
+        "clue": "In Spain and Italy, the birthday person gets gentle tugs on their ears - one tug for each year of age - in a tradition called what?",
+        "correctQuestion": "Los tirones de oreja",
+        "value": 200
+      },
+      {
+        "clue": "In Mexico, children try to break open a blindfolded piñata to release what?",
+        "correctQuestion": "Candy and toys",
+        "value": 200
+      },
+      {
+        "clue": "In the traditional Korean age system, how old is a baby from the moment of birth?",
+        "correctQuestion": "One year old",
+        "value": 200
+      },
+      {
+        "clue": "In traditional Chinese culture, a person gains a new year of age on what occasion rather than on their birthday?",
+        "correctQuestion": "Lunar New Year (or Chinese New Year)",
+        "value": 200
+      },
+      {
+        "clue": "In Malta, on a child's first birthday, items are laid out and the child crawls to pick one - what is this tradition called?",
+        "correctQuestion": "Quċċija",
+        "value": 200
+      },
+      {
+        "clue": "In Vietnam, when does someone's age increase by one year, even if it's not their birthday?",
+        "correctQuestion": "On Tet (Lunar New Year)",
+        "value": 200
+      },
+      {
+        "clue": "In Germany, who traditionally bakes the birthday cake - the birthday person or their friends?",
+        "correctQuestion": "The birthday person",
+        "value": 200
+      },
+      {
+        "clue": "In Latin America, the 'quinceañera' celebration marks a girl turning what age?",
+        "correctQuestion": "Fifteen",
+        "value": 200
+      },
+      {
+        "clue": "In Spain and Italy, who typically pays for drinks at a birthday celebration?",
+        "correctQuestion": "The birthday person",
+        "value": 200
+      },
+      {
+        "clue": "In Brazil, who is considered the person most special to you, based on a birthday tradition?",
+        "correctQuestion": "The person who receives the first slice of your birthday cake",
+        "value": 200
+      },
+      {
+        "clue": "In Japan, the celebration of Seijin Shiki marks the beginning of what life stage?",
+        "correctQuestion": "Adulthood (or when someone turns 20)",
+        "value": 200
+      },
+      {
+        "clue": "In Poland, people celebrate what alongside birthdays, which are assigned to specific days on the calendar?",
+        "correctQuestion": "Name days",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological concept of 'rites of temporality' includes celebrating what milestone events?",
+        "correctQuestion": "Birthdays, jubilees, and anniversaries",
+        "value": 200
+      },
+      {
+        "clue": "In East Asian cultures, the traditional age counting system was based on what belief about conception?",
+        "correctQuestion": "Time spent in the womb counts as the first year of life",
+        "value": 200
+      },
+      {
+        "clue": "What traditional Chinese food symbolizes longevity and is commonly served at birthday celebrations?",
+        "correctQuestion": "Longevity noodles",
+        "value": 200
+      },
+      {
+        "clue": "In traditional Chinese astrology, a person's fate is believed to be bound to what astronomical body?",
+        "correctQuestion": "Jupiter",
+        "value": 200
+      },
+      {
+        "clue": "What is the psychological significance of celebrating birthdays across all cultures?",
+        "correctQuestion": "It communicates that an individual's existence matters to others",
+        "value": 200
+      },
+      {
+        "clue": "In Vietnam, people calculate age using two systems - the Gregorian calendar and what other calendar?",
+        "correctQuestion": "The lunar calendar",
+        "value": 200
+      },
+      {
+        "clue": "In Japan, the traditional age counting system was called 'kazoe-doshi' - it began at one and added a year on what occasion?",
+        "correctQuestion": "New Year's Day (or every January 1st)",
+        "value": 200
+      },
+      {
+        "clue": "What is 'bid'ah' in Islamic tradition?",
+        "correctQuestion": "An innovation in religion with no basis in Islamic law",
+        "value": 200
+      },
+      {
+        "clue": "In the quinceañera tradition, what life transition does the celebration mark for girls?",
+        "correctQuestion": "The transition from girlhood to womanhood",
+        "value": 200
+      },
+      {
+        "clue": "Which Confucian value is reflected in East Asian traditional age-counting systems?",
+        "correctQuestion": "Respect for life from conception",
+        "value": 200
+      },
+      {
+        "clue": "What year did South Korea officially switch from the traditional age system to the international age system?",
+        "correctQuestion": "2023",
+        "value": 200
+      },
+      {
+        "clue": "In modern mainland China, what is the official age calculation system called?",
+        "correctQuestion": "Full age (zhōusuì)",
+        "value": 200
+      },
+      {
+        "clue": "Which biblical figure is mentioned as having a birthday celebration in the Bible?",
+        "correctQuestion": "Pharaoh",
+        "value": 200
+      },
+      {
+        "clue": "In Jewish tradition, what type of celebration was unknown in traditional Jewish ritual until modern times?",
+        "correctQuestion": "Birthday celebrations",
+        "value": 200
+      },
+      {
+        "clue": "What is the Chinese zodiac cycle that completes when someone turns 60?",
+        "correctQuestion": "A complete cycle (or twelve animals)",
+        "value": 200
+      },
+      {
+        "clue": "In traditional Vietnamese culture, what communal occasion was traditionally more important than individual birthdays?",
+        "correctQuestion": "Tet (Lunar New Year)",
+        "value": 200
+      },
+      {
+        "clue": "What modern phenomenon has created increasing homogenization of birthday practices across cultures?",
+        "correctQuestion": "Globalization",
+        "value": 200
+      },
+      {
+        "clue": "In contemporary celebrations, traditional practices typically do what with imported Western birthday customs?",
+        "correctQuestion": "Blend with them (creating hybrid celebrations)",
+        "value": 200
+      },
+      {
+        "clue": "In traditional Jewish practice, many conservative Jews viewed birthday celebrations as customs imitating what culture?",
+        "correctQuestion": "Non-Jewish cultures (or 'the other nations')",
+        "value": 200
+      },
+      {
+        "clue": "What psychological and social function does birthday celebration serve across cultures?",
+        "correctQuestion": "Affirming individual identity, strengthening community bonds, and providing reflection and renewal",
+        "value": 200
+      },
+      {
+        "clue": "What is the anthropological significance of the 'nominal age' system in East Asian cultures?",
+        "correctQuestion": "It reflects Confucian values and the cyclical nature of time marked by lunar calendars",
+        "value": 200
+      },
+      {
+        "clue": "How does the Western age system differ fundamentally from the traditional East Asian system in terms of birth?",
+        "correctQuestion": "Western system counts from zero at birth; East Asian counts one year at birth",
+        "value": 200
+      },
+      {
+        "clue": "In cross-cultural psychology, what concept explains how birthday celebrations communicate individual worth?",
+        "correctQuestion": "Meeting the basic human need for belonging and affirmation",
+        "value": 200
+      },
+      {
+        "clue": "What scholarly debate exists within Islam regarding birthday celebrations?",
+        "correctQuestion": "Whether birthdays are impermissible innovations (bid'ah) or acceptable cultural celebrations",
+        "value": 200
+      },
+      {
+        "clue": "How do contemporary Chinese birthday practices represent cultural synthesis?",
+        "correctQuestion": "They combine both Western-style cake and traditional longevity noodles",
+        "value": 200
+      },
+      {
+        "clue": "What is the significance of the Shichi-go-san festival ages (3, 5, and 7) in Japanese culture?",
+        "correctQuestion": "They are considered auspicious ages associated with safe passage to adulthood",
+        "value": 200
+      },
+      {
+        "clue": "In comparative anthropology, what makes the quinceañera fundamentally different from many other birthday celebrations?",
+        "correctQuestion": "It marks a specific life transition (girlhood to womanhood) rather than simply marking passage of time",
+        "value": 200
+      },
+      {
+        "clue": "What does the concept of 'rites of temporality' suggest about modern industrial cultures?",
+        "correctQuestion": "They developed unique ritual systems that mark numerical milestones and passage of time",
+        "value": 200
+      },
+      {
+        "clue": "How does the traditional Korean age calculation system reflect cultural attitudes toward motherhood?",
+        "correctQuestion": "By counting the gestation period as the first year of life, honoring the mother's contribution",
+        "value": 200
+      },
+      {
+        "clue": "What is the underlying reason why ears never stop growing (according to Spanish and Italian traditions)?",
+        "correctQuestion": "This is the cultural belief used to justify the 'tirones de oreja' tradition signifying a longer life",
+        "value": 200
+      },
+      {
+        "clue": "From an anthropological perspective, what does the existence of different age-counting systems reveal about cultural epistemology?",
+        "correctQuestion": "Different cultures construct time and life progression through distinct philosophical frameworks",
+        "value": 200
+      },
+      {
+        "clue": "How does the concept of 'identity selection' in birthday celebrations function across cultures?",
+        "correctQuestion": "Birthdays serve as socially constructed occasions allowing individuals to define and affirm their identity",
+        "value": 200
+      },
+      {
+        "clue": "What is the relationship between Confucian philosophy and East Asian age-reckoning systems?",
+        "correctQuestion": "Confucianism emphasizes respect for life from conception, reflected in counting gestation as year one",
+        "value": 200
+      },
+      {
+        "clue": "In comparative religious studies, why do some conservative Islamic scholars oppose birthday celebrations?",
+        "correctQuestion": "Because birthdays are viewed as religious innovations with no basis in Quranic or Sunnah sources",
+        "value": 200
+      },
+      {
+        "clue": "How do hybrid birthday celebrations in modern China exemplify cultural globalization?",
+        "correctQuestion": "They combine imported Western customs with traditional practices, neither replacing the other",
+        "value": 200
+      },
+      {
+        "clue": "What does the variation in 'milestone age' celebrations across cultures suggest about universal human development?",
+        "correctQuestion": "While human development is universal, cultures mark different stages as socially significant",
+        "value": 200
+      },
+      {
+        "clue": "How does the polysemy of 'age' (nominal vs. actual) in East Asian cultures reflect broader worldview differences?",
+        "correctQuestion": "It reflects cyclical vs. linear time concepts and different philosophical frameworks for understanding life stages",
+        "value": 200
+      },
+      {
+        "clue": "What anthropological framework explains how the German superstition about birthday wishes relates to broader cultural systems?",
+        "correctQuestion": "It functions as a cultural boundary marker reinforcing group identity through shared magical thinking",
+        "value": 200
+      },
+      {
+        "clue": "In cross-cultural analysis, what distinguishes permissible religious practice from cultural celebration in Islamic birthday contexts?",
+        "correctQuestion": "Religious celebrations mark religious events; cultural celebrations commemorate secular occurrences without worship",
+        "value": 200
+      },
+      {
+        "clue": "How does the Jewish distinction between religious and cultural birthday celebrations differ from the Islamic approach?",
+        "correctQuestion": "Judaism permits cultural celebrations while Islam has stricter scholarly debate about permissibility",
+        "value": 200
+      },
+      {
+        "clue": "Analyze how the transition from nominal age to Western-style age calculation in Korea (2023) represents a sociolinguistic shift in cultural identity.",
+        "correctQuestion": "It reflects globalization pressures and modernization, though traditional practices persist in cultural contexts despite legal standardization",
+        "value": 200
+      },
+      {
+        "clue": "From a comparative epistemology perspective, what fundamental assumptions underlie East Asian versus Western age-reckoning systems?",
+        "correctQuestion": "East Asian systems assume time is cyclical and gestation is life's beginning; Western systems assume linear time and biological birth as origin",
+        "value": 200
+      },
+      {
+        "clue": "How does Bourdieu's concept of 'habitus' apply to cross-cultural birthday practices?",
+        "correctQuestion": "Birthday celebrations function as durable, transposable dispositions that encode cultural values into individual behavior patterns",
+        "value": 200
+      },
+      {
+        "clue": "What does the absence of traditional Jewish birthday celebrations in historical sources suggest about the relationship between religion and cultural practice?",
+        "correctQuestion": "It demonstrates that cultural practices (like birthday celebrations) are not necessarily continuous with religious tradition but may be adopted through cultural diffusion",
+        "value": 200
+      },
+      {
+        "clue": "Explain the tension between Islamic scholars regarding birthday celebrations using the framework of legal pluralism.",
+        "correctQuestion": "Conservative scholars apply strict textual hermeneutics (bid'ah framework), while permissive scholars use cultural relativism and contextual interpretation of Shari'ah",
+        "value": 200
+      },
+      {
+        "clue": "How do contemporary hybrid birthday celebrations in Asia exemplify Hall's theory of cultural hybridity?",
+        "correctQuestion": "They represent third spaces where Western and traditional practices are neither assimilated nor separated but creatively recombined",
+        "value": 200
+      },
+      {
+        "clue": "From a developmental psychology perspective, what universal and culturally-specific aspects emerge in birthday milestone celebrations?",
+        "correctQuestion": "Universal: marking developmental transitions; Culture-specific: which ages are salient and what rituals mark them",
+        "value": 200
+      },
+      {
+        "clue": "Apply Goffman's dramaturgy to understand the performance aspects of different cultural birthday celebrations.",
+        "correctQuestion": "Birthday celebrations are 'front stage' performances where individuals and communities present idealized versions of identity and values",
+        "value": 200
+      },
+      {
+        "clue": "How does the concept of 'invented tradition' apply to the modern Western birthday celebration complex?",
+        "correctQuestion": "Modern birthday celebrations are relatively recent inventions (19th century) that became naturalized as universal through globalization",
+        "value": 200
+      },
+      {
+        "clue": "What does the German superstition about birthday wishes suggest about magical thinking and cultural boundary maintenance?",
+        "correctQuestion": "It functions as a social norm enforcer that maintains group identity by creating shared systems of magical belief",
+        "value": 200
+      },
+      {
+        "clue": "Critically examine how the discourse of 'cultural diversity' in birthday celebrations obscures underlying power dynamics of cultural imperialism.",
+        "correctQuestion": "Western birthday norms (cake, candles, individual focus) are globally imposed while local traditions are framed as equally valid 'diversity'",
+        "value": 200
+      },
+      {
+        "clue": "Using phenomenological analysis, how does the temporal experience of a birthday differ between cultures with cyclical versus linear time conception?",
+        "correctQuestion": "Cyclical time (East Asian) creates recursive, collective experiences; linear time (Western) emphasizes irreplaceable, individual moments",
+        "value": 200
+      },
+      {
+        "clue": "How do competing hermeneutical frameworks in Islamic jurisprudence regarding birthdays reflect broader methodological debates?",
+        "correctQuestion": "Conservative approaches prioritize textual literalism and qiyas (analogy); permissive approaches use maslaha (public interest) and contextual ijtihad",
+        "value": 200
+      },
+      {
+        "clue": "Analyze how age-counting systems function as 'ontological technologies' that construct different versions of personhood.",
+        "correctQuestion": "They define when personhood begins, how persons relate to time, and what developmental stages matter socially and legally",
+        "value": 200
+      },
+      {
+        "clue": "What does the quinceañera celebration suggest about the relationship between patriarchal control and ritual rites of passage?",
+        "correctQuestion": "It represents a gendered rite marking transition to marriageability, reflecting patriarchal control over female sexuality and family structure",
+        "value": 200
+      },
+      {
+        "clue": "How does Anderson's framework of 'imagined communities' apply to the construction of 'global birthday culture'?",
+        "correctQuestion": "Modern birthday celebrations create imagined transnational communities through shared consumption practices (cakes, presents, songs)",
+        "value": 200
+      },
+      {
+        "clue": "Critically evaluate the claim that birthday celebrations are 'universal' across cultures using evidence from religious traditions.",
+        "correctQuestion": "Many religious traditions historically rejected or remain ambivalent about birthdays, suggesting 'universality' is a recent imposition",
+        "value": 200
+      },
+      {
+        "clue": "How do semiotic analyses of birthday foods (noodles, cake, soup) reveal underlying cultural cosmologies?",
+        "correctQuestion": "Foods function as signs encoding cultural values: longevity noodles signify circular time; birthday cake signifies individual achievement",
+        "value": 200
+      },
+      {
+        "clue": "What epistemological implications arise from the fact that age can be 'wrong' in South Korea until 2023?",
+        "correctQuestion": "It demonstrates that social facts (age) are constructed through legal and cultural systems rather than natural givens",
+        "value": 200
+      },
+      {
+        "clue": "Analyze how naming practices in Polish culture (name days) compared to birthday celebrations reflects different ontologies of personhood.",
+        "correctQuestion": "Name days emphasize collective religious and historical identity; birthdays emphasize individual existence in abstract time",
+        "value": 200
+      },
+      {
+        "clue": "Synthesize perspectives from linguistic relativity (Sapir-Whorf), East Asian ontology, and temporal phenomenology to explain why age-reckoning systems are not merely technical but fundamentally shape consciousness.",
+        "correctQuestion": "Different counting systems encode different temporal orientations, leading to divergent experiences of causality, self, and historical agency",
+        "value": 200
+      },
+      {
+        "clue": "Deconstruct the binary between 'religious' and 'cultural' in Islamic scholarship on birthdays using poststructuralist semiotics.",
+        "correctQuestion": "The distinction itself is unstable; what's framed as 'cultural' often carries religious significance, and 'religious' classifications are contextually determined",
+        "value": 200
+      },
+      {
+        "clue": "How does Braudel's concept of the 'longue durée' illuminate the resistance to birthday celebrations in conservative religious communities?",
+        "correctQuestion": "Birthday celebrations represent short-term globalizing trends, while resistance reflects long-term religious structures and temporal orientations",
+        "value": 200
+      },
+      {
+        "clue": "Apply multispecies ethnography to understand how the global dissemination of birthday cakes created new forms of human-cake interdependence.",
+        "correctQuestion": "Cakes as material actors shape celebration practices; their dissemination traces networks of colonial trade, sugar politics, and cultural consumption",
+        "value": 200
+      },
+      {
+        "clue": "Critique the notion of 'cultural diversity in birthdays' using Chakrabarty's framework of provincializing the West.",
+        "correctQuestion": "Treating all birthday practices as equally diverse obscures how Western practices were globally imposed; provincialism would center non-Western knowledge systems",
+        "value": 200
+      },
+      {
+        "clue": "How does Agamben's concept of 'state of exception' apply to the legal standardization of age in South Korea (2023)?",
+        "correctQuestion": "The law creates an exceptional moment where traditional practice is suspended, revealing how states use 'normalization' to assert biopolitical control",
+        "value": 200
+      },
+      {
+        "clue": "Using Latour's actor-network theory, map how birthday cake technology networks transformed global celebration practices.",
+        "correctQuestion": "Cakes, sugar trade, refrigeration, transportation, and commercial interests formed networks that translated birthday practices across cultures",
+        "value": 200
+      },
+      {
+        "clue": "How do contemporary hybrid Chinese birthday practices instantiate what Tsing calls 'friction' in global encounters?",
+        "correctQuestion": "Rather than seamless synthesis, traditional and Western practices create productive friction revealing incompatible temporal and cosmological frameworks",
+        "value": 200
+      },
+      {
+        "clue": "Analyze the genealogy of the 'Happy Birthday' song as an example of Foucauldian discourse producing the modern birthday subject.",
+        "correctQuestion": "The song functions as a disciplinary technology that individualizes celebrants and makes birthday-having a visible, measurable identity practice",
+        "value": 200
+      },
+      {
+        "clue": "What do conflicting Islamic legal rulings on birthdays reveal about the relationship between textual interpretation and cultural change in Islamic jurisprudence?",
+        "correctQuestion": "They demonstrate that religious texts are not self-interpreting; historical context, community practice, and interpretive methodology shape permissibility",
+        "value": 200
+      },
+      {
+        "clue": "Theorize how the globalization of birthday practices exemplifies what Appadurai calls 'ethnoscapes' - the movement of people and cultures creating transnational formations.",
+        "correctQuestion": "Birthday practices circulate through multiple ethnoscapes simultaneously: migrants bring traditions, media disseminates norms, commerce globalizes consumption",
+        "value": 200
+      },
+      {
+        "clue": "Using Mol's ontological pluralism, argue that different age-counting systems constitute different ontological objects - not alternative descriptions of the 'same' age.",
+        "correctQuestion": "Nominal and Western age aren't translations of each other; they perform different ontologies with distinct implications for personhood, time, and causality",
+        "value": 200
+      },
+      {
+        "clue": "How does the quinceañera exemplify what Ortner calls 'serious games' - practices that condense key cultural categories and conflicts?",
+        "correctQuestion": "It condenses gender ideology, family structure, religious identity, and modernity/tradition tensions into a single elaborate ritual performance",
+        "value": 200
+      },
+      {
+        "clue": "Problematize the concept of 'cultural diversity' in birthday studies using Chandra Mohanty's framework of epistemic injustice.",
+        "correctQuestion": "Celebrating 'diverse traditions' without analyzing power dynamics constitutes epistemic injustice - erasing how Western practices became globally hegemonic",
+        "value": 200
+      },
+      {
+        "clue": "Using Derrida's concept of hauntology, analyze how traditional birthday practices persist as 'specters' in globalized celebrations.",
+        "correctQuestion": "Traditional practices haunt modern celebrations - neither fully present nor absent - creating temporal uncanniness in hybrid birthday performances",
+        "value": 200
+      },
+      {
+        "clue": "How does the German superstition about birthday wishes function as a 'ritual technology' of social reproduction?",
+        "correctQuestion": "It socializes individuals into specific temporal discipline and magical frameworks, reproducing community boundaries through internalized rules",
+        "value": 200
+      },
+      {
+        "clue": "Apply Viveiros de Castro's perspectivism to argue that different age-counting systems represent incommensurable cultural perspectives.",
+        "correctQuestion": "Each system occupies a distinct subject position toward time and personhood; they cannot be harmonized but only shifted between perspectivally",
+        "value": 200
+      },
+      {
+        "clue": "Synthesize scholarship from ritual theory, economic anthropology, and postcolonial studies to analyze birthday celebrations as sites of cultural imperialism.",
+        "correctQuestion": "Birthday rituals normalize consumption capitalism, individualism, and linear temporality while framing resistance as cultural backwardness",
+        "value": 200
+      },
+      {
+        "clue": "How does the debate between Islamic scholars on birthday permissibility instantiate Gadamer's 'fusion of horizons' in hermeneutic practice?",
+        "correctQuestion": "Scholars fuse textual tradition horizons with contemporary contexts, creating new interpretations where neither tradition nor modernity fully determines meaning",
+        "value": 200
+      },
+      {
+        "clue": "Theorize how the transition from nominal to Western age in South Korea (2023) exemplifies what Achille Mbembe calls 'necropolitics' of temporal standardization.",
+        "correctQuestion": "Legal age standardization exercises state power over how lives are temporally counted, measured, and made legible to administrative systems",
+        "value": 200
+      },
+      {
+        "clue": "Which Asian country celebrates the Shichi-go-san festival on November 15?",
+        "correctQuestion": "Japan",
+        "value": 200
+      },
+      {
+        "clue": "What color clothes do Indian children wear on their birthdays?",
+        "correctQuestion": "New brightly colored clothes",
+        "value": 200
+      },
+      {
+        "clue": "In which European country is it considered bad luck to bake your own birthday cake?",
+        "correctQuestion": "Germany",
+        "value": 200
+      },
+      {
+        "clue": "What Latin American tradition celebrates a girl's transition to womanhood at age 15?",
+        "correctQuestion": "Quinceañera",
+        "value": 200
+      },
+      {
+        "clue": "In China, what special ages are traditionally celebrated as important life milestones?",
+        "correctQuestion": "Age 60 (and ages like 70, 80, 90, 100 for elders)",
+        "value": 200
+      },
+      {
+        "clue": "What tradition happens at a child's first birthday in Malta?",
+        "correctQuestion": "Items are laid out and the child crawls to pick one (Quċċija tradition)",
+        "value": 200
+      },
+      {
+        "clue": "In what country do people have two different ways to count their age?",
+        "correctQuestion": "Vietnam",
+        "value": 200
+      },
+      {
+        "clue": "In Mexico, what is pushed into the birthday cake during 'la mordida'?",
+        "correctQuestion": "The birthday person's face",
+        "value": 200
+      },
+      {
+        "clue": "What celebratory food is eaten on birthdays in South Korea?",
+        "correctQuestion": "Miyeok-gook (seaweed soup)",
+        "value": 200
+      },
+      {
+        "clue": "In Poland, what alternative to birthdays is celebrated alongside or instead of birthday celebrations?",
+        "correctQuestion": "Name days",
+        "value": 200
+      },
+      {
+        "clue": "What anthropological framework explains how cultures create different rituals around the passage of time?",
+        "correctQuestion": "Rites of temporality",
+        "value": 200
+      },
+      {
+        "clue": "According to East Asian philosophy, why does the traditional age system begin at one year old?",
+        "correctQuestion": "Because the time in the womb is considered part of life",
+        "value": 200
+      },
+      {
+        "clue": "What does a Japanese Seijin Shiki ceremony celebrate?",
+        "correctQuestion": "The coming of age/beginning of adulthood (around age 20)",
+        "value": 200
+      },
+      {
+        "clue": "Why might traditional Jewish families be reluctant to celebrate birthdays?",
+        "correctQuestion": "Because birthday celebrations are viewed as customs from non-Jewish cultures",
+        "value": 200
+      },
+      {
+        "clue": "What is the primary objection some Islamic scholars have to birthday celebrations?",
+        "correctQuestion": "They view them as innovations (bid'ah) with no basis in Islamic law",
+        "value": 200
+      },
+      {
+        "clue": "How has globalization affected birthday traditions across cultures?",
+        "correctQuestion": "It has created increasing homogenization while local traditions blend with imported Western customs",
+        "value": 200
+      },
+      {
+        "clue": "What is the significance of the number 60 in traditional Chinese birthday celebrations?",
+        "correctQuestion": "It completes a full cycle of the Chinese zodiac",
+        "value": 200
+      },
+      {
+        "clue": "In the Confucian tradition, why is the time before birth considered important in age calculation?",
+        "correctQuestion": "It reflects respect for life from conception",
+        "value": 200
+      },
+      {
+        "clue": "What does the variety of birthday traditions across cultures reveal about human society?",
+        "correctQuestion": "While birthdays are universal, each culture marks different ages and uses different rituals with different meanings",
+        "value": 200
+      },
+      {
+        "clue": "Why was 2023 an important year for South Korean age counting?",
+        "correctQuestion": "South Korea officially switched from the traditional age system to the international age system",
+        "value": 200
+      },
+      {
+        "clue": "How do modern Chinese birthday celebrations exemplify cultural hybridity?",
+        "correctQuestion": "They combine Western cake and candles with traditional longevity noodles, integrating rather than replacing traditions",
+        "value": 200
+      },
+      {
+        "clue": "What does the persistence of different age-counting systems reveal about cultural resistance to globalization?",
+        "correctQuestion": "Cultures maintain alternative temporal frameworks despite legal standardization, indicating persistent ontological differences",
+        "value": 200
+      },
+      {
+        "clue": "How does the quinceañera ceremony function as a rite of passage in Latin American cultures?",
+        "correctQuestion": "It marks a girl's transition from girlhood to womanhood, reinforcing family structure and cultural identity",
+        "value": 200
+      },
+      {
+        "clue": "What methodological challenge arises when comparing birthday practices across cultures?",
+        "correctQuestion": "Determining whether practices are comparable when they occur at different ages and carry different cultural meanings",
+        "value": 200
+      },
+      {
+        "clue": "How do religious traditions shape the acceptance or rejection of birthday celebrations?",
+        "correctQuestion": "Conservative traditions may view birthdays as religious innovations or cultural imports, while others integrate them into religious practice",
+        "value": 200
+      },
+      {
+        "clue": "What psychological function do birthday celebrations serve in building community bonds?",
+        "correctQuestion": "They create shared moments of celebration that affirm an individual's importance and strengthen group cohesion",
+        "value": 200
+      },
+      {
+        "clue": "How does the concept of 'nominal age' versus 'actual age' reflect different philosophical approaches to time?",
+        "correctQuestion": "Nominal age reflects cyclical, relational time; actual age reflects linear, absolute time since birth",
+        "value": 200
+      },
+      {
+        "clue": "What does the birthday food tradition symbolize in different cultures?",
+        "correctQuestion": "Foods carry cultural meanings: longevity noodles symbolize long life, cake symbolizes individual achievement",
+        "value": 200
+      },
+      {
+        "clue": "How has the global dissemination of Western birthday practices affected local traditions?",
+        "correctQuestion": "Some cultures have adopted Western practices while maintaining traditional ones, creating hybrid celebrations",
+        "value": 200
+      },
+      {
+        "clue": "What does the German superstition about wishing someone happy birthday reveal about cultural values?",
+        "correctQuestion": "It reflects cultural beliefs about fate, timing, and the power of words in shaping outcomes",
+        "value": 200
+      },
+      {
+        "clue": "How do competing frameworks in Islamic jurisprudence regarding birthdays reflect broader methodological debates about religious authority?",
+        "correctQuestion": "They demonstrate tensions between textualist approaches (bid'ah), contextualist interpretations (ijtihad), and cultural relativism (maslaha)",
+        "value": 200
+      },
+      {
+        "clue": "What does the legal standardization of age in South Korea exemplify about the relationship between law and culture?",
+        "correctQuestion": "Law functions as a technology of normalization that standardizes practices but doesn't necessarily eliminate cultural alternatives",
+        "value": 200
+      },
+      {
+        "clue": "How do birthday celebrations function as 'technologies of identity' in contemporary societies?",
+        "correctQuestion": "They make personhood visible, measurable, and subject to celebration, transforming age from biological fact to social identity",
+        "value": 200
+      },
+      {
+        "clue": "What theoretical framework best explains why different cultures mark different ages as significant?",
+        "correctQuestion": "Cultural materialism: different survival needs and social structures produce different developmental priorities",
+        "value": 200
+      },
+      {
+        "clue": "How does Confucian philosophy shape East Asian approaches to age, time, and intergenerational relationships?",
+        "correctQuestion": "Confucianism emphasizes respect for elders, cyclical time, and hierarchical relationships, all reflected in age-counting and celebration practices",
+        "value": 200
+      },
+      {
+        "clue": "What epistemological implications arise from multiple valid systems of age calculation existing simultaneously?",
+        "correctQuestion": "It demonstrates that social facts are constructed rather than natural, and that different cultures can have fundamentally different conceptualizations of the same phenomenon",
+        "value": 200
+      },
+      {
+        "clue": "How does the concept of 'third space' apply to hybrid birthday celebrations in globalized contexts?",
+        "correctQuestion": "Hybrid celebrations are neither traditional nor Western but create new cultural forms that cannot be reduced to either origin",
+        "value": 200
+      },
+      {
+        "clue": "What does the relationship between birthday practices and commercial consumption patterns reveal about modernity?",
+        "correctQuestion": "Modern birthdays are increasingly commodified, transforming celebrations into consumption events that serve economic interests",
+        "value": 200
+      },
+      {
+        "clue": "How can anthropological analysis of birthday traditions contribute to understanding broader processes of globalization?",
+        "correctQuestion": "Birthday practices reveal how global and local forces interact, showing both homogenization and creative resistance to cultural imperialism",
+        "value": 200
+      },
+      {
+        "clue": "What methodological challenges arise when conducting cross-cultural comparison of birthday traditions?",
+        "correctQuestion": "The challenge of finding commensurable categories when meanings, ages, and practices differ fundamentally across cultures",
+        "value": 200
+      },
+      {
+        "clue": "Synthesize Foucault's concept of 'biopower' with birthday celebration studies to analyze how states regulate personhood through age standardization.",
+        "correctQuestion": "Age standardization functions as biopower: it makes populations legible, measurable, and subject to governance while naturalizing capitalist temporality",
+        "value": 200
+      },
+      {
+        "clue": "How does the semiotics of birthday foods illuminate the 'deep structure' of cultural worldviews?",
+        "correctQuestion": "Foods function as condensed symbols encoding cosmological ideas: circular foods represent cycles; individuated foods represent personhood",
+        "value": 200
+      },
+      {
+        "clue": "Apply Latour's 'compositionist' approach to map the global networks that produce modern birthday celebrations.",
+        "correctQuestion": "Birthdays emerge from networks including sugar production, industrial baking, refrigeration, consumer capitalism, and cultural globalization",
+        "value": 200
+      },
+      {
+        "clue": "How does the Islamic legal debate on birthdays exemplify Gadamer's principle that 'understanding itself is always interpretation'?",
+        "correctQuestion": "Different interpretations arise because texts require contextual application; there is no view from nowhere that resolves the debate",
+        "value": 200
+      },
+      {
+        "clue": "What does the persistence of 'magical thinking' in birthday superstitions (German wishes, ear-pulling) suggest about modernity?",
+        "correctQuestion": "Modernity has not eliminated magical thinking but rather transformed its functions - it now operates as identity marker and community boundary",
+        "value": 200
+      },
+      {
+        "clue": "How does performativity theory explain the constitutive role of birthday celebrations in creating cultural identities?",
+        "correctQuestion": "Celebrating birthdays performatively produces cultural identity; repeated performances naturalize practices as if they were essential",
+        "value": 200
+      },
+      {
+        "clue": "What does the concept of 'subaltern historiography' offer for understanding suppressed birthday traditions in colonized cultures?",
+        "correctQuestion": "It reveals how colonial imposition of Western birthday practices erased alternative temporal systems and cosmologies",
+        "value": 200
+      },
+      {
+        "clue": "How do different age-counting systems exemplify what Wittgenstein called 'forms of life'?",
+        "correctQuestion": "Each system embeds a distinct language game with different rules, values, and ways of being that cannot be translated without remainder",
+        "value": 200
+      },
+      {
+        "clue": "Apply Deleuze's concept of 'striated' versus 'smooth' space to analyze how Western birthday standardization creates bureaucratic order.",
+        "correctQuestion": "Western age systems striated space (imposed grid), while traditional systems occupy smooth space (relational, fluid); globalization imposes stration",
+        "value": 200
+      },
+      {
+        "clue": "How does the anthropology of birthday practices contribute to theorizing the relationship between ritual and social reproduction?",
+        "correctQuestion": "Birthday rituals function as 'serious games' that simultaneously reflect and reproduce cultural values, temporalities, and social hierarchies",
+        "value": 200
+      },
+      {
+        "clue": "What birthday tradition in Spain involves pulling people's ears?",
+        "correctQuestion": "Los tirones de oreja (one pull for each year of age)",
+        "value": 200
+      },
+      {
+        "clue": "In Vietnam, people celebrate their birthday on which major holiday?",
+        "correctQuestion": "Tet (Lunar New Year)",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'piñata' used for at Mexican birthday parties?",
+        "correctQuestion": "It's broken open to release candy and toys",
+        "value": 200
+      },
+      {
+        "clue": "In which country does the birthday person traditionally buy drinks for friends?",
+        "correctQuestion": "Spain and Italy",
+        "value": 200
+      },
+      {
+        "clue": "In China, what number represents a complete life cycle in traditional birthday celebrations?",
+        "correctQuestion": "Sixty (60)",
+        "value": 200
+      },
+      {
+        "clue": "What is the modern official age-calculation system in mainland China called?",
+        "correctQuestion": "Full age (zhōusuì)",
+        "value": 200
+      },
+      {
+        "clue": "In Japanese culture, what traditional name was given to the age-counting system that added a year every New Year's Day?",
+        "correctQuestion": "Kazoe-doshi",
+        "value": 200
+      },
+      {
+        "clue": "What is the main belief behind the tradition of eating longevity noodles at Chinese birthdays?",
+        "correctQuestion": "They symbolize a long life",
+        "value": 200
+      },
+      {
+        "clue": "In which country is it believed that ears never stop growing, so ear-pulling signifies longer life?",
+        "correctQuestion": "Spain and Italy",
+        "value": 200
+      },
+      {
+        "clue": "What does the Japanese term 'man nenrei' refer to in age calculation?",
+        "correctQuestion": "The Western-style age system (starting at zero)",
+        "value": 200
+      },
+      {
+        "clue": "How does understanding birthday traditions contribute to cultural competence in diverse societies?",
+        "correctQuestion": "It helps people recognize and respect differences while understanding the values each tradition expresses",
+        "value": 200
+      },
+      {
+        "clue": "Why might traditional communities resist the adoption of Western-style birthday celebrations?",
+        "correctQuestion": "Because they may conflict with religious beliefs, cultural values, or different conceptions of personhood and time",
+        "value": 200
+      },
+      {
+        "clue": "What does the variety of 'milestone age' celebrations reveal about human development?",
+        "correctQuestion": "While physical development is universal, cultures define different ages as socially and spiritually significant",
+        "value": 200
+      },
+      {
+        "clue": "How does globalization create 'hybrid' birthday celebrations in multicultural societies?",
+        "correctQuestion": "When people from different cultures interact, they blend traditional practices with dominant global practices",
+        "value": 200
+      },
+      {
+        "clue": "What do birthday celebrations reveal about what cultures consider important in human life?",
+        "correctQuestion": "They reveal which ages, transitions, and values a culture considers significant enough to mark with ritual",
+        "value": 200
+      },
+      {
+        "clue": "How does the concept of 'invented tradition' apply to modern birthday celebration practices?",
+        "correctQuestion": "Modern birthday celebrations are recent inventions (19th century) that became naturalized as universal through capitalist expansion and globalization",
+        "value": 200
+      },
+      {
+        "clue": "Analyze the relationship between religious belief systems and the acceptance or rejection of birthday celebrations.",
+        "correctQuestion": "Religions that emphasize textual sources over cultural adaptation tend to resist birthdays; those allowing contextual interpretation integrate them",
+        "value": 200
+      },
+      {
+        "clue": "How do age-counting systems function as 'embodied philosophy' reflecting deeper cultural assumptions?",
+        "correctQuestion": "They physically and linguistically encode worldviews about time, personhood, and mortality through daily practice",
+        "value": 200
+      },
+      {
+        "clue": "What does the resistance to birthday celebrations in some Islamic communities suggest about cultural-religious boundaries?",
+        "correctQuestion": "It shows how cultures use religious frameworks to maintain distinct identities against homogenizing global pressures",
+        "value": 200
+      },
+      {
+        "clue": "How do birthday food traditions function as markers of cultural identity and continuity?",
+        "correctQuestion": "Foods maintain cultural knowledge, reinforce group membership, and connect present celebrations to historical tradition",
+        "value": 200
+      },
+      {
+        "clue": "Synthesize research on temporal anthropology and phenomenology to explain why different age-counting systems create fundamentally different experiences of aging.",
+        "correctQuestion": "Cyclical time (nominal age) creates recursive, participatory experience; linear time (Western age) creates directional, individual trajectory experience",
+        "value": 200
+      },
+      {
+        "clue": "How does the concept of 'cultural capital' (Bourdieu) apply to the consumption practices surrounding modern birthday celebrations?",
+        "correctQuestion": "Birthday celebration styles signal class position; expensive cakes, gifts, and venues distinguish high from low cultural capital",
+        "value": 200
+      },
+      {
+        "clue": "What does the presence of competing Islamic legal frameworks on birthdays reveal about the nature of religious authority?",
+        "correctQuestion": "It demonstrates that religious authority is fragmented and contextual; textual authority doesn't determine interpretation without interpretive community",
+        "value": 200
+      },
+      {
+        "clue": "How can anthropological study of birthday celebrations illuminate the relationship between law, culture, and individual agency?",
+        "correctQuestion": "It shows how legal standardization (South Korea 2023) attempts to control culture but individuals and communities maintain alternative practices",
+        "value": 200
+      },
+      {
+        "clue": "What theoretical framework best explains why birthday superstitions (German wishes, ear-pulling) persist in modern secular societies?",
+        "correctQuestion": "Ritual theory: superstitions function as social bonding mechanisms and boundary markers, not as literal magical beliefs",
+        "value": 200
+      },
+      {
+        "clue": "Construct a genealogical argument (Foucauldian) showing how modern birthday practices emerged from specific historical conditions (industrial capitalism, nationalism, mass consumption).",
+        "correctQuestion": "Modern birthdays are products of industrial periodization, nationalist identity formation, and capitalist consumption practices, not expressions of unchanging human nature",
+        "value": 200
+      },
+      {
+        "clue": "How does the study of age-reckoning systems contribute to Kuhn's paradigm theory in the history and philosophy of science?",
+        "correctQuestion": "Different age systems are incommensurable paradigms; switching systems requires gestalt shift, not mere translation",
+        "value": 200
+      },
+      {
+        "clue": "Apply Haraway's 'situated knowledge' framework to problematize claims to objective comparison of birthday traditions.",
+        "correctQuestion": "All comparisons are situated in specific power positions; what appears as 'diversity' is actually imposition of Western categories on non-Western practices",
+        "value": 200
+      },
+      {
+        "clue": "How does Tsing's 'friction' concept help theorize the productivity of global birthday practice encounters?",
+        "correctQuestion": "Frictions between different traditions produce new forms and understandings; not all encounters result in seamless hybridity",
+        "value": 200
+      },
+      {
+        "clue": "Theorize birthday celebrations as a site where macro forces (globalization, capitalism, law) and micro practices (ritual, kinship, belief) co-constitute each other.",
+        "correctQuestion": "Birthday celebrations are neither entirely determined by global forces nor entirely free from them; they are sites of ongoing negotiation and bricolage",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

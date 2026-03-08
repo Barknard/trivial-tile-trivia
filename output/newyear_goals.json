@@ -1,384 +1,165 @@
 {
   "category": "New Year Goals & Ambitions",
-  "description": "New Year resolutions, goal-setting, ambitions, and fresh starts",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "The tradition of making promises to yourself on January 1st",
-      "answer": "What is a New Year's resolution?"
-    },
-    {
-      "points": 200,
-      "clue": "Something you want to achieve or accomplish in the coming year",
-      "answer": "What is a goal?"
-    },
-    {
-      "points": 200,
-      "clue": "The first day of the year when most people promise to change their life",
-      "answer": "What is January 1st?"
-    },
-    {
-      "points": 200,
-      "clue": "A fresh start or beginning that January symbolizes",
-      "answer": "What is a new beginning?"
-    },
-    {
-      "points": 200,
-      "clue": "The month when most New Year resolutions are made and broken",
-      "answer": "What is January?"
-    },
-    {
-      "points": 200,
-      "clue": "The process of planning what you want to accomplish",
-      "answer": "What is goal setting?"
-    },
-    {
-      "points": 200,
-      "clue": "A list of things you want to do or achieve",
-      "answer": "What is a bucket list?"
-    },
-    {
-      "points": 200,
-      "clue": "The improvement of yourself through dedication and effort",
-      "answer": "What is self-improvement?"
-    },
-    {
-      "points": 200,
-      "clue": "Something you commit to doing regularly to reach your goals",
-      "answer": "What is a habit?"
-    },
-    {
-      "points": 200,
-      "clue": "The determination to see something through until completion",
-      "answer": "What is perseverance?"
-    },
-    {
-      "points": 400,
-      "clue": "The practice of getting in shape and working out regularly",
-      "answer": "What is exercise?"
-    },
-    {
-      "points": 400,
-      "clue": "The most common New Year's resolution involving physical fitness",
-      "answer": "What is losing weight?"
-    },
-    {
-      "points": 400,
-      "clue": "A promise to quit smoking, drinking, or other unhealthy habits",
-      "answer": "What is quitting a bad habit?"
-    },
-    {
-      "points": 400,
-      "clue": "The goal to eat healthier and change your diet",
-      "answer": "What is eating healthy?"
-    },
-    {
-      "points": 400,
-      "clue": "Saving money for future security and opportunities",
-      "answer": "What is financial security?"
-    },
-    {
-      "points": 400,
-      "clue": "The aim to improve your skills or learn something new",
-      "answer": "What is learning?"
-    },
-    {
-      "points": 400,
-      "clue": "A goal related to advancing in your career or job",
-      "answer": "What is career advancement?"
-    },
-    {
-      "points": 400,
-      "clue": "The objective to spend more quality time with loved ones",
-      "answer": "What is family time?"
-    },
-    {
-      "points": 400,
-      "clue": "The commitment to read more books throughout the year",
-      "answer": "What is reading?"
-    },
-    {
-      "points": 400,
-      "clue": "A promise to be more organized and declutter your space",
-      "answer": "What is organization?"
-    },
-    {
-      "points": 600,
-      "clue": "The aspiration to travel to new places and experience the world",
-      "answer": "What is travel?"
-    },
-    {
-      "points": 600,
-      "clue": "A goal to improve your mental health and practice mindfulness",
-      "answer": "What is mental wellness?"
-    },
-    {
-      "points": 600,
-      "clue": "The objective to reduce stress and find inner peace",
-      "answer": "What is stress relief?"
-    },
-    {
-      "points": 600,
-      "clue": "A commitment to spend less time on social media and screens",
-      "answer": "What is digital detox?"
-    },
-    {
-      "points": 600,
-      "clue": "The goal to volunteer and help others in your community",
-      "answer": "What is volunteering?"
-    },
-    {
-      "points": 600,
-      "clue": "A promise to be more confident and believe in yourself",
-      "answer": "What is self-confidence?"
-    },
-    {
-      "points": 600,
-      "clue": "The aim to repair or improve your relationships with others",
-      "answer": "What is fixing relationships?"
-    },
-    {
-      "points": 600,
-      "clue": "A goal to develop better communication and listening skills",
-      "answer": "What is communication skills?"
-    },
-    {
-      "points": 600,
-      "clue": "The objective to be more responsible and dependable",
-      "answer": "What is accountability?"
-    },
-    {
-      "points": 600,
-      "clue": "A New Year's promise to be kind and compassionate to others",
-      "answer": "What is kindness?"
-    }
-  ],
-  "cah_clues": [
-    {
-      "points": 200,
-      "clue": "What 87% of people have already abandoned by February 1st",
-      "answer": "What is a New Year's resolution?"
-    },
-    {
-      "points": 200,
-      "clue": "The lie you tell yourself every January 1st before returning to your couch by January 3rd",
-      "answer": "What is 'I'm going to the gym every day'?"
-    },
-    {
-      "points": 200,
-      "clue": "What every gym membership company hopes you'll buy then never use",
-      "answer": "What is a January gym membership?"
-    },
-    {
-      "points": 200,
-      "clue": "The cringe moment when you see your drunk January self's resolutions in February",
-      "answer": "What is regret?"
-    },
-    {
-      "points": 200,
-      "clue": "What fills up LinkedIn every January as people pretend to have ambitions",
-      "answer": "What are humble brags about New Year goals?"
-    },
-    {
-      "points": 200,
-      "clue": "The notebook you bought for goal-planning that's still blank in December",
-      "answer": "What is motivation?"
-    },
-    {
-      "points": 200,
-      "clue": "What most people need after 3 days of trying to keep their New Year resolutions",
-      "answer": "What is therapy?"
-    },
-    {
-      "points": 200,
-      "clue": "The app everyone buys in January to track habits they'll ignore by week 2",
-      "answer": "What is a habit-tracking app?"
-    },
-    {
-      "points": 200,
-      "clue": "What your expensive home gym equipment becomes by March",
-      "answer": "What is a coat rack?"
-    },
-    {
-      "points": 200,
-      "clue": "The most viewed and immediately ignored section of social media on January 1st",
-      "answer": "What are 'fitspo' posts?"
-    },
-    {
-      "points": 400,
-      "clue": "What killed your New Year goal worse than midnight tacos on January 2nd",
-      "answer": "What is self-sabotage?"
-    },
-    {
-      "points": 400,
-      "clue": "The gift you got everyone in December that they're returning to buy better gym shoes",
-      "answer": "What is a cookbook?"
-    },
-    {
-      "points": 400,
-      "clue": "The streaming service you paid for in January to watch 'motivational content' while doom-scrolling instead",
-      "answer": "What is Peacock or Hulu?"
-    },
-    {
-      "points": 400,
-      "clue": "What replaced your meditation app by February as your actual coping mechanism",
-      "answer": "What is doom-scrolling TikTok?"
-    },
-    {
-      "points": 400,
-      "clue": "The dating app you downloaded for 'finding a partner' then used for validation swiping instead",
-      "answer": "What is Tinder?"
-    },
-    {
-      "points": 400,
-      "clue": "What your friend's motivational Instagram post is actually a sign they need this badly",
-      "answer": "What is therapy?"
-    },
-    {
-      "points": 400,
-      "clue": "The cognitive bias that makes you think this year will be different from last year",
-      "answer": "What is delusion?"
-    },
-    {
-      "points": 400,
-      "clue": "What the local CrossFit gym is secretly hoping you'll quit by February so they keep your membership fee",
-      "answer": "What is your resolution commitment?"
-    },
-    {
-      "points": 400,
-      "clue": "The productivity app CEO's goal: getting you to pay for this feature you won't use",
-      "answer": "What is premium subscription?"
-    },
-    {
-      "points": 400,
-      "clue": "What TikTok girls call setting 'goals' instead of just posting thirst traps",
-      "answer": "What is manifesting?"
-    },
-    {
-      "points": 600,
-      "clue": "What GenZ calls planning your life while scrolling through Instagram at 2am",
-      "answer": "What is goal-setting?"
-    },
-    {
-      "points": 600,
-      "clue": "The thing billionaires like Elon Musk have that poor people call 'New Year's resolutions'",
-      "answer": "What is actual resources?"
-    },
-    {
-      "points": 600,
-      "clue": "What capitalism wants you to buy to achieve your New Year goal of 'self-improvement'",
-      "answer": "What is a course, app, or gadget?"
-    },
-    {
-      "points": 600,
-      "clue": "The real reason your parent set the goal 'spend less time on my phone' then checked it 847 times today",
-      "answer": "What is addiction?"
-    },
-    {
-      "points": 600,
-      "clue": "What the 'finance bro' YouTube channel promises will make you rich if you just buy this $997 course",
-      "answer": "What is financial freedom?"
-    },
-    {
-      "points": 600,
-      "clue": "The LinkedIn buzzword that means 'I'm unemployed and manifesting a job' in tech bro speak",
-      "answer": "What is 'career pivot' or 'self-actualization'?"
-    },
-    {
-      "points": 600,
-      "clue": "What your therapist bills you for every week while you break the same resolutions again",
-      "answer": "What is progress?"
-    },
-    {
-      "points": 600,
-      "clue": "The thing that prevents 90% of people from achieving their goals: instant access to this on their phone",
-      "answer": "What is dopamine hits from social media?"
-    },
-    {
-      "points": 600,
-      "clue": "What Andrew Tate sold to broke young men as their path to success instead of actual work",
-      "answer": "What is a get-rich-quick scam?"
-    },
-    {
-      "points": 600,
-      "clue": "The Amazon purchase you make January 1st at midnight that arrives broken and you never return it",
-      "answer": "What is a running watch or planner?"
-    },
-    {
-      "points": 800,
-      "clue": "What Millennials actually want for their New Year goal but can't afford thanks to this",
-      "answer": "What is student loan debt?"
-    },
-    {
-      "points": 800,
-      "clue": "The real obstacle to your New Year goal: this economic phenomenon that made everything more expensive",
-      "answer": "What is inflation?"
-    },
-    {
-      "points": 800,
-      "clue": "What your New Year goal to 'be financially responsible' gets sabotaged by: this addiction for dopamine",
-      "answer": "What is shopping online?"
-    },
-    {
-      "points": 800,
-      "clue": "What Gen Z gave up on entirely because affording housing, healthcare, and this would require a miracle",
-      "answer": "What is retirement savings?"
-    },
-    {
-      "points": 800,
-      "clue": "The thing therapists keep you on the hook for every week by never fully fixing these issues",
-      "answer": "What is depression and anxiety?"
-    },
-    {
-      "points": 800,
-      "clue": "What your New Year goal of 'self-care' really means: ignoring this that's destroying your life",
-      "answer": "What is your problems?"
-    },
-    {
-      "points": 800,
-      "clue": "The TikTok trend where influencers sell these to people with zero credentials in the field",
-      "answer": "What is life coaching courses?"
-    },
-    {
-      "points": 800,
-      "clue": "What the fitness influencer isn't telling you about the body in their ad: years of this",
-      "answer": "What is steroids or Ozempic?"
-    },
-    {
-      "points": 800,
-      "clue": "The dark secret your 'accountability partner' is keeping: they failed their resolutions too",
-      "answer": "What is mutual failure?"
-    },
-    {
-      "points": 800,
-      "clue": "What capitalism actually wants from you: not a New Year goal but this",
-      "answer": "What is continuous consumption and self-doubt?"
-    }
-  ],
-  "style_guide_compliance": {
-    "mainstream_references": [
-      "TikTok, Instagram, LinkedIn",
-      "Streaming services (Hulu, Peacock)",
-      "Dating apps (Tinder)",
-      "Social media addiction",
-      "Inflation, student debt, housing crisis",
-      "Therapy and mental health",
-      "Influencer culture",
-      "Gen Z financial struggles",
-      "Elon Musk, Andrew Tate (mainstream figures)",
-      "Ozempic (cultural phenomenon 2023-2025)"
+  "theme": "newyear",
+  "category_id": "newyear_goals",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The tradition of making promises to yourself on January 1st",
+        "correctQuestion": "What is a New Year's resolution?",
+        "value": 200
+      },
+      {
+        "clue": "Something you want to achieve or accomplish in the coming year",
+        "correctQuestion": "What is a goal?",
+        "value": 200
+      },
+      {
+        "clue": "The first day of the year when most people promise to change their life",
+        "correctQuestion": "What is January 1st?",
+        "value": 200
+      },
+      {
+        "clue": "A fresh start or beginning that January symbolizes",
+        "correctQuestion": "What is a new beginning?",
+        "value": 200
+      },
+      {
+        "clue": "The month when most New Year resolutions are made and broken",
+        "correctQuestion": "What is January?",
+        "value": 200
+      },
+      {
+        "clue": "The process of planning what you want to accomplish",
+        "correctQuestion": "What is goal setting?",
+        "value": 200
+      },
+      {
+        "clue": "A list of things you want to do or achieve",
+        "correctQuestion": "What is a bucket list?",
+        "value": 200
+      },
+      {
+        "clue": "The improvement of yourself through dedication and effort",
+        "correctQuestion": "What is self-improvement?",
+        "value": 200
+      },
+      {
+        "clue": "Something you commit to doing regularly to reach your goals",
+        "correctQuestion": "What is a habit?",
+        "value": 200
+      },
+      {
+        "clue": "The determination to see something through until completion",
+        "correctQuestion": "What is perseverance?",
+        "value": 200
+      }
     ],
-    "short_punchy_format": [
-      "All clues under 25 words",
-      "CAH answers keep punchy tone",
-      "Dark humor without being gratuitous",
-      "Clear setup-to-answer logic"
+    "kids_10_under": [
+      {
+        "clue": "The practice of getting in shape and working out regularly",
+        "correctQuestion": "What is exercise?",
+        "value": 400
+      },
+      {
+        "clue": "The most common New Year's resolution involving physical fitness",
+        "correctQuestion": "What is losing weight?",
+        "value": 400
+      },
+      {
+        "clue": "A promise to quit smoking, drinking, or other unhealthy habits",
+        "correctQuestion": "What is quitting a bad habit?",
+        "value": 400
+      },
+      {
+        "clue": "The goal to eat healthier and change your diet",
+        "correctQuestion": "What is eating healthy?",
+        "value": 400
+      },
+      {
+        "clue": "Saving money for future security and opportunities",
+        "correctQuestion": "What is financial security?",
+        "value": 400
+      },
+      {
+        "clue": "The aim to improve your skills or learn something new",
+        "correctQuestion": "What is learning?",
+        "value": 400
+      },
+      {
+        "clue": "A goal related to advancing in your career or job",
+        "correctQuestion": "What is career advancement?",
+        "value": 400
+      },
+      {
+        "clue": "The objective to spend more quality time with loved ones",
+        "correctQuestion": "What is family time?",
+        "value": 400
+      },
+      {
+        "clue": "The commitment to read more books throughout the year",
+        "correctQuestion": "What is reading?",
+        "value": 400
+      },
+      {
+        "clue": "A promise to be more organized and declutter your space",
+        "correctQuestion": "What is organization?",
+        "value": 400
+      }
     ],
-    "hinting_technique": [
-      "January gym memberships → app tracking",
-      "LinkedIn goals → actual abandonment",
-      "Home gym → reality of unused equipment",
-      "Real obstacles named (inflation, debt, addiction)"
-    ]
+    "teenagers": [
+      {
+        "clue": "The aspiration to travel to new places and experience the world",
+        "correctQuestion": "What is travel?",
+        "value": 600
+      },
+      {
+        "clue": "A goal to improve your mental health and practice mindfulness",
+        "correctQuestion": "What is mental wellness?",
+        "value": 600
+      },
+      {
+        "clue": "The objective to reduce stress and find inner peace",
+        "correctQuestion": "What is stress relief?",
+        "value": 600
+      },
+      {
+        "clue": "A commitment to spend less time on social media and screens",
+        "correctQuestion": "What is digital detox?",
+        "value": 600
+      },
+      {
+        "clue": "The goal to volunteer and help others in your community",
+        "correctQuestion": "What is volunteering?",
+        "value": 600
+      },
+      {
+        "clue": "A promise to be more confident and believe in yourself",
+        "correctQuestion": "What is self-confidence?",
+        "value": 600
+      },
+      {
+        "clue": "The aim to repair or improve your relationships with others",
+        "correctQuestion": "What is fixing relationships?",
+        "value": 600
+      },
+      {
+        "clue": "A goal to develop better communication and listening skills",
+        "correctQuestion": "What is communication skills?",
+        "value": 600
+      },
+      {
+        "clue": "The objective to be more responsible and dependable",
+        "correctQuestion": "What is accountability?",
+        "value": 600
+      },
+      {
+        "clue": "A New Year's promise to be kind and compassionate to others",
+        "correctQuestion": "What is kindness?",
+        "value": 600
+      }
+    ],
+    "adults": [],
+    "no_humanity": []
   }
 }

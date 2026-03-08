@@ -2,13 +2,8 @@
   "category": "New Year's Champagne, Toasts & Midnight Celebration",
   "theme": "new_year_celebrations",
   "category_id": "newyear_champagne",
-  "description": "Champagne, sparkling wine, midnight celebrations, New Year's Eve traditions, toasts, countdown rituals, midnight kisses, party poppers, resolutions, and festive drinking customs around global New Year's celebrations",
-  "age_suitability": "Adults (drinking context)",
-  "research_alignment": "Viticulture, French traditions, celebration customs, party culture, alcohol history, social rituals, timekeeping traditions, holiday celebrations, cultural practices, event planning",
-  "generated_date": "2026-01-02",
-  "total_questions": 60,
   "audiences": {
-    "regular_trivia": [
+    "adults": [
       {
         "clue": "This French region is famous for producing champagne that costs more than your rent",
         "correctQuestion": "What is Champagne?",
@@ -160,186 +155,156 @@
         "value": 400
       }
     ],
-    "cards_against_humanity": [
+    "no_humanity": [
       {
         "clue": "Why champagne bottles are so hard to open after your ex dumps you on New Year's Eve",
         "correctQuestion": "What is they're designed to resist pressure better than your will to live?",
-        "value": 200,
-        "mainstream_check": "✅ Breakup culture universal"
+        "value": 200
       },
       {
         "clue": "The first thing Gen Z does instead of making resolutions at midnight: posting a selfie to this platform",
         "correctQuestion": "What is TikTok?",
-        "value": 200,
-        "mainstream_check": "✅ Everyone knows TikTok posting culture"
+        "value": 200
       },
       {
         "clue": "What your drunk aunt declares at midnight after exactly two sips of champagne",
         "correctQuestion": "What is 'this year is MY year'?",
-        "value": 200,
-        "mainstream_check": "✅ Universal drunk aunt trope"
+        "value": 200
       },
       {
         "clue": "The app that tracks your New Year's resolutions so you can ignore them for exactly 3 days before deleting it",
         "correctQuestion": "What is an AI fitness app nobody uses?",
-        "value": 300,
-        "mainstream_check": "✅ New Year fitness app culture"
+        "value": 300
       },
       {
         "clue": "What the Times Square ball drop symbolizes now instead of hope: this many TikTok influencers already forgotten about their resolutions",
         "correctQuestion": "What is millions?",
-        "value": 300,
-        "mainstream_check": "✅ TikTok culture universal"
+        "value": 300
       },
       {
         "clue": "The streaming service that makes you promise to 'actually get in shape' while you watch reality TV with champagne",
         "correctQuestion": "What is Netflix?",
-        "value": 200,
-        "mainstream_check": "✅ Netflix binge culture"
+        "value": 200
       },
       {
         "clue": "Why champagne corks are basically tiny missiles designed to commit assault on your ceiling",
         "correctQuestion": "What is PSI pressure that airlines would regulate if it flew on planes?",
-        "value": 300,
-        "mainstream_check": "✅ Champagne cork danger universal"
+        "value": 300
       },
       {
         "clue": "The cryptocurrency everyone invested their rent money into right before their New Year's resolution to 'be smarter with money'",
         "correctQuestion": "What is Bitcoin or any crypto?",
-        "value": 400,
-        "mainstream_check": "✅ Crypto FOMO huge 2021-2025"
+        "value": 400
       },
       {
         "clue": "What Ozempic-addicted influencers toast to instead of eating actual New Year's dinner",
         "correctQuestion": "What is their reflection in a champagne glass?",
-        "value": 400,
-        "mainstream_check": "✅ Ozempic trend massive"
+        "value": 400
       },
       {
         "clue": "The exact midnight your 'new you' dies after approximately zero minutes of self-improvement attempts",
         "correctQuestion": "What is 12:01am?",
-        "value": 200,
-        "mainstream_check": "✅ Resolution failure universal"
+        "value": 200
       },
       {
         "clue": "This dating app sees a 30% increase in profiles at midnight because people are lying about everything",
         "correctQuestion": "What is Tinder or Bumble?",
-        "value": 300,
-        "mainstream_check": "✅ Dating app culture mainstream"
+        "value": 300
       },
       {
         "clue": "The brand of champagne that costs $200 and tastes like disappointment but makes Instagram photos look expensive",
         "correctQuestion": "What is Dom Perignon or any luxury brand?",
-        "value": 300,
-        "mainstream_check": "✅ Instagram luxury culture"
+        "value": 300
       },
       {
         "clue": "Why your resolution to 'drink less' starts exactly 0 seconds after the clock strikes midnight with a champagne flute",
         "correctQuestion": "What is hypocrisy?",
-        "value": 200,
-        "mainstream_check": "✅ Drinking resolution paradox"
+        "value": 200
       },
       {
         "clue": "The government organization that should regulate champagne cork PSI like this flying device on planes",
         "correctQuestion": "What is the FAA?",
-        "value": 300,
-        "mainstream_check": "✅ FAA regulations well-known"
+        "value": 300
       },
       {
         "clue": "What you actually find under your bed on January 1st instead of a partner to kiss at midnight",
         "correctQuestion": "What is old socks, dust, or shame?",
-        "value": 200,
-        "mainstream_check": "✅ Single at midnight trope"
+        "value": 200
       },
       {
         "clue": "This person filming your midnight kiss will post it here without permission tomorrow morning",
         "correctQuestion": "What is TikTok or Instagram?",
-        "value": 300,
-        "mainstream_check": "✅ Social media oversharing culture"
+        "value": 300
       },
       {
         "clue": "The metric you measure New Year success by: how many times you broke your gym resolution by this date",
         "correctQuestion": "What is January 5th?",
-        "value": 200,
-        "mainstream_check": "✅ Gym resolution failure timeline"
+        "value": 200
       },
       {
         "clue": "What Elon Musk tweeted at 3am on New Year's Day that somehow tank stock markets",
         "correctQuestion": "What is something obnoxious and unpredictable?",
-        "value": 400,
-        "mainstream_check": "✅ Elon tweet chaos culture"
+        "value": 400
       },
       {
         "clue": "The relationship status you change on this platform exactly once at midnight then never again",
         "correctQuestion": "What is Facebook?",
-        "value": 200,
-        "mainstream_check": "✅ Facebook relationship status culture"
+        "value": 200
       },
       {
         "clue": "Why you're drinking champagne alone at midnight scrolling through this instead of kissing someone",
         "correctQuestion": "What is your phone or Instagram?",
-        "value": 200,
-        "mainstream_check": "✅ Phone addiction culture"
+        "value": 200
       },
       {
         "clue": "The therapy app people download at midnight instead of actually making life changes",
         "correctQuestion": "What is BetterHelp or Headspace or Calm?",
-        "value": 300,
-        "mainstream_check": "✅ Mental health app culture"
+        "value": 300
       },
       {
         "clue": "What the New Year's ball drop in Times Square actually symbolizes: millions of people about to be disappointed by this season",
         "correctQuestion": "What is their lives in 2026?",
-        "value": 300,
-        "mainstream_check": "✅ Existential despair universal"
+        "value": 300
       },
       {
         "clue": "This influencer posted a 'New Year New Me' photo already looking exactly the same",
         "correctQuestion": "What is any Instagram influencer?",
-        "value": 200,
-        "mainstream_check": "✅ Instagram influencer culture"
+        "value": 200
       },
       {
         "clue": "The amount of student loan debt you're celebrating away with this one bottle of champagne",
         "correctQuestion": "What is $1000s or way more than the champagne costs?",
-        "value": 300,
-        "mainstream_check": "✅ Student debt universal millennial crisis"
+        "value": 300
       },
       {
         "clue": "Why you're not drinking real champagne at midnight: this budget sparkling wine costs $6",
         "correctQuestion": "What is Prosecco or Andre?",
-        "value": 200,
-        "mainstream_check": "✅ Affordable champagne culture"
+        "value": 200
       },
       {
         "clue": "The Amazon Prime subscription guarantee that actually works better than your New Year's resolutions",
         "correctQuestion": "What is next-day delivery?",
-        "value": 200,
-        "mainstream_check": "✅ Amazon Prime ubiquity"
+        "value": 200
       },
       {
         "clue": "What you actually accomplish by March 1st after making this many New Year's resolutions at midnight",
         "correctQuestion": "What is exactly zero?",
-        "value": 200,
-        "mainstream_check": "✅ Resolution failure universal"
+        "value": 200
       },
       {
         "clue": "The TikTok trend from last New Year's that everyone pretended was deep but was actually just this",
         "correctQuestion": "What is cringe or performative?",
-        "value": 200,
-        "mainstream_check": "✅ TikTok trends culture"
+        "value": 200
       },
       {
         "clue": "Why your New Year's diet resolution is a lie you tell yourself while holding a champagne glass with 200 calories per sip",
         "correctQuestion": "What is mathematics or math?",
-        "value": 300,
-        "mainstream_check": "✅ Calorie counting culture"
+        "value": 300
       },
       {
         "clue": "This platform saw 50% more 'throwback' posts at midnight of people who looked happier in previous years",
         "correctQuestion": "What is Instagram?",
-        "value": 300,
-        "mainstream_check": "✅ Instagram nostalgia posts culture"
+        "value": 300
       }
     ]
   }

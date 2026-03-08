@@ -2,13 +2,8 @@
   "category": "New Year: Year in Review & Reflection",
   "theme": "new_year_review",
   "category_id": "newyear_year_in_review",
-  "description": "Looking back at the past year, memorable moments, major events, personal reflection, goals achieved, cultural milestones, and new beginnings. Includes both traditional trivia and Cards Against Humanity style darkly humorous reflections.",
-  "age_suitability": "Teens to Adults",
-  "research_alignment": "Retrospective analysis, reflection practices, goal-setting psychology, cultural history 2024-2025, personal development, mindfulness, New Year traditions, year-end celebrations",
-  "generated_date": "2026-01-02",
-  "total_questions": 60,
   "audiences": {
-    "regular_trivia": [
+    "adults": [
       {
         "clue": "This practice of reviewing your accomplishments over the past 12 months is often done on New Year's Eve",
         "correctQuestion": "What is a year in review or reflection?",
@@ -160,186 +155,156 @@
         "value": 200
       }
     ],
-    "cah_style": [
+    "no_humanity": [
       {
         "clue": "What you tell yourself on January 1st that will definitely stick this time, unlike the last 10 years",
         "correctQuestion": "What is 'this year will be different' or a New Year's resolution?",
-        "value": 200,
-        "mainstream_check": "✅ Everyone lies about New Year's resolutions"
+        "value": 200
       },
       {
         "clue": "The thing you accomplished in 2024 that you're most likely to brag about to strangers",
         "correctQuestion": "What is the one decent thing you did that whole year?",
-        "value": 200,
-        "mainstream_check": "✅ Relatable social comparison"
+        "value": 200
       },
       {
         "clue": "What your 'year in review' Netflix email confirms about your life without explicitly saying it",
         "correctQuestion": "What is that you watch way too much TV and have no life?",
-        "value": 200,
-        "mainstream_check": "✅ Netflix Wrapped humiliation universal"
+        "value": 200
       },
       {
         "clue": "The primary emotion you feel when looking back at photos from January 2024",
         "correctQuestion": "What is cringe or embarrassment?",
-        "value": 200,
-        "mainstream_check": "✅ Everyone regrets their January self"
+        "value": 200
       },
       {
         "clue": "This app's 'Wrapped' feature just revealed that your ex is the reason you listened to sad songs for 6 months",
         "correctQuestion": "What is Spotify?",
-        "value": 400,
-        "mainstream_check": "✅ Spotify Wrapped breakup revelation universal"
+        "value": 400
       },
       {
         "clue": "The lie you told yourself on January 1st about going to the gym that lasted exactly 12 days",
         "correctQuestion": "What is 'I'm going to work out 5 times a week' or fitness goals?",
-        "value": 200,
-        "mainstream_check": "✅ Gym membership failure meme"
+        "value": 200
       },
       {
         "clue": "What your year in review graph shows declined the most: your bank account, health, or will to live",
         "correctQuestion": "What is all three?",
-        "value": 400,
-        "mainstream_check": "✅ Millennial financial anxiety"
+        "value": 400
       },
       {
         "clue": "The reason you can't actually remember what you did in 2024 besides scrolling through TikTok",
         "correctQuestion": "What is the algorithm erasing your memories or adult dissociation?",
-        "value": 400,
-        "mainstream_check": "✅ Brain rot TikTok universal"
+        "value": 400
       },
       {
         "clue": "This financial reality check hits hardest when reviewing your credit card statements for 2024",
         "correctQuestion": "What is student loans or crippling debt?",
-        "value": 400,
-        "mainstream_check": "✅ Gen Z debt crisis universal"
+        "value": 400
       },
       {
         "clue": "What your group chat does on New Year's Eve that makes everyone simultaneously lie about improving their lives",
         "correctQuestion": "What is making resolutions or sharing goals?",
-        "value": 200,
-        "mainstream_check": "✅ Peer pressure New Year's goals"
+        "value": 200
       },
       {
         "clue": "The relationship status that appeared three times in your year in review because it never actually changed",
         "correctQuestion": "What is 'it's complicated' or single?",
-        "value": 400,
-        "mainstream_check": "✅ Dating app exhaustion universal"
+        "value": 400
       },
       {
         "clue": "What scrolling through your photos from January reveals about your 'glow up' claims",
         "correctQuestion": "What is that you lied or looked better before?",
-        "value": 400,
-        "mainstream_check": "✅ Instagram vs reality meme"
+        "value": 400
       },
       {
         "clue": "The month when your New Year's resolution dies and you return to all your bad habits",
         "correctQuestion": "What is February (or sooner)?",
-        "value": 200,
-        "mainstream_check": "✅ 'Quit on February 1' is a meme"
+        "value": 200
       },
       {
         "clue": "This therapy buzzword everyone learned in 2024 but doesn't actually practice: 'setting ______'",
         "correctQuestion": "What are boundaries?",
-        "value": 400,
-        "mainstream_check": "✅ TikTok therapy culture"
+        "value": 400
       },
       {
         "clue": "The number of minutes you actually spent reading that book you said you'd finish this year",
         "correctQuestion": "What is zero or five minutes?",
-        "value": 200,
-        "mainstream_check": "✅ TBR pile shame universal"
+        "value": 200
       },
       {
         "clue": "What your 2024 calendar showed more of: actual plans or cancellations last-minute",
         "correctQuestion": "What is cancellations or ghosting?",
-        "value": 400,
-        "mainstream_check": "✅ Introvert relatable content"
+        "value": 400
       },
       {
         "clue": "The lie your 'year in review' social media post tells about how great 2024 was",
         "correctQuestion": "What is that you had your life together or enjoyed it?",
-        "value": 400,
-        "mainstream_check": "✅ Highlight reel authenticity critique"
+        "value": 400
       },
       {
         "clue": "What your search history from 2024 would reveal if you were brave enough to scroll back",
         "correctQuestion": "What is your mental health spiral or weird hyperfixation?",
-        "value": 400,
-        "mainstream_check": "✅ Embarrassing search history universal"
+        "value": 400
       },
       {
         "clue": "The amount of money you spent on things you don't remember buying while scrolling through year-end spending summary",
         "correctQuestion": "What is more than you thought or way too much?",
-        "value": 200,
-        "mainstream_check": "✅ Impulse shopping guilt"
+        "value": 200
       },
       {
         "clue": "What your therapist would diagnose based on your 2024 calendar filled mostly with 'anxiety about events' blocks",
         "correctQuestion": "What is anxiety disorder or avoidant behavior?",
-        "value": 400,
-        "mainstream_check": "✅ Mental health awareness meme"
+        "value": 400
       },
       {
         "clue": "The weight you swore you'd lose in 2024 that instead became the weight you gained",
         "correctQuestion": "What is the COVID 15 or pandemic weight?",
-        "value": 400,
-        "mainstream_check": "✅ Post-pandemic weight gain universal"
+        "value": 400
       },
       {
         "clue": "This Spotify category showed you listened to it on repeat: breakup playlists, sad girl hours, or existential dread music",
         "correctQuestion": "What is sad music or breakup songs?",
-        "value": 400,
-        "mainstream_check": "✅ Millennial Sad Girl Autumn aesthetic"
+        "value": 400
       },
       {
         "clue": "The person you said you'd stop talking to in 2024 but still text at 2am about nothing",
         "correctQuestion": "What is your toxic ex or ride-or-die friend who uses you?",
-        "value": 400,
-        "mainstream_check": "✅ Codependency relatable content"
+        "value": 400
       },
       {
         "clue": "What percent of your year went to doom-scrolling according to your phone's screen time report",
         "correctQuestion": "What is 80%+ or basically all of it?",
-        "value": 200,
-        "mainstream_check": "✅ Phone addiction universal shame"
+        "value": 200
       },
       {
         "clue": "The main character arc you experienced in 2024 that lasted about 3 days before reverting to your baseline",
         "correctQuestion": "What is a personal growth moment or confidence boost?",
-        "value": 400,
-        "mainstream_check": "✅ Growth then regression relatable"
+        "value": 400
       },
       {
         "clue": "What you're telling people you did in 2024 versus what you actually did: stared at ceiling",
         "correctQuestion": "What is existed or survived?",
-        "value": 400,
-        "mainstream_check": "✅ Depression/burnout humor"
+        "value": 400
       },
       {
         "clue": "The item on your 2024 bucket list that you looked at once and immediately ignored",
         "correctQuestion": "What is travel, hobbies, or self-improvement?",
-        "value": 200,
-        "mainstream_check": "✅ Unfulfilled dreams relatable"
+        "value": 200
       },
       {
         "clue": "Your brain on December 31st when you try to remember what you did for three months in the middle of 2024",
         "correctQuestion": "What is blank or nonexistent?",
-        "value": 200,
-        "mainstream_check": "✅ Dissociation experience universal"
+        "value": 200
       },
       {
         "clue": "The stage of grief you're currently in about your 2024 year in review after reading it back",
         "correctQuestion": "What is depression or acceptance?",
-        "value": 400,
-        "mainstream_check": "✅ Denial about time passing"
+        "value": 400
       },
       {
         "clue": "What the voice in your head whispers when people ask 'so what are your goals for 2025' at the New Year's party",
         "correctQuestion": "What is 'just survive' or 'I have no idea'?",
-        "value": 400,
-        "mainstream_check": "✅ Millennial burnout humor"
+        "value": 400
       }
     ]
   }

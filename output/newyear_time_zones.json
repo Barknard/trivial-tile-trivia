@@ -1,318 +1,167 @@
 {
   "category": "New Year Time Zones",
-  "description": "Global New Year celebrations across time zones - when midnight strikes around the world",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "The line dividing one calendar day from the next, causing staggered New Year celebrations",
-      "answer": "What is the International Date Line?"
-    },
-    {
-      "points": 200,
-      "clue": "Island nation whose residents are first to celebrate the New Year globally",
-      "answer": "What are the Line Islands (Kiribati)?"
-    },
-    {
-      "points": 200,
-      "clue": "This westernmost US state celebrates New Year three hours before New York",
-      "answer": "What is Hawaii?"
-    },
-    {
-      "points": 200,
-      "clue": "Europe's largest country by area, spanning 11 time zones for New Year's",
-      "answer": "What is Russia?"
-    },
-    {
-      "points": 200,
-      "clue": "Number of time zones China spans despite spanning nearly 5,000 kilometers",
-      "answer": "What is one?"
-    },
-    {
-      "points": 200,
-      "clue": "Pacific island nation celebrating New Year last among inhabited territories",
-      "answer": "What are Baker and Howland Islands?"
-    },
-    {
-      "points": 400,
-      "clue": "Measurement system dividing Earth into 24 zones for timekeeping and New Year",
-      "answer": "What are time zones?"
-    },
-    {
-      "points": 400,
-      "clue": "The historical clock tower in London that chimes midnight on New Year's Eve",
-      "answer": "What is Big Ben (or Elizabeth Tower)?"
-    },
-    {
-      "points": 400,
-      "clue": "Time zone abbreviation for Greenwich Mean Time, the global standard",
-      "answer": "What is GMT (or UTC)?"
-    },
-    {
-      "points": 400,
-      "clue": "Asian megacity where fireworks illuminate midnight on the Bund",
-      "answer": "What is Shanghai?"
-    },
-    {
-      "points": 400,
-      "clue": "New Zealand city known for iconic midnight harbor celebrations",
-      "answer": "What is Auckland?"
-    },
-    {
-      "points": 400,
-      "clue": "Hours time zones advance eastward before resetting at the Date Line",
-      "answer": "What is 12 hours?"
-    },
-    {
-      "points": 600,
-      "clue": "Concept of seasonal adjustment occurring twice yearly in many time zones",
-      "answer": "What is daylight saving time?"
-    },
-    {
-      "points": 600,
-      "clue": "Chronometer needed when calculating New Year arrivals across 24 hourly zones",
-      "answer": "What is a clock or watch?"
-    },
-    {
-      "points": 600,
-      "clue": "Australian city celebrating New Year among the world's first",
-      "answer": "What is Sydney?"
-    },
-    {
-      "points": 600,
-      "clue": "Island nation between time zones where the Date Line passes through",
-      "answer": "What is Samoa?"
-    },
-    {
-      "points": 600,
-      "clue": "Hours ahead of Greenwich Mean Time in Tokyo's New Year celebration",
-      "answer": "What is nine hours?"
-    },
-    {
-      "points": 600,
-      "clue": "Eastern distance marker that determines who celebrates New Year first globally",
-      "answer": "What is the International Date Line?"
-    },
-    {
-      "points": 800,
-      "clue": "Method Earth uses to regulate standard time across longitudinal zones",
-      "answer": "What is rotation on its axis?"
-    },
-    {
-      "points": 800,
-      "clue": "British meridian at zero degrees longitude establishing global time reference",
-      "answer": "What is the Prime Meridian?"
-    },
-    {
-      "points": 800,
-      "clue": "Mathematical system using positive and negative hours relative to GMT",
-      "answer": "What are UTC offsets?"
-    },
-    {
-      "points": 800,
-      "clue": "New York's famous New Year's Eve plaza where the ball drops at midnight",
-      "answer": "What is Times Square?"
-    },
-    {
-      "points": 800,
-      "clue": "Fraction of Earth's rotation completed during each time zone interval",
-      "answer": "What is one twenty-fourth?"
-    },
-    {
-      "points": 800,
-      "clue": "Historian credited with popularizing standardized time zones in 1884",
-      "answer": "Who is Sandford Fleming?"
-    },
-    {
-      "points": 1000,
-      "clue": "International conference establishing standardized global time zones",
-      "answer": "What is the International Meridian Conference?"
-    },
-    {
-      "points": 1000,
-      "clue": "Phenomenon allowing continuous real-time tracking of New Year globally",
-      "answer": "What is Earth's rotation or axial spin?"
-    },
-    {
-      "points": 1000,
-      "clue": "Longitudinal degree measurement determining precise time zone placement",
-      "answer": "What is 15 degrees per hour?"
-    },
-    {
-      "points": 1000,
-      "clue": "Technology enabling synchronized New Year celebrations worldwide",
-      "answer": "What is atomic or radio time?"
-    },
-    {
-      "points": 1000,
-      "clue": "Celestial event used by ancient civilizations to mark New Year timing",
-      "answer": "What is the winter solstice (or solar observations)?"
-    },
-    {
-      "points": 1000,
-      "clue": "System accounting for irregular time zone boundaries in certain countries",
-      "answer": "What are offset time zones?"
-    }
-  ],
-  "no_humanity_clues": [
-    {
-      "points": 200,
-      "clue": "What Hawaiians do while East Coasters pretend they're woke at 1am",
-      "answer": "What is actually go to bed?"
-    },
-    {
-      "points": 200,
-      "clue": "How many people in New Zealand call at 3am to catch your NYC midnight",
-      "answer": "What is none, they're asleep?"
-    },
-    {
-      "points": 200,
-      "clue": "Why your drunk 2am NYE text seems brilliant in Hong Kong's tomorrow",
-      "answer": "What is time zones making bad decisions worse?"
-    },
-    {
-      "points": 200,
-      "clue": "App letting you stalk what your ex is doing 12 hours ahead",
-      "answer": "What is Instagram Stories?"
-    },
-    {
-      "points": 200,
-      "clue": "Flight attendant's lie about what time it actually is for drinks",
-      "answer": "What is it's 5pm somewhere?"
-    },
-    {
-      "points": 200,
-      "clue": "The time zone your anxiety operates in regardless of location",
-      "answer": "What is all of them simultaneously?"
-    },
-    {
-      "points": 400,
-      "clue": "What London claims about timekeeping while NYC steals their fireworks ideas",
-      "answer": "What is being the original New Year celebration?"
-    },
-    {
-      "points": 400,
-      "clue": "Why Gen Z refuses to call grandma at midnight EST",
-      "answer": "What is she lives in PST and has Twitter?"
-    },
-    {
-      "points": 400,
-      "clue": "Reason you celebrate NYE three times on a cross-country drive",
-      "answer": "What is being indecisive and drunk?"
-    },
-    {
-      "points": 400,
-      "clue": "What happens when your Zoom meeting includes Tokyo and LA",
-      "answer": "What is someone dies?"
-    },
-    {
-      "points": 400,
-      "clue": "Why dating someone in Australia feels impossible by January 2nd",
-      "answer": "What is they're already living in your future?"
-    },
-    {
-      "points": 400,
-      "clue": "Trading App bro's excuse for losing money on NYE options",
-      "answer": "What is the market was closed in Shanghai?"
-    },
-    {
-      "points": 600,
-      "clue": "What conspiracy theorists think really determines time zones",
-      "answer": "What is the Illuminati and reptilians?"
-    },
-    {
-      "points": 600,
-      "clue": "How many New Years celebrations you attend while emotionally hung over from the first",
-      "answer": "What is too many and none voluntarily?"
-    },
-    {
-      "points": 600,
-      "clue": "The lie your boss uses when scheduling calls through seven time zones",
-      "answer": "What is everyone loves 3am meetings?"
-    },
-    {
-      "points": 600,
-      "clue": "Why billionaires celebrate NYE multiple times at expensive resorts",
-      "answer": "What is to avoid taxes in each zone?"
-    },
-    {
-      "points": 600,
-      "clue": "What your cryptocurrency portfolio already is by Sydney's midnight",
-      "answer": "What is worthless?"
-    },
-    {
-      "points": 600,
-      "clue": "Real reason you set different phone time zones",
-      "answer": "What is to confuse yourself and everyone else?"
-    },
-    {
-      "points": 800,
-      "clue": "Flight attendant's unspoken agreement about which midnight was real",
-      "answer": "What is whatever cabin crew decided?"
-    },
-    {
-      "points": 800,
-      "clue": "What British people insist happened first despite Earth's rotation",
-      "answer": "What is Greenwich midnight being the only real one?"
-    },
-    {
-      "points": 800,
-      "clue": "Reason your date arrives exactly 24 hours off from what you planned",
-      "answer": "What is they couldn't figure out the time zones app?"
-    },
-    {
-      "points": 800,
-      "clue": "Why remote workers pretend different time zones are a personal challenge",
-      "answer": "What is masking crippling sleep deprivation?"
-    },
-    {
-      "points": 800,
-      "clue": "What your crypto Discord is actually coordinating across time zones",
-      "answer": "What is collective financial mistakes?"
-    },
-    {
-      "points": 800,
-      "clue": "Tech CEO's answer to why the feature launched in the wrong timezone",
-      "answer": "What is it's actually a feature, not a bug?"
-    },
-    {
-      "points": 1000,
-      "clue": "The terrible realization when you miss NYE in all time zones simultaneously",
-      "answer": "What is existential dread?"
-    },
-    {
-      "points": 1000,
-      "clue": "Facebook algorithm's secret favorite: posting happy new year to wrong hemisphere",
-      "answer": "What is maximum engagement from confusion?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why international couples' therapy costs extra on January 1st",
-      "answer": "What is debating which midnight actually counts?"
-    },
-    {
-      "points": 1000,
-      "clue": "What Elon promises to fix with Starlink bandwidth across time zones",
-      "answer": "What is nothing, but he'll tweet about it?"
-    },
-    {
-      "points": 1000,
-      "clue": "Real reason colonizing Mars makes New Year celebration worse",
-      "answer": "What is a 24-hour day is a myth there?"
-    },
-    {
-      "points": 1000,
-      "clue": "Conspiracy theory about why twelve time zones all celebrate exactly the same",
-      "answer": "What is the government is watching and synchronizing us?"
-    }
-  ],
-  "metadata": {
-    "total_questions": 60,
-    "regular_questions": 30,
-    "cah_style_questions": 30,
-    "generated_date": "2026-01-02",
-    "format_compliance": 1.0,
-    "jeopardy_format": "All questions follow clue → answer (correctQuestion in interrogative) format",
-    "theme": "Global New Year celebrations across 24 time zones",
-    "cah_characteristics": "Modern tech references, dark humor, social media, influencer culture, relationship dysfunction, financial anxiety, work/sleep deprivation"
+  "theme": "newyear",
+  "category_id": "newyear_time_zones",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The line dividing one calendar day from the next, causing staggered New Year celebrations",
+        "correctQuestion": "What is the International Date Line?",
+        "value": 200
+      },
+      {
+        "clue": "Island nation whose residents are first to celebrate the New Year globally",
+        "correctQuestion": "What are the Line Islands (Kiribati)?",
+        "value": 200
+      },
+      {
+        "clue": "This westernmost US state celebrates New Year three hours before New York",
+        "correctQuestion": "What is Hawaii?",
+        "value": 200
+      },
+      {
+        "clue": "Europe's largest country by area, spanning 11 time zones for New Year's",
+        "correctQuestion": "What is Russia?",
+        "value": 200
+      },
+      {
+        "clue": "Number of time zones China spans despite spanning nearly 5,000 kilometers",
+        "correctQuestion": "What is one?",
+        "value": 200
+      },
+      {
+        "clue": "Pacific island nation celebrating New Year last among inhabited territories",
+        "correctQuestion": "What are Baker and Howland Islands?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Measurement system dividing Earth into 24 zones for timekeeping and New Year",
+        "correctQuestion": "What are time zones?",
+        "value": 400
+      },
+      {
+        "clue": "The historical clock tower in London that chimes midnight on New Year's Eve",
+        "correctQuestion": "What is Big Ben (or Elizabeth Tower)?",
+        "value": 400
+      },
+      {
+        "clue": "Time zone abbreviation for Greenwich Mean Time, the global standard",
+        "correctQuestion": "What is GMT (or UTC)?",
+        "value": 400
+      },
+      {
+        "clue": "Asian megacity where fireworks illuminate midnight on the Bund",
+        "correctQuestion": "What is Shanghai?",
+        "value": 400
+      },
+      {
+        "clue": "New Zealand city known for iconic midnight harbor celebrations",
+        "correctQuestion": "What is Auckland?",
+        "value": 400
+      },
+      {
+        "clue": "Hours time zones advance eastward before resetting at the Date Line",
+        "correctQuestion": "What is 12 hours?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "Concept of seasonal adjustment occurring twice yearly in many time zones",
+        "correctQuestion": "What is daylight saving time?",
+        "value": 600
+      },
+      {
+        "clue": "Chronometer needed when calculating New Year arrivals across 24 hourly zones",
+        "correctQuestion": "What is a clock or watch?",
+        "value": 600
+      },
+      {
+        "clue": "Australian city celebrating New Year among the world's first",
+        "correctQuestion": "What is Sydney?",
+        "value": 600
+      },
+      {
+        "clue": "Island nation between time zones where the Date Line passes through",
+        "correctQuestion": "What is Samoa?",
+        "value": 600
+      },
+      {
+        "clue": "Hours ahead of Greenwich Mean Time in Tokyo's New Year celebration",
+        "correctQuestion": "What is nine hours?",
+        "value": 600
+      },
+      {
+        "clue": "Eastern distance marker that determines who celebrates New Year first globally",
+        "correctQuestion": "What is the International Date Line?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Method Earth uses to regulate standard time across longitudinal zones",
+        "correctQuestion": "What is rotation on its axis?",
+        "value": 800
+      },
+      {
+        "clue": "British meridian at zero degrees longitude establishing global time reference",
+        "correctQuestion": "What is the Prime Meridian?",
+        "value": 800
+      },
+      {
+        "clue": "Mathematical system using positive and negative hours relative to GMT",
+        "correctQuestion": "What are UTC offsets?",
+        "value": 800
+      },
+      {
+        "clue": "New York's famous New Year's Eve plaza where the ball drops at midnight",
+        "correctQuestion": "What is Times Square?",
+        "value": 800
+      },
+      {
+        "clue": "Fraction of Earth's rotation completed during each time zone interval",
+        "correctQuestion": "What is one twenty-fourth?",
+        "value": 800
+      },
+      {
+        "clue": "Historian credited with popularizing standardized time zones in 1884",
+        "correctQuestion": "Who is Sandford Fleming?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "International conference establishing standardized global time zones",
+        "correctQuestion": "What is the International Meridian Conference?",
+        "value": 1000
+      },
+      {
+        "clue": "Phenomenon allowing continuous real-time tracking of New Year globally",
+        "correctQuestion": "What is Earth's rotation or axial spin?",
+        "value": 1000
+      },
+      {
+        "clue": "Longitudinal degree measurement determining precise time zone placement",
+        "correctQuestion": "What is 15 degrees per hour?",
+        "value": 1000
+      },
+      {
+        "clue": "Technology enabling synchronized New Year celebrations worldwide",
+        "correctQuestion": "What is atomic or radio time?",
+        "value": 1000
+      },
+      {
+        "clue": "Celestial event used by ancient civilizations to mark New Year timing",
+        "correctQuestion": "What is the winter solstice (or solar observations)?",
+        "value": 1000
+      },
+      {
+        "clue": "System accounting for irregular time zone boundaries in certain countries",
+        "correctQuestion": "What are offset time zones?",
+        "value": 1000
+      }
+    ]
   }
 }

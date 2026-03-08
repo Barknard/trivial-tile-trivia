@@ -2,13 +2,8 @@
   "category": "Beach Bonfires, Campfires & Evening Gatherings",
   "theme": "outdoor_fire_gatherings",
   "category_id": "beach_bonfires",
-  "description": "Beach bonfires, campfires, evening gatherings, marshmallow roasting, campfire songs, s'mores, beach traditions, fire safety, outdoor entertainment, and family-friendly evening activities by the fire",
-  "age_suitability": "All ages",
-  "research_alignment": "Outdoor recreation, campfire traditions, food safety, fire safety practices, group entertainment, coastal activities, camping skills, cultural celebrations, pyrotechnics safety, environmental conservation",
-  "generated_date": "2026-01-02",
-  "total_questions": 180,
   "audiences": {
-    "regular_trivia": [
+    "adults": [
       {
         "clue": "This sweet treat made of graham cracker, chocolate, and marshmallow is a classic campfire dessert",
         "correctQuestion": "What is a s'more?",
@@ -210,7 +205,7 @@
         "value": 800
       }
     ],
-    "cah_style": [
+    "no_humanity": [
       {
         "clue": "The reason you have marshmallow stuck in your hair after a beach bonfire",
         "correctQuestion": "What is a catastrophic roasting accident?",

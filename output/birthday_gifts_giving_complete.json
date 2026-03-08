@@ -1,1239 +1,915 @@
 {
   "category": "Birthday Gift-Giving",
-  "description": "180 Jeopardy questions about gift traditions, wrapping, giving/receiving etiquette, social psychology, gift economy, gratitude, and empathy development",
-  "total_questions": 180,
+  "theme": "birthday",
+  "category_id": "birthday_gifts_giving_complete",
   "audiences": {
-    "K-6": {
-      "level": "Elementary School (K-6)",
-      "difficulty": 1,
-      "question_count": 36,
-      "questions": [
-        {
-          "id": "K6_001",
-          "clue": "This colorful paper is used to wrap gifts to make them pretty.",
-          "answer": "What is wrapping paper?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "K6_002",
-          "clue": "You open your birthday gifts on your special day and say this word to show you're happy.",
-          "answer": "What is 'thank you'?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "K6_003",
-          "clue": "This shiny string or bow decorates the top of wrapped presents.",
-          "answer": "What is ribbon?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "K6_004",
-          "clue": "When you give a gift to someone, you want them to feel this emotion.",
-          "answer": "What is happy?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_005",
-          "clue": "This is the day you celebrate being one year older and receive birthday gifts.",
-          "answer": "What is your birthday?",
-          "category": "Traditions"
-        },
-        {
-          "id": "K6_006",
-          "clue": "You feel this way when someone gives you a present you really wanted.",
-          "answer": "What is grateful?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "K6_007",
-          "clue": "When you give someone a gift, you place it in your hands and hold it out like this.",
-          "answer": "What is with both hands?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "K6_008",
-          "clue": "This decorative item on a gift looks like a flower made of ribbon.",
-          "answer": "What is a bow?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "K6_009",
-          "clue": "Understanding how someone else feels is called this.",
-          "answer": "What is empathy?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_010",
-          "clue": "When you receive a gift, it's polite to open it slowly instead of doing this quickly.",
-          "answer": "What is tearing it apart?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "K6_011",
-          "clue": "Many people celebrate birthdays with cake, candles, and these objects that light up.",
-          "answer": "What are balloons?",
-          "category": "Traditions"
-        },
-        {
-          "id": "K6_012",
-          "clue": "This is what you give to someone to show you care about them.",
-          "answer": "What is a gift?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "K6_013",
-          "clue": "In many countries, gifts come wrapped, and you have to do this to see what's inside.",
-          "answer": "What is unwrap?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "K6_014",
-          "clue": "When someone gives you a gift, you should look this way to show appreciation.",
-          "answer": "What is happy or smile?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "K6_015",
-          "clue": "This word means you are glad someone thought of you and gave you something nice.",
-          "answer": "What is appreciated?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "K6_016",
-          "clue": "The feeling you get when you know someone cares about you.",
-          "answer": "What is loved?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_017",
-          "clue": "This sparkly paper adds extra shine to wrapped presents.",
-          "answer": "What is glitter or foil paper?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "K6_018",
-          "clue": "When you give a gift that matches someone's interests, you show this kind of thinking.",
-          "answer": "What is thoughtfulness?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_019",
-          "clue": "In many traditions, this colored gift wrap is considered lucky and happy.",
-          "answer": "What is red?",
-          "category": "Traditions"
-        },
-        {
-          "id": "K6_020",
-          "clue": "This is the excited feeling you get when you see a wrapped present.",
-          "answer": "What is anticipation?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_021",
-          "clue": "After you open a gift, you should write or say one of these to thank the giver.",
-          "answer": "What is a thank you note?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "K6_022",
-          "clue": "The sound someone makes when they love their birthday gift.",
-          "answer": "What is laughter or excitement?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_023",
-          "clue": "This is the process of selecting the right gift for someone's personality and likes.",
-          "answer": "What is gift choosing or shopping?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "K6_024",
-          "clue": "When you share gifts in this way, you are building a connection with someone.",
-          "answer": "What is thoughtfully?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_025",
-          "clue": "This colored paper is often avoided in Asian cultures because it reminds people of sadness.",
-          "answer": "What is black or white?",
-          "category": "Traditions"
-        },
-        {
-          "id": "K6_026",
-          "clue": "When someone gives you a gift and you smile, you're showing them this feeling.",
-          "answer": "What is joy?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "K6_027",
-          "clue": "This sticky tape holds wrapped gifts together.",
-          "answer": "What is tape?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "K6_028",
-          "clue": "The special box that gifts often come in for protection.",
-          "answer": "What is a gift box?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "K6_029",
-          "clue": "A good gift-giver thinks about what this person likes and enjoys.",
-          "answer": "What is the recipient?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "K6_030",
-          "clue": "This feeling makes you want to help others and give them gifts.",
-          "answer": "What is kindness?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_031",
-          "clue": "When you give a gift and don't expect anything in return, you're being this.",
-          "answer": "What is generous?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "K6_032",
-          "clue": "In Japan, it's custom to open gifts this way so you don't tear the beautiful paper.",
-          "answer": "What is carefully?",
-          "category": "Traditions"
-        },
-        {
-          "id": "K6_033",
-          "clue": "This is the tradition where you blow out candles and make a wish on your birthday.",
-          "answer": "What is a birthday cake?",
-          "category": "Traditions"
-        },
-        {
-          "id": "K6_034",
-          "clue": "A person who receives a gift is called the what?",
-          "answer": "What is a recipient?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "K6_035",
-          "clue": "Understanding that someone will be happy with your gift choice shows this.",
-          "answer": "What is empathy?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "K6_036",
-          "clue": "This is what you say when someone gives you a gift and you want to be polite.",
-          "answer": "What is 'thank you very much'?",
-          "category": "Etiquette"
-        }
-      ]
-    },
-    "7-9": {
-      "level": "Middle School (7-9)",
-      "difficulty": 2,
-      "question_count": 36,
-      "questions": [
-        {
-          "id": "MS_001",
-          "clue": "This anthropological concept, studied by Marcel Mauss, describes the obligations of giving, receiving, and returning gifts.",
-          "answer": "What is gift exchange?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "MS_002",
-          "clue": "In Japanese culture, you should refuse a gift this many times before accepting it politely.",
-          "answer": "What is once or twice?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "MS_003",
-          "clue": "The psychological principle that makes people want to return a favor when given a gift.",
-          "answer": "What is reciprocity?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "MS_004",
-          "clue": "In China, giving a clock as a gift is considered unlucky because the phrase sounds like this.",
-          "answer": "What is 'to see off into death'?",
-          "category": "Traditions"
-        },
-        {
-          "id": "MS_005",
-          "clue": "This emotional response combines feelings of appreciation and indebtedness in gift-receiving.",
-          "answer": "What is gratitude?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "MS_006",
-          "clue": "The ability to understand and share someone's feelings is called this.",
-          "answer": "What is empathy?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "MS_007",
-          "clue": "This color is traditionally avoided in gift wrapping across most Asian cultures.",
-          "answer": "What is white or black?",
-          "category": "Traditions"
-        },
-        {
-          "id": "MS_008",
-          "clue": "The Kula ring, studied by Bronislaw Malinowski, was a gift-exchange system in these islands.",
-          "answer": "What are the Trobriand Islands?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "MS_009",
-          "clue": "In Middle Eastern and Indian cultures, you should give or receive gifts using this hand.",
-          "answer": "What is the right hand?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "MS_010",
-          "clue": "The three obligations that form the foundation of gift-exchange systems worldwide according to Mauss.",
-          "answer": "What are giving, receiving, and returning?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "MS_011",
-          "clue": "This psychological concept suggests that liking someone leads to helpful behaviors, including gift-giving.",
-          "answer": "What is interpersonal attraction?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "MS_012",
-          "clue": "In Japan, this number is considered unlucky for gift sets because it symbolizes death.",
-          "answer": "What is four?",
-          "category": "Traditions"
-        },
-        {
-          "id": "MS_013",
-          "clue": "This practice of expressing modesty by refusing a gift several times is common in Chinese culture.",
-          "answer": "What is polite refusal?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "MS_014",
-          "clue": "Research shows that gratitude is positively correlated with this trait, enhancing compassion.",
-          "answer": "What is empathy?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "MS_015",
-          "clue": "In Papua New Guinea, this ceremony involves competitive gifting of pigs to gain prestige.",
-          "answer": "What is the Moka ceremony?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "MS_016",
-          "clue": "The Māori tradition of 'koha' translates to gift, donation, or this concept.",
-          "answer": "What is remuneration or reciprocal exchange?",
-          "category": "Traditions"
-        },
-        {
-          "id": "MS_017",
-          "clue": "In gift-giving psychology, this emotional response indicates that someone values a gesture.",
-          "answer": "What is appreciation?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "MS_018",
-          "clue": "The Potlatch ceremony of Pacific Northwest tribes was based on this principle of gift-giving.",
-          "answer": "What is competitive generosity?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "MS_019",
-          "clue": "Research shows that choosing a thoughtful gift requires this key emotional skill.",
-          "answer": "What is empathy?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "MS_020",
-          "clue": "In Asian gift-giving etiquette, presenting with both hands signals this quality.",
-          "answer": "What is respect?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "MS_021",
-          "clue": "This color symbolizes luck and joy in Chinese gift-giving traditions.",
-          "answer": "What is red?",
-          "category": "Traditions"
-        },
-        {
-          "id": "MS_022",
-          "clue": "The psychological process where gift-giving activates brain regions linked to pleasure and connection.",
-          "answer": "What is reward activation?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "MS_023",
-          "clue": "In Southern American culture, these colors are avoided in gift wrapping due to associations with death.",
-          "answer": "What are black and purple?",
-          "category": "Traditions"
-        },
-        {
-          "id": "MS_024",
-          "clue": "This psychological theory suggests that receiving help creates an obligation to help others.",
-          "answer": "What is the norm of reciprocity?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "MS_025",
-          "clue": "The practice of carefully unwrapping gifts instead of tearing them is especially important in this country.",
-          "answer": "What is Japan?",
-          "category": "Traditions"
-        },
-        {
-          "id": "MS_026",
-          "clue": "This neurological effect occurs when people practice gratitude regularly, improving empathy.",
-          "answer": "What is neural strengthening or brain changes?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "MS_027",
-          "clue": "The system of exchange where gifts are given based on social norms rather than monetary value.",
-          "answer": "What is a gift economy?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "MS_028",
-          "clue": "This emotional connection strengthens when gifts are chosen with understanding of the recipient's preferences.",
-          "answer": "What is emotional bonding?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "MS_029",
-          "clue": "In formal gift-giving etiquette, you should present a gift with these words of modesty.",
-          "answer": "What is 'this is just a small token'?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "MS_030",
-          "clue": "Research indicates that gift-receiving increases feelings of this emotion related to social connection.",
-          "answer": "What is belonging?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "MS_031",
-          "clue": "This principle suggests that understanding another's perspective enhances gift-selection accuracy.",
-          "answer": "What is perspective-taking?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "MS_032",
-          "clue": "In gift-wrapping traditions, about this percentage of people believe gifts should always be wrapped.",
-          "answer": "What is 96%?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "MS_033",
-          "clue": "The term for gifts given to express gratitude and strengthen relationships, rooted in reciprocity theory.",
-          "answer": "What is thank-you gifts?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "MS_034",
-          "clue": "This act of generosity strengthens both giver and receiver wellbeing through empathetic connection.",
-          "answer": "What is gift-giving?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "MS_035",
-          "clue": "In gift psychology, the wrapping adds this layer of experience beyond the gift itself.",
-          "answer": "What is anticipation or excitement?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "MS_036",
-          "clue": "This psychological concept describes the expectation-setting phase before opening a wrapped gift.",
-          "answer": "What is suspense or curiosity?",
-          "category": "Empathy & Psychology"
-        }
-      ]
-    },
-    "10-12": {
-      "level": "High School (10-12)",
-      "difficulty": 3,
-      "question_count": 36,
-      "questions": [
-        {
-          "id": "HS_001",
-          "clue": "Anthropologist Marcel Mauss theorized that gift-giving creates these three simultaneous obligations.",
-          "answer": "What are giving, receiving, and returning?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "HS_002",
-          "clue": "The psychological concept of indebtedness in gift-receiving is central to this theory of social behavior.",
-          "answer": "What is the norm of reciprocity?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "HS_003",
-          "clue": "In cross-cultural etiquette, avoiding gifts of knives or scissors in Chinese culture relates to this concept.",
-          "answer": "What is severance or breaking relationships?",
-          "category": "Traditions"
-        },
-        {
-          "id": "HS_004",
-          "clue": "The neurological basis for gratitude's correlation with increased empathy involves activation of these brain regions.",
-          "answer": "What are pleasure, empathy, and social bonding centers?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "HS_005",
-          "clue": "The Kula ring of the Trobriand Islands represents this economic system without immediate monetary returns.",
-          "answer": "What is a gift economy?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "HS_006",
-          "clue": "In Japanese gift presentation etiquette, the decorative side should face the recipient to demonstrate this quality.",
-          "answer": "What is respect or honor?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "HS_007",
-          "clue": "The psychological theory that explains why people feel obligated to return favors after receiving gifts.",
-          "answer": "What is reciprocity norm theory?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "HS_008",
-          "clue": "In the Moka ceremony of Papua New Guinea, gifts of pigs and valuables serve this social function.",
-          "answer": "What is establishing prestige and influence?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "HS_009",
-          "clue": "The principle in Asian cultures that gift recipients should reciprocate with counter-gifts reflects this concept.",
-          "answer": "What is the perpetual reciprocity cycle?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "HS_010",
-          "clue": "Research on gratitude interventions shows they significantly increase this psychological construct.",
-          "answer": "What is overall life satisfaction or wellbeing?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "HS_011",
-          "clue": "The distinction between relational and transactional gift-giving centers on this primary motivation.",
-          "answer": "What is connection vs. obligation?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "HS_012",
-          "clue": "In Chinese gift-giving etiquette, the homophone phenomenon that makes clocks unlucky relates to this concept.",
-          "answer": "What is linguistic symbolism or phonetic superstition?",
-          "category": "Traditions"
-        },
-        {
-          "id": "HS_013",
-          "clue": "The historical practice of gift-wrapping, documented since about this century in Japanese culture.",
-          "answer": "What is the 10th century or 1000 years ago?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "HS_014",
-          "clue": "The theoretical framework explaining why gift-receiving increases prosocial behavior toward others.",
-          "answer": "What is reciprocity and gratitude activation?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "HS_015",
-          "clue": "Empathy correlates positively with this personality trait measured in the Gratitude Questionnaire (GQ-6).",
-          "answer": "What is forgiveness or prosocial behavior?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "HS_016",
-          "clue": "In anthropological analysis, the Potlatch ceremony exemplifies this principle of competitive generosity.",
-          "answer": "What is status negotiation through gift-giving?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "HS_017",
-          "clue": "The concept that beautiful gift wrapping delays gratification and increases satisfaction through anticipation.",
-          "answer": "What is the delay-of-gratification effect?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "HS_018",
-          "clue": "In reciprocity norm theory, this emotion mediates the relationship between gift-receiving and helping behavior.",
-          "answer": "What is indebtedness?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "HS_019",
-          "clue": "The psychological mechanism by which understanding a recipient's preferences enhances emotional connection.",
-          "answer": "What is perspective-taking and empathetic attunement?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "HS_020",
-          "clue": "The Māori concept of 'koha' reflects this anthropological principle of non-monetary exchange systems.",
-          "answer": "What is the gift economy or reciprocal obligation?",
-          "category": "Traditions"
-        },
-        {
-          "id": "HS_021",
-          "clue": "In evolutionary psychology, gift-giving behavior serves this function in establishing group cooperation.",
-          "answer": "What is kin selection or coalition building?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "HS_022",
-          "clue": "The phenomenon where certain colors in gift wrapping carry symbolic meaning across cultures reflects this concept.",
-          "answer": "What is cultural semiotics or symbolic interpretation?",
-          "category": "Traditions"
-        },
-        {
-          "id": "HS_023",
-          "clue": "Research demonstrates that gratitude practices increase this neurological construct related to empathy.",
-          "answer": "What is neural connectivity or synaptic plasticity?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "HS_024",
-          "clue": "The interpersonal attraction theory of gift-giving suggests this emotional foundation drives prosocial behavior.",
-          "answer": "What is liking or affection?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "HS_025",
-          "clue": "In social psychology, thank-you gift-giving is best predicted by this emotion rather than indebtedness.",
-          "answer": "What is fondness or respect?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "HS_026",
-          "clue": "The anthropological principle that gift exchanges create obligations that extend beyond a single transaction.",
-          "answer": "What is continuous reciprocity?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "HS_027",
-          "clue": "In Japanese etiquette, the careful preservation of wrapping paper reflects this cultural value.",
-          "answer": "What is respect for craftsmanship or mindfulness?",
-          "category": "Traditions"
-        },
-        {
-          "id": "HS_028",
-          "clue": "The psychological construct that mediates the relationship between gift receipt and subsequent helping behavior.",
-          "answer": "What is gratitude or feelings of obligation?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "HS_029",
-          "clue": "The principle in South American gift-giving etiquette regarding colors reflects this psychological phenomenon.",
-          "answer": "What is cultural color symbolism and death anxiety?",
-          "category": "Traditions"
-        },
-        {
-          "id": "HS_030",
-          "clue": "In consumer psychology, the anticipation created by wrapped gifts contributes to this effect.",
-          "answer": "What is increased satisfaction or hedonic enhancement?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "HS_031",
-          "clue": "The theory that receiving a gift activates reward systems and strengthens this psychological variable.",
-          "answer": "What is social bonding or attachment?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "HS_032",
-          "clue": "In gift-giving psychology, selecting a gift that matches someone's identity requires this cognitive skill.",
-          "answer": "What is theory of mind or mental state attribution?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "HS_033",
-          "clue": "The anthropological concept explaining why gift refusal in Chinese culture is a display of modesty.",
-          "answer": "What is Confucian virtue signaling?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "HS_034",
-          "clue": "In social psychology, this concept describes how gift-giving behavior spreads through social networks.",
-          "answer": "What is social contagion or reciprocal altruism?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "HS_035",
-          "clue": "The principle that explains why peer review functions as a gift economy in academic publishing.",
-          "answer": "What is non-monetary reciprocal obligation?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "HS_036",
-          "clue": "Research on thank-you gifts suggests this predictor is more influential than indebtedness in determining gift-giving.",
-          "answer": "What is respect or affection for the benefactor?",
-          "category": "Gift-Giving"
-        }
-      ]
-    },
-    "13-17": {
-      "level": "College (13-17)",
-      "difficulty": 4,
-      "question_count": 36,
-      "questions": [
-        {
-          "id": "COLL_001",
-          "clue": "Marcel Mauss's seminal work on gift economies theorizes that the three obligations create this type of social system.",
-          "answer": "What is a system of reciprocal interdependence?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_002",
-          "clue": "In reciprocity norm theory, the emotional state of indebtedness mediates between gift-receipt and what downstream behavior?",
-          "answer": "What is prosocial helping or reciprocal gift-giving?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "COLL_003",
-          "clue": "The Kula ring exemplifies this form of gift exchange where valuables circulate without market transactions.",
-          "answer": "What is ceremonial gifting or non-commodified exchange?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_004",
-          "clue": "In gratitude research, the Gratitude Questionnaire (GQ-6) demonstrates positive correlations with these Big Five personality traits.",
-          "answer": "What are agreeableness and openness to experience?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "COLL_005",
-          "clue": "The theoretical distinction between Mauss's gift economy and commodity exchange relies on this fundamental principle.",
-          "answer": "What is the absence of explicit monetary valuation and market mechanisms?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_006",
-          "clue": "In cross-cultural psychology, the avoidance of white and black wrapping in Asian cultures exemplifies this cognitive process.",
-          "answer": "What is color symbolism and culturally-encoded mourning associations?",
-          "category": "Traditions"
-        },
-        {
-          "id": "COLL_007",
-          "clue": "Research on empathy development shows that gratitude practices enhance this neural mechanism.",
-          "answer": "What is mirror neuron activation or affective resonance?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "COLL_008",
-          "clue": "The Potlatch ceremony serves this anthropological function in establishing and maintaining social hierarchies.",
-          "answer": "What is status differentiation through competitive redistribution?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_009",
-          "clue": "In social psychology, the theory that receiving help obligates reciprocation is termed this.",
-          "answer": "What is the norm of reciprocity or reciprocal determinism?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "COLL_010",
-          "clue": "The Māori concept of 'koha' represents this economic and social system where gifts create lasting relationships.",
-          "answer": "What is relational reciprocity or gift-based kinship economics?",
-          "category": "Traditions"
-        },
-        {
-          "id": "COLL_011",
-          "clue": "In behavioral economics, gift-giving creates what type of utility beyond the material value of the item?",
-          "answer": "What is relational or hedonic utility?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "COLL_012",
-          "clue": "Research demonstrates that meaningful gift-giving activates these specific brain regions involved in reward and social cognition.",
-          "answer": "What are the ventromedial prefrontal cortex and nucleus accumbens?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "COLL_013",
-          "clue": "The psychological mechanism by which gift-wrapping delays gratification and enhances satisfaction follows this theoretical framework.",
-          "answer": "What is temporal discounting and anticipatory pleasure?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "COLL_014",
-          "clue": "In Chinese gift-giving etiquette, the homophone of 'gift clock' symbolizes this concept rooted in mortality anxiety.",
-          "answer": "What is death or severance of life?",
-          "category": "Traditions"
-        },
-        {
-          "id": "COLL_015",
-          "clue": "The anthropological principle that gift economies establish what type of social bond distinct from market transactions.",
-          "answer": "What is personal obligation or relational embeddedness?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_016",
-          "clue": "In etiquette theory, the presentation of gifts with both hands in Asian cultures symbolizes this philosophical concept.",
-          "answer": "What is the subordination of self through respectful deference?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "COLL_017",
-          "clue": "Research on thank-you gift-giving identifies this emotion as the strongest predictor of reciprocal gift behavior.",
-          "answer": "What is fondness or affection, rather than indebtedness?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "COLL_018",
-          "clue": "The theory of mind in developmental psychology explains gift-selection accuracy through this cognitive process.",
-          "answer": "What is mentalizing or false belief understanding?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "COLL_019",
-          "clue": "In social psychology, gift-giving behavior spreads through networks via this mechanism of behavioral influence.",
-          "answer": "What is social contagion or observational learning?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "COLL_020",
-          "clue": "The Moka ceremony exemplifies this anthropological concept of status competition through redistribution.",
-          "answer": "What is agonistic reciprocity or prestige-seeking exchange?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_021",
-          "clue": "In consumer psychology, the phenomenon where wrapped gifts increase satisfaction operates through this mechanism.",
-          "answer": "What is the contrast effect and heightened expectation?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "COLL_022",
-          "clue": "Research on gratitude interventions demonstrates effects on this psychological outcome measure.",
-          "answer": "What is subjective wellbeing or hedonic happiness?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "COLL_023",
-          "clue": "The anthropological concept describing gift economies as systems creating what instead of commodifying relationships.",
-          "answer": "What is social embeddedness or relational selves?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_024",
-          "clue": "In cross-cultural communication, this theoretical framework explains color symbolism in gift-giving across societies.",
-          "answer": "What is cultural semiotics or Saussurean sign systems?",
-          "category": "Traditions"
-        },
-        {
-          "id": "COLL_025",
-          "clue": "The psychological construct measuring gratitude disposition was developed through this psychometric instrument.",
-          "answer": "What is the Gratitude Questionnaire-Six (GQ-6)?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "COLL_026",
-          "clue": "In social neuroscience, empathy development through gift-giving involves this process of neural organization.",
-          "answer": "What is synaptic pruning and neural pathway consolidation?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "COLL_027",
-          "clue": "The principle that explains why peer review functions as a gift economy despite competitive academic dynamics.",
-          "answer": "What is the tension between cooperation and accumulation in knowledge production?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_028",
-          "clue": "In Japanese gift presentation etiquette, the ceremonial protocols reflect this philosophical underpinning.",
-          "answer": "What is Zen Buddhism's emphasis on presence and intentionality?",
-          "category": "Traditions"
-        },
-        {
-          "id": "COLL_029",
-          "clue": "Research demonstrates that meaningful gift-giving enhances this psychological outcome through reciprocal empathy.",
-          "answer": "What is interpersonal trust and relational security?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "COLL_030",
-          "clue": "The anthropological analysis of refusal rituals in Chinese gift-receiving exemplifies this theoretical concept.",
-          "answer": "What is Confucian virtue signaling or face-work?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "COLL_031",
-          "clue": "In behavioral economics, gift-giving creates utility functions distinct from pure monetary exchange through this mechanism.",
-          "answer": "What is signaling of interpersonal values or preferences?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "COLL_032",
-          "clue": "The theoretical framework explaining how gratitude increases empathy involves activation of this neural system.",
-          "answer": "What is the default mode network and mentalizing system?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "COLL_033",
-          "clue": "In economic anthropology, Mauss distinguished gift economies from market economies through this principle.",
-          "answer": "What is the personalization of exchange versus commodification?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "COLL_034",
-          "clue": "The phenomenon where gift-wrapping enhances satisfaction follows this psychological principle of expectations.",
-          "answer": "What is peak-end rule and contrast coding?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "COLL_035",
-          "clue": "Research on empathy development shows gratitude practices strengthen this type of psychological capacity.",
-          "answer": "What is affective mentalizing or emotional perspective-taking?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "COLL_036",
-          "clue": "In comparative anthropology, the distinction between Mauss's gift economy and commodity exchange centers on this.",
-          "answer": "What is the presence or absence of alienability and market value?",
-          "category": "Gift Economy"
-        }
-      ]
-    },
-    "18+": {
-      "level": "Advanced/Expert (18+)",
-      "difficulty": 5,
-      "question_count": 36,
-      "questions": [
-        {
-          "id": "ADV_001",
-          "clue": "Mauss's theoretical framework posits that gift obligations instantiate a system of 'total services' operating through this triadic mechanism.",
-          "answer": "What is the obligation to give, receive, and reciprocate creating perpetual relational debt?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_002",
-          "clue": "The tension between reciprocity norm theory (indebtedness-based) and interpersonal attraction theory in gift-giving is resolved by this variable.",
-          "answer": "What is respect or liking as differential mediators of help-seeking behavior?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "ADV_003",
-          "clue": "In anthropological analysis, the Kula ring instantiates what Malinowski termed this form of 'spheres of exchange.'",
-          "answer": "What is a ritualized system of prestige goods circulation with no utilitarian purpose?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_004",
-          "clue": "Empirical research on gratitude interventions demonstrates effect sizes moderated by this individual differences variable.",
-          "answer": "What is baseline wellbeing or dispositional gratitude?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "ADV_005",
-          "clue": "The anthropological distinction between Mauss and later gift economy theorists centers on whether gifts create this type of obligation.",
-          "answer": "What is individual rather than collective indebtedness?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_006",
-          "clue": "In the Moka ceremony, the competitive redistribution of valuables functions through this mechanism of status differentiation.",
-          "answer": "What is potlatch-like aggrandizement or big-man politics?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_007",
-          "clue": "Cross-cultural psychological research explains color avoidance in gift-wrapping through this theoretical framework.",
-          "answer": "What is cultural schemas and embodied cognition of mortality salience?",
-          "category": "Traditions"
-        },
-        {
-          "id": "ADV_008",
-          "clue": "The neuroscientific basis for empathy enhancement through gratitude involves potentiation of this neural pathway.",
-          "answer": "What is the orbitofrontal cortex-amygdala connectivity or affective resonance circuitry?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "ADV_009",
-          "clue": "In behavioral economics, the endowment effect in gift-receiving operates through this cognitive mechanism.",
-          "answer": "What is loss aversion and reference-point dependency?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "ADV_010",
-          "clue": "The anthropological principle distinguishing Māori 'koha' from Western gift-giving centers on this ontological assumption.",
-          "answer": "What is relational personhood versus individualistic ownership?",
-          "category": "Traditions"
-        },
-        {
-          "id": "ADV_011",
-          "clue": "In Japanese gift presentation etiquette, the ceremonial protocols instantiate these philosophical commitments.",
-          "answer": "What is Zen aesthetic principles of ma (negative space) and wabi-sabi (impermanence)?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "ADV_012",
-          "clue": "Research on thank-you gift-giving identifies this as the primary psychological variable mediating reciprocal gift behavior.",
-          "answer": "What is fondness-based attraction rather than indebtedness obligation?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "ADV_013",
-          "clue": "The theory of mind mechanisms underlying accurate gift selection involve these cognitive sub-components.",
-          "answer": "What are false belief reasoning, perspective-taking, and desire attribution?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "ADV_014",
-          "clue": "In social psychology, gift-giving behavior propagation through networks follows this mechanistic principle.",
-          "answer": "What is stimulus-response generalization and observational learning via social modeling?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "ADV_015",
-          "clue": "The anthropological debate regarding whether gift economies represent this or systems of social control.",
-          "answer": "What is pure reciprocity versus disguised redistribution hierarchies?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_016",
-          "clue": "In consumer psychology, the gift-wrapping effect on satisfaction operates through these dual mechanisms.",
-          "answer": "What are cognitive contrast effects and temporal discounting of anticipated pleasure?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "ADV_017",
-          "clue": "Gratitude interventions demonstrate domain-specific effects moderated by this variable related to intervention design.",
-          "answer": "What is the temporal frequency and dosage of gratitude practice?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "ADV_018",
-          "clue": "The anthropological analysis of Chinese gift refusal rituals reveals this underlying communicative function.",
-          "answer": "What is face-saving and Confucian modesty signaling within hierarchical relationships?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "ADV_019",
-          "clue": "In economic anthropology, the concept of gift economies instantiates relationships of this quality absent in commodity markets.",
-          "answer": "What is embeddedness and particularistic versus universalistic exchange?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_020",
-          "clue": "Neuroimaging studies reveal that empathetic gift-giving activates these specific nodes of the social brain network.",
-          "answer": "What are the temporo-parietal junction, posterior cingulate, and medial prefrontal cortex?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "ADV_021",
-          "clue": "The phenomenon where gift-wrapping delays gratification and heightens satisfaction follows this principle of hedonic psychology.",
-          "answer": "What is the peak-end rule and duration neglect in subjective experience?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "ADV_022",
-          "clue": "In comparative anthropology, gift economies differ from commodity systems through this fundamental principle of valuation.",
-          "answer": "What is qualitative commensurability versus quantitative price mechanisms?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_023",
-          "clue": "Research demonstrates that gratitude practices enhance empathy through this mechanism of cognitive restructuring.",
-          "answer": "What is positive reappraisal and beneficence attribution bias?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "ADV_024",
-          "clue": "The peer review system functions as a gift economy despite competitive dynamics through this theoretical mechanism.",
-          "answer": "What is the normative obligation to contribute to collective knowledge goods despite individual incentives to free-ride?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_025",
-          "clue": "In behavioral economics, gift-giving utility derives from this principle distinct from consumption utility.",
-          "answer": "What is the signaling of personal values and relational preferences?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "ADV_026",
-          "clue": "Cross-cultural gift-giving etiquette reflects these competing values in face-to-face interaction.",
-          "answer": "What are positive face (approval) and negative face (autonomy) as defined by Brown and Levinson?",
-          "category": "Etiquette"
-        },
-        {
-          "id": "ADV_027",
-          "clue": "The neurobiological pathway by which gratitude augments empathy involves potentiation of these neurotransmitter systems.",
-          "answer": "What are oxytocin (bonding), serotonin (mood), and dopamine (reward) signaling?",
-          "category": "Gratitude"
-        },
-        {
-          "id": "ADV_028",
-          "clue": "In gift-wrapping psychology, the aesthetic presentation principle underlying Japanese practices derives from this philosophical tradition.",
-          "answer": "What is Zen Buddhism's emphasis on emptiness and non-attachment through aesthetic minimalism?",
-          "category": "Gift Wrapping"
-        },
-        {
-          "id": "ADV_029",
-          "clue": "The anthropological distinction between Mauss's gift theory and Lévi-Strauss's structuralist reading centers on this analytical level.",
-          "answer": "What is surface reciprocity mechanisms versus underlying social structural principles?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_030",
-          "clue": "In social psychology, the contagion of gift-giving behavior through networks operates via this mechanism of behavioral influence.",
-          "answer": "What is status-seeking through conformity to prosocial norms?",
-          "category": "Social Psychology"
-        },
-        {
-          "id": "ADV_031",
-          "clue": "The theoretical framework explaining empathy development through gift-giving involves these cognitive-affective processes.",
-          "answer": "What is affective resonance, cognitive perspective-taking, and emotion regulation?",
-          "category": "Empathy & Psychology"
-        },
-        {
-          "id": "ADV_032",
-          "clue": "In economic anthropology, the personalization of exchange in gift economies instantiates this quality of social relationships.",
-          "answer": "What is particularistic bonding versus universalistic market relations?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_033",
-          "clue": "Research on thank-you gifts identifies this emotional mediator as superior to indebtedness in predicting reciprocal helping.",
-          "answer": "What is fondness-based interpersonal attraction and respect?",
-          "category": "Gift-Giving"
-        },
-        {
-          "id": "ADV_034",
-          "clue": "The phenomenon of color symbolism in gift-wrapping reflects this principle of embodied cultural cognition.",
-          "answer": "What is the coupling of symbolic meaning with autonomic nervous system reactivity?",
-          "category": "Traditions"
-        },
-        {
-          "id": "ADV_035",
-          "clue": "In the Potlatch and Moka ceremonies, competitive gift-giving serves this anthropological function in acephalous societies.",
-          "answer": "What is the establishment of prestige-based hierarchies absent formal political institutions?",
-          "category": "Gift Economy"
-        },
-        {
-          "id": "ADV_036",
-          "clue": "Gratitude interventions demonstrate effects on empathy through this mechanism of cognitive schema activation.",
-          "answer": "What is priming of positive social attitudes and benevolence attributions?",
-          "category": "Gratitude"
-        }
-      ]
-    }
-  },
-  "research_sources": {
-    "social_psychology": [
-      "The Social Psychology of the Gift - Barry Schwartz",
-      "Reciprocity Norm Theory - The Decision Lab",
-      "Thank-You Gift Psychology - PMC (2024-2025)",
-      "Social Influence in Gift-Giving - Kizilcec et al.",
-      "Interpersonal Attraction Theory - Byrne & Nelson"
+    "kids_4_under": [
+      {
+        "clue": "This colorful paper is used to wrap gifts to make them pretty.",
+        "correctQuestion": "What is wrapping paper?",
+        "value": 200
+      },
+      {
+        "clue": "You open your birthday gifts on your special day and say this word to show you're happy.",
+        "correctQuestion": "What is 'thank you'?",
+        "value": 200
+      },
+      {
+        "clue": "This shiny string or bow decorates the top of wrapped presents.",
+        "correctQuestion": "What is ribbon?",
+        "value": 200
+      },
+      {
+        "clue": "When you give a gift to someone, you want them to feel this emotion.",
+        "correctQuestion": "What is happy?",
+        "value": 200
+      },
+      {
+        "clue": "This is the day you celebrate being one year older and receive birthday gifts.",
+        "correctQuestion": "What is your birthday?",
+        "value": 200
+      },
+      {
+        "clue": "You feel this way when someone gives you a present you really wanted.",
+        "correctQuestion": "What is grateful?",
+        "value": 200
+      },
+      {
+        "clue": "When you give someone a gift, you place it in your hands and hold it out like this.",
+        "correctQuestion": "What is with both hands?",
+        "value": 200
+      },
+      {
+        "clue": "This decorative item on a gift looks like a flower made of ribbon.",
+        "correctQuestion": "What is a bow?",
+        "value": 200
+      },
+      {
+        "clue": "Understanding how someone else feels is called this.",
+        "correctQuestion": "What is empathy?",
+        "value": 200
+      },
+      {
+        "clue": "When you receive a gift, it's polite to open it slowly instead of doing this quickly.",
+        "correctQuestion": "What is tearing it apart?",
+        "value": 200
+      },
+      {
+        "clue": "Many people celebrate birthdays with cake, candles, and these objects that light up.",
+        "correctQuestion": "What are balloons?",
+        "value": 200
+      },
+      {
+        "clue": "This is what you give to someone to show you care about them.",
+        "correctQuestion": "What is a gift?",
+        "value": 200
+      },
+      {
+        "clue": "In many countries, gifts come wrapped, and you have to do this to see what's inside.",
+        "correctQuestion": "What is unwrap?",
+        "value": 200
+      },
+      {
+        "clue": "When someone gives you a gift, you should look this way to show appreciation.",
+        "correctQuestion": "What is happy or smile?",
+        "value": 200
+      },
+      {
+        "clue": "This word means you are glad someone thought of you and gave you something nice.",
+        "correctQuestion": "What is appreciated?",
+        "value": 200
+      },
+      {
+        "clue": "The feeling you get when you know someone cares about you.",
+        "correctQuestion": "What is loved?",
+        "value": 200
+      },
+      {
+        "clue": "This sparkly paper adds extra shine to wrapped presents.",
+        "correctQuestion": "What is glitter or foil paper?",
+        "value": 200
+      },
+      {
+        "clue": "When you give a gift that matches someone's interests, you show this kind of thinking.",
+        "correctQuestion": "What is thoughtfulness?",
+        "value": 200
+      },
+      {
+        "clue": "In many traditions, this colored gift wrap is considered lucky and happy.",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "This is the excited feeling you get when you see a wrapped present.",
+        "correctQuestion": "What is anticipation?",
+        "value": 200
+      },
+      {
+        "clue": "After you open a gift, you should write or say one of these to thank the giver.",
+        "correctQuestion": "What is a thank you note?",
+        "value": 200
+      },
+      {
+        "clue": "The sound someone makes when they love their birthday gift.",
+        "correctQuestion": "What is laughter or excitement?",
+        "value": 200
+      },
+      {
+        "clue": "This is the process of selecting the right gift for someone's personality and likes.",
+        "correctQuestion": "What is gift choosing or shopping?",
+        "value": 200
+      },
+      {
+        "clue": "When you share gifts in this way, you are building a connection with someone.",
+        "correctQuestion": "What is thoughtfully?",
+        "value": 200
+      },
+      {
+        "clue": "This colored paper is often avoided in Asian cultures because it reminds people of sadness.",
+        "correctQuestion": "What is black or white?",
+        "value": 200
+      },
+      {
+        "clue": "When someone gives you a gift and you smile, you're showing them this feeling.",
+        "correctQuestion": "What is joy?",
+        "value": 200
+      },
+      {
+        "clue": "This sticky tape holds wrapped gifts together.",
+        "correctQuestion": "What is tape?",
+        "value": 200
+      },
+      {
+        "clue": "The special box that gifts often come in for protection.",
+        "correctQuestion": "What is a gift box?",
+        "value": 200
+      },
+      {
+        "clue": "A good gift-giver thinks about what this person likes and enjoys.",
+        "correctQuestion": "What is the recipient?",
+        "value": 200
+      },
+      {
+        "clue": "This feeling makes you want to help others and give them gifts.",
+        "correctQuestion": "What is kindness?",
+        "value": 200
+      },
+      {
+        "clue": "When you give a gift and don't expect anything in return, you're being this.",
+        "correctQuestion": "What is generous?",
+        "value": 200
+      },
+      {
+        "clue": "In Japan, it's custom to open gifts this way so you don't tear the beautiful paper.",
+        "correctQuestion": "What is carefully?",
+        "value": 200
+      },
+      {
+        "clue": "This is the tradition where you blow out candles and make a wish on your birthday.",
+        "correctQuestion": "What is a birthday cake?",
+        "value": 200
+      },
+      {
+        "clue": "A person who receives a gift is called the what?",
+        "correctQuestion": "What is a recipient?",
+        "value": 200
+      },
+      {
+        "clue": "Understanding that someone will be happy with your gift choice shows this.",
+        "correctQuestion": "What is empathy?",
+        "value": 200
+      },
+      {
+        "clue": "This is what you say when someone gives you a gift and you want to be polite.",
+        "correctQuestion": "What is 'thank you very much'?",
+        "value": 200
+      }
     ],
-    "gift_economy": [
-      "The Gift by Marcel Mauss (foundational)",
-      "Gift Economy - Wikipedia & New World Encyclopedia",
-      "Kula Ring - Bronislaw Malinowski's Anthropological Studies",
-      "Potlatch of Pacific Northwest Tribes",
-      "Moka Ceremony - Papua New Guinea",
-      "Māori Koha Tradition - New Zealand"
+    "kids_10_under": [
+      {
+        "clue": "This anthropological concept, studied by Marcel Mauss, describes the obligations of giving, receiving, and returning gifts.",
+        "correctQuestion": "What is gift exchange?",
+        "value": 200
+      },
+      {
+        "clue": "In Japanese culture, you should refuse a gift this many times before accepting it politely.",
+        "correctQuestion": "What is once or twice?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological principle that makes people want to return a favor when given a gift.",
+        "correctQuestion": "What is reciprocity?",
+        "value": 200
+      },
+      {
+        "clue": "In China, giving a clock as a gift is considered unlucky because the phrase sounds like this.",
+        "correctQuestion": "What is 'to see off into death'?",
+        "value": 200
+      },
+      {
+        "clue": "This emotional response combines feelings of appreciation and indebtedness in gift-receiving.",
+        "correctQuestion": "What is gratitude?",
+        "value": 200
+      },
+      {
+        "clue": "The ability to understand and share someone's feelings is called this.",
+        "correctQuestion": "What is empathy?",
+        "value": 200
+      },
+      {
+        "clue": "This color is traditionally avoided in gift wrapping across most Asian cultures.",
+        "correctQuestion": "What is white or black?",
+        "value": 200
+      },
+      {
+        "clue": "The Kula ring, studied by Bronislaw Malinowski, was a gift-exchange system in these islands.",
+        "correctQuestion": "What are the Trobriand Islands?",
+        "value": 200
+      },
+      {
+        "clue": "In Middle Eastern and Indian cultures, you should give or receive gifts using this hand.",
+        "correctQuestion": "What is the right hand?",
+        "value": 200
+      },
+      {
+        "clue": "The three obligations that form the foundation of gift-exchange systems worldwide according to Mauss.",
+        "correctQuestion": "What are giving, receiving, and returning?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological concept suggests that liking someone leads to helpful behaviors, including gift-giving.",
+        "correctQuestion": "What is interpersonal attraction?",
+        "value": 200
+      },
+      {
+        "clue": "In Japan, this number is considered unlucky for gift sets because it symbolizes death.",
+        "correctQuestion": "What is four?",
+        "value": 200
+      },
+      {
+        "clue": "This practice of expressing modesty by refusing a gift several times is common in Chinese culture.",
+        "correctQuestion": "What is polite refusal?",
+        "value": 200
+      },
+      {
+        "clue": "Research shows that gratitude is positively correlated with this trait, enhancing compassion.",
+        "correctQuestion": "What is empathy?",
+        "value": 200
+      },
+      {
+        "clue": "In Papua New Guinea, this ceremony involves competitive gifting of pigs to gain prestige.",
+        "correctQuestion": "What is the Moka ceremony?",
+        "value": 200
+      },
+      {
+        "clue": "The Māori tradition of 'koha' translates to gift, donation, or this concept.",
+        "correctQuestion": "What is remuneration or reciprocal exchange?",
+        "value": 200
+      },
+      {
+        "clue": "In gift-giving psychology, this emotional response indicates that someone values a gesture.",
+        "correctQuestion": "What is appreciation?",
+        "value": 200
+      },
+      {
+        "clue": "The Potlatch ceremony of Pacific Northwest tribes was based on this principle of gift-giving.",
+        "correctQuestion": "What is competitive generosity?",
+        "value": 200
+      },
+      {
+        "clue": "Research shows that choosing a thoughtful gift requires this key emotional skill.",
+        "correctQuestion": "What is empathy?",
+        "value": 200
+      },
+      {
+        "clue": "In Asian gift-giving etiquette, presenting with both hands signals this quality.",
+        "correctQuestion": "What is respect?",
+        "value": 200
+      },
+      {
+        "clue": "This color symbolizes luck and joy in Chinese gift-giving traditions.",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological process where gift-giving activates brain regions linked to pleasure and connection.",
+        "correctQuestion": "What is reward activation?",
+        "value": 200
+      },
+      {
+        "clue": "In Southern American culture, these colors are avoided in gift wrapping due to associations with death.",
+        "correctQuestion": "What are black and purple?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological theory suggests that receiving help creates an obligation to help others.",
+        "correctQuestion": "What is the norm of reciprocity?",
+        "value": 200
+      },
+      {
+        "clue": "The practice of carefully unwrapping gifts instead of tearing them is especially important in this country.",
+        "correctQuestion": "What is Japan?",
+        "value": 200
+      },
+      {
+        "clue": "This neurological effect occurs when people practice gratitude regularly, improving empathy.",
+        "correctQuestion": "What is neural strengthening or brain changes?",
+        "value": 200
+      },
+      {
+        "clue": "The system of exchange where gifts are given based on social norms rather than monetary value.",
+        "correctQuestion": "What is a gift economy?",
+        "value": 200
+      },
+      {
+        "clue": "This emotional connection strengthens when gifts are chosen with understanding of the recipient's preferences.",
+        "correctQuestion": "What is emotional bonding?",
+        "value": 200
+      },
+      {
+        "clue": "In formal gift-giving etiquette, you should present a gift with these words of modesty.",
+        "correctQuestion": "What is 'this is just a small token'?",
+        "value": 200
+      },
+      {
+        "clue": "Research indicates that gift-receiving increases feelings of this emotion related to social connection.",
+        "correctQuestion": "What is belonging?",
+        "value": 200
+      },
+      {
+        "clue": "This principle suggests that understanding another's perspective enhances gift-selection accuracy.",
+        "correctQuestion": "What is perspective-taking?",
+        "value": 200
+      },
+      {
+        "clue": "In gift-wrapping traditions, about this percentage of people believe gifts should always be wrapped.",
+        "correctQuestion": "What is 96%?",
+        "value": 200
+      },
+      {
+        "clue": "The term for gifts given to express gratitude and strengthen relationships, rooted in reciprocity theory.",
+        "correctQuestion": "What is thank-you gifts?",
+        "value": 200
+      },
+      {
+        "clue": "This act of generosity strengthens both giver and receiver wellbeing through empathetic connection.",
+        "correctQuestion": "What is gift-giving?",
+        "value": 200
+      },
+      {
+        "clue": "In gift psychology, the wrapping adds this layer of experience beyond the gift itself.",
+        "correctQuestion": "What is anticipation or excitement?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological concept describes the expectation-setting phase before opening a wrapped gift.",
+        "correctQuestion": "What is suspense or curiosity?",
+        "value": 200
+      },
+      {
+        "clue": "Anthropologist Marcel Mauss theorized that gift-giving creates these three simultaneous obligations.",
+        "correctQuestion": "What are giving, receiving, and returning?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological concept of indebtedness in gift-receiving is central to this theory of social behavior.",
+        "correctQuestion": "What is the norm of reciprocity?",
+        "value": 200
+      },
+      {
+        "clue": "In cross-cultural etiquette, avoiding gifts of knives or scissors in Chinese culture relates to this concept.",
+        "correctQuestion": "What is severance or breaking relationships?",
+        "value": 200
+      },
+      {
+        "clue": "The neurological basis for gratitude's correlation with increased empathy involves activation of these brain regions.",
+        "correctQuestion": "What are pleasure, empathy, and social bonding centers?",
+        "value": 200
+      },
+      {
+        "clue": "The Kula ring of the Trobriand Islands represents this economic system without immediate monetary returns.",
+        "correctQuestion": "What is a gift economy?",
+        "value": 200
+      },
+      {
+        "clue": "In Japanese gift presentation etiquette, the decorative side should face the recipient to demonstrate this quality.",
+        "correctQuestion": "What is respect or honor?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological theory that explains why people feel obligated to return favors after receiving gifts.",
+        "correctQuestion": "What is reciprocity norm theory?",
+        "value": 200
+      },
+      {
+        "clue": "In the Moka ceremony of Papua New Guinea, gifts of pigs and valuables serve this social function.",
+        "correctQuestion": "What is establishing prestige and influence?",
+        "value": 200
+      },
+      {
+        "clue": "The principle in Asian cultures that gift recipients should reciprocate with counter-gifts reflects this concept.",
+        "correctQuestion": "What is the perpetual reciprocity cycle?",
+        "value": 200
+      },
+      {
+        "clue": "Research on gratitude interventions shows they significantly increase this psychological construct.",
+        "correctQuestion": "What is overall life satisfaction or wellbeing?",
+        "value": 200
+      },
+      {
+        "clue": "The distinction between relational and transactional gift-giving centers on this primary motivation.",
+        "correctQuestion": "What is connection vs. obligation?",
+        "value": 200
+      },
+      {
+        "clue": "In Chinese gift-giving etiquette, the homophone phenomenon that makes clocks unlucky relates to this concept.",
+        "correctQuestion": "What is linguistic symbolism or phonetic superstition?",
+        "value": 200
+      },
+      {
+        "clue": "The historical practice of gift-wrapping, documented since about this century in Japanese culture.",
+        "correctQuestion": "What is the 10th century or 1000 years ago?",
+        "value": 200
+      },
+      {
+        "clue": "The theoretical framework explaining why gift-receiving increases prosocial behavior toward others.",
+        "correctQuestion": "What is reciprocity and gratitude activation?",
+        "value": 200
+      },
+      {
+        "clue": "Empathy correlates positively with this personality trait measured in the Gratitude Questionnaire (GQ-6).",
+        "correctQuestion": "What is forgiveness or prosocial behavior?",
+        "value": 200
+      },
+      {
+        "clue": "In anthropological analysis, the Potlatch ceremony exemplifies this principle of competitive generosity.",
+        "correctQuestion": "What is status negotiation through gift-giving?",
+        "value": 200
+      },
+      {
+        "clue": "The concept that beautiful gift wrapping delays gratification and increases satisfaction through anticipation.",
+        "correctQuestion": "What is the delay-of-gratification effect?",
+        "value": 200
+      },
+      {
+        "clue": "In reciprocity norm theory, this emotion mediates the relationship between gift-receiving and helping behavior.",
+        "correctQuestion": "What is indebtedness?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological mechanism by which understanding a recipient's preferences enhances emotional connection.",
+        "correctQuestion": "What is perspective-taking and empathetic attunement?",
+        "value": 200
+      },
+      {
+        "clue": "The Māori concept of 'koha' reflects this anthropological principle of non-monetary exchange systems.",
+        "correctQuestion": "What is the gift economy or reciprocal obligation?",
+        "value": 200
+      },
+      {
+        "clue": "In evolutionary psychology, gift-giving behavior serves this function in establishing group cooperation.",
+        "correctQuestion": "What is kin selection or coalition building?",
+        "value": 200
+      },
+      {
+        "clue": "The phenomenon where certain colors in gift wrapping carry symbolic meaning across cultures reflects this concept.",
+        "correctQuestion": "What is cultural semiotics or symbolic interpretation?",
+        "value": 200
+      },
+      {
+        "clue": "Research demonstrates that gratitude practices increase this neurological construct related to empathy.",
+        "correctQuestion": "What is neural connectivity or synaptic plasticity?",
+        "value": 200
+      },
+      {
+        "clue": "The interpersonal attraction theory of gift-giving suggests this emotional foundation drives prosocial behavior.",
+        "correctQuestion": "What is liking or affection?",
+        "value": 200
+      },
+      {
+        "clue": "In social psychology, thank-you gift-giving is best predicted by this emotion rather than indebtedness.",
+        "correctQuestion": "What is fondness or respect?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological principle that gift exchanges create obligations that extend beyond a single transaction.",
+        "correctQuestion": "What is continuous reciprocity?",
+        "value": 200
+      },
+      {
+        "clue": "In Japanese etiquette, the careful preservation of wrapping paper reflects this cultural value.",
+        "correctQuestion": "What is respect for craftsmanship or mindfulness?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological construct that mediates the relationship between gift receipt and subsequent helping behavior.",
+        "correctQuestion": "What is gratitude or feelings of obligation?",
+        "value": 200
+      },
+      {
+        "clue": "The principle in South American gift-giving etiquette regarding colors reflects this psychological phenomenon.",
+        "correctQuestion": "What is cultural color symbolism and death anxiety?",
+        "value": 200
+      },
+      {
+        "clue": "In consumer psychology, the anticipation created by wrapped gifts contributes to this effect.",
+        "correctQuestion": "What is increased satisfaction or hedonic enhancement?",
+        "value": 200
+      },
+      {
+        "clue": "The theory that receiving a gift activates reward systems and strengthens this psychological variable.",
+        "correctQuestion": "What is social bonding or attachment?",
+        "value": 200
+      },
+      {
+        "clue": "In gift-giving psychology, selecting a gift that matches someone's identity requires this cognitive skill.",
+        "correctQuestion": "What is theory of mind or mental state attribution?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological concept explaining why gift refusal in Chinese culture is a display of modesty.",
+        "correctQuestion": "What is Confucian virtue signaling?",
+        "value": 200
+      },
+      {
+        "clue": "In social psychology, this concept describes how gift-giving behavior spreads through social networks.",
+        "correctQuestion": "What is social contagion or reciprocal altruism?",
+        "value": 200
+      },
+      {
+        "clue": "The principle that explains why peer review functions as a gift economy in academic publishing.",
+        "correctQuestion": "What is non-monetary reciprocal obligation?",
+        "value": 200
+      },
+      {
+        "clue": "Research on thank-you gifts suggests this predictor is more influential than indebtedness in determining gift-giving.",
+        "correctQuestion": "What is respect or affection for the benefactor?",
+        "value": 200
+      }
     ],
-    "gratitude_research": [
-      "Neural Correlates of Gratitude - PMC & Frontiers in Psychology",
-      "Gratitude Interventions Meta-Analysis - PMC (2024)",
-      "Gratitude Questionnaire-Six (GQ-6) - Research Measures",
-      "Neuroscience of Gratitude and Brain Effects - Positive Psychology",
-      "Gratitude and Empathy Correlation Studies"
+    "teenagers": [
+      {
+        "clue": "Marcel Mauss's seminal work on gift economies theorizes that the three obligations create this type of social system.",
+        "correctQuestion": "What is a system of reciprocal interdependence?",
+        "value": 200
+      },
+      {
+        "clue": "In reciprocity norm theory, the emotional state of indebtedness mediates between gift-receipt and what downstream behavior?",
+        "correctQuestion": "What is prosocial helping or reciprocal gift-giving?",
+        "value": 200
+      },
+      {
+        "clue": "The Kula ring exemplifies this form of gift exchange where valuables circulate without market transactions.",
+        "correctQuestion": "What is ceremonial gifting or non-commodified exchange?",
+        "value": 200
+      },
+      {
+        "clue": "In gratitude research, the Gratitude Questionnaire (GQ-6) demonstrates positive correlations with these Big Five personality traits.",
+        "correctQuestion": "What are agreeableness and openness to experience?",
+        "value": 200
+      },
+      {
+        "clue": "The theoretical distinction between Mauss's gift economy and commodity exchange relies on this fundamental principle.",
+        "correctQuestion": "What is the absence of explicit monetary valuation and market mechanisms?",
+        "value": 200
+      },
+      {
+        "clue": "In cross-cultural psychology, the avoidance of white and black wrapping in Asian cultures exemplifies this cognitive process.",
+        "correctQuestion": "What is color symbolism and culturally-encoded mourning associations?",
+        "value": 200
+      },
+      {
+        "clue": "Research on empathy development shows that gratitude practices enhance this neural mechanism.",
+        "correctQuestion": "What is mirror neuron activation or affective resonance?",
+        "value": 200
+      },
+      {
+        "clue": "The Potlatch ceremony serves this anthropological function in establishing and maintaining social hierarchies.",
+        "correctQuestion": "What is status differentiation through competitive redistribution?",
+        "value": 200
+      },
+      {
+        "clue": "In social psychology, the theory that receiving help obligates reciprocation is termed this.",
+        "correctQuestion": "What is the norm of reciprocity or reciprocal determinism?",
+        "value": 200
+      },
+      {
+        "clue": "The Māori concept of 'koha' represents this economic and social system where gifts create lasting relationships.",
+        "correctQuestion": "What is relational reciprocity or gift-based kinship economics?",
+        "value": 200
+      },
+      {
+        "clue": "In behavioral economics, gift-giving creates what type of utility beyond the material value of the item?",
+        "correctQuestion": "What is relational or hedonic utility?",
+        "value": 200
+      },
+      {
+        "clue": "Research demonstrates that meaningful gift-giving activates these specific brain regions involved in reward and social cognition.",
+        "correctQuestion": "What are the ventromedial prefrontal cortex and nucleus accumbens?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological mechanism by which gift-wrapping delays gratification and enhances satisfaction follows this theoretical framework.",
+        "correctQuestion": "What is temporal discounting and anticipatory pleasure?",
+        "value": 200
+      },
+      {
+        "clue": "In Chinese gift-giving etiquette, the homophone of 'gift clock' symbolizes this concept rooted in mortality anxiety.",
+        "correctQuestion": "What is death or severance of life?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological principle that gift economies establish what type of social bond distinct from market transactions.",
+        "correctQuestion": "What is personal obligation or relational embeddedness?",
+        "value": 200
+      },
+      {
+        "clue": "In etiquette theory, the presentation of gifts with both hands in Asian cultures symbolizes this philosophical concept.",
+        "correctQuestion": "What is the subordination of self through respectful deference?",
+        "value": 200
+      },
+      {
+        "clue": "Research on thank-you gift-giving identifies this emotion as the strongest predictor of reciprocal gift behavior.",
+        "correctQuestion": "What is fondness or affection, rather than indebtedness?",
+        "value": 200
+      },
+      {
+        "clue": "The theory of mind in developmental psychology explains gift-selection accuracy through this cognitive process.",
+        "correctQuestion": "What is mentalizing or false belief understanding?",
+        "value": 200
+      },
+      {
+        "clue": "In social psychology, gift-giving behavior spreads through networks via this mechanism of behavioral influence.",
+        "correctQuestion": "What is social contagion or observational learning?",
+        "value": 200
+      },
+      {
+        "clue": "The Moka ceremony exemplifies this anthropological concept of status competition through redistribution.",
+        "correctQuestion": "What is agonistic reciprocity or prestige-seeking exchange?",
+        "value": 200
+      },
+      {
+        "clue": "In consumer psychology, the phenomenon where wrapped gifts increase satisfaction operates through this mechanism.",
+        "correctQuestion": "What is the contrast effect and heightened expectation?",
+        "value": 200
+      },
+      {
+        "clue": "Research on gratitude interventions demonstrates effects on this psychological outcome measure.",
+        "correctQuestion": "What is subjective wellbeing or hedonic happiness?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological concept describing gift economies as systems creating what instead of commodifying relationships.",
+        "correctQuestion": "What is social embeddedness or relational selves?",
+        "value": 200
+      },
+      {
+        "clue": "In cross-cultural communication, this theoretical framework explains color symbolism in gift-giving across societies.",
+        "correctQuestion": "What is cultural semiotics or Saussurean sign systems?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological construct measuring gratitude disposition was developed through this psychometric instrument.",
+        "correctQuestion": "What is the Gratitude Questionnaire-Six (GQ-6)?",
+        "value": 200
+      },
+      {
+        "clue": "In social neuroscience, empathy development through gift-giving involves this process of neural organization.",
+        "correctQuestion": "What is synaptic pruning and neural pathway consolidation?",
+        "value": 200
+      },
+      {
+        "clue": "The principle that explains why peer review functions as a gift economy despite competitive academic dynamics.",
+        "correctQuestion": "What is the tension between cooperation and accumulation in knowledge production?",
+        "value": 200
+      },
+      {
+        "clue": "In Japanese gift presentation etiquette, the ceremonial protocols reflect this philosophical underpinning.",
+        "correctQuestion": "What is Zen Buddhism's emphasis on presence and intentionality?",
+        "value": 200
+      },
+      {
+        "clue": "Research demonstrates that meaningful gift-giving enhances this psychological outcome through reciprocal empathy.",
+        "correctQuestion": "What is interpersonal trust and relational security?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological analysis of refusal rituals in Chinese gift-receiving exemplifies this theoretical concept.",
+        "correctQuestion": "What is Confucian virtue signaling or face-work?",
+        "value": 200
+      },
+      {
+        "clue": "In behavioral economics, gift-giving creates utility functions distinct from pure monetary exchange through this mechanism.",
+        "correctQuestion": "What is signaling of interpersonal values or preferences?",
+        "value": 200
+      },
+      {
+        "clue": "The theoretical framework explaining how gratitude increases empathy involves activation of this neural system.",
+        "correctQuestion": "What is the default mode network and mentalizing system?",
+        "value": 200
+      },
+      {
+        "clue": "In economic anthropology, Mauss distinguished gift economies from market economies through this principle.",
+        "correctQuestion": "What is the personalization of exchange versus commodification?",
+        "value": 200
+      },
+      {
+        "clue": "The phenomenon where gift-wrapping enhances satisfaction follows this psychological principle of expectations.",
+        "correctQuestion": "What is peak-end rule and contrast coding?",
+        "value": 200
+      },
+      {
+        "clue": "Research on empathy development shows gratitude practices strengthen this type of psychological capacity.",
+        "correctQuestion": "What is affective mentalizing or emotional perspective-taking?",
+        "value": 200
+      },
+      {
+        "clue": "In comparative anthropology, the distinction between Mauss's gift economy and commodity exchange centers on this.",
+        "correctQuestion": "What is the presence or absence of alienability and market value?",
+        "value": 200
+      }
     ],
-    "empathy_development": [
-      "Mirror Neuron Systems and Empathy",
-      "Theory of Mind in Developmental Psychology",
-      "Affective Mentalizing and Perspective-Taking",
-      "Default Mode Network and Social Cognition",
-      "Empathy Enhancement Through Gratitude Practices"
-    ],
-    "gift_wrapping_etiquette": [
-      "Japanese Gift Wrapping Guide - Japanetic",
-      "History of Gift Wrap - Packaging Dive (1898 onwards)",
-      "Global Gift Wrapping Etiquette - Multiple Sources",
-      "Why We Wrap Gifts - SAPIENS",
-      "Color Symbolism in Gift-Wrapping Across Cultures"
-    ],
-    "cross_cultural_traditions": [
-      "Chinese Gift-Giving Etiquette - Knives, Clocks, Colors",
-      "Japanese Presentation Rituals - Both Hands, Careful Unwrapping",
-      "Indian Gift-Giving Customs - Right Hand, Festive Colors",
-      "Middle Eastern Protocols - Right Hand Tradition",
-      "South American Color Avoidance - Black and Purple",
-      "East Asian Refusal Rituals - Status and Modesty Signaling"
+    "adults": [
+      {
+        "clue": "Mauss's theoretical framework posits that gift obligations instantiate a system of 'total services' operating through this triadic mechanism.",
+        "correctQuestion": "What is the obligation to give, receive, and reciprocate creating perpetual relational debt?",
+        "value": 200
+      },
+      {
+        "clue": "The tension between reciprocity norm theory (indebtedness-based) and interpersonal attraction theory in gift-giving is resolved by this variable.",
+        "correctQuestion": "What is respect or liking as differential mediators of help-seeking behavior?",
+        "value": 200
+      },
+      {
+        "clue": "In anthropological analysis, the Kula ring instantiates what Malinowski termed this form of 'spheres of exchange.'",
+        "correctQuestion": "What is a ritualized system of prestige goods circulation with no utilitarian purpose?",
+        "value": 200
+      },
+      {
+        "clue": "Empirical research on gratitude interventions demonstrates effect sizes moderated by this individual differences variable.",
+        "correctQuestion": "What is baseline wellbeing or dispositional gratitude?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological distinction between Mauss and later gift economy theorists centers on whether gifts create this type of obligation.",
+        "correctQuestion": "What is individual rather than collective indebtedness?",
+        "value": 200
+      },
+      {
+        "clue": "In the Moka ceremony, the competitive redistribution of valuables functions through this mechanism of status differentiation.",
+        "correctQuestion": "What is potlatch-like aggrandizement or big-man politics?",
+        "value": 200
+      },
+      {
+        "clue": "Cross-cultural psychological research explains color avoidance in gift-wrapping through this theoretical framework.",
+        "correctQuestion": "What is cultural schemas and embodied cognition of mortality salience?",
+        "value": 200
+      },
+      {
+        "clue": "The neuroscientific basis for empathy enhancement through gratitude involves potentiation of this neural pathway.",
+        "correctQuestion": "What is the orbitofrontal cortex-amygdala connectivity or affective resonance circuitry?",
+        "value": 200
+      },
+      {
+        "clue": "In behavioral economics, the endowment effect in gift-receiving operates through this cognitive mechanism.",
+        "correctQuestion": "What is loss aversion and reference-point dependency?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological principle distinguishing Māori 'koha' from Western gift-giving centers on this ontological assumption.",
+        "correctQuestion": "What is relational personhood versus individualistic ownership?",
+        "value": 200
+      },
+      {
+        "clue": "In Japanese gift presentation etiquette, the ceremonial protocols instantiate these philosophical commitments.",
+        "correctQuestion": "What is Zen aesthetic principles of ma (negative space) and wabi-sabi (impermanence)?",
+        "value": 200
+      },
+      {
+        "clue": "Research on thank-you gift-giving identifies this as the primary psychological variable mediating reciprocal gift behavior.",
+        "correctQuestion": "What is fondness-based attraction rather than indebtedness obligation?",
+        "value": 200
+      },
+      {
+        "clue": "The theory of mind mechanisms underlying accurate gift selection involve these cognitive sub-components.",
+        "correctQuestion": "What are false belief reasoning, perspective-taking, and desire attribution?",
+        "value": 200
+      },
+      {
+        "clue": "In social psychology, gift-giving behavior propagation through networks follows this mechanistic principle.",
+        "correctQuestion": "What is stimulus-response generalization and observational learning via social modeling?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological debate regarding whether gift economies represent this or systems of social control.",
+        "correctQuestion": "What is pure reciprocity versus disguised redistribution hierarchies?",
+        "value": 200
+      },
+      {
+        "clue": "In consumer psychology, the gift-wrapping effect on satisfaction operates through these dual mechanisms.",
+        "correctQuestion": "What are cognitive contrast effects and temporal discounting of anticipated pleasure?",
+        "value": 200
+      },
+      {
+        "clue": "Gratitude interventions demonstrate domain-specific effects moderated by this variable related to intervention design.",
+        "correctQuestion": "What is the temporal frequency and dosage of gratitude practice?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological analysis of Chinese gift refusal rituals reveals this underlying communicative function.",
+        "correctQuestion": "What is face-saving and Confucian modesty signaling within hierarchical relationships?",
+        "value": 200
+      },
+      {
+        "clue": "In economic anthropology, the concept of gift economies instantiates relationships of this quality absent in commodity markets.",
+        "correctQuestion": "What is embeddedness and particularistic versus universalistic exchange?",
+        "value": 200
+      },
+      {
+        "clue": "Neuroimaging studies reveal that empathetic gift-giving activates these specific nodes of the social brain network.",
+        "correctQuestion": "What are the temporo-parietal junction, posterior cingulate, and medial prefrontal cortex?",
+        "value": 200
+      },
+      {
+        "clue": "The phenomenon where gift-wrapping delays gratification and heightens satisfaction follows this principle of hedonic psychology.",
+        "correctQuestion": "What is the peak-end rule and duration neglect in subjective experience?",
+        "value": 200
+      },
+      {
+        "clue": "In comparative anthropology, gift economies differ from commodity systems through this fundamental principle of valuation.",
+        "correctQuestion": "What is qualitative commensurability versus quantitative price mechanisms?",
+        "value": 200
+      },
+      {
+        "clue": "Research demonstrates that gratitude practices enhance empathy through this mechanism of cognitive restructuring.",
+        "correctQuestion": "What is positive reappraisal and beneficence attribution bias?",
+        "value": 200
+      },
+      {
+        "clue": "The peer review system functions as a gift economy despite competitive dynamics through this theoretical mechanism.",
+        "correctQuestion": "What is the normative obligation to contribute to collective knowledge goods despite individual incentives to free-ride?",
+        "value": 200
+      },
+      {
+        "clue": "In behavioral economics, gift-giving utility derives from this principle distinct from consumption utility.",
+        "correctQuestion": "What is the signaling of personal values and relational preferences?",
+        "value": 200
+      },
+      {
+        "clue": "Cross-cultural gift-giving etiquette reflects these competing values in face-to-face interaction.",
+        "correctQuestion": "What are positive face (approval) and negative face (autonomy) as defined by Brown and Levinson?",
+        "value": 200
+      },
+      {
+        "clue": "The neurobiological pathway by which gratitude augments empathy involves potentiation of these neurotransmitter systems.",
+        "correctQuestion": "What are oxytocin (bonding), serotonin (mood), and dopamine (reward) signaling?",
+        "value": 200
+      },
+      {
+        "clue": "In gift-wrapping psychology, the aesthetic presentation principle underlying Japanese practices derives from this philosophical tradition.",
+        "correctQuestion": "What is Zen Buddhism's emphasis on emptiness and non-attachment through aesthetic minimalism?",
+        "value": 200
+      },
+      {
+        "clue": "The anthropological distinction between Mauss's gift theory and Lévi-Strauss's structuralist reading centers on this analytical level.",
+        "correctQuestion": "What is surface reciprocity mechanisms versus underlying social structural principles?",
+        "value": 200
+      },
+      {
+        "clue": "In social psychology, the contagion of gift-giving behavior through networks operates via this mechanism of behavioral influence.",
+        "correctQuestion": "What is status-seeking through conformity to prosocial norms?",
+        "value": 200
+      },
+      {
+        "clue": "The theoretical framework explaining empathy development through gift-giving involves these cognitive-affective processes.",
+        "correctQuestion": "What is affective resonance, cognitive perspective-taking, and emotion regulation?",
+        "value": 200
+      },
+      {
+        "clue": "In economic anthropology, the personalization of exchange in gift economies instantiates this quality of social relationships.",
+        "correctQuestion": "What is particularistic bonding versus universalistic market relations?",
+        "value": 200
+      },
+      {
+        "clue": "Research on thank-you gifts identifies this emotional mediator as superior to indebtedness in predicting reciprocal helping.",
+        "correctQuestion": "What is fondness-based interpersonal attraction and respect?",
+        "value": 200
+      },
+      {
+        "clue": "The phenomenon of color symbolism in gift-wrapping reflects this principle of embodied cultural cognition.",
+        "correctQuestion": "What is the coupling of symbolic meaning with autonomic nervous system reactivity?",
+        "value": 200
+      },
+      {
+        "clue": "In the Potlatch and Moka ceremonies, competitive gift-giving serves this anthropological function in acephalous societies.",
+        "correctQuestion": "What is the establishment of prestige-based hierarchies absent formal political institutions?",
+        "value": 200
+      },
+      {
+        "clue": "Gratitude interventions demonstrate effects on empathy through this mechanism of cognitive schema activation.",
+        "correctQuestion": "What is priming of positive social attitudes and benevolence attributions?",
+        "value": 200
+      }
     ]
-  },
-  "question_distribution": {
-    "K-6": {
-      "Gift-Giving": 8,
-      "Gift Wrapping": 6,
-      "Etiquette": 6,
-      "Traditions": 5,
-      "Empathy & Psychology": 7,
-      "Gratitude": 4
-    },
-    "7-9": {
-      "Gift Economy": 4,
-      "Social Psychology": 6,
-      "Traditions": 6,
-      "Gratitude": 4,
-      "Empathy & Psychology": 8,
-      "Gift Wrapping": 3,
-      "Etiquette": 5
-    },
-    "10-12": {
-      "Gift Economy": 6,
-      "Social Psychology": 7,
-      "Traditions": 8,
-      "Gratitude": 5,
-      "Empathy & Psychology": 6,
-      "Gift Wrapping": 2,
-      "Etiquette": 2,
-      "Gift-Giving": 2
-    },
-    "13-17": {
-      "Gift Economy": 8,
-      "Social Psychology": 6,
-      "Traditions": 6,
-      "Gratitude": 5,
-      "Empathy & Psychology": 6,
-      "Gift-Giving": 3,
-      "Etiquette": 2
-    },
-    "18+": {
-      "Gift Economy": 8,
-      "Social Psychology": 4,
-      "Traditions": 5,
-      "Gratitude": 5,
-      "Empathy & Psychology": 7,
-      "Gift-Giving": 4,
-      "Etiquette": 3
-    }
-  },
-  "metadata": {
-    "creation_date": "2025-12-26",
-    "category_focus": "Birthday Gift-Giving",
-    "subtopics": [
-      "Gift Traditions & Cultural Practices",
-      "Gift Wrapping & Presentation",
-      "Giving & Receiving Etiquette",
-      "Social Psychology & Reciprocity",
-      "Gift Economy & Anthropology",
-      "Gratitude Research & Psychology",
-      "Empathy Development & Social Bonding"
-    ],
-    "research_areas": [
-      "Social Psychology (Reciprocity Norm Theory, Interpersonal Attraction)",
-      "Anthropology (Gift Economies, Cultural Traditions)",
-      "Neuroscience (Gratitude & Empathy Brain Activation)",
-      "Cross-Cultural Studies (Etiquette & Color Symbolism)",
-      "Behavioral Economics (Gift Utility & Status Signaling)",
-      "Developmental Psychology (Theory of Mind, Empathy Development)"
-    ],
-    "all_audiences_covered": true,
-    "difficulty_progression": "Elementary through Expert",
-    "format": "Jeopardy-style Questions"
   }
 }

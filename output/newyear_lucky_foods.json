@@ -1,333 +1,166 @@
 {
   "category": "New Year Lucky Foods",
-  "regular": [
-    {
-      "clue": "Black-eyed peas symbolize this during New Year",
-      "correctAnswer": "What is coins?",
-      "value": 200
-    },
-    {
-      "clue": "Eating cabbage on New Year brings this kind of fortune",
-      "correctAnswer": "What is money?",
-      "value": 200
-    },
-    {
-      "clue": "Grapes eaten at midnight represent these on New Year's Eve",
-      "correctAnswer": "What are months?",
-      "value": 200
-    },
-    {
-      "clue": "This round dessert symbolizes good fortune because of its shape",
-      "correctAnswer": "What are donuts?",
-      "value": 200
-    },
-    {
-      "clue": "Lentils are believed to look like these lucky coins",
-      "correctAnswer": "What are coins?",
-      "value": 200
-    },
-    {
-      "clue": "Southern tradition eating this legume for prosperity",
-      "correctAnswer": "What are black-eyed peas?",
-      "value": 200
-    },
-    {
-      "clue": "Eating this leafy green on January 1st brings wealth",
-      "correctAnswer": "What is cabbage?",
-      "value": 200
-    },
-    {
-      "clue": "Japanese tradition eating these noodles for long life",
-      "correctAnswer": "What is soba?",
-      "value": 200
-    },
-    {
-      "clue": "Eating this grain on New Year symbolizes prosperity",
-      "correctAnswer": "What is rice?",
-      "value": 400
-    },
-    {
-      "clue": "Spanish tradition of eating 12 of these for luck",
-      "correctAnswer": "What are grapes?",
-      "value": 400
-    },
-    {
-      "clue": "This leafy green's color makes it lucky for money",
-      "correctAnswer": "What is kale?",
-      "value": 200
-    },
-    {
-      "clue": "Cornbread brings this emotion on New Year's Day",
-      "correctAnswer": "What is happiness?",
-      "value": 200
-    },
-    {
-      "clue": "This year-old tradition uses black-eyed peas symbolically",
-      "correctAnswer": "What is Southern?",
-      "value": 200
-    },
-    {
-      "clue": "Round shape symbolizes this coin-like continuity",
-      "correctAnswer": "What is wealth?",
-      "value": 200
-    },
-    {
-      "clue": "Eating leafy greens symbolizes this kind of growth",
-      "correctAnswer": "What is financial?",
-      "value": 200
-    },
-    {
-      "clue": "This fish brings luck because scales look like coins",
-      "correctAnswer": "What are herring or salmon?",
-      "value": 400
-    },
-    {
-      "clue": "Hungarian New Year tradition includes this game meat",
-      "correctAnswer": "What is pork?",
-      "value": 400
-    },
-    {
-      "clue": "Eating this dairy product brings good luck in some traditions",
-      "correctAnswer": "What is yogurt?",
-      "value": 200
-    },
-    {
-      "clue": "This spice is added to lucky New Year cakes",
-      "correctAnswer": "What is cinnamon?",
-      "value": 200
-    },
-    {
-      "clue": "Apple slices dipped in this represent health wishes",
-      "correctAnswer": "What is honey?",
-      "value": 200
-    },
-    {
-      "clue": "This root vegetable is served whole for good luck",
-      "correctAnswer": "What is an onion?",
-      "value": 400
-    },
-    {
-      "clue": "Circular shape of this food brings luck in Asian cultures",
-      "correctAnswer": "What are dumplings?",
-      "value": 400
-    },
-    {
-      "clue": "This bean is eaten for prosperity in many cultures",
-      "correctAnswer": "What are lentils?",
-      "value": 200
-    },
-    {
-      "clue": "Eating this bread symbolizes health for the new year",
-      "correctAnswer": "What is whole grain?",
-      "value": 200
-    },
-    {
-      "clue": "This sweet cake shape symbolizes coin-shaped fortune",
-      "correctAnswer": "What is a pancake?",
-      "value": 200
-    },
-    {
-      "clue": "Greens and this meat create a traditional New Year combo",
-      "correctAnswer": "What is ham?",
-      "value": 400
-    },
-    {
-      "clue": "This fermented food brings good luck in Korean tradition",
-      "correctAnswer": "What is kimchi?",
-      "value": 400
-    },
-    {
-      "clue": "Seeds from this fruit symbolize fertility and abundance",
-      "correctAnswer": "What is a pomegranate?",
-      "value": 400
-    },
-    {
-      "clue": "This type of cookie shape is served for New Year luck",
-      "correctAnswer": "What is a coin-shaped cookie?",
-      "value": 200
-    },
-    {
-      "clue": "Long strands of this pasta bring longevity wishes",
-      "correctAnswer": "What is spaghetti?",
-      "value": 200
-    }
-  ],
-  "cah_style": [
-    {
-      "clue": "Why black-eyed peas actually look like your life choices",
-      "correctQuestion": "What is small and disappointing?",
-      "value": 200
-    },
-    {
-      "clue": "What cabbage really brings you by January 15th",
-      "correctQuestion": "What is heartburn?",
-      "value": 200
-    },
-    {
-      "clue": "Your New Year's resolution after eating grapes at midnight",
-      "correctQuestion": "What is intense gagging?",
-      "value": 200
-    },
-    {
-      "clue": "The real luck from eating donuts on New Year's Eve",
-      "correctQuestion": "What is type 2 diabetes?",
-      "value": 200
-    },
-    {
-      "clue": "Why lentils actually resemble 2025 finances",
-      "correctQuestion": "What is tiny and insufficient?",
-      "value": 200
-    },
-    {
-      "clue": "What the South actually calls eating black-eyed peas",
-      "correctQuestion": "What is poverty cosplay?",
-      "value": 400
-    },
-    {
-      "clue": "Cabbage on your plate means you're this type of person",
-      "correctQuestion": "What is definitely making bad choices?",
-      "value": 400
-    },
-    {
-      "clue": "Why grapes at midnight is basically this",
-      "correctQuestion": "What is a choking hazard with superstitions?",
-      "value": 400
-    },
-    {
-      "clue": "Your New Year's Eve meal after buying into lucky food nonsense",
-      "correctQuestion": "What is depressing comfort food?",
-      "value": 200
-    },
-    {
-      "clue": "What eating rice on January 1st says about you",
-      "correctQuestion": "What is you're really boring?",
-      "value": 200
-    },
-    {
-      "clue": "The app that proves lucky foods don't work",
-      "correctQuestion": "What is your bank account app?",
-      "value": 400
-    },
-    {
-      "clue": "Why your parents force-fed you black-eyed peas",
-      "correctQuestion": "What is generational trauma?",
-      "value": 400
-    },
-    {
-      "clue": "The inflation hitting lucky foods prices right now",
-      "correctQuestion": "What is 300 percent?",
-      "value": 400
-    },
-    {
-      "clue": "What cabbage actually brings in 2025",
-      "correctQuestion": "What is gas?",
-      "value": 600
-    },
-    {
-      "clue": "Your honest reaction after eating 12 grapes in 12 seconds",
-      "correctQuestion": "What is vomiting?",
-      "value": 400
-    },
-    {
-      "clue": "Why lentils are basically what? Of your future",
-      "correctQuestion": "What is a metaphor?",
-      "value": 200
-    },
-    {
-      "clue": "The zodiac sign of people eating lucky New Year foods",
-      "correctQuestion": "What is Gullible?",
-      "value": 600
-    },
-    {
-      "clue": "What your stomach says about the 12 grapes challenge",
-      "correctQuestion": "What is absolutely not?",
-      "value": 400
-    },
-    {
-      "clue": "TikTok's version of traditional lucky New Year foods",
-      "correctQuestion": "What is making them look organic and artisanal?",
-      "value": 400
-    },
-    {
-      "clue": "What actually brings luck instead of black-eyed peas",
-      "correctQuestion": "What is getting a job?",
-      "value": 600
-    },
-    {
-      "clue": "Your family WhatsApp at midnight on New Year's Eve",
-      "correctQuestion": "What is arguing about lucky foods traditions?",
-      "value": 600
-    },
-    {
-      "clue": "Why cabbage is your parent's flex about tradition",
-      "correctQuestion": "What is being broke and proud?",
-      "value": 600
-    },
-    {
-      "clue": "The real reason people eat lucky foods",
-      "correctQuestion": "What is they ran out of real ideas?",
-      "value": 600
-    },
-    {
-      "clue": "What 12 grapes for 12 months actually represents",
-      "correctQuestion": "What is 12 months of choking?",
-      "value": 400
-    },
-    {
-      "clue": "Your Instagram post about lucky foods at 11:55pm",
-      "correctQuestion": "What is already deleted?",
-      "value": 600
-    },
-    {
-      "clue": "Why this food tradition belongs in a museum",
-      "correctQuestion": "What is it's completely outdated?",
-      "value": 800
-    },
-    {
-      "clue": "What black-eyed peas taste like if you're honest",
-      "correctQuestion": "What is sadness and mushy regret?",
-      "value": 600
-    },
-    {
-      "clue": "The demographic actually caring about lucky foods",
-      "correctQuestion": "What is your divorced uncle?",
-      "value": 800
-    },
-    {
-      "clue": "Why eating lucky foods is basically this kind of insurance",
-      "correctQuestion": "What is religious insurance fraud?",
-      "value": 800
-    },
-    {
-      "clue": "Your text to the group chat about lucky foods",
-      "correctQuestion": "What is wtf is this?",
-      "value": 800
-    }
-  ],
-  "notes": {
-    "regular_count": 30,
-    "cah_style_count": 30,
-    "style_guide_applied": "CAH_STYLE_GUIDE_2025.md",
-    "key_characteristics": [
-      "Short, punchy clues (avg 5-7 words)",
-      "Mainstream cultural references (social media, inflation, job market)",
-      "Modern Gen Z/millennial humor perspective",
-      "Dark humor about financial struggle and family traditions",
-      "References to actual social media behavior (Instagram, TikTok, WhatsApp)",
-      "Honest critiques paired with traditional food superstitions",
-      "Accessible to broad audience (not obscure references)"
+  "theme": "newyear",
+  "category_id": "newyear_lucky_foods",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Why black-eyed peas actually look like your life choices",
+        "correctQuestion": "What is small and disappointing?",
+        "value": 200
+      },
+      {
+        "clue": "What cabbage really brings you by January 15th",
+        "correctQuestion": "What is heartburn?",
+        "value": 200
+      },
+      {
+        "clue": "Your New Year's resolution after eating grapes at midnight",
+        "correctQuestion": "What is intense gagging?",
+        "value": 200
+      },
+      {
+        "clue": "The real luck from eating donuts on New Year's Eve",
+        "correctQuestion": "What is type 2 diabetes?",
+        "value": 200
+      },
+      {
+        "clue": "Why lentils actually resemble 2025 finances",
+        "correctQuestion": "What is tiny and insufficient?",
+        "value": 200
+      },
+      {
+        "clue": "Your New Year's Eve meal after buying into lucky food nonsense",
+        "correctQuestion": "What is depressing comfort food?",
+        "value": 200
+      },
+      {
+        "clue": "What eating rice on January 1st says about you",
+        "correctQuestion": "What is you're really boring?",
+        "value": 200
+      },
+      {
+        "clue": "Why lentils are basically what? Of your future",
+        "correctQuestion": "What is a metaphor?",
+        "value": 200
+      }
     ],
-    "lucky_foods_covered": [
-      "Black-eyed peas",
-      "Cabbage",
-      "Grapes",
-      "Lentils",
-      "Rice",
-      "Donuts (round shape)",
-      "Soba noodles",
-      "Fish/herring",
-      "Pork",
-      "Dumplings"
-    ]
+    "kids_10_under": [
+      {
+        "clue": "What the South actually calls eating black-eyed peas",
+        "correctQuestion": "What is poverty cosplay?",
+        "value": 400
+      },
+      {
+        "clue": "Cabbage on your plate means you're this type of person",
+        "correctQuestion": "What is definitely making bad choices?",
+        "value": 400
+      },
+      {
+        "clue": "Why grapes at midnight is basically this",
+        "correctQuestion": "What is a choking hazard with superstitions?",
+        "value": 400
+      },
+      {
+        "clue": "The app that proves lucky foods don't work",
+        "correctQuestion": "What is your bank account app?",
+        "value": 400
+      },
+      {
+        "clue": "Why your parents force-fed you black-eyed peas",
+        "correctQuestion": "What is generational trauma?",
+        "value": 400
+      },
+      {
+        "clue": "The inflation hitting lucky foods prices right now",
+        "correctQuestion": "What is 300 percent?",
+        "value": 400
+      },
+      {
+        "clue": "Your honest reaction after eating 12 grapes in 12 seconds",
+        "correctQuestion": "What is vomiting?",
+        "value": 400
+      },
+      {
+        "clue": "What your stomach says about the 12 grapes challenge",
+        "correctQuestion": "What is absolutely not?",
+        "value": 400
+      },
+      {
+        "clue": "TikTok's version of traditional lucky New Year foods",
+        "correctQuestion": "What is making them look organic and artisanal?",
+        "value": 400
+      },
+      {
+        "clue": "What 12 grapes for 12 months actually represents",
+        "correctQuestion": "What is 12 months of choking?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "What cabbage actually brings in 2025",
+        "correctQuestion": "What is gas?",
+        "value": 600
+      },
+      {
+        "clue": "The zodiac sign of people eating lucky New Year foods",
+        "correctQuestion": "What is Gullible?",
+        "value": 600
+      },
+      {
+        "clue": "What actually brings luck instead of black-eyed peas",
+        "correctQuestion": "What is getting a job?",
+        "value": 600
+      },
+      {
+        "clue": "Your family WhatsApp at midnight on New Year's Eve",
+        "correctQuestion": "What is arguing about lucky foods traditions?",
+        "value": 600
+      },
+      {
+        "clue": "Why cabbage is your parent's flex about tradition",
+        "correctQuestion": "What is being broke and proud?",
+        "value": 600
+      },
+      {
+        "clue": "The real reason people eat lucky foods",
+        "correctQuestion": "What is they ran out of real ideas?",
+        "value": 600
+      },
+      {
+        "clue": "Your Instagram post about lucky foods at 11:55pm",
+        "correctQuestion": "What is already deleted?",
+        "value": 600
+      },
+      {
+        "clue": "What black-eyed peas taste like if you're honest",
+        "correctQuestion": "What is sadness and mushy regret?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Why this food tradition belongs in a museum",
+        "correctQuestion": "What is it's completely outdated?",
+        "value": 800
+      },
+      {
+        "clue": "The demographic actually caring about lucky foods",
+        "correctQuestion": "What is your divorced uncle?",
+        "value": 800
+      },
+      {
+        "clue": "Why eating lucky foods is basically this kind of insurance",
+        "correctQuestion": "What is religious insurance fraud?",
+        "value": 800
+      },
+      {
+        "clue": "Your text to the group chat about lucky foods",
+        "correctQuestion": "What is wtf is this?",
+        "value": 800
+      }
+    ],
+    "no_humanity": []
   }
 }

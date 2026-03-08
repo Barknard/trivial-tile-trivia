@@ -1,0 +1,892 @@
+{
+  "category": "St. Patrick's Day",
+  "theme": "spring",
+  "category_id": "spring_st_patricks",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This is the color of shamrocks and spring grass",
+        "correctQuestion": "What is green?",
+        "value": 200
+      },
+      {
+        "clue": "This fluffy yellow baby bird hatches from an egg in spring",
+        "correctQuestion": "What is a chick?",
+        "value": 200
+      },
+      {
+        "clue": "This colorful arc appears in the sky after spring rain",
+        "correctQuestion": "What is a rainbow?",
+        "value": 200
+      },
+      {
+        "clue": "This tiny plant part you put in dirt grows into a flower",
+        "correctQuestion": "What is a seed?",
+        "value": 200
+      },
+      {
+        "clue": "This is the season when flowers bloom and birds sing again",
+        "correctQuestion": "What is spring?",
+        "value": 200
+      },
+      {
+        "clue": "This holiday is celebrated every year on March 17th in honor of the patron saint of Ireland.",
+        "correctQuestion": "What is St. Patrick's Day?",
+        "value": 200
+      },
+      {
+        "clue": "This three-leaf plant is the most famous symbol of Ireland and is worn on St. Patrick's Day.",
+        "correctQuestion": "What is a shamrock?",
+        "value": 200
+      },
+      {
+        "clue": "In spring, many trees and flowers burst open with colorful blooms after sleeping all winter long.",
+        "correctQuestion": "What is blossoming or blooming?",
+        "value": 200
+      },
+      {
+        "clue": "The most popular color to wear on St. Patrick's Day, it is also the color of grass and shamrocks.",
+        "correctQuestion": "What is green?",
+        "value": 200
+      },
+      {
+        "clue": "This season comes after winter and before summer, when flowers start to grow and birds return.",
+        "correctQuestion": "What is spring?",
+        "value": 200
+      },
+      {
+        "clue": "This astronomical event, occurring around March 20th each year, marks the moment when the Sun crosses Earth's equator and day and night are nearly equal in length",
+        "correctQuestion": "What is the vernal equinox?",
+        "value": 200
+      },
+      {
+        "clue": "Celebrated on March 17th, this holiday honors the patron saint of Ireland and is now observed with parades and green decorations in countries around the world",
+        "correctQuestion": "What is St. Patrick's Day?",
+        "value": 200
+      },
+      {
+        "clue": "Saint Patrick used this small three-leafed plant to explain the Christian concept of the Holy Trinity to the Irish people",
+        "correctQuestion": "What is the shamrock?",
+        "value": 200
+      },
+      {
+        "clue": "When Irish raiders kidnapped the young man who would become Saint Patrick, they brought him to this island nation where he spent six years enslaved as a herdsman",
+        "correctQuestion": "What is Ireland?",
+        "value": 200
+      },
+      {
+        "clue": "In spring, trees and grasses release this microscopic powder into the air, triggering sneezing and itchy eyes in millions of allergy sufferers",
+        "correctQuestion": "What is pollen?",
+        "value": 200
+      },
+      {
+        "clue": "This Persian New Year celebration, marking the vernal equinox, has been observed for over 3,000 years and was inscribed on UNESCO's Intangible Cultural Heritage list in 2009.",
+        "correctQuestion": "What is Nowruz?",
+        "value": 200
+      },
+      {
+        "clue": "Though legend credits St. Patrick with driving them out, Ireland never had any of these reptiles to begin with — the last Ice Age left the island isolated before they could migrate there.",
+        "correctQuestion": "What are snakes?",
+        "value": 200
+      },
+      {
+        "clue": "Botticelli painted this allegory of spring, now at Florence's Uffizi Gallery, featuring nine mythological figures in a flowery grove including Venus, the Three Graces, Flora, and Mercury.",
+        "correctQuestion": "What is Primavera (La Primavera)?",
+        "value": 200
+      },
+      {
+        "clue": "In 1962, city workers first dumped this substance into the Chicago River, turning it emerald green for an entire week in a St. Patrick's Day tradition that continues today.",
+        "correctQuestion": "What is dye (green dye)?",
+        "value": 200
+      },
+      {
+        "clue": "This Hindu spring festival, whose name derives from the demon Holika who was burned while trying to kill the devout Prahlada, is celebrated by throwing brightly colored powders.",
+        "correctQuestion": "What is Holi?",
+        "value": 200
+      },
+      {
+        "clue": "The shake McDonald's sells every March to people who are 'basically Irish'",
+        "correctQuestion": "What is the Shamrock Shake?",
+        "value": 200
+      },
+      {
+        "clue": "The beer brand whose global sales spike by 13 million pints every March 17th",
+        "correctQuestion": "What is Guinness?",
+        "value": 200
+      },
+      {
+        "clue": "The app whose surge pricing becomes a second mortgage the moment Irish bars close",
+        "correctQuestion": "What is Uber?",
+        "value": 200
+      },
+      {
+        "clue": "The color printed on every cheap plastic hat, bead necklace, and cup sleeve on March 17th",
+        "correctQuestion": "What is green?",
+        "value": 200
+      },
+      {
+        "clue": "The holiday that transforms every American with a great-great-great-grandparent from Cork into 'full Irish'",
+        "correctQuestion": "What is St. Patrick's Day?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This little leaf has three parts and is worn on St. Patrick's Day",
+        "correctQuestion": "What is a shamrock?",
+        "value": 400
+      },
+      {
+        "clue": "This wet stuff falls from clouds and helps flowers grow in spring",
+        "correctQuestion": "What is rain?",
+        "value": 400
+      },
+      {
+        "clue": "This tiny creature has colorful wings and flies from flower to flower",
+        "correctQuestion": "What is a butterfly?",
+        "value": 400
+      },
+      {
+        "clue": "A leprechaun hides his gold coins at the end of this",
+        "correctQuestion": "What is a rainbow?",
+        "value": 400
+      },
+      {
+        "clue": "This baby sheep is born in spring and says baa",
+        "correctQuestion": "What is a lamb?",
+        "value": 400
+      },
+      {
+        "clue": "Irish folklore says these tiny magical men wear green suits, have red hair, and hide a pot of gold at the end of a rainbow.",
+        "correctQuestion": "What are leprechauns?",
+        "value": 400
+      },
+      {
+        "clue": "Every spring, clocks in most of the United States are moved forward one hour so evenings stay lighter longer.",
+        "correctQuestion": "What is daylight saving time?",
+        "value": 400
+      },
+      {
+        "clue": "Ireland is nicknamed this because its hills and fields are covered with lush, green grass all year long.",
+        "correctQuestion": "What is the Emerald Isle?",
+        "value": 400
+      },
+      {
+        "clue": "This yellow spring flower, shaped like a trumpet, is one of the first to bloom after winter ends.",
+        "correctQuestion": "What is a daffodil?",
+        "value": 400
+      },
+      {
+        "clue": "Many birds travel from warm southern places back to their northern homes every spring in search of food and a place to nest.",
+        "correctQuestion": "What is migration?",
+        "value": 400
+      },
+      {
+        "clue": "The potato famine that devastated Ireland from 1845 to 1852 was caused by a water mold called Phytophthora infestans, which scientists classify as this type of organism — not a fungus, but more closely related to brown algae",
+        "correctQuestion": "What is an oomycete?",
+        "value": 400
+      },
+      {
+        "clue": "Chicago dyes this body of water green every year for St. Patrick's Day, a tradition that began in 1962 when plumbers noticed green dye staining their overalls",
+        "correctQuestion": "What is the Chicago River?",
+        "value": 400
+      },
+      {
+        "clue": "Saint Patrick wrote two surviving documents in Latin: his spiritual autobiography called the Confessio, and this letter condemning a British warlord who raided Irish Christian communities and enslaved their members",
+        "correctQuestion": "What is the Letter to Coroticus?",
+        "value": 400
+      },
+      {
+        "clue": "The Charitable Irish Society of Boston held the first documented St. Patrick's Day celebration in the American colonies in this year, over two decades before the first New York parade",
+        "correctQuestion": "What is 1737?",
+        "value": 400
+      },
+      {
+        "clue": "This ancient Celtic festival celebrated on February 1st marks the midpoint between the winter solstice and spring equinox and is associated with the goddess Brigid, whose name it shares with its Christian successor",
+        "correctQuestion": "What is Imbolc?",
+        "value": 400
+      },
+      {
+        "clue": "The patron saint of Ireland's real name is believed to have been Maewyn Succat, and he was not Irish but rather from this cultural background — a Roman-ruled Briton of the 5th century.",
+        "correctQuestion": "What is Romano-British?",
+        "value": 400
+      },
+      {
+        "clue": "At its raucous 1913 Paris premiere, this Stravinsky ballet — scored to depict ancient Slavic pagan spring rites — provoked what has been described as one of the most famous uproars in concert history.",
+        "correctQuestion": "What is The Rite of Spring (Le Sacre du Printemps)?",
+        "value": 400
+      },
+      {
+        "clue": "The 1998 peace accord that ended most of the violence of the Troubles in Northern Ireland shares its name with a Christian holiday, was signed on April 10, and was ratified by 94% of voters in the Irish Republic.",
+        "correctQuestion": "What is the Good Friday Agreement (Belfast Agreement)?",
+        "value": 400
+      },
+      {
+        "clue": "This study of the seasonal timing of biological events — such as first leaf emergence, bird migration, and flowering — was pioneered in part by Robert Marsham, an English naturalist who began recording spring events in 1736.",
+        "correctQuestion": "What is phenology?",
+        "value": 400
+      },
+      {
+        "clue": "The spring equinox astronomically marks the moment the sun crosses the celestial equator moving northward, a point called the First Point of Aries — though due to this slow wobble of Earth's axis, it no longer falls in that constellation.",
+        "correctQuestion": "What is the precession of the equinoxes?",
+        "value": 400
+      },
+      {
+        "clue": "The Irish whiskey responsible for every American office worker's mysterious Thursday sickness on March 18th",
+        "correctQuestion": "What is Jameson?",
+        "value": 400
+      },
+      {
+        "clue": "The app where spring break hookups in Cancun begin before the flight even boards",
+        "correctQuestion": "What is Tinder?",
+        "value": 400
+      },
+      {
+        "clue": "The hour the U.S. government legally pickpockets from you every March with zero apology",
+        "correctQuestion": "What is daylight saving time?",
+        "value": 400
+      },
+      {
+        "clue": "The March 18th condition defined by pounding head, regret, and a desperate need for Gatorade",
+        "correctQuestion": "What is a hangover?",
+        "value": 400
+      },
+      {
+        "clue": "The government agency whose April deadline makes spring feel like a hostage negotiation",
+        "correctQuestion": "What is the IRS?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This magical little man wears a green hat and hides a pot of gold",
+        "correctQuestion": "What is a leprechaun?",
+        "value": 600
+      },
+      {
+        "clue": "Flowers drink this from the ground through their roots",
+        "correctQuestion": "What is water?",
+        "value": 600
+      },
+      {
+        "clue": "This bright yellow flower is one of the first to bloom in spring",
+        "correctQuestion": "What is a daffodil?",
+        "value": 600
+      },
+      {
+        "clue": "On St. Patrick's Day, people wear this color to celebrate",
+        "correctQuestion": "What is green?",
+        "value": 600
+      },
+      {
+        "clue": "This is what a butterfly sleeps inside before it grows its wings",
+        "correctQuestion": "What is a cocoon?",
+        "value": 600
+      },
+      {
+        "clue": "In spring, the days get longer because the Earth tilts more toward the sun, giving us extra hours of daylight to play outside.",
+        "correctQuestion": "What is the Earth's tilt?",
+        "value": 600
+      },
+      {
+        "clue": "According to Irish folklore, if you catch a leprechaun, he must tell you where he hides this shiny treasure.",
+        "correctQuestion": "What is a pot of gold?",
+        "value": 600
+      },
+      {
+        "clue": "Spring officially begins on or around March 20th or 21st each year, when daytime and nighttime are almost exactly the same length.",
+        "correctQuestion": "What is the vernal equinox?",
+        "value": 600
+      },
+      {
+        "clue": "Every year on St. Patrick's Day, crews in this famous Illinois city pour about 40 pounds of orange powder into their river to turn it bright green.",
+        "correctQuestion": "What is Chicago?",
+        "value": 600
+      },
+      {
+        "clue": "In spring, the tiny yellow or white powder released by trees and flowers can make people sneeze and their eyes water.",
+        "correctQuestion": "What is pollen?",
+        "value": 600
+      },
+      {
+        "clue": "When the body detects pollen in the airways, it releases this chemical — the same one that antihistamine medications are designed to block — which causes the inflammation, sneezing, and watery eyes of hay fever",
+        "correctQuestion": "What is histamine?",
+        "value": 600
+      },
+      {
+        "clue": "Saint Patrick was captured from his family's estate at age sixteen by Irish raiders; he describes this event in detail in his Confessio, which is one of only two written documents from his own hand that survive to this day",
+        "correctQuestion": "What is the Confessio?",
+        "value": 600
+      },
+      {
+        "clue": "The word 'shamrock' derives from the Irish word 'seamróg,' the diminutive form of this Irish word meaning 'clover'",
+        "correctQuestion": "What is seamair?",
+        "value": 600
+      },
+      {
+        "clue": "The Arctic tern completes the longest known annual migration on Earth, traveling more than 80,000 kilometers round-trip between its Arctic breeding grounds and this continent where it spends the Southern Hemisphere summer",
+        "correctQuestion": "What is Antarctica?",
+        "value": 600
+      },
+      {
+        "clue": "Nowruz, the Persian New Year celebrated on the spring equinox, centers on a ceremonial table called the Haft-Sin, which features seven items all beginning with the same letter of the Persian alphabet — the letter that sounds like this in English",
+        "correctQuestion": "What is S?",
+        "value": 600
+      },
+      {
+        "clue": "Only two writings are universally accepted as authentic works of St. Patrick: the Epistola, a letter condemning the slave-raiding British chieftain Coroticus, and this autobiographical confession written in Latin.",
+        "correctQuestion": "What is the Confessio?",
+        "value": 600
+      },
+      {
+        "clue": "The 1893 founding of this organization — the Gaelic League, or Conradh na Gaeilge — with Douglas Hyde as its first president, sought to reverse the anglicisation of Ireland through everyday use of what language.",
+        "correctQuestion": "What is the Irish language (Gaelic / Irish Gaelic)?",
+        "value": 600
+      },
+      {
+        "clue": "In Irish mythology, the goddess Brigid was a member of the Tuatha De Danann and daughter of the Dagda; this Celtic seasonal festival held on February 1st celebrates her and marks the midpoint between winter solstice and spring equinox.",
+        "correctQuestion": "What is Imbolc?",
+        "value": 600
+      },
+      {
+        "clue": "Seamus Heaney, awarded the 1995 Nobel Prize in Literature 'for works of lyrical beauty and ethical depth,' opened his debut 1966 collection with this poem comparing his pen to his father's spade.",
+        "correctQuestion": "What is 'Digging'?",
+        "value": 600
+      },
+      {
+        "clue": "The Haft-sin table central to Nowruz celebrations features seven items beginning with the Persian letter 'sin,' including sabze, the sprouted wheat or lentil symbolizing rebirth, and samanu, a sweet pudding made from this grain.",
+        "correctQuestion": "What is germinated wheat?",
+        "value": 600
+      },
+      {
+        "clue": "The spring break destination where Venmo transactions are legally inadmissible but morally devastating",
+        "correctQuestion": "What is Cancun?",
+        "value": 600
+      },
+      {
+        "clue": "The exact ingredient separating a 'traditional Irish beer' from a Bud Light at any American bar on March 17th",
+        "correctQuestion": "What is green food dye?",
+        "value": 600
+      },
+      {
+        "clue": "The payment app whose spring break transaction history has ended more relationships than infidelity",
+        "correctQuestion": "What is Venmo?",
+        "value": 600
+      },
+      {
+        "clue": "The March tournament that destroys more office productivity than hangovers, spring break, and daylight saving combined",
+        "correctQuestion": "What is March Madness?",
+        "value": 600
+      },
+      {
+        "clue": "The chocolate rabbit that children destroy on Easter morning and adults wish was a mimosa instead",
+        "correctQuestion": "What is a chocolate bunny?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This is the shiny treasure a leprechaun keeps at the rainbow's end",
+        "correctQuestion": "What is a pot of gold?",
+        "value": 800
+      },
+      {
+        "clue": "Bees visit flowers in spring to collect this sweet sticky food",
+        "correctQuestion": "What is honey?",
+        "value": 800
+      },
+      {
+        "clue": "This small crawling creature comes out of the ground after spring rain",
+        "correctQuestion": "What is a worm?",
+        "value": 800
+      },
+      {
+        "clue": "This four-leaf plant is said to bring you good luck on St. Patrick's Day",
+        "correctQuestion": "What is a four-leaf clover?",
+        "value": 800
+      },
+      {
+        "clue": "This is the country where St. Patrick's Day first began long ago",
+        "correctQuestion": "What is Ireland?",
+        "value": 800
+      },
+      {
+        "clue": "This is the island nation where St. Patrick's Day originated, located in the North Atlantic Ocean next to Great Britain.",
+        "correctQuestion": "What is Ireland?",
+        "value": 800
+      },
+      {
+        "clue": "Irish folklore says that wearing green on St. Patrick's Day makes you invisible to leprechauns, protecting you from getting this done to you by a mischievous fairy.",
+        "correctQuestion": "What is being pinched?",
+        "value": 800
+      },
+      {
+        "clue": "Spring is when many mother animals give birth, including ewes, does, and hens — producing these young ones called lambs, fawns, and chicks.",
+        "correctQuestion": "What are baby animals?",
+        "value": 800
+      },
+      {
+        "clue": "The word 'vernal' comes from Latin and refers to this season, which is why the March equinox is called the 'vernal' equinox.",
+        "correctQuestion": "What is the Latin language?",
+        "value": 800
+      },
+      {
+        "clue": "St. Patrick used a three-leafed shamrock to teach people about this Christian idea of three parts — Father, Son, and Holy Spirit — that are one.",
+        "correctQuestion": "What is the Holy Trinity?",
+        "value": 800
+      },
+      {
+        "clue": "Four Irish writers have won the Nobel Prize in Literature; this poet, who won in 1995 for works described as having 'lyrical beauty and ethical depth,' was called 'the most important Irish poet since Yeats' by American poet Robert Lowell",
+        "correctQuestion": "Who is Seamus Heaney?",
+        "value": 800
+      },
+      {
+        "clue": "The precession of Earth's rotational axis — the slow wobble that shifts the equinox point along the celestial sphere — completes one full cycle in approximately this many years, a period sometimes called the Great Year or Platonic Year",
+        "correctQuestion": "What is 25,800 years?",
+        "value": 800
+      },
+      {
+        "clue": "The bottle of orange powder used to dye the Chicago River green each St. Patrick's Day is considered a closely guarded secret; the dye was switched from an oil-based formula to this type of safe colorant after environmental concerns arose",
+        "correctQuestion": "What is a food-grade powder?",
+        "value": 800
+      },
+      {
+        "clue": "Leprechauns in the earliest Irish folklore were not depicted in green at all — they traditionally wore this color, and only shifted to green in popular imagery during the twentieth century",
+        "correctQuestion": "What is red?",
+        "value": 800
+      },
+      {
+        "clue": "Ireland's population fell from approximately 8.4 million in 1844 to 6.6 million by 1851 due to the Great Famine; the longer-term diaspora this triggered is estimated to have produced descendants numbering close to this many people worldwide",
+        "correctQuestion": "What is 80 million?",
+        "value": 800
+      },
+      {
+        "clue": "The Easter Rising began on Easter Monday, April 24, 1916, when Patrick Pearse read the Proclamation of the Irish Republic outside this Dublin landmark, which the rebels had seized as their headquarters.",
+        "correctQuestion": "What is the General Post Office (the GPO on O'Connell Street)?",
+        "value": 800
+      },
+      {
+        "clue": "Old Bushmills in County Antrim holds the distinction of being the world's oldest licensed whiskey distillery, its license to distill granted by this monarch on April 20, 1608.",
+        "correctQuestion": "Who is King James I (James VI of Scotland)?",
+        "value": 800
+      },
+      {
+        "clue": "Botticelli's Primavera contains over 500 identified plant species and approximately 190 distinct flowers; scholars believe its composition was devised with help from a member of Lorenzo de' Medici's circle, likely this humanist poet.",
+        "correctQuestion": "Who is Poliziano (Angelo Poliziano / Angelo Ambrogini)?",
+        "value": 800
+      },
+      {
+        "clue": "The 8th-century Anglo-Saxon scholar Bede is the sole early source naming this Germanic spring goddess, whose festival month — Eosturmōnaþ, roughly April — gave English its word for the Christian Paschal season.",
+        "correctQuestion": "Who is Eostre (Ēostre)?",
+        "value": 800
+      },
+      {
+        "clue": "This ancient Japanese tradition of communal cherry blossom viewing — whose origins trace to Emperor Saga's garden party at Kyoto's imperial palace in 812 CE — carries the Shinto belief that sakura trees house the spirit of the rice-field deity.",
+        "correctQuestion": "What is hanami?",
+        "value": 800
+      },
+      {
+        "clue": "The painful skin condition spring break tourists earn by spending six hours poolside after nine months indoors",
+        "correctQuestion": "What is a sunburn?",
+        "value": 800
+      },
+      {
+        "clue": "The person who texts you 'happy spring' after four months of silence and zero explanation",
+        "correctQuestion": "Who is your ex?",
+        "value": 800
+      },
+      {
+        "clue": "The financial instrument spring breakers max out in Cancun before remembering they also owe rent",
+        "correctQuestion": "What is a credit card?",
+        "value": 800
+      },
+      {
+        "clue": "The app where 'spring cleaning my feed' means unfollowing your ex and immediately rage-following them back",
+        "correctQuestion": "What is Instagram?",
+        "value": 800
+      },
+      {
+        "clue": "The coffee chain that releases a pink strawberry drink every spring and charges twelve dollars for it",
+        "correctQuestion": "What is Starbucks?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Baby ducks are called this fluffy little name",
+        "correctQuestion": "What is a duckling?",
+        "value": 1000
+      },
+      {
+        "clue": "In spring, birds build these with sticks and leaves to hold their eggs",
+        "correctQuestion": "What is a nest?",
+        "value": 1000
+      },
+      {
+        "clue": "This purple spring flower smells very sweet and grows in bunches",
+        "correctQuestion": "What is a lilac?",
+        "value": 1000
+      },
+      {
+        "clue": "These little black and yellow bugs help flowers grow by moving pollen",
+        "correctQuestion": "What are bees?",
+        "value": 1000
+      },
+      {
+        "clue": "St. Patrick's Day is celebrated on this number day in March",
+        "correctQuestion": "What is the 17th?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what happens to a caterpillar when it grows wings and flies away",
+        "correctQuestion": "What is becoming a butterfly?",
+        "value": 1000
+      },
+      {
+        "clue": "In spring, the days get longer because there is more of this",
+        "correctQuestion": "What is sunshine?",
+        "value": 1000
+      },
+      {
+        "clue": "Baby rabbits are called this soft little name",
+        "correctQuestion": "What is a bunny or kit?",
+        "value": 1000
+      },
+      {
+        "clue": "These pink flowers bloom on trees in spring and fall like snow",
+        "correctQuestion": "What are cherry blossoms?",
+        "value": 1000
+      },
+      {
+        "clue": "A leprechaun is said to be a very tiny magical kind of this",
+        "correctQuestion": "What is a fairy?",
+        "value": 1000
+      },
+      {
+        "clue": "Spring rain makes these round wet puddles that children love to jump in",
+        "correctQuestion": "What are puddles?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what flowers do when they open up their petals for the first time",
+        "correctQuestion": "What is blooming?",
+        "value": 1000
+      },
+      {
+        "clue": "On St. Patrick's Day, this green vegetable is eaten in a famous Irish soup",
+        "correctQuestion": "What is cabbage?",
+        "value": 1000
+      },
+      {
+        "clue": "In spring, squirrels find these brown nuts they buried in the ground last fall",
+        "correctQuestion": "What are acorns?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you call the warm gentle wind that blows in springtime",
+        "correctQuestion": "What is a breeze?",
+        "value": 1000
+      },
+      {
+        "clue": "The New York City St. Patrick's Day Parade first marched on March 17, 1762, making it older than this important American document signed in 1776.",
+        "correctQuestion": "What is the Declaration of Independence?",
+        "value": 1000
+      },
+      {
+        "clue": "The color originally linked to St. Patrick was actually this color, not green — it appeared on old Irish flags and royal coats of arms.",
+        "correctQuestion": "What is blue?",
+        "value": 1000
+      },
+      {
+        "clue": "St. Patrick was born in Roman Britain and was kidnapped at the age of 16 by raiders who brought him to Ireland to work as this.",
+        "correctQuestion": "What is a slave?",
+        "value": 1000
+      },
+      {
+        "clue": "On the spring equinox, 'equinox' comes from the Latin words meaning 'equal night,' because day and night are each close to this many hours long.",
+        "correctQuestion": "What is 12 hours?",
+        "value": 1000
+      },
+      {
+        "clue": "Ireland got its famous green nickname partly because of the warm ocean current called the North Atlantic Drift, which keeps Ireland wet, mild, and green all year.",
+        "correctQuestion": "What is the North Atlantic Drift?",
+        "value": 1000
+      },
+      {
+        "clue": "The legend that St. Patrick drove all the snakes out of Ireland is actually a myth — scientists know this island never had any snakes because of this ancient frozen event that made it too cold for reptiles.",
+        "correctQuestion": "What is the Ice Age?",
+        "value": 1000
+      },
+      {
+        "clue": "In Celtic folklore, leprechauns earned their gold by doing this job — mending and making shoes for all the other fairy folk.",
+        "correctQuestion": "What is shoemaking?",
+        "value": 1000
+      },
+      {
+        "clue": "Many spring-blooming flowers like tulips and daffodils need to be planted during this opposite season so their bulbs can rest in the cold ground.",
+        "correctQuestion": "What is fall or autumn?",
+        "value": 1000
+      },
+      {
+        "clue": "The odds of finding this lucky four-leafed plant among regular three-leafed clovers is about 1 in 10,000.",
+        "correctQuestion": "What is a four-leaf clover?",
+        "value": 1000
+      },
+      {
+        "clue": "When clocks spring forward one hour in March, people lose an hour of this — which is why some kids feel extra sleepy the next school morning.",
+        "correctQuestion": "What is sleep?",
+        "value": 1000
+      },
+      {
+        "clue": "The easy phrase to remember clock changes is 'spring forward, fall' this direction — one word that is the opposite of forward.",
+        "correctQuestion": "What is back?",
+        "value": 1000
+      },
+      {
+        "clue": "The capital city of Ireland, where massive St. Patrick's Day celebrations fill the streets every March 17th, is this city.",
+        "correctQuestion": "What is Dublin?",
+        "value": 1000
+      },
+      {
+        "clue": "Spring allergy season begins when this type of plant — not grass, not weeds — releases the first pollen of the year into the air.",
+        "correctQuestion": "What are trees?",
+        "value": 1000
+      },
+      {
+        "clue": "After escaping slavery in Ireland, St. Patrick had a dream calling him back, and he returned to Ireland as one of these — a person who travels to spread their religion.",
+        "correctQuestion": "What is a missionary?",
+        "value": 1000
+      },
+      {
+        "clue": "The cherry blossom, one of spring's most famous flowers, creates clouds of delicate pink and white petals that drift down like snow when a breeze blows through.",
+        "correctQuestion": "What are cherry blossoms?",
+        "value": 1000
+      },
+      {
+        "clue": "Saint Patrick's actual birth name is debated, but Irish tradition holds that it was Maewyn Succat; the name 'Patricius' he used in his written works comes from a Latin root meaning this",
+        "correctQuestion": "What is nobleman?",
+        "value": 1000
+      },
+      {
+        "clue": "The shamrock-as-Trinity legend does not appear in any written record until 1726, when this English botanist included it in his work 'Synopsis Stirpium Hibernicarum,' making it a surprisingly late addition to St. Patrick's mythology",
+        "correctQuestion": "Who is Caleb Threlkeld?",
+        "value": 1000
+      },
+      {
+        "clue": "Green beer was invented in 1914 by a New York City physician named Dr. Thomas Hayes Curtin, whose secret coloring agent was a laundry product called 'Wash Blue,' which contains this blue compound that turns beer green in small quantities",
+        "correctQuestion": "What is iron?",
+        "value": 1000
+      },
+      {
+        "clue": "Cairn T at Loughcrew in County Meath, Ireland, is a Neolithic passage tomb aligned with the spring equinox sunrise — a distinction often incorrectly attributed to the more famous nearby monument, which is actually aligned with the winter solstice",
+        "correctQuestion": "What is Newgrange?",
+        "value": 1000
+      },
+      {
+        "clue": "The study of the timing of seasonal biological events — such as when frogs first call in spring, when migratory birds arrive, or when flowers bloom — is a scientific discipline with this name, which comes from the Greek word for 'appearance'",
+        "correctQuestion": "What is phenology?",
+        "value": 1000
+      },
+      {
+        "clue": "The spring peeper (Pseudacris crucifer) can survive being partially frozen in winter thanks to its liver's ability to flood its bloodstream with this sugar, which acts as a biological antifreeze and protects organs from ice crystal damage",
+        "correctQuestion": "What is glucose?",
+        "value": 1000
+      },
+      {
+        "clue": "Ireland's 1937 constitution designates Irish (Gaeilge) as the nation's 'first official language,' yet the 2022 census found that only about this many people — fewer than 72,000 — actually speak it daily",
+        "correctQuestion": "What is 71,968 people?",
+        "value": 1000
+      },
+      {
+        "clue": "Holi, the Hindu festival of colors celebrating spring's arrival, traces its origins to the legend of the demon king Hiranyakashipu and his sister Holika, who tried to burn his son Prahlada alive because the boy refused to stop worshipping this god",
+        "correctQuestion": "Who is Vishnu?",
+        "value": 1000
+      },
+      {
+        "clue": "Samuel Beckett, W.B. Yeats, George Bernard Shaw, and Seamus Heaney are the four Irish winners of the Nobel Prize in Literature; Beckett, who won in 1969, is best known for a play in which two characters named Vladimir and Estragon wait endlessly for a figure who never arrives",
+        "correctQuestion": "What is Waiting for Godot?",
+        "value": 1000
+      },
+      {
+        "clue": "The 8th-century Anglo-Saxon scholar Bede wrote that early English speakers named their month of April 'Ēosturmōnaþ' after a pagan goddess, and scholars believe the modern word 'Easter' descends from this same goddess's name",
+        "correctQuestion": "Who is Ēostre?",
+        "value": 1000
+      },
+      {
+        "clue": "During the monarch butterfly's spring migration northward from Mexico, no single butterfly completes the full journey — instead it takes this many successive generations to reach the northern United States and Canada",
+        "correctQuestion": "What is three to four generations?",
+        "value": 1000
+      },
+      {
+        "clue": "Research published in Nature shows that as climate change causes spring to arrive earlier, many migratory birds are failing to keep pace with vegetation phenology — a problem called this, where the timing of interdependent biological events falls dangerously out of sync",
+        "correctQuestion": "What is phenological mismatch?",
+        "value": 1000
+      },
+      {
+        "clue": "W.B. Yeats won the Nobel Prize in Literature in 1923, the year after Irish independence, for poetry the Nobel committee said gave expression to 'the spirit of a whole nation'; he was a co-founder of this Dublin theater that became a home for Irish literary identity",
+        "correctQuestion": "What is the Abbey Theatre?",
+        "value": 1000
+      },
+      {
+        "clue": "Nowruz has been celebrated for more than 3,000 years, with its earliest traditions rooted in this ancient Persian religion founded by the prophet Zoroaster, which saw the spring equinox as the triumph of light over darkness",
+        "correctQuestion": "What is Zoroastrianism?",
+        "value": 1000
+      },
+      {
+        "clue": "Saint Patrick is the patron saint of Ireland despite never having been formally canonized through the Catholic Church's official process, because he lived and died before the current canonization laws were established; his feast day of March 17th marks the supposed date of this event",
+        "correctQuestion": "What is his death?",
+        "value": 1000
+      },
+      {
+        "clue": "St. Patrick's Confessio reveals that at age 16 he was kidnapped from his family's villa at a location scholars call 'Bannavem Taburniae' — most likely somewhere in Roman Britain — and held for six years as a slave performing this occupation.",
+        "correctQuestion": "What is herding sheep (shepherding)?",
+        "value": 1000
+      },
+      {
+        "clue": "The Tuatha De Danann arrived in Ireland bearing four sacred treasures; Lugh carried the Spear of Gorias, Nuada the Sword of Findias, the Dagda the Cauldron of Dagda, and the fourth treasure was this stone that cried out beneath the rightful High King.",
+        "correctQuestion": "What is the Lia Fail (the Stone of Destiny)?",
+        "value": 1000
+      },
+      {
+        "clue": "The story of St. Patrick using the shamrock to explain the Holy Trinity was not recorded in writing until 1726, when this Welsh-born botanist and clergyman included it in his flora of Dublin.",
+        "correctQuestion": "Who is Caleb Threlkeld?",
+        "value": 1000
+      },
+      {
+        "clue": "In 391 CE, the Roman consul Quintus Aurelius Symmachus received seven of these dogs as a gift from a Gaelic source, writing that 'all Rome viewed them with wonder' as they were used to fight lions and bears in the arena.",
+        "correctQuestion": "What are Irish Wolfhounds (canes Scotici)?",
+        "value": 1000
+      },
+      {
+        "clue": "Atmospheric blocking events — large quasi-stationary high-pressure systems that redirect migratory cyclones and cause prolonged spring weather anomalies — occur most frequently in the Northern Hemisphere over these two oceanic regions.",
+        "correctQuestion": "What are the eastern Pacific and Atlantic Oceans?",
+        "value": 1000
+      },
+      {
+        "clue": "Douglas Hyde's 1892 lecture 'The Necessity for De-Anglicising Ireland,' delivered to this Dublin organization, served as the intellectual catalyst for the Gaelic Revival and the subsequent founding of the Gaelic League.",
+        "correctQuestion": "What is the National Literary Society?",
+        "value": 1000
+      },
+      {
+        "clue": "James Connolly, the socialist leader of the Irish Citizen Army in the 1916 Easter Rising, was wounded so severely during the fighting that by the time of his execution at Kilmainham Gaol, he had to be tied to a chair because he could not stand; he died on this date.",
+        "correctQuestion": "What is May 12, 1916?",
+        "value": 1000
+      },
+      {
+        "clue": "Phenological research has revealed a dangerous mismatch in spring timing: migratory bird species have advanced their spring arrival, but the insect prey and vegetation they depend on have advanced their emergence even faster — with one PNAS study finding the gap between arrival and green-up increased by more than this fraction of a day per year.",
+        "correctQuestion": "What is half a day (more than half a day per year)?",
+        "value": 1000
+      },
+      {
+        "clue": "The vernal equinox was once marked by the sun entering the constellation Aries, but precession has moved this 'First Point of Aries' roughly 30 degrees westward; it now lies in this zodiac constellation.",
+        "correctQuestion": "What is Pisces?",
+        "value": 1000
+      },
+      {
+        "clue": "The Nowruz celebration was jointly inscribed to UNESCO's Intangible Heritage list in 2009 at the initiative of 11 nations; among the signatories were Afghanistan, Iran, Turkey, and this Central Asian nation whose capital is Astana.",
+        "correctQuestion": "What is Kazakhstan?",
+        "value": 1000
+      },
+      {
+        "clue": "Cormac's Glossary, a 9th-century Irish text written by Christian monks, described the Celtic goddess Brigid as 'the goddess whom poets adored' and suggested she was a triple deity with two sisters — one a healer and one a practitioner of this craft.",
+        "correctQuestion": "What is smithing (metalwork / blacksmithing)?",
+        "value": 1000
+      },
+      {
+        "clue": "The earliest account linking St. Patrick's Day to America comes not from New York or Boston but from St. Augustine, Florida in 1601, when Spanish colonial settlers held a parade; the first recorded celebration in Boston occurred in this year.",
+        "correctQuestion": "What is 1737?",
+        "value": 1000
+      },
+      {
+        "clue": "During the Great Famine of 1845-1850, roughly one million Irish died of starvation and disease while nearly two million emigrated; by 1850, Irish immigrants constituted approximately this percentage of the combined populations of Boston, New York City, Philadelphia, and Baltimore.",
+        "correctQuestion": "What is one quarter (25%)?",
+        "value": 1000
+      },
+      {
+        "clue": "The Book of Kells, a ca. 800 CE illuminated manuscript of the four Gospels housing what scholars call the finest example of Insular art, was donated to Trinity College Dublin in 1661 by Henry Jones, who held this ecclesiastical title.",
+        "correctQuestion": "What is Bishop of Clogher?",
+        "value": 1000
+      },
+      {
+        "clue": "The Good Friday Agreement of 1998 was chaired by this American diplomat and former Senate Majority Leader, whose multi-year mediation effort ultimately produced the power-sharing framework that ended the Troubles.",
+        "correctQuestion": "Who is George J. Mitchell?",
+        "value": 1000
+      },
+      {
+        "clue": "The professional you should call after spring-cleaning your emotional baggage but instead call your mom about",
+        "correctQuestion": "What is a therapist?",
+        "value": 1000
+      },
+      {
+        "clue": "The monthly payment that arrives like clockwork every spring, summer, fall, and winter without a single holiday",
+        "correctQuestion": "What is rent?",
+        "value": 1000
+      },
+      {
+        "clue": "The debt category that makes spring cleaning your finances feel like auditing a natural disaster",
+        "correctQuestion": "What are student loans?",
+        "value": 1000
+      },
+      {
+        "clue": "The streaming service you open every warm spring evening and watch until it's somehow 3am again",
+        "correctQuestion": "What is Netflix?",
+        "value": 1000
+      },
+      {
+        "clue": "The group chat that gets completely unhinged every St. Patrick's Day starting around 11am",
+        "correctQuestion": "What is a group chat?",
+        "value": 1000
+      },
+      {
+        "clue": "The late-night food that Cancun spring breakers order in quantities that should be medically reviewed",
+        "correctQuestion": "What is pizza?",
+        "value": 1000
+      },
+      {
+        "clue": "The Tex-Mex staple that becomes Ireland's most popular food on March 17th thanks to Taco Bell's green promotion",
+        "correctQuestion": "What are tacos?",
+        "value": 1000
+      },
+      {
+        "clue": "The warehouse company delivering your 'new spring wardrobe' in 48 hours so you can keep avoiding the gym",
+        "correctQuestion": "What is Amazon?",
+        "value": 1000
+      },
+      {
+        "clue": "The search engine used to answer 'is it normal to feel this bad two days after St. Patrick's Day'",
+        "correctQuestion": "What is Google?",
+        "value": 1000
+      },
+      {
+        "clue": "The Tennessee whiskey brand that appears in every spring bonfire photo next to someone who claims they 'rarely drink'",
+        "correctQuestion": "What is Jack Daniel's?",
+        "value": 1000
+      },
+      {
+        "clue": "The social platform where every influencer posts the same field of flowers in April and calls it their 'reset era'",
+        "correctQuestion": "What is TikTok?",
+        "value": 1000
+      },
+      {
+        "clue": "The spring emotion when you file your taxes, owe money, and your Amazon Prime renewal hits the same week",
+        "correctQuestion": "What is regret?",
+        "value": 1000
+      },
+      {
+        "clue": "The pop star whose 'Eras Tour' merch table saw more St. Patrick's Day green than any Irish pub in 2024",
+        "correctQuestion": "Who is Taylor Swift?",
+        "value": 1000
+      },
+      {
+        "clue": "The fast food chain responsible for the only Irish-American meal most Americans will eat all March",
+        "correctQuestion": "What is McDonald's?",
+        "value": 1000
+      },
+      {
+        "clue": "The golden bathroom fixture that Irish folklore promises at the end of a rainbow and economists call 'home ownership'",
+        "correctQuestion": "What is a pot of gold?",
+        "value": 1000
+      }
+    ]
+  }
+}

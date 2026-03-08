@@ -1,391 +1,164 @@
 {
   "category": "Birthday Parties: Venues, Celebrations & Modern Trends",
-  "description": "30 regular trivia questions + 30 CAH-style clues about birthday parties, venues, celebrations, and party culture",
-  "research_basis": {
-    "jeopardy_principles": [
-      "Pinning - clue must lead to only ONE answer",
-      "Give enough detail to clearly point at the answer",
-      "Avoid ambiguity - make the connection obvious"
+  "theme": "birthday",
+  "category_id": "birthday_parties",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What is the traditional first thing served at a birthday party?",
+        "correctQuestion": "Cake",
+        "value": 200
+      },
+      {
+        "clue": "How many candles traditionally go on a birthday cake?",
+        "correctQuestion": "One for each year of age",
+        "value": 200
+      },
+      {
+        "clue": "What is a traditional party game where guests find hidden objects?",
+        "correctQuestion": "Scavenger hunt",
+        "value": 200
+      },
+      {
+        "clue": "How many kids typically comprise a 'birthday party crew' or friend group?",
+        "correctQuestion": "3-6 (or varies)",
+        "value": 200
+      },
+      {
+        "clue": "What is the main purpose of birthday party RSVP?",
+        "correctQuestion": "To confirm attendance and headcount",
+        "value": 200
+      },
+      {
+        "clue": "What is a popular outdoor birthday party activity in summer?",
+        "correctQuestion": "Backyard BBQ/cookout",
+        "value": 200
+      },
+      {
+        "clue": "What party decorations are helium-filled and float toward the ceiling?",
+        "correctQuestion": "Balloons",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'surprise party'?",
+        "correctQuestion": "Party where birthday person doesn't know about it beforehand",
+        "value": 200
+      },
+      {
+        "clue": "What is a traditional party game involving musical chairs?",
+        "correctQuestion": "Musical chairs",
+        "value": 200
+      },
+      {
+        "clue": "What do guests typically bring to a birthday party?",
+        "correctQuestion": "A gift",
+        "value": 200
+      },
+      {
+        "clue": "What is the most common birthday party food served alongside cake?",
+        "correctQuestion": "Pizza",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'themed birthday party'?",
+        "correctQuestion": "Party with decorations and activities centered on a specific theme",
+        "value": 200
+      },
+      {
+        "clue": "What is 'party favors'?",
+        "correctQuestion": "Small gifts given to guests as they leave",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'birthday club' or group gift?",
+        "correctQuestion": "Multiple people pooling money for one larger gift",
+        "value": 200
+      },
+      {
+        "clue": "What is the most popular time slot for kids' birthday parties?",
+        "correctQuestion": "Saturday afternoon (1-3pm)",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'drop-off party'?",
+        "correctQuestion": "Party where parents leave kids and return later to pick up",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'destination birthday party'?",
+        "correctQuestion": "Party held at a special location outside home",
+        "value": 200
+      }
     ],
-    "cah_principles": [
-      "Absurdity through juxtaposition, not random shock",
-      "Recognizable references people actually know",
-      "Clever connection between setup and punchline",
-      "MAX 6 words per clue - SHORT AND PUNCHY"
+    "kids_10_under": [
+      {
+        "clue": "What classic party game involves whacking a suspended object while blindfolded?",
+        "correctQuestion": "Pinata",
+        "value": 300
+      },
+      {
+        "clue": "Which theme restaurant is known for singing 'Happy Birthday' loudly?",
+        "correctQuestion": "Applebee's (or similar chain)",
+        "value": 300
+      },
+      {
+        "clue": "What venue is most associated with children's birthday parties in the 1990s-2000s?",
+        "correctQuestion": "Chuck E Cheese",
+        "value": 300
+      },
+      {
+        "clue": "What is the etiquette for arriving at a birthday party?",
+        "correctQuestion": "On time (or within 15 minutes of start time)",
+        "value": 300
+      },
+      {
+        "clue": "What is the proper etiquette for sending birthday party invitations?",
+        "correctQuestion": " 2-3 weeks in advance",
+        "value": 300
+      },
+      {
+        "clue": "What trendy venue hosted virtual birthday parties during COVID-19?",
+        "correctQuestion": "Zoom/video conference platforms",
+        "value": 400
+      },
+      {
+        "clue": "What is a 'milestone birthday'?",
+        "correctQuestion": "A significant age (21, 30, 40, 50, etc.)",
+        "value": 300
+      },
+      {
+        "clue": "What is the origin of 'pin the tail on the donkey'?",
+        "correctQuestion": "Classic children's party game from early 20th century",
+        "value": 300
+      },
+      {
+        "clue": "What modern app is used most for birthday party planning?",
+        "correctQuestion": "Pinterest or Instagram",
+        "value": 300
+      },
+      {
+        "clue": "What venue type is most expensive for birthday party rental?",
+        "correctQuestion": "Banquet hall or upscale restaurant",
+        "value": 300
+      },
+      {
+        "clue": "What is the etiquette for a birthday party gift?",
+        "correctQuestion": "Spend $15-50 depending on relationship and party type",
+        "value": 300
+      },
+      {
+        "clue": "What is 'party etiquette' around gifts in front of others?",
+        "correctQuestion": "Opening gifts after party or out of sight of non-gift-givers",
+        "value": 300
+      },
+      {
+        "clue": "What modern trend has replaced traditional party games?",
+        "correctQuestion": "Social media photo ops or Instagram-worthy backdrops",
+        "value": 400
+      }
     ],
-    "mainstream_only": [
-      "Apps: Instagram, TikTok, Pinterest, Google Maps, Uber",
-      "Tech: iPhone, Ring doorbell, Alexa",
-      "Platforms: Netflix, YouTube, Airbnb",
-      "Brands: Chuck E Cheese, Chick-fil-A, Sephora",
-      "People: Taylor Swift, Kardashians, Elon Musk",
-      "Events: COVID-19, student debt, inflation"
-    ]
-  },
-  "regular_trivia_questions": [
-    {
-      "question": "What is the traditional first thing served at a birthday party?",
-      "answer": "Cake",
-      "value": 200
-    },
-    {
-      "question": "How many candles traditionally go on a birthday cake?",
-      "answer": "One for each year of age",
-      "value": 200
-    },
-    {
-      "question": "What classic party game involves whacking a suspended object while blindfolded?",
-      "answer": "Pinata",
-      "value": 300
-    },
-    {
-      "question": "Which theme restaurant is known for singing 'Happy Birthday' loudly?",
-      "answer": "Applebee's (or similar chain)",
-      "value": 300
-    },
-    {
-      "question": "What is a traditional party game where guests find hidden objects?",
-      "answer": "Scavenger hunt",
-      "value": 200
-    },
-    {
-      "question": "What venue is most associated with children's birthday parties in the 1990s-2000s?",
-      "answer": "Chuck E Cheese",
-      "value": 300
-    },
-    {
-      "question": "How many kids typically comprise a 'birthday party crew' or friend group?",
-      "answer": "3-6 (or varies)",
-      "value": 200
-    },
-    {
-      "question": "What is the main purpose of birthday party RSVP?",
-      "answer": "To confirm attendance and headcount",
-      "value": 200
-    },
-    {
-      "question": "What is a popular outdoor birthday party activity in summer?",
-      "answer": "Backyard BBQ/cookout",
-      "value": 200
-    },
-    {
-      "question": "What party decorations are helium-filled and float toward the ceiling?",
-      "answer": "Balloons",
-      "value": 200
-    },
-    {
-      "question": "What is the etiquette for arriving at a birthday party?",
-      "answer": "On time (or within 15 minutes of start time)",
-      "value": 300
-    },
-    {
-      "question": "What is a 'surprise party'?",
-      "answer": "Party where birthday person doesn't know about it beforehand",
-      "value": 200
-    },
-    {
-      "question": "What is a traditional party game involving musical chairs?",
-      "answer": "Musical chairs",
-      "value": 200
-    },
-    {
-      "question": "What do guests typically bring to a birthday party?",
-      "answer": "A gift",
-      "value": 200
-    },
-    {
-      "question": "What is the proper etiquette for sending birthday party invitations?",
-      "answer": " 2-3 weeks in advance",
-      "value": 300
-    },
-    {
-      "question": "What trendy venue hosted virtual birthday parties during COVID-19?",
-      "answer": "Zoom/video conference platforms",
-      "value": 400
-    },
-    {
-      "question": "What is a 'milestone birthday'?",
-      "answer": "A significant age (21, 30, 40, 50, etc.)",
-      "value": 300
-    },
-    {
-      "question": "What is the most common birthday party food served alongside cake?",
-      "answer": "Pizza",
-      "value": 200
-    },
-    {
-      "question": "What is a 'themed birthday party'?",
-      "answer": "Party with decorations and activities centered on a specific theme",
-      "value": 200
-    },
-    {
-      "question": "What is the origin of 'pin the tail on the donkey'?",
-      "answer": "Classic children's party game from early 20th century",
-      "value": 300
-    },
-    {
-      "question": "What modern app is used most for birthday party planning?",
-      "answer": "Pinterest or Instagram",
-      "value": 300
-    },
-    {
-      "question": "What is 'party favors'?",
-      "answer": "Small gifts given to guests as they leave",
-      "value": 200
-    },
-    {
-      "question": "What is a 'birthday club' or group gift?",
-      "answer": "Multiple people pooling money for one larger gift",
-      "value": 200
-    },
-    {
-      "question": "What venue type is most expensive for birthday party rental?",
-      "answer": "Banquet hall or upscale restaurant",
-      "value": 300
-    },
-    {
-      "question": "What is the etiquette for a birthday party gift?",
-      "answer": "Spend $15-50 depending on relationship and party type",
-      "value": 300
-    },
-    {
-      "question": "What is 'party etiquette' around gifts in front of others?",
-      "answer": "Opening gifts after party or out of sight of non-gift-givers",
-      "value": 300
-    },
-    {
-      "question": "What is the most popular time slot for kids' birthday parties?",
-      "answer": "Saturday afternoon (1-3pm)",
-      "value": 200
-    },
-    {
-      "question": "What is a 'drop-off party'?",
-      "answer": "Party where parents leave kids and return later to pick up",
-      "value": 200
-    },
-    {
-      "question": "What modern trend has replaced traditional party games?",
-      "answer": "Social media photo ops or Instagram-worthy backdrops",
-      "value": 400
-    },
-    {
-      "question": "What is a 'destination birthday party'?",
-      "answer": "Party held at a special location outside home",
-      "value": 200
-    }
-  ],
-  "cah_clues": [
-    {
-      "clue": "What millennials spend more on than actual party",
-      "correctQuestion": "What is Instagram-worthy backdrop?",
-      "value": 400,
-      "why_it_works": "Everyone knows Instagram party culture and performative celebrations"
-    },
-    {
-      "clue": "Birthday parent's 3am panic purchase at Target",
-      "correctQuestion": "What is last-minute birthday gift?",
-      "value": 400,
-      "why_it_works": "Universal parent anxiety + Target shopping culture"
-    },
-    {
-      "clue": "What replaced actual party games. Six letters.",
-      "correctQuestion": "What is TikTok?",
-      "value": 400,
-      "why_it_works": "Gen Z doesn't do games, just films content"
-    },
-    {
-      "clue": "Where Karen's son got his third birthday party",
-      "correctQuestion": "What is a bounce house rental venue?",
-      "value": 600,
-      "why_it_works": "Karen meme + excessive kids' party culture"
-    },
-    {
-      "clue": "Pizza chain that sings louder than their bathrooms smell",
-      "correctQuestion": "What is Chuck E Cheese?",
-      "value": 600,
-      "why_it_works": "Everyone knows Chuck E Cheese + nostalgic gross humor"
-    },
-    {
-      "clue": "Party venue that costs $50 per kid, serves zero vegetables",
-      "correctQuestion": "What is McDonald's party room?",
-      "value": 400,
-      "why_it_works": "Universal cheap party experience everyone remembers"
-    },
-    {
-      "clue": "App where you pretend to be excited for coworker birthdays",
-      "correctQuestion": "What is Facebook?",
-      "value": 600,
-      "why_it_works": "Everyone hates workplace birthday celebrations"
-    },
-    {
-      "clue": "What nobody actually reads when you RSVP",
-      "correctQuestion": "What is the directions to venue?",
-      "value": 400,
-      "why_it_works": "Universal RSVP experience + everyone gets lost"
-    },
-    {
-      "clue": "Helium balloon decorations now cost more than actual cake",
-      "correctQuestion": "What is inflation?",
-      "value": 600,
-      "why_it_works": "Current inflation crisis + party budget meme"
-    },
-    {
-      "clue": "What your mom insisted you wear to birthday parties",
-      "correctQuestion": "What is uncomfortable formal clothing?",
-      "value": 300,
-      "why_it_works": "Universal childhood party experience and mom forcing dressy clothes"
-    },
-    {
-      "clue": "Party game where one kid always ruins everything. Unspoken rule.",
-      "correctQuestion": "What is musical chairs?",
-      "value": 400,
-      "why_it_works": "Universal party game chaos everyone experienced"
-    },
-    {
-      "clue": "What Taylor Swift probably charges for private party appearance",
-      "correctQuestion": "What is more than your annual salary?",
-      "value": 600,
-      "why_it_works": "Celebrity appearance fees are absurd + Taylor Swift fame"
-    },
-    {
-      "clue": "Elon Musk's idea of a birthday party: ordering this",
-      "correctQuestion": "What is a Tesla on Autopilot for entertainment?",
-      "value": 600,
-      "why_it_works": "Elon Musk's ridiculous tech solutions meme"
-    },
-    {
-      "clue": "What cost $2 in 1995, costs $47 now per person",
-      "correctQuestion": "What is birthday party at any venue?",
-      "value": 600,
-      "why_it_works": "Inflation and party cost anxiety for parents"
-    },
-    {
-      "clue": "Bougie mom's Pinterest board with exactly zero doable ideas",
-      "correctQuestion": "What is DIY homemade decorations on Pinterest?",
-      "value": 600,
-      "why_it_works": "Pinterest culture + mom Pinterest anxiety is universal meme"
-    },
-    {
-      "clue": "What the Kardashians spend on their kids' birthdays annually",
-      "correctQuestion": "What is more than most people's house?",
-      "value": 600,
-      "why_it_works": "Kardashian excess is well-known + wealth inequality humor"
-    },
-    {
-      "clue": "How most people feel during office birthday cake song",
-      "correctQuestion": "What is deeply uncomfortable?",
-      "value": 500,
-      "why_it_works": "Universal workplace birthday song trauma"
-    },
-    {
-      "clue": "What COVID took away: actual parties. Gained: this nightmare.",
-      "correctQuestion": "What is Zoom birthday parties?",
-      "value": 600,
-      "why_it_works": "COVID-era Zoom party trauma everyone lived through"
-    },
-    {
-      "clue": "Venue that promises 'memorable party' but is just fluorescent chaos",
-      "correctQuestion": "What is Chick-fil-A party room?",
-      "value": 500,
-      "why_it_works": "Everyone knows cheap chain party rooms"
-    },
-    {
-      "clue": "Party game where blindfolded kids hit things with sticks. Liability nightmare.",
-      "correctQuestion": "What is pinata?",
-      "value": 600,
-      "why_it_works": "Pinata safety concerns are real + legal liability humor"
-    },
-    {
-      "clue": "What influencers pretend to enjoy but are actually sponsorships for",
-      "correctQuestion": "What is birthday party brand collaboration?",
-      "value": 600,
-      "why_it_works": "Influencer party culture and sponsored content"
-    },
-    {
-      "clue": "Dad's idea of party planning: Google Maps and store bought cake",
-      "correctQuestion": "What is zero effort?",
-      "value": 500,
-      "why_it_works": "Dad party planning meme"
-    },
-    {
-      "clue": "Party favor that ends up in garbage immediately upon leaving",
-      "correctQuestion": "What is plastic junk toy from dollar store?",
-      "value": 400,
-      "why_it_works": "Universal party favor waste and disappointment"
-    },
-    {
-      "clue": "What cost $15 for gift now people ask to split using Venmo",
-      "correctQuestion": "What is group gift?",
-      "value": 600,
-      "why_it_works": "Venmo group gifting culture + cost-splitting anxiety"
-    },
-    {
-      "clue": "Milestone birthday where you question every life decision made",
-      "correctQuestion": "What is turning 30?",
-      "value": 600,
-      "why_it_works": "Millennial 30th birthday crisis is huge cultural moment"
-    },
-    {
-      "clue": "What you pretend to enjoy eating at three different office parties",
-      "correctQuestion": "What is sheet cake from Costco?",
-      "value": 500,
-      "why_it_works": "Office party sheet cake is universal terrible experience"
-    },
-    {
-      "clue": "Party game nobody's played since 1987 but still shows up",
-      "correctQuestion": "What is pin the tail on donkey?",
-      "value": 400,
-      "why_it_works": "Outdated party games that parents still force on kids"
-    },
-    {
-      "clue": "Sephora's birthday reward worth approximately twelve cents",
-      "correctQuestion": "What is birthday discount sample?",
-      "value": 600,
-      "why_it_works": "Sephora birthday rewards and corporate loyalty program mockery"
-    },
-    {
-      "clue": "What your mom forgot she promised to bake by day-before panic",
-      "correctQuestion": "What is homemade birthday cake?",
-      "value": 400,
-      "why_it_works": "Mom party planning anxiety is universal"
-    },
-    {
-      "clue": "Ring doorbell footage of person ringing wrong house number",
-      "correctQuestion": "What is lost party guest arriving late?",
-      "value": 500,
-      "why_it_works": "Ring doorbell culture + party guest GPS fails"
-    }
-  ],
-  "anti_patterns_to_avoid": {
-    "obscure_references": [
-      "❌ Niche party game variations nobody knows",
-      "❌ Obscure party planning blogs or podcasts",
-      "❌ Regional party traditions outside mainstream",
-      "❌ Academic event planning theory",
-      "❌ References to parties from before 1990 unless iconic"
-    ],
-    "bad_cah_clues": [
-      "❌ Clues longer than 6 words",
-      "❌ Just saying 'party' without setup",
-      "❌ Shock words with no logical connection",
-      "❌ Obscure party venue references",
-      "❌ Clues about specific small towns or events"
-    ]
-  },
-  "mainstream_checklist": {
-    "before_using_reference": [
-      "✅ Would my parents know what this is?",
-      "✅ Has this been on mainstream news/TV?",
-      "✅ Is this a brand/app/person with millions of users?",
-      "✅ Would someone who doesn't use social media recognize this?",
-      "✅ Would a 50-year-old understand the reference?"
-    ]
-  },
-  "point_distribution_guide": {
-    "200_points": "Common party elements everyone knows",
-    "300_points": "Slightly specific party traditions or etiquette",
-    "400_points": "Modern party trends or mainstream apps/brands",
-    "500_points": "Edgier humor about party experiences",
-    "600_points": "Dark humor connecting to mainstream failures or inflation"
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
   }
 }

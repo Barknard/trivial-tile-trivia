@@ -2,19 +2,8 @@
   "category": "New Year's Party Planning",
   "theme": "event_planning",
   "category_id": "newyear_party_planning",
-  "description": "New Year's party planning, preparations, decorations, logistics, budgeting, countdowns, resolutions, and celebration coordination for ringing in the new year",
-  "age_suitability": "All ages",
-  "research_alignment": "Event planning, logistics management, budgeting, time management, coordination skills, decision-making, organizational behavior",
-  "generated_date": "2025-12-31",
-  "total_questions": 60,
-  "research_sources": [
-    "Event Planning: Party logistics, vendor coordination, timeline management",
-    "Practical Mathematics: Budgeting, headcount calculations, timing coordination",
-    "Organizational Behavior: Team coordination, communication, contingency planning",
-    "Cultural Traditions: New Year celebrations, countdown rituals, modern trends"
-  ],
   "audiences": {
-    "regular": [
+    "adults": [
       {
         "clue": "This list shows all the people you're inviting to your New Year's party",
         "correctQuestion": "What is a guest list?",

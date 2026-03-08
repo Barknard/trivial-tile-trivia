@@ -2,13 +2,8 @@
   "category": "New Year Good Luck Charms & Superstitions",
   "theme": "new_year_traditions",
   "category_id": "newyear_good_luck",
-  "description": "Lucky charms, superstitions, good luck traditions, New Year's customs, cultural lucky practices, fortune-telling, amulets, talismans, lucky symbols across cultures, and prosperity rituals for new beginnings",
-  "age_suitability": "All ages",
-  "research_alignment": "Cultural traditions, folk beliefs, psychology of luck, superstitions across cultures, symbolism, spiritual practices, New Year customs, fortune mythology, lucky symbols history, global celebration traditions",
-  "generated_date": "2025-12-31",
-  "total_questions": 60,
   "audiences": {
-    "regular_trivia": [
+    "adults": [
       {
         "clue": "This horseshoe is traditionally hung above doorways to bring good luck",
         "correctQuestion": "What is an upside-down horseshoe?",
@@ -160,7 +155,7 @@
         "value": 600
       }
     ],
-    "cah_trivia": [
+    "no_humanity": [
       {
         "clue": "The gig economy hustle your cousin started because they ignored this New Year's superstition",
         "correctQuestion": "What is breaking a mirror?",

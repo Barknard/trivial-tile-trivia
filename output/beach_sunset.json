@@ -1,1250 +1,792 @@
 {
-  "title": "Beach Sunset Trivia",
-  "description": "Family-friendly questions about beach sunsets, watching sunsets, and evening beach activities",
-  "totalQuestions": 180,
-  "levels": 6,
-  "questionsPerLevel": 30,
-  "format": "Jeopardy",
-  "questions": [
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Basics",
-      "points": 100,
-      "clue": "This is the time when the sun goes down below the horizon",
-      "answer": "What is sunset?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Basics",
-      "points": 100,
-      "clue": "The main color you see during a beautiful sunset",
-      "answer": "What is orange?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Basics",
-      "points": 100,
-      "clue": "The body of water beside a beach",
-      "answer": "What is the ocean?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Basics",
-      "points": 100,
-      "clue": "Another common color seen in sunsets besides orange",
-      "answer": "What is pink?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Basics",
-      "points": 100,
-      "clue": "The sandy area where the ocean meets the land",
-      "answer": "What is a beach?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Beach Activities",
-      "points": 100,
-      "clue": "Walking along the shore with your feet in the sand",
-      "answer": "What is taking a walk on the beach?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Beach Activities",
-      "points": 100,
-      "clue": "Sitting and looking at the ocean view",
-      "answer": "What is relaxing?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Beach Activities",
-      "points": 100,
-      "clue": "Taking pictures with a camera at sunset",
-      "answer": "What is photography?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Beach Activities",
-      "points": 100,
-      "clue": "Having a meal outdoors on the beach",
-      "answer": "What is a picnic?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Beach Activities",
-      "points": 100,
-      "clue": "Swimming in the ocean during the evening",
-      "answer": "What is swimming?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sky & Weather",
-      "points": 100,
-      "clue": "Thin, wispy clouds that often look beautiful at sunset",
-      "answer": "What are cirrus clouds?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sky & Weather",
-      "points": 100,
-      "clue": "The part of the day right after sunset",
-      "answer": "What is dusk or twilight?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sky & Weather",
-      "points": 100,
-      "clue": "A time when you might see a beautiful sunset without clouds",
-      "answer": "What is a clear day?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sky & Weather",
-      "points": 100,
-      "clue": "Particles in the air that can make sunsets more colorful",
-      "answer": "What is dust or pollution?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sky & Weather",
-      "points": 100,
-      "clue": "The glow in the western sky during sunset",
-      "answer": "What is the afterglow?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Equipment & Items",
-      "points": 100,
-      "clue": "You wear this to protect your eyes from the sun",
-      "answer": "What are sunglasses?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Equipment & Items",
-      "points": 100,
-      "clue": "A device used to capture sunset pictures",
-      "answer": "What is a camera?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Equipment & Items",
-      "points": 100,
-      "clue": "Something you sit on at the beach",
-      "answer": "What is a beach chair?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Equipment & Items",
-      "points": 100,
-      "clue": "This fabric provides shade from the sun",
-      "answer": "What is an umbrella?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Equipment & Items",
-      "points": 100,
-      "clue": "A blanket you spread on the sand",
-      "answer": "What is a beach towel?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Traditions",
-      "points": 100,
-      "clue": "The act of celebrating the end of the day at the beach",
-      "answer": "What is watching the sunset?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Traditions",
-      "points": 100,
-      "clue": "A social gathering at the beach during evening hours",
-      "answer": "What is a beach party?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Traditions",
-      "points": 100,
-      "clue": "Holding hands with someone while watching the sunset",
-      "answer": "What is romantic?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Traditions",
-      "points": 100,
-      "clue": "Making a special wish as the sun goes down",
-      "answer": "What is making a wish?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Sunset Traditions",
-      "points": 100,
-      "clue": "Spending time with family at the beach",
-      "answer": "What is quality time?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Nature & Wildlife",
-      "points": 100,
-      "clue": "Birds that fly over the beach at sunset",
-      "answer": "What are seagulls?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Nature & Wildlife",
-      "points": 100,
-      "clue": "Small creatures that live in the sand",
-      "answer": "What are crabs?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Nature & Wildlife",
-      "points": 100,
-      "clue": "Shells found on the beach that visitors collect",
-      "answer": "What are seashells?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Nature & Wildlife",
-      "points": 100,
-      "clue": "The waves that roll onto the shore",
-      "answer": "What are ocean waves?"
-    },
-    {
-      "level": 1,
-      "difficulty": "Easy",
-      "category": "Nature & Wildlife",
-      "points": 100,
-      "clue": "The steady sound at the beach that many find peaceful",
-      "answer": "What is the sound of waves?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Science",
-      "points": 200,
-      "clue": "The scientific reason why sunsets appear red and orange",
-      "answer": "What is Rayleigh scattering?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Science",
-      "points": 200,
-      "clue": "This celestial body appears in the sky after sunset during twilight",
-      "answer": "What is the moon?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Science",
-      "points": 200,
-      "clue": "The layer of Earth's atmosphere where most sunsets occur",
-      "answer": "What is the troposphere?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Science",
-      "points": 200,
-      "clue": "Light scattered at longer wavelengths appears this color",
-      "answer": "What is red?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Science",
-      "points": 200,
-      "clue": "The point where the sun meets the horizon",
-      "answer": "What is the horizon?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Beach Geography",
-      "points": 200,
-      "clue": "The direction the sun sets",
-      "answer": "What is west?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Beach Geography",
-      "points": 200,
-      "clue": "Beaches on this coast of the USA get west-facing sunsets",
-      "answer": "What is the Pacific coast?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Beach Geography",
-      "points": 200,
-      "clue": "Famous Florida beach known for beautiful sunsets",
-      "answer": "What is Clearwater Beach?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Beach Geography",
-      "points": 200,
-      "clue": "This island state is famous for tropical sunsets",
-      "answer": "What is Hawaii?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Beach Geography",
-      "points": 200,
-      "clue": "Mediterranean beaches offer sunsets over water in this direction",
-      "answer": "What is west?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Photography Tips",
-      "points": 200,
-      "clue": "The best time window to photograph a sunset",
-      "answer": "What is the golden hour?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Photography Tips",
-      "points": 200,
-      "clue": "A camera setting that controls how much light enters",
-      "answer": "What is aperture?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Photography Tips",
-      "points": 200,
-      "clue": "You should use a low ISO and fast film speed to reduce this",
-      "answer": "What is grain or noise?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Photography Tips",
-      "points": 200,
-      "clue": "A composition technique using lines in the sunset photo",
-      "answer": "What is rule of thirds?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Photography Tips",
-      "points": 200,
-      "clue": "You need this device to keep your camera steady during sunset photography",
-      "answer": "What is a tripod?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Colors",
-      "points": 200,
-      "clue": "The rarest color to see in a sunset, sometimes appearing as a green flash",
-      "answer": "What is green?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Colors",
-      "points": 200,
-      "clue": "This metal in the upper atmosphere can create purple sunsets",
-      "answer": "What is magnesium?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Colors",
-      "points": 200,
-      "clue": "A dramatic red or blood-red sunset may indicate this weather pattern",
-      "answer": "What is a storm approaching?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Colors",
-      "points": 200,
-      "clue": "The colors of the sunset shift from warm to cool in this order",
-      "answer": "What is orange to red to purple?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Sunset Colors",
-      "points": 200,
-      "clue": "A pale, washed-out sunset may indicate this in the atmosphere",
-      "answer": "What is high humidity or haze?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Evening Activities",
-      "points": 200,
-      "clue": "Creating art on the beach as the sun sets",
-      "answer": "What is sand art?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Evening Activities",
-      "points": 200,
-      "clue": "Running or jogging along the beach at sunset",
-      "answer": "What is beach running?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Evening Activities",
-      "points": 200,
-      "clue": "Playing games with a ball on the beach",
-      "answer": "What is beach volleyball or beach ball games?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Evening Activities",
-      "points": 200,
-      "clue": "Riding these on the water at sunset requires a board",
-      "answer": "What is surfing?"
-    },
-    {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "category": "Evening Activities",
-      "points": 200,
-      "clue": "Peaceful practice often done facing the sunset at the beach",
-      "answer": "What is yoga?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Advanced Sunset Science",
-      "points": 300,
-      "clue": "The optical phenomenon where the sun appears to flatten near the horizon",
-      "answer": "What is the solar flattening or oblate spheroid effect?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Advanced Sunset Science",
-      "points": 300,
-      "clue": "The atmospheric refraction that delays the actual sunset by this many minutes",
-      "answer": "What is approximately 2-3 minutes?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Advanced Sunset Science",
-      "points": 300,
-      "clue": "The angle at which light must pass through the atmosphere for sunset colors",
-      "answer": "What is more than 90 degrees from the observer?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Advanced Sunset Science",
-      "points": 300,
-      "clue": "Volcanic ash and aerosols can intensify sunset colors by scattering this",
-      "answer": "What is light?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Advanced Sunset Science",
-      "points": 300,
-      "clue": "The percentage of Earth's atmosphere that affects sunset coloring",
-      "answer": "What is 99 percent?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Sunset History & Culture",
-      "points": 300,
-      "clue": "The ancient Roman goddess associated with sunsets and evening",
-      "answer": "What is Vesper?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Sunset History & Culture",
-      "points": 300,
-      "clue": "In Japanese culture, sunset viewing is called this",
-      "answer": "What is 'yuuhi'?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Sunset History & Culture",
-      "points": 300,
-      "clue": "This painting by William Turner depicts a dramatic sunset at sea",
-      "answer": "What is 'The Fighting Temeraire'?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Sunset History & Culture",
-      "points": 300,
-      "clue": "Many cultures believe sunset marks the transition from day to this",
-      "answer": "What is night or the spirit world?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Sunset History & Culture",
-      "points": 300,
-      "clue": "The Hindu prayer ritual often performed at sunset",
-      "answer": "What is Aarti?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Beach Ecosystems",
-      "points": 300,
-      "clue": "The area between high and low tide marks on a beach",
-      "answer": "What is the intertidal zone?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Beach Ecosystems",
-      "points": 300,
-      "clue": "These creatures are most active during sunset hours on the beach",
-      "answer": "What are nocturnal animals?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Beach Ecosystems",
-      "points": 300,
-      "clue": "The process by which sea turtles return to shore at dusk",
-      "answer": "What is nesting?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Beach Ecosystems",
-      "points": 300,
-      "clue": "The protective layer of algae found on beach sand",
-      "answer": "What is microbial mat or biofilm?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Beach Ecosystems",
-      "points": 300,
-      "clue": "Organisms that feed at twilight when predators are less active",
-      "answer": "What is crepuscular fauna?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Seasonal Variations",
-      "points": 300,
-      "clue": "The season when sunsets occur latest in the day",
-      "answer": "What is summer?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Seasonal Variations",
-      "points": 300,
-      "clue": "The equinox when sunset occurs at approximately 6 PM worldwide",
-      "answer": "What is the spring or fall equinox?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Seasonal Variations",
-      "points": 300,
-      "clue": "In winter, sunsets at northern beaches occur at this approximate time",
-      "answer": "What is around 4-5 PM?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Seasonal Variations",
-      "points": 300,
-      "clue": "The difference in sunset time between summer and winter at northern latitudes",
-      "answer": "What is approximately 2-3 hours?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Seasonal Variations",
-      "points": 300,
-      "clue": "Near the equator, sunsets occur at roughly this time year-round",
-      "answer": "What is 6 PM or 18:00?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Atmospheric Phenomena",
-      "points": 300,
-      "clue": "The red-orange glow that remains after the sun dips below the horizon",
-      "answer": "What is the alpenglow or afterglow?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Atmospheric Phenomena",
-      "points": 300,
-      "clue": "This rare optical event occurs when sunset light creates a green flash",
-      "answer": "What is green flash?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Atmospheric Phenomena",
-      "points": 300,
-      "clue": "The shadow cast by Earth visible in the eastern sky at sunset",
-      "answer": "What is Earth's shadow or the belt of Venus?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Atmospheric Phenomena",
-      "points": 300,
-      "clue": "The pink or purple band between the darkening sky and sunset colors",
-      "answer": "What is the belt of Venus?"
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate-Hard",
-      "category": "Atmospheric Phenomena",
-      "points": 300,
-      "clue": "An unusual halo effect sometimes visible around the setting sun",
-      "answer": "What is a 22-degree halo or sun halo?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Complex Physics",
-      "points": 400,
-      "clue": "The wavelength of light inversely related to scattering intensity in sunsets",
-      "answer": "What is Rayleigh's law of proportionality (wavelength to the fourth power)?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Complex Physics",
-      "points": 400,
-      "clue": "The distance light travels through the atmosphere at sunset vs noon",
-      "answer": "What is 38 times longer?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Complex Physics",
-      "points": 400,
-      "clue": "The refractive index change in the atmosphere causes this phenomenon at sunset",
-      "answer": "What is atmospheric refraction or optical distortion?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Complex Physics",
-      "points": 400,
-      "clue": "The critical angle at which total internal reflection occurs in water droplets",
-      "answer": "What is Brewster's angle?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Complex Physics",
-      "points": 400,
-      "clue": "Polarized light created by this scattering phenomenon enhances sunset colors",
-      "answer": "What is Mie scattering?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Meteorological Factors",
-      "points": 400,
-      "clue": "Particulate matter smaller than 2.5 micrometers affects sunset appearance this way",
-      "answer": "What is PM2.5 or fine particulate matter?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Meteorological Factors",
-      "points": 400,
-      "clue": "The dew point relative to air temperature affects this sunset characteristic",
-      "answer": "What is cloud formation and moisture content?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Meteorological Factors",
-      "points": 400,
-      "clue": "Stratospheric aerosols from this type of event intensify sunset colors",
-      "answer": "What is volcanic eruptions?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Meteorological Factors",
-      "points": 400,
-      "clue": "High-altitude cirrus clouds with ice crystals create this sunset phenomenon",
-      "answer": "What is nacreous clouds or mother-of-pearl clouds?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Meteorological Factors",
-      "points": 400,
-      "clue": "The aerosol optical depth index measures this during sunset",
-      "answer": "What is atmospheric turbidity or atmospheric opacity?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Advanced Photography",
-      "points": 400,
-      "clue": "The bracketing technique using multiple exposures to capture sunset dynamics",
-      "answer": "What is exposure bracketing?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Advanced Photography",
-      "points": 400,
-      "clue": "Long exposure photography at sunset requires this much reduction in light",
-      "answer": "What is multiple stops (typically ND filter)?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Advanced Photography",
-      "points": 400,
-      "clue": "The color space that provides optimal gamut for sunset color reproduction",
-      "answer": "What is Adobe RGB or ProPhoto RGB?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Advanced Photography",
-      "points": 400,
-      "clue": "The histogram pattern for properly exposed sunset photographs",
-      "answer": "What is a bimodal distribution?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Advanced Photography",
-      "points": 400,
-      "clue": "The RAW file format advantage for sunset photography post-processing",
-      "answer": "What is greater dynamic range and white balance flexibility?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Astronomical Correlations",
-      "points": 400,
-      "clue": "The Sun's angular distance below the horizon during civil twilight",
-      "answer": "What is 6 degrees?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Astronomical Correlations",
-      "points": 400,
-      "clue": "During nautical twilight, the sun is this many degrees below the horizon",
-      "answer": "What is 12 degrees?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Astronomical Correlations",
-      "points": 400,
-      "clue": "The equation of time correction affects sunset timing by this maximum amount",
-      "answer": "What is approximately 16 minutes?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Astronomical Correlations",
-      "points": 400,
-      "clue": "The precession of Earth's axis causes sunset positions to shift this direction",
-      "answer": "What is northward and southward over 26,000 years?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Astronomical Correlations",
-      "points": 400,
-      "clue": "At the summer solstice in the Northern Hemisphere, sunset occurs at this bearing",
-      "answer": "What is northwest (approximately 300 degrees)?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Historical Observations",
-      "points": 400,
-      "clue": "The ancient structure aligned to track sunset positions across the year",
-      "answer": "What is Stonehenge?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Historical Observations",
-      "points": 400,
-      "clue": "Leonardo da Vinci documented this optical phenomenon at sunset in his notebooks",
-      "answer": "What is atmospheric refraction and color diffusion?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Historical Observations",
-      "points": 400,
-      "clue": "The year Krakatoa eruption caused vivid red sunsets worldwide",
-      "answer": "What is 1883?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Historical Observations",
-      "points": 400,
-      "clue": "The 1815 eruption of Mount Tambora created sunsets visible from this many miles",
-      "answer": "What is thousands of miles away?"
-    },
-    {
-      "level": 4,
-      "difficulty": "Hard",
-      "category": "Historical Observations",
-      "points": 400,
-      "clue": "The Russian artist who was famous for painting dramatic sunset landscapes",
-      "answer": "What is Ivan Aivazovsky?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Advanced Atmospheric Science",
-      "points": 500,
-      "clue": "The optical depth parameter tau increases by this factor during dusty sunset conditions",
-      "answer": "What is logarithmic or exponential increase?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Advanced Atmospheric Science",
-      "points": 500,
-      "clue": "The phase function in Mie scattering theory affects sunset colors through this variable",
-      "answer": "What is scattering angle or size parameter?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Advanced Atmospheric Science",
-      "points": 500,
-      "clue": "Lidar measurements of aerosol backscatter at sunset reveal this atmospheric property",
-      "answer": "What is aerosol layer structure or vertical distribution?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Advanced Atmospheric Science",
-      "points": 500,
-      "clue": "The aerosol single-scattering albedo at sunset determines this characteristic",
-      "answer": "What is the color and brightness of the sunset?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Advanced Atmospheric Science",
-      "points": 500,
-      "clue": "The contribution of organic aerosol to total atmospheric aerosol at sunset",
-      "answer": "What is approximately 50-70 percent?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Spectrophotometry & Analysis",
-      "points": 500,
-      "clue": "The instrument used to measure spectral irradiance during sunset in research",
-      "answer": "What is a spectroradiometer or spectrophotometer?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Spectrophotometry & Analysis",
-      "points": 500,
-      "clue": "The peak wavelength shift from blue to red during sunset follows this law",
-      "answer": "What is Wien's displacement law?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Spectrophotometry & Analysis",
-      "points": 500,
-      "clue": "The color rendering index value affected by sunset light composition",
-      "answer": "What is CRI or color temperature dependent?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Spectrophotometry & Analysis",
-      "points": 500,
-      "clue": "The chromaticity coordinates in the CIE color space for sunset illuminant",
-      "answer": "What is (0.327, 0.348) approximately for standard illuminant A?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Spectrophotometry & Analysis",
-      "points": 500,
-      "clue": "The photopic luminous efficacy of radiation at sunset wavelengths",
-      "answer": "What is approximately 200-300 lumens per watt?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Mathematical Modeling",
-      "points": 500,
-      "clue": "The differential equation governing radiative transfer in the sunset atmosphere",
-      "answer": "What is the radiative transfer equation?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Mathematical Modeling",
-      "points": 500,
-      "clue": "The Monte Carlo method application to model sunset light scattering involves this many photon paths",
-      "answer": "What is millions to billions?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Mathematical Modeling",
-      "points": 500,
-      "clue": "The numerical solution method for integro-differential equations in sunset modeling",
-      "answer": "What is discrete ordinates or spherical harmonics expansion?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Mathematical Modeling",
-      "points": 500,
-      "clue": "The kernel function in the Fredholm integral equation for sunset radiance calculation",
-      "answer": "What is the phase function times scattering coefficient?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Mathematical Modeling",
-      "points": 500,
-      "clue": "The asymptotic behavior of radiance at sunset requires this approximation method",
-      "answer": "What is the diffusion approximation or small angle approximation?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Climate & Long-term Trends",
-      "points": 500,
-      "clue": "The impact of increased aerosol concentrations on sunset brightness over decades",
-      "answer": "What is dimming effect or global dimming?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Climate & Long-term Trends",
-      "points": 500,
-      "clue": "The relationship between atmospheric CO2 levels and sunset color intensity",
-      "answer": "What is indirect through cloud formation and humidity?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Climate & Long-term Trends",
-      "points": 500,
-      "clue": "The sulfate aerosol indirect effect from industrial emissions on sunsets",
-      "answer": "What is enhanced cloud albedo and modified sunset appearance?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Climate & Long-term Trends",
-      "points": 500,
-      "clue": "The contribution of anthropogenic black carbon aerosol to sunset darkening",
-      "answer": "What is approximately 0.25 to 0.50 watts per square meter?"
-    },
-    {
-      "level": 5,
-      "difficulty": "Very Hard",
-      "category": "Climate & Long-term Trends",
-      "points": 500,
-      "clue": "The modeling uncertainty in predicting future sunset colors due to this factor",
-      "answer": "What is aerosol emission scenarios and natural variability?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Quantum Optics & Photonics",
-      "points": 600,
-      "clue": "The photon energy distribution in sunset light follows this quantum statistical distribution",
-      "answer": "What is Planck's law or blackbody radiation distribution?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Quantum Optics & Photonics",
-      "points": 600,
-      "clue": "The quantum mechanical cross-section for Rayleigh scattering varies with frequency raised to this power",
-      "answer": "What is the fourth power (f^4)?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Quantum Optics & Photonics",
-      "points": 600,
-      "clue": "The coherence length of scattered sunset photons in the atmosphere",
-      "answer": "What is on the order of micrometers?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Quantum Optics & Photonics",
-      "points": 600,
-      "clue": "The spin-orbit interaction of photons in aerosol particles creates this effect in sunset light",
-      "answer": "What is orbital angular momentum or OAM?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Quantum Optics & Photonics",
-      "points": 600,
-      "clue": "The quantum entanglement properties of photon pairs from sunset light correlation studies",
-      "answer": "What is two-photon absorption cross-section or g^2 correlation?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Nonlinear Optics in Aerosols",
-      "points": 600,
-      "clue": "The second harmonic generation efficiency in sunset aerosol particles at this wavelength range",
-      "answer": "What is ultraviolet or UV?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Nonlinear Optics in Aerosols",
-      "points": 600,
-      "clue": "The nonlinear refractive index change in atmosphere during intense sunset illumination",
-      "answer": "What is Kerr effect or self-phase modulation?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Nonlinear Optics in Aerosols",
-      "points": 600,
-      "clue": "The optical Stark effect modulation of atomic transitions in sunset light",
-      "answer": "What is ac Stark shift?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Nonlinear Optics in Aerosols",
-      "points": 600,
-      "clue": "The three-photon ionization process in upper atmosphere during sunset conditions",
-      "answer": "What is multiphoton absorption?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Nonlinear Optics in Aerosols",
-      "points": 600,
-      "clue": "The parametric amplification of sunset photons through this nonlinear crystal process",
-      "answer": "What is optical parametric amplification or OPA?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Hyperspectral Remote Sensing",
-      "points": 600,
-      "clue": "The spectral resolution required for high-fidelity sunset color imaging in nanometers",
-      "answer": "What is 1-5 nanometers?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Hyperspectral Remote Sensing",
-      "points": 600,
-      "clue": "The principal component analysis of hyperspectral sunset data reveals this many independent color modes",
-      "answer": "What is typically 3-5 principal components?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Hyperspectral Remote Sensing",
-      "points": 600,
-      "clue": "The unmixing algorithm for endmember identification in sunset aerosol spectroscopy",
-      "answer": "What is linear spectral unmixing or constrained optimization?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Hyperspectral Remote Sensing",
-      "points": 600,
-      "clue": "The machine learning approach using this method for sunset spectral classification",
-      "answer": "What is support vector machines or neural networks?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Hyperspectral Remote Sensing",
-      "points": 600,
-      "clue": "The synthetic aperture radar correlation with optical sunset data requires this preprocessing step",
-      "answer": "What is atmospheric correction or radiometric calibration?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Advanced Aerosol Science",
-      "points": 600,
-      "clue": "The fractal dimension of sea salt aerosol particles affecting sunset light scattering",
-      "answer": "What is between 2.0 and 3.0?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Advanced Aerosol Science",
-      "points": 600,
-      "clue": "The van der Waals interactions between aerosol molecules modeled using this potential",
-      "answer": "What is Lennard-Jones potential?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Advanced Aerosol Science",
-      "points": 600,
-      "clue": "The Brownian motion trajectory simulation for sunset aerosol particles uses this stochastic process",
-      "answer": "What is Langevin equations or Wiener process?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Advanced Aerosol Science",
-      "points": 600,
-      "clue": "The hygroscopic growth factor of sulfate aerosol at relative humidity of 90 percent during sunset",
-      "answer": "What is approximately 2.0 to 3.0?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Advanced Aerosol Science",
-      "points": 600,
-      "clue": "The critical supersaturation for cloud condensation nuclei activation in sunset conditions",
-      "answer": "What is dependent on aerosol composition and size distribution (Köhler theory)?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Computational Fluid Dynamics",
-      "points": 600,
-      "clue": "The Navier-Stokes equation turbulence model for sunset atmospheric circulation",
-      "answer": "What is k-epsilon or Large Eddy Simulation?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Computational Fluid Dynamics",
-      "points": 600,
-      "clue": "The mesh resolution requirement for resolving sunset aerosol convection at scales",
-      "answer": "What is micrometers to millimeters?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Computational Fluid Dynamics",
-      "points": 600,
-      "clue": "The Courant-Friedrichs-Lewy stability criterion for sunset atmospheric modeling timesteps",
-      "answer": "What is CFL less than 1?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Computational Fluid Dynamics",
-      "points": 600,
-      "clue": "The flux-limiting schemes used for accurate sunset color evolution in advection schemes",
-      "answer": "What is MUSCL or PPM (piecewise parabolic method)?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Computational Fluid Dynamics",
-      "points": 600,
-      "clue": "The adjoint method for inverse modeling of sunset observations to retrieve aerosol properties",
-      "answer": "What is backpropagation through numerical simulation?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Bayesian Inference & Uncertainty",
-      "points": 600,
-      "clue": "The posterior distribution of aerosol optical depth from sunset measurements follows this form",
-      "answer": "What is multivariate normal or Gaussian distribution?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Bayesian Inference & Uncertainty",
-      "points": 600,
-      "clue": "The Markov chain Monte Carlo sampler for sunset aerosol inversion uses this algorithm",
-      "answer": "What is Metropolis-Hastings or Gibbs sampling?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Bayesian Inference & Uncertainty",
-      "points": 600,
-      "clue": "The variational autoencoder latent space dimension for sunset color encoding",
-      "answer": "What is typically 10-50 dimensions?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Bayesian Inference & Uncertainty",
-      "points": 600,
-      "clue": "The information content in sunset spectral measurements quantified by this metric",
-      "answer": "What is Kullback-Leibler divergence or Shannon entropy?"
-    },
-    {
-      "level": 6,
-      "difficulty": "Expert",
-      "category": "Bayesian Inference & Uncertainty",
-      "points": 600,
-      "clue": "The prior distribution specification for sunset aerosol size distribution parameters",
-      "answer": "What is lognormal or gamma distribution?"
-    }
-  ]
+  "category": "Beach Sunset",
+  "theme": "beach",
+  "category_id": "beach_sunset",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This is the time when the sun goes down below the horizon",
+        "correctQuestion": "What is sunset?",
+        "value": 100
+      },
+      {
+        "clue": "The main color you see during a beautiful sunset",
+        "correctQuestion": "What is orange?",
+        "value": 100
+      },
+      {
+        "clue": "The body of water beside a beach",
+        "correctQuestion": "What is the ocean?",
+        "value": 100
+      },
+      {
+        "clue": "Another common color seen in sunsets besides orange",
+        "correctQuestion": "What is pink?",
+        "value": 100
+      },
+      {
+        "clue": "The sandy area where the ocean meets the land",
+        "correctQuestion": "What is a beach?",
+        "value": 100
+      },
+      {
+        "clue": "Walking along the shore with your feet in the sand",
+        "correctQuestion": "What is taking a walk on the beach?",
+        "value": 100
+      },
+      {
+        "clue": "Sitting and looking at the ocean view",
+        "correctQuestion": "What is relaxing?",
+        "value": 100
+      },
+      {
+        "clue": "Taking pictures with a camera at sunset",
+        "correctQuestion": "What is photography?",
+        "value": 100
+      },
+      {
+        "clue": "Having a meal outdoors on the beach",
+        "correctQuestion": "What is a picnic?",
+        "value": 100
+      },
+      {
+        "clue": "Swimming in the ocean during the evening",
+        "correctQuestion": "What is swimming?",
+        "value": 100
+      },
+      {
+        "clue": "Thin, wispy clouds that often look beautiful at sunset",
+        "correctQuestion": "What are cirrus clouds?",
+        "value": 100
+      },
+      {
+        "clue": "The part of the day right after sunset",
+        "correctQuestion": "What is dusk or twilight?",
+        "value": 100
+      },
+      {
+        "clue": "A time when you might see a beautiful sunset without clouds",
+        "correctQuestion": "What is a clear day?",
+        "value": 100
+      },
+      {
+        "clue": "Particles in the air that can make sunsets more colorful",
+        "correctQuestion": "What is dust or pollution?",
+        "value": 100
+      },
+      {
+        "clue": "The glow in the western sky during sunset",
+        "correctQuestion": "What is the afterglow?",
+        "value": 100
+      },
+      {
+        "clue": "You wear this to protect your eyes from the sun",
+        "correctQuestion": "What are sunglasses?",
+        "value": 100
+      },
+      {
+        "clue": "A device used to capture sunset pictures",
+        "correctQuestion": "What is a camera?",
+        "value": 100
+      },
+      {
+        "clue": "Something you sit on at the beach",
+        "correctQuestion": "What is a beach chair?",
+        "value": 100
+      },
+      {
+        "clue": "This fabric provides shade from the sun",
+        "correctQuestion": "What is an umbrella?",
+        "value": 100
+      },
+      {
+        "clue": "A blanket you spread on the sand",
+        "correctQuestion": "What is a beach towel?",
+        "value": 100
+      },
+      {
+        "clue": "The act of celebrating the end of the day at the beach",
+        "correctQuestion": "What is watching the sunset?",
+        "value": 100
+      },
+      {
+        "clue": "A social gathering at the beach during evening hours",
+        "correctQuestion": "What is a beach party?",
+        "value": 100
+      },
+      {
+        "clue": "Holding hands with someone while watching the sunset",
+        "correctQuestion": "What is romantic?",
+        "value": 100
+      },
+      {
+        "clue": "Making a special wish as the sun goes down",
+        "correctQuestion": "What is making a wish?",
+        "value": 100
+      },
+      {
+        "clue": "Spending time with family at the beach",
+        "correctQuestion": "What is quality time?",
+        "value": 100
+      },
+      {
+        "clue": "Birds that fly over the beach at sunset",
+        "correctQuestion": "What are seagulls?",
+        "value": 100
+      },
+      {
+        "clue": "Small creatures that live in the sand",
+        "correctQuestion": "What are crabs?",
+        "value": 100
+      },
+      {
+        "clue": "Shells found on the beach that visitors collect",
+        "correctQuestion": "What are seashells?",
+        "value": 100
+      },
+      {
+        "clue": "The waves that roll onto the shore",
+        "correctQuestion": "What are ocean waves?",
+        "value": 100
+      },
+      {
+        "clue": "The steady sound at the beach that many find peaceful",
+        "correctQuestion": "What is the sound of waves?",
+        "value": 100
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The scientific reason why sunsets appear red and orange",
+        "correctQuestion": "What is Rayleigh scattering?",
+        "value": 200
+      },
+      {
+        "clue": "This celestial body appears in the sky after sunset during twilight",
+        "correctQuestion": "What is the moon?",
+        "value": 200
+      },
+      {
+        "clue": "The layer of Earth's atmosphere where most sunsets occur",
+        "correctQuestion": "What is the troposphere?",
+        "value": 200
+      },
+      {
+        "clue": "Light scattered at longer wavelengths appears this color",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "The point where the sun meets the horizon",
+        "correctQuestion": "What is the horizon?",
+        "value": 200
+      },
+      {
+        "clue": "The direction the sun sets",
+        "correctQuestion": "What is west?",
+        "value": 200
+      },
+      {
+        "clue": "Beaches on this coast of the USA get west-facing sunsets",
+        "correctQuestion": "What is the Pacific coast?",
+        "value": 200
+      },
+      {
+        "clue": "Famous Florida beach known for beautiful sunsets",
+        "correctQuestion": "What is Clearwater Beach?",
+        "value": 200
+      },
+      {
+        "clue": "This island state is famous for tropical sunsets",
+        "correctQuestion": "What is Hawaii?",
+        "value": 200
+      },
+      {
+        "clue": "Mediterranean beaches offer sunsets over water in this direction",
+        "correctQuestion": "What is west?",
+        "value": 200
+      },
+      {
+        "clue": "The best time window to photograph a sunset",
+        "correctQuestion": "What is the golden hour?",
+        "value": 200
+      },
+      {
+        "clue": "A camera setting that controls how much light enters",
+        "correctQuestion": "What is aperture?",
+        "value": 200
+      },
+      {
+        "clue": "You should use a low ISO and fast film speed to reduce this",
+        "correctQuestion": "What is grain or noise?",
+        "value": 200
+      },
+      {
+        "clue": "A composition technique using lines in the sunset photo",
+        "correctQuestion": "What is rule of thirds?",
+        "value": 200
+      },
+      {
+        "clue": "You need this device to keep your camera steady during sunset photography",
+        "correctQuestion": "What is a tripod?",
+        "value": 200
+      },
+      {
+        "clue": "The rarest color to see in a sunset, sometimes appearing as a green flash",
+        "correctQuestion": "What is green?",
+        "value": 200
+      },
+      {
+        "clue": "This metal in the upper atmosphere can create purple sunsets",
+        "correctQuestion": "What is magnesium?",
+        "value": 200
+      },
+      {
+        "clue": "A dramatic red or blood-red sunset may indicate this weather pattern",
+        "correctQuestion": "What is a storm approaching?",
+        "value": 200
+      },
+      {
+        "clue": "The colors of the sunset shift from warm to cool in this order",
+        "correctQuestion": "What is orange to red to purple?",
+        "value": 200
+      },
+      {
+        "clue": "A pale, washed-out sunset may indicate this in the atmosphere",
+        "correctQuestion": "What is high humidity or haze?",
+        "value": 200
+      },
+      {
+        "clue": "Creating art on the beach as the sun sets",
+        "correctQuestion": "What is sand art?",
+        "value": 200
+      },
+      {
+        "clue": "Running or jogging along the beach at sunset",
+        "correctQuestion": "What is beach running?",
+        "value": 200
+      },
+      {
+        "clue": "Playing games with a ball on the beach",
+        "correctQuestion": "What is beach volleyball or beach ball games?",
+        "value": 200
+      },
+      {
+        "clue": "Riding these on the water at sunset requires a board",
+        "correctQuestion": "What is surfing?",
+        "value": 200
+      },
+      {
+        "clue": "Peaceful practice often done facing the sunset at the beach",
+        "correctQuestion": "What is yoga?",
+        "value": 200
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "The optical phenomenon where the sun appears to flatten near the horizon",
+        "correctQuestion": "What is the solar flattening or oblate spheroid effect?",
+        "value": 300
+      },
+      {
+        "clue": "The atmospheric refraction that delays the actual sunset by this many minutes",
+        "correctQuestion": "What is approximately 2-3 minutes?",
+        "value": 300
+      },
+      {
+        "clue": "The angle at which light must pass through the atmosphere for sunset colors",
+        "correctQuestion": "What is more than 90 degrees from the observer?",
+        "value": 300
+      },
+      {
+        "clue": "Volcanic ash and aerosols can intensify sunset colors by scattering this",
+        "correctQuestion": "What is light?",
+        "value": 300
+      },
+      {
+        "clue": "The percentage of Earth's atmosphere that affects sunset coloring",
+        "correctQuestion": "What is 99 percent?",
+        "value": 300
+      },
+      {
+        "clue": "The ancient Roman goddess associated with sunsets and evening",
+        "correctQuestion": "What is Vesper?",
+        "value": 300
+      },
+      {
+        "clue": "In Japanese culture, sunset viewing is called this",
+        "correctQuestion": "What is 'yuuhi'?",
+        "value": 300
+      },
+      {
+        "clue": "This painting by William Turner depicts a dramatic sunset at sea",
+        "correctQuestion": "What is 'The Fighting Temeraire'?",
+        "value": 300
+      },
+      {
+        "clue": "Many cultures believe sunset marks the transition from day to this",
+        "correctQuestion": "What is night or the spirit world?",
+        "value": 300
+      },
+      {
+        "clue": "The Hindu prayer ritual often performed at sunset",
+        "correctQuestion": "What is Aarti?",
+        "value": 300
+      },
+      {
+        "clue": "The area between high and low tide marks on a beach",
+        "correctQuestion": "What is the intertidal zone?",
+        "value": 300
+      },
+      {
+        "clue": "These creatures are most active during sunset hours on the beach",
+        "correctQuestion": "What are nocturnal animals?",
+        "value": 300
+      },
+      {
+        "clue": "The process by which sea turtles return to shore at dusk",
+        "correctQuestion": "What is nesting?",
+        "value": 300
+      },
+      {
+        "clue": "The protective layer of algae found on beach sand",
+        "correctQuestion": "What is microbial mat or biofilm?",
+        "value": 300
+      },
+      {
+        "clue": "Organisms that feed at twilight when predators are less active",
+        "correctQuestion": "What is crepuscular fauna?",
+        "value": 300
+      },
+      {
+        "clue": "The season when sunsets occur latest in the day",
+        "correctQuestion": "What is summer?",
+        "value": 300
+      },
+      {
+        "clue": "The equinox when sunset occurs at approximately 6 PM worldwide",
+        "correctQuestion": "What is the spring or fall equinox?",
+        "value": 300
+      },
+      {
+        "clue": "In winter, sunsets at northern beaches occur at this approximate time",
+        "correctQuestion": "What is around 4-5 PM?",
+        "value": 300
+      },
+      {
+        "clue": "The difference in sunset time between summer and winter at northern latitudes",
+        "correctQuestion": "What is approximately 2-3 hours?",
+        "value": 300
+      },
+      {
+        "clue": "Near the equator, sunsets occur at roughly this time year-round",
+        "correctQuestion": "What is 6 PM or 18:00?",
+        "value": 300
+      },
+      {
+        "clue": "The red-orange glow that remains after the sun dips below the horizon",
+        "correctQuestion": "What is the alpenglow or afterglow?",
+        "value": 300
+      },
+      {
+        "clue": "This rare optical event occurs when sunset light creates a green flash",
+        "correctQuestion": "What is green flash?",
+        "value": 300
+      },
+      {
+        "clue": "The shadow cast by Earth visible in the eastern sky at sunset",
+        "correctQuestion": "What is Earth's shadow or the belt of Venus?",
+        "value": 300
+      },
+      {
+        "clue": "The pink or purple band between the darkening sky and sunset colors",
+        "correctQuestion": "What is the belt of Venus?",
+        "value": 300
+      },
+      {
+        "clue": "An unusual halo effect sometimes visible around the setting sun",
+        "correctQuestion": "What is a 22-degree halo or sun halo?",
+        "value": 300
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The wavelength of light inversely related to scattering intensity in sunsets",
+        "correctQuestion": "What is Rayleigh's law of proportionality (wavelength to the fourth power)?",
+        "value": 400
+      },
+      {
+        "clue": "The distance light travels through the atmosphere at sunset vs noon",
+        "correctQuestion": "What is 38 times longer?",
+        "value": 400
+      },
+      {
+        "clue": "The refractive index change in the atmosphere causes this phenomenon at sunset",
+        "correctQuestion": "What is atmospheric refraction or optical distortion?",
+        "value": 400
+      },
+      {
+        "clue": "The critical angle at which total internal reflection occurs in water droplets",
+        "correctQuestion": "What is Brewster's angle?",
+        "value": 400
+      },
+      {
+        "clue": "Polarized light created by this scattering phenomenon enhances sunset colors",
+        "correctQuestion": "What is Mie scattering?",
+        "value": 400
+      },
+      {
+        "clue": "Particulate matter smaller than 2.5 micrometers affects sunset appearance this way",
+        "correctQuestion": "What is PM2.5 or fine particulate matter?",
+        "value": 400
+      },
+      {
+        "clue": "The dew point relative to air temperature affects this sunset characteristic",
+        "correctQuestion": "What is cloud formation and moisture content?",
+        "value": 400
+      },
+      {
+        "clue": "Stratospheric aerosols from this type of event intensify sunset colors",
+        "correctQuestion": "What is volcanic eruptions?",
+        "value": 400
+      },
+      {
+        "clue": "High-altitude cirrus clouds with ice crystals create this sunset phenomenon",
+        "correctQuestion": "What is nacreous clouds or mother-of-pearl clouds?",
+        "value": 400
+      },
+      {
+        "clue": "The aerosol optical depth index measures this during sunset",
+        "correctQuestion": "What is atmospheric turbidity or atmospheric opacity?",
+        "value": 400
+      },
+      {
+        "clue": "The bracketing technique using multiple exposures to capture sunset dynamics",
+        "correctQuestion": "What is exposure bracketing?",
+        "value": 400
+      },
+      {
+        "clue": "Long exposure photography at sunset requires this much reduction in light",
+        "correctQuestion": "What is multiple stops (typically ND filter)?",
+        "value": 400
+      },
+      {
+        "clue": "The color space that provides optimal gamut for sunset color reproduction",
+        "correctQuestion": "What is Adobe RGB or ProPhoto RGB?",
+        "value": 400
+      },
+      {
+        "clue": "The histogram pattern for properly exposed sunset photographs",
+        "correctQuestion": "What is a bimodal distribution?",
+        "value": 400
+      },
+      {
+        "clue": "The RAW file format advantage for sunset photography post-processing",
+        "correctQuestion": "What is greater dynamic range and white balance flexibility?",
+        "value": 400
+      },
+      {
+        "clue": "The Sun's angular distance below the horizon during civil twilight",
+        "correctQuestion": "What is 6 degrees?",
+        "value": 400
+      },
+      {
+        "clue": "During nautical twilight, the sun is this many degrees below the horizon",
+        "correctQuestion": "What is 12 degrees?",
+        "value": 400
+      },
+      {
+        "clue": "The equation of time correction affects sunset timing by this maximum amount",
+        "correctQuestion": "What is approximately 16 minutes?",
+        "value": 400
+      },
+      {
+        "clue": "The precession of Earth's axis causes sunset positions to shift this direction",
+        "correctQuestion": "What is northward and southward over 26,000 years?",
+        "value": 400
+      },
+      {
+        "clue": "At the summer solstice in the Northern Hemisphere, sunset occurs at this bearing",
+        "correctQuestion": "What is northwest (approximately 300 degrees)?",
+        "value": 400
+      },
+      {
+        "clue": "The ancient structure aligned to track sunset positions across the year",
+        "correctQuestion": "What is Stonehenge?",
+        "value": 400
+      },
+      {
+        "clue": "Leonardo da Vinci documented this optical phenomenon at sunset in his notebooks",
+        "correctQuestion": "What is atmospheric refraction and color diffusion?",
+        "value": 400
+      },
+      {
+        "clue": "The year Krakatoa eruption caused vivid red sunsets worldwide",
+        "correctQuestion": "What is 1883?",
+        "value": 400
+      },
+      {
+        "clue": "The 1815 eruption of Mount Tambora created sunsets visible from this many miles",
+        "correctQuestion": "What is thousands of miles away?",
+        "value": 400
+      },
+      {
+        "clue": "The Russian artist who was famous for painting dramatic sunset landscapes",
+        "correctQuestion": "What is Ivan Aivazovsky?",
+        "value": 400
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "The optical depth parameter tau increases by this factor during dusty sunset conditions",
+        "correctQuestion": "What is logarithmic or exponential increase?",
+        "value": 500
+      },
+      {
+        "clue": "The phase function in Mie scattering theory affects sunset colors through this variable",
+        "correctQuestion": "What is scattering angle or size parameter?",
+        "value": 500
+      },
+      {
+        "clue": "Lidar measurements of aerosol backscatter at sunset reveal this atmospheric property",
+        "correctQuestion": "What is aerosol layer structure or vertical distribution?",
+        "value": 500
+      },
+      {
+        "clue": "The aerosol single-scattering albedo at sunset determines this characteristic",
+        "correctQuestion": "What is the color and brightness of the sunset?",
+        "value": 500
+      },
+      {
+        "clue": "The contribution of organic aerosol to total atmospheric aerosol at sunset",
+        "correctQuestion": "What is approximately 50-70 percent?",
+        "value": 500
+      },
+      {
+        "clue": "The instrument used to measure spectral irradiance during sunset in research",
+        "correctQuestion": "What is a spectroradiometer or spectrophotometer?",
+        "value": 500
+      },
+      {
+        "clue": "The peak wavelength shift from blue to red during sunset follows this law",
+        "correctQuestion": "What is Wien's displacement law?",
+        "value": 500
+      },
+      {
+        "clue": "The color rendering index value affected by sunset light composition",
+        "correctQuestion": "What is CRI or color temperature dependent?",
+        "value": 500
+      },
+      {
+        "clue": "The chromaticity coordinates in the CIE color space for sunset illuminant",
+        "correctQuestion": "What is (0.327, 0.348) approximately for standard illuminant A?",
+        "value": 500
+      },
+      {
+        "clue": "The photopic luminous efficacy of radiation at sunset wavelengths",
+        "correctQuestion": "What is approximately 200-300 lumens per watt?",
+        "value": 500
+      },
+      {
+        "clue": "The differential equation governing radiative transfer in the sunset atmosphere",
+        "correctQuestion": "What is the radiative transfer equation?",
+        "value": 500
+      },
+      {
+        "clue": "The Monte Carlo method application to model sunset light scattering involves this many photon paths",
+        "correctQuestion": "What is millions to billions?",
+        "value": 500
+      },
+      {
+        "clue": "The numerical solution method for integro-differential equations in sunset modeling",
+        "correctQuestion": "What is discrete ordinates or spherical harmonics expansion?",
+        "value": 500
+      },
+      {
+        "clue": "The kernel function in the Fredholm integral equation for sunset radiance calculation",
+        "correctQuestion": "What is the phase function times scattering coefficient?",
+        "value": 500
+      },
+      {
+        "clue": "The asymptotic behavior of radiance at sunset requires this approximation method",
+        "correctQuestion": "What is the diffusion approximation or small angle approximation?",
+        "value": 500
+      },
+      {
+        "clue": "The impact of increased aerosol concentrations on sunset brightness over decades",
+        "correctQuestion": "What is dimming effect or global dimming?",
+        "value": 500
+      },
+      {
+        "clue": "The relationship between atmospheric CO2 levels and sunset color intensity",
+        "correctQuestion": "What is indirect through cloud formation and humidity?",
+        "value": 500
+      },
+      {
+        "clue": "The sulfate aerosol indirect effect from industrial emissions on sunsets",
+        "correctQuestion": "What is enhanced cloud albedo and modified sunset appearance?",
+        "value": 500
+      },
+      {
+        "clue": "The contribution of anthropogenic black carbon aerosol to sunset darkening",
+        "correctQuestion": "What is approximately 0.25 to 0.50 watts per square meter?",
+        "value": 500
+      },
+      {
+        "clue": "The modeling uncertainty in predicting future sunset colors due to this factor",
+        "correctQuestion": "What is aerosol emission scenarios and natural variability?",
+        "value": 500
+      },
+      {
+        "clue": "The photon energy distribution in sunset light follows this quantum statistical distribution",
+        "correctQuestion": "What is Planck's law or blackbody radiation distribution?",
+        "value": 600
+      },
+      {
+        "clue": "The quantum mechanical cross-section for Rayleigh scattering varies with frequency raised to this power",
+        "correctQuestion": "What is the fourth power (f^4)?",
+        "value": 600
+      },
+      {
+        "clue": "The coherence length of scattered sunset photons in the atmosphere",
+        "correctQuestion": "What is on the order of micrometers?",
+        "value": 600
+      },
+      {
+        "clue": "The spin-orbit interaction of photons in aerosol particles creates this effect in sunset light",
+        "correctQuestion": "What is orbital angular momentum or OAM?",
+        "value": 600
+      },
+      {
+        "clue": "The quantum entanglement properties of photon pairs from sunset light correlation studies",
+        "correctQuestion": "What is two-photon absorption cross-section or g^2 correlation?",
+        "value": 600
+      },
+      {
+        "clue": "The second harmonic generation efficiency in sunset aerosol particles at this wavelength range",
+        "correctQuestion": "What is ultraviolet or UV?",
+        "value": 600
+      },
+      {
+        "clue": "The nonlinear refractive index change in atmosphere during intense sunset illumination",
+        "correctQuestion": "What is Kerr effect or self-phase modulation?",
+        "value": 600
+      },
+      {
+        "clue": "The optical Stark effect modulation of atomic transitions in sunset light",
+        "correctQuestion": "What is ac Stark shift?",
+        "value": 600
+      },
+      {
+        "clue": "The three-photon ionization process in upper atmosphere during sunset conditions",
+        "correctQuestion": "What is multiphoton absorption?",
+        "value": 600
+      },
+      {
+        "clue": "The parametric amplification of sunset photons through this nonlinear crystal process",
+        "correctQuestion": "What is optical parametric amplification or OPA?",
+        "value": 600
+      },
+      {
+        "clue": "The spectral resolution required for high-fidelity sunset color imaging in nanometers",
+        "correctQuestion": "What is 1-5 nanometers?",
+        "value": 600
+      },
+      {
+        "clue": "The principal component analysis of hyperspectral sunset data reveals this many independent color modes",
+        "correctQuestion": "What is typically 3-5 principal components?",
+        "value": 600
+      },
+      {
+        "clue": "The unmixing algorithm for endmember identification in sunset aerosol spectroscopy",
+        "correctQuestion": "What is linear spectral unmixing or constrained optimization?",
+        "value": 600
+      },
+      {
+        "clue": "The machine learning approach using this method for sunset spectral classification",
+        "correctQuestion": "What is support vector machines or neural networks?",
+        "value": 600
+      },
+      {
+        "clue": "The synthetic aperture radar correlation with optical sunset data requires this preprocessing step",
+        "correctQuestion": "What is atmospheric correction or radiometric calibration?",
+        "value": 600
+      },
+      {
+        "clue": "The fractal dimension of sea salt aerosol particles affecting sunset light scattering",
+        "correctQuestion": "What is between 2.0 and 3.0?",
+        "value": 600
+      },
+      {
+        "clue": "The van der Waals interactions between aerosol molecules modeled using this potential",
+        "correctQuestion": "What is Lennard-Jones potential?",
+        "value": 600
+      },
+      {
+        "clue": "The Brownian motion trajectory simulation for sunset aerosol particles uses this stochastic process",
+        "correctQuestion": "What is Langevin equations or Wiener process?",
+        "value": 600
+      },
+      {
+        "clue": "The hygroscopic growth factor of sulfate aerosol at relative humidity of 90 percent during sunset",
+        "correctQuestion": "What is approximately 2.0 to 3.0?",
+        "value": 600
+      },
+      {
+        "clue": "The critical supersaturation for cloud condensation nuclei activation in sunset conditions",
+        "correctQuestion": "What is dependent on aerosol composition and size distribution (Köhler theory)?",
+        "value": 600
+      },
+      {
+        "clue": "The Navier-Stokes equation turbulence model for sunset atmospheric circulation",
+        "correctQuestion": "What is k-epsilon or Large Eddy Simulation?",
+        "value": 600
+      },
+      {
+        "clue": "The mesh resolution requirement for resolving sunset aerosol convection at scales",
+        "correctQuestion": "What is micrometers to millimeters?",
+        "value": 600
+      },
+      {
+        "clue": "The Courant-Friedrichs-Lewy stability criterion for sunset atmospheric modeling timesteps",
+        "correctQuestion": "What is CFL less than 1?",
+        "value": 600
+      },
+      {
+        "clue": "The flux-limiting schemes used for accurate sunset color evolution in advection schemes",
+        "correctQuestion": "What is MUSCL or PPM (piecewise parabolic method)?",
+        "value": 600
+      },
+      {
+        "clue": "The adjoint method for inverse modeling of sunset observations to retrieve aerosol properties",
+        "correctQuestion": "What is backpropagation through numerical simulation?",
+        "value": 600
+      },
+      {
+        "clue": "The posterior distribution of aerosol optical depth from sunset measurements follows this form",
+        "correctQuestion": "What is multivariate normal or Gaussian distribution?",
+        "value": 600
+      },
+      {
+        "clue": "The Markov chain Monte Carlo sampler for sunset aerosol inversion uses this algorithm",
+        "correctQuestion": "What is Metropolis-Hastings or Gibbs sampling?",
+        "value": 600
+      },
+      {
+        "clue": "The variational autoencoder latent space dimension for sunset color encoding",
+        "correctQuestion": "What is typically 10-50 dimensions?",
+        "value": 600
+      },
+      {
+        "clue": "The information content in sunset spectral measurements quantified by this metric",
+        "correctQuestion": "What is Kullback-Leibler divergence or Shannon entropy?",
+        "value": 600
+      },
+      {
+        "clue": "The prior distribution specification for sunset aerosol size distribution parameters",
+        "correctQuestion": "What is lognormal or gamma distribution?",
+        "value": 600
+      }
+    ]
+  }
 }

@@ -1,724 +1,613 @@
 {
-  "title": "Beach Ocean Waves",
-  "description": "Family-friendly questions about ocean waves, tides, and wave science",
-  "difficulty_levels": [
-    "200 Points",
-    "400 Points",
-    "600 Points",
-    "800 Points",
-    "1000 Points",
-    "1200 Points"
-  ],
-  "categories": [
-    {
-      "category_name": "Wave Basics",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What is the main source of energy that creates most ocean waves?",
-          "answer": "Wind"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What do we call the highest point of a wave?",
-          "answer": "The crest"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What is the term for the distance between two wave crests?",
-          "answer": "Wavelength"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What percentage of the energy in a wave travels with the wave rather than the water itself?",
-          "answer": "100 percent (or all of it)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the technical term for the lowest point of a wave?",
-          "answer": "The trough"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the pattern of elliptical motion that water particles make as a wave passes?",
-          "answer": "Orbital motion"
-        }
-      ]
-    },
-    {
-      "category_name": "Wave Characteristics",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What do we call the speed at which a wave moves across the water?",
-          "answer": "Wave speed (or wave velocity)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "How many times per second does a typical ocean wave crest move up and down?",
-          "answer": "About one to two times (or between 0.5 and 2 Hz)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What is the name of the vertical distance from the trough to the crest of a wave?",
-          "answer": "Wave height (or amplitude)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What term describes waves that form when wind blows over an already wavy sea surface?",
-          "answer": "Swell"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the relationship between wavelength, wave speed, and frequency called?",
-          "answer": "The wave equation (or dispersion relation)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What physical principle explains why water particles return to their original position after a wave passes?",
-          "answer": "Conservation of mass (or continuity)"
-        }
-      ]
-    },
-    {
-      "category_name": "Types of Waves",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What type of wave is created by underwater earthquakes?",
-          "answer": "A tsunami"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What are waves caused by the Moon and Sun's gravitational pull called?",
-          "answer": "Tides"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What do we call the small, choppy waves created by local wind?",
-          "answer": "Chop (or wind waves or sea)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the technical name for internal waves that occur beneath the ocean surface?",
-          "answer": "Internal waves (or interfacial waves)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What do we call the phenomenon where waves bend around obstacles?",
-          "answer": "Diffraction"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the very large waves caused by strong wind flowing off a glacier?",
-          "answer": "Katabatic waves (or gravity waves)"
-        }
-      ]
-    },
-    {
-      "category_name": "Tides and Moon Effects",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "How many times does the ocean typically have high tide per day?",
-          "answer": "Two (or twice)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What do we call the time between high tides?",
-          "answer": "About 12 hours and 25 minutes (accept 12 hours)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "When the Sun and Moon are aligned with Earth, which type of tide occurs?",
-          "answer": "Spring tide"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What causes spring tides to be higher than neap tides?",
-          "answer": "The gravitational forces of the Sun and Moon combine (or add together)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the name of the point on Earth closest to the Moon during its orbit?",
-          "answer": "Perigee"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the technical term for the tidal effect created when the Moon is at right angles to the Sun?",
-          "answer": "Neap tide"
-        }
-      ]
-    },
-    {
-      "category_name": "Wave Behavior",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What happens to a wave when it reaches shallow water near the beach?",
-          "answer": "It slows down (or breaks, or gets taller)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What do we call the white foamy water created when a wave breaks on the beach?",
-          "answer": "Surf (or foam, or whitewater)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What is the name of the calm channel through which water returns to the ocean after waves break?",
-          "answer": "Rip current (or undertow)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What phenomenon occurs when waves pass through a narrow opening and bend outward?",
-          "answer": "Diffraction"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the name of the angle at which a wave's direction changes when moving from one medium to another?",
-          "answer": "Refraction angle"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the technical term for waves that interfere constructively to create larger waves?",
-          "answer": "Superposition (or constructive interference)"
-        }
-      ]
-    },
-    {
-      "category_name": "Beach and Coastal Effects",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What do we call the sandy area along the shore where waves break?",
-          "answer": "The beach (or shore, or coast)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What natural barrier protects beaches from large waves?",
-          "answer": "A reef (or breakwater, or barrier)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What is the process by which waves gradually wear away rocks and cliffs called?",
-          "answer": "Erosion"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What do we call the underwater ridge of sand or rock near the coast that waves break over?",
-          "answer": "A sandbar (or offshore bar)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the name of the curved beach formation created by wave refraction around a headland?",
-          "answer": "A cove (or bay)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What geological feature forms when waves carve away softer rock, leaving harder rock behind?",
-          "answer": "A sea arch (or sea stack, or wave-cut platform)"
-        }
-      ]
-    },
-    {
-      "category_name": "Ocean Wave Measurements",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What unit do we typically use to measure ocean wave height?",
-          "answer": "Feet (or meters)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What is the average wave height for typical ocean waves?",
-          "answer": "Between 2 and 10 feet (or 1 to 3 meters)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "How do scientists measure the frequency of waves passing a point?",
-          "answer": "In waves per second (or hertz)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the typical range of ocean wave frequencies?",
-          "answer": "0.05 to 0.5 hertz (accept 0.04 to 1.0 hertz)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What method do oceanographers use to calculate average wave height from wave spectrum data?",
-          "answer": "Significant wave height (or Hs)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the statistical measure representing the average of the highest one-third of waves?",
-          "answer": "Significant wave height"
-        }
-      ]
-    },
-    {
-      "category_name": "Wave Formation",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "How long does wind need to blow across the water to create waves?",
-          "answer": "At least a few minutes (or several hours for larger waves)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What is the name of the area where wind creates waves on the ocean?",
-          "answer": "The fetch"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "How does wave height increase as fetch increases?",
-          "answer": "Larger fetch creates taller waves"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the primary factor that determines how quickly waves travel across the ocean?",
-          "answer": "Water depth"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the mathematical relationship between wavelength and water depth for shallow water waves?",
-          "answer": "Wavelength equals two times the water depth (2D)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the transitional zone where wave behavior changes from deep to shallow water?",
-          "answer": "Intermediate depth (or the transition zone)"
-        }
-      ]
-    },
-    {
-      "category_name": "Water Movement in Waves",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "Do water particles in a wave move forward with the wave?",
-          "answer": "No (they move in circles and return to their starting position)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "How deep do you have to go for water particles to stop moving as a wave passes?",
-          "answer": "About half the wavelength (or until depth = wavelength/2)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What is the name of the motion that water particles make as they move around in a circle?",
-          "answer": "Orbital motion"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "In shallow water, how does the shape of a particle's orbit change compared to deep water?",
-          "answer": "It becomes more elliptical (flattened horizontally)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the relationship between particle velocity and wave speed in the deep ocean?",
-          "answer": "Particle velocity is much smaller than wave speed"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What physical principle explains why water particles return to rest after a wave passes through?",
-          "answer": "Energy conservation (or Newton's third law)"
-        }
-      ]
-    },
-    {
-      "category_name": "Breaking Waves",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What causes a wave to break when it reaches the shore?",
-          "answer": "The water becomes too shallow (or friction with the bottom)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "At what ratio of wave height to water depth do most waves break?",
-          "answer": "About 3 to 4 (or 3:4 or when height equals about 3/4 of depth)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What type of breaking wave forms a hollow tube that surfers love?",
-          "answer": "A barrel (or tubular wave, or plunging wave)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the technical term for a gently breaking wave that spills its energy gradually?",
-          "answer": "A spilling breaker"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What physical process causes the crest of a wave to overtake the trough when water gets shallow?",
-          "answer": "Shoaling (or wave steepening)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the relationship between the Iribarren number and the type of wave break that occurs?",
-          "answer": "It determines whether breaking is spilling, plunging, or surging"
-        }
-      ]
-    },
-    {
-      "category_name": "Wave Energy",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What happens to the kinetic energy in a wave as it breaks on the beach?",
-          "answer": "It is converted to heat and sound"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What source of renewable energy comes from ocean waves?",
-          "answer": "Wave energy (or tidal energy, or water power)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "How much of the total energy in a wave is stored in the water's motion?",
-          "answer": "About 50 percent (or half)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the primary advantage of wave energy compared to wind or solar energy?",
-          "answer": "It is more predictable and consistent (or has higher energy density)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the mathematical relationship between wave energy and wave height?",
-          "answer": "Energy is proportional to the square of wave height"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the energy flux in waves, measured as power per unit width?",
-          "answer": "Wave power (or energy flux)"
-        }
-      ]
-    },
-    {
-      "category_name": "Storm Waves and Tsunamis",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What type of storm creates the largest ocean waves?",
-          "answer": "A hurricane (or typhoon, or cyclone)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "How tall can waves become during a severe storm?",
-          "answer": "Over 50 feet (or 15 meters or more)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What natural event typically causes a tsunami?",
-          "answer": "An underwater earthquake (or undersea volcano, or landslide)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "How fast can a tsunami travel across the ocean?",
-          "answer": "500 miles per hour (or 800 kilometers per hour)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the key difference between tsunami waves and regular wind-driven ocean waves?",
-          "answer": "Tsunamis have very long wavelengths and slower wave heights in deep water"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What warning system uses wave detection technology to alert coastal communities of tsunamis?",
-          "answer": "The Pacific Tsunami Warning Center (or deep-ocean assessment and reporting of tsunamis)"
-        }
-      ]
-    },
-    {
-      "category_name": "Wave Science and Physics",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What famous physicist developed the wave equation that describes ocean waves?",
-          "answer": "Jean d'Alembert (or Leonhard Euler)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What do we call the bending of a wave's path as it enters shallower water?",
-          "answer": "Refraction"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What law of physics describes how the angle of refraction relates to the angle of incidence?",
-          "answer": "Snell's law (or the law of refraction)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the name of the boundary layer where water particles move in both circular and linear patterns?",
-          "answer": "The transition zone (or intermediate depth)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the technical name for the equation that describes wave propagation in fluids?",
-          "answer": "The Navier-Stokes equation (or wave equation)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the principle that allows us to treat each frequency component of waves independently?",
-          "answer": "Superposition principle (or linear superposition)"
-        }
-      ]
-    },
-    {
-      "category_name": "Tide-Related Phenomena",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What is the lowest point of the tide called?",
-          "answer": "Low tide"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What is the highest point of the tide called?",
-          "answer": "High tide"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "How long is a complete tidal cycle from high tide to high tide?",
-          "answer": "About 24 hours and 50 minutes"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the name of the water level difference between high and low tide?",
-          "answer": "Tidal range (or tidal amplitude)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What body in our solar system has the strongest gravitational effect on Earth's tides?",
-          "answer": "The Moon"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the tidal bore, a large wave that travels upstream in rivers with extreme tides?",
-          "answer": "A tidal bore (or tidal wave, or eagre)"
-        }
-      ]
-    },
-    {
-      "category_name": "Coastal Hazards",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What is the term for strong currents that flow away from the beach perpendicular to the shore?",
-          "answer": "A rip current (or riptide)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What is the primary danger of a rip current to swimmers?",
-          "answer": "It pulls swimmers away from shore"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What is the safest way to escape from a rip current?",
-          "answer": "Swim parallel to the shore (or perpendicular to the rip)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What coastal hazard involves waves converging and creating unusually large waves?",
-          "answer": "Wave interference (or convergence, or cross-seas)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the technical term for a large, solitary wave created by wave interference?",
-          "answer": "A rogue wave (or freak wave)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What phenomenon causes wave heights to increase dramatically when multiple wave trains converge?",
-          "answer": "Constructive interference (or wave superposition)"
-        }
-      ]
-    },
-    {
-      "category_name": "Marine Life and Waves",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What marine animal uses wave motion to detect nearby food sources?",
-          "answer": "Sharks (or other fish, or crabs)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "How do dolphins navigate in murky water using waves?",
-          "answer": "Echolocation (or by sensing vibrations)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What sea animal is known for riding waves and using them to beach-hunt prey?",
-          "answer": "Killer whales (or orcas)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the role of wave action in distributing nutrients in the ocean?",
-          "answer": "It mixes water layers and brings nutrients to the surface"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "How do wave-powered underwater currents affect coral reef ecosystems?",
-          "answer": "They provide oxygen and nutrients to coral polyps"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the relationship between wave-induced turbulence and larval fish distribution?",
-          "answer": "Wave action affects larval dispersal and recruitment patterns"
-        }
-      ]
-    },
-    {
-      "category_name": "Wave Observation and Recording",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What instrument is used to measure wave height from a moving ship?",
-          "answer": "A wave staff (or visual observation)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What type of satellite technology can track ocean waves from space?",
-          "answer": "Radar (or microwave sensors)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What is the name of a buoy that records wave characteristics in real-time?",
-          "answer": "A wave buoy (or NDBC buoy)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What data does a wave buoy transmit to oceanographic networks?",
-          "answer": "Wave height, period, direction, and energy spectrum"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the name of the mathematical representation of wave energy at different frequencies?",
-          "answer": "Wave spectrum (or energy spectrum)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the name of the technique that uses satellite altimetry to measure significant wave height?",
-          "answer": "Radar altimetry (or SAR - Synthetic Aperture Radar)"
-        }
-      ]
-    },
-    {
-      "category_name": "Historical Wave Events",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What year did the massive 2004 Indian Ocean tsunami occur?",
-          "answer": "2004 (December 26)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What ocean was the most affected by the 2004 tsunami?",
-          "answer": "The Indian Ocean"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What was the magnitude of the earthquake that caused the 2004 tsunami?",
-          "answer": "9.1 (or 9.0)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What famous ship sank due to large waves and poor design in a 1998 storm?",
-          "answer": "The Derbyshire"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the name of the 2011 event that created devastating tsunamis in Japan?",
-          "answer": "The Tohoku earthquake and tsunami (or the 2011 Japan tsunami)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What scientific breakthrough occurred after the 2004 tsunami led to improvements in wave detection?",
-          "answer": "Development of DART (Deep-ocean Assessment and Reporting of Tsunamis)"
-        }
-      ]
-    },
-    {
-      "category_name": "Surfing and Waves",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "What type of wave is preferred by surfers for riding?",
-          "answer": "A plunging wave (or a breaking wave with a good face)"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What is the minimum wave height needed for surfing?",
-          "answer": "About 2 feet (or 0.6 meters)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "What feature of a wave determines how long a surfer can ride it?",
-          "answer": "The wave's period (or the distance between crests)"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What is the name of the perfect, hollow breaking wave that surfers dream of riding?",
-          "answer": "A barrel (or a tube, or a pipeline)"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What factor causes some beach breaks to have better-quality waves than others?",
-          "answer": "The shape of the sandbar (or beach bathymetry, or refraction patterns)"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "What is the relationship between wave direction, wind direction, and swell direction in surfing?",
-          "answer": "Offshore winds create clean, well-formed waves; onshore winds make rough conditions"
-        }
-      ]
-    },
-    {
-      "category_name": "Climate and Waves",
-      "questions": [
-        {
-          "difficulty": "200 Points",
-          "question": "How does climate change affect ocean wave patterns?",
-          "answer": "It increases average wave heights and storm intensity"
-        },
-        {
-          "difficulty": "400 Points",
-          "question": "What phenomenon increases storm surge heights?",
-          "answer": "Sea level rise (or climate change, or global warming)"
-        },
-        {
-          "difficulty": "600 Points",
-          "question": "How does warmer ocean water affect the intensity of hurricanes that create waves?",
-          "answer": "It makes hurricanes more intense and creates larger waves"
-        },
-        {
-          "difficulty": "800 Points",
-          "question": "What long-term trend is observed in ocean wave heights over the past decades?",
-          "answer": "A general increase in average wave heights"
-        },
-        {
-          "difficulty": "1000 Points",
-          "question": "What is the relationship between the Atlantic Multidecadal Oscillation and wave patterns?",
-          "answer": "It causes multi-year variations in Atlantic wave characteristics"
-        },
-        {
-          "difficulty": "1200 Points",
-          "question": "How might the melting of ice sheets affect long-term tidal patterns and wave propagation?",
-          "answer": "Sea level rise changes the wave propagation characteristics and bathymetry"
-        }
-      ]
-    }
-  ],
-  "metadata": {
-    "total_questions": 180,
-    "questions_per_difficulty": 30,
-    "difficulty_tiers": 6,
-    "point_values": [200, 400, 600, 800, 1000, 1200],
-    "theme": "Beach, Ocean Waves, and Tides",
-    "target_audience": "Family-friendly",
-    "created": "2026-01-02",
-    "format": "Jeopardy-style questions and answers"
+  "category": "Beach Ocean Waves",
+  "theme": "beach",
+  "category_id": "beach_ocean_waves",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What is the main source of energy that creates most ocean waves?",
+        "correctQuestion": "Wind",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the highest point of a wave?",
+        "correctQuestion": "The crest",
+        "value": 200
+      },
+      {
+        "clue": "What is the term for the distance between two wave crests?",
+        "correctQuestion": "Wavelength",
+        "value": 200
+      },
+      {
+        "clue": "What percentage of the energy in a wave travels with the wave rather than the water itself?",
+        "correctQuestion": "100 percent (or all of it)",
+        "value": 200
+      },
+      {
+        "clue": "What is the technical term for the lowest point of a wave?",
+        "correctQuestion": "The trough",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the pattern of elliptical motion that water particles make as a wave passes?",
+        "correctQuestion": "Orbital motion",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the speed at which a wave moves across the water?",
+        "correctQuestion": "Wave speed (or wave velocity)",
+        "value": 200
+      },
+      {
+        "clue": "How many times per second does a typical ocean wave crest move up and down?",
+        "correctQuestion": "About one to two times (or between 0.5 and 2 Hz)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the vertical distance from the trough to the crest of a wave?",
+        "correctQuestion": "Wave height (or amplitude)",
+        "value": 200
+      },
+      {
+        "clue": "What term describes waves that form when wind blows over an already wavy sea surface?",
+        "correctQuestion": "Swell",
+        "value": 200
+      },
+      {
+        "clue": "What is the relationship between wavelength, wave speed, and frequency called?",
+        "correctQuestion": "The wave equation (or dispersion relation)",
+        "value": 200
+      },
+      {
+        "clue": "What physical principle explains why water particles return to their original position after a wave passes?",
+        "correctQuestion": "Conservation of mass (or continuity)",
+        "value": 200
+      },
+      {
+        "clue": "What type of wave is created by underwater earthquakes?",
+        "correctQuestion": "A tsunami",
+        "value": 200
+      },
+      {
+        "clue": "What are waves caused by the Moon and Sun's gravitational pull called?",
+        "correctQuestion": "Tides",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the small, choppy waves created by local wind?",
+        "correctQuestion": "Chop (or wind waves or sea)",
+        "value": 200
+      },
+      {
+        "clue": "What is the technical name for internal waves that occur beneath the ocean surface?",
+        "correctQuestion": "Internal waves (or interfacial waves)",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the phenomenon where waves bend around obstacles?",
+        "correctQuestion": "Diffraction",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the very large waves caused by strong wind flowing off a glacier?",
+        "correctQuestion": "Katabatic waves (or gravity waves)",
+        "value": 200
+      },
+      {
+        "clue": "How many times does the ocean typically have high tide per day?",
+        "correctQuestion": "Two (or twice)",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the time between high tides?",
+        "correctQuestion": "About 12 hours and 25 minutes (accept 12 hours)",
+        "value": 200
+      },
+      {
+        "clue": "When the Sun and Moon are aligned with Earth, which type of tide occurs?",
+        "correctQuestion": "Spring tide",
+        "value": 200
+      },
+      {
+        "clue": "What causes spring tides to be higher than neap tides?",
+        "correctQuestion": "The gravitational forces of the Sun and Moon combine (or add together)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the point on Earth closest to the Moon during its orbit?",
+        "correctQuestion": "Perigee",
+        "value": 200
+      },
+      {
+        "clue": "What is the technical term for the tidal effect created when the Moon is at right angles to the Sun?",
+        "correctQuestion": "Neap tide",
+        "value": 200
+      },
+      {
+        "clue": "What happens to a wave when it reaches shallow water near the beach?",
+        "correctQuestion": "It slows down (or breaks, or gets taller)",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the white foamy water created when a wave breaks on the beach?",
+        "correctQuestion": "Surf (or foam, or whitewater)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the calm channel through which water returns to the ocean after waves break?",
+        "correctQuestion": "Rip current (or undertow)",
+        "value": 200
+      },
+      {
+        "clue": "What phenomenon occurs when waves pass through a narrow opening and bend outward?",
+        "correctQuestion": "Diffraction",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the angle at which a wave's direction changes when moving from one medium to another?",
+        "correctQuestion": "Refraction angle",
+        "value": 200
+      },
+      {
+        "clue": "What is the technical term for waves that interfere constructively to create larger waves?",
+        "correctQuestion": "Superposition (or constructive interference)",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the sandy area along the shore where waves break?",
+        "correctQuestion": "The beach (or shore, or coast)",
+        "value": 200
+      },
+      {
+        "clue": "What natural barrier protects beaches from large waves?",
+        "correctQuestion": "A reef (or breakwater, or barrier)",
+        "value": 200
+      },
+      {
+        "clue": "What is the process by which waves gradually wear away rocks and cliffs called?",
+        "correctQuestion": "Erosion",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the underwater ridge of sand or rock near the coast that waves break over?",
+        "correctQuestion": "A sandbar (or offshore bar)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the curved beach formation created by wave refraction around a headland?",
+        "correctQuestion": "A cove (or bay)",
+        "value": 200
+      },
+      {
+        "clue": "What geological feature forms when waves carve away softer rock, leaving harder rock behind?",
+        "correctQuestion": "A sea arch (or sea stack, or wave-cut platform)",
+        "value": 200
+      },
+      {
+        "clue": "What unit do we typically use to measure ocean wave height?",
+        "correctQuestion": "Feet (or meters)",
+        "value": 200
+      },
+      {
+        "clue": "What is the average wave height for typical ocean waves?",
+        "correctQuestion": "Between 2 and 10 feet (or 1 to 3 meters)",
+        "value": 200
+      },
+      {
+        "clue": "How do scientists measure the frequency of waves passing a point?",
+        "correctQuestion": "In waves per second (or hertz)",
+        "value": 200
+      },
+      {
+        "clue": "What is the typical range of ocean wave frequencies?",
+        "correctQuestion": "0.05 to 0.5 hertz (accept 0.04 to 1.0 hertz)",
+        "value": 200
+      },
+      {
+        "clue": "What method do oceanographers use to calculate average wave height from wave spectrum data?",
+        "correctQuestion": "Significant wave height (or Hs)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the statistical measure representing the average of the highest one-third of waves?",
+        "correctQuestion": "Significant wave height",
+        "value": 200
+      },
+      {
+        "clue": "How long does wind need to blow across the water to create waves?",
+        "correctQuestion": "At least a few minutes (or several hours for larger waves)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the area where wind creates waves on the ocean?",
+        "correctQuestion": "The fetch",
+        "value": 200
+      },
+      {
+        "clue": "How does wave height increase as fetch increases?",
+        "correctQuestion": "Larger fetch creates taller waves",
+        "value": 200
+      },
+      {
+        "clue": "What is the primary factor that determines how quickly waves travel across the ocean?",
+        "correctQuestion": "Water depth",
+        "value": 200
+      },
+      {
+        "clue": "What is the mathematical relationship between wavelength and water depth for shallow water waves?",
+        "correctQuestion": "Wavelength equals two times the water depth (2D)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the transitional zone where wave behavior changes from deep to shallow water?",
+        "correctQuestion": "Intermediate depth (or the transition zone)",
+        "value": 200
+      },
+      {
+        "clue": "Do water particles in a wave move forward with the wave?",
+        "correctQuestion": "No (they move in circles and return to their starting position)",
+        "value": 200
+      },
+      {
+        "clue": "How deep do you have to go for water particles to stop moving as a wave passes?",
+        "correctQuestion": "About half the wavelength (or until depth = wavelength/2)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the motion that water particles make as they move around in a circle?",
+        "correctQuestion": "Orbital motion",
+        "value": 200
+      },
+      {
+        "clue": "In shallow water, how does the shape of a particle's orbit change compared to deep water?",
+        "correctQuestion": "It becomes more elliptical (flattened horizontally)",
+        "value": 200
+      },
+      {
+        "clue": "What is the relationship between particle velocity and wave speed in the deep ocean?",
+        "correctQuestion": "Particle velocity is much smaller than wave speed",
+        "value": 200
+      },
+      {
+        "clue": "What physical principle explains why water particles return to rest after a wave passes through?",
+        "correctQuestion": "Energy conservation (or Newton's third law)",
+        "value": 200
+      },
+      {
+        "clue": "What causes a wave to break when it reaches the shore?",
+        "correctQuestion": "The water becomes too shallow (or friction with the bottom)",
+        "value": 200
+      },
+      {
+        "clue": "At what ratio of wave height to water depth do most waves break?",
+        "correctQuestion": "About 3 to 4 (or 3:4 or when height equals about 3/4 of depth)",
+        "value": 200
+      },
+      {
+        "clue": "What type of breaking wave forms a hollow tube that surfers love?",
+        "correctQuestion": "A barrel (or tubular wave, or plunging wave)",
+        "value": 200
+      },
+      {
+        "clue": "What is the technical term for a gently breaking wave that spills its energy gradually?",
+        "correctQuestion": "A spilling breaker",
+        "value": 200
+      },
+      {
+        "clue": "What physical process causes the crest of a wave to overtake the trough when water gets shallow?",
+        "correctQuestion": "Shoaling (or wave steepening)",
+        "value": 200
+      },
+      {
+        "clue": "What is the relationship between the Iribarren number and the type of wave break that occurs?",
+        "correctQuestion": "It determines whether breaking is spilling, plunging, or surging",
+        "value": 200
+      },
+      {
+        "clue": "What happens to the kinetic energy in a wave as it breaks on the beach?",
+        "correctQuestion": "It is converted to heat and sound",
+        "value": 200
+      },
+      {
+        "clue": "What source of renewable energy comes from ocean waves?",
+        "correctQuestion": "Wave energy (or tidal energy, or water power)",
+        "value": 200
+      },
+      {
+        "clue": "How much of the total energy in a wave is stored in the water's motion?",
+        "correctQuestion": "About 50 percent (or half)",
+        "value": 200
+      },
+      {
+        "clue": "What is the primary advantage of wave energy compared to wind or solar energy?",
+        "correctQuestion": "It is more predictable and consistent (or has higher energy density)",
+        "value": 200
+      },
+      {
+        "clue": "What is the mathematical relationship between wave energy and wave height?",
+        "correctQuestion": "Energy is proportional to the square of wave height",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the energy flux in waves, measured as power per unit width?",
+        "correctQuestion": "Wave power (or energy flux)",
+        "value": 200
+      },
+      {
+        "clue": "What type of storm creates the largest ocean waves?",
+        "correctQuestion": "A hurricane (or typhoon, or cyclone)",
+        "value": 200
+      },
+      {
+        "clue": "How tall can waves become during a severe storm?",
+        "correctQuestion": "Over 50 feet (or 15 meters or more)",
+        "value": 200
+      },
+      {
+        "clue": "What natural event typically causes a tsunami?",
+        "correctQuestion": "An underwater earthquake (or undersea volcano, or landslide)",
+        "value": 200
+      },
+      {
+        "clue": "How fast can a tsunami travel across the ocean?",
+        "correctQuestion": "500 miles per hour (or 800 kilometers per hour)",
+        "value": 200
+      },
+      {
+        "clue": "What is the key difference between tsunami waves and regular wind-driven ocean waves?",
+        "correctQuestion": "Tsunamis have very long wavelengths and slower wave heights in deep water",
+        "value": 200
+      },
+      {
+        "clue": "What warning system uses wave detection technology to alert coastal communities of tsunamis?",
+        "correctQuestion": "The Pacific Tsunami Warning Center (or deep-ocean assessment and reporting of tsunamis)",
+        "value": 200
+      },
+      {
+        "clue": "What famous physicist developed the wave equation that describes ocean waves?",
+        "correctQuestion": "Jean d'Alembert (or Leonhard Euler)",
+        "value": 200
+      },
+      {
+        "clue": "What do we call the bending of a wave's path as it enters shallower water?",
+        "correctQuestion": "Refraction",
+        "value": 200
+      },
+      {
+        "clue": "What law of physics describes how the angle of refraction relates to the angle of incidence?",
+        "correctQuestion": "Snell's law (or the law of refraction)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the boundary layer where water particles move in both circular and linear patterns?",
+        "correctQuestion": "The transition zone (or intermediate depth)",
+        "value": 200
+      },
+      {
+        "clue": "What is the technical name for the equation that describes wave propagation in fluids?",
+        "correctQuestion": "The Navier-Stokes equation (or wave equation)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the principle that allows us to treat each frequency component of waves independently?",
+        "correctQuestion": "Superposition principle (or linear superposition)",
+        "value": 200
+      },
+      {
+        "clue": "What is the lowest point of the tide called?",
+        "correctQuestion": "Low tide",
+        "value": 200
+      },
+      {
+        "clue": "What is the highest point of the tide called?",
+        "correctQuestion": "High tide",
+        "value": 200
+      },
+      {
+        "clue": "How long is a complete tidal cycle from high tide to high tide?",
+        "correctQuestion": "About 24 hours and 50 minutes",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the water level difference between high and low tide?",
+        "correctQuestion": "Tidal range (or tidal amplitude)",
+        "value": 200
+      },
+      {
+        "clue": "What body in our solar system has the strongest gravitational effect on Earth's tides?",
+        "correctQuestion": "The Moon",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the tidal bore, a large wave that travels upstream in rivers with extreme tides?",
+        "correctQuestion": "A tidal bore (or tidal wave, or eagre)",
+        "value": 200
+      },
+      {
+        "clue": "What is the term for strong currents that flow away from the beach perpendicular to the shore?",
+        "correctQuestion": "A rip current (or riptide)",
+        "value": 200
+      },
+      {
+        "clue": "What is the primary danger of a rip current to swimmers?",
+        "correctQuestion": "It pulls swimmers away from shore",
+        "value": 200
+      },
+      {
+        "clue": "What is the safest way to escape from a rip current?",
+        "correctQuestion": "Swim parallel to the shore (or perpendicular to the rip)",
+        "value": 200
+      },
+      {
+        "clue": "What coastal hazard involves waves converging and creating unusually large waves?",
+        "correctQuestion": "Wave interference (or convergence, or cross-seas)",
+        "value": 200
+      },
+      {
+        "clue": "What is the technical term for a large, solitary wave created by wave interference?",
+        "correctQuestion": "A rogue wave (or freak wave)",
+        "value": 200
+      },
+      {
+        "clue": "What phenomenon causes wave heights to increase dramatically when multiple wave trains converge?",
+        "correctQuestion": "Constructive interference (or wave superposition)",
+        "value": 200
+      },
+      {
+        "clue": "What marine animal uses wave motion to detect nearby food sources?",
+        "correctQuestion": "Sharks (or other fish, or crabs)",
+        "value": 200
+      },
+      {
+        "clue": "How do dolphins navigate in murky water using waves?",
+        "correctQuestion": "Echolocation (or by sensing vibrations)",
+        "value": 200
+      },
+      {
+        "clue": "What sea animal is known for riding waves and using them to beach-hunt prey?",
+        "correctQuestion": "Killer whales (or orcas)",
+        "value": 200
+      },
+      {
+        "clue": "What is the role of wave action in distributing nutrients in the ocean?",
+        "correctQuestion": "It mixes water layers and brings nutrients to the surface",
+        "value": 200
+      },
+      {
+        "clue": "How do wave-powered underwater currents affect coral reef ecosystems?",
+        "correctQuestion": "They provide oxygen and nutrients to coral polyps",
+        "value": 200
+      },
+      {
+        "clue": "What is the relationship between wave-induced turbulence and larval fish distribution?",
+        "correctQuestion": "Wave action affects larval dispersal and recruitment patterns",
+        "value": 200
+      },
+      {
+        "clue": "What instrument is used to measure wave height from a moving ship?",
+        "correctQuestion": "A wave staff (or visual observation)",
+        "value": 200
+      },
+      {
+        "clue": "What type of satellite technology can track ocean waves from space?",
+        "correctQuestion": "Radar (or microwave sensors)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of a buoy that records wave characteristics in real-time?",
+        "correctQuestion": "A wave buoy (or NDBC buoy)",
+        "value": 200
+      },
+      {
+        "clue": "What data does a wave buoy transmit to oceanographic networks?",
+        "correctQuestion": "Wave height, period, direction, and energy spectrum",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the mathematical representation of wave energy at different frequencies?",
+        "correctQuestion": "Wave spectrum (or energy spectrum)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the technique that uses satellite altimetry to measure significant wave height?",
+        "correctQuestion": "Radar altimetry (or SAR - Synthetic Aperture Radar)",
+        "value": 200
+      },
+      {
+        "clue": "What year did the massive 2004 Indian Ocean tsunami occur?",
+        "correctQuestion": "2004 (December 26)",
+        "value": 200
+      },
+      {
+        "clue": "What ocean was the most affected by the 2004 tsunami?",
+        "correctQuestion": "The Indian Ocean",
+        "value": 200
+      },
+      {
+        "clue": "What was the magnitude of the earthquake that caused the 2004 tsunami?",
+        "correctQuestion": "9.1 (or 9.0)",
+        "value": 200
+      },
+      {
+        "clue": "What famous ship sank due to large waves and poor design in a 1998 storm?",
+        "correctQuestion": "The Derbyshire",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the 2011 event that created devastating tsunamis in Japan?",
+        "correctQuestion": "The Tohoku earthquake and tsunami (or the 2011 Japan tsunami)",
+        "value": 200
+      },
+      {
+        "clue": "What scientific breakthrough occurred after the 2004 tsunami led to improvements in wave detection?",
+        "correctQuestion": "Development of DART (Deep-ocean Assessment and Reporting of Tsunamis)",
+        "value": 200
+      },
+      {
+        "clue": "What type of wave is preferred by surfers for riding?",
+        "correctQuestion": "A plunging wave (or a breaking wave with a good face)",
+        "value": 200
+      },
+      {
+        "clue": "What is the minimum wave height needed for surfing?",
+        "correctQuestion": "About 2 feet (or 0.6 meters)",
+        "value": 200
+      },
+      {
+        "clue": "What feature of a wave determines how long a surfer can ride it?",
+        "correctQuestion": "The wave's period (or the distance between crests)",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the perfect, hollow breaking wave that surfers dream of riding?",
+        "correctQuestion": "A barrel (or a tube, or a pipeline)",
+        "value": 200
+      },
+      {
+        "clue": "What factor causes some beach breaks to have better-quality waves than others?",
+        "correctQuestion": "The shape of the sandbar (or beach bathymetry, or refraction patterns)",
+        "value": 200
+      },
+      {
+        "clue": "What is the relationship between wave direction, wind direction, and swell direction in surfing?",
+        "correctQuestion": "Offshore winds create clean, well-formed waves; onshore winds make rough conditions",
+        "value": 200
+      },
+      {
+        "clue": "How does climate change affect ocean wave patterns?",
+        "correctQuestion": "It increases average wave heights and storm intensity",
+        "value": 200
+      },
+      {
+        "clue": "What phenomenon increases storm surge heights?",
+        "correctQuestion": "Sea level rise (or climate change, or global warming)",
+        "value": 200
+      },
+      {
+        "clue": "How does warmer ocean water affect the intensity of hurricanes that create waves?",
+        "correctQuestion": "It makes hurricanes more intense and creates larger waves",
+        "value": 200
+      },
+      {
+        "clue": "What long-term trend is observed in ocean wave heights over the past decades?",
+        "correctQuestion": "A general increase in average wave heights",
+        "value": 200
+      },
+      {
+        "clue": "What is the relationship between the Atlantic Multidecadal Oscillation and wave patterns?",
+        "correctQuestion": "It causes multi-year variations in Atlantic wave characteristics",
+        "value": 200
+      },
+      {
+        "clue": "How might the melting of ice sheets affect long-term tidal patterns and wave propagation?",
+        "correctQuestion": "Sea level rise changes the wave propagation characteristics and bathymetry",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
   }
 }

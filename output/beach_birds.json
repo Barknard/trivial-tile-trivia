@@ -1,1132 +1,917 @@
 {
-  "title": "Beach Birds Trivia",
-  "description": "180 Family-Friendly Questions About Seagulls, Pelicans, and Other Beach Birds",
-  "totalQuestions": 180,
-  "levels": 6,
-  "questionsPerLevel": 30,
-  "categories": ["Seagulls", "Pelicans", "General Beach Birds", "Beach Bird Behavior", "Beach Bird Habitats", "Beach Bird Diet"],
-  "difficulty": [
-    {
-      "level": 1,
-      "name": "Beginner",
-      "pointsPerQuestion": 100,
-      "questions": [
-        {
-          "id": 1,
-          "question": "What color are most seagull feathers?",
-          "answer": "White and gray",
-          "difficulty": 1
-        },
-        {
-          "id": 2,
-          "question": "Pelicans have a special pouch in what part of their body?",
-          "answer": "Their bill",
-          "difficulty": 1
-        },
-        {
-          "id": 3,
-          "question": "What do beach birds use their wings for?",
-          "answer": "Flying",
-          "difficulty": 1
-        },
-        {
-          "id": 4,
-          "question": "How many legs do seagulls have?",
-          "answer": "Two",
-          "difficulty": 1
-        },
-        {
-          "id": 5,
-          "question": "Pelicans are known for diving to catch what?",
-          "answer": "Fish",
-          "difficulty": 1
-        },
-        {
-          "id": 6,
-          "question": "What color are most seagull bills?",
-          "answer": "Yellow or orange",
-          "difficulty": 1
-        },
-        {
-          "id": 7,
-          "question": "Where do beach birds find food?",
-          "answer": "The beach or ocean",
-          "difficulty": 1
-        },
-        {
-          "id": 8,
-          "question": "What sound do seagulls make?",
-          "answer": "They cry or call loudly",
-          "difficulty": 1
-        },
-        {
-          "id": 9,
-          "question": "Do pelicans live near water?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 10,
-          "question": "What are baby seagulls called?",
-          "answer": "Chicks",
-          "difficulty": 1
-        },
-        {
-          "id": 11,
-          "question": "Do terns live at the beach?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 12,
-          "question": "What do sandpipers look for on the beach?",
-          "answer": "Small food",
-          "difficulty": 1
-        },
-        {
-          "id": 13,
-          "question": "Do herons live near beaches?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 14,
-          "question": "Can seagulls swim?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 15,
-          "question": "What are oystercatchers known for eating?",
-          "answer": "Shellfish and mollusks",
-          "difficulty": 1
-        },
-        {
-          "id": 16,
-          "question": "Do cormorants dive into the water?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 17,
-          "question": "Are plovers found at the beach?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 18,
-          "question": "What body part helps pelicans float?",
-          "answer": "Their wings or body",
-          "difficulty": 1
-        },
-        {
-          "id": 19,
-          "question": "Do seagulls eat bread?",
-          "answer": "Yes, but it's not healthy",
-          "difficulty": 1
-        },
-        {
-          "id": 20,
-          "question": "What color are tern birds usually?",
-          "answer": "White and gray or black",
-          "difficulty": 1
-        },
-        {
-          "id": 21,
-          "question": "Do sandpipers have long beaks?",
-          "answer": "No, short beaks",
-          "difficulty": 1
-        },
-        {
-          "id": 22,
-          "question": "Can pelicans fly long distances?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 23,
-          "question": "Where do seagulls sleep?",
-          "answer": "On water or sand",
-          "difficulty": 1
-        },
-        {
-          "id": 24,
-          "question": "Do herons hunt fish?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 25,
-          "question": "What shape are seagull wings?",
-          "answer": "Long and pointed",
-          "difficulty": 1
-        },
-        {
-          "id": 26,
-          "question": "Do oystercatchers have colorful bills?",
-          "answer": "Yes, usually orange or red",
-          "difficulty": 1
-        },
-        {
-          "id": 27,
-          "question": "Can cormorants stay underwater for a long time?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 28,
-          "question": "Are plovers small birds?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 29,
-          "question": "Do terns catch fish by diving?",
-          "answer": "Yes",
-          "difficulty": 1
-        },
-        {
-          "id": 30,
-          "question": "What color are most pelican bills?",
-          "answer": "Pink, white, or gray",
-          "difficulty": 1
-        }
-      ]
-    },
-    {
-      "level": 2,
-      "name": "Easy",
-      "pointsPerQuestion": 200,
-      "questions": [
-        {
-          "id": 31,
-          "question": "How many species of seagulls are there in the world?",
-          "answer": "Over 40 species",
-          "difficulty": 2
-        },
-        {
-          "id": 32,
-          "question": "What is the largest species of pelican?",
-          "answer": "The Great White Pelican or Australian Pelican",
-          "difficulty": 2
-        },
-        {
-          "id": 33,
-          "question": "How do seagulls find food on the beach?",
-          "answer": "By sight and smell",
-          "difficulty": 2
-        },
-        {
-          "id": 34,
-          "question": "What is special about a pelican's pouch?",
-          "answer": "It can hold water and large amounts of fish",
-          "difficulty": 2
-        },
-        {
-          "id": 35,
-          "question": "Where do most seagulls nest?",
-          "answer": "On cliffs, islands, or rooftops",
-          "difficulty": 2
-        },
-        {
-          "id": 36,
-          "question": "How many eggs do seagulls typically lay?",
-          "answer": "Two to four eggs",
-          "difficulty": 2
-        },
-        {
-          "id": 37,
-          "question": "What is a group of pelicans called?",
-          "answer": "A pod or a squadron",
-          "difficulty": 2
-        },
-        {
-          "id": 38,
-          "question": "Do seagulls migrate?",
-          "answer": "Some species do, others don't",
-          "difficulty": 2
-        },
-        {
-          "id": 39,
-          "question": "How deep can terns dive for fish?",
-          "answer": "Several feet deep",
-          "difficulty": 2
-        },
-        {
-          "id": 40,
-          "question": "What do oystercatchers use their bills for?",
-          "answer": "To open shells and catch food",
-          "difficulty": 2
-        },
-        {
-          "id": 41,
-          "question": "How long do seagulls typically live?",
-          "answer": "20 to 40 years",
-          "difficulty": 2
-        },
-        {
-          "id": 42,
-          "question": "What makes pelicans excellent swimmers?",
-          "answer": "Their webbed feet",
-          "difficulty": 2
-        },
-        {
-          "id": 43,
-          "question": "Where do cormorants dive to hunt?",
-          "answer": "In the ocean or lakes",
-          "difficulty": 2
-        },
-        {
-          "id": 44,
-          "question": "How do plovers find food on the beach?",
-          "answer": "By running and pecking",
-          "difficulty": 2
-        },
-        {
-          "id": 45,
-          "question": "What is the wingspan of an average seagull?",
-          "answer": "3 to 4 feet",
-          "difficulty": 2
-        },
-        {
-          "id": 46,
-          "question": "How do herons catch fish?",
-          "answer": "They stand still and strike with their bills",
-          "difficulty": 2
-        },
-        {
-          "id": 47,
-          "question": "What do sandpipers eat?",
-          "answer": "Insects, small crustaceans, and worms",
-          "difficulty": 2
-        },
-        {
-          "id": 48,
-          "question": "Are seagulls vocal birds?",
-          "answer": "Yes, very vocal",
-          "difficulty": 2
-        },
-        {
-          "id": 49,
-          "question": "How do pelicans stay dry while diving?",
-          "answer": "Their feathers are waterproof",
-          "difficulty": 2
-        },
-        {
-          "id": 50,
-          "question": "What do terns hunt?",
-          "answer": "Small fish",
-          "difficulty": 2
-        },
-        {
-          "id": 51,
-          "question": "Do seagulls have good eyesight?",
-          "answer": "Yes, excellent eyesight",
-          "difficulty": 2
-        },
-        {
-          "id": 52,
-          "question": "How do cormorants differ from other water birds?",
-          "answer": "They are less waterproof and need to dry their wings",
-          "difficulty": 2
-        },
-        {
-          "id": 53,
-          "question": "What color are oystercatcher eggs?",
-          "answer": "Brown or speckled",
-          "difficulty": 2
-        },
-        {
-          "id": 54,
-          "question": "Do plovers have protective camouflage?",
-          "answer": "Yes, their coloring blends with the beach",
-          "difficulty": 2
-        },
-        {
-          "id": 55,
-          "question": "How fast can terns fly?",
-          "answer": "Around 20 to 40 mph",
-          "difficulty": 2
-        },
-        {
-          "id": 56,
-          "question": "What is the diet of a great blue heron?",
-          "answer": "Fish, frogs, and other small animals",
-          "difficulty": 2
-        },
-        {
-          "id": 57,
-          "question": "Where do sandpipers migrate?",
-          "answer": "Between Arctic breeding grounds and southern wintering areas",
-          "difficulty": 2
-        },
-        {
-          "id": 58,
-          "question": "How many chicks do pelicans typically raise?",
-          "answer": "One to three chicks",
-          "difficulty": 2
-        },
-        {
-          "id": 59,
-          "question": "Do seagulls form colonies?",
-          "answer": "Yes, they nest in colonies",
-          "difficulty": 2
-        },
-        {
-          "id": 60,
-          "question": "What is the lifespan of a pelican?",
-          "answer": "20 to 30 years or more",
-          "difficulty": 2
-        }
-      ]
-    },
-    {
-      "level": 3,
-      "name": "Intermediate",
-      "pointsPerQuestion": 300,
-      "questions": [
-        {
-          "id": 61,
-          "question": "What is the scientific name for the Herring Gull?",
-          "answer": "Larus argentatus",
-          "difficulty": 3
-        },
-        {
-          "id": 62,
-          "question": "How many fish can a pelican eat in a single day?",
-          "answer": "Up to 4 pounds or more",
-          "difficulty": 3
-        },
-        {
-          "id": 63,
-          "question": "What behavioral adaptation allows seagulls to survive in urban areas?",
-          "answer": "Their ability to eat almost anything and remember food locations",
-          "difficulty": 3
-        },
-        {
-          "id": 64,
-          "question": "How do pelicans coordinate group fishing?",
-          "answer": "They work together to herd fish into shallow water",
-          "difficulty": 3
-        },
-        {
-          "id": 65,
-          "question": "What is the primary breeding season for most seagulls?",
-          "answer": "Spring to early summer",
-          "difficulty": 3
-        },
-        {
-          "id": 66,
-          "question": "Why do some seagull species have red spots on their bills?",
-          "answer": "Chicks peck these spots to stimulate feeding",
-          "difficulty": 3
-        },
-        {
-          "id": 67,
-          "question": "What adaptation do terns have that makes them skilled hunters?",
-          "answer": "Keen eyesight and the ability to hover above water",
-          "difficulty": 3
-        },
-        {
-          "id": 68,
-          "question": "How do oystercatchers crack open shells?",
-          "answer": "By hammering or stabbing with their bills",
-          "difficulty": 3
-        },
-        {
-          "id": 69,
-          "question": "What do cormorants do after diving to keep warm?",
-          "answer": "They hold their wings open to dry",
-          "difficulty": 3
-        },
-        {
-          "id": 70,
-          "question": "How do plovers protect their nests?",
-          "answer": "With distraction displays that lead predators away",
-          "difficulty": 3
-        },
-        {
-          "id": 71,
-          "question": "What unique hunting technique do herons use?",
-          "answer": "They stand motionless and then quickly strike",
-          "difficulty": 3
-        },
-        {
-          "id": 72,
-          "question": "How do sandpipers run on wet sand without sinking?",
-          "answer": "Their lightweight bodies and fast movements distribute their weight",
-          "difficulty": 3
-        },
-        {
-          "id": 73,
-          "question": "What is the function of a pelican's air sacs?",
-          "answer": "They cushion diving impacts and provide buoyancy",
-          "difficulty": 3
-        },
-        {
-          "id": 74,
-          "question": "How do seagulls communicate with each other?",
-          "answer": "Through vocalizations, body language, and posturing",
-          "difficulty": 3
-        },
-        {
-          "id": 75,
-          "question": "What environmental threat affects tern populations most?",
-          "answer": "Loss of nesting sites and changes in fish availability",
-          "difficulty": 3
-        },
-        {
-          "id": 76,
-          "question": "How do oystercatchers find their food under sand?",
-          "answer": "By probing with their bills or seeing the shells",
-          "difficulty": 3
-        },
-        {
-          "id": 77,
-          "question": "What is unique about a cormorant's feathers compared to other water birds?",
-          "answer": "They are less waterproof",
-          "difficulty": 3
-        },
-        {
-          "id": 78,
-          "question": "How do plovers find food while walking?",
-          "answer": "By spotting insects and small prey on the sand",
-          "difficulty": 3
-        },
-        {
-          "id": 79,
-          "question": "What type of fish do most seagulls prefer to eat?",
-          "answer": "Small fish like anchovies and sardines",
-          "difficulty": 3
-        },
-        {
-          "id": 80,
-          "question": "How do herons adapt to different water depths?",
-          "answer": "They have long legs that allow them to wade in various depths",
-          "difficulty": 3
-        },
-        {
-          "id": 81,
-          "question": "What is the migration pattern of most sandpipers?",
-          "answer": "North to breed in summer, south in winter",
-          "difficulty": 3
-        },
-        {
-          "id": 82,
-          "question": "How do pelicans help each other in the water?",
-          "answer": "They create cooperative fishing formations",
-          "difficulty": 3
-        },
-        {
-          "id": 83,
-          "question": "What predators do seagull chicks face?",
-          "answer": "Foxes, rats, crows, and other gulls",
-          "difficulty": 3
-        },
-        {
-          "id": 84,
-          "question": "How do terns locate fish underwater while diving?",
-          "answer": "Their eyes adjust to see underwater clearly",
-          "difficulty": 3
-        },
-        {
-          "id": 85,
-          "question": "What is the average size of a seagull's egg?",
-          "answer": "About 2 to 2.5 inches long",
-          "difficulty": 3
-        },
-        {
-          "id": 86,
-          "question": "How do cormorants hunt effectively in murky water?",
-          "answer": "They have excellent underwater vision",
-          "difficulty": 3
-        },
-        {
-          "id": 87,
-          "question": "What behavioral trait makes oystercatchers territorial?",
-          "answer": "They aggressively defend their feeding and nesting areas",
-          "difficulty": 3
-        },
-        {
-          "id": 88,
-          "question": "How many chicks can a single tern pair raise per season?",
-          "answer": "Usually one to two chicks",
-          "difficulty": 3
-        },
-        {
-          "id": 89,
-          "question": "What role do plovers play in beach ecosystems?",
-          "answer": "They control insect populations and indicate beach health",
-          "difficulty": 3
-        },
-        {
-          "id": 90,
-          "question": "How do herons adjust their hunting speed to different prey?",
-          "answer": "They watch and time their strikes to match prey movement",
-          "difficulty": 3
-        }
-      ]
-    },
-    {
-      "level": 4,
-      "name": "Advanced",
-      "pointsPerQuestion": 400,
-      "questions": [
-        {
-          "id": 91,
-          "question": "What is the metabolic cost of diving for terns, and how do they manage it?",
-          "answer": "High metabolic cost; they compensate through rapid, efficient dives",
-          "difficulty": 4
-        },
-        {
-          "id": 92,
-          "question": "How do seagulls exhibit learned behavior in urban environments?",
-          "answer": "They learn food locations, avoid dangerous areas, and pass knowledge to offspring",
-          "difficulty": 4
-        },
-        {
-          "id": 93,
-          "question": "What is the evolutionary significance of a pelican's throat pouch?",
-          "answer": "It allows them to catch and store large amounts of fish for efficiency",
-          "difficulty": 4
-        },
-        {
-          "id": 94,
-          "question": "How do oystercatchers' bills adapt to different prey?",
-          "answer": "Some individuals specialize in different techniques (stabbing vs. hammering)",
-          "difficulty": 4
-        },
-        {
-          "id": 95,
-          "question": "What physiological adaptations allow cormorants to dive deeper than other water birds?",
-          "answer": "Dense bones and collapsible air sacs",
-          "difficulty": 4
-        },
-        {
-          "id": 96,
-          "question": "How do plovers' eyes adapt for sand hunting?",
-          "answer": "They can track rapid movement and have excellent color vision",
-          "difficulty": 4
-        },
-        {
-          "id": 97,
-          "question": "What is the purpose of courtship displays in seagull behavior?",
-          "answer": "To establish bonds, assert dominance, and facilitate pair formation",
-          "difficulty": 4
-        },
-        {
-          "id": 98,
-          "question": "How do herons' long necks benefit their hunting strategy?",
-          "answer": "They allow rapid strikes from extended reach and balance during wading",
-          "difficulty": 4
-        },
-        {
-          "id": 99,
-          "question": "What ecological role do sandpipers play in coastal food webs?",
-          "answer": "They consume massive quantities of invertebrates and serve as prey for predators",
-          "difficulty": 4
-        },
-        {
-          "id": 100,
-          "question": "How do pelicans' air sacs function in thermoregulation?",
-          "answer": "They help distribute warmth and provide insulation during diving",
-          "difficulty": 4
-        },
-        {
-          "id": 101,
-          "question": "What social hierarchies develop in seagull colonies?",
-          "answer": "Dominance hierarchies based on aggression, size, and experience",
-          "difficulty": 4
-        },
-        {
-          "id": 102,
-          "question": "How do terns balance the energy cost of reproduction with survival?",
-          "answer": "Through precise timing of breeding and careful mate selection",
-          "difficulty": 4
-        },
-        {
-          "id": 103,
-          "question": "What genetic factors influence seagull coloration patterns?",
-          "answer": "Polygenic inheritance with environmental factors affecting plumage color",
-          "difficulty": 4
-        },
-        {
-          "id": 104,
-          "question": "How do oystercatchers' specialized bills constrain their diet?",
-          "answer": "While specialized for shellfish, they limit flexibility in finding food when prey is scarce",
-          "difficulty": 4
-        },
-        {
-          "id": 105,
-          "question": "What is the energetic advantage of colonial breeding in pelicans?",
-          "answer": "Shared vigilance, collective defense, and efficient information sharing about food sources",
-          "difficulty": 4
-        },
-        {
-          "id": 106,
-          "question": "How do cormorants' swimming technique differ from ducks?",
-          "answer": "They propel with feet instead of wings, allowing better maneuverability",
-          "difficulty": 4
-        },
-        {
-          "id": 107,
-          "question": "What cognitive abilities do plovers demonstrate in predator avoidance?",
-          "answer": "They learn individual predator types and risk levels through experience",
-          "difficulty": 4
-        },
-        {
-          "id": 108,
-          "question": "How does a heron's bill structure maximize feeding efficiency?",
-          "answer": "It's designed for spearing and grasping with minimal water resistance",
-          "difficulty": 4
-        },
-        {
-          "id": 109,
-          "question": "What resource competition exists between seagulls and other beach birds?",
-          "answer": "Competition for nesting sites, fish, and scavenged food",
-          "difficulty": 4
-        },
-        {
-          "id": 110,
-          "question": "How do sandpipers' migration timing respond to climate change?",
-          "answer": "Some populations are shifting earlier, affecting synchronization with food availability",
-          "difficulty": 4
-        },
-        {
-          "id": 111,
-          "question": "What role does vocal communication play in seagull pair bonding?",
-          "answer": "Long calls and loud vocalizations reinforce pair bonds and territorial claims",
-          "difficulty": 4
-        },
-        {
-          "id": 112,
-          "question": "How do terns' visual adaptations include freshwater and saltwater hunting?",
-          "answer": "Their eyes adjust to different light refraction in both environments",
-          "difficulty": 4
-        },
-        {
-          "id": 113,
-          "question": "What physiological tolerance allows some seagull species to drink saltwater?",
-          "answer": "Salt glands above their eyes excrete excess salt",
-          "difficulty": 4
-        },
-        {
-          "id": 114,
-          "question": "How do oystercatchers' feeding specialization affect population dynamics?",
-          "answer": "It makes them vulnerable to shellfish depletion but efficient when food is abundant",
-          "difficulty": 4
-        },
-        {
-          "id": 115,
-          "question": "What is the relationship between pelican population size and breeding success?",
-          "answer": "Larger colonies have better breeding success due to collective defense",
-          "difficulty": 4
-        },
-        {
-          "id": 116,
-          "question": "How do cormorants' molting patterns reflect their ecological niche?",
-          "answer": "They molt slowly to maintain diving ability year-round",
-          "difficulty": 4
-        },
-        {
-          "id": 117,
-          "question": "What sensory advantages do plovers have in nocturnal foraging?",
-          "answer": "They rely on tactile sensitivity and low-light vision",
-          "difficulty": 4
-        },
-        {
-          "id": 118,
-          "question": "How does a heron's metabolism support its feeding habits?",
-          "answer": "Lower metabolic rate allows long periods of stillness while hunting",
-          "difficulty": 4
-        },
-        {
-          "id": 119,
-          "question": "What is the significance of synchronized diving in pelican fishing behavior?",
-          "answer": "It maximizes success by herding fish and reducing escape routes",
-          "difficulty": 4
-        },
-        {
-          "id": 120,
-          "question": "How do sandpipers' population fluctuations reflect Arctic ecosystem health?",
-          "answer": "Their breeding success indicates insect availability and climate conditions in Arctic regions",
-          "difficulty": 4
-        }
-      ]
-    },
-    {
-      "level": 5,
-      "name": "Expert",
-      "pointsPerQuestion": 500,
-      "questions": [
-        {
-          "id": 121,
-          "question": "How do seagull populations maintain genetic diversity despite colonial breeding patterns?",
-          "answer": "Through infrequent dispersal, occasional extra-pair copulations, and selection against inbreeding",
-          "difficulty": 5
-        },
-        {
-          "id": 122,
-          "question": "What is the relationship between pelican diving depth and fish school density?",
-          "answer": "Deeper dives occur in response to scattered prey, optimizing energy expenditure",
-          "difficulty": 5
-        },
-        {
-          "id": 123,
-          "question": "How do tern populations respond to El Nino events affecting ocean productivity?",
-          "answer": "Population crashes occur due to reduced fish availability and altered breeding success",
-          "difficulty": 5
-        },
-        {
-          "id": 124,
-          "question": "What are the biomechanical constraints of oystercatcher feeding specialization?",
-          "answer": "Bill strength limits prey size; metabolic rates require consistent food availability",
-          "difficulty": 5
-        },
-        {
-          "id": 125,
-          "question": "How do cormorant populations indicate changes in coastal ecosystem productivity?",
-          "answer": "Population density and breeding timing reflect fish availability and water temperature",
-          "difficulty": 5
-        },
-        {
-          "id": 126,
-          "question": "What epigenetic factors influence plover nesting behavior and site selection?",
-          "answer": "Early experience with nesting habitats creates preferences passed to offspring through behavior",
-          "difficulty": 5
-        },
-        {
-          "id": 127,
-          "question": "How does heron population structure reflect habitat quality in estuaries?",
-          "answer": "Higher densities correlate with fresh-salt water mixing zones supporting diverse prey",
-          "difficulty": 5
-        },
-        {
-          "id": 128,
-          "question": "What is the energetic trade-off between seagull colonial nesting and predation risk?",
-          "answer": "Colony benefits (vigilance, defense) outweigh costs except under extreme predation pressure",
-          "difficulty": 5
-        },
-        {
-          "id": 129,
-          "question": "How do sandpiper populations measure global climate change impacts on breeding?",
-          "answer": "Phenological mismatches between arrival and peak food availability reduce breeding success",
-          "difficulty": 5
-        },
-        {
-          "id": 130,
-          "question": "What is the evolutionary stability of pelican cooperative fishing strategies?",
-          "answer": "Group dynamics maintain stability through free-rider detection and punishment",
-          "difficulty": 5
-        },
-        {
-          "id": 131,
-          "question": "How do seagull immune responses vary by age and social status?",
-          "answer": "Dominant individuals show stronger immune responses due to reduced stress and better nutrition",
-          "difficulty": 5
-        },
-        {
-          "id": 132,
-          "question": "What role do tern population fluctuations play in early warning systems for ocean change?",
-          "answer": "Rapid responses to fishing pressure and climate shifts make them sensitive environmental indicators",
-          "difficulty": 5
-        },
-        {
-          "id": 133,
-          "question": "How do oystercatcher populations respond to coastal development and habitat fragmentation?",
-          "answer": "Population declines due to nesting site loss and increased disturbance despite food availability",
-          "difficulty": 5
-        },
-        {
-          "id": 134,
-          "question": "What biochemical adaptations allow cormorants to function in hypoxic diving conditions?",
-          "answer": "Enhanced myoglobin concentration and tolerance to anaerobic metabolism during dives",
-          "difficulty": 5
-        },
-        {
-          "id": 135,
-          "question": "How do plover populations maintain mate fidelity and reproductive success in unstable environments?",
-          "answer": "Rapid re-pairing allows multiple breeding attempts if nests fail",
-          "difficulty": 5
-        },
-        {
-          "id": 136,
-          "question": "What is the relationship between heron foraging behavior and prey temporal availability?",
-          "answer": "Herons adjust hunting times and locations based on prey activity patterns and tidal cycles",
-          "difficulty": 5
-        },
-        {
-          "id": 137,
-          "question": "How do seagull populations respond to anthropogenic food subsidies in ecosystem dynamics?",
-          "answer": "Over-reliance on garbage reduces fitness, increases conflicts, and masks population decline signals",
-          "difficulty": 5
-        },
-        {
-          "id": 138,
-          "question": "What physiological trade-offs exist between pelican diving capacity and thermoregulation?",
-          "answer": "Air sac buoyancy aids diving but increases heat loss, requiring precise thermal management",
-          "difficulty": 5
-        },
-        {
-          "id": 139,
-          "question": "How do sandpiper stopover site selection affect migration success and survival?",
-          "answer": "Sites with abundant invertebrate food and low predation increase refueling efficiency and reduce mortality",
-          "difficulty": 5
-        },
-        {
-          "id": 140,
-          "question": "What is the significance of tern colony location choice for breeding success?",
-          "answer": "Colonies on islands minimize predation while proximity to fishing grounds reduces foraging costs",
-          "difficulty": 5
-        },
-        {
-          "id": 141,
-          "question": "How do cormorant diving patterns reflect individual specialization and learning?",
-          "answer": "Individuals develop preferred depths and techniques that persist across seasons",
-          "difficulty": 5
-        },
-        {
-          "id": 142,
-          "question": "What role do environmental stressors play in plover population crashes?",
-          "answer": "Combined effects of habitat loss, predation, and weather create population instability",
-          "difficulty": 5
-        },
-        {
-          "id": 143,
-          "question": "How do heron populations partition resources in sympatric species communities?",
-          "answer": "Species occupy different depths, prey sizes, and temporal niches within shared habitats",
-          "difficulty": 5
-        },
-        {
-          "id": 144,
-          "question": "What is the mechanistic basis for seagull urban adaptation and behavioral flexibility?",
-          "answer": "Neophobia reduction, enhanced learning rates, and social transmission of information",
-          "difficulty": 5
-        },
-        {
-          "id": 145,
-          "question": "How do pelican populations respond to fishery competition and bycatch pressure?",
-          "answer": "Populations decline without spatial management separating fishing and bird foraging zones",
-          "difficulty": 5
-        },
-        {
-          "id": 146,
-          "question": "What is the relationship between tern brain size and migration route complexity?",
-          "answer": "Larger brain regions support navigation and spatial memory for long-distance migration",
-          "difficulty": 5
-        },
-        {
-          "id": 147,
-          "question": "How do oystercatcher populations demonstrate phenotypic plasticity in response to prey changes?",
-          "answer": "Individuals switch from hammering to stabbing techniques based on prey characteristics",
-          "difficulty": 5
-        },
-        {
-          "id": 148,
-          "question": "What is the ecological consequence of cormorant population recovery in freshwater systems?",
-          "answer": "Increased predation pressure on fish stocks affects ecosystem balance and fishery economics",
-          "difficulty": 5
-        },
-        {
-          "id": 149,
-          "question": "How do plover populations utilize cryptic behavior to optimize reproductive success?",
-          "answer": "Camouflage coloration reduces predator detection while distraction displays protect nests",
-          "difficulty": 5
-        },
-        {
-          "id": 150,
-          "question": "What is the significance of heron bill size variation for ecological niche partitioning?",
-          "answer": "Larger bills capture larger prey; size variation allows sympatric coexistence with reduced competition",
-          "difficulty": 5
-        }
-      ]
-    },
-    {
-      "level": 6,
-      "name": "Master",
-      "pointsPerQuestion": 600,
-      "questions": [
-        {
-          "id": 151,
-          "question": "How do seagull epigenetic modifications related to stress hormone expression influence transgenerational phenotypes?",
-          "answer": "Maternal stress affects offspring stress sensitivity through altered glucocorticoid receptor methylation patterns",
-          "difficulty": 6
-        },
-        {
-          "id": 152,
-          "question": "What is the mechanistic pathway linking pelican diving physiology to anaerobic metabolism during extreme depths?",
-          "answer": "Synchronized myocardial depression with increased parasympathetic tone reduces oxygen consumption",
-          "difficulty": 6
-        },
-        {
-          "id": 153,
-          "question": "How do tern populations demonstrate predictive phenotypic plasticity in response to climate oscillations?",
-          "answer": "Breeding timing shifts correlate with barometric pressure and oceanographic indices ahead of seasonal peaks",
-          "difficulty": 6
-        },
-        {
-          "id": 154,
-          "question": "What are the evolutionary game-theoretic dynamics underlying oystercatcher feeding technique polymorphism?",
-          "answer": "Frequency-dependent selection maintains mixed strategies; rare phenotypes gain advantage through reduced competition",
-          "difficulty": 6
-        },
-        {
-          "id": 155,
-          "question": "How do cormorant populations demonstrate regulatory plasticity in hemoglobin oxygen affinity across diving depth?",
-          "answer": "Increases in 2,3-DPG enhance oxygen release at tissue level during hypoxic dives",
-          "difficulty": 6
-        },
-        {
-          "id": 156,
-          "question": "What are the computational models predicting plover population viability under combined stressor scenarios?",
-          "answer": "Integral population models incorporating habitat loss, predation, and climate variance predict critical thresholds",
-          "difficulty": 6
-        },
-        {
-          "id": 157,
-          "question": "How do heron populations demonstrate dynamic state-dependent optimization in foraging decisions?",
-          "answer": "Feeding location and time allocation shift based on energetic state and predation risk",
-          "difficulty": 6
-        },
-        {
-          "id": 158,
-          "question": "What is the neurobiological basis for seagull problem-solving abilities and tool use observation?",
-          "answer": "Prefrontal cortex enlargement supports executive function and learning from social observation",
-          "difficulty": 6
-        },
-        {
-          "id": 159,
-          "question": "How do sandpiper populations demonstrate microevolutionary responses to climate-driven selection pressures?",
-          "answer": "Rapid shifts in migration timing (10+ days/decade) show directional selection on circannual rhythm genes",
-          "difficulty": 6
-        },
-        {
-          "id": 160,
-          "question": "What is the systems-level mechanism of pelican cooperative hunting and information transfer?",
-          "answer": "Chemical and acoustic signaling coordinates group movements to optimize predation success",
-          "difficulty": 6
-        },
-        {
-          "id": 161,
-          "question": "How do seagull populations demonstrate sexual conflict in parental investment allocation?",
-          "answer": "Asymmetric investment with females bearing greater metabolic costs creates divergent reproductive strategies",
-          "difficulty": 6
-        },
-        {
-          "id": 162,
-          "question": "What are the molecular mechanisms underlying tern circadian synchronization with tidal foraging cycles?",
-          "answer": "Multiple clock genes interact with tidal cues to generate bimodal activity patterns",
-          "difficulty": 6
-        },
-        {
-          "id": 163,
-          "question": "How do oystercatcher populations maintain behavioral tradition through cultural transmission?",
-          "answer": "Fledglings copy parental feeding techniques creating regional feeding specialization with limited genetic basis",
-          "difficulty": 6
-        },
-        {
-          "id": 164,
-          "question": "What are the biophysical constraints on cormorant diving physiology under varying salinity and temperature?",
-          "answer": "Salinity affects buoyancy requiring compensatory diving angle changes; temperature affects metabolic efficiency",
-          "difficulty": 6
-        },
-        {
-          "id": 165,
-          "question": "How do plover populations demonstrate source-sink dynamics across fragmented coastal habitats?",
-          "answer": "High-quality sites produce surplus emigrants that maintain population viability in low-quality sinks",
-          "difficulty": 6
-        },
-        {
-          "id": 166,
-          "question": "What is the endocrine-mediated mechanism linking heron social status to reproductive hormone profiles?",
-          "answer": "Dominance hierarchy sustains elevated testosterone in breeding males, suppressing subordinate reproduction",
-          "difficulty": 6
-        },
-        {
-          "id": 167,
-          "question": "How do seagull populations demonstrate frequency-dependent selection in colony site abandonment?",
-          "answer": "As colonies exceed carrying capacity, increasing costs favor dispersal in nonlinear relationship",
-          "difficulty": 6
-        },
-        {
-          "id": 168,
-          "question": "What are the biomimetic applications derived from studying pelican feather hydrophobic properties?",
-          "answer": "Hierarchical nanotextures inspire next-generation water-resistant materials and coating technologies",
-          "difficulty": 6
-        },
-        {
-          "id": 169,
-          "question": "How do sandpiper populations demonstrate genotype-by-environment interactions in migratory timing?",
-          "answer": "Same genotypes show different migration timing across geographic populations due to local environment variation",
-          "difficulty": 6
-        },
-        {
-          "id": 170,
-          "question": "What is the evolutionary stable strategy for tern reproductive skew within colonies?",
-          "answer": "Dominant pair monopolization of best territories selects for subordinate tolerance through resource value variation",
-          "difficulty": 6
-        },
-        {
-          "id": 171,
-          "question": "How do cormorant populations demonstrate evolutionary rescue through rapid adaptation to pesticide exposure?",
-          "answer": "Selection on detoxification enzyme variants allows population persistence despite eggshell thinning",
-          "difficulty": 6
-        },
-        {
-          "id": 172,
-          "question": "What are the meta-population dynamics governing plover persistence in heterogeneous coastal landscapes?",
-          "answer": "Connectivity between patches determines rescue effect probability and long-term extinction risk",
-          "difficulty": 6
-        },
-        {
-          "id": 173,
-          "question": "How do heron populations demonstrate phenotypic integration in morphological traits related to ecological niche?",
-          "answer": "Integrated changes in bill length, leg length, and body size correlate with prey size specialization",
-          "difficulty": 6
-        },
-        {
-          "id": 174,
-          "question": "What is the theoretical basis for seagull colony size optimization balancing benefits against costs?",
-          "answer": "Optimal colony size reflects equilibrium between predation refuge, interference competition, and disease transmission",
-          "difficulty": 6
-        },
-        {
-          "id": 175,
-          "question": "How do pelican populations demonstrate heterochronic shifts in developmental timing related to climate change?",
-          "answer": "Earlier egg-laying dates correlate with precocial development advancement in chicks",
-          "difficulty": 6
-        },
-        {
-          "id": 176,
-          "question": "What are the immunological trade-offs between tern investment in migration preparation and immune function?",
-          "answer": "Enhanced stress hormone suppresses immune response making birds vulnerable to infection during migration",
-          "difficulty": 6
-        },
-        {
-          "id": 177,
-          "question": "How do oystercatcher populations demonstrate niche conservatism despite ecological opportunity in novel habitats?",
-          "answer": "Strong habitat fidelity and behavioral traditions limit colonization of suitable but unfamiliar sites",
-          "difficulty": 6
-        },
-        {
-          "id": 178,
-          "question": "What is the mechanistic model explaining cormorant population cycles driven by food availability and predation?",
-          "answer": "Time-lag dynamics in population growth coupled with predator response create limit cycles",
-          "difficulty": 6
-        },
-        {
-          "id": 179,
-          "question": "How do plover populations demonstrate fluctuating asymmetry as an indicator of environmental stress?",
-          "answer": "Increased bilateral asymmetry in morphological traits indicates developmental instability from stressors",
-          "difficulty": 6
-        },
-        {
-          "id": 180,
-          "question": "What is the integrative model linking heron metabolism, foraging behavior, and population dynamics under anthropogenic disturbance?",
-          "answer": "Increased vigilance and suboptimal foraging reduce energy intake, which suppresses reproduction and increases mortality",
-          "difficulty": 6
-        }
-      ]
-    }
-  ]
+  "category": "Beach Birds Trivia",
+  "theme": "beach",
+  "category_id": "beach_birds",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What color are most seagull feathers?",
+        "correctQuestion": "White and gray",
+        "value": 100
+      },
+      {
+        "clue": "Pelicans have a special pouch in what part of their body?",
+        "correctQuestion": "Their bill",
+        "value": 100
+      },
+      {
+        "clue": "What do beach birds use their wings for?",
+        "correctQuestion": "Flying",
+        "value": 100
+      },
+      {
+        "clue": "How many legs do seagulls have?",
+        "correctQuestion": "Two",
+        "value": 100
+      },
+      {
+        "clue": "Pelicans are known for diving to catch what?",
+        "correctQuestion": "Fish",
+        "value": 100
+      },
+      {
+        "clue": "What color are most seagull bills?",
+        "correctQuestion": "Yellow or orange",
+        "value": 100
+      },
+      {
+        "clue": "Where do beach birds find food?",
+        "correctQuestion": "The beach or ocean",
+        "value": 100
+      },
+      {
+        "clue": "What sound do seagulls make?",
+        "correctQuestion": "They cry or call loudly",
+        "value": 100
+      },
+      {
+        "clue": "Do pelicans live near water?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "What are baby seagulls called?",
+        "correctQuestion": "Chicks",
+        "value": 100
+      },
+      {
+        "clue": "Do terns live at the beach?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "What do sandpipers look for on the beach?",
+        "correctQuestion": "Small food",
+        "value": 100
+      },
+      {
+        "clue": "Do herons live near beaches?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "Can seagulls swim?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "What are oystercatchers known for eating?",
+        "correctQuestion": "Shellfish and mollusks",
+        "value": 100
+      },
+      {
+        "clue": "Do cormorants dive into the water?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "Are plovers found at the beach?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "What body part helps pelicans float?",
+        "correctQuestion": "Their wings or body",
+        "value": 100
+      },
+      {
+        "clue": "Do seagulls eat bread?",
+        "correctQuestion": "Yes, but it's not healthy",
+        "value": 100
+      },
+      {
+        "clue": "What color are tern birds usually?",
+        "correctQuestion": "White and gray or black",
+        "value": 100
+      },
+      {
+        "clue": "Do sandpipers have long beaks?",
+        "correctQuestion": "No, short beaks",
+        "value": 100
+      },
+      {
+        "clue": "Can pelicans fly long distances?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "Where do seagulls sleep?",
+        "correctQuestion": "On water or sand",
+        "value": 100
+      },
+      {
+        "clue": "Do herons hunt fish?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "What shape are seagull wings?",
+        "correctQuestion": "Long and pointed",
+        "value": 100
+      },
+      {
+        "clue": "Do oystercatchers have colorful bills?",
+        "correctQuestion": "Yes, usually orange or red",
+        "value": 100
+      },
+      {
+        "clue": "Can cormorants stay underwater for a long time?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "Are plovers small birds?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "Do terns catch fish by diving?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "What color are most pelican bills?",
+        "correctQuestion": "Pink, white, or gray",
+        "value": 100
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "How many species of seagulls are there in the world?",
+        "correctQuestion": "Over 40 species",
+        "value": 200
+      },
+      {
+        "clue": "What is the largest species of pelican?",
+        "correctQuestion": "The Great White Pelican or Australian Pelican",
+        "value": 200
+      },
+      {
+        "clue": "How do seagulls find food on the beach?",
+        "correctQuestion": "By sight and smell",
+        "value": 200
+      },
+      {
+        "clue": "What is special about a pelican's pouch?",
+        "correctQuestion": "It can hold water and large amounts of fish",
+        "value": 200
+      },
+      {
+        "clue": "Where do most seagulls nest?",
+        "correctQuestion": "On cliffs, islands, or rooftops",
+        "value": 200
+      },
+      {
+        "clue": "How many eggs do seagulls typically lay?",
+        "correctQuestion": "Two to four eggs",
+        "value": 200
+      },
+      {
+        "clue": "What is a group of pelicans called?",
+        "correctQuestion": "A pod or a squadron",
+        "value": 200
+      },
+      {
+        "clue": "Do seagulls migrate?",
+        "correctQuestion": "Some species do, others don't",
+        "value": 200
+      },
+      {
+        "clue": "How deep can terns dive for fish?",
+        "correctQuestion": "Several feet deep",
+        "value": 200
+      },
+      {
+        "clue": "What do oystercatchers use their bills for?",
+        "correctQuestion": "To open shells and catch food",
+        "value": 200
+      },
+      {
+        "clue": "How long do seagulls typically live?",
+        "correctQuestion": "20 to 40 years",
+        "value": 200
+      },
+      {
+        "clue": "What makes pelicans excellent swimmers?",
+        "correctQuestion": "Their webbed feet",
+        "value": 200
+      },
+      {
+        "clue": "Where do cormorants dive to hunt?",
+        "correctQuestion": "In the ocean or lakes",
+        "value": 200
+      },
+      {
+        "clue": "How do plovers find food on the beach?",
+        "correctQuestion": "By running and pecking",
+        "value": 200
+      },
+      {
+        "clue": "What is the wingspan of an average seagull?",
+        "correctQuestion": "3 to 4 feet",
+        "value": 200
+      },
+      {
+        "clue": "How do herons catch fish?",
+        "correctQuestion": "They stand still and strike with their bills",
+        "value": 200
+      },
+      {
+        "clue": "What do sandpipers eat?",
+        "correctQuestion": "Insects, small crustaceans, and worms",
+        "value": 200
+      },
+      {
+        "clue": "Are seagulls vocal birds?",
+        "correctQuestion": "Yes, very vocal",
+        "value": 200
+      },
+      {
+        "clue": "How do pelicans stay dry while diving?",
+        "correctQuestion": "Their feathers are waterproof",
+        "value": 200
+      },
+      {
+        "clue": "What do terns hunt?",
+        "correctQuestion": "Small fish",
+        "value": 200
+      },
+      {
+        "clue": "Do seagulls have good eyesight?",
+        "correctQuestion": "Yes, excellent eyesight",
+        "value": 200
+      },
+      {
+        "clue": "How do cormorants differ from other water birds?",
+        "correctQuestion": "They are less waterproof and need to dry their wings",
+        "value": 200
+      },
+      {
+        "clue": "What color are oystercatcher eggs?",
+        "correctQuestion": "Brown or speckled",
+        "value": 200
+      },
+      {
+        "clue": "Do plovers have protective camouflage?",
+        "correctQuestion": "Yes, their coloring blends with the beach",
+        "value": 200
+      },
+      {
+        "clue": "How fast can terns fly?",
+        "correctQuestion": "Around 20 to 40 mph",
+        "value": 200
+      },
+      {
+        "clue": "What is the diet of a great blue heron?",
+        "correctQuestion": "Fish, frogs, and other small animals",
+        "value": 200
+      },
+      {
+        "clue": "Where do sandpipers migrate?",
+        "correctQuestion": "Between Arctic breeding grounds and southern wintering areas",
+        "value": 200
+      },
+      {
+        "clue": "How many chicks do pelicans typically raise?",
+        "correctQuestion": "One to three chicks",
+        "value": 200
+      },
+      {
+        "clue": "Do seagulls form colonies?",
+        "correctQuestion": "Yes, they nest in colonies",
+        "value": 200
+      },
+      {
+        "clue": "What is the lifespan of a pelican?",
+        "correctQuestion": "20 to 30 years or more",
+        "value": 200
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "What is the scientific name for the Herring Gull?",
+        "correctQuestion": "Larus argentatus",
+        "value": 300
+      },
+      {
+        "clue": "How many fish can a pelican eat in a single day?",
+        "correctQuestion": "Up to 4 pounds or more",
+        "value": 300
+      },
+      {
+        "clue": "What behavioral adaptation allows seagulls to survive in urban areas?",
+        "correctQuestion": "Their ability to eat almost anything and remember food locations",
+        "value": 300
+      },
+      {
+        "clue": "How do pelicans coordinate group fishing?",
+        "correctQuestion": "They work together to herd fish into shallow water",
+        "value": 300
+      },
+      {
+        "clue": "What is the primary breeding season for most seagulls?",
+        "correctQuestion": "Spring to early summer",
+        "value": 300
+      },
+      {
+        "clue": "Why do some seagull species have red spots on their bills?",
+        "correctQuestion": "Chicks peck these spots to stimulate feeding",
+        "value": 300
+      },
+      {
+        "clue": "What adaptation do terns have that makes them skilled hunters?",
+        "correctQuestion": "Keen eyesight and the ability to hover above water",
+        "value": 300
+      },
+      {
+        "clue": "How do oystercatchers crack open shells?",
+        "correctQuestion": "By hammering or stabbing with their bills",
+        "value": 300
+      },
+      {
+        "clue": "What do cormorants do after diving to keep warm?",
+        "correctQuestion": "They hold their wings open to dry",
+        "value": 300
+      },
+      {
+        "clue": "How do plovers protect their nests?",
+        "correctQuestion": "With distraction displays that lead predators away",
+        "value": 300
+      },
+      {
+        "clue": "What unique hunting technique do herons use?",
+        "correctQuestion": "They stand motionless and then quickly strike",
+        "value": 300
+      },
+      {
+        "clue": "How do sandpipers run on wet sand without sinking?",
+        "correctQuestion": "Their lightweight bodies and fast movements distribute their weight",
+        "value": 300
+      },
+      {
+        "clue": "What is the function of a pelican's air sacs?",
+        "correctQuestion": "They cushion diving impacts and provide buoyancy",
+        "value": 300
+      },
+      {
+        "clue": "How do seagulls communicate with each other?",
+        "correctQuestion": "Through vocalizations, body language, and posturing",
+        "value": 300
+      },
+      {
+        "clue": "What environmental threat affects tern populations most?",
+        "correctQuestion": "Loss of nesting sites and changes in fish availability",
+        "value": 300
+      },
+      {
+        "clue": "How do oystercatchers find their food under sand?",
+        "correctQuestion": "By probing with their bills or seeing the shells",
+        "value": 300
+      },
+      {
+        "clue": "What is unique about a cormorant's feathers compared to other water birds?",
+        "correctQuestion": "They are less waterproof",
+        "value": 300
+      },
+      {
+        "clue": "How do plovers find food while walking?",
+        "correctQuestion": "By spotting insects and small prey on the sand",
+        "value": 300
+      },
+      {
+        "clue": "What type of fish do most seagulls prefer to eat?",
+        "correctQuestion": "Small fish like anchovies and sardines",
+        "value": 300
+      },
+      {
+        "clue": "How do herons adapt to different water depths?",
+        "correctQuestion": "They have long legs that allow them to wade in various depths",
+        "value": 300
+      },
+      {
+        "clue": "What is the migration pattern of most sandpipers?",
+        "correctQuestion": "North to breed in summer, south in winter",
+        "value": 300
+      },
+      {
+        "clue": "How do pelicans help each other in the water?",
+        "correctQuestion": "They create cooperative fishing formations",
+        "value": 300
+      },
+      {
+        "clue": "What predators do seagull chicks face?",
+        "correctQuestion": "Foxes, rats, crows, and other gulls",
+        "value": 300
+      },
+      {
+        "clue": "How do terns locate fish underwater while diving?",
+        "correctQuestion": "Their eyes adjust to see underwater clearly",
+        "value": 300
+      },
+      {
+        "clue": "What is the average size of a seagull's egg?",
+        "correctQuestion": "About 2 to 2.5 inches long",
+        "value": 300
+      },
+      {
+        "clue": "How do cormorants hunt effectively in murky water?",
+        "correctQuestion": "They have excellent underwater vision",
+        "value": 300
+      },
+      {
+        "clue": "What behavioral trait makes oystercatchers territorial?",
+        "correctQuestion": "They aggressively defend their feeding and nesting areas",
+        "value": 300
+      },
+      {
+        "clue": "How many chicks can a single tern pair raise per season?",
+        "correctQuestion": "Usually one to two chicks",
+        "value": 300
+      },
+      {
+        "clue": "What role do plovers play in beach ecosystems?",
+        "correctQuestion": "They control insect populations and indicate beach health",
+        "value": 300
+      },
+      {
+        "clue": "How do herons adjust their hunting speed to different prey?",
+        "correctQuestion": "They watch and time their strikes to match prey movement",
+        "value": 300
+      }
+    ],
+    "adults": [
+      {
+        "clue": "What is the metabolic cost of diving for terns, and how do they manage it?",
+        "correctQuestion": "High metabolic cost; they compensate through rapid, efficient dives",
+        "value": 400
+      },
+      {
+        "clue": "How do seagulls exhibit learned behavior in urban environments?",
+        "correctQuestion": "They learn food locations, avoid dangerous areas, and pass knowledge to offspring",
+        "value": 400
+      },
+      {
+        "clue": "What is the evolutionary significance of a pelican's throat pouch?",
+        "correctQuestion": "It allows them to catch and store large amounts of fish for efficiency",
+        "value": 400
+      },
+      {
+        "clue": "How do oystercatchers' bills adapt to different prey?",
+        "correctQuestion": "Some individuals specialize in different techniques (stabbing vs. hammering)",
+        "value": 400
+      },
+      {
+        "clue": "What physiological adaptations allow cormorants to dive deeper than other water birds?",
+        "correctQuestion": "Dense bones and collapsible air sacs",
+        "value": 400
+      },
+      {
+        "clue": "How do plovers' eyes adapt for sand hunting?",
+        "correctQuestion": "They can track rapid movement and have excellent color vision",
+        "value": 400
+      },
+      {
+        "clue": "What is the purpose of courtship displays in seagull behavior?",
+        "correctQuestion": "To establish bonds, assert dominance, and facilitate pair formation",
+        "value": 400
+      },
+      {
+        "clue": "How do herons' long necks benefit their hunting strategy?",
+        "correctQuestion": "They allow rapid strikes from extended reach and balance during wading",
+        "value": 400
+      },
+      {
+        "clue": "What ecological role do sandpipers play in coastal food webs?",
+        "correctQuestion": "They consume massive quantities of invertebrates and serve as prey for predators",
+        "value": 400
+      },
+      {
+        "clue": "How do pelicans' air sacs function in thermoregulation?",
+        "correctQuestion": "They help distribute warmth and provide insulation during diving",
+        "value": 400
+      },
+      {
+        "clue": "What social hierarchies develop in seagull colonies?",
+        "correctQuestion": "Dominance hierarchies based on aggression, size, and experience",
+        "value": 400
+      },
+      {
+        "clue": "How do terns balance the energy cost of reproduction with survival?",
+        "correctQuestion": "Through precise timing of breeding and careful mate selection",
+        "value": 400
+      },
+      {
+        "clue": "What genetic factors influence seagull coloration patterns?",
+        "correctQuestion": "Polygenic inheritance with environmental factors affecting plumage color",
+        "value": 400
+      },
+      {
+        "clue": "How do oystercatchers' specialized bills constrain their diet?",
+        "correctQuestion": "While specialized for shellfish, they limit flexibility in finding food when prey is scarce",
+        "value": 400
+      },
+      {
+        "clue": "What is the energetic advantage of colonial breeding in pelicans?",
+        "correctQuestion": "Shared vigilance, collective defense, and efficient information sharing about food sources",
+        "value": 400
+      },
+      {
+        "clue": "How do cormorants' swimming technique differ from ducks?",
+        "correctQuestion": "They propel with feet instead of wings, allowing better maneuverability",
+        "value": 400
+      },
+      {
+        "clue": "What cognitive abilities do plovers demonstrate in predator avoidance?",
+        "correctQuestion": "They learn individual predator types and risk levels through experience",
+        "value": 400
+      },
+      {
+        "clue": "How does a heron's bill structure maximize feeding efficiency?",
+        "correctQuestion": "It's designed for spearing and grasping with minimal water resistance",
+        "value": 400
+      },
+      {
+        "clue": "What resource competition exists between seagulls and other beach birds?",
+        "correctQuestion": "Competition for nesting sites, fish, and scavenged food",
+        "value": 400
+      },
+      {
+        "clue": "How do sandpipers' migration timing respond to climate change?",
+        "correctQuestion": "Some populations are shifting earlier, affecting synchronization with food availability",
+        "value": 400
+      },
+      {
+        "clue": "What role does vocal communication play in seagull pair bonding?",
+        "correctQuestion": "Long calls and loud vocalizations reinforce pair bonds and territorial claims",
+        "value": 400
+      },
+      {
+        "clue": "How do terns' visual adaptations include freshwater and saltwater hunting?",
+        "correctQuestion": "Their eyes adjust to different light refraction in both environments",
+        "value": 400
+      },
+      {
+        "clue": "What physiological tolerance allows some seagull species to drink saltwater?",
+        "correctQuestion": "Salt glands above their eyes excrete excess salt",
+        "value": 400
+      },
+      {
+        "clue": "How do oystercatchers' feeding specialization affect population dynamics?",
+        "correctQuestion": "It makes them vulnerable to shellfish depletion but efficient when food is abundant",
+        "value": 400
+      },
+      {
+        "clue": "What is the relationship between pelican population size and breeding success?",
+        "correctQuestion": "Larger colonies have better breeding success due to collective defense",
+        "value": 400
+      },
+      {
+        "clue": "How do cormorants' molting patterns reflect their ecological niche?",
+        "correctQuestion": "They molt slowly to maintain diving ability year-round",
+        "value": 400
+      },
+      {
+        "clue": "What sensory advantages do plovers have in nocturnal foraging?",
+        "correctQuestion": "They rely on tactile sensitivity and low-light vision",
+        "value": 400
+      },
+      {
+        "clue": "How does a heron's metabolism support its feeding habits?",
+        "correctQuestion": "Lower metabolic rate allows long periods of stillness while hunting",
+        "value": 400
+      },
+      {
+        "clue": "What is the significance of synchronized diving in pelican fishing behavior?",
+        "correctQuestion": "It maximizes success by herding fish and reducing escape routes",
+        "value": 400
+      },
+      {
+        "clue": "How do sandpipers' population fluctuations reflect Arctic ecosystem health?",
+        "correctQuestion": "Their breeding success indicates insect availability and climate conditions in Arctic regions",
+        "value": 400
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "How do seagull populations maintain genetic diversity despite colonial breeding patterns?",
+        "correctQuestion": "Through infrequent dispersal, occasional extra-pair copulations, and selection against inbreeding",
+        "value": 500
+      },
+      {
+        "clue": "What is the relationship between pelican diving depth and fish school density?",
+        "correctQuestion": "Deeper dives occur in response to scattered prey, optimizing energy expenditure",
+        "value": 500
+      },
+      {
+        "clue": "How do tern populations respond to El Nino events affecting ocean productivity?",
+        "correctQuestion": "Population crashes occur due to reduced fish availability and altered breeding success",
+        "value": 500
+      },
+      {
+        "clue": "What are the biomechanical constraints of oystercatcher feeding specialization?",
+        "correctQuestion": "Bill strength limits prey size; metabolic rates require consistent food availability",
+        "value": 500
+      },
+      {
+        "clue": "How do cormorant populations indicate changes in coastal ecosystem productivity?",
+        "correctQuestion": "Population density and breeding timing reflect fish availability and water temperature",
+        "value": 500
+      },
+      {
+        "clue": "What epigenetic factors influence plover nesting behavior and site selection?",
+        "correctQuestion": "Early experience with nesting habitats creates preferences passed to offspring through behavior",
+        "value": 500
+      },
+      {
+        "clue": "How does heron population structure reflect habitat quality in estuaries?",
+        "correctQuestion": "Higher densities correlate with fresh-salt water mixing zones supporting diverse prey",
+        "value": 500
+      },
+      {
+        "clue": "What is the energetic trade-off between seagull colonial nesting and predation risk?",
+        "correctQuestion": "Colony benefits (vigilance, defense) outweigh costs except under extreme predation pressure",
+        "value": 500
+      },
+      {
+        "clue": "How do sandpiper populations measure global climate change impacts on breeding?",
+        "correctQuestion": "Phenological mismatches between arrival and peak food availability reduce breeding success",
+        "value": 500
+      },
+      {
+        "clue": "What is the evolutionary stability of pelican cooperative fishing strategies?",
+        "correctQuestion": "Group dynamics maintain stability through free-rider detection and punishment",
+        "value": 500
+      },
+      {
+        "clue": "How do seagull immune responses vary by age and social status?",
+        "correctQuestion": "Dominant individuals show stronger immune responses due to reduced stress and better nutrition",
+        "value": 500
+      },
+      {
+        "clue": "What role do tern population fluctuations play in early warning systems for ocean change?",
+        "correctQuestion": "Rapid responses to fishing pressure and climate shifts make them sensitive environmental indicators",
+        "value": 500
+      },
+      {
+        "clue": "How do oystercatcher populations respond to coastal development and habitat fragmentation?",
+        "correctQuestion": "Population declines due to nesting site loss and increased disturbance despite food availability",
+        "value": 500
+      },
+      {
+        "clue": "What biochemical adaptations allow cormorants to function in hypoxic diving conditions?",
+        "correctQuestion": "Enhanced myoglobin concentration and tolerance to anaerobic metabolism during dives",
+        "value": 500
+      },
+      {
+        "clue": "How do plover populations maintain mate fidelity and reproductive success in unstable environments?",
+        "correctQuestion": "Rapid re-pairing allows multiple breeding attempts if nests fail",
+        "value": 500
+      },
+      {
+        "clue": "What is the relationship between heron foraging behavior and prey temporal availability?",
+        "correctQuestion": "Herons adjust hunting times and locations based on prey activity patterns and tidal cycles",
+        "value": 500
+      },
+      {
+        "clue": "How do seagull populations respond to anthropogenic food subsidies in ecosystem dynamics?",
+        "correctQuestion": "Over-reliance on garbage reduces fitness, increases conflicts, and masks population decline signals",
+        "value": 500
+      },
+      {
+        "clue": "What physiological trade-offs exist between pelican diving capacity and thermoregulation?",
+        "correctQuestion": "Air sac buoyancy aids diving but increases heat loss, requiring precise thermal management",
+        "value": 500
+      },
+      {
+        "clue": "How do sandpiper stopover site selection affect migration success and survival?",
+        "correctQuestion": "Sites with abundant invertebrate food and low predation increase refueling efficiency and reduce mortality",
+        "value": 500
+      },
+      {
+        "clue": "What is the significance of tern colony location choice for breeding success?",
+        "correctQuestion": "Colonies on islands minimize predation while proximity to fishing grounds reduces foraging costs",
+        "value": 500
+      },
+      {
+        "clue": "How do cormorant diving patterns reflect individual specialization and learning?",
+        "correctQuestion": "Individuals develop preferred depths and techniques that persist across seasons",
+        "value": 500
+      },
+      {
+        "clue": "What role do environmental stressors play in plover population crashes?",
+        "correctQuestion": "Combined effects of habitat loss, predation, and weather create population instability",
+        "value": 500
+      },
+      {
+        "clue": "How do heron populations partition resources in sympatric species communities?",
+        "correctQuestion": "Species occupy different depths, prey sizes, and temporal niches within shared habitats",
+        "value": 500
+      },
+      {
+        "clue": "What is the mechanistic basis for seagull urban adaptation and behavioral flexibility?",
+        "correctQuestion": "Neophobia reduction, enhanced learning rates, and social transmission of information",
+        "value": 500
+      },
+      {
+        "clue": "How do pelican populations respond to fishery competition and bycatch pressure?",
+        "correctQuestion": "Populations decline without spatial management separating fishing and bird foraging zones",
+        "value": 500
+      },
+      {
+        "clue": "What is the relationship between tern brain size and migration route complexity?",
+        "correctQuestion": "Larger brain regions support navigation and spatial memory for long-distance migration",
+        "value": 500
+      },
+      {
+        "clue": "How do oystercatcher populations demonstrate phenotypic plasticity in response to prey changes?",
+        "correctQuestion": "Individuals switch from hammering to stabbing techniques based on prey characteristics",
+        "value": 500
+      },
+      {
+        "clue": "What is the ecological consequence of cormorant population recovery in freshwater systems?",
+        "correctQuestion": "Increased predation pressure on fish stocks affects ecosystem balance and fishery economics",
+        "value": 500
+      },
+      {
+        "clue": "How do plover populations utilize cryptic behavior to optimize reproductive success?",
+        "correctQuestion": "Camouflage coloration reduces predator detection while distraction displays protect nests",
+        "value": 500
+      },
+      {
+        "clue": "What is the significance of heron bill size variation for ecological niche partitioning?",
+        "correctQuestion": "Larger bills capture larger prey; size variation allows sympatric coexistence with reduced competition",
+        "value": 500
+      },
+      {
+        "clue": "How do seagull epigenetic modifications related to stress hormone expression influence transgenerational phenotypes?",
+        "correctQuestion": "Maternal stress affects offspring stress sensitivity through altered glucocorticoid receptor methylation patterns",
+        "value": 600
+      },
+      {
+        "clue": "What is the mechanistic pathway linking pelican diving physiology to anaerobic metabolism during extreme depths?",
+        "correctQuestion": "Synchronized myocardial depression with increased parasympathetic tone reduces oxygen consumption",
+        "value": 600
+      },
+      {
+        "clue": "How do tern populations demonstrate predictive phenotypic plasticity in response to climate oscillations?",
+        "correctQuestion": "Breeding timing shifts correlate with barometric pressure and oceanographic indices ahead of seasonal peaks",
+        "value": 600
+      },
+      {
+        "clue": "What are the evolutionary game-theoretic dynamics underlying oystercatcher feeding technique polymorphism?",
+        "correctQuestion": "Frequency-dependent selection maintains mixed strategies; rare phenotypes gain advantage through reduced competition",
+        "value": 600
+      },
+      {
+        "clue": "How do cormorant populations demonstrate regulatory plasticity in hemoglobin oxygen affinity across diving depth?",
+        "correctQuestion": "Increases in 2,3-DPG enhance oxygen release at tissue level during hypoxic dives",
+        "value": 600
+      },
+      {
+        "clue": "What are the computational models predicting plover population viability under combined stressor scenarios?",
+        "correctQuestion": "Integral population models incorporating habitat loss, predation, and climate variance predict critical thresholds",
+        "value": 600
+      },
+      {
+        "clue": "How do heron populations demonstrate dynamic state-dependent optimization in foraging decisions?",
+        "correctQuestion": "Feeding location and time allocation shift based on energetic state and predation risk",
+        "value": 600
+      },
+      {
+        "clue": "What is the neurobiological basis for seagull problem-solving abilities and tool use observation?",
+        "correctQuestion": "Prefrontal cortex enlargement supports executive function and learning from social observation",
+        "value": 600
+      },
+      {
+        "clue": "How do sandpiper populations demonstrate microevolutionary responses to climate-driven selection pressures?",
+        "correctQuestion": "Rapid shifts in migration timing (10+ days/decade) show directional selection on circannual rhythm genes",
+        "value": 600
+      },
+      {
+        "clue": "What is the systems-level mechanism of pelican cooperative hunting and information transfer?",
+        "correctQuestion": "Chemical and acoustic signaling coordinates group movements to optimize predation success",
+        "value": 600
+      },
+      {
+        "clue": "How do seagull populations demonstrate sexual conflict in parental investment allocation?",
+        "correctQuestion": "Asymmetric investment with females bearing greater metabolic costs creates divergent reproductive strategies",
+        "value": 600
+      },
+      {
+        "clue": "What are the molecular mechanisms underlying tern circadian synchronization with tidal foraging cycles?",
+        "correctQuestion": "Multiple clock genes interact with tidal cues to generate bimodal activity patterns",
+        "value": 600
+      },
+      {
+        "clue": "How do oystercatcher populations maintain behavioral tradition through cultural transmission?",
+        "correctQuestion": "Fledglings copy parental feeding techniques creating regional feeding specialization with limited genetic basis",
+        "value": 600
+      },
+      {
+        "clue": "What are the biophysical constraints on cormorant diving physiology under varying salinity and temperature?",
+        "correctQuestion": "Salinity affects buoyancy requiring compensatory diving angle changes; temperature affects metabolic efficiency",
+        "value": 600
+      },
+      {
+        "clue": "How do plover populations demonstrate source-sink dynamics across fragmented coastal habitats?",
+        "correctQuestion": "High-quality sites produce surplus emigrants that maintain population viability in low-quality sinks",
+        "value": 600
+      },
+      {
+        "clue": "What is the endocrine-mediated mechanism linking heron social status to reproductive hormone profiles?",
+        "correctQuestion": "Dominance hierarchy sustains elevated testosterone in breeding males, suppressing subordinate reproduction",
+        "value": 600
+      },
+      {
+        "clue": "How do seagull populations demonstrate frequency-dependent selection in colony site abandonment?",
+        "correctQuestion": "As colonies exceed carrying capacity, increasing costs favor dispersal in nonlinear relationship",
+        "value": 600
+      },
+      {
+        "clue": "What are the biomimetic applications derived from studying pelican feather hydrophobic properties?",
+        "correctQuestion": "Hierarchical nanotextures inspire next-generation water-resistant materials and coating technologies",
+        "value": 600
+      },
+      {
+        "clue": "How do sandpiper populations demonstrate genotype-by-environment interactions in migratory timing?",
+        "correctQuestion": "Same genotypes show different migration timing across geographic populations due to local environment variation",
+        "value": 600
+      },
+      {
+        "clue": "What is the evolutionary stable strategy for tern reproductive skew within colonies?",
+        "correctQuestion": "Dominant pair monopolization of best territories selects for subordinate tolerance through resource value variation",
+        "value": 600
+      },
+      {
+        "clue": "How do cormorant populations demonstrate evolutionary rescue through rapid adaptation to pesticide exposure?",
+        "correctQuestion": "Selection on detoxification enzyme variants allows population persistence despite eggshell thinning",
+        "value": 600
+      },
+      {
+        "clue": "What are the meta-population dynamics governing plover persistence in heterogeneous coastal landscapes?",
+        "correctQuestion": "Connectivity between patches determines rescue effect probability and long-term extinction risk",
+        "value": 600
+      },
+      {
+        "clue": "How do heron populations demonstrate phenotypic integration in morphological traits related to ecological niche?",
+        "correctQuestion": "Integrated changes in bill length, leg length, and body size correlate with prey size specialization",
+        "value": 600
+      },
+      {
+        "clue": "What is the theoretical basis for seagull colony size optimization balancing benefits against costs?",
+        "correctQuestion": "Optimal colony size reflects equilibrium between predation refuge, interference competition, and disease transmission",
+        "value": 600
+      },
+      {
+        "clue": "How do pelican populations demonstrate heterochronic shifts in developmental timing related to climate change?",
+        "correctQuestion": "Earlier egg-laying dates correlate with precocial development advancement in chicks",
+        "value": 600
+      },
+      {
+        "clue": "What are the immunological trade-offs between tern investment in migration preparation and immune function?",
+        "correctQuestion": "Enhanced stress hormone suppresses immune response making birds vulnerable to infection during migration",
+        "value": 600
+      },
+      {
+        "clue": "How do oystercatcher populations demonstrate niche conservatism despite ecological opportunity in novel habitats?",
+        "correctQuestion": "Strong habitat fidelity and behavioral traditions limit colonization of suitable but unfamiliar sites",
+        "value": 600
+      },
+      {
+        "clue": "What is the mechanistic model explaining cormorant population cycles driven by food availability and predation?",
+        "correctQuestion": "Time-lag dynamics in population growth coupled with predator response create limit cycles",
+        "value": 600
+      },
+      {
+        "clue": "How do plover populations demonstrate fluctuating asymmetry as an indicator of environmental stress?",
+        "correctQuestion": "Increased bilateral asymmetry in morphological traits indicates developmental instability from stressors",
+        "value": 600
+      },
+      {
+        "clue": "What is the integrative model linking heron metabolism, foraging behavior, and population dynamics under anthropogenic disturbance?",
+        "correctQuestion": "Increased vigilance and suboptimal foraging reduce energy intake, which suppresses reproduction and increases mortality",
+        "value": 600
+      }
+    ]
+  }
 }

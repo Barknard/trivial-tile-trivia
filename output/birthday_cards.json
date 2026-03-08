@@ -2,365 +2,166 @@
   "category": "Birthday Cards, Greetings & Messages",
   "theme": "birthday",
   "category_id": "birthday_cards",
-  "description": "30 traditional trivia clues about birthday cards, greetings, and card messages + 30 CAH-style humorous clues",
-  "research_basis": "Card-making traditions, written communication, greeting card industry history, modern messaging culture, social etiquette",
-
-  "regular_clues": [
-    {
-      "clue": "The oldest surviving birthday greeting card dates back to this medieval century",
-      "correctQuestion": "What is the 15th century?",
-      "value": 200
-    },
-    {
-      "clue": "This company is the world's largest greeting card manufacturer",
-      "correctQuestion": "What is Hallmark?",
-      "value": 200
-    },
-    {
-      "clue": "The tradition of sending birthday cards became popular during this monarch's reign",
-      "correctQuestion": "Who is Queen Victoria?",
-      "value": 200
-    },
-    {
-      "clue": "This material is traditionally used to make greeting cards rigid",
-      "correctQuestion": "What is cardstock?",
-      "value": 200
-    },
-    {
-      "clue": "A birthday card typically contains this folded number of pages",
-      "correctQuestion": "What is 2 (or 4)?",
-      "value": 200
-    },
-    {
-      "clue": "This postage item is required to mail a birthday card",
-      "correctQuestion": "What is a stamp?",
-      "value": 200
-    },
-    {
-      "clue": "The phrase on most birthday cards followed by an exclamation mark",
-      "correctQuestion": "What is 'Happy Birthday'?",
-      "value": 200
-    },
-    {
-      "clue": "This artistic technique decorates birthday cards with embossed designs",
-      "correctQuestion": "What is embossing?",
-      "value": 400
-    },
-    {
-      "clue": "Birthday cards featuring these literary characters became a collectible trend",
-      "correctQuestion": "What are Disney characters?",
-      "value": 400
-    },
-    {
-      "clue": "This glittery material was added to greeting cards in the 1990s",
-      "correctQuestion": "What is glitter?",
-      "value": 400
-    },
-    {
-      "clue": "The first commercially printed birthday cards appeared in this country",
-      "correctQuestion": "What is Germany?",
-      "value": 400
-    },
-    {
-      "clue": "This musical element plays when you open certain modern birthday cards",
-      "correctQuestion": "What is a music box (or electronic sound)?",
-      "value": 400
-    },
-    {
-      "clue": "This fold-out feature creates a 3D effect in some birthday cards",
-      "correctQuestion": "What is a pop-up?",
-      "value": 400
-    },
-    {
-      "clue": "Birthday cards with these biological items became a fragrant trend",
-      "correctQuestion": "What are dried flowers?",
-      "value": 400
-    },
-    {
-      "clue": "This paper-cutting Japanese art decorates some Asian birthday cards",
-      "correctQuestion": "What is kirigami?",
-      "value": 400
-    },
-    {
-      "clue": "The average American receives this many birthday cards per year",
-      "correctQuestion": "What is 2-3 (or approximately 20-30 in lifetime)?",
-      "value": 600
-    },
-    {
-      "clue": "This calligraphy style adorns formal birthday invitation cards",
-      "correctQuestion": "What is cursive (or copperplate)?",
-      "value": 600
-    },
-    {
-      "clue": "Birthday cards featuring these mythological creatures symbolize luck in Asian cultures",
-      "correctQuestion": "What are dragons?",
-      "value": 600
-    },
-    {
-      "clue": "This wax material seals envelopes on formal birthday invitations",
-      "correctQuestion": "What is sealing wax?",
-      "value": 600
-    },
-    {
-      "clue": "The greeting card industry generates approximately this many dollars annually",
-      "correctQuestion": "What is $7-8 billion?",
-      "value": 600
-    },
-    {
-      "clue": "This printing technique creates raised ink on luxury birthday cards",
-      "correctQuestion": "What is letterpress?",
-      "value": 600
-    },
-    {
-      "clue": "Birthday cards shaped like these animals are the most popular collectible",
-      "correctQuestion": "What are cats?",
-      "value": 600
-    },
-    {
-      "clue": "This social media platform has largely replaced traditional birthday cards for millennials",
-      "correctQuestion": "What is Facebook?",
-      "value": 600
-    },
-    {
-      "clue": "The first electronic greeting card was sent via this communication method in 1994",
-      "correctQuestion": "What is email?",
-      "value": 800
-    },
-    {
-      "clue": "This metallic foil paper coating makes cards shimmer like precious metals",
-      "correctQuestion": "What is gold/silver foil?",
-      "value": 800
-    },
-    {
-      "clue": "Birthday cards displaying these preserved plant parts became a Victorian trend",
-      "correctQuestion": "What are pressed flowers?",
-      "value": 800
-    },
-    {
-      "clue": "This minimalist card design trend emerged in Scandinavian countries",
-      "correctQuestion": "What is Scandinavian/Nordic design?",
-      "value": 800
-    },
-    {
-      "clue": "The oldest known handwritten birthday greeting card was sent in this year",
-      "correctQuestion": "What is 1520?",
-      "value": 800
-    },
-    {
-      "clue": "This percentage of birthday cards are purchased specifically for children",
-      "correctQuestion": "What is 35-40%?",
-      "value": 800
-    },
-    {
-      "clue": "Birthday greeting cards made entirely of this biodegradable material became eco-friendly alternatives",
-      "correctQuestion": "What is seed paper?",
-      "value": 1000
-    }
-  ],
-
-  "cah_style_clues": [
-    {
-      "clue": "What your mom actually wants on her birthday card when she says 'anything nice'",
-      "correctQuestion": "What is proof you're not in jail?",
-      "value": 200,
-      "why_it_works": "Relatable parent expectations - universal experience"
-    },
-    {
-      "clue": "The actual message on your work birthday card after HR made everyone sign",
-      "correctQuestion": "What is 'We barely know you'?",
-      "value": 200,
-      "why_it_works": "Office culture humor - everyone recognizes fake office warmth"
-    },
-    {
-      "clue": "What your sibling writes in your birthday card instead of an actual message",
-      "correctQuestion": "What is 'Happy Birthday'?",
-      "value": 200,
-      "why_it_works": "Sibling laziness is universal relatable humor"
-    },
-    {
-      "clue": "The emoji millennials use when they're too broke to buy a physical birthday card",
-      "correctQuestion": "What is the birthday cake emoji?",
-      "value": 200,
-      "why_it_works": "Millennial financial struggles - mainstream Gen Z/Millennial reference"
-    },
-    {
-      "clue": "What the dollar store birthday card says on the back to justify the $1.25 price",
-      "correctQuestion": "What is 'We spent the same amount on card as we did on this blank inside'?",
-      "value": 200,
-      "why_it_works": "Dollar store culture is mainstream experience"
-    },
-    {
-      "clue": "The thing you get when you buy a 'funny' birthday card that isn't actually funny",
-      "correctQuestion": "What is secondhand embarrassment?",
-      "value": 400,
-      "why_it_works": "Everyone's bought a bad joke card - relatable"
-    },
-    {
-      "clue": "What your friend writes after forgetting your birthday for two months",
-      "correctQuestion": "What is 'Better late than never' with four exclamation marks?",
-      "value": 400,
-      "why_it_works": "Friend awkwardness everyone experiences"
-    },
-    {
-      "clue": "The greeting card company's actual target audience when they sell 'hilarious' over-60s birthday cards",
-      "correctQuestion": "What is people who think fart jokes are timeless?",
-      "value": 400,
-      "why_it_works": "Generational humor divide - mainstream cultural observation"
-    },
-    {
-      "clue": "What Karen writes in birthday cards to her MLM downlines to 'celebrate' them",
-      "correctQuestion": "What is 'You can do it, boss babe'?",
-      "value": 400,
-      "why_it_works": "MLM/Karen culture is mainstream meme (passed the 'Would My Mom Know This?' test)"
-    },
-    {
-      "clue": "The app where you search for birthday card text because buying one feels like too much effort",
-      "correctQuestion": "What is Google?",
-      "value": 400,
-      "why_it_works": "Lazy millennial behavior - mainstream relatable"
-    },
-    {
-      "clue": "Why your divorced parents' handwriting on the birthday card is aggressively separate",
-      "correctQuestion": "What is unresolved tension?",
-      "value": 600,
-      "why_it_works": "Divorce humor - mainstream cultural experience"
-    },
-    {
-      "clue": "What the inside of a Hallmark sympathy card accidentally says when you mix up cards at Target",
-      "correctQuestion": "What is 'Hope your death isn't too sad' (or similar mismatch)?",
-      "value": 600,
-      "why_it_works": "Mix-up humor, Hallmark/Target ubiquity, dark but reasonable"
-    },
-    {
-      "clue": "The social media filter your mom uses to take a photo of your birthday card for Facebook",
-      "correctQuestion": "What is the dog filter?",
-      "value": 400,
-      "why_it_works": "Mom/Facebook filter humor - mainstream"
-    },
-    {
-      "clue": "What boomer parents include in birthday cards that has inflated in cost since 1987",
-      "correctQuestion": "What is cash (or a check)?",
-      "value": 400,
-      "why_it_works": "Boomer generational humor + inflation economics are mainstream"
-    },
-    {
-      "clue": "The thing Gen X birthday cards always mention that Gen Z has no idea about",
-      "correctQuestion": "What is getting older without Instagram to document it?",
-      "value": 600,
-      "why_it_works": "Generational divide on social media documentation"
-    },
-    {
-      "clue": "What your ex texts you instead of sending an actual birthday card because they're petty",
-      "correctQuestion": "What is 'Happy Birthday' with zero punctuation?",
-      "value": 600,
-      "why_it_works": "Relationship awkwardness + texting culture humor"
-    },
-    {
-      "clue": "The sentiment your therapist says you need to accept when your family forgets your birthday card",
-      "correctQuestion": "What is 'That's a pattern'?",
-      "value": 600,
-      "why_it_works": "Therapy culture + family dysfunction humor (mainstream Gen Z/Millennial experience)"
-    },
-    {
-      "clue": "What you do with the birthday card from your toxic family member before they ask if you got it",
-      "correctQuestion": "What is hide it (or throw it out)?",
-      "value": 400,
-      "why_it_works": "Toxic family culture is mainstream discussion"
-    },
-    {
-      "clue": "The passive-aggressive note your HOA president writes in your birthday card",
-      "correctQuestion": "What is 'Your trash cans are out front again'?",
-      "value": 600,
-      "why_it_works": "HOA drama is mainstream suburban culture"
-    },
-    {
-      "clue": "What handwriting style baby boomers use in birthday cards that looks like a ransom note",
-      "correctQuestion": "What is aggressive cursive?",
-      "value": 400,
-      "why_it_works": "Boomer handwriting is a running cultural joke"
-    },
-    {
-      "clue": "The thing on Etsy birthday cards that costs $45 and is handmade by someone in Ohio",
-      "correctQuestion": "What is a basic watercolor painting of a flower?",
-      "value": 600,
-      "why_it_works": "Etsy culture + indie pricing humor (mainstream online commerce)"
-    },
-    {
-      "clue": "Why the greeting card at Walgreens costs $6.99 but the card itself was made for 12 cents",
-      "correctQuestion": "What is capitalism (or greeting card industry greed)?",
-      "value": 600,
-      "why_it_works": "Anti-capitalist humor is mainstream millennial/Gen Z"
-    },
-    {
-      "clue": "What you realize when you open a birthday card and find someone else's name already written in it",
-      "correctQuestion": "What is 'I'm not special and this was bulk-purchased'?",
-      "value": 400,
-      "why_it_works": "Generic card humor - relatable shopping experience"
-    },
-    {
-      "clue": "The app your girlfriend uses to send you a birthday card because you live too far apart",
-      "correctQuestion": "What is OpenTable (or similar digital gifting)?",
-      "value": 400,
-      "why_it_works": "Long-distance relationship culture + digital alternatives"
-    },
-    {
-      "clue": "What your grandmother writes in birthday cards that makes absolutely no sense contextually",
-      "correctQuestion": "What is a random Bible verse?",
-      "value": 400,
-      "why_it_works": "Grandmother stereotype - mainstream cultural observation"
-    },
-    {
-      "clue": "The last person to sign the office birthday card before it reaches your desk completely blank",
-      "correctQuestion": "What is Dave from accounting?",
-      "value": 600,
-      "why_it_works": "Office culture - everyone's had a Dave"
-    },
-    {
-      "clue": "Why the birthday card from your coworker who hates you says 'Have a nice day' with no 'birthday'",
-      "correctQuestion": "What is passive-aggressive hostility?",
-      "value": 600,
-      "why_it_works": "Workplace tension humor"
-    },
-    {
-      "clue": "The thing influencers do with birthday cards instead of keeping them like normal people",
-      "correctQuestion": "What is photograph them for Instagram content?",
-      "value": 400,
-      "why_it_works": "Influencer culture is mainstream reference"
-    },
-    {
-      "clue": "What your estranged parent writes in the birthday card they send once every five years",
-      "correctQuestion": "What is 'Thinking of you' with a signature?",
-      "value": 600,
-      "why_it_works": "Estrangement/family dysfunction is mainstream discussion"
-    },
-    {
-      "clue": "The NFT some startup tried to sell as a replacement for physical birthday cards in 2022",
-      "correctQuestion": "What is a scam?",
-      "value": 800,
-      "why_it_works": "NFT bubble burst is mainstream cultural memory"
-    }
-  ],
-
-  "metadata": {
-    "total_clues": 60,
-    "regular_count": 30,
-    "cah_count": 30,
-    "value_distribution": {
-      "200": 15,
-      "400": 22,
-      "600": 21,
-      "800": 2
-    },
-    "date_created": "2026-01-01",
-    "style_guide_version": "CAH_STYLE_GUIDE_2025.md",
-    "principles_applied": [
-      "SHORT & PUNCHY answers",
-      "Mainstream references only (Would My Mom Know This test)",
-      "Clear setup-punchline structure",
-      "Relatable cultural experiences",
-      "Dark humor with logical connection",
-      "No random shock value",
-      "Contextual clues that hint at answers"
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The oldest surviving birthday greeting card dates back to this medieval century",
+        "correctQuestion": "What is the 15th century?",
+        "value": 200
+      },
+      {
+        "clue": "This company is the world's largest greeting card manufacturer",
+        "correctQuestion": "What is Hallmark?",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of sending birthday cards became popular during this monarch's reign",
+        "correctQuestion": "Who is Queen Victoria?",
+        "value": 200
+      },
+      {
+        "clue": "This material is traditionally used to make greeting cards rigid",
+        "correctQuestion": "What is cardstock?",
+        "value": 200
+      },
+      {
+        "clue": "A birthday card typically contains this folded number of pages",
+        "correctQuestion": "What is 2 (or 4)?",
+        "value": 200
+      },
+      {
+        "clue": "This postage item is required to mail a birthday card",
+        "correctQuestion": "What is a stamp?",
+        "value": 200
+      },
+      {
+        "clue": "The phrase on most birthday cards followed by an exclamation mark",
+        "correctQuestion": "What is 'Happy Birthday'?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This artistic technique decorates birthday cards with embossed designs",
+        "correctQuestion": "What is embossing?",
+        "value": 400
+      },
+      {
+        "clue": "Birthday cards featuring these literary characters became a collectible trend",
+        "correctQuestion": "What are Disney characters?",
+        "value": 400
+      },
+      {
+        "clue": "This glittery material was added to greeting cards in the 1990s",
+        "correctQuestion": "What is glitter?",
+        "value": 400
+      },
+      {
+        "clue": "The first commercially printed birthday cards appeared in this country",
+        "correctQuestion": "What is Germany?",
+        "value": 400
+      },
+      {
+        "clue": "This musical element plays when you open certain modern birthday cards",
+        "correctQuestion": "What is a music box (or electronic sound)?",
+        "value": 400
+      },
+      {
+        "clue": "This fold-out feature creates a 3D effect in some birthday cards",
+        "correctQuestion": "What is a pop-up?",
+        "value": 400
+      },
+      {
+        "clue": "Birthday cards with these biological items became a fragrant trend",
+        "correctQuestion": "What are dried flowers?",
+        "value": 400
+      },
+      {
+        "clue": "This paper-cutting Japanese art decorates some Asian birthday cards",
+        "correctQuestion": "What is kirigami?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "The average American receives this many birthday cards per year",
+        "correctQuestion": "What is 2-3 (or approximately 20-30 in lifetime)?",
+        "value": 600
+      },
+      {
+        "clue": "This calligraphy style adorns formal birthday invitation cards",
+        "correctQuestion": "What is cursive (or copperplate)?",
+        "value": 600
+      },
+      {
+        "clue": "Birthday cards featuring these mythological creatures symbolize luck in Asian cultures",
+        "correctQuestion": "What are dragons?",
+        "value": 600
+      },
+      {
+        "clue": "This wax material seals envelopes on formal birthday invitations",
+        "correctQuestion": "What is sealing wax?",
+        "value": 600
+      },
+      {
+        "clue": "The greeting card industry generates approximately this many dollars annually",
+        "correctQuestion": "What is $7-8 billion?",
+        "value": 600
+      },
+      {
+        "clue": "This printing technique creates raised ink on luxury birthday cards",
+        "correctQuestion": "What is letterpress?",
+        "value": 600
+      },
+      {
+        "clue": "Birthday cards shaped like these animals are the most popular collectible",
+        "correctQuestion": "What are cats?",
+        "value": 600
+      },
+      {
+        "clue": "This social media platform has largely replaced traditional birthday cards for millennials",
+        "correctQuestion": "What is Facebook?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The first electronic greeting card was sent via this communication method in 1994",
+        "correctQuestion": "What is email?",
+        "value": 800
+      },
+      {
+        "clue": "This metallic foil paper coating makes cards shimmer like precious metals",
+        "correctQuestion": "What is gold/silver foil?",
+        "value": 800
+      },
+      {
+        "clue": "Birthday cards displaying these preserved plant parts became a Victorian trend",
+        "correctQuestion": "What are pressed flowers?",
+        "value": 800
+      },
+      {
+        "clue": "This minimalist card design trend emerged in Scandinavian countries",
+        "correctQuestion": "What is Scandinavian/Nordic design?",
+        "value": 800
+      },
+      {
+        "clue": "The oldest known handwritten birthday greeting card was sent in this year",
+        "correctQuestion": "What is 1520?",
+        "value": 800
+      },
+      {
+        "clue": "This percentage of birthday cards are purchased specifically for children",
+        "correctQuestion": "What is 35-40%?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Birthday greeting cards made entirely of this biodegradable material became eco-friendly alternatives",
+        "correctQuestion": "What is seed paper?",
+        "value": 1000
+      }
     ]
   }
 }

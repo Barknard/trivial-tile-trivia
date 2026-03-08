@@ -2,13 +2,8 @@
   "category": "Birthday Balloons, Streamers & Party Supplies",
   "theme": "party_decorations",
   "category_id": "birthday_balloons",
-  "description": "Balloons, streamers, confetti, party supplies, decorations, balloon animals, latex vs. helium, party planning materials, balloon physics, and festive decorative elements for birthday celebrations",
-  "age_suitability": "All ages",
-  "research_alignment": "Party planning, decorative arts, physics of buoyancy, materials science, event decoration, color theory, spatial design, craft skills, historical traditions, celebration culture",
-  "generated_date": "2025-12-27",
-  "total_questions": 60,
   "audiences": {
-    "regular_trivia": [
+    "adults": [
       {
         "clue": "This gas fills most party balloons to make them float",
         "correctQuestion": "What is helium?",
@@ -160,7 +155,7 @@
         "value": 800
       }
     ],
-    "cah_style": [
+    "no_humanity": [
       {
         "clue": "What Pinterest moms spend their entire weekend creating for their kid's party",
         "correctQuestion": "What is a balloon garland that costs more than your rent?",

@@ -1,240 +1,189 @@
 {
   "category": "Santa & His Friends - NO HUMANITY (Mainstream References Only)",
-  "revised_no_humanity_section": [
-    {
-      "clue": "This retail giant with the smile logo is where Santa really gets those 'handmade North Pole toys' for $3.99 with free shipping",
-      "correctQuestion": "What is Amazon?",
-      "value": 200,
-      "mainstream_check": "✅ Everyone knows Amazon Prime"
-    },
-    {
-      "clue": "The social media platform where your drunk uncle posts Fox News articles about the War on Christmas every December",
-      "correctQuestion": "What is Facebook?",
-      "value": 200,
-      "mainstream_check": "✅ Everyone has a Facebook uncle"
-    },
-    {
-      "clue": "This pandemic turned Christmas 2020 into Zoom calls with grandma who couldn't figure out how to unmute",
-      "correctQuestion": "What is COVID-19?",
-      "value": 200,
-      "mainstream_check": "✅ Universal pandemic experience"
-    },
-    {
-      "clue": "The streaming service that made kids believe in the Grinch more than Santa because they watch it 24/7",
-      "correctQuestion": "What is Netflix?",
-      "value": 200,
-      "mainstream_check": "✅ Everyone knows Netflix kids"
-    },
-    {
-      "clue": "This coffee chain's plain red cups became a 'War on Christmas' battlefield in 2015 according to angry Facebook posts",
-      "correctQuestion": "What is Starbucks?",
-      "value": 200,
-      "mainstream_check": "✅ Red cup controversy was huge news"
-    },
-    {
-      "clue": "What Rudolph's red glowing nose is actually from after years of Christmas Eve bar crawls with the other reindeer",
-      "correctQuestion": "What is alcoholism?",
-      "value": 200,
-      "mainstream_check": "✅ Universal red nose = drunk joke"
-    },
-    {
-      "clue": "The video app where Gen Z posts their 'manifestation rituals' instead of writing letters to Santa",
-      "correctQuestion": "What is TikTok?",
-      "value": 200,
-      "mainstream_check": "✅ TikTok manifestation trend was everywhere"
-    },
-    {
-      "clue": "The celebrity weight-loss drug that finally helped Santa fit down chimneys in 2023-2024",
-      "correctQuestion": "What is Ozempic?",
-      "value": 200,
-      "mainstream_check": "✅ Ozempic craze was massive news"
-    },
-    {
-      "clue": "What Mrs. Claus started after she found Santa's browser history had 'naughty list' searches at 3am",
-      "correctQuestion": "What is an OnlyFans account?",
-      "value": 400,
-      "mainstream_check": "✅ OnlyFans went mainstream 2020-2025"
-    },
-    {
-      "clue": "The gig economy app Santa secretly drives for at 2am on December 26th to pay off his Amazon Christmas debt",
-      "correctQuestion": "What is Uber?",
-      "value": 400,
-      "mainstream_check": "✅ Everyone knows Uber drivers"
-    },
-    {
-      "clue": "This toy store chain Amazon killed, forcing Santa to just deliver Prime boxes instead of actual toys",
-      "correctQuestion": "What is Toys R Us?",
-      "value": 400,
-      "mainstream_check": "✅ Toys R Us death was big news"
-    },
-    {
-      "clue": "The phone Santa's elves all demanded for Christmas instead of coal, starting at $1,200",
-      "correctQuestion": "What is an iPhone?",
-      "value": 400,
-      "mainstream_check": "✅ iPhone = universal expensive gift"
-    },
-    {
-      "clue": "What the Elf on the Shelf is secretly training kids to accept as normal: constant watching by this three-letter agency",
-      "correctQuestion": "What is the NSA?",
-      "value": 400,
-      "mainstream_check": "✅ Post-Snowden everyone knows NSA"
-    },
-    {
-      "clue": "The payment app where you can see your ex Venmoed their new boyfriend for 'Christmas presents' with the 🎄 emoji",
-      "correctQuestion": "What is Venmo?",
-      "value": 400,
-      "mainstream_check": "✅ Venmo public feed drama is well-known"
-    },
-    {
-      "clue": "This billionaire's electric car company whose vehicles keep catching fire would make a terrible replacement for Santa's sleigh",
-      "correctQuestion": "What is Tesla?",
-      "value": 400,
-      "mainstream_check": "✅ Tesla fires are mainstream news"
-    },
-    {
-      "clue": "The AI speaker that heard everything you said around the Christmas tree and is definitely selling that data to advertisers",
-      "correctQuestion": "What is Alexa?",
-      "value": 400,
-      "mainstream_check": "✅ Alexa privacy concerns everywhere"
-    },
-    {
-      "clue": "What Gen Z actually wants for Christmas: therapy, student loan forgiveness, and this other impossible dream",
-      "correctQuestion": "What is affordable rent?",
-      "value": 600,
-      "mainstream_check": "✅ Gen Z financial crisis is major news"
-    },
-    {
-      "clue": "The real reason Santa only 'comes' once a year, according to Mrs. Claus's couples therapist",
-      "correctQuestion": "What is erectile dysfunction?",
-      "value": 600,
-      "mainstream_check": "✅ Universal 'comes once a year' joke"
-    },
-    {
-      "clue": "This pop star makes $3 million every December by defrosting and singing 'All I Want For Christmas'",
-      "correctQuestion": "Who is Mariah Carey?",
-      "value": 600,
-      "mainstream_check": "✅ Mariah defrost meme is everywhere"
-    },
-    {
-      "clue": "What replaced Christmas cards in 2025: this group message where nobody can figure out how to leave",
-      "correctQuestion": "What is a group text?",
-      "value": 600,
-      "mainstream_check": "✅ Group text hell is universal"
-    },
-    {
-      "clue": "The controversial topic that ruined more Christmas dinners 2020-2024 than burnt turkey",
-      "correctQuestion": "What is Trump and politics?",
-      "value": 600,
-      "mainstream_check": "✅ Political family fights are universal"
-    },
-    {
-      "clue": "What kids leave out for Santa in states where it's legal instead of cookies and milk",
-      "correctQuestion": "What are weed edibles?",
-      "value": 600,
-      "mainstream_check": "✅ Legal weed is mainstream news"
-    },
-    {
-      "clue": "This fast food delivery app Santa uses to get McDonald's at 11:55pm on Christmas Eve to stay awake",
-      "correctQuestion": "What is DoorDash?",
-      "value": 600,
-      "mainstream_check": "✅ DoorDash late night orders universal"
-    },
-    {
-      "clue": "The background check requirement that destroyed the mall Santa industry even worse than Amazon destroyed retail",
-      "correctQuestion": "What is the sex offender registry?",
-      "value": 600,
-      "mainstream_check": "✅ Background checks for Santa widely known"
-    },
-    {
-      "clue": "Mrs. Claus caught Santa on this niche dating site where farmers 'don't have to be lonely'",
-      "correctQuestion": "What is FarmersOnly.com?",
-      "value": 800,
-      "mainstream_check": "✅ FarmersOnly commercial is iconic meme"
-    },
-    {
-      "clue": "The second controversial topic that ended Christmas dinners 2020-2023: arguments about getting this shot",
-      "correctQuestion": "What is the COVID vaccine?",
-      "value": 800,
-      "mainstream_check": "✅ Vaccine debates at family dinners universal"
-    },
-    {
-      "clue": "What Santa's workshop elves demanded in their Amazon warehouse-style lawsuit: this worker protection",
-      "correctQuestion": "What are union rights?",
-      "value": 800,
-      "mainstream_check": "✅ Amazon union battles 2020-2025 huge news"
-    },
-    {
-      "clue": "Santa's rating as an Uber driver after passengers realized he smells like whiskey and shattered dreams",
-      "correctQuestion": "What is 1 star?",
-      "value": 800,
-      "mainstream_check": "✅ Uber ratings are universal"
-    },
-    {
-      "clue": "The real Christmas miracle Millennials pray for instead of snow: a house they can actually afford",
-      "correctQuestion": "What is affordable housing?",
-      "value": 800,
-      "mainstream_check": "✅ Housing crisis is massive news"
-    },
-    {
-      "clue": "What actually killed the Christmas spirit worse than student loans and inflation combined",
-      "correctQuestion": "What is late-stage capitalism?",
-      "value": 800,
-      "mainstream_check": "✅ 'Late-stage capitalism' meme went mainstream"
-    },
-    {
-      "clue": "This song that Gen Z on TikTok says is actually about date rape and coercion, not Christmas romance",
-      "correctQuestion": "What is Baby It's Cold Outside?",
-      "value": 1000,
-      "mainstream_check": "✅ Baby It's Cold Outside controversy huge"
-    },
-    {
-      "clue": "What psychiatrists would diagnose Buddy from 'Elf' with if he showed up in their office in 2025",
-      "correctQuestion": "What is ADHD?",
-      "value": 1000,
-      "mainstream_check": "✅ ADHD diagnosis trend mainstream"
-    },
-    {
-      "clue": "The Paul McCartney Christmas song that would be playing on repeat in Hell, according to music critics",
-      "correctQuestion": "What is Wonderful Christmastime?",
-      "value": 1000,
-      "mainstream_check": "✅ Wonderful Christmastime hate is universal"
-    },
-    {
-      "clue": "What Die Hard is really a movie about, according to film Twitter and gender studies professors",
-      "correctQuestion": "What is toxic masculinity?",
-      "value": 1000,
-      "mainstream_check": "✅ Toxic masculinity discourse mainstream"
-    },
-    {
-      "clue": "The Hallmark Christmas movie drinking game rule: take a shot when white people solve racism with this",
-      "correctQuestion": "What is a Christmas party?",
-      "value": 1000,
-      "mainstream_check": "✅ Hallmark movie formula is well-known meme"
-    },
-    {
-      "clue": "This retail store where moms go for wrapping paper and somehow spend $347 every single time",
-      "correctQuestion": "What is Target?",
-      "value": 1000,
-      "mainstream_check": "✅ Target overspending is massive meme"
-    }
-  ],
-  "quality_improvements": {
-    "removed_obscure_references": [
-      "No more niche memes",
-      "No more academic jargon",
-      "No more deep Reddit references"
-    ],
-    "kept_only_mainstream": [
-      "Apps with millions of users (Amazon, Netflix, TikTok, Uber, DoorDash)",
-      "Major news events (COVID, vaccines, Trump)",
-      "Celebrities everyone knows (Mariah Carey)",
-      "Brands on every street corner (Starbucks, Target, McDonald's)",
-      "Memes that went mainstream (Ozempic, OnlyFans, toxic masculinity)"
-    ],
-    "improved_hinting": [
-      "Clues now clearly point to answers",
-      "Setup-punchline structure",
-      "Jeopardy 'pinning' principle applied"
+  "theme": "christmas",
+  "category_id": "christmas_santa_REVISED_no_humanity",
+  "audiences": {
+    "no_humanity": [
+      {
+        "clue": "This retail giant with the smile logo is where Santa really gets those 'handmade North Pole toys' for $3.99 with free shipping",
+        "correctQuestion": "What is Amazon?",
+        "value": 200
+      },
+      {
+        "clue": "The social media platform where your drunk uncle posts Fox News articles about the War on Christmas every December",
+        "correctQuestion": "What is Facebook?",
+        "value": 200
+      },
+      {
+        "clue": "This pandemic turned Christmas 2020 into Zoom calls with grandma who couldn't figure out how to unmute",
+        "correctQuestion": "What is COVID-19?",
+        "value": 200
+      },
+      {
+        "clue": "The streaming service that made kids believe in the Grinch more than Santa because they watch it 24/7",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "This coffee chain's plain red cups became a 'War on Christmas' battlefield in 2015 according to angry Facebook posts",
+        "correctQuestion": "What is Starbucks?",
+        "value": 200
+      },
+      {
+        "clue": "What Rudolph's red glowing nose is actually from after years of Christmas Eve bar crawls with the other reindeer",
+        "correctQuestion": "What is alcoholism?",
+        "value": 200
+      },
+      {
+        "clue": "The video app where Gen Z posts their 'manifestation rituals' instead of writing letters to Santa",
+        "correctQuestion": "What is TikTok?",
+        "value": 200
+      },
+      {
+        "clue": "The celebrity weight-loss drug that finally helped Santa fit down chimneys in 2023-2024",
+        "correctQuestion": "What is Ozempic?",
+        "value": 200
+      },
+      {
+        "clue": "What Mrs. Claus started after she found Santa's browser history had 'naughty list' searches at 3am",
+        "correctQuestion": "What is an OnlyFans account?",
+        "value": 400
+      },
+      {
+        "clue": "The gig economy app Santa secretly drives for at 2am on December 26th to pay off his Amazon Christmas debt",
+        "correctQuestion": "What is Uber?",
+        "value": 400
+      },
+      {
+        "clue": "This toy store chain Amazon killed, forcing Santa to just deliver Prime boxes instead of actual toys",
+        "correctQuestion": "What is Toys R Us?",
+        "value": 400
+      },
+      {
+        "clue": "The phone Santa's elves all demanded for Christmas instead of coal, starting at $1,200",
+        "correctQuestion": "What is an iPhone?",
+        "value": 400
+      },
+      {
+        "clue": "What the Elf on the Shelf is secretly training kids to accept as normal: constant watching by this three-letter agency",
+        "correctQuestion": "What is the NSA?",
+        "value": 400
+      },
+      {
+        "clue": "The payment app where you can see your ex Venmoed their new boyfriend for 'Christmas presents' with the 🎄 emoji",
+        "correctQuestion": "What is Venmo?",
+        "value": 400
+      },
+      {
+        "clue": "This billionaire's electric car company whose vehicles keep catching fire would make a terrible replacement for Santa's sleigh",
+        "correctQuestion": "What is Tesla?",
+        "value": 400
+      },
+      {
+        "clue": "The AI speaker that heard everything you said around the Christmas tree and is definitely selling that data to advertisers",
+        "correctQuestion": "What is Alexa?",
+        "value": 400
+      },
+      {
+        "clue": "What Gen Z actually wants for Christmas: therapy, student loan forgiveness, and this other impossible dream",
+        "correctQuestion": "What is affordable rent?",
+        "value": 600
+      },
+      {
+        "clue": "The real reason Santa only 'comes' once a year, according to Mrs. Claus's couples therapist",
+        "correctQuestion": "What is erectile dysfunction?",
+        "value": 600
+      },
+      {
+        "clue": "This pop star makes $3 million every December by defrosting and singing 'All I Want For Christmas'",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 600
+      },
+      {
+        "clue": "What replaced Christmas cards in 2025: this group message where nobody can figure out how to leave",
+        "correctQuestion": "What is a group text?",
+        "value": 600
+      },
+      {
+        "clue": "The controversial topic that ruined more Christmas dinners 2020-2024 than burnt turkey",
+        "correctQuestion": "What is Trump and politics?",
+        "value": 600
+      },
+      {
+        "clue": "What kids leave out for Santa in states where it's legal instead of cookies and milk",
+        "correctQuestion": "What are weed edibles?",
+        "value": 600
+      },
+      {
+        "clue": "This fast food delivery app Santa uses to get McDonald's at 11:55pm on Christmas Eve to stay awake",
+        "correctQuestion": "What is DoorDash?",
+        "value": 600
+      },
+      {
+        "clue": "The background check requirement that destroyed the mall Santa industry even worse than Amazon destroyed retail",
+        "correctQuestion": "What is the sex offender registry?",
+        "value": 600
+      },
+      {
+        "clue": "Mrs. Claus caught Santa on this niche dating site where farmers 'don't have to be lonely'",
+        "correctQuestion": "What is FarmersOnly.com?",
+        "value": 800
+      },
+      {
+        "clue": "The second controversial topic that ended Christmas dinners 2020-2023: arguments about getting this shot",
+        "correctQuestion": "What is the COVID vaccine?",
+        "value": 800
+      },
+      {
+        "clue": "What Santa's workshop elves demanded in their Amazon warehouse-style lawsuit: this worker protection",
+        "correctQuestion": "What are union rights?",
+        "value": 800
+      },
+      {
+        "clue": "Santa's rating as an Uber driver after passengers realized he smells like whiskey and shattered dreams",
+        "correctQuestion": "What is 1 star?",
+        "value": 800
+      },
+      {
+        "clue": "The real Christmas miracle Millennials pray for instead of snow: a house they can actually afford",
+        "correctQuestion": "What is affordable housing?",
+        "value": 800
+      },
+      {
+        "clue": "What actually killed the Christmas spirit worse than student loans and inflation combined",
+        "correctQuestion": "What is late-stage capitalism?",
+        "value": 800
+      },
+      {
+        "clue": "This song that Gen Z on TikTok says is actually about date rape and coercion, not Christmas romance",
+        "correctQuestion": "What is Baby It's Cold Outside?",
+        "value": 1000
+      },
+      {
+        "clue": "What psychiatrists would diagnose Buddy from 'Elf' with if he showed up in their office in 2025",
+        "correctQuestion": "What is ADHD?",
+        "value": 1000
+      },
+      {
+        "clue": "The Paul McCartney Christmas song that would be playing on repeat in Hell, according to music critics",
+        "correctQuestion": "What is Wonderful Christmastime?",
+        "value": 1000
+      },
+      {
+        "clue": "What Die Hard is really a movie about, according to film Twitter and gender studies professors",
+        "correctQuestion": "What is toxic masculinity?",
+        "value": 1000
+      },
+      {
+        "clue": "The Hallmark Christmas movie drinking game rule: take a shot when white people solve racism with this",
+        "correctQuestion": "What is a Christmas party?",
+        "value": 1000
+      },
+      {
+        "clue": "This retail store where moms go for wrapping paper and somehow spend $347 every single time",
+        "correctQuestion": "What is Target?",
+        "value": 1000
+      }
     ]
   }
 }

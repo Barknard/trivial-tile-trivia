@@ -1,318 +1,165 @@
 {
   "category": "New Year's Fireworks & Midnight Displays",
-  "trivia": [
-    {
-      "clue": "The most famous ball drop for New Year's Eve in the United States",
-      "correctQuestion": "What is the Times Square Ball?",
-      "value": 200
-    },
-    {
-      "clue": "The oldest continuously celebrated New Year's Eve fireworks display outside the US",
-      "correctQuestion": "What is Sydney's Harbour fireworks?",
-      "value": 200
-    },
-    {
-      "clue": "The city where New Year's fireworks light up over the Petronas Towers",
-      "correctQuestion": "What is Kuala Lumpur?",
-      "value": 200
-    },
-    {
-      "clue": "This European capital celebrates with fireworks at the Brandenburg Gate",
-      "correctQuestion": "What is Berlin?",
-      "value": 200
-    },
-    {
-      "clue": "The element that gives fireworks their red color",
-      "correctQuestion": "What is strontium?",
-      "value": 200
-    },
-    {
-      "clue": "The metal that produces the golden sparks in fireworks displays",
-      "correctQuestion": "What is iron?",
-      "value": 200
-    },
-    {
-      "clue": "This Japanese tradition of watching fireworks is called hanabi",
-      "correctQuestion": "What is Summer Festival?",
-      "value": 200
-    },
-    {
-      "clue": "The year fireworks were first used to celebrate the New Year in Europe",
-      "correctQuestion": "What is the 1600s?",
-      "value": 200
-    },
-    {
-      "clue": "The chemical compound responsible for the 'sparkle' effect in fireworks",
-      "correctQuestion": "What is aluminum dust?",
-      "value": 200
-    },
-    {
-      "clue": "The city that hosts the Dubai Fountain midnight celebration with pyrotechnics",
-      "correctQuestion": "What is Dubai?",
-      "value": 200
-    },
-    {
-      "clue": "The time at which most New Year's Eve fireworks displays begin",
-      "correctQuestion": "What is midnight?",
-      "value": 200
-    },
-    {
-      "clue": "The element that creates blue colors in fireworks",
-      "correctQuestion": "What is copper?",
-      "value": 200
-    },
-    {
-      "clue": "This Hong Kong harbor is famous for its New Year's Eve fireworks spectacle",
-      "correctQuestion": "What is Victoria Harbour?",
-      "value": 200
-    },
-    {
-      "clue": "The primary fuel used in fireworks propellant",
-      "correctQuestion": "What is gunpowder?",
-      "value": 200
-    },
-    {
-      "clue": "The distance from which professional fireworks can be safely launched",
-      "correctQuestion": "What is 1000 feet?",
-      "value": 200
-    },
-    {
-      "clue": "The city where New Year's fireworks illuminate the Eiffel Tower",
-      "correctQuestion": "What is Paris?",
-      "value": 200
-    },
-    {
-      "clue": "The type of Chinese firework that creates a crackling sound",
-      "correctQuestion": "What is a crackle shell?",
-      "value": 400
-    },
-    {
-      "clue": "The traditional name for New Year's midnight countdown fireworks in Scotland",
-      "correctQuestion": "What is Hogmanay?",
-      "value": 400
-    },
-    {
-      "clue": "The element that produces purple and violet colors in fireworks",
-      "correctQuestion": "What is a strontium-copper mix?",
-      "value": 400
-    },
-    {
-      "clue": "The city in Brazil where New Year's fireworks light up Copacabana Beach",
-      "correctQuestion": "What is Rio de Janeiro?",
-      "value": 400
-    },
-    {
-      "clue": "The duration of the average professional fireworks display",
-      "correctQuestion": "What is 20-30 minutes?",
-      "value": 400
-    },
-    {
-      "clue": "The effect in fireworks created by layering different colored stars",
-      "correctQuestion": "What is a ring or shell?",
-      "value": 400
-    },
-    {
-      "clue": "The Italian city famous for New Year's fireworks over the Grand Canal",
-      "correctQuestion": "What is Venice?",
-      "value": 400
-    },
-    {
-      "clue": "The highest point where fireworks typically explode in the sky",
-      "correctQuestion": "What is 800-1000 feet?",
-      "value": 400
-    },
-    {
-      "clue": "The number of individual fireworks typically in a major professional display",
-      "correctQuestion": "What is 500-3000?",
-      "value": 400
-    },
-    {
-      "clue": "The Thai celebration featuring fireworks and lanterns for the New Year",
-      "correctQuestion": "What is Songkran?",
-      "value": 400
-    },
-    {
-      "clue": "The type of fuse used in professional fireworks shows",
-      "correctQuestion": "What is an electric or shock tube fuse?",
-      "value": 600
-    },
-    {
-      "clue": "The Polynesian islands where New Year's fireworks premiere earliest globally",
-      "correctQuestion": "What is Kiribati?",
-      "value": 600
-    },
-    {
-      "clue": "The chemical compound responsible for green colors in fireworks",
-      "correctQuestion": "What is barium chloride?",
-      "value": 600
-    },
-    {
-      "clue": "The New Zealand city with New Year's fireworks over the harbor",
-      "correctQuestion": "What is Auckland?",
-      "value": 600
-    }
-  ],
-  "no_humanity": [
-    {
-      "clue": "Where Millennials watch New Year's fireworks now",
-      "correctQuestion": "What is through a phone camera at Instagram?",
-      "value": 200
-    },
-    {
-      "clue": "The most successful New Year's display in the 2020s",
-      "correctQuestion": "What is standing in your backyard with a sparkler?",
-      "value": 200
-    },
-    {
-      "clue": "What replaced going outside at midnight",
-      "correctQuestion": "What is watching YouTube compilations at 11:58 PM?",
-      "value": 200
-    },
-    {
-      "clue": "Why Gen Z skips New Year's fireworks",
-      "correctQuestion": "What is too loud and triggers anxiety?",
-      "value": 200
-    },
-    {
-      "clue": "New Year's fireworks for introverts",
-      "correctQuestion": "What is noise-canceling headphones?",
-      "value": 200
-    },
-    {
-      "clue": "The real reason cities spend millions on fireworks",
-      "correctQuestion": "What is to drown out drunk people screaming?",
-      "value": 200
-    },
-    {
-      "clue": "What the dog hears during midnight fireworks",
-      "correctQuestion": "What is the apocalypse?",
-      "value": 200
-    },
-    {
-      "clue": "The New Year's Eve activity for people with PTSD",
-      "correctQuestion": "What is staying underground with the lights off?",
-      "value": 200
-    },
-    {
-      "clue": "Why fireworks are banned in most neighborhoods",
-      "correctQuestion": "What is Karen called the police?",
-      "value": 200
-    },
-    {
-      "clue": "The cost-benefit analysis of professional fireworks displays",
-      "correctQuestion": "What is $500k in pyrotechnics for 10 seconds of joy?",
-      "value": 200
-    },
-    {
-      "clue": "The New Year's tradition that destroys relationships",
-      "correctQuestion": "What is drunk people setting off bottle rockets?",
-      "value": 200
-    },
-    {
-      "clue": "What your drunk uncle thinks he can make at home",
-      "correctQuestion": "What is homemade fireworks?",
-      "value": 200
-    },
-    {
-      "clue": "The only thing more predictable than New Year's fireworks",
-      "correctQuestion": "What is your neighbor's injury?",
-      "value": 200
-    },
-    {
-      "clue": "Why cats hide during midnight fireworks",
-      "correctQuestion": "What is they're smarter than you?",
-      "value": 200
-    },
-    {
-      "clue": "The New Year's resolution after losing a finger to fireworks",
-      "correctQuestion": "What is never doing that again?",
-      "value": 200
-    },
-    {
-      "clue": "The demographic that thinks homemade fireworks are 'totally safe bro'",
-      "correctQuestion": "What are drunk men ages 18-35?",
-      "value": 400
-    },
-    {
-      "clue": "New Year's midnight moment for pet owners",
-      "correctQuestion": "What is restraining a terror-stricken animal?",
-      "value": 400
-    },
-    {
-      "clue": "What burns down your neighborhood every January 1st",
-      "correctQuestion": "What is fireworks in dry climates?",
-      "value": 400
-    },
-    {
-      "clue": "The app that makes fireworks tolerable",
-      "correctQuestion": "What is Spotify at full volume?",
-      "value": 400
-    },
-    {
-      "clue": "What happens at midnight in suburban America",
-      "correctQuestion": "What is illegal fireworks everywhere?",
-      "value": 400
-    },
-    {
-      "clue": "The reason your New Year's fireworks video is vertical",
-      "correctQuestion": "What is being drunk at 11:59 PM?",
-      "value": 400
-    },
-    {
-      "clue": "The parenting strategy during fireworks season",
-      "correctQuestion": "What is lying about what the noise is?",
-      "value": 400
-    },
-    {
-      "clue": "The most dangerous New Year's tradition",
-      "correctQuestion": "What is lighting fireworks with a cigarette one-handed?",
-      "value": 400
-    },
-    {
-      "clue": "Why fireworks laws exist",
-      "correctQuestion": "What is humanity can't be trusted?",
-      "value": 400
-    },
-    {
-      "clue": "The demographic ruining New Year's fireworks",
-      "correctQuestion": "What is everyone?",
-      "value": 400
-    },
-    {
-      "clue": "What military veterans hear on New Year's Eve",
-      "correctQuestion": "What is flashbacks?",
-      "value": 600
-    },
-    {
-      "clue": "The New Year's miracle nobody talks about",
-      "correctQuestion": "What is nobody losing a hand this year?",
-      "value": 600
-    },
-    {
-      "clue": "Why Dubai's New Year's fireworks cost $10 million",
-      "correctQuestion": "What is because spectacle beats judgment?",
-      "value": 600
-    },
-    {
-      "clue": "The real reason cities launch fireworks at midnight",
-      "correctQuestion": "What is to distract from economic inequality?",
-      "value": 600
-    },
-    {
-      "clue": "The New Year's tradition that screams privilege",
-      "correctQuestion": "What is spending thousands to light money on fire?",
-      "value": 600
-    }
-  ],
-  "improvements": {
-    "content_breakdown": "30 mainstream trivia + 30 CAH-style",
-    "cah_principles_applied": [
-      "Mainstream references only (PTSD, Karen, Millennials, Gen Z)",
-      "Short, punchy clues (avg 4-7 words)",
-      "Dark humor with logic (not random crude)",
-      "Cultural touchstones 2000-2025 (phones, Instagram, YouTube, Spotify)",
-      "Setup-payoff structure (hint → answer)",
-      "Relatable pain points (anxiety, pets, drunk uncles, fireworks injuries)"
-    ]
+  "theme": "newyear",
+  "category_id": "newyear_fireworks",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The most famous ball drop for New Year's Eve in the United States",
+        "correctQuestion": "What is the Times Square Ball?",
+        "value": 200
+      },
+      {
+        "clue": "The oldest continuously celebrated New Year's Eve fireworks display outside the US",
+        "correctQuestion": "What is Sydney's Harbour fireworks?",
+        "value": 200
+      },
+      {
+        "clue": "The city where New Year's fireworks light up over the Petronas Towers",
+        "correctQuestion": "What is Kuala Lumpur?",
+        "value": 200
+      },
+      {
+        "clue": "This European capital celebrates with fireworks at the Brandenburg Gate",
+        "correctQuestion": "What is Berlin?",
+        "value": 200
+      },
+      {
+        "clue": "The element that gives fireworks their red color",
+        "correctQuestion": "What is strontium?",
+        "value": 200
+      },
+      {
+        "clue": "The metal that produces the golden sparks in fireworks displays",
+        "correctQuestion": "What is iron?",
+        "value": 200
+      },
+      {
+        "clue": "This Japanese tradition of watching fireworks is called hanabi",
+        "correctQuestion": "What is Summer Festival?",
+        "value": 200
+      },
+      {
+        "clue": "The year fireworks were first used to celebrate the New Year in Europe",
+        "correctQuestion": "What is the 1600s?",
+        "value": 200
+      },
+      {
+        "clue": "The chemical compound responsible for the 'sparkle' effect in fireworks",
+        "correctQuestion": "What is aluminum dust?",
+        "value": 200
+      },
+      {
+        "clue": "The city that hosts the Dubai Fountain midnight celebration with pyrotechnics",
+        "correctQuestion": "What is Dubai?",
+        "value": 200
+      },
+      {
+        "clue": "The time at which most New Year's Eve fireworks displays begin",
+        "correctQuestion": "What is midnight?",
+        "value": 200
+      },
+      {
+        "clue": "The element that creates blue colors in fireworks",
+        "correctQuestion": "What is copper?",
+        "value": 200
+      },
+      {
+        "clue": "This Hong Kong harbor is famous for its New Year's Eve fireworks spectacle",
+        "correctQuestion": "What is Victoria Harbour?",
+        "value": 200
+      },
+      {
+        "clue": "The primary fuel used in fireworks propellant",
+        "correctQuestion": "What is gunpowder?",
+        "value": 200
+      },
+      {
+        "clue": "The distance from which professional fireworks can be safely launched",
+        "correctQuestion": "What is 1000 feet?",
+        "value": 200
+      },
+      {
+        "clue": "The city where New Year's fireworks illuminate the Eiffel Tower",
+        "correctQuestion": "What is Paris?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The type of Chinese firework that creates a crackling sound",
+        "correctQuestion": "What is a crackle shell?",
+        "value": 400
+      },
+      {
+        "clue": "The traditional name for New Year's midnight countdown fireworks in Scotland",
+        "correctQuestion": "What is Hogmanay?",
+        "value": 400
+      },
+      {
+        "clue": "The element that produces purple and violet colors in fireworks",
+        "correctQuestion": "What is a strontium-copper mix?",
+        "value": 400
+      },
+      {
+        "clue": "The city in Brazil where New Year's fireworks light up Copacabana Beach",
+        "correctQuestion": "What is Rio de Janeiro?",
+        "value": 400
+      },
+      {
+        "clue": "The duration of the average professional fireworks display",
+        "correctQuestion": "What is 20-30 minutes?",
+        "value": 400
+      },
+      {
+        "clue": "The effect in fireworks created by layering different colored stars",
+        "correctQuestion": "What is a ring or shell?",
+        "value": 400
+      },
+      {
+        "clue": "The Italian city famous for New Year's fireworks over the Grand Canal",
+        "correctQuestion": "What is Venice?",
+        "value": 400
+      },
+      {
+        "clue": "The highest point where fireworks typically explode in the sky",
+        "correctQuestion": "What is 800-1000 feet?",
+        "value": 400
+      },
+      {
+        "clue": "The number of individual fireworks typically in a major professional display",
+        "correctQuestion": "What is 500-3000?",
+        "value": 400
+      },
+      {
+        "clue": "The Thai celebration featuring fireworks and lanterns for the New Year",
+        "correctQuestion": "What is Songkran?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "The type of fuse used in professional fireworks shows",
+        "correctQuestion": "What is an electric or shock tube fuse?",
+        "value": 600
+      },
+      {
+        "clue": "The Polynesian islands where New Year's fireworks premiere earliest globally",
+        "correctQuestion": "What is Kiribati?",
+        "value": 600
+      },
+      {
+        "clue": "The chemical compound responsible for green colors in fireworks",
+        "correctQuestion": "What is barium chloride?",
+        "value": 600
+      },
+      {
+        "clue": "The New Zealand city with New Year's fireworks over the harbor",
+        "correctQuestion": "What is Auckland?",
+        "value": 600
+      }
+    ],
+    "adults": [],
+    "no_humanity": []
   }
 }

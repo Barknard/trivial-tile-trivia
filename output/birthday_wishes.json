@@ -1,411 +1,163 @@
 {
   "category": "Birthday Wishes",
-  "description": "Regular and Cards Against Humanity style clues about birthday wishes, making wishes, and wish fulfillment",
-  "version": "1.0",
-  "generated_date": "2026-01-01",
-  "regular_clues": [
-    {
-      "id": "bw_001",
-      "clue": "Make a wish and blow out the candles",
-      "answer": "Blowing out birthday candles",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_002",
-      "clue": "Don't tell anyone or it won't come true",
-      "answer": "Birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_003",
-      "clue": "The magical moment before cake is cut",
-      "answer": "Making a birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_004",
-      "clue": "You get one per year on your special day",
-      "answer": "Birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_005",
-      "clue": "Close your eyes and think of what you want most",
-      "answer": "Making a birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_006",
-      "clue": "The ritual before every birthday celebration",
-      "answer": "Blowing out candles",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_007",
-      "clue": "Tradition says you must keep this secret",
-      "answer": "Your birthday wish",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_008",
-      "clue": "The moment when anything seems possible",
-      "answer": "Making a birthday wish",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_009",
-      "clue": "What you silently hope for at the birthday table",
-      "answer": "Birthday wish fulfillment",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_010",
-      "clue": "The candles represent time passing on your special day",
-      "answer": "Birthday candles",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_011",
-      "clue": "One tradition says speaking it aloud breaks the magic",
-      "answer": "Keeping a birthday wish secret",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_012",
-      "clue": "The sweetest moment of the party",
-      "answer": "Making a birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_013",
-      "clue": "Children often wish for toys or adventures",
-      "answer": "Birthday wishes",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_014",
-      "clue": "Adults might wish for health, happiness, or success",
-      "answer": "Birthday wishes",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_015",
-      "clue": "The moment between thinking and blowing",
-      "answer": "Making a birthday wish",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_016",
-      "clue": "You get one chance per year to make it",
-      "answer": "A birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_017",
-      "clue": "Superstition says this happens if you don't blow them all out",
-      "answer": "Wish won't come true",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_018",
-      "clue": "The song plays right before the magical moment",
-      "answer": "Happy Birthday",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_019",
-      "clue": "What you hope for when you close your eyes",
-      "answer": "Birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_020",
-      "clue": "The most personal moment of the celebration",
-      "answer": "Making a birthday wish",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_021",
-      "clue": "Blowing with strength might help this come true",
-      "answer": "Your birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_022",
-      "clue": "Everyone waits quietly for this moment",
-      "answer": "Making a birthday wish",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_023",
-      "clue": "The light from these is supposed to carry wishes skyward",
-      "answer": "Birthday candles",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_024",
-      "clue": "You're supposed to make one before you cut the cake",
-      "answer": "A birthday wish",
-      "difficulty": "easy"
-    },
-    {
-      "id": "bw_025",
-      "clue": "This tradition has been practiced for centuries",
-      "answer": "Making birthday wishes",
-      "difficulty": "hard"
-    },
-    {
-      "id": "bw_026",
-      "clue": "The belief that this makes dreams come true",
-      "answer": "Birthday wishes",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_027",
-      "clue": "Many people make the same one every year",
-      "answer": "Birthday wish",
-      "difficulty": "hard"
-    },
-    {
-      "id": "bw_028",
-      "clue": "The quiet moment before shared joy",
-      "answer": "Making a birthday wish",
-      "difficulty": "hard"
-    },
-    {
-      "id": "bw_029",
-      "clue": "Parents often wish for their child's happiness",
-      "answer": "Birthday wishes",
-      "difficulty": "medium"
-    },
-    {
-      "id": "bw_030",
-      "clue": "The secret you keep locked in your heart",
-      "answer": "Your birthday wish",
-      "difficulty": "hard"
-    }
-  ],
-  "cah_clues": [
-    {
-      "id": "cah_bw_001",
-      "clue": "The one thing your parents hoped for when you were born",
-      "answer": "That you'd move out eventually",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_002",
-      "clue": "What millennials wish for on their birthday",
-      "answer": "Affordable housing and student loan forgiveness",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_003",
-      "clue": "The wish that never comes true for social media addicts",
-      "answer": "Getting off their phone for one meal",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_004",
-      "clue": "What your ex secretly wished for on their birthday",
-      "answer": "That you were better in bed",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_bw_005",
-      "clue": "The birthday wish that most people lie about making",
-      "answer": "World peace",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_006",
-      "clue": "What your therapist wishes for on your birthday",
-      "answer": "That you'd finally fix your issues",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_007",
-      "clue": "The wish that gets worse the more you think about it",
-      "answer": "Eternal youth",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_008",
-      "clue": "What that weird relative wished for when they blew out the candles",
-      "answer": "Supremacy of their political beliefs",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_bw_009",
-      "clue": "The birthday wish nobody admits to making",
-      "answer": "That someone else gets fat instead of you",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_bw_010",
-      "clue": "What your crush secretly wished for on their last birthday",
-      "answer": "That you would stop existing",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_bw_011",
-      "clue": "The one thing nobody wishes for anymore",
-      "answer": "A flip phone",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_012",
-      "clue": "What Jeff Bezos wishes for on his birthday",
-      "answer": "More space to store money",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_013",
-      "clue": "The birthday wish that's actually come true",
-      "answer": "Netflix cancelling shows you love",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_014",
-      "clue": "What that drunk guy at the party wished for",
-      "answer": "More free drinks",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_015",
-      "clue": "The wish that comes true right after you say it won't",
-      "answer": "Finding an ex on Instagram",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_016",
-      "clue": "What your parents wished for instead of the gift you received",
-      "answer": "A child who wasn't so ungrateful",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_017",
-      "clue": "The birthday wish that ruins your day by actually happening",
-      "answer": "Seeing your ex with someone hotter",
-      "difficulty": "medium",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_bw_018",
-      "clue": "What the HR department wished for on your birthday",
-      "answer": "That you'd quit without a lawsuit",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_bw_019",
-      "clue": "The wish that happens every time you check your bank account",
-      "answer": "That your money would multiply",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_020",
-      "clue": "What your dog wishes for on your birthday",
-      "answer": "That you'd finally get home to feed them",
-      "difficulty": "easy",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_021",
-      "clue": "The birthday wish that everyone makes but nobody admits",
-      "answer": "That someone hot would finally notice them",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_022",
-      "clue": "What Elon Musk wishes for on his birthday",
-      "answer": "A planet with fewer regulations",
-      "difficulty": "hard",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_023",
-      "clue": "The wish that comes true in nightmares",
-      "answer": "Showing up to work naked",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_024",
-      "clue": "What your therapist secretly wishes for on your birthday",
-      "answer": "That you'd stop texting them off the clock",
-      "difficulty": "hard",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_025",
-      "clue": "The birthday wish that's impossible because of inflation",
-      "answer": "A house you can actually afford",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_026",
-      "clue": "What TikTok teenagers wish for on their birthday",
-      "answer": "Going viral but for something respectable",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_027",
-      "clue": "The wish that gets progressively sadder each year",
-      "answer": "Having friends who actually remember your birthday",
-      "difficulty": "hard",
-      "offensive_level": "medium"
-    },
-    {
-      "id": "cah_bw_028",
-      "clue": "What your future self wishes you'd decided on your birthday",
-      "answer": "Not taking that terrible job",
-      "difficulty": "hard",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_029",
-      "clue": "The birthday wish that backfires immediately",
-      "answer": "That you could eat whatever you want",
-      "difficulty": "medium",
-      "offensive_level": "light"
-    },
-    {
-      "id": "cah_bw_030",
-      "clue": "What the birthday cake is really wishing for",
-      "answer": "To not be stuck with expired candles",
-      "difficulty": "hard",
-      "offensive_level": "light"
-    }
-  ],
-  "metadata": {
-    "total_clues": 60,
-    "regular_count": 30,
-    "cah_count": 30,
-    "theme": "birthday_wishes_fulfillment",
-    "style_guide": "CAH_STYLE_GUIDE_2025.md",
-    "characteristics": {
-      "regular": "Traditional birthday wish concepts, cultural and personal significance",
-      "cah": "Dark humor, contemporary references, relatable frustrations, millennial/Gen-Z perspective"
-    }
+  "theme": "birthday",
+  "category_id": "birthday_wishes",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Make a wish and blow out the candles",
+        "correctQuestion": "Blowing out birthday candles",
+        "value": 200
+      },
+      {
+        "clue": "Don't tell anyone or it won't come true",
+        "correctQuestion": "Birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "The magical moment before cake is cut",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "You get one per year on your special day",
+        "correctQuestion": "Birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "Close your eyes and think of what you want most",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "The ritual before every birthday celebration",
+        "correctQuestion": "Blowing out candles",
+        "value": 200
+      },
+      {
+        "clue": "Tradition says you must keep this secret",
+        "correctQuestion": "Your birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "The moment when anything seems possible",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "What you silently hope for at the birthday table",
+        "correctQuestion": "Birthday wish fulfillment",
+        "value": 200
+      },
+      {
+        "clue": "The candles represent time passing on your special day",
+        "correctQuestion": "Birthday candles",
+        "value": 200
+      },
+      {
+        "clue": "One tradition says speaking it aloud breaks the magic",
+        "correctQuestion": "Keeping a birthday wish secret",
+        "value": 200
+      },
+      {
+        "clue": "The sweetest moment of the party",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "Children often wish for toys or adventures",
+        "correctQuestion": "Birthday wishes",
+        "value": 200
+      },
+      {
+        "clue": "Adults might wish for health, happiness, or success",
+        "correctQuestion": "Birthday wishes",
+        "value": 200
+      },
+      {
+        "clue": "The moment between thinking and blowing",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "You get one chance per year to make it",
+        "correctQuestion": "A birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "Superstition says this happens if you don't blow them all out",
+        "correctQuestion": "Wish won't come true",
+        "value": 200
+      },
+      {
+        "clue": "The song plays right before the magical moment",
+        "correctQuestion": "Happy Birthday",
+        "value": 200
+      },
+      {
+        "clue": "What you hope for when you close your eyes",
+        "correctQuestion": "Birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "The most personal moment of the celebration",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "Blowing with strength might help this come true",
+        "correctQuestion": "Your birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "Everyone waits quietly for this moment",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "The light from these is supposed to carry wishes skyward",
+        "correctQuestion": "Birthday candles",
+        "value": 200
+      },
+      {
+        "clue": "You're supposed to make one before you cut the cake",
+        "correctQuestion": "A birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "This tradition has been practiced for centuries",
+        "correctQuestion": "Making birthday wishes",
+        "value": 200
+      },
+      {
+        "clue": "The belief that this makes dreams come true",
+        "correctQuestion": "Birthday wishes",
+        "value": 200
+      },
+      {
+        "clue": "Many people make the same one every year",
+        "correctQuestion": "Birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "The quiet moment before shared joy",
+        "correctQuestion": "Making a birthday wish",
+        "value": 200
+      },
+      {
+        "clue": "Parents often wish for their child's happiness",
+        "correctQuestion": "Birthday wishes",
+        "value": 200
+      },
+      {
+        "clue": "The secret you keep locked in your heart",
+        "correctQuestion": "Your birthday wish",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
   }
 }

@@ -1,308 +1,167 @@
 {
   "category": "Birthday Presents & Gifts",
-  "description": "Birthday gifts, presents, gift-giving traditions, and gift-related celebrations",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "Colorful paper that covers presents to make them look special",
-      "answer": "What is wrapping paper?"
-    },
-    {
-      "points": 200,
-      "clue": "Ribbon or cord tied around a wrapped present as decoration",
-      "answer": "What is a bow?"
-    },
-    {
-      "points": 200,
-      "clue": "Something given to someone on their birthday to show appreciation",
-      "answer": "What is a gift or present?"
-    },
-    {
-      "points": 200,
-      "clue": "Container that holds a present inside for surprise opening",
-      "answer": "What is a gift box?"
-    },
-    {
-      "points": 200,
-      "clue": "Express gratitude after receiving a birthday gift",
-      "answer": "What is saying thank you?"
-    },
-    {
-      "points": 200,
-      "clue": "The thrill of opening presents on your birthday morning",
-      "answer": "What is unwrapping gifts?"
-    },
-    {
-      "points": 400,
-      "clue": "List of desired items a person shares before their birthday",
-      "answer": "What is a birthday wish list?"
-    },
-    {
-      "points": 400,
-      "clue": "Technology gift that tracks location and maps routes",
-      "answer": "What is a GPS device?"
-    },
-    {
-      "points": 400,
-      "clue": "Portable device that plays music and entertains on the go",
-      "answer": "What is an MP3 player or smartphone?"
-    },
-    {
-      "points": 400,
-      "clue": "Clothing item that makes a practical and comfortable gift",
-      "answer": "What are sweaters or socks?"
-    },
-    {
-      "points": 400,
-      "clue": "Perfume or cologne wrapped as a personal gift",
-      "answer": "What is fragrance?"
-    },
-    {
-      "points": 400,
-      "clue": "Jewelry item that can be personalized for a birthday",
-      "answer": "What is a bracelet or necklace?"
-    },
-    {
-      "points": 600,
-      "clue": "Japanese tradition of giving gifts wrapped beautifully with tissue paper",
-      "answer": "What is Furoshiki or temiyage?"
-    },
-    {
-      "points": 600,
-      "clue": "Luxury brand handbag considered a status symbol gift",
-      "answer": "What is a designer bag like Gucci or Louis Vuitton?"
-    },
-    {
-      "points": 600,
-      "clue": "Personalized item engraved with someone's name or initials",
-      "answer": "What is monogrammed gift?"
-    },
-    {
-      "points": 600,
-      "clue": "Gift of financial contribution given in envelope at Eastern celebrations",
-      "answer": "What is red money or cash gift?"
-    },
-    {
-      "points": 600,
-      "clue": "Experience gift like concert tickets or travel vouchers",
-      "answer": "What is an experiential gift?"
-    },
-    {
-      "points": 600,
-      "clue": "Charity donation made in someone's name as a thoughtful gift",
-      "answer": "What is a charitable gift or donation?"
-    },
-    {
-      "points": 800,
-      "clue": "In Victorian times, gifts of flowers held specific romantic meanings",
-      "answer": "What is the language of flowers?"
-    },
-    {
-      "points": 800,
-      "clue": "Ancient practice of exchanging gifts between rulers and kingdoms",
-      "answer": "What is diplomatic gift-giving?"
-    },
-    {
-      "points": 800,
-      "clue": "Medieval tradition of giving a gift the morning after engagement",
-      "answer": "What is the morning gift?"
-    },
-    {
-      "points": 800,
-      "clue": "Chinese superstition forbids giving gifts in groups of these numbers",
-      "answer": "What are even numbers or fours?"
-    },
-    {
-      "points": 800,
-      "clue": "Korean tradition of giving gifts of alcohol and ginseng to elders",
-      "answer": "What is respect gift-giving?"
-    },
-    {
-      "points": 1000,
-      "clue": "Ancient Roman feast celebrating gift-giving during this winter holiday",
-      "answer": "What is Saturnalia?"
-    },
-    {
-      "points": 1000,
-      "clue": "Tradition of giving gifts on anniversaries corresponds to these materials",
-      "answer": "What are traditional anniversary gifts like paper, leather, silver?"
-    },
-    {
-      "points": 1000,
-      "clue": "Anthropologist Bronislaw Malinowski studied gift-giving in these Pacific Islands",
-      "answer": "What is the Kula Ring of Polynesia?"
-    },
-    {
-      "points": 1000,
-      "clue": "This economic principle suggests gifts create social obligations",
-      "answer": "What is reciprocity or social debt?"
-    },
-    {
-      "points": 1000,
-      "clue": "Japanese gift-giving etiquette requires wrapping in this specific color scheme",
-      "answer": "What is auspicious colors avoiding white and black?"
-    },
-    {
-      "points": 1000,
-      "clue": "This author wrote extensively about gift-giving in 'The Gift: Imagination and the Erotic Life of Property'",
-      "answer": "What is Lewis Hyde?"
-    },
-    {
-      "points": 1000,
-      "clue": "Economist Richard Thaler describes the gap between what gift-givers think and what receivers value",
-      "answer": "What is the deadweight loss of gift-giving?"
-    }
-  ],
-  "no_humanity_clues": [
-    {
-      "points": 200,
-      "clue": "What you actually bought someone after they ignored your gift hints",
-      "answer": "What is a gift card?"
-    },
-    {
-      "points": 200,
-      "clue": "The thing you realize nobody wanted while they're opening it",
-      "answer": "What is that weird sweater?"
-    },
-    {
-      "points": 200,
-      "clue": "How you discover what someone really thinks of you",
-      "answer": "What is the gifts they give?"
-    },
-    {
-      "points": 200,
-      "clue": "Item your mom wraps three times hoping you don't notice it's the same thing",
-      "answer": "What is socks?"
-    },
-    {
-      "points": 200,
-      "clue": "What regifting feels like to your dignity",
-      "answer": "What is shame?"
-    },
-    {
-      "points": 200,
-      "clue": "Gift you get from coworkers you definitely don't like",
-      "answer": "What is an unwanted candle?"
-    },
-    {
-      "points": 400,
-      "clue": "What millennials ask for instead of actual presents",
-      "answer": "What is money on Venmo?"
-    },
-    {
-      "points": 400,
-      "clue": "Subscription service people buy hoping you'll become obsessed",
-      "answer": "What is Netflix or Spotify?"
-    },
-    {
-      "points": 400,
-      "clue": "Amazon box that arrives three days after your birthday",
-      "answer": "What is the late gift that didn't matter?"
-    },
-    {
-      "points": 400,
-      "clue": "What people use as wrapping paper when they forgot to buy real paper",
-      "answer": "What is newspaper or a paper bag?"
-    },
-    {
-      "points": 400,
-      "clue": "The gift from your ex you're not sure how to feel about",
-      "answer": "What is a breakup emotional landmine?"
-    },
-    {
-      "points": 400,
-      "clue": "Ultra luxury item purchased only by people with trust funds",
-      "answer": "What is a Birkin bag or Rolex?"
-    },
-    {
-      "points": 600,
-      "clue": "Why Karen returned the birthday gift for store credit",
-      "answer": "What is it wasn't the exact shade of beige she specified?"
-    },
-    {
-      "points": 600,
-      "clue": "What you pretend to like while internally screaming",
-      "answer": "What is your aunt's handmade quilt?"
-    },
-    {
-      "points": 600,
-      "clue": "The gift pile that creates relationship anxiety at parties",
-      "answer": "What is opening presents in front of people who gave you nothing?"
-    },
-    {
-      "points": 600,
-      "clue": "What tech bros give as birthday gifts despite zero self-awareness",
-      "answer": "What is cryptocurrency or NFTs?"
-    },
-    {
-      "points": 600,
-      "clue": "Influencer content that's actually just promoting their own store",
-      "answer": "What is birthday gift guides with affiliate links?"
-    },
-    {
-      "points": 600,
-      "clue": "What your parents spent on your gift based on an unfair comparison to your sibling's",
-      "answer": "What is significantly less money?"
-    },
-    {
-      "points": 800,
-      "clue": "Why your boyfriend bought the exact same gift as your dad",
-      "answer": "What is lack of effort or imagination?"
-    },
-    {
-      "points": 800,
-      "clue": "Gift that screams 'I forgot until this morning'",
-      "answer": "What is a random item from CVS?"
-    },
-    {
-      "points": 800,
-      "clue": "The emotional weight of pretending a terrible gift is amazing",
-      "answer": "What is suppressing your true feelings?"
-    },
-    {
-      "points": 800,
-      "clue": "What rich people give that makes everyone else feel poor",
-      "answer": "What is jewelry or designer handbags?"
-    },
-    {
-      "points": 800,
-      "clue": "The drama that starts when someone got a better gift than you",
-      "answer": "What is birthday party politics?"
-    },
-    {
-      "points": 800,
-      "clue": "What passive aggressive aunt always comments about when she sees your gift",
-      "answer": "What is the price tag she definitely saw?"
-    },
-    {
-      "points": 1000,
-      "clue": "The real reason your parents kept your childhood toys instead of giving them back",
-      "answer": "What is they wanted to guilt trip you into visiting?"
-    },
-    {
-      "points": 1000,
-      "clue": "Why your ex keeps 'accidentally' liking photos of gifts they bought you",
-      "answer": "What is they're checking if you're still using it?"
-    },
-    {
-      "points": 1000,
-      "clue": "What narcissistic family members expect in return for a gift",
-      "answer": "What is eternal gratitude and a lifetime of favors?"
-    },
-    {
-      "points": 1000,
-      "clue": "The unspoken rule of gift-giving nobody tells you about",
-      "answer": "What is it has to match their love language or they're offended?"
-    },
-    {
-      "points": 1000,
-      "clue": "What you discover in the attic ten years later still in the box",
-      "answer": "What is that hideous present nobody opened?"
-    },
-    {
-      "points": 1000,
-      "clue": "The real gift-giving tradition masquerading as sentiment",
-      "answer": "What is materialism disguised as love?"
-    }
-  ]
+  "theme": "birthday",
+  "category_id": "birthday_presents",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Colorful paper that covers presents to make them look special",
+        "correctQuestion": "What is wrapping paper?",
+        "value": 200
+      },
+      {
+        "clue": "Ribbon or cord tied around a wrapped present as decoration",
+        "correctQuestion": "What is a bow?",
+        "value": 200
+      },
+      {
+        "clue": "Something given to someone on their birthday to show appreciation",
+        "correctQuestion": "What is a gift or present?",
+        "value": 200
+      },
+      {
+        "clue": "Container that holds a present inside for surprise opening",
+        "correctQuestion": "What is a gift box?",
+        "value": 200
+      },
+      {
+        "clue": "Express gratitude after receiving a birthday gift",
+        "correctQuestion": "What is saying thank you?",
+        "value": 200
+      },
+      {
+        "clue": "The thrill of opening presents on your birthday morning",
+        "correctQuestion": "What is unwrapping gifts?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "List of desired items a person shares before their birthday",
+        "correctQuestion": "What is a birthday wish list?",
+        "value": 400
+      },
+      {
+        "clue": "Technology gift that tracks location and maps routes",
+        "correctQuestion": "What is a GPS device?",
+        "value": 400
+      },
+      {
+        "clue": "Portable device that plays music and entertains on the go",
+        "correctQuestion": "What is an MP3 player or smartphone?",
+        "value": 400
+      },
+      {
+        "clue": "Clothing item that makes a practical and comfortable gift",
+        "correctQuestion": "What are sweaters or socks?",
+        "value": 400
+      },
+      {
+        "clue": "Perfume or cologne wrapped as a personal gift",
+        "correctQuestion": "What is fragrance?",
+        "value": 400
+      },
+      {
+        "clue": "Jewelry item that can be personalized for a birthday",
+        "correctQuestion": "What is a bracelet or necklace?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "Japanese tradition of giving gifts wrapped beautifully with tissue paper",
+        "correctQuestion": "What is Furoshiki or temiyage?",
+        "value": 600
+      },
+      {
+        "clue": "Luxury brand handbag considered a status symbol gift",
+        "correctQuestion": "What is a designer bag like Gucci or Louis Vuitton?",
+        "value": 600
+      },
+      {
+        "clue": "Personalized item engraved with someone's name or initials",
+        "correctQuestion": "What is monogrammed gift?",
+        "value": 600
+      },
+      {
+        "clue": "Gift of financial contribution given in envelope at Eastern celebrations",
+        "correctQuestion": "What is red money or cash gift?",
+        "value": 600
+      },
+      {
+        "clue": "Experience gift like concert tickets or travel vouchers",
+        "correctQuestion": "What is an experiential gift?",
+        "value": 600
+      },
+      {
+        "clue": "Charity donation made in someone's name as a thoughtful gift",
+        "correctQuestion": "What is a charitable gift or donation?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "In Victorian times, gifts of flowers held specific romantic meanings",
+        "correctQuestion": "What is the language of flowers?",
+        "value": 800
+      },
+      {
+        "clue": "Ancient practice of exchanging gifts between rulers and kingdoms",
+        "correctQuestion": "What is diplomatic gift-giving?",
+        "value": 800
+      },
+      {
+        "clue": "Medieval tradition of giving a gift the morning after engagement",
+        "correctQuestion": "What is the morning gift?",
+        "value": 800
+      },
+      {
+        "clue": "Chinese superstition forbids giving gifts in groups of these numbers",
+        "correctQuestion": "What are even numbers or fours?",
+        "value": 800
+      },
+      {
+        "clue": "Korean tradition of giving gifts of alcohol and ginseng to elders",
+        "correctQuestion": "What is respect gift-giving?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Ancient Roman feast celebrating gift-giving during this winter holiday",
+        "correctQuestion": "What is Saturnalia?",
+        "value": 1000
+      },
+      {
+        "clue": "Tradition of giving gifts on anniversaries corresponds to these materials",
+        "correctQuestion": "What are traditional anniversary gifts like paper, leather, silver?",
+        "value": 1000
+      },
+      {
+        "clue": "Anthropologist Bronislaw Malinowski studied gift-giving in these Pacific Islands",
+        "correctQuestion": "What is the Kula Ring of Polynesia?",
+        "value": 1000
+      },
+      {
+        "clue": "This economic principle suggests gifts create social obligations",
+        "correctQuestion": "What is reciprocity or social debt?",
+        "value": 1000
+      },
+      {
+        "clue": "Japanese gift-giving etiquette requires wrapping in this specific color scheme",
+        "correctQuestion": "What is auspicious colors avoiding white and black?",
+        "value": 1000
+      },
+      {
+        "clue": "This author wrote extensively about gift-giving in 'The Gift: Imagination and the Erotic Life of Property'",
+        "correctQuestion": "What is Lewis Hyde?",
+        "value": 1000
+      },
+      {
+        "clue": "Economist Richard Thaler describes the gap between what gift-givers think and what receivers value",
+        "correctQuestion": "What is the deadweight loss of gift-giving?",
+        "value": 1000
+      }
+    ]
+  }
 }

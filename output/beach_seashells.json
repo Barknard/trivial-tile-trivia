@@ -1,1123 +1,917 @@
 {
-  "title": "Beach Seashells Trivia",
-  "description": "Family-friendly questions about seashells, types of shells, and shell collecting",
-  "version": "1.0.0",
-  "levels": [
-    {
-      "level": 1,
-      "difficulty": "Beginner",
-      "questions": [
-        {
-          "category": "Shell Basics",
-          "value": 100,
-          "question": "What is a seashell made of?",
-          "answer": "Calcium carbonate (or aragonite)"
-        },
-        {
-          "category": "Shell Basics",
-          "value": 100,
-          "question": "Which creature creates a seashell?",
-          "answer": "A mollusk"
-        },
-        {
-          "category": "Shell Basics",
-          "value": 100,
-          "question": "What is the outer covering of a shell called?",
-          "answer": "The periostracum"
-        },
-        {
-          "category": "Types of Shells",
-          "value": 100,
-          "question": "How many shells does a clam have?",
-          "answer": "Two (it is bivalve)"
-        },
-        {
-          "category": "Types of Shells",
-          "value": 100,
-          "question": "What do we call shells with one piece?",
-          "answer": "Univalve"
-        },
-        {
-          "category": "Shell Collecting",
-          "value": 100,
-          "question": "What is the hobby of collecting seashells called?",
-          "answer": "Conchology"
-        },
-        {
-          "category": "Shell Collecting",
-          "value": 100,
-          "question": "Where do you usually find seashells?",
-          "answer": "On the beach"
-        },
-        {
-          "category": "Famous Shells",
-          "value": 100,
-          "question": "Which shell looks like a spiral staircase?",
-          "answer": "A nautilus"
-        },
-        {
-          "category": "Famous Shells",
-          "value": 100,
-          "question": "What is another name for a conch shell?",
-          "answer": "A horn (or trumpet)"
-        },
-        {
-          "category": "Sea Creatures",
-          "value": 100,
-          "question": "What animal lives inside an oyster shell?",
-          "answer": "An oyster (a mollusk)"
-        },
-        {
-          "category": "Sea Creatures",
-          "value": 100,
-          "question": "Which creature makes a pearl inside its shell?",
-          "answer": "An oyster or mussel"
-        },
-        {
-          "category": "Beach Facts",
-          "value": 100,
-          "question": "What do hermit crabs use as a portable home?",
-          "answer": "An empty seashell"
-        },
-        {
-          "category": "Beach Facts",
-          "value": 100,
-          "question": "True or False: All seashells are white or cream colored.",
-          "answer": "False"
-        },
-        {
-          "category": "Shell Colors",
-          "value": 100,
-          "question": "What color are many scallop shells?",
-          "answer": "Pink, purple, or red"
-        },
-        {
-          "category": "Shell Colors",
-          "value": 100,
-          "question": "What color are conch shells often?",
-          "answer": "Pink or orange"
-        },
-        {
-          "category": "Shell Parts",
-          "value": 100,
-          "question": "What is the spiral pattern on a shell called?",
-          "answer": "The whorl"
-        },
-        {
-          "category": "Shell Parts",
-          "value": 100,
-          "question": "What is the opening of a univalve shell called?",
-          "answer": "The aperture"
-        },
-        {
-          "category": "Shell Textures",
-          "value": 100,
-          "question": "What is a bumpy shell texture called?",
-          "answer": "Spiny or ridged"
-        },
-        {
-          "category": "Shell Textures",
-          "value": 100,
-          "question": "How do scallop shells feel to touch?",
-          "answer": "Ridged or ribbed"
-        },
-        {
-          "category": "Ocean Facts",
-          "value": 100,
-          "question": "How long does it take for a shell to form?",
-          "answer": "Several years"
-        },
-        {
-          "category": "Ocean Facts",
-          "value": 100,
-          "question": "Do shells grow with the animal inside?",
-          "answer": "Yes"
-        },
-        {
-          "category": "Beach Collecting",
-          "value": 100,
-          "question": "What time of year is best for shell collecting?",
-          "answer": "After storms or high tide"
-        },
-        {
-          "category": "Beach Collecting",
-          "value": 100,
-          "question": "Why do shells wash up on the beach?",
-          "answer": "Ocean waves and tides push them ashore"
-        },
-        {
-          "category": "Shell Names",
-          "value": 100,
-          "question": "What is a small, smooth shell called?",
-          "answer": "A pebble or stone (or a simple shell)"
-        },
-        {
-          "category": "Shell Names",
-          "value": 100,
-          "question": "What do we call the largest shells?",
-          "answer": "Clam shells or giant clam shells"
-        },
-        {
-          "category": "Fun Facts",
-          "value": 100,
-          "question": "Can you hear the ocean in a seashell?",
-          "answer": "No, you hear air vibrating inside"
-        },
-        {
-          "category": "Fun Facts",
-          "value": 100,
-          "question": "Do all mollusks have shells?",
-          "answer": "No"
-        },
-        {
-          "category": "Conservation",
-          "value": 100,
-          "question": "Is it okay to take shells home from the beach?",
-          "answer": "Yes, empty shells are fine (check local laws)"
-        },
-        {
-          "category": "Conservation",
-          "value": 100,
-          "question": "Should you collect shells that have animals inside?",
-          "answer": "No, leave them in the ocean"
-        },
-        {
-          "category": "Shell Uses",
-          "value": 100,
-          "question": "What can you make with seashells?",
-          "answer": "Crafts, jewelry, or decorations"
-        }
-      ]
-    },
-    {
-      "level": 2,
-      "difficulty": "Easy",
-      "questions": [
-        {
-          "category": "Shell Types",
-          "value": 200,
-          "question": "What are the two main groups of seashells?",
-          "answer": "Univalve and bivalve"
-        },
-        {
-          "category": "Shell Types",
-          "value": 200,
-          "question": "Name three types of bivalve shells.",
-          "answer": "Clam, mussel, oyster (or scallop)"
-        },
-        {
-          "category": "Shell Types",
-          "value": 200,
-          "question": "Name three types of univalve shells.",
-          "answer": "Snail, conch, whelk (or nautilus)"
-        },
-        {
-          "category": "Famous Shells",
-          "value": 200,
-          "question": "Which shell can be blown like a trumpet?",
-          "answer": "Conch shell"
-        },
-        {
-          "category": "Famous Shells",
-          "value": 200,
-          "question": "What shell is often pink and spiraled?",
-          "answer": "Conch"
-        },
-        {
-          "category": "Sea Creatures",
-          "value": 200,
-          "question": "What does a scallop use to move through water?",
-          "answer": "It claps its shells together"
-        },
-        {
-          "category": "Sea Creatures",
-          "value": 200,
-          "question": "How does a clam protect itself?",
-          "answer": "By closing its two shells tightly"
-        },
-        {
-          "category": "Pearls",
-          "value": 200,
-          "question": "What is a pearl?",
-          "answer": "A lustrous gem formed inside an oyster or mussel"
-        },
-        {
-          "category": "Pearls",
-          "value": 200,
-          "question": "How does a pearl form inside an oyster?",
-          "answer": "Irritant gets covered with nacre (mother-of-pearl)"
-        },
-        {
-          "category": "Shell Structure",
-          "value": 200,
-          "question": "What is the iridescent layer inside shells called?",
-          "answer": "Mother-of-pearl or nacre"
-        },
-        {
-          "category": "Shell Structure",
-          "value": 200,
-          "question": "What is the pointed end of a spiral shell called?",
-          "answer": "The apex"
-        },
-        {
-          "category": "Shell Colors",
-          "value": 200,
-          "question": "What gives seashells their colors?",
-          "answer": "Pigments (minerals and organic compounds)"
-        },
-        {
-          "category": "Shell Colors",
-          "value": 200,
-          "question": "Why do shells sometimes fade in the sun?",
-          "answer": "The pigments break down from UV rays"
-        },
-        {
-          "category": "Collecting",
-          "value": 200,
-          "question": "What tools help collectors find shells?",
-          "answer": "Bucket, sieve, or mesh bag"
-        },
-        {
-          "category": "Collecting",
-          "value": 200,
-          "question": "How should you clean shells you collect?",
-          "answer": "Rinse with fresh water and dry gently"
-        },
-        {
-          "category": "Beach Facts",
-          "value": 200,
-          "question": "Which type of shell is harder: bivalve or univalve?",
-          "answer": "Both are equally hard (depends on species)"
-        },
-        {
-          "category": "Beach Facts",
-          "value": 200,
-          "question": "How many years can some shells last in sand?",
-          "answer": "Hundreds or thousands of years"
-        },
-        {
-          "category": "Sizes",
-          "value": 200,
-          "question": "What is the world's largest clam shell?",
-          "answer": "The giant clam"
-        },
-        {
-          "category": "Sizes",
-          "value": 200,
-          "question": "How big can a giant clam shell grow?",
-          "answer": "Over 3 feet (1 meter) wide"
-        },
-        {
-          "category": "Shapes",
-          "value": 200,
-          "question": "What shape are cone shells?",
-          "answer": "Conical or cone-shaped"
-        },
-        {
-          "category": "Shapes",
-          "value": 200,
-          "question": "What shape are fan shells?",
-          "answer": "Fan-shaped or semi-circular"
-        },
-        {
-          "category": "Marine Biology",
-          "value": 200,
-          "question": "What do filter-feeding mollusks eat?",
-          "answer": "Plankton and tiny particles from water"
-        },
-        {
-          "category": "Marine Biology",
-          "value": 200,
-          "question": "Do all marine animals with shells live on the bottom?",
-          "answer": "No, some float or swim"
-        },
-        {
-          "category": "History",
-          "value": 200,
-          "question": "Were shells used as money historically?",
-          "answer": "Yes, in some cultures"
-        },
-        {
-          "category": "History",
-          "value": 200,
-          "question": "What ancient item was made from conch shells?",
-          "answer": "Trumpets or horns"
-        },
-        {
-          "category": "Habitat",
-          "value": 200,
-          "question": "Can shells be found in freshwater?",
-          "answer": "Yes, freshwater mollusks have shells too"
-        },
-        {
-          "category": "Habitat",
-          "value": 200,
-          "question": "What do shells protect mollusks from?",
-          "answer": "Predators and physical damage"
-        },
-        {
-          "category": "Identification",
-          "value": 200,
-          "question": "How do you identify a shell species?",
-          "answer": "By shape, color, size, texture, and pattern"
-        },
-        {
-          "category": "Identification",
-          "value": 200,
-          "question": "What book helps identify seashells?",
-          "answer": "A shell identification guide"
-        },
-        {
-          "category": "Fun Facts",
-          "value": 200,
-          "question": "How many species of mollusks are there?",
-          "answer": "Over 85,000 species"
-        }
-      ]
-    },
-    {
-      "level": 3,
-      "difficulty": "Intermediate",
-      "questions": [
-        {
-          "category": "Shell Science",
-          "value": 300,
-          "question": "What is the process of shell formation called?",
-          "answer": "Calcification or biomineralization"
-        },
-        {
-          "category": "Shell Science",
-          "value": 300,
-          "question": "What are the three layers of a seashell?",
-          "answer": "Periostracum, prismatic layer, and nacreous layer"
-        },
-        {
-          "category": "Shell Composition",
-          "value": 300,
-          "question": "What type of calcium compound makes up shells?",
-          "answer": "Aragonite or calcite"
-        },
-        {
-          "category": "Shell Composition",
-          "value": 300,
-          "question": "What percentage of a shell is organic material?",
-          "answer": "About 1-5 percent"
-        },
-        {
-          "category": "Advanced Collecting",
-          "value": 300,
-          "question": "What is a 'pristine' shell in collecting terms?",
-          "answer": "An unfaded, undamaged, perfect specimen"
-        },
-        {
-          "category": "Advanced Collecting",
-          "value": 300,
-          "question": "How do collectors preserve shell color?",
-          "answer": "Keep them away from direct sunlight"
-        },
-        {
-          "category": "Rare Shells",
-          "value": 300,
-          "question": "What is the rarest seashell in the world?",
-          "answer": "The Sphyradiopleura angelica or Golden Cowrie"
-        },
-        {
-          "category": "Rare Shells",
-          "value": 300,
-          "question": "Why are some shells more valuable to collectors?",
-          "answer": "Rarity, condition, size, or historical significance"
-        },
-        {
-          "category": "Fossil Shells",
-          "value": 300,
-          "question": "How old can fossilized shells be?",
-          "answer": "Millions of years old"
-        },
-        {
-          "category": "Fossil Shells",
-          "value": 300,
-          "question": "What do paleontologists learn from fossil shells?",
-          "answer": "About ancient oceans and extinct species"
-        },
-        {
-          "category": "Shell Patterns",
-          "value": 300,
-          "question": "What causes the spiral pattern on snail shells?",
-          "answer": "The animal's body spirals as it grows"
-        },
-        {
-          "category": "Shell Patterns",
-          "value": 300,
-          "question": "What is a 'fractal' pattern sometimes found on shells?",
-          "answer": "A self-repeating mathematical pattern"
-        },
-        {
-          "category": "Specialized Shells",
-          "value": 300,
-          "question": "What are cowrie shells known for?",
-          "answer": "Their smooth, glossy, porcelain-like surface"
-        },
-        {
-          "category": "Specialized Shells",
-          "value": 300,
-          "question": "What are cone shells dangerous for?",
-          "answer": "Their venomous harpoon-like tooth"
-        },
-        {
-          "category": "Specialized Shells",
-          "value": 300,
-          "question": "What makes murex shells special?",
-          "answer": "They were used to make purple dye"
-        },
-        {
-          "category": "Marine Ecosystems",
-          "value": 300,
-          "question": "What role do shells play in ocean ecosystems?",
-          "answer": "They provide homes for other creatures and store nutrients"
-        },
-        {
-          "category": "Marine Ecosystems",
-          "value": 300,
-          "question": "What is shell sand made of?",
-          "answer": "Fragments of broken shells"
-        },
-        {
-          "category": "Geographic Distribution",
-          "value": 300,
-          "question": "Which ocean has the most shell diversity?",
-          "answer": "The Pacific Ocean"
-        },
-        {
-          "category": "Geographic Distribution",
-          "value": 300,
-          "question": "What region is known for colorful tropical shells?",
-          "answer": "Coral reefs and tropical waters"
-        },
-        {
-          "category": "Classification",
-          "value": 300,
-          "question": "What is the scientific name for the group with one shell?",
-          "answer": "Gastropod"
-        },
-        {
-          "category": "Classification",
-          "value": 300,
-          "question": "What is the scientific name for the group with two shells?",
-          "answer": "Bivalve"
-        },
-        {
-          "category": "Deep Sea Shells",
-          "value": 300,
-          "question": "Do shells exist in the deepest ocean trenches?",
-          "answer": "Yes, adapted to extreme pressure"
-        },
-        {
-          "category": "Deep Sea Shells",
-          "value": 300,
-          "question": "How do deep sea shells differ from shallow water shells?",
-          "answer": "They are typically thicker and more compact"
-        },
-        {
-          "category": "Climate Effects",
-          "value": 300,
-          "question": "How does ocean acidification affect shells?",
-          "answer": "It weakens them and makes them dissolve faster"
-        },
-        {
-          "category": "Climate Effects",
-          "value": 300,
-          "question": "What is ocean acidification caused by?",
-          "answer": "Carbon dioxide (CO2) absorbed by the ocean"
-        },
-        {
-          "category": "Museum Collections",
-          "value": 300,
-          "question": "Which museum is famous for shell collections?",
-          "answer": "The Smithsonian Institution"
-        },
-        {
-          "category": "Museum Collections",
-          "value": 300,
-          "question": "How many shells are in major museum collections?",
-          "answer": "Hundreds of thousands to millions"
-        },
-        {
-          "category": "Shell Anatomy",
-          "value": 300,
-          "question": "What is the hinge on a clam shell called?",
-          "answer": "The ligament"
-        },
-        {
-          "category": "Shell Anatomy",
-          "value": 300,
-          "question": "What are the growth lines on shells called?",
-          "answer": "Lines of growth or growth rings"
-        },
-        {
-          "category": "Practical Uses",
-          "value": 300,
-          "question": "What are shells used for in modern industry?",
-          "answer": "Construction aggregate, fertilizer, or decorative materials"
-        }
-      ]
-    },
-    {
-      "level": 4,
-      "difficulty": "Advanced",
-      "questions": [
-        {
-          "category": "Conchology Science",
-          "value": 400,
-          "question": "What is the mathematical concept behind shell spirals?",
-          "answer": "The logarithmic or equiangular spiral"
-        },
-        {
-          "category": "Conchology Science",
-          "value": 400,
-          "question": "What is the golden ratio called in shell spirals?",
-          "answer": "The Fibonacci sequence"
-        },
-        {
-          "category": "Biomineralization",
-          "value": 400,
-          "question": "What protein in shells provides flexibility?",
-          "answer": "Conchiolin"
-        },
-        {
-          "category": "Biomineralization",
-          "value": 400,
-          "question": "How do mollusks control shell crystallization?",
-          "answer": "Through specialized proteins and organic matrices"
-        },
-        {
-          "category": "Advanced Taxonomy",
-          "value": 400,
-          "question": "What are the five main classes of mollusks?",
-          "answer": "Gastropoda, Bivalvia, Cephalopoda, Polyplacophora, Scaphopoda"
-        },
-        {
-          "category": "Advanced Taxonomy",
-          "value": 400,
-          "question": "Which mollusk class has eight-plated shells?",
-          "answer": "Polyplacophora (chitons)"
-        },
-        {
-          "category": "Rare Specimens",
-          "value": 400,
-          "question": "What is the Conus gloriamaris shell?",
-          "answer": "A highly prized and rare cone shell"
-        },
-        {
-          "category": "Rare Specimens",
-          "value": 400,
-          "question": "Why were some shells worth more than gold historically?",
-          "answer": "Their extreme rarity and beauty"
-        },
-        {
-          "category": "Paleontology",
-          "value": 400,
-          "question": "What do ammonite shells tell us about extinction?",
-          "answer": "They show the K-T extinction boundary"
-        },
-        {
-          "category": "Paleontology",
-          "value": 400,
-          "question": "How do paleontologists date fossil shells?",
-          "answer": "Using radiometric dating and stratigraphic analysis"
-        },
-        {
-          "category": "Mechanical Properties",
-          "value": 400,
-          "question": "What makes nacre stronger than its components?",
-          "answer": "Its hierarchical layered structure"
-        },
-        {
-          "category": "Mechanical Properties",
-          "value": 400,
-          "question": "How do shells resist fracturing despite being brittle?",
-          "answer": "Through damage-deflection mechanisms and layered architecture"
-        },
-        {
-          "category": "Chemical Analysis",
-          "value": 400,
-          "question": "What do isotope ratios in shells reveal?",
-          "answer": "Water temperature and salinity when the shell formed"
-        },
-        {
-          "category": "Chemical Analysis",
-          "value": 400,
-          "question": "What element's presence in shells indicates freshwater origin?",
-          "answer": "Strontium or specific trace element ratios"
-        },
-        {
-          "category": "Specialized Adaptations",
-          "value": 400,
-          "question": "How do flame shells escape predators?",
-          "answer": "By ejecting water and bouncing away"
-        },
-        {
-          "category": "Specialized Adaptations",
-          "value": 400,
-          "question": "What sensory organs do some shells possess?",
-          "answer": "Eye spots or light-sensitive organs"
-        },
-        {
-          "category": "Behavioral Ecology",
-          "value": 400,
-          "question": "Do mollusks recognize their own shells?",
-          "answer": "Yes, through chemoreceptors and tactile sensing"
-        },
-        {
-          "category": "Behavioral Ecology",
-          "value": 400,
-          "question": "How do hermit crabs evaluate a new shell home?",
-          "answer": "By precise sensory assessment of size and quality"
-        },
-        {
-          "category": "Bioarchaeology",
-          "value": 400,
-          "question": "What do shell middens tell anthropologists?",
-          "answer": "About ancient human diet and settlement patterns"
-        },
-        {
-          "category": "Bioarchaeology",
-          "value": 400,
-          "question": "Which ancient civilizations used shells as currency?",
-          "answer": "Traders in Indian Ocean and Pacific regions"
-        },
-        {
-          "category": "Environmental Monitoring",
-          "value": 400,
-          "question": "How are shells used to monitor ocean health?",
-          "answer": "As biomarkers for pollution and temperature changes"
-        },
-        {
-          "category": "Environmental Monitoring",
-          "value": 400,
-          "question": "What condition weakens modern mollusks' shells?",
-          "answer": "Ocean acidification (lowered pH)"
-        },
-        {
-          "category": "Nanotechnology",
-          "value": 400,
-          "question": "What nacre structures inspire materials science?",
-          "answer": "Its brick-and-mortar nanoarchitecture"
-        },
-        {
-          "category": "Nanotechnology",
-          "value": 400,
-          "question": "How are synthetic nacre materials being created?",
-          "answer": "Through layer-by-layer assembly techniques"
-        },
-        {
-          "category": "Conservation Biology",
-          "value": 400,
-          "question": "Which mollusk species are endangered due to shell collection?",
-          "answer": "Various cowries, cone shells, and giant clams"
-        },
-        {
-          "category": "Conservation Biology",
-          "value": 400,
-          "question": "What regulations protect rare shells?",
-          "answer": "CITES (Convention on International Trade in Endangered Species)"
-        },
-        {
-          "category": "Research Methods",
-          "value": 400,
-          "question": "What imaging technique reveals shell internal structure?",
-          "answer": "Computed tomography (CT scanning)"
-        },
-        {
-          "category": "Research Methods",
-          "value": 400,
-          "question": "How do scientists study shell growth rates?",
-          "answer": "Through sectioning and ring analysis (like tree rings)"
-        },
-        {
-          "category": "Museum Curation",
-          "value": 400,
-          "question": "How are museum shell collections preserved?",
-          "answer": "In climate-controlled environments with acid-free materials"
-        },
-        {
-          "category": "Museum Curation",
-          "value": 400,
-          "question": "What pest threatens stored shell collections?",
-          "answer": "Moth larvae and dermestid beetles"
-        }
-      ]
-    },
-    {
-      "level": 5,
-      "difficulty": "Expert",
-      "questions": [
-        {
-          "category": "Molecular Biology",
-          "value": 500,
-          "question": "What genes regulate nacre protein expression in mollusks?",
-          "answer": "Shell protein genes like MSI60 and Perlucin"
-        },
-        {
-          "category": "Molecular Biology",
-          "value": 500,
-          "question": "How do mollusks regulate calcium carbonate crystal orientation?",
-          "answer": "Through extracellular matrix proteins and molecular signals"
-        },
-        {
-          "category": "Crystallography",
-          "value": 500,
-          "question": "What crystallographic polymorphs of CaCO3 appear in shells?",
-          "answer": "Calcite, aragonite, and occasionally vaterite"
-        },
-        {
-          "category": "Crystallography",
-          "value": 500,
-          "question": "Why do some mollusks prefer aragonite while others use calcite?",
-          "answer": "Based on evolutionary adaptation and metabolic efficiency"
-        },
-        {
-          "category": "Advanced Systematics",
-          "value": 500,
-          "question": "What does molecular phylogenetics reveal about mollusk evolution?",
-          "answer": "Shell morphology doesn't always align with genetic relationships"
-        },
-        {
-          "category": "Advanced Systematics",
-          "value": 500,
-          "question": "Which mollusk groups are believed to be polyphyletic?",
-          "answer": "Some traditional shell-based groupings"
-        },
-        {
-          "category": "Paleobiology",
-          "value": 500,
-          "question": "What is the Cambrian explosion's relevance to shell evolution?",
-          "answer": "It marks the first appearance of shelled organisms"
-        },
-        {
-          "category": "Paleobiology",
-          "value": 500,
-          "question": "How did shell armor affect predator-prey evolution?",
-          "answer": "It drove coevolutionary arms races in feeding mechanisms"
-        },
-        {
-          "category": "Geochemistry",
-          "value": 500,
-          "question": "What do oxygen isotope ratios in shells indicate?",
-          "answer": "Paleoseawater temperature at formation time"
-        },
-        {
-          "category": "Geochemistry",
-          "value": 500,
-          "question": "How are shells used in paleoceanographic reconstruction?",
-          "answer": "As proxies for salinity, pH, and circulation patterns"
-        },
-        {
-          "category": "Biomechanics",
-          "value": 500,
-          "question": "What is the critical thickness for shell fracture mechanics?",
-          "answer": "Varies by species but involves stress concentration factors"
-        },
-        {
-          "category": "Biomechanics",
-          "value": 500,
-          "question": "How does shell curvature enhance structural strength?",
-          "answer": "Through optimal load distribution and stress dispersal"
-        },
-        {
-          "category": "Developmental Biology",
-          "value": 500,
-          "question": "What is the role of the mantle in shell formation?",
-          "answer": "It secretes the organic matrix and controls mineralization"
-        },
-        {
-          "category": "Developmental Biology",
-          "value": 500,
-          "question": "How does the larval shell (prodissoconch) differ from adult shell?",
-          "answer": "It has different mineralogy and is often resorbed"
-        },
-        {
-          "category": "Symbiosis",
-          "value": 500,
-          "question": "What microbial communities inhabit mollusk shells?",
-          "answer": "Biofilms of bacteria and diatoms"
-        },
-        {
-          "category": "Symbiosis",
-          "value": 500,
-          "question": "How do shell bacteria affect shell formation?",
-          "answer": "They may facilitate mineral nucleation"
-        },
-        {
-          "category": "Climate Change Impact",
-          "value": 500,
-          "question": "How does temperature affect shell growth rates?",
-          "answer": "Optimal ranges exist; extremes inhibit biomineralization"
-        },
-        {
-          "category": "Climate Change Impact",
-          "value": 500,
-          "question": "What is pteropod shell dissolution and its significance?",
-          "answer": "Ocean acidification dissolves pteropod shells, affecting food webs"
-        },
-        {
-          "category": "Forensic Applications",
-          "value": 500,
-          "question": "How can shells be used in forensic investigation?",
-          "answer": "Shell trace evidence can link scenes and establish timeline"
-        },
-        {
-          "category": "Forensic Applications",
-          "value": 500,
-          "question": "What shell characteristics help identify geographic origin?",
-          "answer": "Elemental composition and stable isotope signatures"
-        },
-        {
-          "category": "Advanced Materials",
-          "value": 500,
-          "question": "What properties of nacre inspire armor design?",
-          "answer": "High toughness despite low density (25% stronger than steel)"
-        },
-        {
-          "category": "Advanced Materials",
-          "value": 500,
-          "question": "How are biomimetic composites based on nacre being applied?",
-          "answer": "In aerospace, automotive, and body armor applications"
-        },
-        {
-          "category": "Taxonomic Complexity",
-          "value": 500,
-          "question": "What challenges exist in mollusk taxonomy?",
-          "answer": "Phenotypic plasticity, cryptic species, and morphological convergence"
-        },
-        {
-          "category": "Taxonomic Complexity",
-          "value": 500,
-          "question": "How do DNA barcodes resolve shell-based classification issues?",
-          "answer": "They reveal true evolutionary relationships independent of morphology"
-        },
-        {
-          "category": "Biochemistry",
-          "value": 500,
-          "question": "What are matrix proteins and their role in shell mechanics?",
-          "answer": "Organic scaffolds that guide crystal orientation and prevent fracture"
-        },
-        {
-          "category": "Biochemistry",
-          "value": 500,
-          "question": "How do soluble organic matrix components affect crystallization?",
-          "answer": "They inhibit crystal growth and control morphology"
-        },
-        {
-          "category": "Evolutionary Ecology",
-          "value": 500,
-          "question": "What selective pressures drove shell diversification?",
-          "answer": "Predation, food availability, energy cost, and habitat type"
-        },
-        {
-          "category": "Evolutionary Ecology",
-          "value": 500,
-          "question": "Why do tropical shells show greater diversity than polar shells?",
-          "answer": "Higher energy availability and longer evolutionary time in stable climate"
-        },
-        {
-          "category": "Numerical Taxonomy",
-          "value": 500,
-          "question": "What computational methods analyze shell morphology?",
-          "answer": "Geometric morphometrics and landmark-based analysis"
-        },
-        {
-          "category": "Numerical Taxonomy",
-          "value": 500,
-          "question": "How does machine learning aid shell identification?",
-          "answer": "Through image recognition trained on morphological databases"
-        }
-      ]
-    },
-    {
-      "level": 6,
-      "difficulty": "Master",
-      "questions": [
-        {
-          "category": "Quantum Biomineralization",
-          "value": 600,
-          "question": "What role do quantum tunneling processes play in crystal nucleation?",
-          "answer": "They facilitate ion movement across energy barriers in biomineralization"
-        },
-        {
-          "category": "Quantum Biomineralization",
-          "value": 600,
-          "question": "How do electron transport chains affect shell formation?",
-          "answer": "Through metabolic energy production for active transport and enzyme activity"
-        },
-        {
-          "category": "Systems Biology",
-          "value": 600,
-          "question": "What is the mollusk shell as a complex adaptive system?",
-          "answer": "A self-organizing structure emerging from genetic, biochemical, and mechanical processes"
-        },
-        {
-          "category": "Systems Biology",
-          "value": 600,
-          "question": "How do feedback loops regulate shell phenotypic plasticity?",
-          "answer": "Through environmental sensing and dynamic gene expression modulation"
-        },
-        {
-          "category": "Synthetic Biology",
-          "value": 600,
-          "question": "What synthetic proteins are engineered to mimic nacre formation?",
-          "answer": "Recombinant shell proteins and artificial matrix proteins"
-        },
-        {
-          "category": "Synthetic Biology",
-          "value": 600,
-          "question": "How does CRISPR technology advance mollusk shell research?",
-          "answer": "It enables targeted knockout of shell-formation genes"
-        },
-        {
-          "category": "Paleogenomics",
-          "value": 600,
-          "question": "Can shell fossils preserve ancient DNA sequences?",
-          "answer": "Rarely; only under exceptional preservation conditions"
-        },
-        {
-          "category": "Paleogenomics",
-          "value": 600,
-          "question": "What genomic signatures indicate shell protein evolution?",
-          "answer": "Positive selection on genes encoding biomineralization proteins"
-        },
-        {
-          "category": "Microfluidics",
-          "value": 600,
-          "question": "How do microfluidic studies reveal shell nucleation mechanisms?",
-          "answer": "By tracking crystal formation in controlled nanoscale environments"
-        },
-        {
-          "category": "Microfluidics",
-          "value": 600,
-          "question": "What is the relevance of microcompartmentalization in shell formation?",
-          "answer": "Vesicles create isolated chemical environments optimizing mineralization"
-        },
-        {
-          "category": "Spectroscopy",
-          "value": 600,
-          "question": "What does Raman spectroscopy reveal about shell structure?",
-          "answer": "Crystalline phase composition and molecular vibration signatures"
-        },
-        {
-          "category": "Spectroscopy",
-          "value": 600,
-          "question": "How does X-ray diffraction map shell mineral phases?",
-          "answer": "Through crystal lattice analysis revealing atomic arrangement patterns"
-        },
-        {
-          "category": "Computational Modeling",
-          "value": 600,
-          "question": "What molecular dynamics simulations predict about nacre behavior?",
-          "answer": "How protein-mineral interfaces dissipate energy under stress"
-        },
-        {
-          "category": "Computational Modeling",
-          "value": 600,
-          "question": "How do finite element models optimize biomimetic shell design?",
-          "answer": "By predicting stress distributions and failure modes"
-        },
-        {
-          "category": "Extremophile Shells",
-          "value": 600,
-          "question": "What shell adaptations exist for hydrothermal vent mollusks?",
-          "answer": "Specialized protein structures resistant to extreme temperature and pH"
-        },
-        {
-          "category": "Extremophile Shells",
-          "value": 600,
-          "question": "How do deep-sea shell minerals differ from shallow-water shells?",
-          "answer": "Through modified crystallography for high-pressure stability"
-        },
-        {
-          "category": "Biogeochemical Cycling",
-          "value": 600,
-          "question": "What role do shell mollusks play in carbon sequestration?",
-          "answer": "They fix CO2 into CaCO3, storing carbon in ocean sediments"
-        },
-        {
-          "category": "Biogeochemical Cycling",
-          "value": 600,
-          "question": "How does shell dissolution feedback into ocean acidification?",
-          "answer": "Released CO2 further lowers pH, creating positive feedback loop"
-        },
-        {
-          "category": "Population Genetics",
-          "value": 600,
-          "question": "What does shell phenotype variation reveal about genetic diversity?",
-          "answer": "High phenotypic plasticity can mask underlying genetic structure"
-        },
-        {
-          "category": "Population Genetics",
-          "value": 600,
-          "question": "How does geographic isolation affect shell morphology?",
-          "answer": "Through local adaptation and genetic drift in small populations"
-        },
-        {
-          "category": "Proteomics",
-          "value": 600,
-          "question": "What does quantitative proteomics reveal about shell assembly?",
-          "answer": "Relative abundance and post-translational modifications of matrix proteins"
-        },
-        {
-          "category": "Proteomics",
-          "value": 600,
-          "question": "How do phosphorylation patterns affect shell protein function?",
-          "answer": "Through altered protein-protein interactions and mineral binding"
-        },
-        {
-          "category": "Metagenomics",
-          "value": 600,
-          "question": "What metagenomics reveals about shell microbiome function?",
-          "answer": "Gene pathways for biofilm formation and potential biomineralization assistance"
-        },
-        {
-          "category": "Metagenomics",
-          "value": 600,
-          "question": "How do shell-associated microbial communities evolve?",
-          "answer": "Through coevolution with host mollusk and environmental pressures"
-        },
-        {
-          "category": "Quantum Materials",
-          "value": 600,
-          "question": "What quantum properties do nacre nanostructures exhibit?",
-          "answer": "Potential plasmonic coupling between mineral nanoparticles"
-        },
-        {
-          "category": "Quantum Materials",
-          "value": 600,
-          "question": "How might shell properties inform quantum computing applications?",
-          "answer": "Through biological quantum coherence mechanisms in protein structures"
-        },
-        {
-          "category": "Epigenetics",
-          "value": 600,
-          "question": "What epigenetic modifications regulate shell development?",
-          "answer": "DNA methylation and histone modifications of biomineralization genes"
-        },
-        {
-          "category": "Epigenetics",
-          "value": 600,
-          "question": "How does maternal stress affect offspring shell phenotype?",
-          "answer": "Through transgenerational epigenetic inheritance of gene expression patterns"
-        },
-        {
-          "category": "Mathematical Biology",
-          "value": 600,
-          "question": "What reaction-diffusion models explain shell pattern formation?",
-          "answer": "Turing patterns generated by competing morphogen gradients"
-        },
-        {
-          "category": "Mathematical Biology",
-          "value": 600,
-          "question": "How do bifurcation diagrams predict shell morphological transitions?",
-          "answer": "By mapping parameter space showing stability and pattern switching"
-        }
-      ]
-    }
-  ]
+  "category": "Beach Seashells Trivia",
+  "theme": "beach",
+  "category_id": "beach_seashells",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What is a seashell made of?",
+        "correctQuestion": "Calcium carbonate (or aragonite)",
+        "value": 100
+      },
+      {
+        "clue": "Which creature creates a seashell?",
+        "correctQuestion": "A mollusk",
+        "value": 100
+      },
+      {
+        "clue": "What is the outer covering of a shell called?",
+        "correctQuestion": "The periostracum",
+        "value": 100
+      },
+      {
+        "clue": "How many shells does a clam have?",
+        "correctQuestion": "Two (it is bivalve)",
+        "value": 100
+      },
+      {
+        "clue": "What do we call shells with one piece?",
+        "correctQuestion": "Univalve",
+        "value": 100
+      },
+      {
+        "clue": "What is the hobby of collecting seashells called?",
+        "correctQuestion": "Conchology",
+        "value": 100
+      },
+      {
+        "clue": "Where do you usually find seashells?",
+        "correctQuestion": "On the beach",
+        "value": 100
+      },
+      {
+        "clue": "Which shell looks like a spiral staircase?",
+        "correctQuestion": "A nautilus",
+        "value": 100
+      },
+      {
+        "clue": "What is another name for a conch shell?",
+        "correctQuestion": "A horn (or trumpet)",
+        "value": 100
+      },
+      {
+        "clue": "What animal lives inside an oyster shell?",
+        "correctQuestion": "An oyster (a mollusk)",
+        "value": 100
+      },
+      {
+        "clue": "Which creature makes a pearl inside its shell?",
+        "correctQuestion": "An oyster or mussel",
+        "value": 100
+      },
+      {
+        "clue": "What do hermit crabs use as a portable home?",
+        "correctQuestion": "An empty seashell",
+        "value": 100
+      },
+      {
+        "clue": "True or False: All seashells are white or cream colored.",
+        "correctQuestion": "False",
+        "value": 100
+      },
+      {
+        "clue": "What color are many scallop shells?",
+        "correctQuestion": "Pink, purple, or red",
+        "value": 100
+      },
+      {
+        "clue": "What color are conch shells often?",
+        "correctQuestion": "Pink or orange",
+        "value": 100
+      },
+      {
+        "clue": "What is the spiral pattern on a shell called?",
+        "correctQuestion": "The whorl",
+        "value": 100
+      },
+      {
+        "clue": "What is the opening of a univalve shell called?",
+        "correctQuestion": "The aperture",
+        "value": 100
+      },
+      {
+        "clue": "What is a bumpy shell texture called?",
+        "correctQuestion": "Spiny or ridged",
+        "value": 100
+      },
+      {
+        "clue": "How do scallop shells feel to touch?",
+        "correctQuestion": "Ridged or ribbed",
+        "value": 100
+      },
+      {
+        "clue": "How long does it take for a shell to form?",
+        "correctQuestion": "Several years",
+        "value": 100
+      },
+      {
+        "clue": "Do shells grow with the animal inside?",
+        "correctQuestion": "Yes",
+        "value": 100
+      },
+      {
+        "clue": "What time of year is best for shell collecting?",
+        "correctQuestion": "After storms or high tide",
+        "value": 100
+      },
+      {
+        "clue": "Why do shells wash up on the beach?",
+        "correctQuestion": "Ocean waves and tides push them ashore",
+        "value": 100
+      },
+      {
+        "clue": "What is a small, smooth shell called?",
+        "correctQuestion": "A pebble or stone (or a simple shell)",
+        "value": 100
+      },
+      {
+        "clue": "What do we call the largest shells?",
+        "correctQuestion": "Clam shells or giant clam shells",
+        "value": 100
+      },
+      {
+        "clue": "Can you hear the ocean in a seashell?",
+        "correctQuestion": "No, you hear air vibrating inside",
+        "value": 100
+      },
+      {
+        "clue": "Do all mollusks have shells?",
+        "correctQuestion": "No",
+        "value": 100
+      },
+      {
+        "clue": "Is it okay to take shells home from the beach?",
+        "correctQuestion": "Yes, empty shells are fine (check local laws)",
+        "value": 100
+      },
+      {
+        "clue": "Should you collect shells that have animals inside?",
+        "correctQuestion": "No, leave them in the ocean",
+        "value": 100
+      },
+      {
+        "clue": "What can you make with seashells?",
+        "correctQuestion": "Crafts, jewelry, or decorations",
+        "value": 100
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "What are the two main groups of seashells?",
+        "correctQuestion": "Univalve and bivalve",
+        "value": 200
+      },
+      {
+        "clue": "Name three types of bivalve shells.",
+        "correctQuestion": "Clam, mussel, oyster (or scallop)",
+        "value": 200
+      },
+      {
+        "clue": "Name three types of univalve shells.",
+        "correctQuestion": "Snail, conch, whelk (or nautilus)",
+        "value": 200
+      },
+      {
+        "clue": "Which shell can be blown like a trumpet?",
+        "correctQuestion": "Conch shell",
+        "value": 200
+      },
+      {
+        "clue": "What shell is often pink and spiraled?",
+        "correctQuestion": "Conch",
+        "value": 200
+      },
+      {
+        "clue": "What does a scallop use to move through water?",
+        "correctQuestion": "It claps its shells together",
+        "value": 200
+      },
+      {
+        "clue": "How does a clam protect itself?",
+        "correctQuestion": "By closing its two shells tightly",
+        "value": 200
+      },
+      {
+        "clue": "What is a pearl?",
+        "correctQuestion": "A lustrous gem formed inside an oyster or mussel",
+        "value": 200
+      },
+      {
+        "clue": "How does a pearl form inside an oyster?",
+        "correctQuestion": "Irritant gets covered with nacre (mother-of-pearl)",
+        "value": 200
+      },
+      {
+        "clue": "What is the iridescent layer inside shells called?",
+        "correctQuestion": "Mother-of-pearl or nacre",
+        "value": 200
+      },
+      {
+        "clue": "What is the pointed end of a spiral shell called?",
+        "correctQuestion": "The apex",
+        "value": 200
+      },
+      {
+        "clue": "What gives seashells their colors?",
+        "correctQuestion": "Pigments (minerals and organic compounds)",
+        "value": 200
+      },
+      {
+        "clue": "Why do shells sometimes fade in the sun?",
+        "correctQuestion": "The pigments break down from UV rays",
+        "value": 200
+      },
+      {
+        "clue": "What tools help collectors find shells?",
+        "correctQuestion": "Bucket, sieve, or mesh bag",
+        "value": 200
+      },
+      {
+        "clue": "How should you clean shells you collect?",
+        "correctQuestion": "Rinse with fresh water and dry gently",
+        "value": 200
+      },
+      {
+        "clue": "Which type of shell is harder: bivalve or univalve?",
+        "correctQuestion": "Both are equally hard (depends on species)",
+        "value": 200
+      },
+      {
+        "clue": "How many years can some shells last in sand?",
+        "correctQuestion": "Hundreds or thousands of years",
+        "value": 200
+      },
+      {
+        "clue": "What is the world's largest clam shell?",
+        "correctQuestion": "The giant clam",
+        "value": 200
+      },
+      {
+        "clue": "How big can a giant clam shell grow?",
+        "correctQuestion": "Over 3 feet (1 meter) wide",
+        "value": 200
+      },
+      {
+        "clue": "What shape are cone shells?",
+        "correctQuestion": "Conical or cone-shaped",
+        "value": 200
+      },
+      {
+        "clue": "What shape are fan shells?",
+        "correctQuestion": "Fan-shaped or semi-circular",
+        "value": 200
+      },
+      {
+        "clue": "What do filter-feeding mollusks eat?",
+        "correctQuestion": "Plankton and tiny particles from water",
+        "value": 200
+      },
+      {
+        "clue": "Do all marine animals with shells live on the bottom?",
+        "correctQuestion": "No, some float or swim",
+        "value": 200
+      },
+      {
+        "clue": "Were shells used as money historically?",
+        "correctQuestion": "Yes, in some cultures",
+        "value": 200
+      },
+      {
+        "clue": "What ancient item was made from conch shells?",
+        "correctQuestion": "Trumpets or horns",
+        "value": 200
+      },
+      {
+        "clue": "Can shells be found in freshwater?",
+        "correctQuestion": "Yes, freshwater mollusks have shells too",
+        "value": 200
+      },
+      {
+        "clue": "What do shells protect mollusks from?",
+        "correctQuestion": "Predators and physical damage",
+        "value": 200
+      },
+      {
+        "clue": "How do you identify a shell species?",
+        "correctQuestion": "By shape, color, size, texture, and pattern",
+        "value": 200
+      },
+      {
+        "clue": "What book helps identify seashells?",
+        "correctQuestion": "A shell identification guide",
+        "value": 200
+      },
+      {
+        "clue": "How many species of mollusks are there?",
+        "correctQuestion": "Over 85,000 species",
+        "value": 200
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "What is the process of shell formation called?",
+        "correctQuestion": "Calcification or biomineralization",
+        "value": 300
+      },
+      {
+        "clue": "What are the three layers of a seashell?",
+        "correctQuestion": "Periostracum, prismatic layer, and nacreous layer",
+        "value": 300
+      },
+      {
+        "clue": "What type of calcium compound makes up shells?",
+        "correctQuestion": "Aragonite or calcite",
+        "value": 300
+      },
+      {
+        "clue": "What percentage of a shell is organic material?",
+        "correctQuestion": "About 1-5 percent",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'pristine' shell in collecting terms?",
+        "correctQuestion": "An unfaded, undamaged, perfect specimen",
+        "value": 300
+      },
+      {
+        "clue": "How do collectors preserve shell color?",
+        "correctQuestion": "Keep them away from direct sunlight",
+        "value": 300
+      },
+      {
+        "clue": "What is the rarest seashell in the world?",
+        "correctQuestion": "The Sphyradiopleura angelica or Golden Cowrie",
+        "value": 300
+      },
+      {
+        "clue": "Why are some shells more valuable to collectors?",
+        "correctQuestion": "Rarity, condition, size, or historical significance",
+        "value": 300
+      },
+      {
+        "clue": "How old can fossilized shells be?",
+        "correctQuestion": "Millions of years old",
+        "value": 300
+      },
+      {
+        "clue": "What do paleontologists learn from fossil shells?",
+        "correctQuestion": "About ancient oceans and extinct species",
+        "value": 300
+      },
+      {
+        "clue": "What causes the spiral pattern on snail shells?",
+        "correctQuestion": "The animal's body spirals as it grows",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'fractal' pattern sometimes found on shells?",
+        "correctQuestion": "A self-repeating mathematical pattern",
+        "value": 300
+      },
+      {
+        "clue": "What are cowrie shells known for?",
+        "correctQuestion": "Their smooth, glossy, porcelain-like surface",
+        "value": 300
+      },
+      {
+        "clue": "What are cone shells dangerous for?",
+        "correctQuestion": "Their venomous harpoon-like tooth",
+        "value": 300
+      },
+      {
+        "clue": "What makes murex shells special?",
+        "correctQuestion": "They were used to make purple dye",
+        "value": 300
+      },
+      {
+        "clue": "What role do shells play in ocean ecosystems?",
+        "correctQuestion": "They provide homes for other creatures and store nutrients",
+        "value": 300
+      },
+      {
+        "clue": "What is shell sand made of?",
+        "correctQuestion": "Fragments of broken shells",
+        "value": 300
+      },
+      {
+        "clue": "Which ocean has the most shell diversity?",
+        "correctQuestion": "The Pacific Ocean",
+        "value": 300
+      },
+      {
+        "clue": "What region is known for colorful tropical shells?",
+        "correctQuestion": "Coral reefs and tropical waters",
+        "value": 300
+      },
+      {
+        "clue": "What is the scientific name for the group with one shell?",
+        "correctQuestion": "Gastropod",
+        "value": 300
+      },
+      {
+        "clue": "What is the scientific name for the group with two shells?",
+        "correctQuestion": "Bivalve",
+        "value": 300
+      },
+      {
+        "clue": "Do shells exist in the deepest ocean trenches?",
+        "correctQuestion": "Yes, adapted to extreme pressure",
+        "value": 300
+      },
+      {
+        "clue": "How do deep sea shells differ from shallow water shells?",
+        "correctQuestion": "They are typically thicker and more compact",
+        "value": 300
+      },
+      {
+        "clue": "How does ocean acidification affect shells?",
+        "correctQuestion": "It weakens them and makes them dissolve faster",
+        "value": 300
+      },
+      {
+        "clue": "What is ocean acidification caused by?",
+        "correctQuestion": "Carbon dioxide (CO2) absorbed by the ocean",
+        "value": 300
+      },
+      {
+        "clue": "Which museum is famous for shell collections?",
+        "correctQuestion": "The Smithsonian Institution",
+        "value": 300
+      },
+      {
+        "clue": "How many shells are in major museum collections?",
+        "correctQuestion": "Hundreds of thousands to millions",
+        "value": 300
+      },
+      {
+        "clue": "What is the hinge on a clam shell called?",
+        "correctQuestion": "The ligament",
+        "value": 300
+      },
+      {
+        "clue": "What are the growth lines on shells called?",
+        "correctQuestion": "Lines of growth or growth rings",
+        "value": 300
+      },
+      {
+        "clue": "What are shells used for in modern industry?",
+        "correctQuestion": "Construction aggregate, fertilizer, or decorative materials",
+        "value": 300
+      }
+    ],
+    "adults": [
+      {
+        "clue": "What is the mathematical concept behind shell spirals?",
+        "correctQuestion": "The logarithmic or equiangular spiral",
+        "value": 400
+      },
+      {
+        "clue": "What is the golden ratio called in shell spirals?",
+        "correctQuestion": "The Fibonacci sequence",
+        "value": 400
+      },
+      {
+        "clue": "What protein in shells provides flexibility?",
+        "correctQuestion": "Conchiolin",
+        "value": 400
+      },
+      {
+        "clue": "How do mollusks control shell crystallization?",
+        "correctQuestion": "Through specialized proteins and organic matrices",
+        "value": 400
+      },
+      {
+        "clue": "What are the five main classes of mollusks?",
+        "correctQuestion": "Gastropoda, Bivalvia, Cephalopoda, Polyplacophora, Scaphopoda",
+        "value": 400
+      },
+      {
+        "clue": "Which mollusk class has eight-plated shells?",
+        "correctQuestion": "Polyplacophora (chitons)",
+        "value": 400
+      },
+      {
+        "clue": "What is the Conus gloriamaris shell?",
+        "correctQuestion": "A highly prized and rare cone shell",
+        "value": 400
+      },
+      {
+        "clue": "Why were some shells worth more than gold historically?",
+        "correctQuestion": "Their extreme rarity and beauty",
+        "value": 400
+      },
+      {
+        "clue": "What do ammonite shells tell us about extinction?",
+        "correctQuestion": "They show the K-T extinction boundary",
+        "value": 400
+      },
+      {
+        "clue": "How do paleontologists date fossil shells?",
+        "correctQuestion": "Using radiometric dating and stratigraphic analysis",
+        "value": 400
+      },
+      {
+        "clue": "What makes nacre stronger than its components?",
+        "correctQuestion": "Its hierarchical layered structure",
+        "value": 400
+      },
+      {
+        "clue": "How do shells resist fracturing despite being brittle?",
+        "correctQuestion": "Through damage-deflection mechanisms and layered architecture",
+        "value": 400
+      },
+      {
+        "clue": "What do isotope ratios in shells reveal?",
+        "correctQuestion": "Water temperature and salinity when the shell formed",
+        "value": 400
+      },
+      {
+        "clue": "What element's presence in shells indicates freshwater origin?",
+        "correctQuestion": "Strontium or specific trace element ratios",
+        "value": 400
+      },
+      {
+        "clue": "How do flame shells escape predators?",
+        "correctQuestion": "By ejecting water and bouncing away",
+        "value": 400
+      },
+      {
+        "clue": "What sensory organs do some shells possess?",
+        "correctQuestion": "Eye spots or light-sensitive organs",
+        "value": 400
+      },
+      {
+        "clue": "Do mollusks recognize their own shells?",
+        "correctQuestion": "Yes, through chemoreceptors and tactile sensing",
+        "value": 400
+      },
+      {
+        "clue": "How do hermit crabs evaluate a new shell home?",
+        "correctQuestion": "By precise sensory assessment of size and quality",
+        "value": 400
+      },
+      {
+        "clue": "What do shell middens tell anthropologists?",
+        "correctQuestion": "About ancient human diet and settlement patterns",
+        "value": 400
+      },
+      {
+        "clue": "Which ancient civilizations used shells as currency?",
+        "correctQuestion": "Traders in Indian Ocean and Pacific regions",
+        "value": 400
+      },
+      {
+        "clue": "How are shells used to monitor ocean health?",
+        "correctQuestion": "As biomarkers for pollution and temperature changes",
+        "value": 400
+      },
+      {
+        "clue": "What condition weakens modern mollusks' shells?",
+        "correctQuestion": "Ocean acidification (lowered pH)",
+        "value": 400
+      },
+      {
+        "clue": "What nacre structures inspire materials science?",
+        "correctQuestion": "Its brick-and-mortar nanoarchitecture",
+        "value": 400
+      },
+      {
+        "clue": "How are synthetic nacre materials being created?",
+        "correctQuestion": "Through layer-by-layer assembly techniques",
+        "value": 400
+      },
+      {
+        "clue": "Which mollusk species are endangered due to shell collection?",
+        "correctQuestion": "Various cowries, cone shells, and giant clams",
+        "value": 400
+      },
+      {
+        "clue": "What regulations protect rare shells?",
+        "correctQuestion": "CITES (Convention on International Trade in Endangered Species)",
+        "value": 400
+      },
+      {
+        "clue": "What imaging technique reveals shell internal structure?",
+        "correctQuestion": "Computed tomography (CT scanning)",
+        "value": 400
+      },
+      {
+        "clue": "How do scientists study shell growth rates?",
+        "correctQuestion": "Through sectioning and ring analysis (like tree rings)",
+        "value": 400
+      },
+      {
+        "clue": "How are museum shell collections preserved?",
+        "correctQuestion": "In climate-controlled environments with acid-free materials",
+        "value": 400
+      },
+      {
+        "clue": "What pest threatens stored shell collections?",
+        "correctQuestion": "Moth larvae and dermestid beetles",
+        "value": 400
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "What genes regulate nacre protein expression in mollusks?",
+        "correctQuestion": "Shell protein genes like MSI60 and Perlucin",
+        "value": 500
+      },
+      {
+        "clue": "How do mollusks regulate calcium carbonate crystal orientation?",
+        "correctQuestion": "Through extracellular matrix proteins and molecular signals",
+        "value": 500
+      },
+      {
+        "clue": "What crystallographic polymorphs of CaCO3 appear in shells?",
+        "correctQuestion": "Calcite, aragonite, and occasionally vaterite",
+        "value": 500
+      },
+      {
+        "clue": "Why do some mollusks prefer aragonite while others use calcite?",
+        "correctQuestion": "Based on evolutionary adaptation and metabolic efficiency",
+        "value": 500
+      },
+      {
+        "clue": "What does molecular phylogenetics reveal about mollusk evolution?",
+        "correctQuestion": "Shell morphology doesn't always align with genetic relationships",
+        "value": 500
+      },
+      {
+        "clue": "Which mollusk groups are believed to be polyphyletic?",
+        "correctQuestion": "Some traditional shell-based groupings",
+        "value": 500
+      },
+      {
+        "clue": "What is the Cambrian explosion's relevance to shell evolution?",
+        "correctQuestion": "It marks the first appearance of shelled organisms",
+        "value": 500
+      },
+      {
+        "clue": "How did shell armor affect predator-prey evolution?",
+        "correctQuestion": "It drove coevolutionary arms races in feeding mechanisms",
+        "value": 500
+      },
+      {
+        "clue": "What do oxygen isotope ratios in shells indicate?",
+        "correctQuestion": "Paleoseawater temperature at formation time",
+        "value": 500
+      },
+      {
+        "clue": "How are shells used in paleoceanographic reconstruction?",
+        "correctQuestion": "As proxies for salinity, pH, and circulation patterns",
+        "value": 500
+      },
+      {
+        "clue": "What is the critical thickness for shell fracture mechanics?",
+        "correctQuestion": "Varies by species but involves stress concentration factors",
+        "value": 500
+      },
+      {
+        "clue": "How does shell curvature enhance structural strength?",
+        "correctQuestion": "Through optimal load distribution and stress dispersal",
+        "value": 500
+      },
+      {
+        "clue": "What is the role of the mantle in shell formation?",
+        "correctQuestion": "It secretes the organic matrix and controls mineralization",
+        "value": 500
+      },
+      {
+        "clue": "How does the larval shell (prodissoconch) differ from adult shell?",
+        "correctQuestion": "It has different mineralogy and is often resorbed",
+        "value": 500
+      },
+      {
+        "clue": "What microbial communities inhabit mollusk shells?",
+        "correctQuestion": "Biofilms of bacteria and diatoms",
+        "value": 500
+      },
+      {
+        "clue": "How do shell bacteria affect shell formation?",
+        "correctQuestion": "They may facilitate mineral nucleation",
+        "value": 500
+      },
+      {
+        "clue": "How does temperature affect shell growth rates?",
+        "correctQuestion": "Optimal ranges exist; extremes inhibit biomineralization",
+        "value": 500
+      },
+      {
+        "clue": "What is pteropod shell dissolution and its significance?",
+        "correctQuestion": "Ocean acidification dissolves pteropod shells, affecting food webs",
+        "value": 500
+      },
+      {
+        "clue": "How can shells be used in forensic investigation?",
+        "correctQuestion": "Shell trace evidence can link scenes and establish timeline",
+        "value": 500
+      },
+      {
+        "clue": "What shell characteristics help identify geographic origin?",
+        "correctQuestion": "Elemental composition and stable isotope signatures",
+        "value": 500
+      },
+      {
+        "clue": "What properties of nacre inspire armor design?",
+        "correctQuestion": "High toughness despite low density (25% stronger than steel)",
+        "value": 500
+      },
+      {
+        "clue": "How are biomimetic composites based on nacre being applied?",
+        "correctQuestion": "In aerospace, automotive, and body armor applications",
+        "value": 500
+      },
+      {
+        "clue": "What challenges exist in mollusk taxonomy?",
+        "correctQuestion": "Phenotypic plasticity, cryptic species, and morphological convergence",
+        "value": 500
+      },
+      {
+        "clue": "How do DNA barcodes resolve shell-based classification issues?",
+        "correctQuestion": "They reveal true evolutionary relationships independent of morphology",
+        "value": 500
+      },
+      {
+        "clue": "What are matrix proteins and their role in shell mechanics?",
+        "correctQuestion": "Organic scaffolds that guide crystal orientation and prevent fracture",
+        "value": 500
+      },
+      {
+        "clue": "How do soluble organic matrix components affect crystallization?",
+        "correctQuestion": "They inhibit crystal growth and control morphology",
+        "value": 500
+      },
+      {
+        "clue": "What selective pressures drove shell diversification?",
+        "correctQuestion": "Predation, food availability, energy cost, and habitat type",
+        "value": 500
+      },
+      {
+        "clue": "Why do tropical shells show greater diversity than polar shells?",
+        "correctQuestion": "Higher energy availability and longer evolutionary time in stable climate",
+        "value": 500
+      },
+      {
+        "clue": "What computational methods analyze shell morphology?",
+        "correctQuestion": "Geometric morphometrics and landmark-based analysis",
+        "value": 500
+      },
+      {
+        "clue": "How does machine learning aid shell identification?",
+        "correctQuestion": "Through image recognition trained on morphological databases",
+        "value": 500
+      },
+      {
+        "clue": "What role do quantum tunneling processes play in crystal nucleation?",
+        "correctQuestion": "They facilitate ion movement across energy barriers in biomineralization",
+        "value": 600
+      },
+      {
+        "clue": "How do electron transport chains affect shell formation?",
+        "correctQuestion": "Through metabolic energy production for active transport and enzyme activity",
+        "value": 600
+      },
+      {
+        "clue": "What is the mollusk shell as a complex adaptive system?",
+        "correctQuestion": "A self-organizing structure emerging from genetic, biochemical, and mechanical processes",
+        "value": 600
+      },
+      {
+        "clue": "How do feedback loops regulate shell phenotypic plasticity?",
+        "correctQuestion": "Through environmental sensing and dynamic gene expression modulation",
+        "value": 600
+      },
+      {
+        "clue": "What synthetic proteins are engineered to mimic nacre formation?",
+        "correctQuestion": "Recombinant shell proteins and artificial matrix proteins",
+        "value": 600
+      },
+      {
+        "clue": "How does CRISPR technology advance mollusk shell research?",
+        "correctQuestion": "It enables targeted knockout of shell-formation genes",
+        "value": 600
+      },
+      {
+        "clue": "Can shell fossils preserve ancient DNA sequences?",
+        "correctQuestion": "Rarely; only under exceptional preservation conditions",
+        "value": 600
+      },
+      {
+        "clue": "What genomic signatures indicate shell protein evolution?",
+        "correctQuestion": "Positive selection on genes encoding biomineralization proteins",
+        "value": 600
+      },
+      {
+        "clue": "How do microfluidic studies reveal shell nucleation mechanisms?",
+        "correctQuestion": "By tracking crystal formation in controlled nanoscale environments",
+        "value": 600
+      },
+      {
+        "clue": "What is the relevance of microcompartmentalization in shell formation?",
+        "correctQuestion": "Vesicles create isolated chemical environments optimizing mineralization",
+        "value": 600
+      },
+      {
+        "clue": "What does Raman spectroscopy reveal about shell structure?",
+        "correctQuestion": "Crystalline phase composition and molecular vibration signatures",
+        "value": 600
+      },
+      {
+        "clue": "How does X-ray diffraction map shell mineral phases?",
+        "correctQuestion": "Through crystal lattice analysis revealing atomic arrangement patterns",
+        "value": 600
+      },
+      {
+        "clue": "What molecular dynamics simulations predict about nacre behavior?",
+        "correctQuestion": "How protein-mineral interfaces dissipate energy under stress",
+        "value": 600
+      },
+      {
+        "clue": "How do finite element models optimize biomimetic shell design?",
+        "correctQuestion": "By predicting stress distributions and failure modes",
+        "value": 600
+      },
+      {
+        "clue": "What shell adaptations exist for hydrothermal vent mollusks?",
+        "correctQuestion": "Specialized protein structures resistant to extreme temperature and pH",
+        "value": 600
+      },
+      {
+        "clue": "How do deep-sea shell minerals differ from shallow-water shells?",
+        "correctQuestion": "Through modified crystallography for high-pressure stability",
+        "value": 600
+      },
+      {
+        "clue": "What role do shell mollusks play in carbon sequestration?",
+        "correctQuestion": "They fix CO2 into CaCO3, storing carbon in ocean sediments",
+        "value": 600
+      },
+      {
+        "clue": "How does shell dissolution feedback into ocean acidification?",
+        "correctQuestion": "Released CO2 further lowers pH, creating positive feedback loop",
+        "value": 600
+      },
+      {
+        "clue": "What does shell phenotype variation reveal about genetic diversity?",
+        "correctQuestion": "High phenotypic plasticity can mask underlying genetic structure",
+        "value": 600
+      },
+      {
+        "clue": "How does geographic isolation affect shell morphology?",
+        "correctQuestion": "Through local adaptation and genetic drift in small populations",
+        "value": 600
+      },
+      {
+        "clue": "What does quantitative proteomics reveal about shell assembly?",
+        "correctQuestion": "Relative abundance and post-translational modifications of matrix proteins",
+        "value": 600
+      },
+      {
+        "clue": "How do phosphorylation patterns affect shell protein function?",
+        "correctQuestion": "Through altered protein-protein interactions and mineral binding",
+        "value": 600
+      },
+      {
+        "clue": "What metagenomics reveals about shell microbiome function?",
+        "correctQuestion": "Gene pathways for biofilm formation and potential biomineralization assistance",
+        "value": 600
+      },
+      {
+        "clue": "How do shell-associated microbial communities evolve?",
+        "correctQuestion": "Through coevolution with host mollusk and environmental pressures",
+        "value": 600
+      },
+      {
+        "clue": "What quantum properties do nacre nanostructures exhibit?",
+        "correctQuestion": "Potential plasmonic coupling between mineral nanoparticles",
+        "value": 600
+      },
+      {
+        "clue": "How might shell properties inform quantum computing applications?",
+        "correctQuestion": "Through biological quantum coherence mechanisms in protein structures",
+        "value": 600
+      },
+      {
+        "clue": "What epigenetic modifications regulate shell development?",
+        "correctQuestion": "DNA methylation and histone modifications of biomineralization genes",
+        "value": 600
+      },
+      {
+        "clue": "How does maternal stress affect offspring shell phenotype?",
+        "correctQuestion": "Through transgenerational epigenetic inheritance of gene expression patterns",
+        "value": 600
+      },
+      {
+        "clue": "What reaction-diffusion models explain shell pattern formation?",
+        "correctQuestion": "Turing patterns generated by competing morphogen gradients",
+        "value": 600
+      },
+      {
+        "clue": "How do bifurcation diagrams predict shell morphological transitions?",
+        "correctQuestion": "By mapping parameter space showing stability and pattern switching",
+        "value": 600
+      }
+    ]
+  }
 }

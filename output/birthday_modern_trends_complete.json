@@ -1,884 +1,733 @@
 {
   "category": "Birthday Modern Trends",
-  "description": "Contemporary birthday celebrations, social media birthdays, modern customs, digital age birthdays",
-  "research_sources": [
-    "Digital culture and social media trends 2024-2025",
-    "Contemporary sociology of celebrations",
-    "Gen Z digital native culture",
-    "Influencer marketing and unboxing trends"
-  ],
-  "total_questions": 180,
-  "difficulty_levels": {
-    "100": 36,
-    "200": 36,
-    "300": 36,
-    "400": 36,
-    "500": 36
-  },
-  "questions": [
-    {
-      "difficulty": 100,
-      "clue": "This social media platform popularized short-form birthday party videos and is the leading source for TikTok-inspired party themes in 2025",
-      "answer": "What is TikTok?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The practice of recording yourself opening gifts or packages, which has become a major birthday content trend with billions of views on YouTube",
-      "answer": "What is unboxing?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "These digital alternatives to physical birthday cards leverage AI technology to create personalized designs based on recipient preferences",
-      "answer": "What are digital birthday cards?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "A generation born between 1997-2012 that is known as digital natives and redefines birthday celebrations with aesthetic-focused party planning",
-      "answer": "What is Generation Z?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The term for raising money for charitable causes through Facebook instead of asking for traditional birthday gifts",
-      "answer": "What is birthday fundraising?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This feature on Instagram allows users to share countdown GIFs and animations before their birthday to keep followers engaged",
-      "answer": "What are Instagram stories?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "Popular birthday themes for Gen Z in 2024 include disco fever, retro Vegas vibes, and this old Hollywood-inspired aesthetic trend",
-      "answer": "What is the Gatsby theme?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "These virtual party platforms became essential during the pandemic and continue to offer screen-sharing and interactive games for remote celebrations",
-      "answer": "What are Zoom or Google Meet?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The type of gift that has replaced traditional physical presents in the digital age, offering convenience and personalization",
-      "answer": "What are digital gift cards or online subscription gifts?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "A modern birthday party planning approach that emphasizes minimizing waste and reducing carbon footprints",
-      "answer": "What is eco-friendly or sustainable party planning?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The social media platform where search volume for birthday decorations surged to 90 in May 2025",
-      "answer": "What is Pinterest?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This aesthetic popular with Gen Z features a vintage, coquette-inspired look popularized in 2024 for birthday themes",
-      "answer": "What is Marie Antoinette-inspired or coquette aesthetic?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The practice of creating video birthday messages with friends to celebrate someone remotely",
-      "answer": "What are group video messages or shout-outs?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This type of birthday content features dance routines, shared memories, or funny skits that become digital memory keepers",
-      "answer": "What are trending birthday challenges?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The most popular metric for engagement on birthday posts, used to track likes, comments, and shares across all platforms",
-      "answer": "What is social media engagement?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This TikTok and Instagram feature allows users to add interactive overlays and special effects to birthday party content",
-      "answer": "What are AR filters or face filters?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "Modern birthday celebrations designed specifically to be 'Instagrammable' prioritize this visual quality",
-      "answer": "What is aesthetics or photo-worthiness?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This video sharing platform hosts over 90,000 monthly searches for unboxing content related to birthday gifts",
-      "answer": "What is YouTube?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The percentage of consumers who rely on influencer recommendations when making birthday gift purchases",
-      "answer": "What is 69 percent?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "Gen Z birthday planners often use this image-sharing platform as inspiration for themed decorations and cake designs",
-      "answer": "What is Pinterest?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This modern birthday trend focuses on creating sharable moments designed for social media rather than just in-person celebration",
-      "answer": "What is content creation or viral-worthy celebrations?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The term for personalized gifts created using AI technology to match a recipient's social media aesthetic",
-      "answer": "What is hyper-personalization?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "These hashtags combined with niche tags like #TikTokParty maximize reach for birthday content creators",
-      "answer": "What is #FYP and #viral?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "Modern birthday invitations now frequently use this digital format instead of printed cards",
-      "answer": "What are e-invites or digital invitations?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This type of birthday party allows friends and family from different locations to celebrate together through video conferencing",
-      "answer": "What is a hybrid or virtual celebration?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The projected investment amount in influencer marketing expected in 2025, measured in billions",
-      "answer": "What is 22 billion dollars?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This type of birthday content creator is a key driver of modern celebration trends on platforms like TikTok and YouTube",
-      "answer": "What is an influencer or content creator?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "Modern birthday celebrations with this type of focus often include volunteering or fundraising for charitable causes",
-      "answer": "What is a social or cause-focused celebration?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The percentage of consumers who watched unboxing videos before making a birthday gift purchase",
-      "answer": "What is 62 percent?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "These digital templates dominate TikTok birthday content for customizable backdrops, banners, and cake toppers",
-      "answer": "What are DIY digital templates?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "A modern birthday trend where celebrations prioritize experiential moments like yacht rides over traditional venue-based parties",
-      "answer": "What is experience-based or experiential celebrating?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This collaborative TikTok trend involves friends creating synchronized videos or group performances for birthday celebrations",
-      "answer": "What is a group video collaboration or duet challenge?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "The term used to describe birthday decorations and themes that are specifically designed to photograph well",
-      "answer": "What are Instagrammable decorations?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "Modern birthday wishes on social media often incorporate this type of contemporary slang unique to Generation Z",
-      "answer": "What is Gen Z slang or internet language?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "This video platform allows users to create short, looping birthday GIFs and stickers for social sharing",
-      "answer": "What is Giphy or a GIF creator tool?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 100,
-      "clue": "Modern birthday celebrations that balance digital engagement with this other type of connection represent the optimal Gen Z approach",
-      "answer": "What is in-person interaction?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This TikTok search trend from May 2025 showed a 90-point spike in interest, indicating peak season for birthday planning",
-      "answer": "What is 'birthday decorations'?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "According to digital trends research, these two months see predictable peaks in birthday-related searches and content engagement",
-      "answer": "What are May-June and December?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This synthetic aesthetic combining vintage fashion and celebration culture became a major Gen Z birthday theme in 2024",
-      "answer": "What is the coquette aesthetic or Marie Antoinette theme?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Modern birthday content creators use this combination of hashtag strategies: broad reach tags plus niche birthday tags",
-      "answer": "What is hybrid hashtag strategy or #FYP + #TikTokParty combination?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This AI-powered technology personalizes birthday cards, invitations, and decor based on social media data",
-      "answer": "What is artificial intelligence or machine learning?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "The primary reason Gen Z might choose a yacht ride for their birthday over a traditional restaurant celebration",
-      "answer": "What is Instagram-worthiness or Instagrammability?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This shift in birthday gifting reflects Gen Z's preference for convenience and environmental consciousness",
-      "answer": "What is digital gifts replacing physical presents?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Modern birthday planners use this visual platform to source inspiration for '90s nostalgia' and 'pastel aesthetic' themes",
-      "answer": "What is Pinterest?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This type of birthday content has transcended social media marketing to become an expectation for major product launches",
-      "answer": "What are unboxing videos?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "The fourth most influential type of online content for influencing birthday purchase decisions",
-      "answer": "What are unboxing videos?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This modern birthday trend combines social consciousness with celebration, allowing Gen Z to champion causes during their party",
-      "answer": "What is cause-driven or activism-focused celebration?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Facebook's feature that allows users to fundraise for charity as a birthday alternative to traditional gifts",
-      "answer": "What is Facebook Birthday Fundraiser?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "The total number of views that birthday-related unboxing videos accumulated in 2021 on YouTube",
-      "answer": "What is 1.1 billion?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "The number of hours viewers spent watching birthday-related unboxing content in 2021",
-      "answer": "What is 60 million?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This interactive feature on TikTok and Instagram enables real-time fan engagement during live birthday streams",
-      "answer": "What are live comments or live reactions?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Modern birthday parties designed for TikTok success prioritize this element that encourages user-generated content",
-      "answer": "What is shareability or viral potential?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This platform's 'Stories' feature allows birthday celebrants to create time-limited content that disappears after 24 hours",
-      "answer": "What is Instagram or Snapchat?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "The contemporary term for birthday celebrations designed specifically for creating content rather than simple enjoyment",
-      "answer": "What is content-first celebration or event as content?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Modern birthday influencers often monetize their celebrations through this type of partnership with brands",
-      "answer": "What are sponsored content deals or brand collaborations?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This environmental movement has influenced Gen Z birthday planning to prioritize waste reduction and sustainability",
-      "answer": "What is eco-consciousness or environmentalism?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "The psychological principle behind why unboxing videos tap into the same excitement as birthday present unwrapping",
-      "answer": "What is the element of surprise or anticipation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Modern birthday content creators achieve engagement through this combination of personal authenticity and curated aesthetics",
-      "answer": "What is authentic curation or curated authenticity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This video format, dominant on TikTok and YouTube Shorts, has become the preferred birthday content medium for Gen Z",
-      "answer": "What is short-form video?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Gen Z birthday planners balance this modern digital-first approach with an appreciation for genuine interpersonal connection",
-      "answer": "What is digital engagement balanced with in-person interaction?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This social media metric indicates that birthday-related unboxing content ranks among the most-watched categories on YouTube",
-      "answer": "What is view count or watch time?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "The expected demand in 2025 for birthday party kits specifically designed for TikTok-themed celebrations",
-      "answer": "What is increased demand or growth market?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "Modern birthday hosting includes this real-time engagement tool that allows remote guests to participate via emoji reactions",
-      "answer": "What are interactive reactions or emoji responses?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 200,
-      "clue": "This aesthetic principle guides Gen Z birthday planning: prioritizing visual appeal and social media presence above all else",
-      "answer": "What is aesthetic-first design or vibe-checking?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "In contemporary digital marketing, unboxing videos leverage the psychological principle of this emotional state to drive purchasing behavior",
-      "answer": "What is anticipation or the dopamine response to surprise?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This sociological phenomenon describes how Gen Z birthday celebrations have shifted from private family events to public performances",
-      "answer": "What is the performative nature of social media identity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Modern birthday content strategy combines micro-moments across these platforms to maximize reach and engagement",
-      "answer": "What is multi-platform or omnichannel content distribution?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The scholarly concept describing how unboxing videos function as both entertainment and subtle advertising mechanisms",
-      "answer": "What is branded entertainment or native advertising?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This media literacy challenge emerges when birthday content creators blur the lines between authentic celebration and sponsored marketing",
-      "answer": "What is distinguishing authentic content from advertising?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Contemporary sociology terms the practice of creating birthdays primarily for social media documentation as this",
-      "answer": "What is experience design for digital sharing or algorithmic living?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This cultural shift reflects Gen Z's redefinition of birthdays from milestone celebrations to this type of content opportunity",
-      "answer": "What is personal branding or content creation opportunity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The intersection of influencer marketing and birthday culture has created this new category of professional birthday planners",
-      "answer": "What is influence-focused or Instagram-certified event planning?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This viral marketing phenomenon uses birthday unboxing content to create social proof through spectator psychology",
-      "answer": "What is FOMO or social proof through viewership?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Modern birthday celebrations that prioritize sustainability reflect this broader consumer movement in Gen Z culture",
-      "answer": "What is conscious consumption or ethical consumer behavior?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The algorithmic principle that rewards birthday content with high engagement across TikTok, Instagram, and YouTube",
-      "answer": "What is the engagement algorithm or algorithmic amplification?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This contemporary phenomenon describes how birthday gift-giving has transformed from personal to this type of public performance",
-      "answer": "What is performative gifting or gift-giving as content?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The hashtag strategy for birthday content creators balances discoverability with these two factors for niche engagement",
-      "answer": "What is virality and community identity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This media theory explains why Gen Z birthday parties document their moments: the concept of this type of identity construction",
-      "answer": "What is social identity construction or performative identity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The economic impact of birthday-related content creation on influencer careers, measured in these types of revenue streams",
-      "answer": "What is sponsorships, affiliate links, and brand partnerships?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Contemporary birthday marketing exploits this cognitive bias where consumers are influenced by seeing others' unboxing celebrations",
-      "answer": "What is social proof bias or conformity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The shift in consumer behavior where birthday gift purchases are influenced not by personal need but by this factor",
-      "answer": "What is influencer recommendation or algorithmic suggestion?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This media literacy concept helps distinguish between genuine birthday celebrations and those designed primarily for brand exposure",
-      "answer": "What is authenticity assessment or critical media consumption?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The sociological impact of virtual and hybrid birthday celebrations on this fundamental aspect of human connection",
-      "answer": "What is the nature and quality of interpersonal relationships?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Contemporary birthday culture reflects this broader trend of turning all life moments into content for social media platforms",
-      "answer": "What is lifelogging or existential documentation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The economic principle explaining why brands invest billions in birthday influencer marketing: this concept of influencer ROI",
-      "answer": "What is high conversion rates or measurable impact on purchases?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This generation's redefinition of birthday celebrations as either private enjoyment or public brand moment represents this value shift",
-      "answer": "What is the shift from privacy to publicity or personal brand prioritization?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Contemporary birthday party planning incorporates this AI capability to predict aesthetic preferences and personalize experiences",
-      "answer": "What is machine learning or predictive personalization?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The ethical question emerging from birthday influencer culture concerns transparency regarding this type of content motivation",
-      "answer": "What is disclosed versus undisclosed sponsorships?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Modern birthday celebrations that integrate sustainable practices reflect sociological research showing Gen Z prioritizes this",
-      "answer": "What is environmental consciousness over consumption?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The digital divide in contemporary birthday culture creates disparities between those with access to these tools and those without",
-      "answer": "What is content creation technology and social media platforms?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "Contemporary media literacy education should help young people understand the algorithmic mechanics behind this birthday content strategy",
-      "answer": "What is designed virality or manufactured engagement?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "The psychological phenomenon where birthday celebrations designed for social media create this type of pressure on participants",
-      "answer": "What is performance anxiety or perfectionism pressure?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 300,
-      "clue": "This contemporary birthday marketing strategy uses urgency and scarcity to drive unboxing-related gift purchases",
-      "answer": "What is limited-edition birthday products or exclusive offers?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The convergence of influencer marketing, unboxing culture, and birthday celebrations exemplifies this broader media phenomenon where entertainment and advertising merge",
-      "answer": "What is the collapse of the boundary between content and commerce?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Contemporary birthday culture demonstrates this sociological concept where digital performance becomes more important than the event itself",
-      "answer": "What is hyperreality or simulation replacing authentic experience?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The rise of birthday-related unboxing content reveals this fundamental shift in consumer motivation from utility to these factors",
-      "answer": "What is emotional gratification and social proof?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Media literacy scholars argue that birthday influencer content operates through this psychological mechanism that bypasses rational decision-making",
-      "answer": "What is emotional manipulation or parasocial relationships?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The algorithmic design of TikTok, Instagram, and YouTube creates this systematic bias toward birthday content that triggers these emotions",
-      "answer": "What is the reward loop of envy, aspiration, and consumption?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Contemporary sociology describes the transformation of Gen Z birthday celebrations into this type of consumption practice rooted in identity construction",
-      "answer": "What is status signaling through aesthetic curation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The ethical framework for assessing modern birthday influencer content must address this conflict between authenticity and monetization",
-      "answer": "What is commercialization versus genuine self-expression?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Digital birthday culture reflects this broader pattern where life events are filtered through these platforms before full experiential processing",
-      "answer": "What is technological mediation of experience or digital mediation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The concept describing how modern birthday content creators develop these types of relationships with their audiences for monetization purposes",
-      "answer": "What is parasocial relationships or false intimacy?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Contemporary birthday marketing exploits this psychological principle where seeing others' celebrations triggers these types of consumer behaviors",
-      "answer": "What is mirror neurons or imitation-based consumption?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The media literacy challenge posed by birthday influencer culture concerns teaching critical evaluation of these often-hidden factors",
-      "answer": "What is sponsored content and algorithmic curation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Sociological research indicates that digital-native birthday celebrations create this paradox: more documentation yet potentially less authentic enjoyment",
-      "answer": "What is the attention paradox or presence paradox?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Contemporary birthday culture's emphasis on aesthetic perfection for social media reflects this underlying anxiety in digital natives",
-      "answer": "What is the fear of missing out or invisibility?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The economic structure of birthday influencer marketing depends on this fundamental metric that determines algorithmic visibility",
-      "answer": "What is engagement rate or algorithmic ranking?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Media theory describes the birthday unboxing phenomenon as exemplifying this concept where spectacle becomes the primary value",
-      "answer": "What is the society of the spectacle or commodification of experience?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Contemporary birthday gift-giving reflects this shift in consumer capitalism where the purchase decision is influenced primarily by these factors",
-      "answer": "What is influencer credibility and peer validation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The transformation of birthday celebrations in the digital age reveals this fundamental truth about contemporary identity formation",
-      "answer": "What is identity as performance or the curated self?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Digital birthday culture demonstrates this sociological pattern where younger generations prioritize these factors over traditional celebration markers",
-      "answer": "What is visibility and social capital over privacy?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Media literacy education addressing birthday influencer content must develop critical understanding of this ubiquitous marketing practice",
-      "answer": "What is microtargeting or personalized persuasion?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The rise of sustainable birthday practices among Gen Z represents this sociological shift toward these types of values",
-      "answer": "What is post-materialist values or conscious consumption?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Contemporary birthday content strategy leverages this cognitive bias where audiences believe they are making independent choices despite algorithmic influence",
-      "answer": "What is the illusion of choice or algorithmic determinism?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The concept of birthday-as-content reflects this deeper transformation in how contemporary culture produces and consumes meaning",
-      "answer": "What is the primacy of representation over reality?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "Modern birthday celebrations demonstrate this principle where the documentation of the event sometimes supersedes the quality of lived experience",
-      "answer": "What is the mediation effect or documentation priority?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 400,
-      "clue": "The ethical implications of birthday influencer culture raise questions about this fundamental aspect of child development and identity",
-      "answer": "What is authenticity and psychological well-being?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary birthday culture exemplifies this critical juncture in digital capitalism where consumer identity and algorithmic identity converge completely",
-      "answer": "What is the total colonization of the self by algorithmic logic?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The birthday unboxing phenomenon represents a sophisticated manifestation of this economic principle where desire itself becomes the primary commodity",
-      "answer": "What is the commodification of anticipation or desire economy?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Media theorists argue that digital birthday culture perpetuates this systemic inequality where participation requires access to these technological and economic resources",
-      "answer": "What is digital and economic capital inequality?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The transformation of birthday celebrations into marketable content reveals this fundamental truth about contemporary data capitalism",
-      "answer": "What is the extraction of value from lived experience?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary birthday influencer culture embodies this critical concept where authenticity itself becomes a marketable product",
-      "answer": "What is the commodification of authenticity or authentic performance?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The algorithmic curation of birthday content demonstrates this principle where platforms shape perception through these invisible mechanisms",
-      "answer": "What is algorithmic bias or filter bubble creation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Digital birthday culture raises this fundamental question about whether authentic celebration remains possible under conditions of algorithmic surveillance",
-      "answer": "What is the possibility of authentic experience under digital surveillance?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The birthday unboxing industry exemplifies this economic model where users generate content that platforms and influencers monetize without direct compensation",
-      "answer": "What is platform capitalism or participatory extraction?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary birthday culture reflects this sociological observation about how digital natives navigate the tension between these two fundamental human needs",
-      "answer": "What is privacy versus visibility or authenticity versus performance?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Media scholars argue that birthday influencer content operates through this mechanism of power where consent is manufactured through algorithmic personalization",
-      "answer": "What is algorithmic governmentality or consensual manipulation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The sustainability movement in modern birthday celebrations represents a critical intervention against this dominant paradigm in consumer culture",
-      "answer": "What is unlimited growth capitalism or hyperconsumption?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary digital birthday culture embodies this paradox where connection through technology produces these unintended psychological consequences",
-      "answer": "What is increased isolation or loneliness amid apparent connectivity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The transformation of birthday celebrations reveals this fundamental shift in how contemporary capitalism extracts value from these human experiences",
-      "answer": "What is the commodification of life moments or emotional labor extraction?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Birthday influencer marketing demonstrates this principle where platforms and brands exploit these deeply rooted social psychological mechanisms",
-      "answer": "What is the weaponization of social proof and FOMO?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary birthday culture raises critical questions about this aspect of digital native development and long-term psychological health",
-      "answer": "What is the impact of constant performance on identity formation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The birthday unboxing phenomenon exemplifies this media ecology where information becomes weaponized through algorithmic distribution",
-      "answer": "What is attention economics or the attention extraction economy?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Digital birthday celebrations reflect this broader cultural condition where the boundary between these categories dissolves completely",
-      "answer": "What is reality and representation or experience and documentation?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary birthday culture reveals this hidden mechanism through which platforms engineer these psychological responses for profit",
-      "answer": "What is behavioral modification through algorithmic design?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The transformation of birthday celebrations into marketable content exemplifies this principle about whose interests are served by digital platforms",
-      "answer": "What is power asymmetry between users and platforms?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Birthday influencer culture demonstrates this concept where the performance of authenticity becomes indistinguishable from authentic performance itself",
-      "answer": "What is the performative collapse of authenticity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary digital birthday culture raises this existential question about what remains genuine in an age of total mediation",
-      "answer": "What is the possibility of authentic human experience in digital age?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The birthday unboxing industry reveals this fundamental truth about contemporary capitalism where these become the primary value",
-      "answer": "What is the extraction of psychological value over material value?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Media literacy education must address this urgent gap in understanding these mechanisms through which birthday content manufactures consent",
-      "answer": "What is systematic algorithmic persuasion techniques?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary birthday culture embodies this paradox of consumer capitalism where resistance itself becomes commodified and sold back to consumers",
-      "answer": "What is the recuperation of counter-culture into commodity?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "The transformation of celebration into content creation represents this shift where human meaning-making becomes subordinate to algorithmic logic",
-      "answer": "What is the subsumption of human meaning under algorithmic order?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Birthday influencer marketing exemplifies this economic principle where the line between promotion and exploitation becomes increasingly blurred",
-      "answer": "What is the gray zone between labor and leisure?",
-      "audience": "all"
-    },
-    {
-      "difficulty": 500,
-      "clue": "Contemporary digital birthday celebrations raise this fundamental challenge for critical media literacy: how to teach resistance in systems designed for compliance",
-      "answer": "What is the challenge of critical consciousness amid algorithmic design?",
-      "audience": "all"
-    }
-  ]
+  "theme": "birthday",
+  "category_id": "birthday_modern_trends_complete",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This social media platform popularized short-form birthday party videos and is the leading source for TikTok-inspired party themes in 2025",
+        "correctQuestion": "What is TikTok?",
+        "value": 200
+      },
+      {
+        "clue": "The practice of recording yourself opening gifts or packages, which has become a major birthday content trend with billions of views on YouTube",
+        "correctQuestion": "What is unboxing?",
+        "value": 200
+      },
+      {
+        "clue": "These digital alternatives to physical birthday cards leverage AI technology to create personalized designs based on recipient preferences",
+        "correctQuestion": "What are digital birthday cards?",
+        "value": 200
+      },
+      {
+        "clue": "A generation born between 1997-2012 that is known as digital natives and redefines birthday celebrations with aesthetic-focused party planning",
+        "correctQuestion": "What is Generation Z?",
+        "value": 200
+      },
+      {
+        "clue": "The term for raising money for charitable causes through Facebook instead of asking for traditional birthday gifts",
+        "correctQuestion": "What is birthday fundraising?",
+        "value": 200
+      },
+      {
+        "clue": "This feature on Instagram allows users to share countdown GIFs and animations before their birthday to keep followers engaged",
+        "correctQuestion": "What are Instagram stories?",
+        "value": 200
+      },
+      {
+        "clue": "Popular birthday themes for Gen Z in 2024 include disco fever, retro Vegas vibes, and this old Hollywood-inspired aesthetic trend",
+        "correctQuestion": "What is the Gatsby theme?",
+        "value": 200
+      },
+      {
+        "clue": "These virtual party platforms became essential during the pandemic and continue to offer screen-sharing and interactive games for remote celebrations",
+        "correctQuestion": "What are Zoom or Google Meet?",
+        "value": 200
+      },
+      {
+        "clue": "The type of gift that has replaced traditional physical presents in the digital age, offering convenience and personalization",
+        "correctQuestion": "What are digital gift cards or online subscription gifts?",
+        "value": 200
+      },
+      {
+        "clue": "A modern birthday party planning approach that emphasizes minimizing waste and reducing carbon footprints",
+        "correctQuestion": "What is eco-friendly or sustainable party planning?",
+        "value": 200
+      },
+      {
+        "clue": "The social media platform where search volume for birthday decorations surged to 90 in May 2025",
+        "correctQuestion": "What is Pinterest?",
+        "value": 200
+      },
+      {
+        "clue": "This aesthetic popular with Gen Z features a vintage, coquette-inspired look popularized in 2024 for birthday themes",
+        "correctQuestion": "What is Marie Antoinette-inspired or coquette aesthetic?",
+        "value": 200
+      },
+      {
+        "clue": "The practice of creating video birthday messages with friends to celebrate someone remotely",
+        "correctQuestion": "What are group video messages or shout-outs?",
+        "value": 200
+      },
+      {
+        "clue": "This type of birthday content features dance routines, shared memories, or funny skits that become digital memory keepers",
+        "correctQuestion": "What are trending birthday challenges?",
+        "value": 200
+      },
+      {
+        "clue": "The most popular metric for engagement on birthday posts, used to track likes, comments, and shares across all platforms",
+        "correctQuestion": "What is social media engagement?",
+        "value": 200
+      },
+      {
+        "clue": "This TikTok and Instagram feature allows users to add interactive overlays and special effects to birthday party content",
+        "correctQuestion": "What are AR filters or face filters?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday celebrations designed specifically to be 'Instagrammable' prioritize this visual quality",
+        "correctQuestion": "What is aesthetics or photo-worthiness?",
+        "value": 200
+      },
+      {
+        "clue": "This video sharing platform hosts over 90,000 monthly searches for unboxing content related to birthday gifts",
+        "correctQuestion": "What is YouTube?",
+        "value": 200
+      },
+      {
+        "clue": "The percentage of consumers who rely on influencer recommendations when making birthday gift purchases",
+        "correctQuestion": "What is 69 percent?",
+        "value": 200
+      },
+      {
+        "clue": "Gen Z birthday planners often use this image-sharing platform as inspiration for themed decorations and cake designs",
+        "correctQuestion": "What is Pinterest?",
+        "value": 200
+      },
+      {
+        "clue": "This modern birthday trend focuses on creating sharable moments designed for social media rather than just in-person celebration",
+        "correctQuestion": "What is content creation or viral-worthy celebrations?",
+        "value": 200
+      },
+      {
+        "clue": "The term for personalized gifts created using AI technology to match a recipient's social media aesthetic",
+        "correctQuestion": "What is hyper-personalization?",
+        "value": 200
+      },
+      {
+        "clue": "These hashtags combined with niche tags like #TikTokParty maximize reach for birthday content creators",
+        "correctQuestion": "What is #FYP and #viral?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday invitations now frequently use this digital format instead of printed cards",
+        "correctQuestion": "What are e-invites or digital invitations?",
+        "value": 200
+      },
+      {
+        "clue": "This type of birthday party allows friends and family from different locations to celebrate together through video conferencing",
+        "correctQuestion": "What is a hybrid or virtual celebration?",
+        "value": 200
+      },
+      {
+        "clue": "The projected investment amount in influencer marketing expected in 2025, measured in billions",
+        "correctQuestion": "What is 22 billion dollars?",
+        "value": 200
+      },
+      {
+        "clue": "This type of birthday content creator is a key driver of modern celebration trends on platforms like TikTok and YouTube",
+        "correctQuestion": "What is an influencer or content creator?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday celebrations with this type of focus often include volunteering or fundraising for charitable causes",
+        "correctQuestion": "What is a social or cause-focused celebration?",
+        "value": 200
+      },
+      {
+        "clue": "The percentage of consumers who watched unboxing videos before making a birthday gift purchase",
+        "correctQuestion": "What is 62 percent?",
+        "value": 200
+      },
+      {
+        "clue": "These digital templates dominate TikTok birthday content for customizable backdrops, banners, and cake toppers",
+        "correctQuestion": "What are DIY digital templates?",
+        "value": 200
+      },
+      {
+        "clue": "A modern birthday trend where celebrations prioritize experiential moments like yacht rides over traditional venue-based parties",
+        "correctQuestion": "What is experience-based or experiential celebrating?",
+        "value": 200
+      },
+      {
+        "clue": "This collaborative TikTok trend involves friends creating synchronized videos or group performances for birthday celebrations",
+        "correctQuestion": "What is a group video collaboration or duet challenge?",
+        "value": 200
+      },
+      {
+        "clue": "The term used to describe birthday decorations and themes that are specifically designed to photograph well",
+        "correctQuestion": "What are Instagrammable decorations?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday wishes on social media often incorporate this type of contemporary slang unique to Generation Z",
+        "correctQuestion": "What is Gen Z slang or internet language?",
+        "value": 200
+      },
+      {
+        "clue": "This video platform allows users to create short, looping birthday GIFs and stickers for social sharing",
+        "correctQuestion": "What is Giphy or a GIF creator tool?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday celebrations that balance digital engagement with this other type of connection represent the optimal Gen Z approach",
+        "correctQuestion": "What is in-person interaction?",
+        "value": 200
+      },
+      {
+        "clue": "This TikTok search trend from May 2025 showed a 90-point spike in interest, indicating peak season for birthday planning",
+        "correctQuestion": "What is 'birthday decorations'?",
+        "value": 200
+      },
+      {
+        "clue": "According to digital trends research, these two months see predictable peaks in birthday-related searches and content engagement",
+        "correctQuestion": "What are May-June and December?",
+        "value": 200
+      },
+      {
+        "clue": "This synthetic aesthetic combining vintage fashion and celebration culture became a major Gen Z birthday theme in 2024",
+        "correctQuestion": "What is the coquette aesthetic or Marie Antoinette theme?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday content creators use this combination of hashtag strategies: broad reach tags plus niche birthday tags",
+        "correctQuestion": "What is hybrid hashtag strategy or #FYP + #TikTokParty combination?",
+        "value": 200
+      },
+      {
+        "clue": "This AI-powered technology personalizes birthday cards, invitations, and decor based on social media data",
+        "correctQuestion": "What is artificial intelligence or machine learning?",
+        "value": 200
+      },
+      {
+        "clue": "The primary reason Gen Z might choose a yacht ride for their birthday over a traditional restaurant celebration",
+        "correctQuestion": "What is Instagram-worthiness or Instagrammability?",
+        "value": 200
+      },
+      {
+        "clue": "This shift in birthday gifting reflects Gen Z's preference for convenience and environmental consciousness",
+        "correctQuestion": "What is digital gifts replacing physical presents?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday planners use this visual platform to source inspiration for '90s nostalgia' and 'pastel aesthetic' themes",
+        "correctQuestion": "What is Pinterest?",
+        "value": 200
+      },
+      {
+        "clue": "This type of birthday content has transcended social media marketing to become an expectation for major product launches",
+        "correctQuestion": "What are unboxing videos?",
+        "value": 200
+      },
+      {
+        "clue": "The fourth most influential type of online content for influencing birthday purchase decisions",
+        "correctQuestion": "What are unboxing videos?",
+        "value": 200
+      },
+      {
+        "clue": "This modern birthday trend combines social consciousness with celebration, allowing Gen Z to champion causes during their party",
+        "correctQuestion": "What is cause-driven or activism-focused celebration?",
+        "value": 200
+      },
+      {
+        "clue": "Facebook's feature that allows users to fundraise for charity as a birthday alternative to traditional gifts",
+        "correctQuestion": "What is Facebook Birthday Fundraiser?",
+        "value": 200
+      },
+      {
+        "clue": "The total number of views that birthday-related unboxing videos accumulated in 2021 on YouTube",
+        "correctQuestion": "What is 1.1 billion?",
+        "value": 200
+      },
+      {
+        "clue": "The number of hours viewers spent watching birthday-related unboxing content in 2021",
+        "correctQuestion": "What is 60 million?",
+        "value": 200
+      },
+      {
+        "clue": "This interactive feature on TikTok and Instagram enables real-time fan engagement during live birthday streams",
+        "correctQuestion": "What are live comments or live reactions?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday parties designed for TikTok success prioritize this element that encourages user-generated content",
+        "correctQuestion": "What is shareability or viral potential?",
+        "value": 200
+      },
+      {
+        "clue": "This platform's 'Stories' feature allows birthday celebrants to create time-limited content that disappears after 24 hours",
+        "correctQuestion": "What is Instagram or Snapchat?",
+        "value": 200
+      },
+      {
+        "clue": "The contemporary term for birthday celebrations designed specifically for creating content rather than simple enjoyment",
+        "correctQuestion": "What is content-first celebration or event as content?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday influencers often monetize their celebrations through this type of partnership with brands",
+        "correctQuestion": "What are sponsored content deals or brand collaborations?",
+        "value": 200
+      },
+      {
+        "clue": "This environmental movement has influenced Gen Z birthday planning to prioritize waste reduction and sustainability",
+        "correctQuestion": "What is eco-consciousness or environmentalism?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological principle behind why unboxing videos tap into the same excitement as birthday present unwrapping",
+        "correctQuestion": "What is the element of surprise or anticipation?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday content creators achieve engagement through this combination of personal authenticity and curated aesthetics",
+        "correctQuestion": "What is authentic curation or curated authenticity?",
+        "value": 200
+      },
+      {
+        "clue": "This video format, dominant on TikTok and YouTube Shorts, has become the preferred birthday content medium for Gen Z",
+        "correctQuestion": "What is short-form video?",
+        "value": 200
+      },
+      {
+        "clue": "Gen Z birthday planners balance this modern digital-first approach with an appreciation for genuine interpersonal connection",
+        "correctQuestion": "What is digital engagement balanced with in-person interaction?",
+        "value": 200
+      },
+      {
+        "clue": "This social media metric indicates that birthday-related unboxing content ranks among the most-watched categories on YouTube",
+        "correctQuestion": "What is view count or watch time?",
+        "value": 200
+      },
+      {
+        "clue": "The expected demand in 2025 for birthday party kits specifically designed for TikTok-themed celebrations",
+        "correctQuestion": "What is increased demand or growth market?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday hosting includes this real-time engagement tool that allows remote guests to participate via emoji reactions",
+        "correctQuestion": "What are interactive reactions or emoji responses?",
+        "value": 200
+      },
+      {
+        "clue": "This aesthetic principle guides Gen Z birthday planning: prioritizing visual appeal and social media presence above all else",
+        "correctQuestion": "What is aesthetic-first design or vibe-checking?",
+        "value": 200
+      },
+      {
+        "clue": "In contemporary digital marketing, unboxing videos leverage the psychological principle of this emotional state to drive purchasing behavior",
+        "correctQuestion": "What is anticipation or the dopamine response to surprise?",
+        "value": 200
+      },
+      {
+        "clue": "This sociological phenomenon describes how Gen Z birthday celebrations have shifted from private family events to public performances",
+        "correctQuestion": "What is the performative nature of social media identity?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday content strategy combines micro-moments across these platforms to maximize reach and engagement",
+        "correctQuestion": "What is multi-platform or omnichannel content distribution?",
+        "value": 200
+      },
+      {
+        "clue": "The scholarly concept describing how unboxing videos function as both entertainment and subtle advertising mechanisms",
+        "correctQuestion": "What is branded entertainment or native advertising?",
+        "value": 200
+      },
+      {
+        "clue": "This media literacy challenge emerges when birthday content creators blur the lines between authentic celebration and sponsored marketing",
+        "correctQuestion": "What is distinguishing authentic content from advertising?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary sociology terms the practice of creating birthdays primarily for social media documentation as this",
+        "correctQuestion": "What is experience design for digital sharing or algorithmic living?",
+        "value": 200
+      },
+      {
+        "clue": "This cultural shift reflects Gen Z's redefinition of birthdays from milestone celebrations to this type of content opportunity",
+        "correctQuestion": "What is personal branding or content creation opportunity?",
+        "value": 200
+      },
+      {
+        "clue": "The intersection of influencer marketing and birthday culture has created this new category of professional birthday planners",
+        "correctQuestion": "What is influence-focused or Instagram-certified event planning?",
+        "value": 200
+      },
+      {
+        "clue": "This viral marketing phenomenon uses birthday unboxing content to create social proof through spectator psychology",
+        "correctQuestion": "What is FOMO or social proof through viewership?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday celebrations that prioritize sustainability reflect this broader consumer movement in Gen Z culture",
+        "correctQuestion": "What is conscious consumption or ethical consumer behavior?",
+        "value": 200
+      },
+      {
+        "clue": "The algorithmic principle that rewards birthday content with high engagement across TikTok, Instagram, and YouTube",
+        "correctQuestion": "What is the engagement algorithm or algorithmic amplification?",
+        "value": 200
+      },
+      {
+        "clue": "This contemporary phenomenon describes how birthday gift-giving has transformed from personal to this type of public performance",
+        "correctQuestion": "What is performative gifting or gift-giving as content?",
+        "value": 200
+      },
+      {
+        "clue": "The hashtag strategy for birthday content creators balances discoverability with these two factors for niche engagement",
+        "correctQuestion": "What is virality and community identity?",
+        "value": 200
+      },
+      {
+        "clue": "This media theory explains why Gen Z birthday parties document their moments: the concept of this type of identity construction",
+        "correctQuestion": "What is social identity construction or performative identity?",
+        "value": 200
+      },
+      {
+        "clue": "The economic impact of birthday-related content creation on influencer careers, measured in these types of revenue streams",
+        "correctQuestion": "What is sponsorships, affiliate links, and brand partnerships?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday marketing exploits this cognitive bias where consumers are influenced by seeing others' unboxing celebrations",
+        "correctQuestion": "What is social proof bias or conformity?",
+        "value": 200
+      },
+      {
+        "clue": "The shift in consumer behavior where birthday gift purchases are influenced not by personal need but by this factor",
+        "correctQuestion": "What is influencer recommendation or algorithmic suggestion?",
+        "value": 200
+      },
+      {
+        "clue": "This media literacy concept helps distinguish between genuine birthday celebrations and those designed primarily for brand exposure",
+        "correctQuestion": "What is authenticity assessment or critical media consumption?",
+        "value": 200
+      },
+      {
+        "clue": "The sociological impact of virtual and hybrid birthday celebrations on this fundamental aspect of human connection",
+        "correctQuestion": "What is the nature and quality of interpersonal relationships?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture reflects this broader trend of turning all life moments into content for social media platforms",
+        "correctQuestion": "What is lifelogging or existential documentation?",
+        "value": 200
+      },
+      {
+        "clue": "The economic principle explaining why brands invest billions in birthday influencer marketing: this concept of influencer ROI",
+        "correctQuestion": "What is high conversion rates or measurable impact on purchases?",
+        "value": 200
+      },
+      {
+        "clue": "This generation's redefinition of birthday celebrations as either private enjoyment or public brand moment represents this value shift",
+        "correctQuestion": "What is the shift from privacy to publicity or personal brand prioritization?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday party planning incorporates this AI capability to predict aesthetic preferences and personalize experiences",
+        "correctQuestion": "What is machine learning or predictive personalization?",
+        "value": 200
+      },
+      {
+        "clue": "The ethical question emerging from birthday influencer culture concerns transparency regarding this type of content motivation",
+        "correctQuestion": "What is disclosed versus undisclosed sponsorships?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday celebrations that integrate sustainable practices reflect sociological research showing Gen Z prioritizes this",
+        "correctQuestion": "What is environmental consciousness over consumption?",
+        "value": 200
+      },
+      {
+        "clue": "The digital divide in contemporary birthday culture creates disparities between those with access to these tools and those without",
+        "correctQuestion": "What is content creation technology and social media platforms?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary media literacy education should help young people understand the algorithmic mechanics behind this birthday content strategy",
+        "correctQuestion": "What is designed virality or manufactured engagement?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological phenomenon where birthday celebrations designed for social media create this type of pressure on participants",
+        "correctQuestion": "What is performance anxiety or perfectionism pressure?",
+        "value": 200
+      },
+      {
+        "clue": "This contemporary birthday marketing strategy uses urgency and scarcity to drive unboxing-related gift purchases",
+        "correctQuestion": "What is limited-edition birthday products or exclusive offers?",
+        "value": 200
+      },
+      {
+        "clue": "The convergence of influencer marketing, unboxing culture, and birthday celebrations exemplifies this broader media phenomenon where entertainment and advertising merge",
+        "correctQuestion": "What is the collapse of the boundary between content and commerce?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture demonstrates this sociological concept where digital performance becomes more important than the event itself",
+        "correctQuestion": "What is hyperreality or simulation replacing authentic experience?",
+        "value": 200
+      },
+      {
+        "clue": "The rise of birthday-related unboxing content reveals this fundamental shift in consumer motivation from utility to these factors",
+        "correctQuestion": "What is emotional gratification and social proof?",
+        "value": 200
+      },
+      {
+        "clue": "Media literacy scholars argue that birthday influencer content operates through this psychological mechanism that bypasses rational decision-making",
+        "correctQuestion": "What is emotional manipulation or parasocial relationships?",
+        "value": 200
+      },
+      {
+        "clue": "The algorithmic design of TikTok, Instagram, and YouTube creates this systematic bias toward birthday content that triggers these emotions",
+        "correctQuestion": "What is the reward loop of envy, aspiration, and consumption?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary sociology describes the transformation of Gen Z birthday celebrations into this type of consumption practice rooted in identity construction",
+        "correctQuestion": "What is status signaling through aesthetic curation?",
+        "value": 200
+      },
+      {
+        "clue": "The ethical framework for assessing modern birthday influencer content must address this conflict between authenticity and monetization",
+        "correctQuestion": "What is commercialization versus genuine self-expression?",
+        "value": 200
+      },
+      {
+        "clue": "Digital birthday culture reflects this broader pattern where life events are filtered through these platforms before full experiential processing",
+        "correctQuestion": "What is technological mediation of experience or digital mediation?",
+        "value": 200
+      },
+      {
+        "clue": "The concept describing how modern birthday content creators develop these types of relationships with their audiences for monetization purposes",
+        "correctQuestion": "What is parasocial relationships or false intimacy?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday marketing exploits this psychological principle where seeing others' celebrations triggers these types of consumer behaviors",
+        "correctQuestion": "What is mirror neurons or imitation-based consumption?",
+        "value": 200
+      },
+      {
+        "clue": "The media literacy challenge posed by birthday influencer culture concerns teaching critical evaluation of these often-hidden factors",
+        "correctQuestion": "What is sponsored content and algorithmic curation?",
+        "value": 200
+      },
+      {
+        "clue": "Sociological research indicates that digital-native birthday celebrations create this paradox: more documentation yet potentially less authentic enjoyment",
+        "correctQuestion": "What is the attention paradox or presence paradox?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture's emphasis on aesthetic perfection for social media reflects this underlying anxiety in digital natives",
+        "correctQuestion": "What is the fear of missing out or invisibility?",
+        "value": 200
+      },
+      {
+        "clue": "The economic structure of birthday influencer marketing depends on this fundamental metric that determines algorithmic visibility",
+        "correctQuestion": "What is engagement rate or algorithmic ranking?",
+        "value": 200
+      },
+      {
+        "clue": "Media theory describes the birthday unboxing phenomenon as exemplifying this concept where spectacle becomes the primary value",
+        "correctQuestion": "What is the society of the spectacle or commodification of experience?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday gift-giving reflects this shift in consumer capitalism where the purchase decision is influenced primarily by these factors",
+        "correctQuestion": "What is influencer credibility and peer validation?",
+        "value": 200
+      },
+      {
+        "clue": "The transformation of birthday celebrations in the digital age reveals this fundamental truth about contemporary identity formation",
+        "correctQuestion": "What is identity as performance or the curated self?",
+        "value": 200
+      },
+      {
+        "clue": "Digital birthday culture demonstrates this sociological pattern where younger generations prioritize these factors over traditional celebration markers",
+        "correctQuestion": "What is visibility and social capital over privacy?",
+        "value": 200
+      },
+      {
+        "clue": "Media literacy education addressing birthday influencer content must develop critical understanding of this ubiquitous marketing practice",
+        "correctQuestion": "What is microtargeting or personalized persuasion?",
+        "value": 200
+      },
+      {
+        "clue": "The rise of sustainable birthday practices among Gen Z represents this sociological shift toward these types of values",
+        "correctQuestion": "What is post-materialist values or conscious consumption?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday content strategy leverages this cognitive bias where audiences believe they are making independent choices despite algorithmic influence",
+        "correctQuestion": "What is the illusion of choice or algorithmic determinism?",
+        "value": 200
+      },
+      {
+        "clue": "The concept of birthday-as-content reflects this deeper transformation in how contemporary culture produces and consumes meaning",
+        "correctQuestion": "What is the primacy of representation over reality?",
+        "value": 200
+      },
+      {
+        "clue": "Modern birthday celebrations demonstrate this principle where the documentation of the event sometimes supersedes the quality of lived experience",
+        "correctQuestion": "What is the mediation effect or documentation priority?",
+        "value": 200
+      },
+      {
+        "clue": "The ethical implications of birthday influencer culture raise questions about this fundamental aspect of child development and identity",
+        "correctQuestion": "What is authenticity and psychological well-being?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture exemplifies this critical juncture in digital capitalism where consumer identity and algorithmic identity converge completely",
+        "correctQuestion": "What is the total colonization of the self by algorithmic logic?",
+        "value": 200
+      },
+      {
+        "clue": "The birthday unboxing phenomenon represents a sophisticated manifestation of this economic principle where desire itself becomes the primary commodity",
+        "correctQuestion": "What is the commodification of anticipation or desire economy?",
+        "value": 200
+      },
+      {
+        "clue": "Media theorists argue that digital birthday culture perpetuates this systemic inequality where participation requires access to these technological and economic resources",
+        "correctQuestion": "What is digital and economic capital inequality?",
+        "value": 200
+      },
+      {
+        "clue": "The transformation of birthday celebrations into marketable content reveals this fundamental truth about contemporary data capitalism",
+        "correctQuestion": "What is the extraction of value from lived experience?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday influencer culture embodies this critical concept where authenticity itself becomes a marketable product",
+        "correctQuestion": "What is the commodification of authenticity or authentic performance?",
+        "value": 200
+      },
+      {
+        "clue": "The algorithmic curation of birthday content demonstrates this principle where platforms shape perception through these invisible mechanisms",
+        "correctQuestion": "What is algorithmic bias or filter bubble creation?",
+        "value": 200
+      },
+      {
+        "clue": "Digital birthday culture raises this fundamental question about whether authentic celebration remains possible under conditions of algorithmic surveillance",
+        "correctQuestion": "What is the possibility of authentic experience under digital surveillance?",
+        "value": 200
+      },
+      {
+        "clue": "The birthday unboxing industry exemplifies this economic model where users generate content that platforms and influencers monetize without direct compensation",
+        "correctQuestion": "What is platform capitalism or participatory extraction?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture reflects this sociological observation about how digital natives navigate the tension between these two fundamental human needs",
+        "correctQuestion": "What is privacy versus visibility or authenticity versus performance?",
+        "value": 200
+      },
+      {
+        "clue": "Media scholars argue that birthday influencer content operates through this mechanism of power where consent is manufactured through algorithmic personalization",
+        "correctQuestion": "What is algorithmic governmentality or consensual manipulation?",
+        "value": 200
+      },
+      {
+        "clue": "The sustainability movement in modern birthday celebrations represents a critical intervention against this dominant paradigm in consumer culture",
+        "correctQuestion": "What is unlimited growth capitalism or hyperconsumption?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary digital birthday culture embodies this paradox where connection through technology produces these unintended psychological consequences",
+        "correctQuestion": "What is increased isolation or loneliness amid apparent connectivity?",
+        "value": 200
+      },
+      {
+        "clue": "The transformation of birthday celebrations reveals this fundamental shift in how contemporary capitalism extracts value from these human experiences",
+        "correctQuestion": "What is the commodification of life moments or emotional labor extraction?",
+        "value": 200
+      },
+      {
+        "clue": "Birthday influencer marketing demonstrates this principle where platforms and brands exploit these deeply rooted social psychological mechanisms",
+        "correctQuestion": "What is the weaponization of social proof and FOMO?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture raises critical questions about this aspect of digital native development and long-term psychological health",
+        "correctQuestion": "What is the impact of constant performance on identity formation?",
+        "value": 200
+      },
+      {
+        "clue": "The birthday unboxing phenomenon exemplifies this media ecology where information becomes weaponized through algorithmic distribution",
+        "correctQuestion": "What is attention economics or the attention extraction economy?",
+        "value": 200
+      },
+      {
+        "clue": "Digital birthday celebrations reflect this broader cultural condition where the boundary between these categories dissolves completely",
+        "correctQuestion": "What is reality and representation or experience and documentation?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture reveals this hidden mechanism through which platforms engineer these psychological responses for profit",
+        "correctQuestion": "What is behavioral modification through algorithmic design?",
+        "value": 200
+      },
+      {
+        "clue": "The transformation of birthday celebrations into marketable content exemplifies this principle about whose interests are served by digital platforms",
+        "correctQuestion": "What is power asymmetry between users and platforms?",
+        "value": 200
+      },
+      {
+        "clue": "Birthday influencer culture demonstrates this concept where the performance of authenticity becomes indistinguishable from authentic performance itself",
+        "correctQuestion": "What is the performative collapse of authenticity?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary digital birthday culture raises this existential question about what remains genuine in an age of total mediation",
+        "correctQuestion": "What is the possibility of authentic human experience in digital age?",
+        "value": 200
+      },
+      {
+        "clue": "The birthday unboxing industry reveals this fundamental truth about contemporary capitalism where these become the primary value",
+        "correctQuestion": "What is the extraction of psychological value over material value?",
+        "value": 200
+      },
+      {
+        "clue": "Media literacy education must address this urgent gap in understanding these mechanisms through which birthday content manufactures consent",
+        "correctQuestion": "What is systematic algorithmic persuasion techniques?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary birthday culture embodies this paradox of consumer capitalism where resistance itself becomes commodified and sold back to consumers",
+        "correctQuestion": "What is the recuperation of counter-culture into commodity?",
+        "value": 200
+      },
+      {
+        "clue": "The transformation of celebration into content creation represents this shift where human meaning-making becomes subordinate to algorithmic logic",
+        "correctQuestion": "What is the subsumption of human meaning under algorithmic order?",
+        "value": 200
+      },
+      {
+        "clue": "Birthday influencer marketing exemplifies this economic principle where the line between promotion and exploitation becomes increasingly blurred",
+        "correctQuestion": "What is the gray zone between labor and leisure?",
+        "value": 200
+      },
+      {
+        "clue": "Contemporary digital birthday celebrations raise this fundamental challenge for critical media literacy: how to teach resistance in systems designed for compliance",
+        "correctQuestion": "What is the challenge of critical consciousness amid algorithmic design?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }

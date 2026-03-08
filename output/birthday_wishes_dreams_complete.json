@@ -2,7 +2,6 @@
   "category": "Birthday Wishes & Dreams",
   "theme": "birthday",
   "category_id": "birthday_wishes_dreams",
-  "research_basis": "Positive psychology (Seligman, Lyubomirsky), goal-setting theory (Locke & Latham), imagination development (Vygotsky), future orientation, hope theory (Snyder), aspiration research",
   "audiences": {
     "kids_4_under": [
       {
@@ -705,9 +704,7 @@
         "clue": "This psychological principle states that goals become more motivating when aligned with personal core values",
         "correctQuestion": "What is value-alignment (or goal-value congruence)?",
         "value": 1000
-      }
-    ],
-    "general_knowledge": [
+      },
       {
         "clue": "This Swiss psychologist pioneered the study of imagination and symbolic thinking in children's development",
         "correctQuestion": "Who is Jean Piaget?",

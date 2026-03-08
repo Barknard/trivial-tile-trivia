@@ -1,843 +1,767 @@
 {
   "category": "Birthday Candles & Lights",
-  "description": "Comprehensive Jeopardy-style questions about candle traditions, symbolism of light, fire safety, and the sensory experience of birthday candles. Research-backed content covering history, science, culture, and safety.",
-  "total_questions": 180,
-  "research_sources": [
-    "National Geographic - History of Birthday Candles",
-    "National Candle Association - Candle Science",
-    "Fire Science and Combustion Research",
-    "Spiritual and Cultural Symbolism Studies",
-    "Sensory Science and Neuroscience of Smell"
-  ],
-  "audience_levels": {
-    "elementary": {
-      "level": 1,
-      "description": "Ages 5-10: Simple, fun facts about birthday candles",
-      "questions": [
-        {
-          "id": "E001",
-          "clue": "This is what melts on a birthday cake when you light the candles on top",
-          "answer": "Wax"
-        },
-        {
-          "id": "E002",
-          "clue": "When you blow out birthday candles, you're supposed to make this while the candles are still lit",
-          "answer": "A wish"
-        },
-        {
-          "id": "E003",
-          "clue": "The number of candles on your birthday cake usually matches your age or this number",
-          "answer": "How many years old you are"
-        },
-        {
-          "id": "E004",
-          "clue": "Birthday candles burn with this, which creates light and heat",
-          "answer": "A flame"
-        },
-        {
-          "id": "E005",
-          "clue": "This thin stick in the middle of a candle burns to create the flame",
-          "answer": "A wick"
-        },
-        {
-          "id": "E006",
-          "clue": "You do this to a birthday candle flame to make it go out",
-          "answer": "Blow it out"
-        },
-        {
-          "id": "E007",
-          "clue": "Birthday candles come in many different colors and sometimes taste like this",
-          "answer": "Vanilla"
-        },
-        {
-          "id": "E008",
-          "clue": "These special candles won't blow out no matter how hard you try",
-          "answer": "Trick candles"
-        },
-        {
-          "id": "E009",
-          "clue": "The smoke coming from a candle when you blow it out is actually this turning cold",
-          "answer": "Wax vapor"
-        },
-        {
-          "id": "E010",
-          "clue": "Candles have been used on birthday cakes for hundreds of years because they represent this",
-          "answer": "Light"
-        },
-        {
-          "id": "E011",
-          "clue": "This ancient Greek goddess is connected to the tradition of candles on birthday cakes",
-          "answer": "Artemis (goddess of the moon)"
-        },
-        {
-          "id": "E012",
-          "clue": "Birthday candles need this to burn and create a flame",
-          "answer": "Oxygen"
-        },
-        {
-          "id": "E013",
-          "clue": "These birthday candles have colored flames instead of normal orange flames",
-          "answer": "Colored flame candles"
-        },
-        {
-          "id": "E014",
-          "clue": "The first thing you see when you light a birthday candle is this",
-          "answer": "A spark or flame"
-        },
-        {
-          "id": "E015",
-          "clue": "If you want to be safe with birthday candles, you should never leave them burning alone - you should do this",
-          "answer": "Watch them"
-        },
-        {
-          "id": "E016",
-          "clue": "This country has a birthday candle tradition where candles match the number of years you turn",
-          "answer": "Germany"
-        },
-        {
-          "id": "E017",
-          "clue": "When the birthday candles are lit, everyone usually sings this song",
-          "answer": "Happy Birthday"
-        },
-        {
-          "id": "E018",
-          "clue": "Candles have been used for thousands of years to provide this",
-          "answer": "Light"
-        },
-        {
-          "id": "E019",
-          "clue": "The wax in a birthday candle comes from this substance found in nature",
-          "answer": "Plants or bees"
-        },
-        {
-          "id": "E020",
-          "clue": "If you can blow out all your candles in one breath, this is supposed to happen to your wish",
-          "answer": "It comes true"
-        },
-        {
-          "id": "E021",
-          "clue": "Modern candles can be made from this eco-friendly material instead of regular wax",
-          "answer": "Soy"
-        },
-        {
-          "id": "E022",
-          "clue": "This object can be used to safely snuff out a birthday candle instead of blowing",
-          "answer": "A candle snuffer"
-        },
-        {
-          "id": "E023",
-          "clue": "The bright part of a candle flame where you see the most light is this color",
-          "answer": "Yellow"
-        },
-        {
-          "id": "E024",
-          "clue": "Scented birthday candles can smell like this sweet flavor",
-          "answer": "Vanilla, chocolate, or strawberry"
-        },
-        {
-          "id": "E025",
-          "clue": "When you light multiple candles on a cake, the heat makes the air around them feel this way",
-          "answer": "Warm"
-        },
-        {
-          "id": "E026",
-          "clue": "This part of a candle creates light when it burns hot enough",
-          "answer": "The flame"
-        },
-        {
-          "id": "E027",
-          "clue": "Before electricity was common, candles were used for this every night",
-          "answer": "Light"
-        },
-        {
-          "id": "E028",
-          "clue": "The number 1 candle and the number 0 candle together represent this age",
-          "answer": "10"
-        },
-        {
-          "id": "E029",
-          "clue": "Blowing out candles started as a tradition to connect with this",
-          "answer": "The heavens or gods"
-        },
-        {
-          "id": "E030",
-          "clue": "When wax melts on a candle, it becomes this before it burns",
-          "answer": "Liquid"
-        }
-      ]
-    },
-    "middle_school": {
-      "level": 2,
-      "description": "Ages 11-14: More detailed information about candles, history, and basic symbolism",
-      "questions": [
-        {
-          "id": "M001",
-          "clue": "In ancient Greece, candles were placed on cakes dedicated to this lunar goddess, whose name means 'wildness'",
-          "answer": "Artemis"
-        },
-        {
-          "id": "M002",
-          "clue": "This 18th century German tradition called 'Kinderfest' first documented birthday candles on cakes with one extra candle representing this",
-          "answer": "The light of life"
-        },
-        {
-          "id": "M003",
-          "clue": "The process by which wax turns from a solid to a gas in a candle is called this",
-          "answer": "Vaporization"
-        },
-        {
-          "id": "M004",
-          "clue": "In candle combustion, this element from the air combines with burning wax vapor to create the flame",
-          "answer": "Oxygen"
-        },
-        {
-          "id": "M005",
-          "clue": "The white smoke you see when blowing out a candle is actually this wax material becoming visible",
-          "answer": "Wax vapor"
-        },
-        {
-          "id": "M006",
-          "clue": "This thin rope in the center of a candle draws liquid wax upward through a process called this",
-          "answer": "Capillary action"
-        },
-        {
-          "id": "M007",
-          "clue": "In trick candles, this metallic element is added to the wick to make the flame relightable",
-          "answer": "Magnesium"
-        },
-        {
-          "id": "M008",
-          "clue": "The ideal wick length for birthday candles should be trimmed to approximately this measurement",
-          "answer": "One quarter inch"
-        },
-        {
-          "id": "M009",
-          "clue": "In spiritual traditions, a candle's light has symbolized this abstract concept throughout human history",
-          "answer": "Hope"
-        },
-        {
-          "id": "M010",
-          "clue": "The chemical process occurring when a candle burns is known as this reaction with oxygen",
-          "answer": "Combustion"
-        },
-        {
-          "id": "M011",
-          "clue": "When you light a birthday candle, the flame burns at approximately this temperature in Fahrenheit",
-          "answer": "Over 1000 degrees"
-        },
-        {
-          "id": "M012",
-          "clue": "Candles have represented this religious concept in churches and temples for centuries",
-          "answer": "Faith"
-        },
-        {
-          "id": "M013",
-          "clue": "The scent from birthday candles reaches your brain through this sensory system connected to memory and emotion",
-          "answer": "The olfactory system"
-        },
-        {
-          "id": "M014",
-          "clue": "This natural byproduct of candle burning was used in ancient times for making primitive candles",
-          "answer": "Beeswax"
-        },
-        {
-          "id": "M015",
-          "clue": "In fire safety, candles should be placed on this type of surface to prevent heat damage",
-          "answer": "Heat-resistant surfaces"
-        },
-        {
-          "id": "M016",
-          "clue": "The Romans celebrated with candles on cakes as symbols of this and prosperity",
-          "answer": "Light"
-        },
-        {
-          "id": "M017",
-          "clue": "This medical condition might make it unsafe to blow out candles on a birthday cake",
-          "answer": "Asthma or respiratory illness"
-        },
-        {
-          "id": "M018",
-          "clue": "The hydrocarbons in wax break down during combustion into these two compounds",
-          "answer": "Carbon dioxide and water"
-        },
-        {
-          "id": "M019",
-          "clue": "In many cultures, the act of making a wish before blowing out candles connects to this belief",
-          "answer": "That smoke carries prayers to heaven"
-        },
-        {
-          "id": "M020",
-          "clue": "Birthday candles represent the extinguishing of the old year and the welcoming of this",
-          "answer": "The new year"
-        },
-        {
-          "id": "M021",
-          "clue": "This material, used in modern eco-friendly candles, comes from soybean plants",
-          "answer": "Soy wax"
-        },
-        {
-          "id": "M022",
-          "clue": "The heat from a candle flame accelerates this process of fragrance oils being released into the air",
-          "answer": "Evaporation"
-        },
-        {
-          "id": "M023",
-          "clue": "In ancient times, candles were believed to provide this type of protection on one's birthday",
-          "answer": "Protection from evil spirits"
-        },
-        {
-          "id": "M024",
-          "clue": "On average, this many home candle fires are reported daily in the United States",
-          "answer": "20"
-        },
-        {
-          "id": "M025",
-          "clue": "The tallest safe flame on a birthday candle should not exceed this measurement",
-          "answer": "Two inches"
-        },
-        {
-          "id": "M026",
-          "clue": "This German count held the first well-documented birthday celebration with candles on a cake in 1746",
-          "answer": "Count Ludwig von Zinzendorf"
-        },
-        {
-          "id": "M027",
-          "clue": "The glow of lit candles represents this personal quality to many spiritual traditions",
-          "answer": "Inner light"
-        },
-        {
-          "id": "M028",
-          "clue": "When blowing out birthday candles, you should aim for this safety precaution to prevent burns",
-          "answer": "Keep your face at a safe distance"
-        },
-        {
-          "id": "M029",
-          "clue": "Candles symbolize this ephemeral quality in Buddhist and other spiritual practices",
-          "answer": "The transience of life"
-        },
-        {
-          "id": "M030",
-          "clue": "This sensory experience connects the smell of birthday candles to memory through brain pathways",
-          "answer": "Olfaction"
-        }
-      ]
-    },
-    "high_school": {
-      "level": 3,
-      "description": "Ages 15-18: Complex information about chemistry, symbolism, cultural practices, and fire science",
-      "questions": [
-        {
-          "id": "H001",
-          "clue": "The Greek tradition of placing candles on cakes honored this lunar deity, with the candles representing her celestial glow",
-          "answer": "Artemis"
-        },
-        {
-          "id": "H002",
-          "clue": "In the combustion process of a candle, hydrocarbons are broken down through thermal decomposition, producing these two primary gaseous products",
-          "answer": "Carbon dioxide and water vapor"
-        },
-        {
-          "id": "H003",
-          "clue": "The wick of a candle functions through this physical principle, drawing liquid wax upward against gravity",
-          "answer": "Capillary action"
-        },
-        {
-          "id": "H004",
-          "clue": "Trick candles remain relightable because magnesium powder embedded in the wick reignites at this approximate temperature",
-          "answer": "300 degrees Celsius"
-        },
-        {
-          "id": "H005",
-          "clue": "The Kinderfest tradition in 18th century Germany added one candle to those representing age, symbolizing this concept",
-          "answer": "The light of life"
-        },
-        {
-          "id": "H006",
-          "clue": "The white smoke released when extinguishing a candle represents this thermodynamic phase change",
-          "answer": "Condensation of wax vapor"
-        },
-        {
-          "id": "H007",
-          "clue": "In psychoneuroimmunology, the scent from birthday candles activates this brain structure, directly linking to emotional memory",
-          "answer": "The limbic system"
-        },
-        {
-          "id": "H008",
-          "clue": "Soy wax candles represent this environmental advantage over paraffin wax candles",
-          "answer": "Renewable resources"
-        },
-        {
-          "id": "H009",
-          "clue": "The flame color in a candle indicates this chemical condition of the combustion reaction",
-          "answer": "Complete or incomplete combustion"
-        },
-        {
-          "id": "H010",
-          "clue": "In fire safety protocols, the wick should be trimmed to this length to prevent soot and excessive flame height",
-          "answer": "One quarter inch"
-        },
-        {
-          "id": "H011",
-          "clue": "The neural pathway of olfaction connects directly to these two brain structures associated with emotion and memory",
-          "answer": "The amygdala and hippocampus"
-        },
-        {
-          "id": "H012",
-          "clue": "Count Ludwig von Zinzendorf's 1746 birthday celebration documented this tradition in what is now this country",
-          "answer": "Germany"
-        },
-        {
-          "id": "H013",
-          "clue": "The energy released in candle combustion comes from breaking chemical bonds, demonstrating this type of reaction",
-          "answer": "Exothermic"
-        },
-        {
-          "id": "H014",
-          "clue": "In religious symbolism, candles represent these three interconnected concepts in Christianity",
-          "answer": "Faith, miracle, and light"
-        },
-        {
-          "id": "H015",
-          "clue": "The protective belief in ancient times that candles shielded against evil on birthdays may relate to this practical function",
-          "answer": "Light dispelling darkness"
-        },
-        {
-          "id": "H016",
-          "clue": "Scented candle fragrance dispersal depends on this process by which volatile organic compounds vaporize",
-          "answer": "Evaporation"
-        },
-        {
-          "id": "H017",
-          "clue": "In fire science, a candle is classified as a diffuse flame because combustion occurs in this phase of matter",
-          "answer": "The gas phase"
-        },
-        {
-          "id": "H018",
-          "clue": "The symbolic connection between birthday candle traditions and celestial or divine wishes relates to this metaphor",
-          "answer": "Smoke rising to heaven"
-        },
-        {
-          "id": "H019",
-          "clue": "Paraffin wax, the most common candle material, is a byproduct of this refining industry",
-          "answer": "Petroleum"
-        },
-        {
-          "id": "H020",
-          "clue": "The phenomenon of magnesium's self-ignition in trick candles occurs because it has this low temperature threshold",
-          "answer": "A low ignition point"
-        },
-        {
-          "id": "H021",
-          "clue": "In sensory neuroscience, odorant molecules bind to these specialized cells in the nasal epithelium",
-          "answer": "Olfactory receptors"
-        },
-        {
-          "id": "H022",
-          "clue": "The transience of candle flames symbolizes this Buddhist and Zen concept",
-          "answer": "Impermanence"
-        },
-        {
-          "id": "H023",
-          "clue": "The flash point of wax, the temperature at which vapors ignite, demonstrates this fire science principle",
-          "answer": "Ignition temperature"
-        },
-        {
-          "id": "H024",
-          "clue": "The ritual of blowing out candles while making a wish combines this psychological principle with spiritual tradition",
-          "answer": "Intention setting"
-        },
-        {
-          "id": "H025",
-          "clue": "In thermodynamic terms, the candle flame represents this type of system exchanging heat and matter with surroundings",
-          "answer": "An open system"
-        },
-        {
-          "id": "H026",
-          "clue": "The smoke point variation between different wax types affects this property of the candle",
-          "answer": "Burn time"
-        },
-        {
-          "id": "H027",
-          "clue": "Ancient cultures believed candle smoke carried prayers through this intermediate realm",
-          "answer": "The ethereal or spiritual realm"
-        },
-        {
-          "id": "H028",
-          "clue": "The blue zone of a candle flame indicates this type of combustion",
-          "answer": "Complete combustion"
-        },
-        {
-          "id": "H029",
-          "clue": "In fire behavior, candle wax acts as this type of fuel source for the flame",
-          "answer": "A liquid fuel"
-        },
-        {
-          "id": "H030",
-          "clue": "The neurochemical response to scent engages this neurotransmitter system related to pleasure and memory",
-          "answer": "Dopamine"
-        }
-      ]
-    },
-    "university": {
-      "level": 4,
-      "description": "Ages 18+: Advanced academic content covering chemistry, neuroscience, cultural studies, and complex fire science",
-      "questions": [
-        {
-          "id": "U001",
-          "clue": "The veneration of Artemis through candle-lit cakes reflects this anthropological concept of ritual transformation and temporal marking",
-          "answer": "Liminality"
-        },
-        {
-          "id": "U002",
-          "clue": "In organic chemistry, the decomposition of candle wax through thermal cracking produces these polycyclic aromatic hydrocarbons",
-          "answer": "PAHs"
-        },
-        {
-          "id": "U003",
-          "clue": "The capillary rise in candle wicks demonstrates this principle governing fluid movement through porous media",
-          "answer": "The Young-Laplace equation"
-        },
-        {
-          "id": "U004",
-          "clue": "Magnesium's pyrophoric properties in trick candles operate through this electron transfer mechanism",
-          "answer": "Oxidation-reduction"
-        },
-        {
-          "id": "U005",
-          "clue": "The Kinderfest tradition encodes this Enlightenment-era philosophical concept about life's continuum",
-          "answer": "Progress through time"
-        },
-        {
-          "id": "U006",
-          "clue": "The condensation of wax vapor when a candle is extinguished occurs because molecules lose this form of energy",
-          "answer": "Kinetic energy"
-        },
-        {
-          "id": "U007",
-          "clue": "In neuroscience, olfactory information bypasses the thalamus and routes directly to this brain structure",
-          "answer": "The piriform cortex"
-        },
-        {
-          "id": "U008",
-          "clue": "Sustainable candle materials derived from plant sources represent this shift in material science",
-          "answer": "Biopolymers"
-        },
-        {
-          "id": "U009",
-          "clue": "The color of a candle flame indicates this parameter in combustion stoichiometry",
-          "answer": "The equivalence ratio"
-        },
-        {
-          "id": "U010",
-          "clue": "Fire safety protocols limiting wick length address this phenomenon in fluid dynamics",
-          "answer": "Capillary wicking height"
-        },
-        {
-          "id": "U011",
-          "clue": "The direct olfactory pathway to limbic structures explains this documented phenomenon of scent-triggered memory",
-          "answer": "Olfactory-dependent autobiographical memory"
-        },
-        {
-          "id": "U012",
-          "clue": "The documentation of candle-lit birthday cakes in 18th century Germany reflects this social construct's modernization",
-          "answer": "Childhood and age-specific rituals"
-        },
-        {
-          "id": "U013",
-          "clue": "Candle combustion exemplifies this type of reaction where breaking bonds requires less energy than forming new ones",
-          "answer": "Spontaneous exothermic"
-        },
-        {
-          "id": "U014",
-          "clue": "Candle symbolism in mystical traditions encodes this philosophical dichotomy",
-          "answer": "Light versus darkness"
-        },
-        {
-          "id": "U015",
-          "clue": "The ritualization of candle-blowing demonstrates this psychological phenomenon linking intention with outcome",
-          "answer": "Locus of control"
-        },
-        {
-          "id": "U016",
-          "clue": "Volatile organic compounds from scented candles undergo this process in the gas phase",
-          "answer": "Molecular diffusion"
-        },
-        {
-          "id": "U017",
-          "clue": "In flame physics, a candle produces this type of flame characterized by buoyancy-driven convection",
-          "answer": "A laminar diffusion flame"
-        },
-        {
-          "id": "U018",
-          "clue": "Ancient candle smoke symbolism relates to this concept in thermodynamics regarding particle dispersal",
-          "answer": "Entropy"
-        },
-        {
-          "id": "U019",
-          "clue": "Paraffin wax's chemical composition consists primarily of these linear hydrocarbons",
-          "answer": "Alkanes"
-        },
-        {
-          "id": "U020",
-          "clue": "The magnesium-based relighting in trick candles occurs through this oxidation mechanism",
-          "answer": "Mg + O2 ≈ MgO combustion"
-        },
-        {
-          "id": "U021",
-          "clue": "Odorant binding in olfactory epithelium engages this cellular signaling cascade",
-          "answer": "G-protein coupled receptor signaling"
-        },
-        {
-          "id": "U022",
-          "clue": "Buddhist philosophy's connection to candle impermanence reflects this metaphysical concept",
-          "answer": "Anicca"
-        },
-        {
-          "id": "U023",
-          "clue": "The autoignition temperature of candle wax defines this critical parameter in fire science",
-          "answer": "The thermal stability threshold"
-        },
-        {
-          "id": "U024",
-          "clue": "Birthday candle rituals function as this type of collective social performance",
-          "answer": "A rite of passage"
-        },
-        {
-          "id": "U025",
-          "clue": "In thermodynamics, a burning candle represents this type of system dissipating free energy",
-          "answer": "A dissipative structure"
-        },
-        {
-          "id": "U026",
-          "clue": "Differences in smoke point between wax types relate to this property affecting molecular chain stability",
-          "answer": "Thermal stability"
-        },
-        {
-          "id": "U027",
-          "clue": "The ascension symbolism of candle smoke relates to this ontological framework in religious studies",
-          "answer": "Vertical cosmology"
-        },
-        {
-          "id": "U028",
-          "clue": "In combustion analysis, the blue zone of a flame indicates this stoichiometric condition",
-          "answer": "Rich combustion or presence of incomplete oxidation products"
-        },
-        {
-          "id": "U029",
-          "clue": "Candle wax's behavior as a fuel demonstrates this phase-change mechanism",
-          "answer": "Solid-liquid-gas transition"
-        },
-        {
-          "id": "U030",
-          "clue": "The hedonic response to candle scent engages this neurobiological reward system",
-          "answer": "The mesolimbic dopamine pathway"
-        }
-      ]
-    },
-    "expert": {
-      "level": 5,
-      "description": "Specialist knowledge: Deep technical, historical, cultural, and scientific expertise",
-      "questions": [
-        {
-          "id": "X001",
-          "clue": "The Artemesia cult's candle veneration practices demonstrate this comparative religious phenomenon evident across Indo-European traditions",
-          "answer": "Lunar deities as temporal markers"
-        },
-        {
-          "id": "X002",
-          "clue": "Thermal cracking of alkanes in candle wax produces this distribution of products following this chemical principle",
-          "answer": "Cracking mechanism with free radical chain reactions"
-        },
-        {
-          "id": "X003",
-          "clue": "The interface dynamics between candle wick and wax employ this quantitative relationship governing surface tension and wetting",
-          "answer": "The Washburn equation"
-        },
-        {
-          "id": "X004",
-          "clue": "Magnesium's continued oxidation in trick candles occurs because this product maintains sufficient exothermicity",
-          "answer": "MgO formation with subsequent oxidation"
-        },
-        {
-          "id": "X005",
-          "clue": "The Kinderfest tradition's additional candle encodes this Hegelian concept of temporal progression",
-          "answer": "Becoming versus being"
-        },
-        {
-          "id": "X006",
-          "clue": "Wax vapor condensation upon flame extinction demonstrates this nucleation phenomenon in phase transitions",
-          "answer": "Homogeneous nucleation"
-        },
-        {
-          "id": "X007",
-          "clue": "Olfactory sensory neurons express these G-protein coupled receptors numbering approximately this quantity in humans",
-          "answer": "1000 different receptor types"
-        },
-        {
-          "id": "X008",
-          "clue": "Soy-based and other renewable candle materials represent this shift in polymer science toward this category",
-          "answer": "Bio-based polymers"
-        },
-        {
-          "id": "X009",
-          "clue": "The flame color spectrum in candle combustion indicates this parameter measuring energy distribution",
-          "answer": "The Planck blackbody radiation curve"
-        },
-        {
-          "id": "X010",
-          "clue": "Fire safety wick specifications address this fluid mechanics phenomenon in porous media",
-          "answer": "Capillary-driven flow rate optimization"
-        },
-        {
-          "id": "X011",
-          "clue": "The trans-thalamic olfactory pathway creates this unique neuroanatomical feature among sensory systems",
-          "answer": "Direct cortical access without relay nucleus"
-        },
-        {
-          "id": "X012",
-          "clue": "The documentation of birthday candle ceremonies in 18th century German records reflects this sociological phenomenon",
-          "answer": "The social construction of childhood"
-        },
-        {
-          "id": "X013",
-          "clue": "Candle combustion represents this thermodynamic principle where enthalpy change drives spontaneous reaction",
-          "answer": "Negative Gibbs free energy"
-        },
-        {
-          "id": "X014",
-          "clue": "The binary candle symbolism in mystical traditions encodes this Durkheimian concept",
-          "answer": "Sacred and profane distinction"
-        },
-        {
-          "id": "X015",
-          "clue": "The ritual of candle-blowing engages this psychological mechanism linking perceived control with expectancy",
-          "answer": "Rotter's locus of control continuum"
-        },
-        {
-          "id": "X016",
-          "clue": "VOCs from scented candles exhibit this behavior described by this equation governing gas diffusion",
-          "answer": "Fick's second law"
-        },
-        {
-          "id": "X017",
-          "clue": "Candle flames represent this specific category in flame classification systems",
-          "answer": "Laminar diffusion flames with natural convection"
-        },
-        {
-          "id": "X018",
-          "clue": "The ascending candle smoke symbolism traces to this philosophical concept in pre-Socratic metaphysics",
-          "answer": "Vertical ontology and divine transcendence"
-        },
-        {
-          "id": "X019",
-          "clue": "Paraffin wax's alkane composition produces this specific carbon number range",
-          "answer": "Primarily C20 to C40 alkanes"
-        },
-        {
-          "id": "X020",
-          "clue": "The exothermic oxidation of magnesium follows this thermodynamic pathway in trick candles",
-          "answer": "Mg + O2 producing MgO with ΔH ≈ -601 kJ/mol"
-        },
-        {
-          "id": "X021",
-          "clue": "Olfactory signal transduction involves this cascade of proteins initiating G-protein activation",
-          "answer": "Adenylyl cyclase producing cAMP"
-        },
-        {
-          "id": "X022",
-          "clue": "The Buddhist Pali term for impermanence encoded in candle symbolism is this concept",
-          "answer": "Anicca in Pali Canon philosophy"
-        },
-        {
-          "id": "X023",
-          "clue": "The autoignition temperature of paraffin wax occurs at approximately this Celsius temperature",
-          "answer": "470-480 degrees Celsius"
-        },
-        {
-          "id": "X024",
-          "clue": "Birthday candle rituals function within this anthropological framework as temporal boundary markers",
-          "answer": "Van Gennep's rite of passage structure"
-        },
-        {
-          "id": "X025",
-          "clue": "A burning candle exemplifies this Ilya Prigogine concept of self-organizing systems far from equilibrium",
-          "answer": "Dissipative structures"
-        },
-        {
-          "id": "X026",
-          "clue": "Thermal stability differences between wax types relate to this property of C-C bond strength",
-          "answer": "Bond dissociation energy"
-        },
-        {
-          "id": "X027",
-          "clue": "The ascending smoke metaphor appears across cultures as this phenomenological experience",
-          "answer": "Vertical cosmology with transcendent divine realm"
-        },
-        {
-          "id": "X028",
-          "clue": "In spectroscopic flame analysis, the blue zone indicates this chemical species produced in combustion",
-          "answer": "CHO radicals and incomplete combustion products"
-        },
-        {
-          "id": "X029",
-          "clue": "Candle wax demonstrates this type of phase behavior crucial to combustion mechanism",
-          "answer": "Endothermic vaporization with exothermic oxidation coupling"
-        },
-        {
-          "id": "X030",
-          "clue": "The hedonic candle scent response engages this specific circuit including nucleus accumbens through VTA projection",
-          "answer": "The mesolimbic reward system's hedonic pathway"
-        }
-      ]
-    }
-  },
-  "thematic_groupings": {
-    "history_and_traditions": {
-      "description": "Questions about the historical origins and cultural traditions of birthday candles",
-      "question_ids": ["E016", "E011", "M001", "M002", "M026", "H001", "H012", "U001", "U012", "X001", "X005", "X012"]
-    },
-    "fire_science_and_combustion": {
-      "description": "Technical questions about combustion, flame behavior, and fire chemistry",
-      "question_ids": ["E004", "E009", "E012", "M003", "M004", "M010", "M018", "H002", "H003", "H007", "H013", "H017", "H023", "H028", "U002", "U003", "U004", "U009", "U013", "U017", "U023", "U025", "X002", "X003", "X004", "X009", "X016", "X017", "X028", "X029"]
-    },
-    "symbolism_and_spirituality": {
-      "description": "Questions about symbolic meanings, spiritual significance, and cultural beliefs",
-      "question_ids": ["E010", "E029", "M009", "M012", "M019", "M023", "M029", "H004", "H011", "H014", "H015", "H018", "H022", "U005", "U014", "U015", "U018", "U022", "U024", "U027", "X001", "X005", "X014", "X018", "X022", "X027"]
-    },
-    "sensory_experience": {
-      "description": "Questions about smell, taste, heat, and multisensory aspects of candles",
-      "question_ids": ["E024", "E025", "M013", "M022", "H007", "H011", "H016", "U007", "U011", "U016", "U021", "U030", "X007", "X011", "X021", "X030"]
-    },
-    "safety_and_practical_considerations": {
-      "description": "Questions about fire safety, proper candle use, and practical concerns",
-      "question_ids": ["E006", "E015", "M008", "M015", "M017", "M024", "M025", "H010", "H020", "U010", "U020", "X010", "X020", "X023"]
-    },
-    "chemistry_and_materials": {
-      "description": "Questions about wax composition, chemical reactions, and material science",
-      "question_ids": ["E005", "E007", "E019", "M014", "M018", "M021", "H002", "H009", "H019", "U002", "U006", "U008", "U019", "U026", "X002", "X008", "X019", "X026"]
-    }
-  },
-  "metadata": {
-    "creation_date": "2025-12-26",
-    "format": "Jeopardy-style questions with clues and answers",
-    "difficulty_distribution": {
-      "elementary": 30,
-      "middle_school": 30,
-      "high_school": 30,
-      "university": 30,
-      "expert": 30
-    },
-    "research_topics_covered": [
-      "Birthday candle history (Ancient Greece, Rome, 18th century Germany)",
-      "Candle symbolism (light, hope, faith, spiritual connection)",
-      "Fire science (combustion, flame behavior, thermal properties)",
-      "Wax chemistry (paraffin, soy, beeswax composition)",
-      "Fire safety (wick length, placement, extinguishing methods)",
-      "Sensory neuroscience (olfaction, memory, emotion)",
-      "Trick candles (magnesium chemistry, pyrophoric properties)",
-      "Cultural and spiritual traditions",
-      "Environmental considerations (sustainable materials)"
+  "theme": "birthday",
+  "category_id": "birthday_candles_lights_complete",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This is what melts on a birthday cake when you light the candles on top",
+        "correctQuestion": "Wax",
+        "value": 200
+      },
+      {
+        "clue": "When you blow out birthday candles, you're supposed to make this while the candles are still lit",
+        "correctQuestion": "A wish",
+        "value": 200
+      },
+      {
+        "clue": "The number of candles on your birthday cake usually matches your age or this number",
+        "correctQuestion": "How many years old you are",
+        "value": 200
+      },
+      {
+        "clue": "Birthday candles burn with this, which creates light and heat",
+        "correctQuestion": "A flame",
+        "value": 200
+      },
+      {
+        "clue": "This thin stick in the middle of a candle burns to create the flame",
+        "correctQuestion": "A wick",
+        "value": 200
+      },
+      {
+        "clue": "You do this to a birthday candle flame to make it go out",
+        "correctQuestion": "Blow it out",
+        "value": 200
+      },
+      {
+        "clue": "Birthday candles come in many different colors and sometimes taste like this",
+        "correctQuestion": "Vanilla",
+        "value": 200
+      },
+      {
+        "clue": "These special candles won't blow out no matter how hard you try",
+        "correctQuestion": "Trick candles",
+        "value": 200
+      },
+      {
+        "clue": "The smoke coming from a candle when you blow it out is actually this turning cold",
+        "correctQuestion": "Wax vapor",
+        "value": 200
+      },
+      {
+        "clue": "Candles have been used on birthday cakes for hundreds of years because they represent this",
+        "correctQuestion": "Light",
+        "value": 200
+      },
+      {
+        "clue": "This ancient Greek goddess is connected to the tradition of candles on birthday cakes",
+        "correctQuestion": "Artemis (goddess of the moon)",
+        "value": 200
+      },
+      {
+        "clue": "Birthday candles need this to burn and create a flame",
+        "correctQuestion": "Oxygen",
+        "value": 200
+      },
+      {
+        "clue": "These birthday candles have colored flames instead of normal orange flames",
+        "correctQuestion": "Colored flame candles",
+        "value": 200
+      },
+      {
+        "clue": "The first thing you see when you light a birthday candle is this",
+        "correctQuestion": "A spark or flame",
+        "value": 200
+      },
+      {
+        "clue": "If you want to be safe with birthday candles, you should never leave them burning alone - you should do this",
+        "correctQuestion": "Watch them",
+        "value": 200
+      },
+      {
+        "clue": "This country has a birthday candle tradition where candles match the number of years you turn",
+        "correctQuestion": "Germany",
+        "value": 200
+      },
+      {
+        "clue": "When the birthday candles are lit, everyone usually sings this song",
+        "correctQuestion": "Happy Birthday",
+        "value": 200
+      },
+      {
+        "clue": "Candles have been used for thousands of years to provide this",
+        "correctQuestion": "Light",
+        "value": 200
+      },
+      {
+        "clue": "The wax in a birthday candle comes from this substance found in nature",
+        "correctQuestion": "Plants or bees",
+        "value": 200
+      },
+      {
+        "clue": "If you can blow out all your candles in one breath, this is supposed to happen to your wish",
+        "correctQuestion": "It comes true",
+        "value": 200
+      },
+      {
+        "clue": "Modern candles can be made from this eco-friendly material instead of regular wax",
+        "correctQuestion": "Soy",
+        "value": 200
+      },
+      {
+        "clue": "This object can be used to safely snuff out a birthday candle instead of blowing",
+        "correctQuestion": "A candle snuffer",
+        "value": 200
+      },
+      {
+        "clue": "The bright part of a candle flame where you see the most light is this color",
+        "correctQuestion": "Yellow",
+        "value": 200
+      },
+      {
+        "clue": "Scented birthday candles can smell like this sweet flavor",
+        "correctQuestion": "Vanilla, chocolate, or strawberry",
+        "value": 200
+      },
+      {
+        "clue": "When you light multiple candles on a cake, the heat makes the air around them feel this way",
+        "correctQuestion": "Warm",
+        "value": 200
+      },
+      {
+        "clue": "This part of a candle creates light when it burns hot enough",
+        "correctQuestion": "The flame",
+        "value": 200
+      },
+      {
+        "clue": "Before electricity was common, candles were used for this every night",
+        "correctQuestion": "Light",
+        "value": 200
+      },
+      {
+        "clue": "The number 1 candle and the number 0 candle together represent this age",
+        "correctQuestion": "10",
+        "value": 200
+      },
+      {
+        "clue": "Blowing out candles started as a tradition to connect with this",
+        "correctQuestion": "The heavens or gods",
+        "value": 200
+      },
+      {
+        "clue": "When wax melts on a candle, it becomes this before it burns",
+        "correctQuestion": "Liquid",
+        "value": 200
+      }
     ],
-    "audience_progression": "Questions escalate from simple factual knowledge (elementary) through comprehension and application (middle/high school) to analysis, synthesis, and expert evaluation (university and expert levels)"
+    "kids_10_under": [
+      {
+        "clue": "In ancient Greece, candles were placed on cakes dedicated to this lunar goddess, whose name means 'wildness'",
+        "correctQuestion": "Artemis",
+        "value": 400
+      },
+      {
+        "clue": "This 18th century German tradition called 'Kinderfest' first documented birthday candles on cakes with one extra candle representing this",
+        "correctQuestion": "The light of life",
+        "value": 400
+      },
+      {
+        "clue": "The process by which wax turns from a solid to a gas in a candle is called this",
+        "correctQuestion": "Vaporization",
+        "value": 400
+      },
+      {
+        "clue": "In candle combustion, this element from the air combines with burning wax vapor to create the flame",
+        "correctQuestion": "Oxygen",
+        "value": 400
+      },
+      {
+        "clue": "The white smoke you see when blowing out a candle is actually this wax material becoming visible",
+        "correctQuestion": "Wax vapor",
+        "value": 400
+      },
+      {
+        "clue": "This thin rope in the center of a candle draws liquid wax upward through a process called this",
+        "correctQuestion": "Capillary action",
+        "value": 400
+      },
+      {
+        "clue": "In trick candles, this metallic element is added to the wick to make the flame relightable",
+        "correctQuestion": "Magnesium",
+        "value": 400
+      },
+      {
+        "clue": "The ideal wick length for birthday candles should be trimmed to approximately this measurement",
+        "correctQuestion": "One quarter inch",
+        "value": 400
+      },
+      {
+        "clue": "In spiritual traditions, a candle's light has symbolized this abstract concept throughout human history",
+        "correctQuestion": "Hope",
+        "value": 400
+      },
+      {
+        "clue": "The chemical process occurring when a candle burns is known as this reaction with oxygen",
+        "correctQuestion": "Combustion",
+        "value": 400
+      },
+      {
+        "clue": "When you light a birthday candle, the flame burns at approximately this temperature in Fahrenheit",
+        "correctQuestion": "Over 1000 degrees",
+        "value": 400
+      },
+      {
+        "clue": "Candles have represented this religious concept in churches and temples for centuries",
+        "correctQuestion": "Faith",
+        "value": 400
+      },
+      {
+        "clue": "The scent from birthday candles reaches your brain through this sensory system connected to memory and emotion",
+        "correctQuestion": "The olfactory system",
+        "value": 400
+      },
+      {
+        "clue": "This natural byproduct of candle burning was used in ancient times for making primitive candles",
+        "correctQuestion": "Beeswax",
+        "value": 400
+      },
+      {
+        "clue": "In fire safety, candles should be placed on this type of surface to prevent heat damage",
+        "correctQuestion": "Heat-resistant surfaces",
+        "value": 400
+      },
+      {
+        "clue": "The Romans celebrated with candles on cakes as symbols of this and prosperity",
+        "correctQuestion": "Light",
+        "value": 400
+      },
+      {
+        "clue": "This medical condition might make it unsafe to blow out candles on a birthday cake",
+        "correctQuestion": "Asthma or respiratory illness",
+        "value": 400
+      },
+      {
+        "clue": "The hydrocarbons in wax break down during combustion into these two compounds",
+        "correctQuestion": "Carbon dioxide and water",
+        "value": 400
+      },
+      {
+        "clue": "In many cultures, the act of making a wish before blowing out candles connects to this belief",
+        "correctQuestion": "That smoke carries prayers to heaven",
+        "value": 400
+      },
+      {
+        "clue": "Birthday candles represent the extinguishing of the old year and the welcoming of this",
+        "correctQuestion": "The new year",
+        "value": 400
+      },
+      {
+        "clue": "This material, used in modern eco-friendly candles, comes from soybean plants",
+        "correctQuestion": "Soy wax",
+        "value": 400
+      },
+      {
+        "clue": "The heat from a candle flame accelerates this process of fragrance oils being released into the air",
+        "correctQuestion": "Evaporation",
+        "value": 400
+      },
+      {
+        "clue": "In ancient times, candles were believed to provide this type of protection on one's birthday",
+        "correctQuestion": "Protection from evil spirits",
+        "value": 400
+      },
+      {
+        "clue": "On average, this many home candle fires are reported daily in the United States",
+        "correctQuestion": "20",
+        "value": 400
+      },
+      {
+        "clue": "The tallest safe flame on a birthday candle should not exceed this measurement",
+        "correctQuestion": "Two inches",
+        "value": 400
+      },
+      {
+        "clue": "This German count held the first well-documented birthday celebration with candles on a cake in 1746",
+        "correctQuestion": "Count Ludwig von Zinzendorf",
+        "value": 400
+      },
+      {
+        "clue": "The glow of lit candles represents this personal quality to many spiritual traditions",
+        "correctQuestion": "Inner light",
+        "value": 400
+      },
+      {
+        "clue": "When blowing out birthday candles, you should aim for this safety precaution to prevent burns",
+        "correctQuestion": "Keep your face at a safe distance",
+        "value": 400
+      },
+      {
+        "clue": "Candles symbolize this ephemeral quality in Buddhist and other spiritual practices",
+        "correctQuestion": "The transience of life",
+        "value": 400
+      },
+      {
+        "clue": "This sensory experience connects the smell of birthday candles to memory through brain pathways",
+        "correctQuestion": "Olfaction",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "The Greek tradition of placing candles on cakes honored this lunar deity, with the candles representing her celestial glow",
+        "correctQuestion": "Artemis",
+        "value": 600
+      },
+      {
+        "clue": "In the combustion process of a candle, hydrocarbons are broken down through thermal decomposition, producing these two primary gaseous products",
+        "correctQuestion": "Carbon dioxide and water vapor",
+        "value": 600
+      },
+      {
+        "clue": "The wick of a candle functions through this physical principle, drawing liquid wax upward against gravity",
+        "correctQuestion": "Capillary action",
+        "value": 600
+      },
+      {
+        "clue": "Trick candles remain relightable because magnesium powder embedded in the wick reignites at this approximate temperature",
+        "correctQuestion": "300 degrees Celsius",
+        "value": 600
+      },
+      {
+        "clue": "The Kinderfest tradition in 18th century Germany added one candle to those representing age, symbolizing this concept",
+        "correctQuestion": "The light of life",
+        "value": 600
+      },
+      {
+        "clue": "The white smoke released when extinguishing a candle represents this thermodynamic phase change",
+        "correctQuestion": "Condensation of wax vapor",
+        "value": 600
+      },
+      {
+        "clue": "In psychoneuroimmunology, the scent from birthday candles activates this brain structure, directly linking to emotional memory",
+        "correctQuestion": "The limbic system",
+        "value": 600
+      },
+      {
+        "clue": "Soy wax candles represent this environmental advantage over paraffin wax candles",
+        "correctQuestion": "Renewable resources",
+        "value": 600
+      },
+      {
+        "clue": "The flame color in a candle indicates this chemical condition of the combustion reaction",
+        "correctQuestion": "Complete or incomplete combustion",
+        "value": 600
+      },
+      {
+        "clue": "In fire safety protocols, the wick should be trimmed to this length to prevent soot and excessive flame height",
+        "correctQuestion": "One quarter inch",
+        "value": 600
+      },
+      {
+        "clue": "The neural pathway of olfaction connects directly to these two brain structures associated with emotion and memory",
+        "correctQuestion": "The amygdala and hippocampus",
+        "value": 600
+      },
+      {
+        "clue": "Count Ludwig von Zinzendorf's 1746 birthday celebration documented this tradition in what is now this country",
+        "correctQuestion": "Germany",
+        "value": 600
+      },
+      {
+        "clue": "The energy released in candle combustion comes from breaking chemical bonds, demonstrating this type of reaction",
+        "correctQuestion": "Exothermic",
+        "value": 600
+      },
+      {
+        "clue": "In religious symbolism, candles represent these three interconnected concepts in Christianity",
+        "correctQuestion": "Faith, miracle, and light",
+        "value": 600
+      },
+      {
+        "clue": "The protective belief in ancient times that candles shielded against evil on birthdays may relate to this practical function",
+        "correctQuestion": "Light dispelling darkness",
+        "value": 600
+      },
+      {
+        "clue": "Scented candle fragrance dispersal depends on this process by which volatile organic compounds vaporize",
+        "correctQuestion": "Evaporation",
+        "value": 600
+      },
+      {
+        "clue": "In fire science, a candle is classified as a diffuse flame because combustion occurs in this phase of matter",
+        "correctQuestion": "The gas phase",
+        "value": 600
+      },
+      {
+        "clue": "The symbolic connection between birthday candle traditions and celestial or divine wishes relates to this metaphor",
+        "correctQuestion": "Smoke rising to heaven",
+        "value": 600
+      },
+      {
+        "clue": "Paraffin wax, the most common candle material, is a byproduct of this refining industry",
+        "correctQuestion": "Petroleum",
+        "value": 600
+      },
+      {
+        "clue": "The phenomenon of magnesium's self-ignition in trick candles occurs because it has this low temperature threshold",
+        "correctQuestion": "A low ignition point",
+        "value": 600
+      },
+      {
+        "clue": "In sensory neuroscience, odorant molecules bind to these specialized cells in the nasal epithelium",
+        "correctQuestion": "Olfactory receptors",
+        "value": 600
+      },
+      {
+        "clue": "The transience of candle flames symbolizes this Buddhist and Zen concept",
+        "correctQuestion": "Impermanence",
+        "value": 600
+      },
+      {
+        "clue": "The flash point of wax, the temperature at which vapors ignite, demonstrates this fire science principle",
+        "correctQuestion": "Ignition temperature",
+        "value": 600
+      },
+      {
+        "clue": "The ritual of blowing out candles while making a wish combines this psychological principle with spiritual tradition",
+        "correctQuestion": "Intention setting",
+        "value": 600
+      },
+      {
+        "clue": "In thermodynamic terms, the candle flame represents this type of system exchanging heat and matter with surroundings",
+        "correctQuestion": "An open system",
+        "value": 600
+      },
+      {
+        "clue": "The smoke point variation between different wax types affects this property of the candle",
+        "correctQuestion": "Burn time",
+        "value": 600
+      },
+      {
+        "clue": "Ancient cultures believed candle smoke carried prayers through this intermediate realm",
+        "correctQuestion": "The ethereal or spiritual realm",
+        "value": 600
+      },
+      {
+        "clue": "The blue zone of a candle flame indicates this type of combustion",
+        "correctQuestion": "Complete combustion",
+        "value": 600
+      },
+      {
+        "clue": "In fire behavior, candle wax acts as this type of fuel source for the flame",
+        "correctQuestion": "A liquid fuel",
+        "value": 600
+      },
+      {
+        "clue": "The neurochemical response to scent engages this neurotransmitter system related to pleasure and memory",
+        "correctQuestion": "Dopamine",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The veneration of Artemis through candle-lit cakes reflects this anthropological concept of ritual transformation and temporal marking",
+        "correctQuestion": "Liminality",
+        "value": 800
+      },
+      {
+        "clue": "In organic chemistry, the decomposition of candle wax through thermal cracking produces these polycyclic aromatic hydrocarbons",
+        "correctQuestion": "PAHs",
+        "value": 800
+      },
+      {
+        "clue": "The capillary rise in candle wicks demonstrates this principle governing fluid movement through porous media",
+        "correctQuestion": "The Young-Laplace equation",
+        "value": 800
+      },
+      {
+        "clue": "Magnesium's pyrophoric properties in trick candles operate through this electron transfer mechanism",
+        "correctQuestion": "Oxidation-reduction",
+        "value": 800
+      },
+      {
+        "clue": "The Kinderfest tradition encodes this Enlightenment-era philosophical concept about life's continuum",
+        "correctQuestion": "Progress through time",
+        "value": 800
+      },
+      {
+        "clue": "The condensation of wax vapor when a candle is extinguished occurs because molecules lose this form of energy",
+        "correctQuestion": "Kinetic energy",
+        "value": 800
+      },
+      {
+        "clue": "In neuroscience, olfactory information bypasses the thalamus and routes directly to this brain structure",
+        "correctQuestion": "The piriform cortex",
+        "value": 800
+      },
+      {
+        "clue": "Sustainable candle materials derived from plant sources represent this shift in material science",
+        "correctQuestion": "Biopolymers",
+        "value": 800
+      },
+      {
+        "clue": "The color of a candle flame indicates this parameter in combustion stoichiometry",
+        "correctQuestion": "The equivalence ratio",
+        "value": 800
+      },
+      {
+        "clue": "Fire safety protocols limiting wick length address this phenomenon in fluid dynamics",
+        "correctQuestion": "Capillary wicking height",
+        "value": 800
+      },
+      {
+        "clue": "The direct olfactory pathway to limbic structures explains this documented phenomenon of scent-triggered memory",
+        "correctQuestion": "Olfactory-dependent autobiographical memory",
+        "value": 800
+      },
+      {
+        "clue": "The documentation of candle-lit birthday cakes in 18th century Germany reflects this social construct's modernization",
+        "correctQuestion": "Childhood and age-specific rituals",
+        "value": 800
+      },
+      {
+        "clue": "Candle combustion exemplifies this type of reaction where breaking bonds requires less energy than forming new ones",
+        "correctQuestion": "Spontaneous exothermic",
+        "value": 800
+      },
+      {
+        "clue": "Candle symbolism in mystical traditions encodes this philosophical dichotomy",
+        "correctQuestion": "Light versus darkness",
+        "value": 800
+      },
+      {
+        "clue": "The ritualization of candle-blowing demonstrates this psychological phenomenon linking intention with outcome",
+        "correctQuestion": "Locus of control",
+        "value": 800
+      },
+      {
+        "clue": "Volatile organic compounds from scented candles undergo this process in the gas phase",
+        "correctQuestion": "Molecular diffusion",
+        "value": 800
+      },
+      {
+        "clue": "In flame physics, a candle produces this type of flame characterized by buoyancy-driven convection",
+        "correctQuestion": "A laminar diffusion flame",
+        "value": 800
+      },
+      {
+        "clue": "Ancient candle smoke symbolism relates to this concept in thermodynamics regarding particle dispersal",
+        "correctQuestion": "Entropy",
+        "value": 800
+      },
+      {
+        "clue": "Paraffin wax's chemical composition consists primarily of these linear hydrocarbons",
+        "correctQuestion": "Alkanes",
+        "value": 800
+      },
+      {
+        "clue": "The magnesium-based relighting in trick candles occurs through this oxidation mechanism",
+        "correctQuestion": "Mg + O2 ≈ MgO combustion",
+        "value": 800
+      },
+      {
+        "clue": "Odorant binding in olfactory epithelium engages this cellular signaling cascade",
+        "correctQuestion": "G-protein coupled receptor signaling",
+        "value": 800
+      },
+      {
+        "clue": "Buddhist philosophy's connection to candle impermanence reflects this metaphysical concept",
+        "correctQuestion": "Anicca",
+        "value": 800
+      },
+      {
+        "clue": "The autoignition temperature of candle wax defines this critical parameter in fire science",
+        "correctQuestion": "The thermal stability threshold",
+        "value": 800
+      },
+      {
+        "clue": "Birthday candle rituals function as this type of collective social performance",
+        "correctQuestion": "A rite of passage",
+        "value": 800
+      },
+      {
+        "clue": "In thermodynamics, a burning candle represents this type of system dissipating free energy",
+        "correctQuestion": "A dissipative structure",
+        "value": 800
+      },
+      {
+        "clue": "Differences in smoke point between wax types relate to this property affecting molecular chain stability",
+        "correctQuestion": "Thermal stability",
+        "value": 800
+      },
+      {
+        "clue": "The ascension symbolism of candle smoke relates to this ontological framework in religious studies",
+        "correctQuestion": "Vertical cosmology",
+        "value": 800
+      },
+      {
+        "clue": "In combustion analysis, the blue zone of a flame indicates this stoichiometric condition",
+        "correctQuestion": "Rich combustion or presence of incomplete oxidation products",
+        "value": 800
+      },
+      {
+        "clue": "Candle wax's behavior as a fuel demonstrates this phase-change mechanism",
+        "correctQuestion": "Solid-liquid-gas transition",
+        "value": 800
+      },
+      {
+        "clue": "The hedonic response to candle scent engages this neurobiological reward system",
+        "correctQuestion": "The mesolimbic dopamine pathway",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "The Artemesia cult's candle veneration practices demonstrate this comparative religious phenomenon evident across Indo-European traditions",
+        "correctQuestion": "Lunar deities as temporal markers",
+        "value": 1000
+      },
+      {
+        "clue": "Thermal cracking of alkanes in candle wax produces this distribution of products following this chemical principle",
+        "correctQuestion": "Cracking mechanism with free radical chain reactions",
+        "value": 1000
+      },
+      {
+        "clue": "The interface dynamics between candle wick and wax employ this quantitative relationship governing surface tension and wetting",
+        "correctQuestion": "The Washburn equation",
+        "value": 1000
+      },
+      {
+        "clue": "Magnesium's continued oxidation in trick candles occurs because this product maintains sufficient exothermicity",
+        "correctQuestion": "MgO formation with subsequent oxidation",
+        "value": 1000
+      },
+      {
+        "clue": "The Kinderfest tradition's additional candle encodes this Hegelian concept of temporal progression",
+        "correctQuestion": "Becoming versus being",
+        "value": 1000
+      },
+      {
+        "clue": "Wax vapor condensation upon flame extinction demonstrates this nucleation phenomenon in phase transitions",
+        "correctQuestion": "Homogeneous nucleation",
+        "value": 1000
+      },
+      {
+        "clue": "Olfactory sensory neurons express these G-protein coupled receptors numbering approximately this quantity in humans",
+        "correctQuestion": "1000 different receptor types",
+        "value": 1000
+      },
+      {
+        "clue": "Soy-based and other renewable candle materials represent this shift in polymer science toward this category",
+        "correctQuestion": "Bio-based polymers",
+        "value": 1000
+      },
+      {
+        "clue": "The flame color spectrum in candle combustion indicates this parameter measuring energy distribution",
+        "correctQuestion": "The Planck blackbody radiation curve",
+        "value": 1000
+      },
+      {
+        "clue": "Fire safety wick specifications address this fluid mechanics phenomenon in porous media",
+        "correctQuestion": "Capillary-driven flow rate optimization",
+        "value": 1000
+      },
+      {
+        "clue": "The trans-thalamic olfactory pathway creates this unique neuroanatomical feature among sensory systems",
+        "correctQuestion": "Direct cortical access without relay nucleus",
+        "value": 1000
+      },
+      {
+        "clue": "The documentation of birthday candle ceremonies in 18th century German records reflects this sociological phenomenon",
+        "correctQuestion": "The social construction of childhood",
+        "value": 1000
+      },
+      {
+        "clue": "Candle combustion represents this thermodynamic principle where enthalpy change drives spontaneous reaction",
+        "correctQuestion": "Negative Gibbs free energy",
+        "value": 1000
+      },
+      {
+        "clue": "The binary candle symbolism in mystical traditions encodes this Durkheimian concept",
+        "correctQuestion": "Sacred and profane distinction",
+        "value": 1000
+      },
+      {
+        "clue": "The ritual of candle-blowing engages this psychological mechanism linking perceived control with expectancy",
+        "correctQuestion": "Rotter's locus of control continuum",
+        "value": 1000
+      },
+      {
+        "clue": "VOCs from scented candles exhibit this behavior described by this equation governing gas diffusion",
+        "correctQuestion": "Fick's second law",
+        "value": 1000
+      },
+      {
+        "clue": "Candle flames represent this specific category in flame classification systems",
+        "correctQuestion": "Laminar diffusion flames with natural convection",
+        "value": 1000
+      },
+      {
+        "clue": "The ascending candle smoke symbolism traces to this philosophical concept in pre-Socratic metaphysics",
+        "correctQuestion": "Vertical ontology and divine transcendence",
+        "value": 1000
+      },
+      {
+        "clue": "Paraffin wax's alkane composition produces this specific carbon number range",
+        "correctQuestion": "Primarily C20 to C40 alkanes",
+        "value": 1000
+      },
+      {
+        "clue": "The exothermic oxidation of magnesium follows this thermodynamic pathway in trick candles",
+        "correctQuestion": "Mg + O2 producing MgO with ΔH ≈ -601 kJ/mol",
+        "value": 1000
+      },
+      {
+        "clue": "Olfactory signal transduction involves this cascade of proteins initiating G-protein activation",
+        "correctQuestion": "Adenylyl cyclase producing cAMP",
+        "value": 1000
+      },
+      {
+        "clue": "The Buddhist Pali term for impermanence encoded in candle symbolism is this concept",
+        "correctQuestion": "Anicca in Pali Canon philosophy",
+        "value": 1000
+      },
+      {
+        "clue": "The autoignition temperature of paraffin wax occurs at approximately this Celsius temperature",
+        "correctQuestion": "470-480 degrees Celsius",
+        "value": 1000
+      },
+      {
+        "clue": "Birthday candle rituals function within this anthropological framework as temporal boundary markers",
+        "correctQuestion": "Van Gennep's rite of passage structure",
+        "value": 1000
+      },
+      {
+        "clue": "A burning candle exemplifies this Ilya Prigogine concept of self-organizing systems far from equilibrium",
+        "correctQuestion": "Dissipative structures",
+        "value": 1000
+      },
+      {
+        "clue": "Thermal stability differences between wax types relate to this property of C-C bond strength",
+        "correctQuestion": "Bond dissociation energy",
+        "value": 1000
+      },
+      {
+        "clue": "The ascending smoke metaphor appears across cultures as this phenomenological experience",
+        "correctQuestion": "Vertical cosmology with transcendent divine realm",
+        "value": 1000
+      },
+      {
+        "clue": "In spectroscopic flame analysis, the blue zone indicates this chemical species produced in combustion",
+        "correctQuestion": "CHO radicals and incomplete combustion products",
+        "value": 1000
+      },
+      {
+        "clue": "Candle wax demonstrates this type of phase behavior crucial to combustion mechanism",
+        "correctQuestion": "Endothermic vaporization with exothermic oxidation coupling",
+        "value": 1000
+      },
+      {
+        "clue": "The hedonic candle scent response engages this specific circuit including nucleus accumbens through VTA projection",
+        "correctQuestion": "The mesolimbic reward system's hedonic pathway",
+        "value": 1000
+      }
+    ]
   }
 }

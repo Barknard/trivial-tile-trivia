@@ -1,796 +1,807 @@
 {
   "category": "Beach Sand Crabs & Beach Creatures",
-  "description": "Family-friendly questions about sand crabs, coastal creatures, beaches, and finding critters",
-  "regular_clues": [
-    {
-      "points": 200,
-      "clue": "These burrowing creatures use their antennae to filter food from the sand",
-      "answer": "What are sand crabs?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs are typically found in the wet sand between the water and the dry beach",
-      "answer": "What is the swash zone?"
-    },
-    {
-      "points": 200,
-      "clue": "Baby sand crabs are called this",
-      "answer": "What are zoea?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs use their curved legs to dig backwards into the sand",
-      "answer": "What is burrowing?"
-    },
-    {
-      "points": 200,
-      "clue": "This crustacean has a hard shell on the outside and a soft body inside",
-      "answer": "What is an exoskeleton?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs are about this long - similar to a grain of rice or your pinky nail",
-      "answer": "What is 1-2 inches long?"
-    },
-    {
-      "points": 200,
-      "clue": "You can find sand crabs by digging in the sand near the waves after spotting these tiny holes",
-      "answer": "What are small holes or burrows?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs filter their food through these special appendages",
-      "answer": "What are antennae?"
-    },
-    {
-      "points": 200,
-      "clue": "This is what sand crabs eat - tiny bits of organic material in the water",
-      "answer": "What is plankton?"
-    },
-    {
-      "points": 200,
-      "clue": "Sandy beaches are the preferred home of sand crabs because they live in these areas",
-      "answer": "What is the intertidal zone?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs come out of their burrows during this time when waves wash over them",
-      "answer": "What is high tide?"
-    },
-    {
-      "points": 200,
-      "clue": "The best time to find sand crabs is when you spot this frothy mixture on the beach",
-      "answer": "What is sea foam or foam line?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs belong to this group of animals with jointed legs and shells",
-      "answer": "What are crustaceans?"
-    },
-    {
-      "points": 200,
-      "clue": "You can use this tool with small holes to scoop up sand and find crabs",
-      "answer": "What is a strainer or sifter?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs are orange, purple, or this color when you first dig them up",
-      "answer": "What is pink or brown?"
-    },
-    {
-      "points": 200,
-      "clue": "Always return sand crabs to the ocean after observing them because they need to stay in this",
-      "answer": "What is their natural habitat?"
-    },
-    {
-      "points": 200,
-      "clue": "These tiny fish use sand crabs as food in the ocean",
-      "answer": "What are sandpipers or other seabirds?"
-    },
-    {
-      "points": 200,
-      "clue": "The relationship where birds hunt sand crabs is called this",
-      "answer": "What is predation?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs have many of these paired body parts used for walking",
-      "answer": "What are legs?"
-    },
-    {
-      "points": 200,
-      "clue": "This ocean creature has five pairs of walking legs",
-      "answer": "What is a crab?"
-    },
-    {
-      "points": 200,
-      "clue": "Beach hunting for small creatures and critters is called this",
-      "answer": "What is beachcombing?"
-    },
-    {
-      "points": 200,
-      "clue": "This shell-bearing creature often lives near sand crabs in the intertidal zone",
-      "answer": "What are clams or mussels?"
-    },
-    {
-      "points": 200,
-      "clue": "The sandy areas of a beach are created by this process over thousands of years",
-      "answer": "What is erosion?"
-    },
-    {
-      "points": 200,
-      "clue": "You should wash your hands with this after handling sand crabs and beach creatures",
-      "answer": "What is soap and water?"
-    },
-    {
-      "points": 200,
-      "clue": "Always observe sand crabs gently and return them within this timeframe",
-      "answer": "What is a few minutes?"
-    },
-    {
-      "points": 200,
-      "clue": "This layer of sand stays wet and is the favorite home of sand crabs",
-      "answer": "What is the moist sand or damp sand?"
-    },
-    {
-      "points": 200,
-      "clue": "Crabs use their claws for this and defense",
-      "answer": "What is holding food and pinching?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs move backwards through the sand using a motion called this",
-      "answer": "What is backward locomotion?"
-    },
-    {
-      "points": 200,
-      "clue": "This type of beach has the biggest population of sand crabs",
-      "answer": "What is a sandy beach?"
-    },
-    {
-      "points": 200,
-      "clue": "Sand crabs are nocturnal, meaning they are most active during this time",
-      "answer": "What is at night?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs belong to the genus Emerita, which contains about this many species worldwide",
-      "answer": "What is 5 or 6 species?"
-    },
-    {
-      "points": 400,
-      "clue": "The scientific name for the common Pacific sand crab is this",
-      "answer": "What is Emerita analoga?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs can survive out of water for approximately this many minutes if kept moist",
-      "answer": "What is 30 minutes?"
-    },
-    {
-      "points": 400,
-      "clue": "This feeding method used by sand crabs filters tiny organisms directly from the water",
-      "answer": "What is suspension feeding or filter feeding?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs lay thousands of these each breeding season",
-      "answer": "What are eggs?"
-    },
-    {
-      "points": 400,
-      "clue": "The larvae of sand crabs drift in the ocean as part of this community of organisms",
-      "answer": "What is the plankton?"
-    },
-    {
-      "points": 400,
-      "clue": "Sandy beaches provide an excellent habitat because sand is this texture and composition",
-      "answer": "What is loose and granular?"
-    },
-    {
-      "points": 400,
-      "clue": "Sandpipers hunt sand crabs by using this sense to locate their prey",
-      "answer": "What is sight?"
-    },
-    {
-      "points": 400,
-      "clue": "The term for animals that live in the sand and sediment of the ocean floor is this",
-      "answer": "What is benthic or infaunal?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs move deeper into the sand during this tidal period to stay moist",
-      "answer": "What is low tide?"
-    },
-    {
-      "points": 400,
-      "clue": "The lifespan of a sand crab in the wild is approximately this many years",
-      "answer": "What is 2-3 years?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs can be identified by their elongated body and this distinctive feature",
-      "answer": "What are long antennae?"
-    },
-    {
-      "points": 400,
-      "clue": "This fishing bait is often collected from beaches because sand crabs are food for fish",
-      "answer": "What are sand crabs themselves or sand fleas?"
-    },
-    {
-      "points": 400,
-      "clue": "The term for the edge of the ocean where waves meet the shore is called this",
-      "answer": "What is the shoreline or breaker zone?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs experience this pressure change as waves wash over their burrows",
-      "answer": "What is water pressure?"
-    },
-    {
-      "points": 400,
-      "clue": "When digging for sand crabs, you should search in patterns using this tool method",
-      "answer": "What is grid searching with a shovel or scoop?"
-    },
-    {
-      "points": 400,
-      "clue": "Observing sand crabs teaches children about this type of living community",
-      "answer": "What is an ecosystem?"
-    },
-    {
-      "points": 400,
-      "clue": "These birds are the primary predators of sand crabs on the beach",
-      "answer": "What are sandpipers or plovers?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs are considered this type of resource for fishing and observation",
-      "answer": "What is a natural or renewable resource?"
-    },
-    {
-      "points": 400,
-      "clue": "The Pacific sand crab is found along the coast from this region to South America",
-      "answer": "What is Canada or the West Coast?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs adapt to the beach environment by developing this special body shape",
-      "answer": "What is a streamlined or flattened shape?"
-    },
-    {
-      "points": 400,
-      "clue": "The relationship between sandpipers and sand crabs is an example of this",
-      "answer": "What is a food chain or predator-prey relationship?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs help the beach ecosystem by consuming tiny particles and this",
-      "answer": "What is dead organic matter or detritus?"
-    },
-    {
-      "points": 400,
-      "clue": "When you find sand crabs, you are discovering part of the beach's this community",
-      "answer": "What is biodiversity?"
-    },
-    {
-      "points": 400,
-      "clue": "Sand crabs must stay in environments where sand and water mix, avoiding this condition",
-      "answer": "What is desiccation or drying out?"
-    },
-    {
-      "points": 400,
-      "clue": "The study of animals and organisms that live in sand is called this",
-      "answer": "What is psammobiology?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs practice this feeding strategy, rotating their antennae like a net",
-      "answer": "What is antennae rotation or active filter feeding?"
-    },
-    {
-      "points": 600,
-      "clue": "The tolerance of sand crabs for changes in salt levels shows this type of adaptation",
-      "answer": "What is osmoregulation?"
-    },
-    {
-      "points": 600,
-      "clue": "Emerita crabs are found on beaches worldwide and represent this type of geographic distribution",
-      "answer": "What is cosmopolitan distribution?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs undergo this process where they shed their outer shell to grow",
-      "answer": "What is molting or ecdysis?"
-    },
-    {
-      "points": 600,
-      "clue": "The speed at which sand crabs can burrow into sand is measured at approximately this",
-      "answer": "What is 1 meter per second?"
-    },
-    {
-      "points": 600,
-      "clue": "This adaptation allows sand crabs to sense vibrations in water and sand",
-      "answer": "What are mechanoreceptors?"
-    },
-    {
-      "points": 600,
-      "clue": "The term for the measurement of the movement of water in and out of an organism",
-      "answer": "What is hydrodynamic exchange?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs are indicator species for this type of beach health assessment",
-      "answer": "What is environmental or ecological health?"
-    },
-    {
-      "points": 600,
-      "clue": "The specialized claws on male sand crabs are used primarily for this behavior",
-      "answer": "What is mating or grasping females?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs form these temporary groupings during breeding season",
-      "answer": "What are swarms or aggregations?"
-    },
-    {
-      "points": 600,
-      "clue": "The anterior end of a sand crab's body contains these sensory organs",
-      "answer": "What are antennae and compound eyes?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs experience this type of stress in areas with heavy human foot traffic",
-      "answer": "What is physical disturbance or habitat disruption?"
-    },
-    {
-      "points": 600,
-      "clue": "This wave pattern helps determine the best time to find active sand crabs",
-      "answer": "What is the surf zone dynamics?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs are part of this ecological guild of filter feeders",
-      "answer": "What are benthic filter feeders?"
-    },
-    {
-      "points": 600,
-      "clue": "The coloration of sand crabs provides this type of advantage in their habitat",
-      "answer": "What is camouflage or cryptic coloration?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs have been observed to move this distance in their lifetime",
-      "answer": "What is short distances or remaining in small areas?"
-    },
-    {
-      "points": 600,
-      "clue": "This percentage of sand crabs are female in most natural populations",
-      "answer": "What is approximately 50 percent?"
-    },
-    {
-      "points": 600,
-      "clue": "Beach erosion and accretion cycles affect sand crab populations by changing this",
-      "answer": "What is habitat availability?"
-    },
-    {
-      "points": 600,
-      "clue": "The larvae of sand crabs develop through this many planktonic stages",
-      "answer": "What is multiple stages or several months?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs can detect this type of signal from other crabs in the sand",
-      "answer": "What are chemical signals or pheromones?"
-    },
-    {
-      "points": 600,
-      "clue": "The smallest sand crabs found on beaches are roughly this size",
-      "answer": "What is a few millimeters or grain of sand sized?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs are subject to this type of predation from fish in the water column",
-      "answer": "What is predation by fish?"
-    },
-    {
-      "points": 600,
-      "clue": "The relationship between sand and water movement is critical for this reason",
-      "answer": "What is providing oxygen and nutrients?"
-    },
-    {
-      "points": 600,
-      "clue": "Sand crabs are harvested for this purpose in some regions of the world",
-      "answer": "What is scientific research or educational purposes?"
-    },
-    {
-      "points": 600,
-      "clue": "This monitoring technique is used to track sand crab population health",
-      "answer": "What is biometric sampling or quadrat analysis?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs demonstrate this type of behavior when they position themselves in the swash zone",
-      "answer": "What is tidal following or vertical migration?"
-    },
-    {
-      "points": 800,
-      "clue": "The carapace of a sand crab is covered with this type of sensory structure",
-      "answer": "What are setae or sensory hairs?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs employ this antennae configuration during maximum filtering activity",
-      "answer": "What is fan-like or spread position?"
-    },
-    {
-      "points": 800,
-      "clue": "This metabolic adaptation allows sand crabs to survive extended periods without food",
-      "answer": "What is reduced metabolic rate or torpor?"
-    },
-    {
-      "points": 800,
-      "clue": "The planktonic dispersal phase of sand crabs is influenced by this current system",
-      "answer": "What are ocean currents or coastal currents?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs regulate this ion in their hemolymph to maintain osmotic balance",
-      "answer": "What is sodium chloride or salt?"
-    },
-    {
-      "points": 800,
-      "clue": "This anatomical feature on male sand crabs distinguishes them from females",
-      "answer": "What are enlarged cheliped claws?"
-    },
-    {
-      "points": 800,
-      "clue": "The preferred particle size for sand crab habitat is typically this range in millimeters",
-      "answer": "What is 0.125 to 0.5 millimeters?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs experience this phenomenon when trapped in compacted sand",
-      "answer": "What is burial stress or anoxia?"
-    },
-    {
-      "points": 800,
-      "clue": "The recruitment of juvenile sand crabs is synchronized with this environmental cycle",
-      "answer": "What is lunar cycles or tidal cycles?"
-    },
-    {
-      "points": 800,
-      "clue": "This measurement indicates the optimal water temperature for sand crab activity",
-      "answer": "What is 15-25 degrees Celsius?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs exhibit this type of aggregation behavior during settlement from the planktonic phase",
-      "answer": "What is gregarious settlement?"
-    },
-    {
-      "points": 800,
-      "clue": "The respiratory efficiency of sand crabs is enhanced by this water movement mechanism",
-      "answer": "What is wave-induced water circulation?"
-    },
-    {
-      "points": 800,
-      "clue": "Beach nourishment projects affect sand crabs by altering this property of the substrate",
-      "answer": "What is grain size distribution?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs demonstrate this type of chemoreceptive ability when locating mates",
-      "answer": "What is chemotaxis or chemical detection?"
-    },
-    {
-      "points": 800,
-      "clue": "The antennule of a sand crab is primarily used for this sensory function",
-      "answer": "What is chemoreception or taste?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs are exposed to this type of contamination in urban beach areas",
-      "answer": "What is sewage or pollutants?"
-    },
-    {
-      "points": 800,
-      "clue": "This feeding apparatus of sand crabs is derived from modified walking legs",
-      "answer": "What are maxillipeds or thoracic appendages?"
-    },
-    {
-      "points": 800,
-      "clue": "The glycerol content in sand crab hemolymph serves this function during stress",
-      "answer": "What is cryoprotection or osmotic regulation?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs utilize this mechanism to orient themselves within the sand matrix",
-      "answer": "What is thigmotaxis or touch-based orientation?"
-    },
-    {
-      "points": 800,
-      "clue": "The duration of the planktonic stage for sand crabs is approximately this long",
-      "answer": "What is 2-4 weeks?"
-    },
-    {
-      "points": 800,
-      "clue": "Beach sediment composition affects sand crab distribution through this mechanism",
-      "answer": "What is differential burrowing ability?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs are susceptible to this parasitic infection in crowded populations",
-      "answer": "What are copepod parasites or isopod parasites?"
-    },
-    {
-      "points": 800,
-      "clue": "This feeding rate adjustment occurs when sand crabs detect low food availability",
-      "answer": "What is increased antenna sweep rate?"
-    },
-    {
-      "points": 800,
-      "clue": "The cardiac output of sand crabs increases in response to this environmental stress",
-      "answer": "What is hypoxia or low oxygen?"
-    },
-    {
-      "points": 800,
-      "clue": "Sand crabs can detect vibrations at this frequency range through the sand",
-      "answer": "What is 1-50 Hertz?"
-    },
-    {
-      "points": 1000,
-      "clue": "The nomenclatural history of Emerita genus reflects this geographic origin of first description",
-      "answer": "What is South American taxonomy?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs demonstrate this type of settlement behavior influenced by conspecific cues",
-      "answer": "What is conspecific attraction or recruitment facilitation?"
-    },
-    {
-      "points": 1000,
-      "clue": "This protein in sand crab hemolymph functions in immune defense and clotting",
-      "answer": "What is hemocyanin or clotting proteins?"
-    },
-    {
-      "points": 1000,
-      "clue": "The reproductive strategy of sand crabs is classified as this type of breeding system",
-      "answer": "What is broadcast spawning or gonochorism?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs exhibit this pattern of genetic diversity across geographic populations",
-      "answer": "What is high genetic differentiation or population structure?"
-    },
-    {
-      "points": 1000,
-      "clue": "This ecological role of sand crabs links primary production to higher trophic levels",
-      "answer": "What is intermediate consumer or trophic link?"
-    },
-    {
-      "points": 1000,
-      "clue": "The larval development of sand crabs involves metamorphosis to this body form",
-      "answer": "What is juvenile or post-larval form?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs are affected by this anthropogenic stressor related to wave energy modification",
-      "answer": "What is coastal structures or seawalls?"
-    },
-    {
-      "points": 1000,
-      "clue": "This photosensitivity mechanism allows sand crabs to detect burial and escape",
-      "answer": "What is negative phototaxis?"
-    },
-    {
-      "points": 1000,
-      "clue": "The spatial heterogeneity of sand crab populations reflects this type of pattern",
-      "answer": "What is patchy distribution or aggregated distribution?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs regulate this osmolyte in response to salinity fluctuations",
-      "answer": "What is amino acids or free amino acids?"
-    },
-    {
-      "points": 1000,
-      "clue": "This evolutionary adaptation allows sand crabs to survive beach environments",
-      "answer": "What is specialized morphology and physiology?"
-    },
-    {
-      "points": 1000,
-      "clue": "The energy budget of sand crabs allocates resources to this primary life function",
-      "answer": "What is growth and reproduction?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs demonstrate this type of thermal tolerance across temperature gradients",
-      "answer": "What is eurythermy or thermal plasticity?"
-    },
-    {
-      "points": 1000,
-      "clue": "This trophic interaction characterizes the relationship between sand crabs and fish larvae",
-      "answer": "What is predation or consumption?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs are bioaccumulators of this type of chemical pollutant",
-      "answer": "What are heavy metals or persistent organic pollutants?"
-    },
-    {
-      "points": 1000,
-      "clue": "The demographic structure of sand crab populations shows this age distribution pattern",
-      "answer": "What is overlapping generations?"
-    },
-    {
-      "points": 1000,
-      "clue": "This mechanical behavior prevents sand crabs from being swept away by strong waves",
-      "answer": "What is anchoring or burrowing deeper?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs are considered this type of keystone species in beach ecosystems",
-      "answer": "What is a mesopredator or intermediate trophic level species?"
-    },
-    {
-      "points": 1000,
-      "clue": "The genetic markers used to study sand crab populations are typically these types",
-      "answer": "What are microsatellites or SNPs?"
-    },
-    {
-      "points": 1000,
-      "clue": "This functional trait of sand crabs allows them to dominate filtering guilds",
-      "answer": "What is size-selective suspension feeding?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs show this response to elevated CO2 and ocean acidification",
-      "answer": "What is shell dissolution or weakened calcification?"
-    },
-    {
-      "points": 1000,
-      "clue": "This conservation concern affects sand crab populations in developed coastal areas",
-      "answer": "What is habitat loss or beach modification?"
-    },
-    {
-      "points": 1000,
-      "clue": "The information ecology of sand crabs involves transmission of this type of signal",
-      "answer": "What are chemical or mechanical signals?"
-    },
-    {
-      "points": 1000,
-      "clue": "Sand crabs exhibit this type of life history characteristic typical of colonizing species",
-      "answer": "What is rapid growth and early maturation?"
-    },
-    {
-      "points": 1200,
-      "clue": "The synapomorphies that define the Emeritidae family include this anatomical character",
-      "answer": "What is modified antennae for filter feeding?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs demonstrate this pattern of recruitment variance related to ENSO cycles",
-      "answer": "What is interannual variability in settlement success?"
-    },
-    {
-      "points": 1200,
-      "clue": "This phylogeographic pattern in sand crabs reflects historical range expansion events",
-      "answer": "What is post-glacial colonization or stepping-stone colonization?"
-    },
-    {
-      "points": 1200,
-      "clue": "The molecular mechanisms of settlement cue detection in sand crabs involve these receptors",
-      "answer": "What are chemoreceptor proteins or metabotropic receptors?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs show this type of physiological acclimation to chronic hypoxia",
-      "answer": "What is increased ventilation or metabolic compensation?"
-    },
-    {
-      "points": 1200,
-      "clue": "This ecological assembly process determines sand crab community composition",
-      "answer": "What is environmental filtering or competitive exclusion?"
-    },
-    {
-      "points": 1200,
-      "clue": "The heritability of sand crab settlement behavior demonstrates this evolutionary principle",
-      "answer": "What is adaptive significance of behavioral traits?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs are affected by this phenological mismatch with their food sources",
-      "answer": "What is asynchrony in plankton blooms and larval timing?"
-    },
-    {
-      "points": 1200,
-      "clue": "This isotopic signature in sand crabs indicates their primary food source",
-      "answer": "What is carbon and nitrogen stable isotope ratios?"
-    },
-    {
-      "points": 1200,
-      "clue": "The ecosystem service provided by sand crabs includes this nutrient cycling function",
-      "answer": "What is remineralization or detrital processing?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs demonstrate this type of transgenerational plasticity in response to stress",
-      "answer": "What is epigenetic inheritance or maternal effects?"
-    },
-    {
-      "points": 1200,
-      "clue": "This anthropogenic stressor induces pathological changes in sand crab immune cells",
-      "answer": "What is disease or infection susceptibility?"
-    },
-    {
-      "points": 1200,
-      "clue": "The cryptic speciation within Emerita genus may be revealed through this analysis",
-      "answer": "What is DNA barcoding or molecular systematics?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs exhibit this pattern in their sensory evolution related to beam trawling impacts",
-      "answer": "What is altered mechanoreceptor sensitivity?"
-    },
-    {
-      "points": 1200,
-      "clue": "This source attribution method tracks sand crab pollution exposure history",
-      "answer": "What is chemical fingerprinting or toxicokinetic modeling?"
-    },
-    {
-      "points": 1200,
-      "clue": "The metapopulation dynamics of sand crabs are modeled using this mathematical framework",
-      "answer": "What is source-sink models or spatially explicit population models?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs show this type of behavioral response to predator chemical cues",
-      "answer": "What is antipredator behavior or defense response?"
-    },
-    {
-      "points": 1200,
-      "clue": "This trophic cascade effect occurs when sand crab populations decline in abundance",
-      "answer": "What is increased zooplankton or altered benthic structure?"
-    },
-    {
-      "points": 1200,
-      "clue": "The allometric growth relationships in sand crabs follow this mathematical model",
-      "answer": "What is power law or allometric scaling equation?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs are used as sentinel organisms for this type of environmental assessment",
-      "answer": "What is biological monitoring or bioassessment?"
-    },
-    {
-      "points": 1200,
-      "clue": "This phenotypic plasticity in sand crabs allows adaptation to variable beach conditions",
-      "answer": "What is morphological or developmental plasticity?"
-    },
-    {
-      "points": 1200,
-      "clue": "The functional redundancy of sand crabs in filter-feeding guilds impacts ecosystem stability through this mechanism",
-      "answer": "What is resistance stability or resistance to disturbance?"
-    },
-    {
-      "points": 1200,
-      "clue": "Sand crabs demonstrate this type of collective behavior in response to predation risk",
-      "answer": "What is synchronized burrowing or group defense?"
-    },
-    {
-      "points": 1200,
-      "clue": "This community assembly rule explains sand crab coexistence with other benthic organisms",
-      "answer": "What is niche partitioning or resource heterogeneity?"
-    },
-    {
-      "points": 1200,
-      "clue": "The ontogenetic niche shift in sand crabs involves this transition in habitat preference",
-      "answer": "What is movement from deeper to shallow water?"
-    },
-    {
-      "points": 1200,
-      "clue": "This evolutionary game theory model predicts sand crab settlement decisions",
-      "answer": "What is ideal free distribution or producer-scrounger dynamics?"
-    }
-  ]
+  "theme": "beach",
+  "category_id": "beach_sand_crabs",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "These burrowing creatures use their antennae to filter food from the sand",
+        "correctQuestion": "What are sand crabs?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs are typically found in the wet sand between the water and the dry beach",
+        "correctQuestion": "What is the swash zone?",
+        "value": 200
+      },
+      {
+        "clue": "Baby sand crabs are called this",
+        "correctQuestion": "What are zoea?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs use their curved legs to dig backwards into the sand",
+        "correctQuestion": "What is burrowing?",
+        "value": 200
+      },
+      {
+        "clue": "This crustacean has a hard shell on the outside and a soft body inside",
+        "correctQuestion": "What is an exoskeleton?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs are about this long - similar to a grain of rice or your pinky nail",
+        "correctQuestion": "What is 1-2 inches long?",
+        "value": 200
+      },
+      {
+        "clue": "You can find sand crabs by digging in the sand near the waves after spotting these tiny holes",
+        "correctQuestion": "What are small holes or burrows?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs filter their food through these special appendages",
+        "correctQuestion": "What are antennae?",
+        "value": 200
+      },
+      {
+        "clue": "This is what sand crabs eat - tiny bits of organic material in the water",
+        "correctQuestion": "What is plankton?",
+        "value": 200
+      },
+      {
+        "clue": "Sandy beaches are the preferred home of sand crabs because they live in these areas",
+        "correctQuestion": "What is the intertidal zone?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs come out of their burrows during this time when waves wash over them",
+        "correctQuestion": "What is high tide?",
+        "value": 200
+      },
+      {
+        "clue": "The best time to find sand crabs is when you spot this frothy mixture on the beach",
+        "correctQuestion": "What is sea foam or foam line?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs belong to this group of animals with jointed legs and shells",
+        "correctQuestion": "What are crustaceans?",
+        "value": 200
+      },
+      {
+        "clue": "You can use this tool with small holes to scoop up sand and find crabs",
+        "correctQuestion": "What is a strainer or sifter?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs are orange, purple, or this color when you first dig them up",
+        "correctQuestion": "What is pink or brown?",
+        "value": 200
+      },
+      {
+        "clue": "Always return sand crabs to the ocean after observing them because they need to stay in this",
+        "correctQuestion": "What is their natural habitat?",
+        "value": 200
+      },
+      {
+        "clue": "These tiny fish use sand crabs as food in the ocean",
+        "correctQuestion": "What are sandpipers or other seabirds?",
+        "value": 200
+      },
+      {
+        "clue": "The relationship where birds hunt sand crabs is called this",
+        "correctQuestion": "What is predation?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs have many of these paired body parts used for walking",
+        "correctQuestion": "What are legs?",
+        "value": 200
+      },
+      {
+        "clue": "This ocean creature has five pairs of walking legs",
+        "correctQuestion": "What is a crab?",
+        "value": 200
+      },
+      {
+        "clue": "Beach hunting for small creatures and critters is called this",
+        "correctQuestion": "What is beachcombing?",
+        "value": 200
+      },
+      {
+        "clue": "This shell-bearing creature often lives near sand crabs in the intertidal zone",
+        "correctQuestion": "What are clams or mussels?",
+        "value": 200
+      },
+      {
+        "clue": "The sandy areas of a beach are created by this process over thousands of years",
+        "correctQuestion": "What is erosion?",
+        "value": 200
+      },
+      {
+        "clue": "You should wash your hands with this after handling sand crabs and beach creatures",
+        "correctQuestion": "What is soap and water?",
+        "value": 200
+      },
+      {
+        "clue": "Always observe sand crabs gently and return them within this timeframe",
+        "correctQuestion": "What is a few minutes?",
+        "value": 200
+      },
+      {
+        "clue": "This layer of sand stays wet and is the favorite home of sand crabs",
+        "correctQuestion": "What is the moist sand or damp sand?",
+        "value": 200
+      },
+      {
+        "clue": "Crabs use their claws for this and defense",
+        "correctQuestion": "What is holding food and pinching?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs move backwards through the sand using a motion called this",
+        "correctQuestion": "What is backward locomotion?",
+        "value": 200
+      },
+      {
+        "clue": "This type of beach has the biggest population of sand crabs",
+        "correctQuestion": "What is a sandy beach?",
+        "value": 200
+      },
+      {
+        "clue": "Sand crabs are nocturnal, meaning they are most active during this time",
+        "correctQuestion": "What is at night?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Sand crabs belong to the genus Emerita, which contains about this many species worldwide",
+        "correctQuestion": "What is 5 or 6 species?",
+        "value": 400
+      },
+      {
+        "clue": "The scientific name for the common Pacific sand crab is this",
+        "correctQuestion": "What is Emerita analoga?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs can survive out of water for approximately this many minutes if kept moist",
+        "correctQuestion": "What is 30 minutes?",
+        "value": 400
+      },
+      {
+        "clue": "This feeding method used by sand crabs filters tiny organisms directly from the water",
+        "correctQuestion": "What is suspension feeding or filter feeding?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs lay thousands of these each breeding season",
+        "correctQuestion": "What are eggs?",
+        "value": 400
+      },
+      {
+        "clue": "The larvae of sand crabs drift in the ocean as part of this community of organisms",
+        "correctQuestion": "What is the plankton?",
+        "value": 400
+      },
+      {
+        "clue": "Sandy beaches provide an excellent habitat because sand is this texture and composition",
+        "correctQuestion": "What is loose and granular?",
+        "value": 400
+      },
+      {
+        "clue": "Sandpipers hunt sand crabs by using this sense to locate their prey",
+        "correctQuestion": "What is sight?",
+        "value": 400
+      },
+      {
+        "clue": "The term for animals that live in the sand and sediment of the ocean floor is this",
+        "correctQuestion": "What is benthic or infaunal?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs move deeper into the sand during this tidal period to stay moist",
+        "correctQuestion": "What is low tide?",
+        "value": 400
+      },
+      {
+        "clue": "The lifespan of a sand crab in the wild is approximately this many years",
+        "correctQuestion": "What is 2-3 years?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs can be identified by their elongated body and this distinctive feature",
+        "correctQuestion": "What are long antennae?",
+        "value": 400
+      },
+      {
+        "clue": "This fishing bait is often collected from beaches because sand crabs are food for fish",
+        "correctQuestion": "What are sand crabs themselves or sand fleas?",
+        "value": 400
+      },
+      {
+        "clue": "The term for the edge of the ocean where waves meet the shore is called this",
+        "correctQuestion": "What is the shoreline or breaker zone?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs experience this pressure change as waves wash over their burrows",
+        "correctQuestion": "What is water pressure?",
+        "value": 400
+      },
+      {
+        "clue": "When digging for sand crabs, you should search in patterns using this tool method",
+        "correctQuestion": "What is grid searching with a shovel or scoop?",
+        "value": 400
+      },
+      {
+        "clue": "Observing sand crabs teaches children about this type of living community",
+        "correctQuestion": "What is an ecosystem?",
+        "value": 400
+      },
+      {
+        "clue": "These birds are the primary predators of sand crabs on the beach",
+        "correctQuestion": "What are sandpipers or plovers?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs are considered this type of resource for fishing and observation",
+        "correctQuestion": "What is a natural or renewable resource?",
+        "value": 400
+      },
+      {
+        "clue": "The Pacific sand crab is found along the coast from this region to South America",
+        "correctQuestion": "What is Canada or the West Coast?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs adapt to the beach environment by developing this special body shape",
+        "correctQuestion": "What is a streamlined or flattened shape?",
+        "value": 400
+      },
+      {
+        "clue": "The relationship between sandpipers and sand crabs is an example of this",
+        "correctQuestion": "What is a food chain or predator-prey relationship?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs help the beach ecosystem by consuming tiny particles and this",
+        "correctQuestion": "What is dead organic matter or detritus?",
+        "value": 400
+      },
+      {
+        "clue": "When you find sand crabs, you are discovering part of the beach's this community",
+        "correctQuestion": "What is biodiversity?",
+        "value": 400
+      },
+      {
+        "clue": "Sand crabs must stay in environments where sand and water mix, avoiding this condition",
+        "correctQuestion": "What is desiccation or drying out?",
+        "value": 400
+      },
+      {
+        "clue": "The study of animals and organisms that live in sand is called this",
+        "correctQuestion": "What is psammobiology?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "Sand crabs practice this feeding strategy, rotating their antennae like a net",
+        "correctQuestion": "What is antennae rotation or active filter feeding?",
+        "value": 600
+      },
+      {
+        "clue": "The tolerance of sand crabs for changes in salt levels shows this type of adaptation",
+        "correctQuestion": "What is osmoregulation?",
+        "value": 600
+      },
+      {
+        "clue": "Emerita crabs are found on beaches worldwide and represent this type of geographic distribution",
+        "correctQuestion": "What is cosmopolitan distribution?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs undergo this process where they shed their outer shell to grow",
+        "correctQuestion": "What is molting or ecdysis?",
+        "value": 600
+      },
+      {
+        "clue": "The speed at which sand crabs can burrow into sand is measured at approximately this",
+        "correctQuestion": "What is 1 meter per second?",
+        "value": 600
+      },
+      {
+        "clue": "This adaptation allows sand crabs to sense vibrations in water and sand",
+        "correctQuestion": "What are mechanoreceptors?",
+        "value": 600
+      },
+      {
+        "clue": "The term for the measurement of the movement of water in and out of an organism",
+        "correctQuestion": "What is hydrodynamic exchange?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs are indicator species for this type of beach health assessment",
+        "correctQuestion": "What is environmental or ecological health?",
+        "value": 600
+      },
+      {
+        "clue": "The specialized claws on male sand crabs are used primarily for this behavior",
+        "correctQuestion": "What is mating or grasping females?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs form these temporary groupings during breeding season",
+        "correctQuestion": "What are swarms or aggregations?",
+        "value": 600
+      },
+      {
+        "clue": "The anterior end of a sand crab's body contains these sensory organs",
+        "correctQuestion": "What are antennae and compound eyes?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs experience this type of stress in areas with heavy human foot traffic",
+        "correctQuestion": "What is physical disturbance or habitat disruption?",
+        "value": 600
+      },
+      {
+        "clue": "This wave pattern helps determine the best time to find active sand crabs",
+        "correctQuestion": "What is the surf zone dynamics?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs are part of this ecological guild of filter feeders",
+        "correctQuestion": "What are benthic filter feeders?",
+        "value": 600
+      },
+      {
+        "clue": "The coloration of sand crabs provides this type of advantage in their habitat",
+        "correctQuestion": "What is camouflage or cryptic coloration?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs have been observed to move this distance in their lifetime",
+        "correctQuestion": "What is short distances or remaining in small areas?",
+        "value": 600
+      },
+      {
+        "clue": "This percentage of sand crabs are female in most natural populations",
+        "correctQuestion": "What is approximately 50 percent?",
+        "value": 600
+      },
+      {
+        "clue": "Beach erosion and accretion cycles affect sand crab populations by changing this",
+        "correctQuestion": "What is habitat availability?",
+        "value": 600
+      },
+      {
+        "clue": "The larvae of sand crabs develop through this many planktonic stages",
+        "correctQuestion": "What is multiple stages or several months?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs can detect this type of signal from other crabs in the sand",
+        "correctQuestion": "What are chemical signals or pheromones?",
+        "value": 600
+      },
+      {
+        "clue": "The smallest sand crabs found on beaches are roughly this size",
+        "correctQuestion": "What is a few millimeters or grain of sand sized?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs are subject to this type of predation from fish in the water column",
+        "correctQuestion": "What is predation by fish?",
+        "value": 600
+      },
+      {
+        "clue": "The relationship between sand and water movement is critical for this reason",
+        "correctQuestion": "What is providing oxygen and nutrients?",
+        "value": 600
+      },
+      {
+        "clue": "Sand crabs are harvested for this purpose in some regions of the world",
+        "correctQuestion": "What is scientific research or educational purposes?",
+        "value": 600
+      },
+      {
+        "clue": "This monitoring technique is used to track sand crab population health",
+        "correctQuestion": "What is biometric sampling or quadrat analysis?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Sand crabs demonstrate this type of behavior when they position themselves in the swash zone",
+        "correctQuestion": "What is tidal following or vertical migration?",
+        "value": 800
+      },
+      {
+        "clue": "The carapace of a sand crab is covered with this type of sensory structure",
+        "correctQuestion": "What are setae or sensory hairs?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs employ this antennae configuration during maximum filtering activity",
+        "correctQuestion": "What is fan-like or spread position?",
+        "value": 800
+      },
+      {
+        "clue": "This metabolic adaptation allows sand crabs to survive extended periods without food",
+        "correctQuestion": "What is reduced metabolic rate or torpor?",
+        "value": 800
+      },
+      {
+        "clue": "The planktonic dispersal phase of sand crabs is influenced by this current system",
+        "correctQuestion": "What are ocean currents or coastal currents?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs regulate this ion in their hemolymph to maintain osmotic balance",
+        "correctQuestion": "What is sodium chloride or salt?",
+        "value": 800
+      },
+      {
+        "clue": "This anatomical feature on male sand crabs distinguishes them from females",
+        "correctQuestion": "What are enlarged cheliped claws?",
+        "value": 800
+      },
+      {
+        "clue": "The preferred particle size for sand crab habitat is typically this range in millimeters",
+        "correctQuestion": "What is 0.125 to 0.5 millimeters?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs experience this phenomenon when trapped in compacted sand",
+        "correctQuestion": "What is burial stress or anoxia?",
+        "value": 800
+      },
+      {
+        "clue": "The recruitment of juvenile sand crabs is synchronized with this environmental cycle",
+        "correctQuestion": "What is lunar cycles or tidal cycles?",
+        "value": 800
+      },
+      {
+        "clue": "This measurement indicates the optimal water temperature for sand crab activity",
+        "correctQuestion": "What is 15-25 degrees Celsius?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs exhibit this type of aggregation behavior during settlement from the planktonic phase",
+        "correctQuestion": "What is gregarious settlement?",
+        "value": 800
+      },
+      {
+        "clue": "The respiratory efficiency of sand crabs is enhanced by this water movement mechanism",
+        "correctQuestion": "What is wave-induced water circulation?",
+        "value": 800
+      },
+      {
+        "clue": "Beach nourishment projects affect sand crabs by altering this property of the substrate",
+        "correctQuestion": "What is grain size distribution?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs demonstrate this type of chemoreceptive ability when locating mates",
+        "correctQuestion": "What is chemotaxis or chemical detection?",
+        "value": 800
+      },
+      {
+        "clue": "The antennule of a sand crab is primarily used for this sensory function",
+        "correctQuestion": "What is chemoreception or taste?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs are exposed to this type of contamination in urban beach areas",
+        "correctQuestion": "What is sewage or pollutants?",
+        "value": 800
+      },
+      {
+        "clue": "This feeding apparatus of sand crabs is derived from modified walking legs",
+        "correctQuestion": "What are maxillipeds or thoracic appendages?",
+        "value": 800
+      },
+      {
+        "clue": "The glycerol content in sand crab hemolymph serves this function during stress",
+        "correctQuestion": "What is cryoprotection or osmotic regulation?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs utilize this mechanism to orient themselves within the sand matrix",
+        "correctQuestion": "What is thigmotaxis or touch-based orientation?",
+        "value": 800
+      },
+      {
+        "clue": "The duration of the planktonic stage for sand crabs is approximately this long",
+        "correctQuestion": "What is 2-4 weeks?",
+        "value": 800
+      },
+      {
+        "clue": "Beach sediment composition affects sand crab distribution through this mechanism",
+        "correctQuestion": "What is differential burrowing ability?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs are susceptible to this parasitic infection in crowded populations",
+        "correctQuestion": "What are copepod parasites or isopod parasites?",
+        "value": 800
+      },
+      {
+        "clue": "This feeding rate adjustment occurs when sand crabs detect low food availability",
+        "correctQuestion": "What is increased antenna sweep rate?",
+        "value": 800
+      },
+      {
+        "clue": "The cardiac output of sand crabs increases in response to this environmental stress",
+        "correctQuestion": "What is hypoxia or low oxygen?",
+        "value": 800
+      },
+      {
+        "clue": "Sand crabs can detect vibrations at this frequency range through the sand",
+        "correctQuestion": "What is 1-50 Hertz?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "The nomenclatural history of Emerita genus reflects this geographic origin of first description",
+        "correctQuestion": "What is South American taxonomy?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs demonstrate this type of settlement behavior influenced by conspecific cues",
+        "correctQuestion": "What is conspecific attraction or recruitment facilitation?",
+        "value": 1000
+      },
+      {
+        "clue": "This protein in sand crab hemolymph functions in immune defense and clotting",
+        "correctQuestion": "What is hemocyanin or clotting proteins?",
+        "value": 1000
+      },
+      {
+        "clue": "The reproductive strategy of sand crabs is classified as this type of breeding system",
+        "correctQuestion": "What is broadcast spawning or gonochorism?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs exhibit this pattern of genetic diversity across geographic populations",
+        "correctQuestion": "What is high genetic differentiation or population structure?",
+        "value": 1000
+      },
+      {
+        "clue": "This ecological role of sand crabs links primary production to higher trophic levels",
+        "correctQuestion": "What is intermediate consumer or trophic link?",
+        "value": 1000
+      },
+      {
+        "clue": "The larval development of sand crabs involves metamorphosis to this body form",
+        "correctQuestion": "What is juvenile or post-larval form?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs are affected by this anthropogenic stressor related to wave energy modification",
+        "correctQuestion": "What is coastal structures or seawalls?",
+        "value": 1000
+      },
+      {
+        "clue": "This photosensitivity mechanism allows sand crabs to detect burial and escape",
+        "correctQuestion": "What is negative phototaxis?",
+        "value": 1000
+      },
+      {
+        "clue": "The spatial heterogeneity of sand crab populations reflects this type of pattern",
+        "correctQuestion": "What is patchy distribution or aggregated distribution?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs regulate this osmolyte in response to salinity fluctuations",
+        "correctQuestion": "What is amino acids or free amino acids?",
+        "value": 1000
+      },
+      {
+        "clue": "This evolutionary adaptation allows sand crabs to survive beach environments",
+        "correctQuestion": "What is specialized morphology and physiology?",
+        "value": 1000
+      },
+      {
+        "clue": "The energy budget of sand crabs allocates resources to this primary life function",
+        "correctQuestion": "What is growth and reproduction?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs demonstrate this type of thermal tolerance across temperature gradients",
+        "correctQuestion": "What is eurythermy or thermal plasticity?",
+        "value": 1000
+      },
+      {
+        "clue": "This trophic interaction characterizes the relationship between sand crabs and fish larvae",
+        "correctQuestion": "What is predation or consumption?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs are bioaccumulators of this type of chemical pollutant",
+        "correctQuestion": "What are heavy metals or persistent organic pollutants?",
+        "value": 1000
+      },
+      {
+        "clue": "The demographic structure of sand crab populations shows this age distribution pattern",
+        "correctQuestion": "What is overlapping generations?",
+        "value": 1000
+      },
+      {
+        "clue": "This mechanical behavior prevents sand crabs from being swept away by strong waves",
+        "correctQuestion": "What is anchoring or burrowing deeper?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs are considered this type of keystone species in beach ecosystems",
+        "correctQuestion": "What is a mesopredator or intermediate trophic level species?",
+        "value": 1000
+      },
+      {
+        "clue": "The genetic markers used to study sand crab populations are typically these types",
+        "correctQuestion": "What are microsatellites or SNPs?",
+        "value": 1000
+      },
+      {
+        "clue": "This functional trait of sand crabs allows them to dominate filtering guilds",
+        "correctQuestion": "What is size-selective suspension feeding?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs show this response to elevated CO2 and ocean acidification",
+        "correctQuestion": "What is shell dissolution or weakened calcification?",
+        "value": 1000
+      },
+      {
+        "clue": "This conservation concern affects sand crab populations in developed coastal areas",
+        "correctQuestion": "What is habitat loss or beach modification?",
+        "value": 1000
+      },
+      {
+        "clue": "The information ecology of sand crabs involves transmission of this type of signal",
+        "correctQuestion": "What are chemical or mechanical signals?",
+        "value": 1000
+      },
+      {
+        "clue": "Sand crabs exhibit this type of life history characteristic typical of colonizing species",
+        "correctQuestion": "What is rapid growth and early maturation?",
+        "value": 1000
+      },
+      {
+        "clue": "The synapomorphies that define the Emeritidae family include this anatomical character",
+        "correctQuestion": "What is modified antennae for filter feeding?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs demonstrate this pattern of recruitment variance related to ENSO cycles",
+        "correctQuestion": "What is interannual variability in settlement success?",
+        "value": 1200
+      },
+      {
+        "clue": "This phylogeographic pattern in sand crabs reflects historical range expansion events",
+        "correctQuestion": "What is post-glacial colonization or stepping-stone colonization?",
+        "value": 1200
+      },
+      {
+        "clue": "The molecular mechanisms of settlement cue detection in sand crabs involve these receptors",
+        "correctQuestion": "What are chemoreceptor proteins or metabotropic receptors?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs show this type of physiological acclimation to chronic hypoxia",
+        "correctQuestion": "What is increased ventilation or metabolic compensation?",
+        "value": 1200
+      },
+      {
+        "clue": "This ecological assembly process determines sand crab community composition",
+        "correctQuestion": "What is environmental filtering or competitive exclusion?",
+        "value": 1200
+      },
+      {
+        "clue": "The heritability of sand crab settlement behavior demonstrates this evolutionary principle",
+        "correctQuestion": "What is adaptive significance of behavioral traits?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs are affected by this phenological mismatch with their food sources",
+        "correctQuestion": "What is asynchrony in plankton blooms and larval timing?",
+        "value": 1200
+      },
+      {
+        "clue": "This isotopic signature in sand crabs indicates their primary food source",
+        "correctQuestion": "What is carbon and nitrogen stable isotope ratios?",
+        "value": 1200
+      },
+      {
+        "clue": "The ecosystem service provided by sand crabs includes this nutrient cycling function",
+        "correctQuestion": "What is remineralization or detrital processing?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs demonstrate this type of transgenerational plasticity in response to stress",
+        "correctQuestion": "What is epigenetic inheritance or maternal effects?",
+        "value": 1200
+      },
+      {
+        "clue": "This anthropogenic stressor induces pathological changes in sand crab immune cells",
+        "correctQuestion": "What is disease or infection susceptibility?",
+        "value": 1200
+      },
+      {
+        "clue": "The cryptic speciation within Emerita genus may be revealed through this analysis",
+        "correctQuestion": "What is DNA barcoding or molecular systematics?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs exhibit this pattern in their sensory evolution related to beam trawling impacts",
+        "correctQuestion": "What is altered mechanoreceptor sensitivity?",
+        "value": 1200
+      },
+      {
+        "clue": "This source attribution method tracks sand crab pollution exposure history",
+        "correctQuestion": "What is chemical fingerprinting or toxicokinetic modeling?",
+        "value": 1200
+      },
+      {
+        "clue": "The metapopulation dynamics of sand crabs are modeled using this mathematical framework",
+        "correctQuestion": "What is source-sink models or spatially explicit population models?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs show this type of behavioral response to predator chemical cues",
+        "correctQuestion": "What is antipredator behavior or defense response?",
+        "value": 1200
+      },
+      {
+        "clue": "This trophic cascade effect occurs when sand crab populations decline in abundance",
+        "correctQuestion": "What is increased zooplankton or altered benthic structure?",
+        "value": 1200
+      },
+      {
+        "clue": "The allometric growth relationships in sand crabs follow this mathematical model",
+        "correctQuestion": "What is power law or allometric scaling equation?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs are used as sentinel organisms for this type of environmental assessment",
+        "correctQuestion": "What is biological monitoring or bioassessment?",
+        "value": 1200
+      },
+      {
+        "clue": "This phenotypic plasticity in sand crabs allows adaptation to variable beach conditions",
+        "correctQuestion": "What is morphological or developmental plasticity?",
+        "value": 1200
+      },
+      {
+        "clue": "The functional redundancy of sand crabs in filter-feeding guilds impacts ecosystem stability through this mechanism",
+        "correctQuestion": "What is resistance stability or resistance to disturbance?",
+        "value": 1200
+      },
+      {
+        "clue": "Sand crabs demonstrate this type of collective behavior in response to predation risk",
+        "correctQuestion": "What is synchronized burrowing or group defense?",
+        "value": 1200
+      },
+      {
+        "clue": "This community assembly rule explains sand crab coexistence with other benthic organisms",
+        "correctQuestion": "What is niche partitioning or resource heterogeneity?",
+        "value": 1200
+      },
+      {
+        "clue": "The ontogenetic niche shift in sand crabs involves this transition in habitat preference",
+        "correctQuestion": "What is movement from deeper to shallow water?",
+        "value": 1200
+      },
+      {
+        "clue": "This evolutionary game theory model predicts sand crab settlement decisions",
+        "correctQuestion": "What is ideal free distribution or producer-scrounger dynamics?",
+        "value": 1200
+      }
+    ]
+  }
 }

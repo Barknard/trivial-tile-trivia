@@ -2,81 +2,360 @@
   "category": "Birthday Traditions & Cultural Celebrations",
   "theme": "birthday",
   "category_id": "birthday_traditions",
-  "research_basis": "Anthropology, cultural studies, ethnography, celebration psychology, tradition formation, cross-cultural rituals, social customs research, festive anthropology",
   "audiences": {
-    "regular": [
-      {"clue": "In Japan, families serve this long noodle on birthdays to symbolize a long life", "correctQuestion": "What is soba noodles?", "value": 200},
-      {"clue": "This Greek tradition involves breaking pottery as part of birthday celebrations", "correctQuestion": "What is smashing plates?", "value": 200},
-      {"clue": "This ancient Roman celebration honored the birthday of the goddess with flowers and cakes", "correctQuestion": "What is Artemisia (birthday of Diana)?", "value": 200},
-      {"clue": "In Mexico, this piñata-breaking tradition is central to many birthday parties", "correctQuestion": "What is piñata breaking?", "value": 200},
-      {"clue": "This German tradition involves baking a special layered cake for birthday celebrations", "correctQuestion": "What is Black Forest cake?", "value": 200},
-      {"clue": "In Jewish culture, this coming-of-age celebration marks a child's 13th birthday", "correctQuestion": "What is Bar or Bat Mitzvah?", "value": 400},
-      {"clue": "This Korean tradition involves eating seaweed soup on one's birthday", "correctQuestion": "What is miyeok-guk (seaweed soup)?", "value": 400},
-      {"clue": "This Chinese custom involves giving red envelopes with money during birthday celebrations", "correctQuestion": "What is hong bao (red envelope)?", "value": 400},
-      {"clue": "In Australia, this beach tradition celebrates birthdays at the ocean", "correctQuestion": "What is beach party?", "value": 400},
-      {"clue": "This Swedish tradition features singing and dancing around a person's birthday cake", "correctQuestion": "What is 'Happy Birthday' celebration with song?", "value": 400},
-      {"clue": "This Italian tradition of singing 'Tanti Auguri' celebrates the birthday person", "correctQuestion": "What is the Italian birthday song?", "value": 600},
-      {"clue": "In India, this celebration includes sweets and gathering of family to mark birthdays", "correctQuestion": "What is Mithai ceremony?", "value": 600},
-      {"clue": "This Spanish tradition involves singing 'Cumpleaños Feliz' at birthday celebrations", "correctQuestion": "What is the Spanish birthday song?", "value": 600},
-      {"clue": "This Nigerian tradition features music, dancing, and drumming during birthday parties", "correctQuestion": "What is celebration with live music and drumming?", "value": 600},
-      {"clue": "In Brazil, this colorful tradition involves decorations and tropical fruit celebrations", "correctQuestion": "What is festa de aniversário (birthday party)?", "value": 600},
-      {"clue": "This Filipino tradition of releasing balloons during birthdays symbolizes wishes and dreams", "correctQuestion": "What is balloon release tradition?", "value": 800},
-      {"clue": "In Russia, this tradition involves blowing out candles and making a wish in silence", "correctQuestion": "What is wish-making tradition?", "value": 800},
-      {"clue": "This Thai tradition involves bathing the birthday person with water or perfume", "correctQuestion": "What is water blessing ceremony?", "value": 800},
-      {"clue": "In Poland, this tradition features special bigos stew and dancing at birthday gatherings", "correctQuestion": "What is bigos celebration?", "value": 800},
-      {"clue": "This Turkish custom of tying a ribbon or string around the birthday person's wrist", "correctQuestion": "What is ribbon tying tradition?", "value": 800},
-      {"clue": "In Iceland, this tradition involves publishing birthday announcements in the newspaper", "correctQuestion": "What is public birthday announcement?", "value": 1000},
-      {"clue": "This Greek tradition of celebrating namedays (onomastico) is as important as birthdays", "correctQuestion": "What is nameday celebration?", "value": 1000},
-      {"clue": "In Portugal, this tradition involves eating pastéis de nata during birthday celebrations", "correctQuestion": "What is pastéis de nata (custard tarts)?", "value": 1000},
-      {"clue": "This South African Zulu tradition involves a coming-of-age ceremony at puberty", "correctQuestion": "What is initiation ceremony?", "value": 1000},
-      {"clue": "In Peru, this tradition features quinoa-based dishes at birthday celebrations", "correctQuestion": "What is quinoa celebration feast?", "value": 1000},
-      {"clue": "This Vietnamese tradition of celebrating lunar calendar birthdays with family gatherings", "correctQuestion": "What is lunar birthday celebration?", "value": 1000},
-      {"clue": "In Malaysia, this tradition involves sharing teh tarik (pulled tea) at birthday parties", "correctQuestion": "What is teh tarik celebration?", "value": 1000},
-      {"clue": "This Danish tradition of hanging a flag outside the home to celebrate a birthday", "correctQuestion": "What is flag hanging tradition?", "value": 1000},
-      {"clue": "In Egypt, this tradition involves giving gifts and gathering of extended family", "correctQuestion": "What is family gathering tradition?", "value": 1000},
-      {"clue": "This Moroccan tradition of celebrating with mint tea and pastries during birthdays", "correctQuestion": "What is mint tea celebration?", "value": 1000}
+    "adults": [
+      {
+        "clue": "In Japan, families serve this long noodle on birthdays to symbolize a long life",
+        "correctQuestion": "What is soba noodles?",
+        "value": 200
+      },
+      {
+        "clue": "This Greek tradition involves breaking pottery as part of birthday celebrations",
+        "correctQuestion": "What is smashing plates?",
+        "value": 200
+      },
+      {
+        "clue": "This ancient Roman celebration honored the birthday of the goddess with flowers and cakes",
+        "correctQuestion": "What is Artemisia (birthday of Diana)?",
+        "value": 200
+      },
+      {
+        "clue": "In Mexico, this piñata-breaking tradition is central to many birthday parties",
+        "correctQuestion": "What is piñata breaking?",
+        "value": 200
+      },
+      {
+        "clue": "This German tradition involves baking a special layered cake for birthday celebrations",
+        "correctQuestion": "What is Black Forest cake?",
+        "value": 200
+      },
+      {
+        "clue": "In Jewish culture, this coming-of-age celebration marks a child's 13th birthday",
+        "correctQuestion": "What is Bar or Bat Mitzvah?",
+        "value": 400
+      },
+      {
+        "clue": "This Korean tradition involves eating seaweed soup on one's birthday",
+        "correctQuestion": "What is miyeok-guk (seaweed soup)?",
+        "value": 400
+      },
+      {
+        "clue": "This Chinese custom involves giving red envelopes with money during birthday celebrations",
+        "correctQuestion": "What is hong bao (red envelope)?",
+        "value": 400
+      },
+      {
+        "clue": "In Australia, this beach tradition celebrates birthdays at the ocean",
+        "correctQuestion": "What is beach party?",
+        "value": 400
+      },
+      {
+        "clue": "This Swedish tradition features singing and dancing around a person's birthday cake",
+        "correctQuestion": "What is 'Happy Birthday' celebration with song?",
+        "value": 400
+      },
+      {
+        "clue": "This Italian tradition of singing 'Tanti Auguri' celebrates the birthday person",
+        "correctQuestion": "What is the Italian birthday song?",
+        "value": 600
+      },
+      {
+        "clue": "In India, this celebration includes sweets and gathering of family to mark birthdays",
+        "correctQuestion": "What is Mithai ceremony?",
+        "value": 600
+      },
+      {
+        "clue": "This Spanish tradition involves singing 'Cumpleaños Feliz' at birthday celebrations",
+        "correctQuestion": "What is the Spanish birthday song?",
+        "value": 600
+      },
+      {
+        "clue": "This Nigerian tradition features music, dancing, and drumming during birthday parties",
+        "correctQuestion": "What is celebration with live music and drumming?",
+        "value": 600
+      },
+      {
+        "clue": "In Brazil, this colorful tradition involves decorations and tropical fruit celebrations",
+        "correctQuestion": "What is festa de aniversário (birthday party)?",
+        "value": 600
+      },
+      {
+        "clue": "This Filipino tradition of releasing balloons during birthdays symbolizes wishes and dreams",
+        "correctQuestion": "What is balloon release tradition?",
+        "value": 800
+      },
+      {
+        "clue": "In Russia, this tradition involves blowing out candles and making a wish in silence",
+        "correctQuestion": "What is wish-making tradition?",
+        "value": 800
+      },
+      {
+        "clue": "This Thai tradition involves bathing the birthday person with water or perfume",
+        "correctQuestion": "What is water blessing ceremony?",
+        "value": 800
+      },
+      {
+        "clue": "In Poland, this tradition features special bigos stew and dancing at birthday gatherings",
+        "correctQuestion": "What is bigos celebration?",
+        "value": 800
+      },
+      {
+        "clue": "This Turkish custom of tying a ribbon or string around the birthday person's wrist",
+        "correctQuestion": "What is ribbon tying tradition?",
+        "value": 800
+      },
+      {
+        "clue": "In Iceland, this tradition involves publishing birthday announcements in the newspaper",
+        "correctQuestion": "What is public birthday announcement?",
+        "value": 1000
+      },
+      {
+        "clue": "This Greek tradition of celebrating namedays (onomastico) is as important as birthdays",
+        "correctQuestion": "What is nameday celebration?",
+        "value": 1000
+      },
+      {
+        "clue": "In Portugal, this tradition involves eating pastéis de nata during birthday celebrations",
+        "correctQuestion": "What is pastéis de nata (custard tarts)?",
+        "value": 1000
+      },
+      {
+        "clue": "This South African Zulu tradition involves a coming-of-age ceremony at puberty",
+        "correctQuestion": "What is initiation ceremony?",
+        "value": 1000
+      },
+      {
+        "clue": "In Peru, this tradition features quinoa-based dishes at birthday celebrations",
+        "correctQuestion": "What is quinoa celebration feast?",
+        "value": 1000
+      },
+      {
+        "clue": "This Vietnamese tradition of celebrating lunar calendar birthdays with family gatherings",
+        "correctQuestion": "What is lunar birthday celebration?",
+        "value": 1000
+      },
+      {
+        "clue": "In Malaysia, this tradition involves sharing teh tarik (pulled tea) at birthday parties",
+        "correctQuestion": "What is teh tarik celebration?",
+        "value": 1000
+      },
+      {
+        "clue": "This Danish tradition of hanging a flag outside the home to celebrate a birthday",
+        "correctQuestion": "What is flag hanging tradition?",
+        "value": 1000
+      },
+      {
+        "clue": "In Egypt, this tradition involves giving gifts and gathering of extended family",
+        "correctQuestion": "What is family gathering tradition?",
+        "value": 1000
+      },
+      {
+        "clue": "This Moroccan tradition of celebrating with mint tea and pastries during birthdays",
+        "correctQuestion": "What is mint tea celebration?",
+        "value": 1000
+      }
     ],
     "no_humanity": [
-      {"clue": "The economic stimulus generated by birthday industry spending creates this measurable market segment", "correctQuestion": "What is the $27 billion global birthday party industry?", "value": 200},
-      {"clue": "This psychological phenomenon explains why birthday celebrations trigger nostalgia", "correctQuestion": "What is temporal milestone effect?", "value": 200},
-      {"clue": "This marketing phenomenon occurs when retailers boost sales around 'birthday month' promotions", "correctQuestion": "What is targeted consumer behavior?", "value": 200},
-      {"clue": "The demographic data showing birthday spending peaks at this specific season annually", "correctQuestion": "What is holiday season and school year timing?", "value": 200},
-      {"clue": "This social media algorithm amplifies content during user birthday notifications and reminders", "correctQuestion": "What is birthday notification engagement?", "value": 200},
-      {"clue": "The neurochemical response to milestone celebrations that triggers dopamine and oxytocin release", "correctQuestion": "What is neuro-reward activation?", "value": 400},
-      {"clue": "This behavioral economics concept explains why people spend more on milestone birthdays", "correctQuestion": "What is round-number bias?", "value": 400},
-      {"clue": "The anthropological pattern showing 87% of cultures worldwide mark birthday celebrations", "correctQuestion": "What is cultural universality of birthday marking?", "value": 400},
-      {"clue": "This demographic shift explains declining birthday parties in post-industrial societies", "correctQuestion": "What is social atomization trend?", "value": 400},
-      {"clue": "The statistical phenomenon of celebrity birthday clustering in zodiac sign preferences", "correctQuestion": "What is astrological selection bias?", "value": 400},
-      {"clue": "This consumer data metric tracks how birthday spending correlates with social media followers", "correctQuestion": "What is influencer-based consumption patterns?", "value": 600},
-      {"clue": "The algorithmic system that generates targeted ads during birthday month in users' feeds", "correctQuestion": "What is behavioral targeting prediction?", "value": 600},
-      {"clue": "This historical pattern shows how birthday celebrations migrated from religious saints' days", "correctQuestion": "What is secularization of celebration tradition?", "value": 600},
-      {"clue": "The epidemiological data showing birthday party venues as disease transmission hotspots", "correctQuestion": "What is pathogen spread vector analysis?", "value": 600},
-      {"clue": "This economic indicator tracks inflation through birthday party cost increases annually", "correctQuestion": "What is consumer price index tracking?", "value": 600},
-      {"clue": "The recommendation algorithm that suggests birthday gift products based on purchase history", "correctQuestion": "What is collaborative filtering system?", "value": 800},
-      {"clue": "This psychological mechanism explains why people overestimate their own importance on birthdays", "correctQuestion": "What is egocentric bias amplification?", "value": 800},
-      {"clue": "The actuarial calculation used in life insurance based on birthday mortality distributions", "correctQuestion": "What is age-based risk modeling?", "value": 800},
-      {"clue": "This data visualization technique maps global birthday celebration patterns by geographic region", "correctQuestion": "What is geospatial heat mapping?", "value": 800},
-      {"clue": "The computational linguistics analysis of birthday wishes showing emotional valence patterns", "correctQuestion": "What is sentiment analysis of birthday greetings?", "value": 800},
-      {"clue": "This machine learning model predicts gift preferences based on birthday age demographics", "correctQuestion": "What is age-based predictive modeling?", "value": 1000},
-      {"clue": "The blockchain technology creating immutable birthday celebration records and gift registries", "correctQuestion": "What is distributed ledger birthday tracking?", "value": 1000},
-      {"clue": "This biometric authentication system uses birthday date as part of security verification", "correctQuestion": "What is multi-factor identity verification?", "value": 1000},
-      {"clue": "The neural network trained on social media to recognize and predict birthday trends", "correctQuestion": "What is deep learning trend prediction?", "value": 1000},
-      {"clue": "This epidemiological model predicts disease spread through birthday party attendee networks", "correctQuestion": "What is network propagation modeling?", "value": 1000},
-      {"clue": "The computational complexity of optimizing birthday guest list logistics for maximum engagement", "correctQuestion": "What is NP-complete optimization problem?", "value": 1000},
-      {"clue": "This API integrates birthday event calendars with inventory management systems for retail stores", "correctQuestion": "What is retail event synchronization protocol?", "value": 1000},
-      {"clue": "The quantum computing application optimizing birthday party scheduling across time zones", "correctQuestion": "What is distributed scheduling algorithm?", "value": 1000},
-      {"clue": "This cryptographic hash function protects birthday data privacy in medical records systems", "correctQuestion": "What is birthday hashing for de-identification?", "value": 1000},
-      {"clue": "The recurrent neural network that generates personalized birthday greeting messages at scale", "correctQuestion": "What is LSTM-based natural language generation?", "value": 1000},
-      {"clue": "This IoT sensor network monitors temperature and humidity in birthday party venues for comfort", "correctQuestion": "What is ambient environmental IoT control?", "value": 1000},
-      {"clue": "The satellite imagery analysis detecting large gatherings at birthday venue locations", "correctQuestion": "What is geospatial event detection via satellite?", "value": 1000},
-      {"clue": "This augmented reality application overlays virtual decorations on birthday party spaces", "correctQuestion": "What is AR spatial computing?", "value": 1000},
-      {"clue": "The time-series database optimizing birthday event scheduling across customer lifetime value", "correctQuestion": "What is temporal customer segmentation?", "value": 1000},
-      {"clue": "This graph database maps relationship networks to optimize birthday invitation distribution", "correctQuestion": "What is social graph traversal algorithm?", "value": 1000},
-      {"clue": "The computer vision system that recognizes age-appropriate birthday cake designs from images", "correctQuestion": "What is image classification neural network?", "value": 1000},
-      {"clue": "This natural language processing system extracts birthday preference signals from text reviews", "correctQuestion": "What is sentiment-driven preference extraction?", "value": 1000},
-      {"clue": "The distributed cache optimizing birthday reminder notifications across global server networks", "correctQuestion": "What is edge computing latency optimization?", "value": 1000},
-      {"clue": "This reinforcement learning agent optimizes birthday party itineraries for participant satisfaction", "correctQuestion": "What is multi-objective optimization algorithm?", "value": 1000},
-      {"clue": "The Fourier analysis detecting periodic patterns in birthday celebration spending cycles", "correctQuestion": "What is spectral analysis of cyclical data?", "value": 1000}
+      {
+        "clue": "The economic stimulus generated by birthday industry spending creates this measurable market segment",
+        "correctQuestion": "What is the $27 billion global birthday party industry?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological phenomenon explains why birthday celebrations trigger nostalgia",
+        "correctQuestion": "What is temporal milestone effect?",
+        "value": 200
+      },
+      {
+        "clue": "This marketing phenomenon occurs when retailers boost sales around 'birthday month' promotions",
+        "correctQuestion": "What is targeted consumer behavior?",
+        "value": 200
+      },
+      {
+        "clue": "The demographic data showing birthday spending peaks at this specific season annually",
+        "correctQuestion": "What is holiday season and school year timing?",
+        "value": 200
+      },
+      {
+        "clue": "This social media algorithm amplifies content during user birthday notifications and reminders",
+        "correctQuestion": "What is birthday notification engagement?",
+        "value": 200
+      },
+      {
+        "clue": "The neurochemical response to milestone celebrations that triggers dopamine and oxytocin release",
+        "correctQuestion": "What is neuro-reward activation?",
+        "value": 400
+      },
+      {
+        "clue": "This behavioral economics concept explains why people spend more on milestone birthdays",
+        "correctQuestion": "What is round-number bias?",
+        "value": 400
+      },
+      {
+        "clue": "The anthropological pattern showing 87% of cultures worldwide mark birthday celebrations",
+        "correctQuestion": "What is cultural universality of birthday marking?",
+        "value": 400
+      },
+      {
+        "clue": "This demographic shift explains declining birthday parties in post-industrial societies",
+        "correctQuestion": "What is social atomization trend?",
+        "value": 400
+      },
+      {
+        "clue": "The statistical phenomenon of celebrity birthday clustering in zodiac sign preferences",
+        "correctQuestion": "What is astrological selection bias?",
+        "value": 400
+      },
+      {
+        "clue": "This consumer data metric tracks how birthday spending correlates with social media followers",
+        "correctQuestion": "What is influencer-based consumption patterns?",
+        "value": 600
+      },
+      {
+        "clue": "The algorithmic system that generates targeted ads during birthday month in users' feeds",
+        "correctQuestion": "What is behavioral targeting prediction?",
+        "value": 600
+      },
+      {
+        "clue": "This historical pattern shows how birthday celebrations migrated from religious saints' days",
+        "correctQuestion": "What is secularization of celebration tradition?",
+        "value": 600
+      },
+      {
+        "clue": "The epidemiological data showing birthday party venues as disease transmission hotspots",
+        "correctQuestion": "What is pathogen spread vector analysis?",
+        "value": 600
+      },
+      {
+        "clue": "This economic indicator tracks inflation through birthday party cost increases annually",
+        "correctQuestion": "What is consumer price index tracking?",
+        "value": 600
+      },
+      {
+        "clue": "The recommendation algorithm that suggests birthday gift products based on purchase history",
+        "correctQuestion": "What is collaborative filtering system?",
+        "value": 800
+      },
+      {
+        "clue": "This psychological mechanism explains why people overestimate their own importance on birthdays",
+        "correctQuestion": "What is egocentric bias amplification?",
+        "value": 800
+      },
+      {
+        "clue": "The actuarial calculation used in life insurance based on birthday mortality distributions",
+        "correctQuestion": "What is age-based risk modeling?",
+        "value": 800
+      },
+      {
+        "clue": "This data visualization technique maps global birthday celebration patterns by geographic region",
+        "correctQuestion": "What is geospatial heat mapping?",
+        "value": 800
+      },
+      {
+        "clue": "The computational linguistics analysis of birthday wishes showing emotional valence patterns",
+        "correctQuestion": "What is sentiment analysis of birthday greetings?",
+        "value": 800
+      },
+      {
+        "clue": "This machine learning model predicts gift preferences based on birthday age demographics",
+        "correctQuestion": "What is age-based predictive modeling?",
+        "value": 1000
+      },
+      {
+        "clue": "The blockchain technology creating immutable birthday celebration records and gift registries",
+        "correctQuestion": "What is distributed ledger birthday tracking?",
+        "value": 1000
+      },
+      {
+        "clue": "This biometric authentication system uses birthday date as part of security verification",
+        "correctQuestion": "What is multi-factor identity verification?",
+        "value": 1000
+      },
+      {
+        "clue": "The neural network trained on social media to recognize and predict birthday trends",
+        "correctQuestion": "What is deep learning trend prediction?",
+        "value": 1000
+      },
+      {
+        "clue": "This epidemiological model predicts disease spread through birthday party attendee networks",
+        "correctQuestion": "What is network propagation modeling?",
+        "value": 1000
+      },
+      {
+        "clue": "The computational complexity of optimizing birthday guest list logistics for maximum engagement",
+        "correctQuestion": "What is NP-complete optimization problem?",
+        "value": 1000
+      },
+      {
+        "clue": "This API integrates birthday event calendars with inventory management systems for retail stores",
+        "correctQuestion": "What is retail event synchronization protocol?",
+        "value": 1000
+      },
+      {
+        "clue": "The quantum computing application optimizing birthday party scheduling across time zones",
+        "correctQuestion": "What is distributed scheduling algorithm?",
+        "value": 1000
+      },
+      {
+        "clue": "This cryptographic hash function protects birthday data privacy in medical records systems",
+        "correctQuestion": "What is birthday hashing for de-identification?",
+        "value": 1000
+      },
+      {
+        "clue": "The recurrent neural network that generates personalized birthday greeting messages at scale",
+        "correctQuestion": "What is LSTM-based natural language generation?",
+        "value": 1000
+      },
+      {
+        "clue": "This IoT sensor network monitors temperature and humidity in birthday party venues for comfort",
+        "correctQuestion": "What is ambient environmental IoT control?",
+        "value": 1000
+      },
+      {
+        "clue": "The satellite imagery analysis detecting large gatherings at birthday venue locations",
+        "correctQuestion": "What is geospatial event detection via satellite?",
+        "value": 1000
+      },
+      {
+        "clue": "This augmented reality application overlays virtual decorations on birthday party spaces",
+        "correctQuestion": "What is AR spatial computing?",
+        "value": 1000
+      },
+      {
+        "clue": "The time-series database optimizing birthday event scheduling across customer lifetime value",
+        "correctQuestion": "What is temporal customer segmentation?",
+        "value": 1000
+      },
+      {
+        "clue": "This graph database maps relationship networks to optimize birthday invitation distribution",
+        "correctQuestion": "What is social graph traversal algorithm?",
+        "value": 1000
+      },
+      {
+        "clue": "The computer vision system that recognizes age-appropriate birthday cake designs from images",
+        "correctQuestion": "What is image classification neural network?",
+        "value": 1000
+      },
+      {
+        "clue": "This natural language processing system extracts birthday preference signals from text reviews",
+        "correctQuestion": "What is sentiment-driven preference extraction?",
+        "value": 1000
+      },
+      {
+        "clue": "The distributed cache optimizing birthday reminder notifications across global server networks",
+        "correctQuestion": "What is edge computing latency optimization?",
+        "value": 1000
+      },
+      {
+        "clue": "This reinforcement learning agent optimizes birthday party itineraries for participant satisfaction",
+        "correctQuestion": "What is multi-objective optimization algorithm?",
+        "value": 1000
+      },
+      {
+        "clue": "The Fourier analysis detecting periodic patterns in birthday celebration spending cycles",
+        "correctQuestion": "What is spectral analysis of cyclical data?",
+        "value": 1000
+      }
     ]
   }
 }

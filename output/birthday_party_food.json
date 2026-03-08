@@ -2,71 +2,310 @@
   "category": "Birthday Party Food",
   "theme": "birthday",
   "category_id": "birthday_party_food",
-  "research_basis": "Nutrition science, food culture, party planning, social eating, celebration traditions, comfort food psychology, dietary accommodations",
   "audiences": {
-    "regular": [
-      {"clue": "This round, cheesy disk is a staple at most birthday parties", "correctQuestion": "What is pizza?", "value": 200},
-      {"clue": "These small appetizers on sticks often served at parties include fruit, cheese, and meat", "correctQuestion": "What is a skewer?", "value": 200},
-      {"clue": "This sweet baked treat with frosting is the centerpiece of most birthday celebrations", "correctQuestion": "What is a cake?", "value": 200},
-      {"clue": "These salty snacks often come in bags and are popular party finger foods", "correctQuestion": "What is chips?", "value": 200},
-      {"clue": "This frozen dessert on a stick is perfect for hot birthday parties", "correctQuestion": "What is a popsicle?", "value": 200},
-      {"clue": "These colorful candies are often scattered in bowls at birthday parties", "correctQuestion": "What is candy?", "value": 400},
-      {"clue": "These pastries filled with cream are a fancy dessert option for parties", "correctQuestion": "What is an eclair?", "value": 400},
-      {"clue": "This spicy Mexican appetizer is dipped in salsa or guacamole", "correctQuestion": "What is a chip?", "value": 400},
-      {"clue": "These small sandwiches with the crusts cut off are classic party fare", "correctQuestion": "What are finger sandwiches?", "value": 400},
-      {"clue": "This buttery snack is often drizzled with salt and served in a bowl", "correctQuestion": "What is popcorn?", "value": 400},
-      {"clue": "These round crispy treats are perfect for dipping in cheese sauce", "correctQuestion": "What are breadsticks?", "value": 600},
-      {"clue": "This cold noodle dish with vegetables is a refreshing side dish at summer parties", "correctQuestion": "What is a pasta salad?", "value": 600},
-      {"clue": "These meat-wrapped appetizers are a protein-packed party snack", "correctQuestion": "What are pigs in a blanket?", "value": 600},
-      {"clue": "This creamy dip made from chickpeas is often served with pita chips", "correctQuestion": "What is hummus?", "value": 600},
-      {"clue": "These colorful sugar-coated cookies are popular at children's birthday parties", "correctQuestion": "What are sugar cookies?", "value": 600},
-      {"clue": "This fruit-based dessert with gelatin wobbles on a spoon", "correctQuestion": "What is Jello?", "value": 800},
-      {"clue": "These baked goods with chocolate chips are a universal party favorite", "correctQuestion": "What are chocolate chip cookies?", "value": 800},
-      {"clue": "This creamy, whipped topping comes in a can or container", "correctQuestion": "What is whipped cream?", "value": 800},
-      {"clue": "These small savory pastries are often filled with spinach or cheese", "correctQuestion": "What are spinach puffs?", "value": 800},
-      {"clue": "This fruity drink comes in a large bowl with a floating fruit garnish", "correctQuestion": "What is punch?", "value": 800},
-      {"clue": "These grilled skewered pieces of meat are served with rice or naan", "correctQuestion": "What is kebab?", "value": 1000},
-      {"clue": "This baked pasta dish with cheese is a hearty main course option", "correctQuestion": "What is lasagna?", "value": 1000},
-      {"clue": "These miniature burgers are perfect for passing around at a party", "correctQuestion": "What are sliders?", "value": 1000},
-      {"clue": "This creamy dip made with spinach and artichokes is served warm", "correctQuestion": "What is spinach artichoke dip?", "value": 1000},
-      {"clue": "These breaded chicken pieces are a kid-favorite party food", "correctQuestion": "What are chicken nuggets?", "value": 1000},
-      {"clue": "This Mexican flat bread filled with cheese is often served with salsa", "correctQuestion": "What is a quesadilla?", "value": 1000},
-      {"clue": "These stuffed vegetables are a vegetarian protein option for parties", "correctQuestion": "What are stuffed peppers?", "value": 1000},
-      {"clue": "This Asian appetizer filled with pork or vegetables is fried until crispy", "correctQuestion": "What is a spring roll?", "value": 1000},
-      {"clue": "These sliced vegetables arranged on a platter with dip are a healthy option", "correctQuestion": "What is a crudités platter?", "value": 1000},
-      {"clue": "This Italian flat bread topped with olive oil and herbs is torn and shared", "correctQuestion": "What is focaccia?", "value": 1000}
+    "adults": [
+      {
+        "clue": "This round, cheesy disk is a staple at most birthday parties",
+        "correctQuestion": "What is pizza?",
+        "value": 200
+      },
+      {
+        "clue": "These small appetizers on sticks often served at parties include fruit, cheese, and meat",
+        "correctQuestion": "What is a skewer?",
+        "value": 200
+      },
+      {
+        "clue": "This sweet baked treat with frosting is the centerpiece of most birthday celebrations",
+        "correctQuestion": "What is a cake?",
+        "value": 200
+      },
+      {
+        "clue": "These salty snacks often come in bags and are popular party finger foods",
+        "correctQuestion": "What is chips?",
+        "value": 200
+      },
+      {
+        "clue": "This frozen dessert on a stick is perfect for hot birthday parties",
+        "correctQuestion": "What is a popsicle?",
+        "value": 200
+      },
+      {
+        "clue": "These colorful candies are often scattered in bowls at birthday parties",
+        "correctQuestion": "What is candy?",
+        "value": 400
+      },
+      {
+        "clue": "These pastries filled with cream are a fancy dessert option for parties",
+        "correctQuestion": "What is an eclair?",
+        "value": 400
+      },
+      {
+        "clue": "This spicy Mexican appetizer is dipped in salsa or guacamole",
+        "correctQuestion": "What is a chip?",
+        "value": 400
+      },
+      {
+        "clue": "These small sandwiches with the crusts cut off are classic party fare",
+        "correctQuestion": "What are finger sandwiches?",
+        "value": 400
+      },
+      {
+        "clue": "This buttery snack is often drizzled with salt and served in a bowl",
+        "correctQuestion": "What is popcorn?",
+        "value": 400
+      },
+      {
+        "clue": "These round crispy treats are perfect for dipping in cheese sauce",
+        "correctQuestion": "What are breadsticks?",
+        "value": 600
+      },
+      {
+        "clue": "This cold noodle dish with vegetables is a refreshing side dish at summer parties",
+        "correctQuestion": "What is a pasta salad?",
+        "value": 600
+      },
+      {
+        "clue": "These meat-wrapped appetizers are a protein-packed party snack",
+        "correctQuestion": "What are pigs in a blanket?",
+        "value": 600
+      },
+      {
+        "clue": "This creamy dip made from chickpeas is often served with pita chips",
+        "correctQuestion": "What is hummus?",
+        "value": 600
+      },
+      {
+        "clue": "These colorful sugar-coated cookies are popular at children's birthday parties",
+        "correctQuestion": "What are sugar cookies?",
+        "value": 600
+      },
+      {
+        "clue": "This fruit-based dessert with gelatin wobbles on a spoon",
+        "correctQuestion": "What is Jello?",
+        "value": 800
+      },
+      {
+        "clue": "These baked goods with chocolate chips are a universal party favorite",
+        "correctQuestion": "What are chocolate chip cookies?",
+        "value": 800
+      },
+      {
+        "clue": "This creamy, whipped topping comes in a can or container",
+        "correctQuestion": "What is whipped cream?",
+        "value": 800
+      },
+      {
+        "clue": "These small savory pastries are often filled with spinach or cheese",
+        "correctQuestion": "What are spinach puffs?",
+        "value": 800
+      },
+      {
+        "clue": "This fruity drink comes in a large bowl with a floating fruit garnish",
+        "correctQuestion": "What is punch?",
+        "value": 800
+      },
+      {
+        "clue": "These grilled skewered pieces of meat are served with rice or naan",
+        "correctQuestion": "What is kebab?",
+        "value": 1000
+      },
+      {
+        "clue": "This baked pasta dish with cheese is a hearty main course option",
+        "correctQuestion": "What is lasagna?",
+        "value": 1000
+      },
+      {
+        "clue": "These miniature burgers are perfect for passing around at a party",
+        "correctQuestion": "What are sliders?",
+        "value": 1000
+      },
+      {
+        "clue": "This creamy dip made with spinach and artichokes is served warm",
+        "correctQuestion": "What is spinach artichoke dip?",
+        "value": 1000
+      },
+      {
+        "clue": "These breaded chicken pieces are a kid-favorite party food",
+        "correctQuestion": "What are chicken nuggets?",
+        "value": 1000
+      },
+      {
+        "clue": "This Mexican flat bread filled with cheese is often served with salsa",
+        "correctQuestion": "What is a quesadilla?",
+        "value": 1000
+      },
+      {
+        "clue": "These stuffed vegetables are a vegetarian protein option for parties",
+        "correctQuestion": "What are stuffed peppers?",
+        "value": 1000
+      },
+      {
+        "clue": "This Asian appetizer filled with pork or vegetables is fried until crispy",
+        "correctQuestion": "What is a spring roll?",
+        "value": 1000
+      },
+      {
+        "clue": "These sliced vegetables arranged on a platter with dip are a healthy option",
+        "correctQuestion": "What is a crudités platter?",
+        "value": 1000
+      },
+      {
+        "clue": "This Italian flat bread topped with olive oil and herbs is torn and shared",
+        "correctQuestion": "What is focaccia?",
+        "value": 1000
+      }
     ],
-    "cah_style": [
-      {"clue": "The only food that actually tastes better when made by your drunk uncle at 11 PM", "correctQuestion": "What is pizza?", "value": 200},
-      {"clue": "The reason your cheap birthday cake ended up in the trash after thirty minutes", "correctQuestion": "What is a toddler's hands?", "value": 200},
-      {"clue": "Why Karen brought a kale salad to her kid's pizza party anyway", "correctQuestion": "What is guilt?", "value": 200},
-      {"clue": "The only chip dip that won't cause a bathroom emergency at 2 AM", "correctQuestion": "What is regret?", "value": 200},
-      {"clue": "What your parents served at your birthday in the 90s to pretend they were fun", "correctQuestion": "What is Dunkaroo?", "value": 200},
-      {"clue": "The dessert that makes people ask 'Is this homemade?' then secretly hope it isn't", "correctQuestion": "What is gas station cake?", "value": 400},
-      {"clue": "Why nobody actually eats the veggie platter at birthday parties", "correctQuestion": "What is self-respect?", "value": 400},
-      {"clue": "The party snack that's somehow always moist even in an airtight bag", "correctQuestion": "What are Rice Krispie treats?", "value": 400},
-      {"clue": "The dip that separates people who love actual flavor from those who just live", "correctQuestion": "What is guacamole?", "value": 400},
-      {"clue": "What gets mysteriously spilled on your carpet during the first five minutes", "correctQuestion": "What is punch?", "value": 400},
-      {"clue": "The party food that costs $40 and somehow tastes like sadness", "correctQuestion": "What is catering?", "value": 600},
-      {"clue": "Why your cousin specifically asked for a peanut-free zone but ate the cookies anyway", "correctQuestion": "What is lying?", "value": 600},
-      {"clue": "The appetizer that guests pretend to want but actually just push around a plate", "correctQuestion": "What is a shrimp?", "value": 600},
-      {"clue": "What your Aunt Susan made that was definitely raw in the middle", "correctQuestion": "What is a casserole?", "value": 600},
-      {"clue": "The party food you steal and hide in your pocket when no one is looking", "correctQuestion": "What is the good brownies?", "value": 600},
-      {"clue": "Why the finger sandwiches have been sitting out for exactly three hours", "correctQuestion": "What is hoping nobody notices?", "value": 800},
-      {"clue": "The DoorDash order situation when someone said they were bringing food but didn't", "correctQuestion": "What is chaos?", "value": 800},
-      {"clue": "What you're actually thinking when someone asks if you want the 'artisan' pizza", "correctQuestion": "What is just regular pizza with pretentious pricing?", "value": 800},
-      {"clue": "The reason your stomach hurts but you eat three more slices anyway", "correctQuestion": "What is peer pressure?", "value": 800},
-      {"clue": "Why the birthday cake has exactly seventeen unlit candles nobody asked for", "correctQuestion": "What is symbolism of aging?", "value": 800},
-      {"clue": "The appetizer that cost $25 and looked like someone's craft project", "correctQuestion": "What is molecular gastronomy?", "value": 1000},
-      {"clue": "Why your Instagram-obsessed friend made everything on a charcuterie board", "correctQuestion": "What is the need for engagement metrics?", "value": 1000},
-      {"clue": "The party snack that's 'gluten free, sugar free, taste free' and cost $40 per pound", "correctQuestion": "What is health anxiety marketing?", "value": 1000},
-      {"clue": "What you pretended to enjoy eating when the host was watching you", "correctQuestion": "What is their experimental fusion dish?", "value": 1000},
-      {"clue": "The reason someone brought their own food to your birthday party anyway", "correctQuestion": "What is not trusting your eating standards?", "value": 1000},
-      {"clue": "Why the party snacks were 'elevated' and somehow less satisfying than normal ones", "correctQuestion": "What is overthinking birthday food?", "value": 1000},
-      {"clue": "The appetizer that made everyone wonder if it was actually supposed to taste like that", "correctQuestion": "What is experimental molecular food?", "value": 1000},
-      {"clue": "What your TikTok-obsessed cousin made that was completely inedible but very aesthetic", "correctQuestion": "What is a viral food trend?", "value": 1000},
-      {"clue": "Why the 'specialty' pizza place charged $35 for what's basically cheese and desperation", "correctQuestion": "What is millennial restaurant pricing?", "value": 1000},
-      {"clue": "The party food that arrived cold and nobody wanted to be the first to complain", "correctQuestion": "What is social awkwardness?", "value": 1000}
+    "no_humanity": [
+      {
+        "clue": "The only food that actually tastes better when made by your drunk uncle at 11 PM",
+        "correctQuestion": "What is pizza?",
+        "value": 200
+      },
+      {
+        "clue": "The reason your cheap birthday cake ended up in the trash after thirty minutes",
+        "correctQuestion": "What is a toddler's hands?",
+        "value": 200
+      },
+      {
+        "clue": "Why Karen brought a kale salad to her kid's pizza party anyway",
+        "correctQuestion": "What is guilt?",
+        "value": 200
+      },
+      {
+        "clue": "The only chip dip that won't cause a bathroom emergency at 2 AM",
+        "correctQuestion": "What is regret?",
+        "value": 200
+      },
+      {
+        "clue": "What your parents served at your birthday in the 90s to pretend they were fun",
+        "correctQuestion": "What is Dunkaroo?",
+        "value": 200
+      },
+      {
+        "clue": "The dessert that makes people ask 'Is this homemade?' then secretly hope it isn't",
+        "correctQuestion": "What is gas station cake?",
+        "value": 400
+      },
+      {
+        "clue": "Why nobody actually eats the veggie platter at birthday parties",
+        "correctQuestion": "What is self-respect?",
+        "value": 400
+      },
+      {
+        "clue": "The party snack that's somehow always moist even in an airtight bag",
+        "correctQuestion": "What are Rice Krispie treats?",
+        "value": 400
+      },
+      {
+        "clue": "The dip that separates people who love actual flavor from those who just live",
+        "correctQuestion": "What is guacamole?",
+        "value": 400
+      },
+      {
+        "clue": "What gets mysteriously spilled on your carpet during the first five minutes",
+        "correctQuestion": "What is punch?",
+        "value": 400
+      },
+      {
+        "clue": "The party food that costs $40 and somehow tastes like sadness",
+        "correctQuestion": "What is catering?",
+        "value": 600
+      },
+      {
+        "clue": "Why your cousin specifically asked for a peanut-free zone but ate the cookies anyway",
+        "correctQuestion": "What is lying?",
+        "value": 600
+      },
+      {
+        "clue": "The appetizer that guests pretend to want but actually just push around a plate",
+        "correctQuestion": "What is a shrimp?",
+        "value": 600
+      },
+      {
+        "clue": "What your Aunt Susan made that was definitely raw in the middle",
+        "correctQuestion": "What is a casserole?",
+        "value": 600
+      },
+      {
+        "clue": "The party food you steal and hide in your pocket when no one is looking",
+        "correctQuestion": "What is the good brownies?",
+        "value": 600
+      },
+      {
+        "clue": "Why the finger sandwiches have been sitting out for exactly three hours",
+        "correctQuestion": "What is hoping nobody notices?",
+        "value": 800
+      },
+      {
+        "clue": "The DoorDash order situation when someone said they were bringing food but didn't",
+        "correctQuestion": "What is chaos?",
+        "value": 800
+      },
+      {
+        "clue": "What you're actually thinking when someone asks if you want the 'artisan' pizza",
+        "correctQuestion": "What is just regular pizza with pretentious pricing?",
+        "value": 800
+      },
+      {
+        "clue": "The reason your stomach hurts but you eat three more slices anyway",
+        "correctQuestion": "What is peer pressure?",
+        "value": 800
+      },
+      {
+        "clue": "Why the birthday cake has exactly seventeen unlit candles nobody asked for",
+        "correctQuestion": "What is symbolism of aging?",
+        "value": 800
+      },
+      {
+        "clue": "The appetizer that cost $25 and looked like someone's craft project",
+        "correctQuestion": "What is molecular gastronomy?",
+        "value": 1000
+      },
+      {
+        "clue": "Why your Instagram-obsessed friend made everything on a charcuterie board",
+        "correctQuestion": "What is the need for engagement metrics?",
+        "value": 1000
+      },
+      {
+        "clue": "The party snack that's 'gluten free, sugar free, taste free' and cost $40 per pound",
+        "correctQuestion": "What is health anxiety marketing?",
+        "value": 1000
+      },
+      {
+        "clue": "What you pretended to enjoy eating when the host was watching you",
+        "correctQuestion": "What is their experimental fusion dish?",
+        "value": 1000
+      },
+      {
+        "clue": "The reason someone brought their own food to your birthday party anyway",
+        "correctQuestion": "What is not trusting your eating standards?",
+        "value": 1000
+      },
+      {
+        "clue": "Why the party snacks were 'elevated' and somehow less satisfying than normal ones",
+        "correctQuestion": "What is overthinking birthday food?",
+        "value": 1000
+      },
+      {
+        "clue": "The appetizer that made everyone wonder if it was actually supposed to taste like that",
+        "correctQuestion": "What is experimental molecular food?",
+        "value": 1000
+      },
+      {
+        "clue": "What your TikTok-obsessed cousin made that was completely inedible but very aesthetic",
+        "correctQuestion": "What is a viral food trend?",
+        "value": 1000
+      },
+      {
+        "clue": "Why the 'specialty' pizza place charged $35 for what's basically cheese and desperation",
+        "correctQuestion": "What is millennial restaurant pricing?",
+        "value": 1000
+      },
+      {
+        "clue": "The party food that arrived cold and nobody wanted to be the first to complain",
+        "correctQuestion": "What is social awkwardness?",
+        "value": 1000
+      }
     ]
   }
 }

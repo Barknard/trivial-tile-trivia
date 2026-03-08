@@ -2,13 +2,8 @@
   "category": "Birthday Party Planning - CAH Style",
   "theme": "event_planning",
   "category_id": "birthday_party_planning_cah",
-  "description": "Budgets, preparations, planning, vendors, logistics, and dark humor about throwing birthday parties",
-  "age_suitability": "Teens & Adults (CAH style includes edgy content)",
-  "generated_date": "2026-01-01",
-  "total_questions": 60,
-  "research_alignment": "Event planning, budgeting, practical mathematics, logistics, vendor management, decision-making",
   "audiences": {
-    "regular_clues": [
+    "adults": [
       {
         "clue": "This percentage of your party budget disappears before the party even starts",
         "correctQuestion": "What is 30%?",
@@ -160,186 +155,156 @@
         "value": 400
       }
     ],
-    "cah_style_clues": [
+    "no_humanity": [
       {
         "clue": "The budget spreadsheet your spouse created that you know will lead to a divorce before the party even starts",
         "correctQuestion": "What is a detailed Excel file with color-coded categories?",
-        "value": 600,
-        "why_it_works": "Universal tension between careful planning and reality; financial stress in relationships"
+        "value": 600
       },
       {
         "clue": "What you tell the caterer the guest count is versus what you actually expect",
         "correctQuestion": "What is 50 vs 150?",
-        "value": 400,
-        "why_it_works": "Everyone overestimates then has leftovers or runs out"
+        "value": 400
       },
       {
         "clue": "The party planning app you paid for that's worse than just using a notebook",
         "correctQuestion": "What is Pinterest?",
-        "value": 400,
-        "why_it_works": "Pinterest is universally known as planning inspiration that never translates to reality"
+        "value": 400
       },
       {
         "clue": "Why your Pinterest party plans look nothing like your actual party",
         "correctQuestion": "What is you have no talent, no budget, and unrealistic expectations?",
-        "value": 600,
-        "why_it_works": "Relatable self-deprecating humor about Pinterest fails"
+        "value": 600
       },
       {
         "clue": "The vendor who disappears the moment you mention your budget is half of what they quoted",
         "correctQuestion": "Who is the DJ?",
-        "value": 500,
-        "why_it_works": "DJs and event vendors are notorious for disappearing when budget isn't right"
+        "value": 500
       },
       {
         "clue": "What you're actually doing when you say you're 'still finalizing the menu'",
         "correctQuestion": "What is Googling whether Costco pizza is fancy enough?",
-        "value": 600,
-        "why_it_works": "Everyone defaults to Costco pizza in a panic"
+        "value": 600
       },
       {
         "clue": "The group chat feature you immediately disable because someone's mother-in-law has opinions",
         "correctQuestion": "What is group chat notifications?",
-        "value": 700,
-        "why_it_works": "Overbearing family members in planning chats is universal"
+        "value": 700
       },
       {
         "clue": "This percentage of your party budget goes to decorations that end up in a landfill",
         "correctQuestion": "What is 100%?",
-        "value": 500,
-        "why_it_works": "Dark humor about disposable party supplies"
+        "value": 500
       },
       {
         "clue": "The RSVPs you get back at 11pm the night before the party after 'forgetting' for three weeks",
         "correctQuestion": "What is half of them?",
-        "value": 600,
-        "why_it_works": "Last-minute RSVP chaos is universal frustration"
+        "value": 600
       },
       {
         "clue": "What the venue owner calls a 'light stain' that you know is a crime scene",
         "correctQuestion": "What is a suspicious dark spot on the carpet?",
-        "value": 700,
-        "why_it_works": "Sketchy venue conditions are relatable"
+        "value": 700
       },
       {
         "clue": "The conversation you have with your partner at 2am two days before the party",
         "correctQuestion": "What is 'maybe we should just cancel'?",
-        "value": 600,
-        "why_it_works": "Pre-party panic meltdowns are universal couple experience"
+        "value": 600
       },
       {
         "clue": "Why you need a spreadsheet, a planner, and a therapist",
         "correctQuestion": "What is party planning?",
-        "value": 700,
-        "why_it_works": "Dark humor acknowledging how stressful planning is"
+        "value": 700
       },
       {
         "clue": "The phrase that makes a party planner's eye twitch: 'It's just for 200 people, how hard can it be?'",
         "correctQuestion": "What is underestimating complexity?",
-        "value": 600,
-        "why_it_works": "People always underestimate planning difficulty"
+        "value": 600
       },
       {
         "clue": "What you're eating at 3am while creating seating charts that no one will follow anyway",
         "correctQuestion": "What is cereal or ice cream?",
-        "value": 500,
-        "why_it_works": "Stress eating during planning is relatable"
+        "value": 500
       },
       {
         "clue": "The item you buy in bulk that turns out to be completely wrong but you're committed now",
         "correctQuestion": "What is paper plates or cups?",
-        "value": 500,
-        "why_it_works": "Bulk buying mistakes are universal"
+        "value": 500
       },
       {
         "clue": "The vendor who sends you 47 follow-up emails with add-ons you didn't ask for",
         "correctQuestion": "Who is the florist?",
-        "value": 600,
-        "why_it_works": "Overzealous vendors trying to upsell is relatable"
+        "value": 600
       },
       {
         "clue": "What you tell yourself about the $800 bill from the caterer",
         "correctQuestion": "What is 'it was worth it' and 'we'll never do this again'?",
-        "value": 700,
-        "why_it_works": "Post-party budget shock and denial"
+        "value": 700
       },
       {
         "clue": "The 'essential' party item that makes the most impact when it fails",
         "correctQuestion": "What is the WiFi password?",
-        "value": 600,
-        "why_it_works": "WiFi chaos at parties is relatable modern problem"
+        "value": 600
       },
       {
         "clue": "Why your party playlist is 60% songs nobody wants and 40% guilt",
         "correctQuestion": "What is you made it too broad to please everyone?",
-        "value": 500,
-        "why_it_works": "Playlist compromise anxiety is universal"
+        "value": 500
       },
       {
         "clue": "The text you send at 10am after the party using words you wouldn't normally use",
         "correctQuestion": "What is 'thank you so much, I'm dead inside'?",
-        "value": 700,
-        "why_it_works": "Post-party exhaustion and gratitude are relatable"
+        "value": 700
       },
       {
         "clue": "What happens to the fancy centerpieces that cost $200 each",
         "correctQuestion": "What is nobody looks at them?",
-        "value": 600,
-        "why_it_works": "Wasted decoration money is relatable disappointment"
+        "value": 600
       },
       {
         "clue": "The budget crisis that emerges when you actually price out 'simple' decoration ideas from Pinterest",
         "correctQuestion": "What is $500 balloons and $300 table runners?",
-        "value": 700,
-        "why_it_works": "Pinterest budget reality shock is universal"
+        "value": 700
       },
       {
         "clue": "What you tell yourself right now about never having another party",
         "correctQuestion": "What is 'this is the last one'?",
-        "value": 600,
-        "why_it_works": "Post-party vow to never do it again"
+        "value": 600
       },
       {
         "clue": "The most expensive element of your party that guests will completely ignore",
         "correctQuestion": "What is the professional photographer?",
-        "value": 700,
-        "why_it_works": "Guests take more phone photos than professional photos"
+        "value": 700
       },
       {
         "clue": "Why your seating chart gets abandoned within 15 minutes of the party starting",
         "correctQuestion": "What is people not following instructions?",
-        "value": 600,
-        "why_it_works": "Hours spent planning seating that's ignored"
+        "value": 600
       },
       {
         "clue": "The one thing you're most proud of about your party that literally nobody mentions",
         "correctQuestion": "What is the table linens or napkin folding?",
-        "value": 600,
-        "why_it_works": "Details that take forever but go unnoticed"
+        "value": 600
       },
       {
         "clue": "What the phrase 'I'll help with the party' actually means",
         "correctQuestion": "What is 'I'll show up and eat'?",
-        "value": 700,
-        "why_it_works": "Empty offers of help are universal experience"
+        "value": 700
       },
       {
         "clue": "The beverage item that runs out first and gets reordered in a panic",
         "correctQuestion": "What is ice?",
-        "value": 500,
-        "why_it_works": "Ice shortage is a well-known party oversight"
+        "value": 500
       },
       {
         "clue": "Why the budget meeting becomes an argument about what counts as 'essential'",
         "correctQuestion": "What is someone wants champagne flutes and someone wants to use red cups?",
-        "value": 700,
-        "why_it_works": "Budget disagreements expose different values"
+        "value": 700
       },
       {
         "clue": "The most honest description of party planning in three words",
         "correctQuestion": "What is 'stress, debt, regret'?",
-        "value": 800,
-        "why_it_works": "Darkly honest summary of the whole process"
+        "value": 800
       }
     ]
   }

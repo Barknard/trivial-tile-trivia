@@ -2,17 +2,6 @@
   "category": "Birthday Party Planning",
   "theme": "event_planning",
   "category_id": "birthday_party_planning",
-  "description": "Event planning, organization, budgeting, logistics, party preparation, scheduling, vendor management, guest coordination, and practical mathematics for birthday celebrations",
-  "age_suitability": "All ages",
-  "research_alignment": "Executive function, planning skills, practical mathematics, organizational behavior, budgeting and financial planning, logistics management, communication skills, time management, decision-making",
-  "generated_date": "2025-12-26",
-  "total_questions": 180,
-  "research_sources": [
-    "Event Planning Mathematics: Cost calculations, catering per-person pricing, rental logistics",
-    "Executive Function: Planning skills, organization, decision-making under constraints",
-    "Practical Mathematics: Budgeting, fractions, percentages, measurements, venue capacity calculations",
-    "Event Management Best Practices: Timeline development, contingency planning, vendor coordination"
-  ],
   "audiences": {
     "kids_4_under": [
       {
@@ -194,9 +183,7 @@
         "clue": "This is the backup plan if your outdoor party gets rained on",
         "correctQuestion": "What is an indoor location or tent?",
         "value": 600
-      }
-    ],
-    "kids_5_9": [
+      },
       {
         "clue": "This is a detailed plan showing when each part of your party happens",
         "correctQuestion": "What is a timeline or schedule?",
@@ -378,7 +365,7 @@
         "value": 600
       }
     ],
-    "kids_10_13": [
+    "kids_10_under": [
       {
         "clue": "This document outlines all project elements from conception to completion",
         "correctQuestion": "What is a project plan or party plan?",
@@ -560,7 +547,7 @@
         "value": 600
       }
     ],
-    "high_school": [
+    "teenagers": [
       {
         "clue": "This strategic planning method identifies specific, measurable, achievable, relevant, and timely objectives",
         "correctQuestion": "What is SMART goal-setting?",

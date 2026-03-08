@@ -1,1634 +1,917 @@
 {
-  "title": "Beach & Ocean Life Trivia",
   "category": "Marine Biology & Ocean Creatures",
-  "difficulty_levels": [
-    "Beginner",
-    "Easy",
-    "Intermediate",
-    "Advanced",
-    "Expert",
-    "Master"
-  ],
-  "questions": [
-    {
-      "id": 1,
-      "level": 1,
-      "category": "Sea Creatures",
-      "question": "What do we call a large ocean mammal that lives in groups called pods?",
-      "answer": "Dolphin",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 2,
-      "level": 1,
-      "category": "Fish & Coral",
-      "question": "Which colorful fish is famous from the movie 'Finding Nemo'?",
-      "answer": "Clownfish",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 3,
-      "level": 1,
-      "category": "Ocean Mammals",
-      "question": "What is the largest animal in the entire world that lives in the ocean?",
-      "answer": "Blue whale",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 4,
-      "level": 1,
-      "category": "Shells & Shellfish",
-      "question": "What hard outer covering do crabs and lobsters have?",
-      "answer": "Exoskeleton",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 5,
-      "level": 1,
-      "category": "Ocean Life",
-      "question": "How many arms does an octopus have?",
-      "answer": "Eight",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 6,
-      "level": 1,
-      "category": "Sea Birds",
-      "question": "What diving seabird is known for its black and white coloring?",
-      "answer": "Penguin",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 7,
-      "level": 1,
-      "category": "Sharks",
-      "question": "What type of shark is known as the 'great' variety and is the largest predatory shark?",
-      "answer": "Great White Shark",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 8,
-      "level": 1,
-      "category": "Coral Reefs",
-      "question": "Coral reefs are made up of tiny creatures called what?",
-      "answer": "Polyps",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 9,
-      "level": 1,
-      "category": "Starfish",
-      "question": "What sea creature is shaped like a star and can regenerate lost arms?",
-      "answer": "Starfish (or Sea Star)",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 10,
-      "level": 1,
-      "category": "Jellyfish",
-      "question": "What ocean creature has tentacles and floats through the water like an umbrella?",
-      "answer": "Jellyfish",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 11,
-      "level": 1,
-      "category": "Sea Turtles",
-      "question": "What ancient ocean reptile returns to the same beach where it was born to lay eggs?",
-      "answer": "Sea turtle",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 12,
-      "level": 1,
-      "category": "Seals",
-      "question": "What marine mammal is known for balancing a ball on its nose?",
-      "answer": "Seal",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 13,
-      "level": 1,
-      "category": "Fish",
-      "question": "What spiky fish is known for puffing up when threatened?",
-      "answer": "Pufferfish",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 14,
-      "level": 1,
-      "category": "Crustaceans",
-      "question": "What crustacean walks sideways on the beach?",
-      "answer": "Crab",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 15,
-      "level": 1,
-      "category": "Whales",
-      "question": "What do baleen whales use to filter tiny food from seawater?",
-      "answer": "Baleen plates",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 16,
-      "level": 1,
-      "category": "Seahorses",
-      "question": "What tiny fish has a horse-like head and a curly tail?",
-      "answer": "Seahorse",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 17,
-      "level": 1,
-      "category": "Sea Lions",
-      "question": "What flippered marine mammal is related to seals?",
-      "answer": "Sea lion",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 18,
-      "level": 1,
-      "category": "Eels",
-      "question": "What electric ocean creature looks like a snake?",
-      "answer": "Electric eel",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 19,
-      "level": 1,
-      "category": "Shrimp",
-      "question": "What small crustacean is often pink and popular as food?",
-      "answer": "Shrimp",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 20,
-      "level": 1,
-      "category": "Fish",
-      "question": "What color fish has a long and pointy nose?",
-      "answer": "Swordfish",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 21,
-      "level": 1,
-      "category": "Mollusks",
-      "question": "What mollusk has a shell with two halves and can make pearls?",
-      "answer": "Oyster",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 22,
-      "level": 1,
-      "category": "Squid",
-      "question": "What ten-armed creature sprays ink to escape predators?",
-      "answer": "Squid",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 23,
-      "level": 1,
-      "category": "Dolphins",
-      "question": "What sound do dolphins use to find food and navigate underwater?",
-      "answer": "Echolocation",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 24,
-      "level": 1,
-      "category": "Manta Rays",
-      "question": "What flat fish has large wing-like fins and a friendly temperament?",
-      "answer": "Manta ray",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 25,
-      "level": 1,
-      "category": "Angelfish",
-      "question": "What tropical fish is decorated with stripes and looks like it's been painted?",
-      "answer": "Angelfish",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 26,
-      "level": 1,
-      "category": "Coral",
-      "question": "What colorful structures in the ocean are made of living organisms?",
-      "answer": "Coral reefs",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 27,
-      "level": 1,
-      "category": "Fish",
-      "question": "What spiky fish with bright colors lives on coral reefs?",
-      "answer": "Lion fish",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 28,
-      "level": 1,
-      "category": "Otters",
-      "question": "What furry marine mammal holds hands with its friends while sleeping?",
-      "answer": "Sea otter",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 29,
-      "level": 1,
-      "category": "Fish",
-      "question": "What flatfish hides on the ocean floor by changing color to match its surroundings?",
-      "answer": "Flounder",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 30,
-      "level": 1,
-      "category": "Seaweed",
-      "question": "What ocean plant can grow 2 feet per day and forms floating forests?",
-      "answer": "Kelp",
-      "points": 100,
-      "family_friendly": true
-    },
-    {
-      "id": 31,
-      "level": 2,
-      "category": "Whales",
-      "question": "How do humpback whales communicate with each other over long distances?",
-      "answer": "Singing",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 32,
-      "level": 2,
-      "category": "Fish",
-      "question": "What is the fastest fish in the ocean?",
-      "answer": "Sailfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 33,
-      "level": 2,
-      "category": "Crustaceans",
-      "question": "A lobster can have up to how many claws?",
-      "answer": "Three",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 34,
-      "level": 2,
-      "category": "Sharks",
-      "question": "What unique feature allows a shark to have a constant supply of sharp teeth?",
-      "answer": "Teeth that grow in rows",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 35,
-      "level": 2,
-      "category": "Fish",
-      "question": "What colorful fish is named after a type of clown?",
-      "answer": "Clownfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 36,
-      "level": 2,
-      "category": "Sea Creatures",
-      "question": "How many hearts does an octopus have?",
-      "answer": "Three",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 37,
-      "level": 2,
-      "category": "Penguins",
-      "question": "Penguins are flightless birds that live primarily in which hemisphere?",
-      "answer": "Southern",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 38,
-      "level": 2,
-      "category": "Jellyfish",
-      "question": "What is the only jellyfish that is not edible for most sea creatures?",
-      "answer": "Box jellyfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 39,
-      "level": 2,
-      "category": "Sea Turtles",
-      "question": "How long can a sea turtle hold its breath underwater?",
-      "answer": "Up to 7 hours",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 40,
-      "level": 2,
-      "category": "Fish",
-      "question": "What is the deepest-living fish ever discovered in the ocean?",
-      "answer": "Barreleye fish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 41,
-      "level": 2,
-      "category": "Dolphins",
-      "question": "What is a group of dolphins called?",
-      "answer": "Pod",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 42,
-      "level": 2,
-      "category": "Mollusks",
-      "question": "What mollusk is known for hiding inside a shell and clamping shut?",
-      "answer": "Clam",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 43,
-      "level": 2,
-      "category": "Starfish",
-      "question": "How many eyes does a starfish have?",
-      "answer": "None",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 44,
-      "level": 2,
-      "category": "Fish",
-      "question": "What fish can produce its own light to attract prey in the deep sea?",
-      "answer": "Anglerfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 45,
-      "level": 2,
-      "category": "Seahorses",
-      "question": "In seahorse families, which parent carries and gives birth to the babies?",
-      "answer": "Male",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 46,
-      "level": 2,
-      "category": "Mussels",
-      "question": "What do mussels use to attach themselves to rocks?",
-      "answer": "Byssal threads",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 47,
-      "level": 2,
-      "category": "Fish",
-      "question": "What is the only fish that can produce sounds underwater by grinding its teeth?",
-      "answer": "Grunt",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 48,
-      "level": 2,
-      "category": "Fish",
-      "question": "What tropical fish lives in anemones for protection?",
-      "answer": "Clownfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 49,
-      "level": 2,
-      "category": "Sea Otters",
-      "question": "Sea otters hold which object while sleeping to keep from drifting away?",
-      "answer": "Seaweed (or kelp)",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 50,
-      "level": 2,
-      "category": "Fish",
-      "question": "What ocean fish has venomous spines on its back?",
-      "answer": "Lionfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 51,
-      "level": 2,
-      "category": "Seals",
-      "question": "How do seals stay warm in cold ocean waters?",
-      "answer": "Blubber",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 52,
-      "level": 2,
-      "category": "Fish",
-      "question": "What is the name of the fish that shoots water at insects to knock them down?",
-      "answer": "Archerfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 53,
-      "level": 2,
-      "category": "Ocean Life",
-      "question": "What sea creature is the only animal that can turn its stomach inside out?",
-      "answer": "Starfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 54,
-      "level": 2,
-      "category": "Rays",
-      "question": "What does the electric ray use electricity for?",
-      "answer": "Hunting and defense",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 55,
-      "level": 2,
-      "category": "Fish",
-      "question": "What fish has eyes on the same side of its head?",
-      "answer": "Flatfish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 56,
-      "level": 2,
-      "category": "Whales",
-      "question": "What type of whale is the second largest animal on Earth?",
-      "answer": "Fin whale",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 57,
-      "level": 2,
-      "category": "Echinoderms",
-      "question": "What sea creature looks like a underwater cactus covered in spines?",
-      "answer": "Sea urchin",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 58,
-      "level": 2,
-      "category": "Fish",
-      "question": "What fish is known for being born in freshwater but living most of its life in saltwater?",
-      "answer": "Salmon",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 59,
-      "level": 2,
-      "category": "Crustaceans",
-      "question": "What crustacean can jump higher than any other animal relative to body size?",
-      "answer": "Mantis shrimp",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 60,
-      "level": 2,
-      "category": "Fish",
-      "question": "What long-bodied fish is often kept in saltwater aquariums?",
-      "answer": "Pipefish",
-      "points": 200,
-      "family_friendly": true
-    },
-    {
-      "id": 61,
-      "level": 3,
-      "category": "Marine Biology",
-      "question": "What is the process by which plants and algae convert sunlight into chemical energy underwater called?",
-      "answer": "Photosynthesis",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 62,
-      "level": 3,
-      "category": "Whale Biology",
-      "question": "What adaptation do deep-diving whales have that allows them to store extra oxygen?",
-      "answer": "Myoglobin in muscles",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 63,
-      "level": 3,
-      "category": "Sharks",
-      "question": "What specialized sensory organ do sharks use to detect electrical fields from prey?",
-      "answer": "Ampullae of Lorenzini",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 64,
-      "level": 3,
-      "category": "Fish",
-      "question": "How do fish regulate buoyancy in the water column?",
-      "answer": "Swim bladder",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 65,
-      "level": 3,
-      "category": "Coral Reefs",
-      "question": "What is the symbiotic relationship between coral and zooxanthellae called?",
-      "answer": "Mutualism",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 66,
-      "level": 3,
-      "category": "Marine Mammals",
-      "question": "What type of breathing does marine mammals do differently than fish?",
-      "answer": "Lungs instead of gills",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 67,
-      "level": 3,
-      "category": "Ocean Zones",
-      "question": "What is the deepest ocean zone where sunlight cannot penetrate?",
-      "answer": "Abyssal zone",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 68,
-      "level": 3,
-      "category": "Sea Turtles",
-      "question": "How do sea turtles navigate back to the same beach to lay eggs?",
-      "answer": "Magnetic field detection",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 69,
-      "level": 3,
-      "category": "Octopus",
-      "question": "What special tissue in an octopus allows it to change color in milliseconds?",
-      "answer": "Chromatophores",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 70,
-      "level": 3,
-      "category": "Fish Migration",
-      "question": "What is the term for fish that are born in freshwater and migrate to saltwater?",
-      "answer": "Anadromous",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 71,
-      "level": 3,
-      "category": "Bioluminescence",
-      "question": "What chemical reaction allows certain sea creatures to produce light?",
-      "answer": "Luciferin and luciferase",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 72,
-      "level": 3,
-      "category": "Plankton",
-      "question": "What tiny organisms form the base of most ocean food chains?",
-      "answer": "Phytoplankton",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 73,
-      "level": 3,
-      "category": "Dolphins",
-      "question": "What type of behavior do dolphins perform when they leap out of the water?",
-      "answer": "Porpoising",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 74,
-      "level": 3,
-      "category": "Mollusks",
-      "question": "What advantage does a nautilus shell provide that a squid doesn't have?",
-      "answer": "Buoyancy chambers",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 75,
-      "level": 3,
-      "category": "Eels",
-      "question": "Where do European eels travel thousands of miles to spawn?",
-      "answer": "Sargasso Sea",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 76,
-      "level": 3,
-      "category": "Fish",
-      "question": "What fish has venomous spines and lives in the scorpionfish family?",
-      "answer": "Lionfish",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 77,
-      "level": 3,
-      "category": "Crustaceans",
-      "question": "What is the incredible visual system of the mantis shrimp capable of detecting?",
-      "answer": "Polarized light",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 78,
-      "level": 3,
-      "category": "Sea Stars",
-      "question": "What is the process called when a starfish regenerates a lost arm?",
-      "answer": "Regeneration",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 79,
-      "level": 3,
-      "category": "Fish",
-      "question": "What is the term for fish that can live in both freshwater and saltwater?",
-      "answer": "Euryhaline",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 80,
-      "level": 3,
-      "category": "Whale Evolution",
-      "question": "What land mammal are whales most closely related to?",
-      "answer": "Hippopotamus",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 81,
-      "level": 3,
-      "category": "Ocean Currents",
-      "question": "What warm ocean current flows along the eastern coast of North America?",
-      "answer": "Gulf Stream",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 82,
-      "level": 3,
-      "category": "Fish",
-      "question": "What is the primary defense mechanism of the pufferfish?",
-      "answer": "Tetrodotoxin",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 83,
-      "level": 3,
-      "category": "Sharks",
-      "question": "What unusual sensory organ helps sharks navigate using the Earth's magnetic field?",
-      "answer": "Magnetoreception",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 84,
-      "level": 3,
-      "category": "Fish",
-      "question": "What type of fish uses its fins to 'walk' along the ocean floor?",
-      "answer": "Walking catfish",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 85,
-      "level": 3,
-      "category": "Marine Ecosystems",
-      "question": "What term describes the process where dead organisms sink to the ocean floor?",
-      "answer": "Marine snow",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 86,
-      "level": 3,
-      "category": "Rays",
-      "question": "What is the difference between rays and skates?",
-      "answer": "Rays have whip-like tails with spines; skates have flat tails",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 87,
-      "level": 3,
-      "category": "Fish",
-      "question": "What adaptation do anglerfish females have that makes them unique?",
-      "answer": "Bioluminescent lure",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 88,
-      "level": 3,
-      "category": "Ocean Life",
-      "question": "What is the process called when plants and animals in the ocean break down dead organic matter?",
-      "answer": "Decomposition",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 89,
-      "level": 3,
-      "category": "Jellyfish",
-      "question": "What is the free-swimming larval stage of jellyfish called?",
-      "answer": "Planula",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 90,
-      "level": 3,
-      "category": "Fish",
-      "question": "What is the name of the organ that filters water and extracts oxygen in fish?",
-      "answer": "Gills",
-      "points": 300,
-      "family_friendly": true
-    },
-    {
-      "id": 91,
-      "level": 4,
-      "category": "Cetacean Evolution",
-      "question": "What fossil evidence supports the evolutionary link between whales and land mammals?",
-      "answer": "Ambulocetus",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 92,
-      "level": 4,
-      "category": "Deep Sea Adaptations",
-      "question": "What pressure adaptation allows fish to survive in the abyssal zone?",
-      "answer": "Special proteins and lipids",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 93,
-      "level": 4,
-      "category": "Marine Chemistry",
-      "question": "What process describes the decrease in ocean pH due to carbon dioxide absorption?",
-      "answer": "Ocean acidification",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 94,
-      "level": 4,
-      "category": "Shark Reproduction",
-      "question": "What type of reproduction uses a yolk sac for nourishment in sharks?",
-      "answer": "Oviparity",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 95,
-      "level": 4,
-      "category": "Coral Bleaching",
-      "question": "What causes coral bleaching when water temperatures rise?",
-      "answer": "Expulsion of zooxanthellae",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 96,
-      "level": 4,
-      "category": "Fish Osmoregulation",
-      "question": "How do freshwater fish balance the osmotic pressure difference with their environment?",
-      "answer": "Drinking little water and actively absorbing salts",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 97,
-      "level": 4,
-      "category": "Marine Biodiversity",
-      "question": "What estimate describes the percentage of ocean species we have discovered?",
-      "answer": "Less than 20 percent",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 98,
-      "level": 4,
-      "category": "Whale Communication",
-      "question": "What frequency range do humpback whales use for their low-frequency calls?",
-      "answer": "20 to 9000 Hz",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 99,
-      "level": 4,
-      "category": "Cephalopod Intelligence",
-      "question": "What evidence suggests that cephalopods possess problem-solving abilities?",
-      "answer": "Tool use and maze solving",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 100,
-      "level": 4,
-      "category": "Migratory Patterns",
-      "question": "What is the longest migration of any ocean animal?",
-      "answer": "Arctic tern",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 101,
-      "level": 4,
-      "category": "Thermal Stratification",
-      "question": "What is the thermocline in ocean water?",
-      "answer": "Layer of rapid temperature change",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 102,
-      "level": 4,
-      "category": "Fish Schooling",
-      "question": "What evolutionary advantage does fish schooling provide?",
-      "answer": "Protection and hydrodynamic efficiency",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 103,
-      "level": 4,
-      "category": "Hydrothermal Vents",
-      "question": "What unique ecosystem exists around hydrothermal vents without sunlight?",
-      "answer": "Chemosynthetic community",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 104,
-      "level": 4,
-      "category": "Marine Parasites",
-      "question": "What parasitic copepod attaches to fish gills and feeds on their blood?",
-      "answer": "Sea louse",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 105,
-      "level": 4,
-      "category": "Predator Prey",
-      "question": "What hunting strategy do groupers use with cleaner fish?",
-      "answer": "Pointing to indicate prey location",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 106,
-      "level": 4,
-      "category": "Fish Countershading",
-      "question": "What protective coloration pattern do most fish display?",
-      "answer": "Dark on top, light below",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 107,
-      "level": 4,
-      "category": "Octopus Arms",
-      "question": "What percentage of an octopus's neurons are located in its arms?",
-      "answer": "Two-thirds",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 108,
-      "level": 4,
-      "category": "Shark Metabolism",
-      "question": "What metabolic rate classification do most sharks fall into?",
-      "answer": "Ectothermic",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 109,
-      "level": 4,
-      "category": "Deep Sea Gigantism",
-      "question": "What is the phenomenon where deep sea creatures grow much larger than shallow water cousins?",
-      "answer": "Gigantism",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 110,
-      "level": 4,
-      "category": "Symbiotic Relationships",
-      "question": "What relationship exists between clownfish and anemones?",
-      "answer": "Mutualism",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 111,
-      "level": 4,
-      "category": "Whale Songs",
-      "question": "How long can a humpback whale song last?",
-      "answer": "Up to 20 minutes",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 112,
-      "level": 4,
-      "category": "Seahorse Monogamy",
-      "question": "What unusual behavior do seahorses perform daily?",
-      "answer": "Greeting ritual with mate",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 113,
-      "level": 4,
-      "category": "Fish Eyes",
-      "question": "Why can't fish cry or produce tears?",
-      "answer": "They live in water",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 114,
-      "level": 4,
-      "category": "Whale Sharks",
-      "question": "What is the largest fish species in the world?",
-      "answer": "Whale shark",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 115,
-      "level": 4,
-      "category": "Bioluminescent Bacteria",
-      "question": "What type of organism produces light in an anglerfish lure?",
-      "answer": "Bioluminescent bacteria",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 116,
-      "level": 4,
-      "category": "Sea Stars",
-      "question": "How many minutes can a starfish survive outside of water?",
-      "answer": "Up to 30 minutes",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 117,
-      "level": 4,
-      "category": "Dolphin Echolocation",
-      "question": "What frequency of sound waves do dolphins emit for echolocation?",
-      "answer": "20 to 150 kHz",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 118,
-      "level": 4,
-      "category": "Turtle Plastron",
-      "question": "What is the ventral part of a turtle shell called?",
-      "answer": "Plastron",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 119,
-      "level": 4,
-      "category": "Crab Molting",
-      "question": "Why do crabs molt periodically?",
-      "answer": "To grow",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 120,
-      "level": 4,
-      "category": "Fish Barbels",
-      "question": "What sensory whisker-like structures do bottom-feeding fish have?",
-      "answer": "Barbels",
-      "points": 400,
-      "family_friendly": true
-    },
-    {
-      "id": 121,
-      "level": 5,
-      "category": "Molecular Biology",
-      "question": "What specific adaptation in whale hemoglobin allows extended oxygen storage?",
-      "answer": "High myoglobin concentration",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 122,
-      "level": 5,
-      "category": "Neural Processing",
-      "question": "What neurological feature of the mantis shrimp brain allows rapid color processing?",
-      "answer": "Parallel processing architecture",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 123,
-      "level": 5,
-      "category": "Genomic Studies",
-      "question": "What percentage of human genes are shared with zebrafish?",
-      "answer": "87 percent",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 124,
-      "level": 5,
-      "category": "Epigenetic Regulation",
-      "question": "What epigenetic mechanism controls sex determination in sea turtles?",
-      "answer": "Temperature-dependent sex determination",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 125,
-      "level": 5,
-      "category": "Osmoregulation",
-      "question": "What is the specific osmotic potential difference for euryhaline fish between fresh and salt water?",
-      "answer": "Approximately 300-400 mOsm/kg",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 126,
-      "level": 5,
-      "category": "Hydrostatic Pressure",
-      "question": "At what depth in the ocean does pressure exceed 1000 atmospheres?",
-      "answer": "Greater than 10,000 meters",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 127,
-      "level": 5,
-      "category": "Chemical Ecology",
-      "question": "What chemical compound do coral polyps use to distinguish between competitive and non-competitive species?",
-      "answer": "Allelochemical signals",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 128,
-      "level": 5,
-      "category": "Olfactory Biology",
-      "question": "How many olfactory receptors do sharks possess compared to humans?",
-      "answer": "1,000 times more",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 129,
-      "level": 5,
-      "category": "Metabolic Rate",
-      "question": "What is the estimated metabolic rate increase for every 10 degrees Celsius rise in ocean temperature?",
-      "answer": "Q10 effect: approximately 2-3 times",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 130,
-      "level": 5,
-      "category": "Acoustic Propagation",
-      "question": "What is the SOFAR channel in ocean acoustics?",
-      "answer": "Sound Fixing and Ranging channel",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 131,
-      "level": 5,
-      "category": "Diatom Biology",
-      "question": "What structural component of diatom cell walls provides silica-based protection?",
-      "answer": "Frustule",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 132,
-      "level": 5,
-      "category": "Larval Dispersal",
-      "question": "What oceanographic principle explains how coral larvae distribute across vast distances?",
-      "answer": "Larval dispersal via ocean currents",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 133,
-      "level": 5,
-      "category": "Chemoreception",
-      "question": "What specific receptors in fish lateral lines detect water displacement?",
-      "answer": "Mechanoreceptors",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 134,
-      "level": 5,
-      "category": "Thermal Tolerance",
-      "question": "What is the upper thermal tolerance limit for most tropical fish species?",
-      "answer": "32-35 degrees Celsius",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 135,
-      "level": 5,
-      "category": "Enzymatic Adaptation",
-      "question": "What adaptation allows Arctic fish enzymes to function in freezing temperatures?",
-      "answer": "Increased enzyme flexibility",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 136,
-      "level": 5,
-      "category": "Population Dynamics",
-      "question": "What mathematical model predicts predator-prey oscillations in marine ecosystems?",
-      "answer": "Lotka-Volterra equations",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 137,
-      "level": 5,
-      "category": "Trophic Transfer",
-      "question": "What percentage of energy is typically transferred between trophic levels in marine food chains?",
-      "answer": "10 percent",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 138,
-      "level": 5,
-      "category": "Antioxidant Defense",
-      "question": "What antioxidant enzymes do deep-sea organisms use to combat reactive oxygen species?",
-      "answer": "SOD and catalase",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 139,
-      "level": 5,
-      "category": "Symbiotic Evolution",
-      "question": "What evolutionary theory explains the origin of organelles in dinoflagellates hosting zooxanthellae?",
-      "answer": "Endosymbiotic theory",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 140,
-      "level": 5,
-      "category": "Phylogenetic Classification",
-      "question": "What clade includes all modern teleost fish?",
-      "answer": "Neopterygii",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 141,
-      "level": 5,
-      "category": "Cryptic Coloration",
-      "question": "What evolutionary selective pressure favors cryptic coloration in fish?",
-      "answer": "Predator avoidance",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 142,
-      "level": 5,
-      "category": "Allometric Scaling",
-      "question": "What allometric relationship governs heart rate relative to body mass in marine mammals?",
-      "answer": "Inverse relationship (Kleiber's law)",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 143,
-      "level": 5,
-      "category": "Benthic Ecology",
-      "question": "What defines the mesopelagic zone depth range?",
-      "answer": "200 to 1000 meters",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 144,
-      "level": 5,
-      "category": "Toxicology",
-      "question": "What is the mechanism of tetrodotoxin toxicity in pufferfish?",
-      "answer": "Sodium channel blockade",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 145,
-      "level": 5,
-      "category": "Reproductive Strategy",
-      "question": "What is the reproductive strategy of species with high fecundity and low parental investment called?",
-      "answer": "r-selection",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 146,
-      "level": 5,
-      "category": "Sensory Transduction",
-      "question": "What is the molecular basis of light detection in fish retinas?",
-      "answer": "Opsins and retinal",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 147,
-      "level": 5,
-      "category": "Nutrient Cycling",
-      "question": "What is the primary mechanism for nutrient transport in oligotrophic ocean waters?",
-      "answer": "Upwelling",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 148,
-      "level": 5,
-      "category": "Immune Response",
-      "question": "What innate immune mechanism do fish use against bacterial infection?",
-      "answer": "Complement system and lysozyme",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 149,
-      "level": 5,
-      "category": "Behavioral Ecology",
-      "question": "What is the cost-benefit analysis behind fish shoaling behavior evolution?",
-      "answer": "Predation risk reduction versus competitive feeding",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 150,
-      "level": 5,
-      "category": "Genomic Plasticity",
-      "question": "What epigenetic modifications regulate gene expression in response to environmental stress in fish?",
-      "answer": "DNA methylation and histone modification",
-      "points": 500,
-      "family_friendly": true
-    },
-    {
-      "id": 151,
-      "level": 6,
-      "category": "Proteomic Architecture",
-      "question": "What specific conformational changes occur in myosin during muscle contraction in marine mammals?",
-      "answer": "Power stroke and ratchet mechanism",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 152,
-      "level": 6,
-      "category": "Metabolic Flux Analysis",
-      "question": "What is the theoretical maximum ATP yield from complete glucose oxidation versus anaerobic glycolysis in diving mammals?",
-      "answer": "38 ATP vs 2 ATP",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 153,
-      "level": 6,
-      "category": "Evolutionary Developmental Biology",
-      "question": "What homologous structures in whale flippers correspond to human hand bones?",
-      "answer": "Modified phalanges and carpals",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 154,
-      "level": 6,
-      "category": "Neurobiological Integration",
-      "question": "What neural pathway integrates vestibular, visual, and lateral line input in fish?",
-      "answer": "Medial rostral hindbrain",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 155,
-      "level": 6,
-      "category": "Pharmacogenomics",
-      "question": "What CYP450 enzyme modifications allow fish to metabolize xenobiotic compounds?",
-      "answer": "Constitutive and inducible expression variants",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 156,
-      "level": 6,
-      "category": "Biomineralization",
-      "question": "What is the crystal structure and nucleation mechanism for otolith formation in fish?",
-      "answer": "Calcium carbonate (aragonite) on organic matrix",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 157,
-      "level": 6,
-      "category": "Oceanographic Biogeochemistry",
-      "question": "What is the redox potential threshold for the oxycline transition zone?",
-      "answer": "Approximately -200 to +400 mV",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 158,
-      "level": 6,
-      "category": "Chromatophore Genetics",
-      "question": "What genetic basis underlies rapid color change in cephalopods despite lacking color vision?",
-      "answer": "Photoreceptor-independent tuning",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 159,
-      "level": 6,
-      "category": "Iridophore Optics",
-      "question": "What structural interference principles enable iridescent coloration in marine fish scales?",
-      "answer": "Thin-film interference and multilayer reflectors",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 160,
-      "level": 6,
-      "category": "Hydrophobic Interactions",
-      "question": "What is the thermodynamic basis for lipid bilayer formation in fish cell membranes?",
-      "answer": "Hydrophobic effect and entropy",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 161,
-      "level": 6,
-      "category": "Polyphyletic Origins",
-      "question": "What evidence indicates convergent evolution in piscine fin morphology?",
-      "answer": "Homoplasy in fin ray development",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 162,
-      "level": 6,
-      "category": "Epizoic Relationships",
-      "question": "What parasitic copepod specificity mechanisms evolve in host-parasite dynamics?",
-      "answer": "Sensory recognition and attachment specificity",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 163,
-      "level": 6,
-      "category": "Hydrostatic Skeleton",
-      "question": "What mechanical properties of cephalopod muscular hydrostats enable peristaltic locomotion?",
-      "answer": "Incompressible fluid dynamics and muscular antagonism",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 164,
-      "level": 6,
-      "category": "Gene Expression Regulation",
-      "question": "What promoter elements regulate heat shock protein expression in thermal stress responses?",
-      "answer": "Heat shock elements (HSE)",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 165,
-      "level": 6,
-      "category": "Synaptic Plasticity",
-      "question": "What long-term potentiation mechanisms underlie learning in marine mammal brains?",
-      "answer": "NMDA receptor-mediated calcium influx",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 166,
-      "level": 6,
-      "category": "Pelagic Microbiology",
-      "question": "What prokaryotic metabolic pathways dominate in anoxic marine microbial communities?",
-      "answer": "Sulfur and methane metabolism",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 167,
-      "level": 6,
-      "category": "Ecophysiological Tolerance",
-      "question": "What is the theoretical basis for oxygen diffusion limitations in tissues at extreme depth?",
-      "answer": "Fick's law of diffusion",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 168,
-      "level": 6,
-      "category": "Viral Mediated Evolution",
-      "question": "What role do bacteriophages play in horizontal gene transfer among marine bacteria?",
-      "answer": "Transduction vectors",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 169,
-      "level": 6,
-      "category": "Biofouling Ecology",
-      "question": "What biofilm formation and quorum sensing mechanisms regulate settlement in marine larvae?",
-      "answer": "Acyl-homoserine lactone signaling",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 170,
-      "level": 6,
-      "category": "Endocrine Disruption",
-      "question": "What xenobiotic compounds mimic steroid hormones in fish endocrine systems?",
-      "answer": "Bisphenol A and phthalates",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 171,
-      "level": 6,
-      "category": "Codon Usage Bias",
-      "question": "What evolutionary pressure shapes codon usage patterns in highly expressed fish genes?",
-      "answer": "Translation efficiency and mRNA secondary structure",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 172,
-      "level": 6,
-      "category": "Membrane Fluidity",
-      "question": "What lipid composition adjustments maintain membrane fluidity in psychrophilic marine organisms?",
-      "answer": "Increased polyunsaturated fatty acids",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 173,
-      "level": 6,
-      "category": "Nephric Evolution",
-      "question": "What osmoregulatory challenges necessitate specialized kidney morphology in euryhaline fish?",
-      "answer": "Salt reabsorption and water balance",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 174,
-      "level": 6,
-      "category": "Bioluminescent Signaling",
-      "question": "What quorum-sensing mechanisms regulate luxAB genes in symbiotic Vibrio bacteria?",
-      "answer": "Density-dependent autoinduction",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 175,
-      "level": 6,
-      "category": "Metacommunity Dynamics",
-      "question": "What connectivity models predict species distribution across fragmented coral reef patches?",
-      "answer": "Metapopulation theory with larval dispersal kernels",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 176,
-      "level": 6,
-      "category": "Paleontology Integration",
-      "question": "What fossil record evidence constrains the divergence time of major teleost lineages?",
-      "answer": "Molecular clock calibration with paleontological data",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 177,
-      "level": 6,
-      "category": "Chemotactic Gradients",
-      "question": "What mathematical models describe chemotaxis in larval fish responding to olfactory cues?",
-      "answer": "Partial differential equations with reaction-diffusion terms",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 178,
-      "level": 6,
-      "category": "Phenotypic Plasticity",
-      "question": "What developmental windows exhibit maximum phenotypic plasticity in fish morphogenesis?",
-      "answer": "Early embryonic stages with epigenetic regulation",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 179,
-      "level": 6,
-      "category": "Allelic Variation",
-      "question": "What genomic heterozygosity levels correlate with fitness in marine populations?",
-      "answer": "Nonlinear relationship with intermediate optima",
-      "points": 600,
-      "family_friendly": true
-    },
-    {
-      "id": 180,
-      "level": 6,
-      "category": "Anthropogenic Stressors",
-      "question": "What multi-stressor interaction models predict fish population responses to climate change?",
-      "answer": "Non-additive synergistic effects",
-      "points": 600,
-      "family_friendly": true
-    }
-  ]
+  "theme": "beach",
+  "category_id": "beach_ocean_life",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What do we call a large ocean mammal that lives in groups called pods?",
+        "correctQuestion": "Dolphin",
+        "value": 100
+      },
+      {
+        "clue": "Which colorful fish is famous from the movie 'Finding Nemo'?",
+        "correctQuestion": "Clownfish",
+        "value": 100
+      },
+      {
+        "clue": "What is the largest animal in the entire world that lives in the ocean?",
+        "correctQuestion": "Blue whale",
+        "value": 100
+      },
+      {
+        "clue": "What hard outer covering do crabs and lobsters have?",
+        "correctQuestion": "Exoskeleton",
+        "value": 100
+      },
+      {
+        "clue": "How many arms does an octopus have?",
+        "correctQuestion": "Eight",
+        "value": 100
+      },
+      {
+        "clue": "What diving seabird is known for its black and white coloring?",
+        "correctQuestion": "Penguin",
+        "value": 100
+      },
+      {
+        "clue": "What type of shark is known as the 'great' variety and is the largest predatory shark?",
+        "correctQuestion": "Great White Shark",
+        "value": 100
+      },
+      {
+        "clue": "Coral reefs are made up of tiny creatures called what?",
+        "correctQuestion": "Polyps",
+        "value": 100
+      },
+      {
+        "clue": "What sea creature is shaped like a star and can regenerate lost arms?",
+        "correctQuestion": "Starfish (or Sea Star)",
+        "value": 100
+      },
+      {
+        "clue": "What ocean creature has tentacles and floats through the water like an umbrella?",
+        "correctQuestion": "Jellyfish",
+        "value": 100
+      },
+      {
+        "clue": "What ancient ocean reptile returns to the same beach where it was born to lay eggs?",
+        "correctQuestion": "Sea turtle",
+        "value": 100
+      },
+      {
+        "clue": "What marine mammal is known for balancing a ball on its nose?",
+        "correctQuestion": "Seal",
+        "value": 100
+      },
+      {
+        "clue": "What spiky fish is known for puffing up when threatened?",
+        "correctQuestion": "Pufferfish",
+        "value": 100
+      },
+      {
+        "clue": "What crustacean walks sideways on the beach?",
+        "correctQuestion": "Crab",
+        "value": 100
+      },
+      {
+        "clue": "What do baleen whales use to filter tiny food from seawater?",
+        "correctQuestion": "Baleen plates",
+        "value": 100
+      },
+      {
+        "clue": "What tiny fish has a horse-like head and a curly tail?",
+        "correctQuestion": "Seahorse",
+        "value": 100
+      },
+      {
+        "clue": "What flippered marine mammal is related to seals?",
+        "correctQuestion": "Sea lion",
+        "value": 100
+      },
+      {
+        "clue": "What electric ocean creature looks like a snake?",
+        "correctQuestion": "Electric eel",
+        "value": 100
+      },
+      {
+        "clue": "What small crustacean is often pink and popular as food?",
+        "correctQuestion": "Shrimp",
+        "value": 100
+      },
+      {
+        "clue": "What color fish has a long and pointy nose?",
+        "correctQuestion": "Swordfish",
+        "value": 100
+      },
+      {
+        "clue": "What mollusk has a shell with two halves and can make pearls?",
+        "correctQuestion": "Oyster",
+        "value": 100
+      },
+      {
+        "clue": "What ten-armed creature sprays ink to escape predators?",
+        "correctQuestion": "Squid",
+        "value": 100
+      },
+      {
+        "clue": "What sound do dolphins use to find food and navigate underwater?",
+        "correctQuestion": "Echolocation",
+        "value": 100
+      },
+      {
+        "clue": "What flat fish has large wing-like fins and a friendly temperament?",
+        "correctQuestion": "Manta ray",
+        "value": 100
+      },
+      {
+        "clue": "What tropical fish is decorated with stripes and looks like it's been painted?",
+        "correctQuestion": "Angelfish",
+        "value": 100
+      },
+      {
+        "clue": "What colorful structures in the ocean are made of living organisms?",
+        "correctQuestion": "Coral reefs",
+        "value": 100
+      },
+      {
+        "clue": "What spiky fish with bright colors lives on coral reefs?",
+        "correctQuestion": "Lion fish",
+        "value": 100
+      },
+      {
+        "clue": "What furry marine mammal holds hands with its friends while sleeping?",
+        "correctQuestion": "Sea otter",
+        "value": 100
+      },
+      {
+        "clue": "What flatfish hides on the ocean floor by changing color to match its surroundings?",
+        "correctQuestion": "Flounder",
+        "value": 100
+      },
+      {
+        "clue": "What ocean plant can grow 2 feet per day and forms floating forests?",
+        "correctQuestion": "Kelp",
+        "value": 100
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "How do humpback whales communicate with each other over long distances?",
+        "correctQuestion": "Singing",
+        "value": 200
+      },
+      {
+        "clue": "What is the fastest fish in the ocean?",
+        "correctQuestion": "Sailfish",
+        "value": 200
+      },
+      {
+        "clue": "A lobster can have up to how many claws?",
+        "correctQuestion": "Three",
+        "value": 200
+      },
+      {
+        "clue": "What unique feature allows a shark to have a constant supply of sharp teeth?",
+        "correctQuestion": "Teeth that grow in rows",
+        "value": 200
+      },
+      {
+        "clue": "What colorful fish is named after a type of clown?",
+        "correctQuestion": "Clownfish",
+        "value": 200
+      },
+      {
+        "clue": "How many hearts does an octopus have?",
+        "correctQuestion": "Three",
+        "value": 200
+      },
+      {
+        "clue": "Penguins are flightless birds that live primarily in which hemisphere?",
+        "correctQuestion": "Southern",
+        "value": 200
+      },
+      {
+        "clue": "What is the only jellyfish that is not edible for most sea creatures?",
+        "correctQuestion": "Box jellyfish",
+        "value": 200
+      },
+      {
+        "clue": "How long can a sea turtle hold its breath underwater?",
+        "correctQuestion": "Up to 7 hours",
+        "value": 200
+      },
+      {
+        "clue": "What is the deepest-living fish ever discovered in the ocean?",
+        "correctQuestion": "Barreleye fish",
+        "value": 200
+      },
+      {
+        "clue": "What is a group of dolphins called?",
+        "correctQuestion": "Pod",
+        "value": 200
+      },
+      {
+        "clue": "What mollusk is known for hiding inside a shell and clamping shut?",
+        "correctQuestion": "Clam",
+        "value": 200
+      },
+      {
+        "clue": "How many eyes does a starfish have?",
+        "correctQuestion": "None",
+        "value": 200
+      },
+      {
+        "clue": "What fish can produce its own light to attract prey in the deep sea?",
+        "correctQuestion": "Anglerfish",
+        "value": 200
+      },
+      {
+        "clue": "In seahorse families, which parent carries and gives birth to the babies?",
+        "correctQuestion": "Male",
+        "value": 200
+      },
+      {
+        "clue": "What do mussels use to attach themselves to rocks?",
+        "correctQuestion": "Byssal threads",
+        "value": 200
+      },
+      {
+        "clue": "What is the only fish that can produce sounds underwater by grinding its teeth?",
+        "correctQuestion": "Grunt",
+        "value": 200
+      },
+      {
+        "clue": "What tropical fish lives in anemones for protection?",
+        "correctQuestion": "Clownfish",
+        "value": 200
+      },
+      {
+        "clue": "Sea otters hold which object while sleeping to keep from drifting away?",
+        "correctQuestion": "Seaweed (or kelp)",
+        "value": 200
+      },
+      {
+        "clue": "What ocean fish has venomous spines on its back?",
+        "correctQuestion": "Lionfish",
+        "value": 200
+      },
+      {
+        "clue": "How do seals stay warm in cold ocean waters?",
+        "correctQuestion": "Blubber",
+        "value": 200
+      },
+      {
+        "clue": "What is the name of the fish that shoots water at insects to knock them down?",
+        "correctQuestion": "Archerfish",
+        "value": 200
+      },
+      {
+        "clue": "What sea creature is the only animal that can turn its stomach inside out?",
+        "correctQuestion": "Starfish",
+        "value": 200
+      },
+      {
+        "clue": "What does the electric ray use electricity for?",
+        "correctQuestion": "Hunting and defense",
+        "value": 200
+      },
+      {
+        "clue": "What fish has eyes on the same side of its head?",
+        "correctQuestion": "Flatfish",
+        "value": 200
+      },
+      {
+        "clue": "What type of whale is the second largest animal on Earth?",
+        "correctQuestion": "Fin whale",
+        "value": 200
+      },
+      {
+        "clue": "What sea creature looks like a underwater cactus covered in spines?",
+        "correctQuestion": "Sea urchin",
+        "value": 200
+      },
+      {
+        "clue": "What fish is known for being born in freshwater but living most of its life in saltwater?",
+        "correctQuestion": "Salmon",
+        "value": 200
+      },
+      {
+        "clue": "What crustacean can jump higher than any other animal relative to body size?",
+        "correctQuestion": "Mantis shrimp",
+        "value": 200
+      },
+      {
+        "clue": "What long-bodied fish is often kept in saltwater aquariums?",
+        "correctQuestion": "Pipefish",
+        "value": 200
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "What is the process by which plants and algae convert sunlight into chemical energy underwater called?",
+        "correctQuestion": "Photosynthesis",
+        "value": 300
+      },
+      {
+        "clue": "What adaptation do deep-diving whales have that allows them to store extra oxygen?",
+        "correctQuestion": "Myoglobin in muscles",
+        "value": 300
+      },
+      {
+        "clue": "What specialized sensory organ do sharks use to detect electrical fields from prey?",
+        "correctQuestion": "Ampullae of Lorenzini",
+        "value": 300
+      },
+      {
+        "clue": "How do fish regulate buoyancy in the water column?",
+        "correctQuestion": "Swim bladder",
+        "value": 300
+      },
+      {
+        "clue": "What is the symbiotic relationship between coral and zooxanthellae called?",
+        "correctQuestion": "Mutualism",
+        "value": 300
+      },
+      {
+        "clue": "What type of breathing does marine mammals do differently than fish?",
+        "correctQuestion": "Lungs instead of gills",
+        "value": 300
+      },
+      {
+        "clue": "What is the deepest ocean zone where sunlight cannot penetrate?",
+        "correctQuestion": "Abyssal zone",
+        "value": 300
+      },
+      {
+        "clue": "How do sea turtles navigate back to the same beach to lay eggs?",
+        "correctQuestion": "Magnetic field detection",
+        "value": 300
+      },
+      {
+        "clue": "What special tissue in an octopus allows it to change color in milliseconds?",
+        "correctQuestion": "Chromatophores",
+        "value": 300
+      },
+      {
+        "clue": "What is the term for fish that are born in freshwater and migrate to saltwater?",
+        "correctQuestion": "Anadromous",
+        "value": 300
+      },
+      {
+        "clue": "What chemical reaction allows certain sea creatures to produce light?",
+        "correctQuestion": "Luciferin and luciferase",
+        "value": 300
+      },
+      {
+        "clue": "What tiny organisms form the base of most ocean food chains?",
+        "correctQuestion": "Phytoplankton",
+        "value": 300
+      },
+      {
+        "clue": "What type of behavior do dolphins perform when they leap out of the water?",
+        "correctQuestion": "Porpoising",
+        "value": 300
+      },
+      {
+        "clue": "What advantage does a nautilus shell provide that a squid doesn't have?",
+        "correctQuestion": "Buoyancy chambers",
+        "value": 300
+      },
+      {
+        "clue": "Where do European eels travel thousands of miles to spawn?",
+        "correctQuestion": "Sargasso Sea",
+        "value": 300
+      },
+      {
+        "clue": "What fish has venomous spines and lives in the scorpionfish family?",
+        "correctQuestion": "Lionfish",
+        "value": 300
+      },
+      {
+        "clue": "What is the incredible visual system of the mantis shrimp capable of detecting?",
+        "correctQuestion": "Polarized light",
+        "value": 300
+      },
+      {
+        "clue": "What is the process called when a starfish regenerates a lost arm?",
+        "correctQuestion": "Regeneration",
+        "value": 300
+      },
+      {
+        "clue": "What is the term for fish that can live in both freshwater and saltwater?",
+        "correctQuestion": "Euryhaline",
+        "value": 300
+      },
+      {
+        "clue": "What land mammal are whales most closely related to?",
+        "correctQuestion": "Hippopotamus",
+        "value": 300
+      },
+      {
+        "clue": "What warm ocean current flows along the eastern coast of North America?",
+        "correctQuestion": "Gulf Stream",
+        "value": 300
+      },
+      {
+        "clue": "What is the primary defense mechanism of the pufferfish?",
+        "correctQuestion": "Tetrodotoxin",
+        "value": 300
+      },
+      {
+        "clue": "What unusual sensory organ helps sharks navigate using the Earth's magnetic field?",
+        "correctQuestion": "Magnetoreception",
+        "value": 300
+      },
+      {
+        "clue": "What type of fish uses its fins to 'walk' along the ocean floor?",
+        "correctQuestion": "Walking catfish",
+        "value": 300
+      },
+      {
+        "clue": "What term describes the process where dead organisms sink to the ocean floor?",
+        "correctQuestion": "Marine snow",
+        "value": 300
+      },
+      {
+        "clue": "What is the difference between rays and skates?",
+        "correctQuestion": "Rays have whip-like tails with spines; skates have flat tails",
+        "value": 300
+      },
+      {
+        "clue": "What adaptation do anglerfish females have that makes them unique?",
+        "correctQuestion": "Bioluminescent lure",
+        "value": 300
+      },
+      {
+        "clue": "What is the process called when plants and animals in the ocean break down dead organic matter?",
+        "correctQuestion": "Decomposition",
+        "value": 300
+      },
+      {
+        "clue": "What is the free-swimming larval stage of jellyfish called?",
+        "correctQuestion": "Planula",
+        "value": 300
+      },
+      {
+        "clue": "What is the name of the organ that filters water and extracts oxygen in fish?",
+        "correctQuestion": "Gills",
+        "value": 300
+      }
+    ],
+    "adults": [
+      {
+        "clue": "What fossil evidence supports the evolutionary link between whales and land mammals?",
+        "correctQuestion": "Ambulocetus",
+        "value": 400
+      },
+      {
+        "clue": "What pressure adaptation allows fish to survive in the abyssal zone?",
+        "correctQuestion": "Special proteins and lipids",
+        "value": 400
+      },
+      {
+        "clue": "What process describes the decrease in ocean pH due to carbon dioxide absorption?",
+        "correctQuestion": "Ocean acidification",
+        "value": 400
+      },
+      {
+        "clue": "What type of reproduction uses a yolk sac for nourishment in sharks?",
+        "correctQuestion": "Oviparity",
+        "value": 400
+      },
+      {
+        "clue": "What causes coral bleaching when water temperatures rise?",
+        "correctQuestion": "Expulsion of zooxanthellae",
+        "value": 400
+      },
+      {
+        "clue": "How do freshwater fish balance the osmotic pressure difference with their environment?",
+        "correctQuestion": "Drinking little water and actively absorbing salts",
+        "value": 400
+      },
+      {
+        "clue": "What estimate describes the percentage of ocean species we have discovered?",
+        "correctQuestion": "Less than 20 percent",
+        "value": 400
+      },
+      {
+        "clue": "What frequency range do humpback whales use for their low-frequency calls?",
+        "correctQuestion": "20 to 9000 Hz",
+        "value": 400
+      },
+      {
+        "clue": "What evidence suggests that cephalopods possess problem-solving abilities?",
+        "correctQuestion": "Tool use and maze solving",
+        "value": 400
+      },
+      {
+        "clue": "What is the longest migration of any ocean animal?",
+        "correctQuestion": "Arctic tern",
+        "value": 400
+      },
+      {
+        "clue": "What is the thermocline in ocean water?",
+        "correctQuestion": "Layer of rapid temperature change",
+        "value": 400
+      },
+      {
+        "clue": "What evolutionary advantage does fish schooling provide?",
+        "correctQuestion": "Protection and hydrodynamic efficiency",
+        "value": 400
+      },
+      {
+        "clue": "What unique ecosystem exists around hydrothermal vents without sunlight?",
+        "correctQuestion": "Chemosynthetic community",
+        "value": 400
+      },
+      {
+        "clue": "What parasitic copepod attaches to fish gills and feeds on their blood?",
+        "correctQuestion": "Sea louse",
+        "value": 400
+      },
+      {
+        "clue": "What hunting strategy do groupers use with cleaner fish?",
+        "correctQuestion": "Pointing to indicate prey location",
+        "value": 400
+      },
+      {
+        "clue": "What protective coloration pattern do most fish display?",
+        "correctQuestion": "Dark on top, light below",
+        "value": 400
+      },
+      {
+        "clue": "What percentage of an octopus's neurons are located in its arms?",
+        "correctQuestion": "Two-thirds",
+        "value": 400
+      },
+      {
+        "clue": "What metabolic rate classification do most sharks fall into?",
+        "correctQuestion": "Ectothermic",
+        "value": 400
+      },
+      {
+        "clue": "What is the phenomenon where deep sea creatures grow much larger than shallow water cousins?",
+        "correctQuestion": "Gigantism",
+        "value": 400
+      },
+      {
+        "clue": "What relationship exists between clownfish and anemones?",
+        "correctQuestion": "Mutualism",
+        "value": 400
+      },
+      {
+        "clue": "How long can a humpback whale song last?",
+        "correctQuestion": "Up to 20 minutes",
+        "value": 400
+      },
+      {
+        "clue": "What unusual behavior do seahorses perform daily?",
+        "correctQuestion": "Greeting ritual with mate",
+        "value": 400
+      },
+      {
+        "clue": "Why can't fish cry or produce tears?",
+        "correctQuestion": "They live in water",
+        "value": 400
+      },
+      {
+        "clue": "What is the largest fish species in the world?",
+        "correctQuestion": "Whale shark",
+        "value": 400
+      },
+      {
+        "clue": "What type of organism produces light in an anglerfish lure?",
+        "correctQuestion": "Bioluminescent bacteria",
+        "value": 400
+      },
+      {
+        "clue": "How many minutes can a starfish survive outside of water?",
+        "correctQuestion": "Up to 30 minutes",
+        "value": 400
+      },
+      {
+        "clue": "What frequency of sound waves do dolphins emit for echolocation?",
+        "correctQuestion": "20 to 150 kHz",
+        "value": 400
+      },
+      {
+        "clue": "What is the ventral part of a turtle shell called?",
+        "correctQuestion": "Plastron",
+        "value": 400
+      },
+      {
+        "clue": "Why do crabs molt periodically?",
+        "correctQuestion": "To grow",
+        "value": 400
+      },
+      {
+        "clue": "What sensory whisker-like structures do bottom-feeding fish have?",
+        "correctQuestion": "Barbels",
+        "value": 400
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "What specific adaptation in whale hemoglobin allows extended oxygen storage?",
+        "correctQuestion": "High myoglobin concentration",
+        "value": 500
+      },
+      {
+        "clue": "What neurological feature of the mantis shrimp brain allows rapid color processing?",
+        "correctQuestion": "Parallel processing architecture",
+        "value": 500
+      },
+      {
+        "clue": "What percentage of human genes are shared with zebrafish?",
+        "correctQuestion": "87 percent",
+        "value": 500
+      },
+      {
+        "clue": "What epigenetic mechanism controls sex determination in sea turtles?",
+        "correctQuestion": "Temperature-dependent sex determination",
+        "value": 500
+      },
+      {
+        "clue": "What is the specific osmotic potential difference for euryhaline fish between fresh and salt water?",
+        "correctQuestion": "Approximately 300-400 mOsm/kg",
+        "value": 500
+      },
+      {
+        "clue": "At what depth in the ocean does pressure exceed 1000 atmospheres?",
+        "correctQuestion": "Greater than 10,000 meters",
+        "value": 500
+      },
+      {
+        "clue": "What chemical compound do coral polyps use to distinguish between competitive and non-competitive species?",
+        "correctQuestion": "Allelochemical signals",
+        "value": 500
+      },
+      {
+        "clue": "How many olfactory receptors do sharks possess compared to humans?",
+        "correctQuestion": "1,000 times more",
+        "value": 500
+      },
+      {
+        "clue": "What is the estimated metabolic rate increase for every 10 degrees Celsius rise in ocean temperature?",
+        "correctQuestion": "Q10 effect: approximately 2-3 times",
+        "value": 500
+      },
+      {
+        "clue": "What is the SOFAR channel in ocean acoustics?",
+        "correctQuestion": "Sound Fixing and Ranging channel",
+        "value": 500
+      },
+      {
+        "clue": "What structural component of diatom cell walls provides silica-based protection?",
+        "correctQuestion": "Frustule",
+        "value": 500
+      },
+      {
+        "clue": "What oceanographic principle explains how coral larvae distribute across vast distances?",
+        "correctQuestion": "Larval dispersal via ocean currents",
+        "value": 500
+      },
+      {
+        "clue": "What specific receptors in fish lateral lines detect water displacement?",
+        "correctQuestion": "Mechanoreceptors",
+        "value": 500
+      },
+      {
+        "clue": "What is the upper thermal tolerance limit for most tropical fish species?",
+        "correctQuestion": "32-35 degrees Celsius",
+        "value": 500
+      },
+      {
+        "clue": "What adaptation allows Arctic fish enzymes to function in freezing temperatures?",
+        "correctQuestion": "Increased enzyme flexibility",
+        "value": 500
+      },
+      {
+        "clue": "What mathematical model predicts predator-prey oscillations in marine ecosystems?",
+        "correctQuestion": "Lotka-Volterra equations",
+        "value": 500
+      },
+      {
+        "clue": "What percentage of energy is typically transferred between trophic levels in marine food chains?",
+        "correctQuestion": "10 percent",
+        "value": 500
+      },
+      {
+        "clue": "What antioxidant enzymes do deep-sea organisms use to combat reactive oxygen species?",
+        "correctQuestion": "SOD and catalase",
+        "value": 500
+      },
+      {
+        "clue": "What evolutionary theory explains the origin of organelles in dinoflagellates hosting zooxanthellae?",
+        "correctQuestion": "Endosymbiotic theory",
+        "value": 500
+      },
+      {
+        "clue": "What clade includes all modern teleost fish?",
+        "correctQuestion": "Neopterygii",
+        "value": 500
+      },
+      {
+        "clue": "What evolutionary selective pressure favors cryptic coloration in fish?",
+        "correctQuestion": "Predator avoidance",
+        "value": 500
+      },
+      {
+        "clue": "What allometric relationship governs heart rate relative to body mass in marine mammals?",
+        "correctQuestion": "Inverse relationship (Kleiber's law)",
+        "value": 500
+      },
+      {
+        "clue": "What defines the mesopelagic zone depth range?",
+        "correctQuestion": "200 to 1000 meters",
+        "value": 500
+      },
+      {
+        "clue": "What is the mechanism of tetrodotoxin toxicity in pufferfish?",
+        "correctQuestion": "Sodium channel blockade",
+        "value": 500
+      },
+      {
+        "clue": "What is the reproductive strategy of species with high fecundity and low parental investment called?",
+        "correctQuestion": "r-selection",
+        "value": 500
+      },
+      {
+        "clue": "What is the molecular basis of light detection in fish retinas?",
+        "correctQuestion": "Opsins and retinal",
+        "value": 500
+      },
+      {
+        "clue": "What is the primary mechanism for nutrient transport in oligotrophic ocean waters?",
+        "correctQuestion": "Upwelling",
+        "value": 500
+      },
+      {
+        "clue": "What innate immune mechanism do fish use against bacterial infection?",
+        "correctQuestion": "Complement system and lysozyme",
+        "value": 500
+      },
+      {
+        "clue": "What is the cost-benefit analysis behind fish shoaling behavior evolution?",
+        "correctQuestion": "Predation risk reduction versus competitive feeding",
+        "value": 500
+      },
+      {
+        "clue": "What epigenetic modifications regulate gene expression in response to environmental stress in fish?",
+        "correctQuestion": "DNA methylation and histone modification",
+        "value": 500
+      },
+      {
+        "clue": "What specific conformational changes occur in myosin during muscle contraction in marine mammals?",
+        "correctQuestion": "Power stroke and ratchet mechanism",
+        "value": 600
+      },
+      {
+        "clue": "What is the theoretical maximum ATP yield from complete glucose oxidation versus anaerobic glycolysis in diving mammals?",
+        "correctQuestion": "38 ATP vs 2 ATP",
+        "value": 600
+      },
+      {
+        "clue": "What homologous structures in whale flippers correspond to human hand bones?",
+        "correctQuestion": "Modified phalanges and carpals",
+        "value": 600
+      },
+      {
+        "clue": "What neural pathway integrates vestibular, visual, and lateral line input in fish?",
+        "correctQuestion": "Medial rostral hindbrain",
+        "value": 600
+      },
+      {
+        "clue": "What CYP450 enzyme modifications allow fish to metabolize xenobiotic compounds?",
+        "correctQuestion": "Constitutive and inducible expression variants",
+        "value": 600
+      },
+      {
+        "clue": "What is the crystal structure and nucleation mechanism for otolith formation in fish?",
+        "correctQuestion": "Calcium carbonate (aragonite) on organic matrix",
+        "value": 600
+      },
+      {
+        "clue": "What is the redox potential threshold for the oxycline transition zone?",
+        "correctQuestion": "Approximately -200 to +400 mV",
+        "value": 600
+      },
+      {
+        "clue": "What genetic basis underlies rapid color change in cephalopods despite lacking color vision?",
+        "correctQuestion": "Photoreceptor-independent tuning",
+        "value": 600
+      },
+      {
+        "clue": "What structural interference principles enable iridescent coloration in marine fish scales?",
+        "correctQuestion": "Thin-film interference and multilayer reflectors",
+        "value": 600
+      },
+      {
+        "clue": "What is the thermodynamic basis for lipid bilayer formation in fish cell membranes?",
+        "correctQuestion": "Hydrophobic effect and entropy",
+        "value": 600
+      },
+      {
+        "clue": "What evidence indicates convergent evolution in piscine fin morphology?",
+        "correctQuestion": "Homoplasy in fin ray development",
+        "value": 600
+      },
+      {
+        "clue": "What parasitic copepod specificity mechanisms evolve in host-parasite dynamics?",
+        "correctQuestion": "Sensory recognition and attachment specificity",
+        "value": 600
+      },
+      {
+        "clue": "What mechanical properties of cephalopod muscular hydrostats enable peristaltic locomotion?",
+        "correctQuestion": "Incompressible fluid dynamics and muscular antagonism",
+        "value": 600
+      },
+      {
+        "clue": "What promoter elements regulate heat shock protein expression in thermal stress responses?",
+        "correctQuestion": "Heat shock elements (HSE)",
+        "value": 600
+      },
+      {
+        "clue": "What long-term potentiation mechanisms underlie learning in marine mammal brains?",
+        "correctQuestion": "NMDA receptor-mediated calcium influx",
+        "value": 600
+      },
+      {
+        "clue": "What prokaryotic metabolic pathways dominate in anoxic marine microbial communities?",
+        "correctQuestion": "Sulfur and methane metabolism",
+        "value": 600
+      },
+      {
+        "clue": "What is the theoretical basis for oxygen diffusion limitations in tissues at extreme depth?",
+        "correctQuestion": "Fick's law of diffusion",
+        "value": 600
+      },
+      {
+        "clue": "What role do bacteriophages play in horizontal gene transfer among marine bacteria?",
+        "correctQuestion": "Transduction vectors",
+        "value": 600
+      },
+      {
+        "clue": "What biofilm formation and quorum sensing mechanisms regulate settlement in marine larvae?",
+        "correctQuestion": "Acyl-homoserine lactone signaling",
+        "value": 600
+      },
+      {
+        "clue": "What xenobiotic compounds mimic steroid hormones in fish endocrine systems?",
+        "correctQuestion": "Bisphenol A and phthalates",
+        "value": 600
+      },
+      {
+        "clue": "What evolutionary pressure shapes codon usage patterns in highly expressed fish genes?",
+        "correctQuestion": "Translation efficiency and mRNA secondary structure",
+        "value": 600
+      },
+      {
+        "clue": "What lipid composition adjustments maintain membrane fluidity in psychrophilic marine organisms?",
+        "correctQuestion": "Increased polyunsaturated fatty acids",
+        "value": 600
+      },
+      {
+        "clue": "What osmoregulatory challenges necessitate specialized kidney morphology in euryhaline fish?",
+        "correctQuestion": "Salt reabsorption and water balance",
+        "value": 600
+      },
+      {
+        "clue": "What quorum-sensing mechanisms regulate luxAB genes in symbiotic Vibrio bacteria?",
+        "correctQuestion": "Density-dependent autoinduction",
+        "value": 600
+      },
+      {
+        "clue": "What connectivity models predict species distribution across fragmented coral reef patches?",
+        "correctQuestion": "Metapopulation theory with larval dispersal kernels",
+        "value": 600
+      },
+      {
+        "clue": "What fossil record evidence constrains the divergence time of major teleost lineages?",
+        "correctQuestion": "Molecular clock calibration with paleontological data",
+        "value": 600
+      },
+      {
+        "clue": "What mathematical models describe chemotaxis in larval fish responding to olfactory cues?",
+        "correctQuestion": "Partial differential equations with reaction-diffusion terms",
+        "value": 600
+      },
+      {
+        "clue": "What developmental windows exhibit maximum phenotypic plasticity in fish morphogenesis?",
+        "correctQuestion": "Early embryonic stages with epigenetic regulation",
+        "value": 600
+      },
+      {
+        "clue": "What genomic heterozygosity levels correlate with fitness in marine populations?",
+        "correctQuestion": "Nonlinear relationship with intermediate optima",
+        "value": 600
+      },
+      {
+        "clue": "What multi-stressor interaction models predict fish population responses to climate change?",
+        "correctQuestion": "Non-additive synergistic effects",
+        "value": 600
+      }
+    ]
+  }
 }

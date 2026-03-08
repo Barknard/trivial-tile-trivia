@@ -1,952 +1,917 @@
 {
-  "title": "Beach Volleyball Trivia",
-  "description": "180 Family-Friendly Questions about Beach Volleyball - 30 questions per difficulty level",
-  "total_questions": 180,
-  "levels": 6,
-  "questions_per_level": 30,
-  "format": "Jeopardy",
-  "data": {
-    "level_1_beginner": {
-      "level": 1,
-      "difficulty": "Beginner",
-      "point_value": 100,
-      "questions": [
-        {
-          "id": 1,
-          "question": "What is the primary surface used for beach volleyball?",
-          "answer": "Sand"
-        },
-        {
-          "id": 2,
-          "question": "How many players from each team are on the court at one time in beach volleyball?",
-          "answer": "Two"
-        },
-        {
-          "id": 3,
-          "question": "What color is the sand on most professional beach volleyball courts?",
-          "answer": "White or tan"
-        },
-        {
-          "id": 4,
-          "question": "In what decade did beach volleyball originate?",
-          "answer": "1930s (California)"
-        },
-        {
-          "id": 5,
-          "question": "Beach volleyball became an Olympic sport in what year?",
-          "answer": "1996"
-        },
-        {
-          "id": 6,
-          "question": "What are the two main skills needed to play beach volleyball?",
-          "answer": "Passing and communication"
-        },
-        {
-          "id": 7,
-          "question": "What net height is used in men's beach volleyball?",
-          "answer": "8 feet 4 inches (2.43 meters)"
-        },
-        {
-          "id": 8,
-          "question": "What net height is used in women's beach volleyball?",
-          "answer": "7 feet 11 5/8 inches (2.43 meters) or 7 feet 4 1/8 inches (2.24 meters)"
-        },
-        {
-          "id": 9,
-          "question": "How many touches can a team take before the ball must go over the net?",
-          "answer": "Three"
-        },
-        {
-          "id": 10,
-          "question": "What is the term for hitting the ball over the net from above your head?",
-          "answer": "Spike or attack"
-        },
-        {
-          "id": 11,
-          "question": "What is the playing area dimensions of a beach volleyball court?",
-          "answer": "52.5 feet by 26 feet (16m x 8m)"
-        },
-        {
-          "id": 12,
-          "question": "How many sets must a team win to win a match in beach volleyball?",
-          "answer": "Two"
-        },
-        {
-          "id": 13,
-          "question": "What is the winning score in the first two sets of beach volleyball?",
-          "answer": "21 points"
-        },
-        {
-          "id": 14,
-          "question": "What is the winning score in a tiebreak third set?",
-          "answer": "15 points"
-        },
-        {
-          "id": 15,
-          "question": "What does 'rally scoring' mean in beach volleyball?",
-          "answer": "A point is awarded on every rally regardless of who served"
-        },
-        {
-          "id": 16,
-          "question": "Can you touch the net in beach volleyball?",
-          "answer": "No, it's a violation"
-        },
-        {
-          "id": 17,
-          "question": "What is a 'block' in beach volleyball?",
-          "answer": "Jumping at the net to deflect the opponent's attack"
-        },
-        {
-          "id": 18,
-          "question": "What is a 'bump' in beach volleyball?",
-          "answer": "Using your forearms to pass or receive the ball"
-        },
-        {
-          "id": 19,
-          "question": "What is a 'set' in beach volleyball?",
-          "answer": "An overhead pass that prepares the ball for a spike"
-        },
-        {
-          "id": 20,
-          "question": "What is the 'free zone' in beach volleyball?",
-          "answer": "The area outside the court boundaries where players can move"
-        },
-        {
-          "id": 21,
-          "question": "How many times per side can a ball contact the net during play?",
-          "answer": "Unlimited, as long as it goes over"
-        },
-        {
-          "id": 22,
-          "question": "What does 'side out' mean in traditional volleyball?",
-          "answer": "The serving team loses the serve and a point without scoring"
-        },
-        {
-          "id": 23,
-          "question": "Is beach volleyball played indoors or outdoors?",
-          "answer": "Outdoors"
-        },
-        {
-          "id": 24,
-          "question": "What season is beach volleyball typically played in?",
-          "answer": "Summer"
-        },
-        {
-          "id": 25,
-          "question": "What protective gear is commonly worn while playing beach volleyball?",
-          "answer": "Sunscreen, sunglasses, and hats"
-        },
-        {
-          "id": 26,
-          "question": "What footwear is typically worn in beach volleyball?",
-          "answer": "Bare feet or sand socks"
-        },
-        {
-          "id": 27,
-          "question": "What is the main challenge of playing volleyball on sand versus indoor?",
-          "answer": "Sand makes movement slower and more difficult"
-        },
-        {
-          "id": 28,
-          "question": "What is a 'dig' in beach volleyball?",
-          "answer": "A defensive move to keep the ball in play after an attack"
-        },
-        {
-          "id": 29,
-          "question": "Who invented beach volleyball?",
-          "answer": "William Morgan or the game developed in California beaches"
-        },
-        {
-          "id": 30,
-          "question": "What is the most famous beach volleyball location in the United States?",
-          "answer": "Huntington Beach, California"
-        }
-      ]
-    },
-    "level_2_intermediate": {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "point_value": 200,
-      "questions": [
-        {
-          "id": 31,
-          "question": "What is a 'kill' in beach volleyball terminology?",
-          "answer": "A winning attack that the opponents cannot return"
-        },
-        {
-          "id": 32,
-          "question": "How many liberos can a beach volleyball team have on the roster?",
-          "answer": "One (libero is not used in beach volleyball - it's used in indoor volleyball)"
-        },
-        {
-          "id": 33,
-          "question": "What is the maximum width of a beach volleyball net?",
-          "answer": "32 feet 9 inches (10 meters)"
-        },
-        {
-          "id": 34,
-          "question": "What is the serve zone in beach volleyball?",
-          "answer": "Behind the baseline, anywhere along the width of the court"
-        },
-        {
-          "id": 35,
-          "question": "What happens if the ball lands on the line in beach volleyball?",
-          "answer": "It is considered in"
-        },
-        {
-          "id": 36,
-          "question": "What is a 'carry' or 'lift' in beach volleyball?",
-          "answer": "Holding the ball too long instead of hitting it cleanly"
-        },
-        {
-          "id": 37,
-          "question": "What is a 'double touch' in beach volleyball?",
-          "answer": "When the same player hits the ball twice consecutively (illegal)"
-        },
-        {
-          "id": 38,
-          "question": "What does 'foot fault' mean during a serve in beach volleyball?",
-          "answer": "When the server's foot touches or crosses the baseline before contact"
-        },
-        {
-          "id": 39,
-          "question": "What is the most common serving style in beach volleyball?",
-          "answer": "Underhand or overhand serve"
-        },
-        {
-          "id": 40,
-          "question": "What is a 'floater' serve in beach volleyball?",
-          "answer": "A serve with minimal spin that moves unpredictably through the air"
-        },
-        {
-          "id": 41,
-          "question": "What is a 'jump serve' in beach volleyball?",
-          "answer": "A serve where the player jumps before hitting the ball"
-        },
-        {
-          "id": 42,
-          "question": "What is a 'crossover' step in beach volleyball defense?",
-          "answer": "A footwork technique to move laterally quickly on sand"
-        },
-        {
-          "id": 43,
-          "question": "What is the role of a partner in beach volleyball?",
-          "answer": "To communicate, cover court, and work together defensively and offensively"
-        },
-        {
-          "id": 44,
-          "question": "What is 'court positioning' in beach volleyball?",
-          "answer": "Where players stand to defend and prepare for the serve"
-        },
-        {
-          "id": 45,
-          "question": "What is a 'roll' in beach volleyball?",
-          "answer": "A diving defensive technique to save the ball by rolling across the sand"
-        },
-        {
-          "id": 46,
-          "question": "What is a 'pancake' in beach volleyball?",
-          "answer": "A flat defensive save by sliding your hand under the ball"
-        },
-        {
-          "id": 47,
-          "question": "What weather condition most affects beach volleyball?",
-          "answer": "Wind"
-        },
-        {
-          "id": 48,
-          "question": "How does wind affect serving in beach volleyball?",
-          "answer": "It changes ball trajectory and makes placement more difficult"
-        },
-        {
-          "id": 49,
-          "question": "What is a 'tight set' in beach volleyball?",
-          "answer": "A set very close to the net, difficult to spike from"
-        },
-        {
-          "id": 50,
-          "question": "What is a 'soft block' in beach volleyball?",
-          "answer": "A gentle block that redirects the ball back over the net instead of spiking it"
-        },
-        {
-          "id": 51,
-          "question": "What does it mean to 'poach' in beach volleyball?",
-          "answer": "One player covers more court than their side to make a play"
-        },
-        {
-          "id": 52,
-          "question": "What is the most important defensive position in beach volleyball?",
-          "answer": "The person in the middle covering both sides"
-        },
-        {
-          "id": 53,
-          "question": "What is 'transition' in beach volleyball?",
-          "answer": "Moving from defense to offense after stopping an attack"
-        },
-        {
-          "id": 54,
-          "question": "What is a 'tip' or 'dink' in beach volleyball?",
-          "answer": "Softly redirecting the ball over the net instead of spiking it"
-        },
-        {
-          "id": 55,
-          "question": "What is the most dangerous spike angle in beach volleyball?",
-          "answer": "A diagonal spike toward the sideline"
-        },
-        {
-          "id": 56,
-          "question": "How many contacts can occur before the ball is dead?",
-          "answer": "Three per side"
-        },
-        {
-          "id": 57,
-          "question": "What is a 'quick attack' in beach volleyball?",
-          "answer": "A fast spike right after the set, giving opponents less time to react"
-        },
-        {
-          "id": 58,
-          "question": "What is sand conditioning in beach volleyball?",
-          "answer": "Keeping the sand at the right moisture level for play"
-        },
-        {
-          "id": 59,
-          "question": "How many professional beach volleyball tours operate internationally?",
-          "answer": "Multiple, including the AVP and FIVB World Tour"
-        },
-        {
-          "id": 60,
-          "question": "What is the most critical communication in beach volleyball?",
-          "answer": "'Mine' or 'Yours' to clarify who will take the ball"
-        }
-      ]
-    },
-    "level_3_advanced": {
-      "level": 3,
-      "difficulty": "Advanced",
-      "point_value": 300,
-      "questions": [
-        {
-          "id": 61,
-          "question": "What is the difference between a 'cut shot' and a 'cross-court shot' in beach volleyball?",
-          "answer": "Cut shot goes at a sharper angle; cross-court crosses the net at a wider diagonal"
-        },
-        {
-          "id": 62,
-          "question": "What is 'shadowing' in beach volleyball defense?",
-          "answer": "Following an opponent closely to limit their offensive options"
-        },
-        {
-          "id": 63,
-          "question": "What is the purpose of a 'block sealing' technique?",
-          "answer": "To close off gaps in the block so the ball can't pass through"
-        },
-        {
-          "id": 64,
-          "question": "What is a 'slide' approach in beach volleyball?",
-          "answer": "A quick footwork technique to move sideways explosively before jumping"
-        },
-        {
-          "id": 65,
-          "question": "How many ways can a player score in beach volleyball?",
-          "answer": "Three: winning spike, opponent error, or net violation by opponent"
-        },
-        {
-          "id": 66,
-          "question": "What is the significance of 'setting height' in beach volleyball?",
-          "answer": "A higher set gives more time to approach and spike; lower set is faster"
-        },
-        {
-          "id": 67,
-          "question": "What is a 'pipe' attack in beach volleyball?",
-          "answer": "An attack from the center of the court by the back player"
-        },
-        {
-          "id": 68,
-          "question": "What is the 'approach step' in beach volleyball spiking?",
-          "answer": "Quick footwork steps before jumping to attack the ball"
-        },
-        {
-          "id": 69,
-          "question": "What does 'reading the setter' mean in beach volleyball?",
-          "answer": "Anticipating where the setter will place the ball based on their body position"
-        },
-        {
-          "id": 70,
-          "question": "What is a 'committed block' in beach volleyball?",
-          "answer": "Jumping to block immediately after the spike contact"
-        },
-        {
-          "id": 71,
-          "question": "What is an 'overpass' in beach volleyball?",
-          "answer": "When a receiving team's pass goes over the net unintentionally"
-        },
-        {
-          "id": 72,
-          "question": "What is the 'first-touch' principle in beach volleyball?",
-          "answer": "The quality of the first pass determines the team's offensive options"
-        },
-        {
-          "id": 73,
-          "question": "How does sand depth affect beach volleyball gameplay?",
-          "answer": "Deeper sand slows movement; shallow sand allows faster play"
-        },
-        {
-          "id": 74,
-          "question": "What is a 'wipe' or 'tool' in beach volleyball?",
-          "answer": "Using the blocker's hands to redirect the spike off the block"
-        },
-        {
-          "id": 75,
-          "question": "What is the optimal spike angle in beach volleyball?",
-          "answer": "45-60 degrees from the baseline"
-        },
-        {
-          "id": 76,
-          "question": "What is a 'free ball' in beach volleyball?",
-          "answer": "A ball given to the receiving team with no pressure"
-        },
-        {
-          "id": 77,
-          "question": "What is the most effective blocking strategy in beach volleyball?",
-          "answer": "Reading the hitter and positioning based on their approach"
-        },
-        {
-          "id": 78,
-          "question": "What is an 'anti-rotation' defense in beach volleyball?",
-          "answer": "A strategy to prevent the opposing team from rotating momentum"
-        },
-        {
-          "id": 79,
-          "question": "How many rotations occur in a beach volleyball match?",
-          "answer": "With only 2 players, only one serve rotation per side"
-        },
-        {
-          "id": 80,
-          "question": "What is a 'soft touch' skill in beach volleyball?",
-          "answer": "The ability to control the ball with precision rather than power"
-        },
-        {
-          "id": 81,
-          "question": "What is the importance of 'court awareness' in beach volleyball?",
-          "answer": "Knowing the ball's position, court boundaries, and opponent positions"
-        },
-        {
-          "id": 82,
-          "question": "What is a 'cross-court block' in beach volleyball?",
-          "answer": "When a player blocks an attack at an angle rather than straight back"
-        },
-        {
-          "id": 83,
-          "question": "What is the relationship between vertical jump and spiking power?",
-          "answer": "Higher jumps provide better spike angle and reach"
-        },
-        {
-          "id": 84,
-          "question": "What is a 'net tape contact' in beach volleyball?",
-          "answer": "When the ball touches the net during a spike (legal if it goes over)"
-        },
-        {
-          "id": 85,
-          "question": "What is the purpose of a 'fake' or 'dummy attack' in beach volleyball?",
-          "answer": "To disguise your intention and draw the blocker out of position"
-        },
-        {
-          "id": 86,
-          "question": "What is 'deep positioning' in beach volleyball defense?",
-          "answer": "Standing further back from the net to defend deeper shots"
-        },
-        {
-          "id": 87,
-          "question": "What is a 'compound error' in beach volleyball?",
-          "answer": "Multiple violations occurring on the same play"
-        },
-        {
-          "id": 88,
-          "question": "How does body rotation contribute to spiking in beach volleyball?",
-          "answer": "It generates power and allows for better ball acceleration"
-        },
-        {
-          "id": 89,
-          "question": "What is the 'hot spot' on the court in beach volleyball?",
-          "answer": "The center court area hardest to defend"
-        },
-        {
-          "id": 90,
-          "question": "What is match momentum in beach volleyball?",
-          "answer": "The psychological edge gained from consecutive scoring plays"
-        }
-      ]
-    },
-    "level_4_expert": {
-      "level": 4,
-      "difficulty": "Expert",
-      "point_value": 400,
-      "questions": [
-        {
-          "id": 91,
-          "question": "What is the statistical difference in point-scoring between men's and women's beach volleyball?",
-          "answer": "Women typically score more points from blocks due to net height differences"
-        },
-        {
-          "id": 92,
-          "question": "How does the 'Coriolis effect' potentially impact long-distance beach volleyball serves?",
-          "answer": "Wind patterns influenced by Earth's rotation can affect ball trajectory"
-        },
-        {
-          "id": 93,
-          "question": "What is the biomechanics of an efficient 'four-step approach' in beach volleyball?",
-          "answer": "Left-right-left-right pattern (or right-left pattern) building momentum for jump"
-        },
-        {
-          "id": 94,
-          "question": "What is the relationship between ankle stability and injury prevention in beach volleyball?",
-          "answer": "Strong ankles prevent sand-related sprains and ankle injuries"
-        },
-        {
-          "id": 95,
-          "question": "How do elite beach volleyball players mentally prepare for matches?",
-          "answer": "Visualization, breathing exercises, and positive self-talk"
-        },
-        {
-          "id": 96,
-          "question": "What is the optimal court coverage percentage for two beach volleyball players?",
-          "answer": "Each player should cover approximately 50% of the court"
-        },
-        {
-          "id": 97,
-          "question": "What is the significance of 'hand positioning' when setting in beach volleyball?",
-          "answer": "Proper hand position ensures consistent ball contact and direction control"
-        },
-        {
-          "id": 98,
-          "question": "How does sand temperature affect grip and ball handling?",
-          "answer": "Hot sand reduces grip; cool sand improves traction and control"
-        },
-        {
-          "id": 99,
-          "question": "What is the physics of 'spin' on a beach volleyball serve?",
-          "answer": "Topspin causes the ball to drop faster; backspin causes it to float"
-        },
-        {
-          "id": 100,
-          "question": "What advanced footwork technique prevents sand from slowing movement?",
-          "answer": "High knee lift and explosive push-off against the sand"
-        },
-        {
-          "id": 101,
-          "question": "What is the strategic significance of first-set performance in beach volleyball?",
-          "answer": "Winning the first set provides psychological momentum for the second set"
-        },
-        {
-          "id": 102,
-          "question": "How do elite beach volleyball players adjust their strategy based on wind direction?",
-          "answer": "They modify serve placement, approach angles, and defensive positioning"
-        },
-        {
-          "id": 103,
-          "question": "What is the relationship between core strength and spiking power in beach volleyball?",
-          "answer": "Strong core transmits leg power to arm for maximum spike velocity"
-        },
-        {
-          "id": 104,
-          "question": "What is the 'anticipation index' concept in professional beach volleyball?",
-          "answer": "A measure of how quickly a player reacts to opponent's movements"
-        },
-        {
-          "id": 105,
-          "question": "How does humidity affect serve behavior in beach volleyball?",
-          "answer": "High humidity increases air density, affecting ball flight and speed"
-        },
-        {
-          "id": 106,
-          "question": "What is the statistical probability of scoring from a well-placed set in beach volleyball?",
-          "answer": "Approximately 40-60% depending on block quality"
-        },
-        {
-          "id": 107,
-          "question": "What is the advanced 'positioning matrix' used by professional beach volleyball teams?",
-          "answer": "A strategic system for optimal court coverage and player placement"
-        },
-        {
-          "id": 108,
-          "question": "How do professional beach volleyball players manage fatigue in multi-set matches?",
-          "answer": "Through strategic rest periods, hydration, and paced intensity levels"
-        },
-        {
-          "id": 109,
-          "question": "What is the significance of 'pressure point' serving in beach volleyball?",
-          "answer": "Serves targeting specific court areas where opponents are weakest"
-        },
-        {
-          "id": 110,
-          "question": "How does sun angle affect vision and play in beach volleyball?",
-          "answer": "Direct sun can impair vision; shading of court changes throughout the day"
-        },
-        {
-          "id": 111,
-          "question": "What is the statistical relationship between serving accuracy and match-winning percentage?",
-          "answer": "Higher serve consistency correlates with higher match win rates"
-        },
-        {
-          "id": 112,
-          "question": "What is an 'optimal set placement' in beach volleyball from a physics perspective?",
-          "answer": "Set at the peak of jump height to maximize attacking options"
-        },
-        {
-          "id": 113,
-          "question": "How do elite players use 'dummy movements' to deceive opponents?",
-          "answer": "Faking body positions to misdirect block placement"
-        },
-        {
-          "id": 114,
-          "question": "What is the advanced recovery technique from a failed attack in beach volleyball?",
-          "answer": "Rapid court reset positioning to defend counterattack"
-        },
-        {
-          "id": 115,
-          "question": "What is the relationship between handedness and spike direction in beach volleyball?",
-          "answer": "Right-handed hitters naturally spike at different angles than left-handers"
-        },
-        {
-          "id": 116,
-          "question": "How do professional beach volleyball pairs coordinate complex defensive patterns?",
-          "answer": "Through pre-match drilling and verbal communication systems"
-        },
-        {
-          "id": 117,
-          "question": "What is the biomechanical advantage of a 'quick spike' in beach volleyball?",
-          "answer": "Reduces block reaction time and exploits gaps in opponent's defensive position"
-        },
-        {
-          "id": 118,
-          "question": "What is the strategic value of 'keeping the ball alive' in extended rallies?",
-          "answer": "Fatigue opponents and create opportunities for unforced errors"
-        },
-        {
-          "id": 119,
-          "question": "How does altitude affect beach volleyball play at higher elevations?",
-          "answer": "Lower air density allows ball to travel faster and farther"
-        },
-        {
-          "id": 120,
-          "question": "What is the advanced 'read and react' system in professional beach volleyball?",
-          "answer": "Adaptive strategy changing based on real-time opponent performance analysis"
-        }
-      ]
-    },
-    "level_5_master": {
-      "level": 5,
-      "difficulty": "Master",
-      "point_value": 500,
-      "questions": [
-        {
-          "id": 121,
-          "question": "What is the theoretical physics behind optimal serve velocity in beach volleyball given air resistance?",
-          "answer": "Balancing power with control considering drag coefficient and Magnus effect"
-        },
-        {
-          "id": 122,
-          "question": "How do elite beach volleyball players employ game theory in strategy selection?",
-          "answer": "Using Nash equilibrium to determine optimal mixed serving and attacking strategies"
-        },
-        {
-          "id": 123,
-          "question": "What is the advanced 'momentum transfer' technique in beach volleyball spiking?",
-          "answer": "Converting horizontal movement energy into vertical jump and arm acceleration"
-        },
-        {
-          "id": 124,
-          "question": "How does the Coriolis effect specifically influence tournament play at different latitudes?",
-          "answer": "Stronger effect at higher latitudes affects long-distance serves differently"
-        },
-        {
-          "id": 125,
-          "question": "What is the statistical model for predicting rally length in beach volleyball?",
-          "answer": "Poisson distribution based on hit accuracy and defensive capability"
-        },
-        {
-          "id": 126,
-          "question": "How do professional beach volleyball players optimize for sand granule friction dynamics?",
-          "answer": "Adjusting footwork patterns based on specific sand composition analysis"
-        },
-        {
-          "id": 127,
-          "question": "What is the advanced 'time-to-net' calculation in beach volleyball blocking strategy?",
-          "answer": "Measuring exact milliseconds to position optimally at net for block"
-        },
-        {
-          "id": 128,
-          "question": "How does the elastic modulus of sand affect jump mechanics in beach volleyball?",
-          "answer": "Lower elastic modulus increases energy absorption, reducing jump height"
-        },
-        {
-          "id": 129,
-          "question": "What is the neuromuscular coordination pattern required for exceptional beach volleyball agility?",
-          "answer": "Proprioceptive feedback loops enabling rapid directional changes on unstable surface"
-        },
-        {
-          "id": 130,
-          "question": "How do elite pairs develop 'telepathic' court communication in beach volleyball?",
-          "answer": "Through thousands of hours of synchronized movement and predictive positioning"
-        },
-        {
-          "id": 131,
-          "question": "What is the advanced psychological concept of 'flow state' in beach volleyball performance?",
-          "answer": "State of optimal focus where player and action become one without conscious thought"
-        },
-        {
-          "id": 132,
-          "question": "How does the Magnus effect create curve in a beach volleyball serve?",
-          "answer": "Ball rotation creates pressure differential, causing trajectory curves"
-        },
-        {
-          "id": 133,
-          "question": "What is the statistical significance of 'first-set tie-break' in overall match outcomes?",
-          "answer": "Rarely occurs, but indicates extremely competitive matchup"
-        },
-        {
-          "id": 134,
-          "question": "How do elite beach volleyball players master sand-specific footwork for minimal deceleration?",
-          "answer": "High-frequency leg movement and forward-momentum preservation techniques"
-        },
-        {
-          "id": 135,
-          "question": "What is the advanced 'court geometry' system used in professional beach volleyball?",
-          "answer": "Mathematical analysis of optimal positioning angles relative to opponent"
-        },
-        {
-          "id": 136,
-          "question": "How does cardiovascular capacity specifically affect beach volleyball championship performance?",
-          "answer": "Maintains cognitive function and reaction speed during extended matches"
-        },
-        {
-          "id": 137,
-          "question": "What is the biomechanical sequence of an optimal beach volleyball spike approach?",
-          "answer": "Stride-plant-jump with precise timing of arm swing relative to takeoff"
-        },
-        {
-          "id": 138,
-          "question": "How do professional beach volleyball players decode opponent serve patterns statistically?",
-          "answer": "Analyzing serve placement data to predict future serve locations"
-        },
-        {
-          "id": 139,
-          "question": "What is the theoretical maximum spin rate achievable on a professional beach volleyball serve?",
-          "answer": "Approximately 15-20 revolutions per second for elite players"
-        },
-        {
-          "id": 140,
-          "question": "How does thermal expansion of beach volleyball equipment affect gameplay?",
-          "answer": "Heat increases ball elasticity and affects serve characteristics"
-        },
-        {
-          "id": 141,
-          "question": "What is the advanced 'pressure management' technique in professional beach volleyball?",
-          "answer": "Psychological strategies to maintain optimal arousal levels during critical points"
-        },
-        {
-          "id": 142,
-          "question": "How do elite beach volleyball players employ 'micro-adjustments' in positioning?",
-          "answer": "Subtle shifts based on real-time analysis of opponent positioning"
-        },
-        {
-          "id": 143,
-          "question": "What is the statistical model for predicting setter effectiveness in beach volleyball?",
-          "answer": "Analyzing set accuracy, depth control, and timing consistency"
-        },
-        {
-          "id": 144,
-          "question": "How does proprioceptive training enhance beach volleyball performance?",
-          "answer": "Improving body awareness and balance on unstable sand surface"
-        },
-        {
-          "id": 145,
-          "question": "What is the advanced technique for 'reading' an opponent's spike intention pre-contact?",
-          "answer": "Analyzing approach angle, shoulder rotation, and arm position"
-        },
-        {
-          "id": 146,
-          "question": "How do professional beach volleyball players optimize serve placement with wind variable?",
-          "answer": "Calculating wind speed, direction, and adjusting trajectory accordingly"
-        },
-        {
-          "id": 147,
-          "question": "What is the biomechanical efficiency rating for different blocking heights in beach volleyball?",
-          "answer": "Peak efficiency at the hitter's maximum reach point"
-        },
-        {
-          "id": 148,
-          "question": "How does lactate threshold training improve beach volleyball endurance?",
-          "answer": "Enables sustained high-intensity play without fatigue-related performance decline"
-        },
-        {
-          "id": 149,
-          "question": "What is the advanced 'contingency planning' system used by professional beach volleyball teams?",
-          "answer": "Pre-match analysis of alternative strategies for different match scenarios"
-        },
-        {
-          "id": 150,
-          "question": "How do elite players maximize the 'sweet spot' contact zone on beach volleyball strikes?",
-          "answer": "Through thousands of repetitions achieving unconscious optimal contact point selection"
-        }
-      ]
-    },
-    "level_6_legendary": {
-      "level": 6,
-      "difficulty": "Legendary",
-      "point_value": 600,
-      "questions": [
-        {
-          "id": 151,
-          "question": "What is the quantum mechanics explanation for the probabilistic nature of rally outcomes in beach volleyball?",
-          "answer": "Ball trajectory uncertainty increases with distance; player reaction time is fundamentally uncertain"
-        },
-        {
-          "id": 152,
-          "question": "How do elite beach volleyball pairs achieve synchronized decision-making faster than conscious processing allows?",
-          "answer": "Through subcortical pattern recognition developed via deliberate practice over 10,000+ hours"
-        },
-        {
-          "id": 153,
-          "question": "What is the theoretical limit of human reaction time in beach volleyball blocking?",
-          "answer": "Approximately 100-150 milliseconds, accounting for neural transmission delays"
-        },
-        {
-          "id": 154,
-          "question": "How does the strange attractor concept from chaos theory apply to beach volleyball momentum?",
-          "answer": "Small initial conditions create vastly different match outcomes (butterfly effect)"
-        },
-        {
-          "id": 155,
-          "question": "What is the information-theoretic entropy of an optimal beach volleyball serve?",
-          "answer": "Maximum randomness while maintaining strategic intent (Shannon entropy)"
-        },
-        {
-          "id": 156,
-          "question": "How do elite beach volleyball players achieve near-perfect court coverage efficiency?",
-          "answer": "Through optimization of movement vectors and prediction of opponent attack patterns"
-        },
-        {
-          "id": 157,
-          "question": "What is the topological geometry of optimal blocking formations in beach volleyball?",
-          "answer": "Euler paths minimizing distance between defensive positions"
-        },
-        {
-          "id": 158,
-          "question": "How does the Fourier analysis of serve spin patterns predict opponent offensive strategies?",
-          "answer": "Decomposing spin components reveals serve intention and placement probability"
-        },
-        {
-          "id": 159,
-          "question": "What is the fractal dimension of sand texture affecting optimal footwork mechanics?",
-          "answer": "Self-similar patterns at different scales affect traction and acceleration"
-        },
-        {
-          "id": 160,
-          "question": "How do elite beach volleyball players exploit the observer effect in match psychology?",
-          "answer": "Awareness of being watched affects opponent performance and decision-making"
-        },
-        {
-          "id": 161,
-          "question": "What is the hidden Markov model predicting next serve location in beach volleyball?",
-          "answer": "Analyzing serve history patterns to predict probability distribution of next serve"
-        },
-        {
-          "id": 162,
-          "question": "How does the Heisenberg uncertainty principle apply to measuring beach volleyball performance?",
-          "answer": "Cannot simultaneously measure exact position and momentum; statistical analysis required"
-        },
-        {
-          "id": 163,
-          "question": "What is the optimal algorithm for real-time defensive positioning in beach volleyball?",
-          "answer": "A* pathfinding algorithm modified for ball trajectory and opponent positioning"
-        },
-        {
-          "id": 164,
-          "question": "How do professional beach volleyball players implement Bayesian inference in court coverage decisions?",
-          "answer": "Updating probability estimates of attack location based on continuous observations"
-        },
-        {
-          "id": 165,
-          "question": "What is the tensor calculus application to multi-dimensional volleyball performance metrics?",
-          "answer": "Analyzing relationships between power, speed, accuracy, and consistency simultaneously"
-        },
-        {
-          "id": 166,
-          "question": "How does the pigeonhole principle affect strategic options in beach volleyball rallies?",
-          "answer": "Limited court space and time force constrained solution set for attacks"
-        },
-        {
-          "id": 167,
-          "question": "What is the non-Euclidean geometry of sand surface affecting ball trajectory calculations?",
-          "answer": "Curved surface properties require spherical geometry adjustments for predictions"
-        },
-        {
-          "id": 168,
-          "question": "How do elite beach volleyball players optimize information flow in dual-player systems?",
-          "answer": "Through Shannon channel capacity theory and minimal-latency communication protocols"
-        },
-        {
-          "id": 169,
-          "question": "What is the complexity class of optimal beach volleyball strategy selection?",
-          "answer": "NP-hard problem requiring heuristic solutions in real-time constraints"
-        },
-        {
-          "id": 170,
-          "question": "How does the ergodic hypothesis affect statistical prediction in beach volleyball outcomes?",
-          "answer": "Time-averaged performance should equal ensemble-averaged performance over repeated matches"
-        },
-        {
-          "id": 171,
-          "question": "What is the catastrophe theory application to sudden performance transitions in beach volleyball?",
-          "answer": "Small changes in variables create discontinuous jumps in match momentum or scoring"
-        },
-        {
-          "id": 172,
-          "question": "How do professional beach volleyball pairs achieve collective intelligence beyond individual capability?",
-          "answer": "Distributed cognition through complementary skills and real-time collaborative processing"
-        },
-        {
-          "id": 173,
-          "question": "What is the minimal spanning tree for optimal communication paths between beach volleyball partners?",
-          "answer": "Direct line-of-sight verbal and non-verbal signals with minimal latency"
-        },
-        {
-          "id": 174,
-          "question": "How does the principle of parsimony apply to advanced beach volleyball coaching?",
-          "answer": "Simplest effective strategies outperform overly complex tactical systems"
-        },
-        {
-          "id": 175,
-          "question": "What is the stochastic differential equation modeling beach volleyball rally progression?",
-          "answer": "Incorporating randomness of player decisions within deterministic physics constraints"
-        },
-        {
-          "id": 176,
-          "question": "How do elite beach volleyball players implement Monte Carlo methods for strategic decisions?",
-          "answer": "Simulating possible futures to calculate probability-weighted optimal action"
-        },
-        {
-          "id": 177,
-          "question": "What is the phase transition point where beach volleyball matches shift from competitive to decided?",
-          "answer": "Typically occurs around 10-15 point deficit in modern rally-scoring format"
-        },
-        {
-          "id": 178,
-          "question": "How does network graph theory optimize communication efficiency between beach volleyball teammates?",
-          "answer": "Minimizing betweenness centrality while maintaining sufficient redundancy"
-        },
-        {
-          "id": 179,
-          "question": "What is the recursive self-similarity in elite beach volleyball training methodologies?",
-          "answer": "Micro-skills build into macro-patterns at different temporal scales"
-        },
-        {
-          "id": 180,
-          "question": "How do the most successful beach volleyball pairs achieve the theoretical performance ceiling?",
-          "answer": "Combining years of deliberate practice, biomechanical optimization, and synergistic partnership"
-        }
-      ]
-    }
+  "category": "Beach Volleyball Trivia",
+  "theme": "beach",
+  "category_id": "beach_volleyball",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "What is the primary surface used for beach volleyball?",
+        "correctQuestion": "Sand",
+        "value": 100
+      },
+      {
+        "clue": "How many players from each team are on the court at one time in beach volleyball?",
+        "correctQuestion": "Two",
+        "value": 100
+      },
+      {
+        "clue": "What color is the sand on most professional beach volleyball courts?",
+        "correctQuestion": "White or tan",
+        "value": 100
+      },
+      {
+        "clue": "In what decade did beach volleyball originate?",
+        "correctQuestion": "1930s (California)",
+        "value": 100
+      },
+      {
+        "clue": "Beach volleyball became an Olympic sport in what year?",
+        "correctQuestion": "1996",
+        "value": 100
+      },
+      {
+        "clue": "What are the two main skills needed to play beach volleyball?",
+        "correctQuestion": "Passing and communication",
+        "value": 100
+      },
+      {
+        "clue": "What net height is used in men's beach volleyball?",
+        "correctQuestion": "8 feet 4 inches (2.43 meters)",
+        "value": 100
+      },
+      {
+        "clue": "What net height is used in women's beach volleyball?",
+        "correctQuestion": "7 feet 11 5/8 inches (2.43 meters) or 7 feet 4 1/8 inches (2.24 meters)",
+        "value": 100
+      },
+      {
+        "clue": "How many touches can a team take before the ball must go over the net?",
+        "correctQuestion": "Three",
+        "value": 100
+      },
+      {
+        "clue": "What is the term for hitting the ball over the net from above your head?",
+        "correctQuestion": "Spike or attack",
+        "value": 100
+      },
+      {
+        "clue": "What is the playing area dimensions of a beach volleyball court?",
+        "correctQuestion": "52.5 feet by 26 feet (16m x 8m)",
+        "value": 100
+      },
+      {
+        "clue": "How many sets must a team win to win a match in beach volleyball?",
+        "correctQuestion": "Two",
+        "value": 100
+      },
+      {
+        "clue": "What is the winning score in the first two sets of beach volleyball?",
+        "correctQuestion": "21 points",
+        "value": 100
+      },
+      {
+        "clue": "What is the winning score in a tiebreak third set?",
+        "correctQuestion": "15 points",
+        "value": 100
+      },
+      {
+        "clue": "What does 'rally scoring' mean in beach volleyball?",
+        "correctQuestion": "A point is awarded on every rally regardless of who served",
+        "value": 100
+      },
+      {
+        "clue": "Can you touch the net in beach volleyball?",
+        "correctQuestion": "No, it's a violation",
+        "value": 100
+      },
+      {
+        "clue": "What is a 'block' in beach volleyball?",
+        "correctQuestion": "Jumping at the net to deflect the opponent's attack",
+        "value": 100
+      },
+      {
+        "clue": "What is a 'bump' in beach volleyball?",
+        "correctQuestion": "Using your forearms to pass or receive the ball",
+        "value": 100
+      },
+      {
+        "clue": "What is a 'set' in beach volleyball?",
+        "correctQuestion": "An overhead pass that prepares the ball for a spike",
+        "value": 100
+      },
+      {
+        "clue": "What is the 'free zone' in beach volleyball?",
+        "correctQuestion": "The area outside the court boundaries where players can move",
+        "value": 100
+      },
+      {
+        "clue": "How many times per side can a ball contact the net during play?",
+        "correctQuestion": "Unlimited, as long as it goes over",
+        "value": 100
+      },
+      {
+        "clue": "What does 'side out' mean in traditional volleyball?",
+        "correctQuestion": "The serving team loses the serve and a point without scoring",
+        "value": 100
+      },
+      {
+        "clue": "Is beach volleyball played indoors or outdoors?",
+        "correctQuestion": "Outdoors",
+        "value": 100
+      },
+      {
+        "clue": "What season is beach volleyball typically played in?",
+        "correctQuestion": "Summer",
+        "value": 100
+      },
+      {
+        "clue": "What protective gear is commonly worn while playing beach volleyball?",
+        "correctQuestion": "Sunscreen, sunglasses, and hats",
+        "value": 100
+      },
+      {
+        "clue": "What footwear is typically worn in beach volleyball?",
+        "correctQuestion": "Bare feet or sand socks",
+        "value": 100
+      },
+      {
+        "clue": "What is the main challenge of playing volleyball on sand versus indoor?",
+        "correctQuestion": "Sand makes movement slower and more difficult",
+        "value": 100
+      },
+      {
+        "clue": "What is a 'dig' in beach volleyball?",
+        "correctQuestion": "A defensive move to keep the ball in play after an attack",
+        "value": 100
+      },
+      {
+        "clue": "Who invented beach volleyball?",
+        "correctQuestion": "William Morgan or the game developed in California beaches",
+        "value": 100
+      },
+      {
+        "clue": "What is the most famous beach volleyball location in the United States?",
+        "correctQuestion": "Huntington Beach, California",
+        "value": 100
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "What is a 'kill' in beach volleyball terminology?",
+        "correctQuestion": "A winning attack that the opponents cannot return",
+        "value": 200
+      },
+      {
+        "clue": "How many liberos can a beach volleyball team have on the roster?",
+        "correctQuestion": "One (libero is not used in beach volleyball - it's used in indoor volleyball)",
+        "value": 200
+      },
+      {
+        "clue": "What is the maximum width of a beach volleyball net?",
+        "correctQuestion": "32 feet 9 inches (10 meters)",
+        "value": 200
+      },
+      {
+        "clue": "What is the serve zone in beach volleyball?",
+        "correctQuestion": "Behind the baseline, anywhere along the width of the court",
+        "value": 200
+      },
+      {
+        "clue": "What happens if the ball lands on the line in beach volleyball?",
+        "correctQuestion": "It is considered in",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'carry' or 'lift' in beach volleyball?",
+        "correctQuestion": "Holding the ball too long instead of hitting it cleanly",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'double touch' in beach volleyball?",
+        "correctQuestion": "When the same player hits the ball twice consecutively (illegal)",
+        "value": 200
+      },
+      {
+        "clue": "What does 'foot fault' mean during a serve in beach volleyball?",
+        "correctQuestion": "When the server's foot touches or crosses the baseline before contact",
+        "value": 200
+      },
+      {
+        "clue": "What is the most common serving style in beach volleyball?",
+        "correctQuestion": "Underhand or overhand serve",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'floater' serve in beach volleyball?",
+        "correctQuestion": "A serve with minimal spin that moves unpredictably through the air",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'jump serve' in beach volleyball?",
+        "correctQuestion": "A serve where the player jumps before hitting the ball",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'crossover' step in beach volleyball defense?",
+        "correctQuestion": "A footwork technique to move laterally quickly on sand",
+        "value": 200
+      },
+      {
+        "clue": "What is the role of a partner in beach volleyball?",
+        "correctQuestion": "To communicate, cover court, and work together defensively and offensively",
+        "value": 200
+      },
+      {
+        "clue": "What is 'court positioning' in beach volleyball?",
+        "correctQuestion": "Where players stand to defend and prepare for the serve",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'roll' in beach volleyball?",
+        "correctQuestion": "A diving defensive technique to save the ball by rolling across the sand",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'pancake' in beach volleyball?",
+        "correctQuestion": "A flat defensive save by sliding your hand under the ball",
+        "value": 200
+      },
+      {
+        "clue": "What weather condition most affects beach volleyball?",
+        "correctQuestion": "Wind",
+        "value": 200
+      },
+      {
+        "clue": "How does wind affect serving in beach volleyball?",
+        "correctQuestion": "It changes ball trajectory and makes placement more difficult",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'tight set' in beach volleyball?",
+        "correctQuestion": "A set very close to the net, difficult to spike from",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'soft block' in beach volleyball?",
+        "correctQuestion": "A gentle block that redirects the ball back over the net instead of spiking it",
+        "value": 200
+      },
+      {
+        "clue": "What does it mean to 'poach' in beach volleyball?",
+        "correctQuestion": "One player covers more court than their side to make a play",
+        "value": 200
+      },
+      {
+        "clue": "What is the most important defensive position in beach volleyball?",
+        "correctQuestion": "The person in the middle covering both sides",
+        "value": 200
+      },
+      {
+        "clue": "What is 'transition' in beach volleyball?",
+        "correctQuestion": "Moving from defense to offense after stopping an attack",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'tip' or 'dink' in beach volleyball?",
+        "correctQuestion": "Softly redirecting the ball over the net instead of spiking it",
+        "value": 200
+      },
+      {
+        "clue": "What is the most dangerous spike angle in beach volleyball?",
+        "correctQuestion": "A diagonal spike toward the sideline",
+        "value": 200
+      },
+      {
+        "clue": "How many contacts can occur before the ball is dead?",
+        "correctQuestion": "Three per side",
+        "value": 200
+      },
+      {
+        "clue": "What is a 'quick attack' in beach volleyball?",
+        "correctQuestion": "A fast spike right after the set, giving opponents less time to react",
+        "value": 200
+      },
+      {
+        "clue": "What is sand conditioning in beach volleyball?",
+        "correctQuestion": "Keeping the sand at the right moisture level for play",
+        "value": 200
+      },
+      {
+        "clue": "How many professional beach volleyball tours operate internationally?",
+        "correctQuestion": "Multiple, including the AVP and FIVB World Tour",
+        "value": 200
+      },
+      {
+        "clue": "What is the most critical communication in beach volleyball?",
+        "correctQuestion": "'Mine' or 'Yours' to clarify who will take the ball",
+        "value": 200
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "What is the difference between a 'cut shot' and a 'cross-court shot' in beach volleyball?",
+        "correctQuestion": "Cut shot goes at a sharper angle; cross-court crosses the net at a wider diagonal",
+        "value": 300
+      },
+      {
+        "clue": "What is 'shadowing' in beach volleyball defense?",
+        "correctQuestion": "Following an opponent closely to limit their offensive options",
+        "value": 300
+      },
+      {
+        "clue": "What is the purpose of a 'block sealing' technique?",
+        "correctQuestion": "To close off gaps in the block so the ball can't pass through",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'slide' approach in beach volleyball?",
+        "correctQuestion": "A quick footwork technique to move sideways explosively before jumping",
+        "value": 300
+      },
+      {
+        "clue": "How many ways can a player score in beach volleyball?",
+        "correctQuestion": "Three: winning spike, opponent error, or net violation by opponent",
+        "value": 300
+      },
+      {
+        "clue": "What is the significance of 'setting height' in beach volleyball?",
+        "correctQuestion": "A higher set gives more time to approach and spike; lower set is faster",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'pipe' attack in beach volleyball?",
+        "correctQuestion": "An attack from the center of the court by the back player",
+        "value": 300
+      },
+      {
+        "clue": "What is the 'approach step' in beach volleyball spiking?",
+        "correctQuestion": "Quick footwork steps before jumping to attack the ball",
+        "value": 300
+      },
+      {
+        "clue": "What does 'reading the setter' mean in beach volleyball?",
+        "correctQuestion": "Anticipating where the setter will place the ball based on their body position",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'committed block' in beach volleyball?",
+        "correctQuestion": "Jumping to block immediately after the spike contact",
+        "value": 300
+      },
+      {
+        "clue": "What is an 'overpass' in beach volleyball?",
+        "correctQuestion": "When a receiving team's pass goes over the net unintentionally",
+        "value": 300
+      },
+      {
+        "clue": "What is the 'first-touch' principle in beach volleyball?",
+        "correctQuestion": "The quality of the first pass determines the team's offensive options",
+        "value": 300
+      },
+      {
+        "clue": "How does sand depth affect beach volleyball gameplay?",
+        "correctQuestion": "Deeper sand slows movement; shallow sand allows faster play",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'wipe' or 'tool' in beach volleyball?",
+        "correctQuestion": "Using the blocker's hands to redirect the spike off the block",
+        "value": 300
+      },
+      {
+        "clue": "What is the optimal spike angle in beach volleyball?",
+        "correctQuestion": "45-60 degrees from the baseline",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'free ball' in beach volleyball?",
+        "correctQuestion": "A ball given to the receiving team with no pressure",
+        "value": 300
+      },
+      {
+        "clue": "What is the most effective blocking strategy in beach volleyball?",
+        "correctQuestion": "Reading the hitter and positioning based on their approach",
+        "value": 300
+      },
+      {
+        "clue": "What is an 'anti-rotation' defense in beach volleyball?",
+        "correctQuestion": "A strategy to prevent the opposing team from rotating momentum",
+        "value": 300
+      },
+      {
+        "clue": "How many rotations occur in a beach volleyball match?",
+        "correctQuestion": "With only 2 players, only one serve rotation per side",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'soft touch' skill in beach volleyball?",
+        "correctQuestion": "The ability to control the ball with precision rather than power",
+        "value": 300
+      },
+      {
+        "clue": "What is the importance of 'court awareness' in beach volleyball?",
+        "correctQuestion": "Knowing the ball's position, court boundaries, and opponent positions",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'cross-court block' in beach volleyball?",
+        "correctQuestion": "When a player blocks an attack at an angle rather than straight back",
+        "value": 300
+      },
+      {
+        "clue": "What is the relationship between vertical jump and spiking power?",
+        "correctQuestion": "Higher jumps provide better spike angle and reach",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'net tape contact' in beach volleyball?",
+        "correctQuestion": "When the ball touches the net during a spike (legal if it goes over)",
+        "value": 300
+      },
+      {
+        "clue": "What is the purpose of a 'fake' or 'dummy attack' in beach volleyball?",
+        "correctQuestion": "To disguise your intention and draw the blocker out of position",
+        "value": 300
+      },
+      {
+        "clue": "What is 'deep positioning' in beach volleyball defense?",
+        "correctQuestion": "Standing further back from the net to defend deeper shots",
+        "value": 300
+      },
+      {
+        "clue": "What is a 'compound error' in beach volleyball?",
+        "correctQuestion": "Multiple violations occurring on the same play",
+        "value": 300
+      },
+      {
+        "clue": "How does body rotation contribute to spiking in beach volleyball?",
+        "correctQuestion": "It generates power and allows for better ball acceleration",
+        "value": 300
+      },
+      {
+        "clue": "What is the 'hot spot' on the court in beach volleyball?",
+        "correctQuestion": "The center court area hardest to defend",
+        "value": 300
+      },
+      {
+        "clue": "What is match momentum in beach volleyball?",
+        "correctQuestion": "The psychological edge gained from consecutive scoring plays",
+        "value": 300
+      }
+    ],
+    "adults": [
+      {
+        "clue": "What is the statistical difference in point-scoring between men's and women's beach volleyball?",
+        "correctQuestion": "Women typically score more points from blocks due to net height differences",
+        "value": 400
+      },
+      {
+        "clue": "How does the 'Coriolis effect' potentially impact long-distance beach volleyball serves?",
+        "correctQuestion": "Wind patterns influenced by Earth's rotation can affect ball trajectory",
+        "value": 400
+      },
+      {
+        "clue": "What is the biomechanics of an efficient 'four-step approach' in beach volleyball?",
+        "correctQuestion": "Left-right-left-right pattern (or right-left pattern) building momentum for jump",
+        "value": 400
+      },
+      {
+        "clue": "What is the relationship between ankle stability and injury prevention in beach volleyball?",
+        "correctQuestion": "Strong ankles prevent sand-related sprains and ankle injuries",
+        "value": 400
+      },
+      {
+        "clue": "How do elite beach volleyball players mentally prepare for matches?",
+        "correctQuestion": "Visualization, breathing exercises, and positive self-talk",
+        "value": 400
+      },
+      {
+        "clue": "What is the optimal court coverage percentage for two beach volleyball players?",
+        "correctQuestion": "Each player should cover approximately 50% of the court",
+        "value": 400
+      },
+      {
+        "clue": "What is the significance of 'hand positioning' when setting in beach volleyball?",
+        "correctQuestion": "Proper hand position ensures consistent ball contact and direction control",
+        "value": 400
+      },
+      {
+        "clue": "How does sand temperature affect grip and ball handling?",
+        "correctQuestion": "Hot sand reduces grip; cool sand improves traction and control",
+        "value": 400
+      },
+      {
+        "clue": "What is the physics of 'spin' on a beach volleyball serve?",
+        "correctQuestion": "Topspin causes the ball to drop faster; backspin causes it to float",
+        "value": 400
+      },
+      {
+        "clue": "What advanced footwork technique prevents sand from slowing movement?",
+        "correctQuestion": "High knee lift and explosive push-off against the sand",
+        "value": 400
+      },
+      {
+        "clue": "What is the strategic significance of first-set performance in beach volleyball?",
+        "correctQuestion": "Winning the first set provides psychological momentum for the second set",
+        "value": 400
+      },
+      {
+        "clue": "How do elite beach volleyball players adjust their strategy based on wind direction?",
+        "correctQuestion": "They modify serve placement, approach angles, and defensive positioning",
+        "value": 400
+      },
+      {
+        "clue": "What is the relationship between core strength and spiking power in beach volleyball?",
+        "correctQuestion": "Strong core transmits leg power to arm for maximum spike velocity",
+        "value": 400
+      },
+      {
+        "clue": "What is the 'anticipation index' concept in professional beach volleyball?",
+        "correctQuestion": "A measure of how quickly a player reacts to opponent's movements",
+        "value": 400
+      },
+      {
+        "clue": "How does humidity affect serve behavior in beach volleyball?",
+        "correctQuestion": "High humidity increases air density, affecting ball flight and speed",
+        "value": 400
+      },
+      {
+        "clue": "What is the statistical probability of scoring from a well-placed set in beach volleyball?",
+        "correctQuestion": "Approximately 40-60% depending on block quality",
+        "value": 400
+      },
+      {
+        "clue": "What is the advanced 'positioning matrix' used by professional beach volleyball teams?",
+        "correctQuestion": "A strategic system for optimal court coverage and player placement",
+        "value": 400
+      },
+      {
+        "clue": "How do professional beach volleyball players manage fatigue in multi-set matches?",
+        "correctQuestion": "Through strategic rest periods, hydration, and paced intensity levels",
+        "value": 400
+      },
+      {
+        "clue": "What is the significance of 'pressure point' serving in beach volleyball?",
+        "correctQuestion": "Serves targeting specific court areas where opponents are weakest",
+        "value": 400
+      },
+      {
+        "clue": "How does sun angle affect vision and play in beach volleyball?",
+        "correctQuestion": "Direct sun can impair vision; shading of court changes throughout the day",
+        "value": 400
+      },
+      {
+        "clue": "What is the statistical relationship between serving accuracy and match-winning percentage?",
+        "correctQuestion": "Higher serve consistency correlates with higher match win rates",
+        "value": 400
+      },
+      {
+        "clue": "What is an 'optimal set placement' in beach volleyball from a physics perspective?",
+        "correctQuestion": "Set at the peak of jump height to maximize attacking options",
+        "value": 400
+      },
+      {
+        "clue": "How do elite players use 'dummy movements' to deceive opponents?",
+        "correctQuestion": "Faking body positions to misdirect block placement",
+        "value": 400
+      },
+      {
+        "clue": "What is the advanced recovery technique from a failed attack in beach volleyball?",
+        "correctQuestion": "Rapid court reset positioning to defend counterattack",
+        "value": 400
+      },
+      {
+        "clue": "What is the relationship between handedness and spike direction in beach volleyball?",
+        "correctQuestion": "Right-handed hitters naturally spike at different angles than left-handers",
+        "value": 400
+      },
+      {
+        "clue": "How do professional beach volleyball pairs coordinate complex defensive patterns?",
+        "correctQuestion": "Through pre-match drilling and verbal communication systems",
+        "value": 400
+      },
+      {
+        "clue": "What is the biomechanical advantage of a 'quick spike' in beach volleyball?",
+        "correctQuestion": "Reduces block reaction time and exploits gaps in opponent's defensive position",
+        "value": 400
+      },
+      {
+        "clue": "What is the strategic value of 'keeping the ball alive' in extended rallies?",
+        "correctQuestion": "Fatigue opponents and create opportunities for unforced errors",
+        "value": 400
+      },
+      {
+        "clue": "How does altitude affect beach volleyball play at higher elevations?",
+        "correctQuestion": "Lower air density allows ball to travel faster and farther",
+        "value": 400
+      },
+      {
+        "clue": "What is the advanced 'read and react' system in professional beach volleyball?",
+        "correctQuestion": "Adaptive strategy changing based on real-time opponent performance analysis",
+        "value": 400
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "What is the theoretical physics behind optimal serve velocity in beach volleyball given air resistance?",
+        "correctQuestion": "Balancing power with control considering drag coefficient and Magnus effect",
+        "value": 500
+      },
+      {
+        "clue": "How do elite beach volleyball players employ game theory in strategy selection?",
+        "correctQuestion": "Using Nash equilibrium to determine optimal mixed serving and attacking strategies",
+        "value": 500
+      },
+      {
+        "clue": "What is the advanced 'momentum transfer' technique in beach volleyball spiking?",
+        "correctQuestion": "Converting horizontal movement energy into vertical jump and arm acceleration",
+        "value": 500
+      },
+      {
+        "clue": "How does the Coriolis effect specifically influence tournament play at different latitudes?",
+        "correctQuestion": "Stronger effect at higher latitudes affects long-distance serves differently",
+        "value": 500
+      },
+      {
+        "clue": "What is the statistical model for predicting rally length in beach volleyball?",
+        "correctQuestion": "Poisson distribution based on hit accuracy and defensive capability",
+        "value": 500
+      },
+      {
+        "clue": "How do professional beach volleyball players optimize for sand granule friction dynamics?",
+        "correctQuestion": "Adjusting footwork patterns based on specific sand composition analysis",
+        "value": 500
+      },
+      {
+        "clue": "What is the advanced 'time-to-net' calculation in beach volleyball blocking strategy?",
+        "correctQuestion": "Measuring exact milliseconds to position optimally at net for block",
+        "value": 500
+      },
+      {
+        "clue": "How does the elastic modulus of sand affect jump mechanics in beach volleyball?",
+        "correctQuestion": "Lower elastic modulus increases energy absorption, reducing jump height",
+        "value": 500
+      },
+      {
+        "clue": "What is the neuromuscular coordination pattern required for exceptional beach volleyball agility?",
+        "correctQuestion": "Proprioceptive feedback loops enabling rapid directional changes on unstable surface",
+        "value": 500
+      },
+      {
+        "clue": "How do elite pairs develop 'telepathic' court communication in beach volleyball?",
+        "correctQuestion": "Through thousands of hours of synchronized movement and predictive positioning",
+        "value": 500
+      },
+      {
+        "clue": "What is the advanced psychological concept of 'flow state' in beach volleyball performance?",
+        "correctQuestion": "State of optimal focus where player and action become one without conscious thought",
+        "value": 500
+      },
+      {
+        "clue": "How does the Magnus effect create curve in a beach volleyball serve?",
+        "correctQuestion": "Ball rotation creates pressure differential, causing trajectory curves",
+        "value": 500
+      },
+      {
+        "clue": "What is the statistical significance of 'first-set tie-break' in overall match outcomes?",
+        "correctQuestion": "Rarely occurs, but indicates extremely competitive matchup",
+        "value": 500
+      },
+      {
+        "clue": "How do elite beach volleyball players master sand-specific footwork for minimal deceleration?",
+        "correctQuestion": "High-frequency leg movement and forward-momentum preservation techniques",
+        "value": 500
+      },
+      {
+        "clue": "What is the advanced 'court geometry' system used in professional beach volleyball?",
+        "correctQuestion": "Mathematical analysis of optimal positioning angles relative to opponent",
+        "value": 500
+      },
+      {
+        "clue": "How does cardiovascular capacity specifically affect beach volleyball championship performance?",
+        "correctQuestion": "Maintains cognitive function and reaction speed during extended matches",
+        "value": 500
+      },
+      {
+        "clue": "What is the biomechanical sequence of an optimal beach volleyball spike approach?",
+        "correctQuestion": "Stride-plant-jump with precise timing of arm swing relative to takeoff",
+        "value": 500
+      },
+      {
+        "clue": "How do professional beach volleyball players decode opponent serve patterns statistically?",
+        "correctQuestion": "Analyzing serve placement data to predict future serve locations",
+        "value": 500
+      },
+      {
+        "clue": "What is the theoretical maximum spin rate achievable on a professional beach volleyball serve?",
+        "correctQuestion": "Approximately 15-20 revolutions per second for elite players",
+        "value": 500
+      },
+      {
+        "clue": "How does thermal expansion of beach volleyball equipment affect gameplay?",
+        "correctQuestion": "Heat increases ball elasticity and affects serve characteristics",
+        "value": 500
+      },
+      {
+        "clue": "What is the advanced 'pressure management' technique in professional beach volleyball?",
+        "correctQuestion": "Psychological strategies to maintain optimal arousal levels during critical points",
+        "value": 500
+      },
+      {
+        "clue": "How do elite beach volleyball players employ 'micro-adjustments' in positioning?",
+        "correctQuestion": "Subtle shifts based on real-time analysis of opponent positioning",
+        "value": 500
+      },
+      {
+        "clue": "What is the statistical model for predicting setter effectiveness in beach volleyball?",
+        "correctQuestion": "Analyzing set accuracy, depth control, and timing consistency",
+        "value": 500
+      },
+      {
+        "clue": "How does proprioceptive training enhance beach volleyball performance?",
+        "correctQuestion": "Improving body awareness and balance on unstable sand surface",
+        "value": 500
+      },
+      {
+        "clue": "What is the advanced technique for 'reading' an opponent's spike intention pre-contact?",
+        "correctQuestion": "Analyzing approach angle, shoulder rotation, and arm position",
+        "value": 500
+      },
+      {
+        "clue": "How do professional beach volleyball players optimize serve placement with wind variable?",
+        "correctQuestion": "Calculating wind speed, direction, and adjusting trajectory accordingly",
+        "value": 500
+      },
+      {
+        "clue": "What is the biomechanical efficiency rating for different blocking heights in beach volleyball?",
+        "correctQuestion": "Peak efficiency at the hitter's maximum reach point",
+        "value": 500
+      },
+      {
+        "clue": "How does lactate threshold training improve beach volleyball endurance?",
+        "correctQuestion": "Enables sustained high-intensity play without fatigue-related performance decline",
+        "value": 500
+      },
+      {
+        "clue": "What is the advanced 'contingency planning' system used by professional beach volleyball teams?",
+        "correctQuestion": "Pre-match analysis of alternative strategies for different match scenarios",
+        "value": 500
+      },
+      {
+        "clue": "How do elite players maximize the 'sweet spot' contact zone on beach volleyball strikes?",
+        "correctQuestion": "Through thousands of repetitions achieving unconscious optimal contact point selection",
+        "value": 500
+      },
+      {
+        "clue": "What is the quantum mechanics explanation for the probabilistic nature of rally outcomes in beach volleyball?",
+        "correctQuestion": "Ball trajectory uncertainty increases with distance; player reaction time is fundamentally uncertain",
+        "value": 600
+      },
+      {
+        "clue": "How do elite beach volleyball pairs achieve synchronized decision-making faster than conscious processing allows?",
+        "correctQuestion": "Through subcortical pattern recognition developed via deliberate practice over 10,000+ hours",
+        "value": 600
+      },
+      {
+        "clue": "What is the theoretical limit of human reaction time in beach volleyball blocking?",
+        "correctQuestion": "Approximately 100-150 milliseconds, accounting for neural transmission delays",
+        "value": 600
+      },
+      {
+        "clue": "How does the strange attractor concept from chaos theory apply to beach volleyball momentum?",
+        "correctQuestion": "Small initial conditions create vastly different match outcomes (butterfly effect)",
+        "value": 600
+      },
+      {
+        "clue": "What is the information-theoretic entropy of an optimal beach volleyball serve?",
+        "correctQuestion": "Maximum randomness while maintaining strategic intent (Shannon entropy)",
+        "value": 600
+      },
+      {
+        "clue": "How do elite beach volleyball players achieve near-perfect court coverage efficiency?",
+        "correctQuestion": "Through optimization of movement vectors and prediction of opponent attack patterns",
+        "value": 600
+      },
+      {
+        "clue": "What is the topological geometry of optimal blocking formations in beach volleyball?",
+        "correctQuestion": "Euler paths minimizing distance between defensive positions",
+        "value": 600
+      },
+      {
+        "clue": "How does the Fourier analysis of serve spin patterns predict opponent offensive strategies?",
+        "correctQuestion": "Decomposing spin components reveals serve intention and placement probability",
+        "value": 600
+      },
+      {
+        "clue": "What is the fractal dimension of sand texture affecting optimal footwork mechanics?",
+        "correctQuestion": "Self-similar patterns at different scales affect traction and acceleration",
+        "value": 600
+      },
+      {
+        "clue": "How do elite beach volleyball players exploit the observer effect in match psychology?",
+        "correctQuestion": "Awareness of being watched affects opponent performance and decision-making",
+        "value": 600
+      },
+      {
+        "clue": "What is the hidden Markov model predicting next serve location in beach volleyball?",
+        "correctQuestion": "Analyzing serve history patterns to predict probability distribution of next serve",
+        "value": 600
+      },
+      {
+        "clue": "How does the Heisenberg uncertainty principle apply to measuring beach volleyball performance?",
+        "correctQuestion": "Cannot simultaneously measure exact position and momentum; statistical analysis required",
+        "value": 600
+      },
+      {
+        "clue": "What is the optimal algorithm for real-time defensive positioning in beach volleyball?",
+        "correctQuestion": "A* pathfinding algorithm modified for ball trajectory and opponent positioning",
+        "value": 600
+      },
+      {
+        "clue": "How do professional beach volleyball players implement Bayesian inference in court coverage decisions?",
+        "correctQuestion": "Updating probability estimates of attack location based on continuous observations",
+        "value": 600
+      },
+      {
+        "clue": "What is the tensor calculus application to multi-dimensional volleyball performance metrics?",
+        "correctQuestion": "Analyzing relationships between power, speed, accuracy, and consistency simultaneously",
+        "value": 600
+      },
+      {
+        "clue": "How does the pigeonhole principle affect strategic options in beach volleyball rallies?",
+        "correctQuestion": "Limited court space and time force constrained solution set for attacks",
+        "value": 600
+      },
+      {
+        "clue": "What is the non-Euclidean geometry of sand surface affecting ball trajectory calculations?",
+        "correctQuestion": "Curved surface properties require spherical geometry adjustments for predictions",
+        "value": 600
+      },
+      {
+        "clue": "How do elite beach volleyball players optimize information flow in dual-player systems?",
+        "correctQuestion": "Through Shannon channel capacity theory and minimal-latency communication protocols",
+        "value": 600
+      },
+      {
+        "clue": "What is the complexity class of optimal beach volleyball strategy selection?",
+        "correctQuestion": "NP-hard problem requiring heuristic solutions in real-time constraints",
+        "value": 600
+      },
+      {
+        "clue": "How does the ergodic hypothesis affect statistical prediction in beach volleyball outcomes?",
+        "correctQuestion": "Time-averaged performance should equal ensemble-averaged performance over repeated matches",
+        "value": 600
+      },
+      {
+        "clue": "What is the catastrophe theory application to sudden performance transitions in beach volleyball?",
+        "correctQuestion": "Small changes in variables create discontinuous jumps in match momentum or scoring",
+        "value": 600
+      },
+      {
+        "clue": "How do professional beach volleyball pairs achieve collective intelligence beyond individual capability?",
+        "correctQuestion": "Distributed cognition through complementary skills and real-time collaborative processing",
+        "value": 600
+      },
+      {
+        "clue": "What is the minimal spanning tree for optimal communication paths between beach volleyball partners?",
+        "correctQuestion": "Direct line-of-sight verbal and non-verbal signals with minimal latency",
+        "value": 600
+      },
+      {
+        "clue": "How does the principle of parsimony apply to advanced beach volleyball coaching?",
+        "correctQuestion": "Simplest effective strategies outperform overly complex tactical systems",
+        "value": 600
+      },
+      {
+        "clue": "What is the stochastic differential equation modeling beach volleyball rally progression?",
+        "correctQuestion": "Incorporating randomness of player decisions within deterministic physics constraints",
+        "value": 600
+      },
+      {
+        "clue": "How do elite beach volleyball players implement Monte Carlo methods for strategic decisions?",
+        "correctQuestion": "Simulating possible futures to calculate probability-weighted optimal action",
+        "value": 600
+      },
+      {
+        "clue": "What is the phase transition point where beach volleyball matches shift from competitive to decided?",
+        "correctQuestion": "Typically occurs around 10-15 point deficit in modern rally-scoring format",
+        "value": 600
+      },
+      {
+        "clue": "How does network graph theory optimize communication efficiency between beach volleyball teammates?",
+        "correctQuestion": "Minimizing betweenness centrality while maintaining sufficient redundancy",
+        "value": 600
+      },
+      {
+        "clue": "What is the recursive self-similarity in elite beach volleyball training methodologies?",
+        "correctQuestion": "Micro-skills build into macro-patterns at different temporal scales",
+        "value": 600
+      },
+      {
+        "clue": "How do the most successful beach volleyball pairs achieve the theoretical performance ceiling?",
+        "correctQuestion": "Combining years of deliberate practice, biomechanical optimization, and synergistic partnership",
+        "value": 600
+      }
+    ]
   }
 }

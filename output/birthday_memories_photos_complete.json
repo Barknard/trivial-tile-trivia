@@ -2,7 +2,6 @@
   "category": "Birthday Memories & Photos",
   "theme": "birthday",
   "category_id": "birthday_memories_photos",
-  "research_basis": "Memory formation (Ebbinghaus, Baddeley), autobiographical memory (Schacter), episodic memory consolidation (Born, Dang), photo reminiscence therapy, nostalgia psychology (Sedikides, Wildschut), emotional congruence theory (Bower), visual memory enhancement (Wammes, Meade), narrative memory, family storytelling",
   "audiences": {
     "kids_4_under": [
       {
@@ -730,9 +729,7 @@
         "clue": "This research framework integrates neuroscience and psychology to explain the multifaceted benefits of nostalgic reflection",
         "correctQuestion": "What is the integrated model of nostalgia?",
         "value": 1000
-      }
-    ],
-    "seniors": [
+      },
       {
         "clue": "This neuroscientist's foundational work established that autobiographical memories undergo continuous reconstruction",
         "correctQuestion": "Who is Daniel L. Schacter?",

@@ -2,11 +2,6 @@
   "category": "Birthday Decorations",
   "theme": "celebrations",
   "category_id": "birthday_decorations",
-  "description": "Party decorations, balloons, streamers, themes, colors, and party design elements",
-  "age_suitability": "All ages",
-  "research_alignment": "Visual arts, color psychology, spatial awareness, design principles, cultural celebrations",
-  "generated_date": "2025-12-26",
-  "total_questions": 180,
   "audiences": {
     "kids_4_under": [
       {
@@ -188,9 +183,7 @@
         "clue": "This pops with a bang and surprises everyone",
         "correctQuestion": "What is a party popper?",
         "value": 200
-      }
-    ],
-    "kids_5_8": [
+      },
       {
         "clue": "A common balloon shape made by twisting rubber in different sections",
         "correctQuestion": "What is a balloon animal?",
@@ -372,7 +365,7 @@
         "value": 200
       }
     ],
-    "kids_9_12": [
+    "kids_10_under": [
       {
         "clue": "The color combination of red and yellow is known as this warm color temperature in color psychology",
         "correctQuestion": "What are warm colors?",
@@ -554,7 +547,7 @@
         "value": 400
       }
     ],
-    "teens_adults": [
+    "adults": [
       {
         "clue": "This design principle creates visual coherence across all decorative elements",
         "correctQuestion": "What is unity or cohesion?",
@@ -734,9 +727,7 @@
         "clue": "This principle guides the viewer's eye throughout the decorated space",
         "correctQuestion": "What is visual flow?",
         "value": 400
-      }
-    ],
-    "seniors": [
+      },
       {
         "clue": "This artistic movement influenced the geometric balloon decoration styles popular today",
         "correctQuestion": "What is constructivism or geometric abstraction?",
@@ -749,7 +740,7 @@
       },
       {
         "clue": "This color theorist's work on complementary colors is fundamental to modern party design",
-        "correctQuestion": "Who is Johann Wolfgang von Goethe or Michel Eug\u00c3\u00a8ne Chevreul?",
+        "correctQuestion": "Who is Johann Wolfgang von Goethe or Michel EugÃ¨ne Chevreul?",
         "value": 200
       },
       {
@@ -839,7 +830,7 @@
       },
       {
         "clue": "This artist's study of simultaneous contrast in color theory revolutionized decorative aesthetics",
-        "correctQuestion": "Who is Michel Eug\u00c3\u00a8ne Chevreul?",
+        "correctQuestion": "Who is Michel EugÃ¨ne Chevreul?",
         "value": 200
       },
       {
@@ -917,86 +908,6 @@
         "correctQuestion": "Who is Maurice Merleau-Ponty?",
         "value": 400
       }
-    ]
-  },
-  "research_notes": {
-    "color_psychology": [
-      "Red: Conveys energy, passion, excitement, and celebration (warm color with advancing property). Activates parasympathetic nervous system response. Used prominently in festive contexts across cultures.",
-      "Blue: Associated with calm, tranquility, trust, and stability (cool color that recedes). Creates sense of security and peace. Slows perceived time passage.",
-      "Yellow: Represents happiness, optimism, and joy (high visibility color used in celebrations). Stimulates mental activity and optimism. Most visible color to human eye.",
-      "Green: Symbolizes nature, harmony, and relaxation (balanced color in color wheel). Associated with growth and renewal. Creates restful visual experience.",
-      "Purple: Associated with royalty, creativity, and celebration (complementary to yellow). Combines calming blue with stimulating red. Historically precious and valuable.",
-      "Orange: Conveys warmth, enthusiasm, and energy (between red and yellow on color wheel). Combines excitement of red with joy of yellow.",
-      "Pink: Associated with playfulness, fun, and youthfulness (tint of red). Creates gentle, approachable aesthetic. Popular for younger celebrations.",
-      "White: Represents purity, cleanliness, and elegance (reflects all light). Creates sense of space and simplicity. Enhances visibility of other colors.",
-      "Black: Provides contrast and sophistication (absorbs all light). Creates dramatic emphasis. Used for formal and elegant party themes.",
-      "Silver/Gold: Metallic shades convey luxury, celebration, and special occasions. Reflect light creating festive sparkle. Associated with wealth and prestige."
-    ],
-    "visual_arts_principles": [
-      "Balance: Symmetrical (mirror) vs. asymmetrical (dynamic) distribution of visual weight. Creates sense of stability and intentionality in decoration layout.",
-      "Contrast: Placing opposing colors or shapes to create visual interest and emphasis. Prevents monotony and guides viewer attention.",
-      "Emphasis: Drawing attention to specific areas through size, color, or placement. Creates focal point hierarchy in decorated space.",
-      "Proportion: Relationship between sizes of different elements in a composition. Governs how decorations relate to each other and space.",
-      "Pattern: Repetition of decorative elements to create rhythm and visual flow. Creates visual unity through repeated design elements.",
-      "Scale: Overall size of decorations in relation to their environment. Ensures decorations appropriate to space and create impact.",
-      "Unity: Creating cohesion through consistent use of colors, shapes, and styles. Makes space feel intentionally designed rather than chaotic.",
-      "Movement: Directing viewer's eye through compositional arrangement. Creates visual journey through decorated space.",
-      "Focal Point: Primary area of attention in a decorated space. Usually cake table or main backdrop in birthday celebrations.",
-      "Depth: Creating illusion of three-dimensional space in flat or linear arrangements. Makes 2D decorations appear dimensional."
-    ],
-    "spatial_awareness": [
-      "Golden Ratio (1.618): Mathematical proportion found in nature and aesthetically pleasing arrangements. Applied to decoration placement and sizing.",
-      "Rule of Thirds: Dividing space into nine equal parts for compositional balance. Creates naturally pleasing visual composition.",
-      "Proxemics: Study of how physical distance and proximity affect perception and comfort. Determines spacing between decorative elements.",
-      "Volumetric Design: Considering decoration arrangements in three-dimensional space. Essential for balloon walls and suspended decorations.",
-      "Layering: Creating visual depth through overlapping and stacking decorative elements. Creates dimensional appearance in flat spaces.",
-      "Vertical Space: Utilizing ceiling height for hanging decorations and balloons. Draws eye upward and makes space appear larger.",
-      "Horizontal Space: Arranging decorations across table surfaces and walls. Creates visual base and supporting elements.",
-      "Circulation Space: Maintaining clear pathways for guests to move through decorated areas. Ensures safety and functionality.",
-      "Focal Distance: Optimizing decoration placement for optimal viewing from different angles. Considers multiple viewpoints in space.",
-      "Atmospheric Perspective: Using color and value changes to create depth illusion. Lighter cooler colors appear farther away."
-    ],
-    "celebration_design_concepts": [
-      "Themed Cohesion: Consistent color palette, style, and decorative elements throughout space. Creates unified, intentional aesthetic.",
-      "Visual Hierarchy: Primary decorations (backdrop, centerpiece) vs. secondary elements. Guides viewer attention through space deliberately.",
-      "Sensory Experience: Combining visual decorations with other sensory elements (lighting, music). Creates immersive celebration environment.",
-      "Temporal Design: Decorations that can be revealed or changed throughout the celebration. Creates dynamic, evolving visual experience.",
-      "Sustainability: Environmentally conscious decoration choices and reusable materials. Reduces environmental impact of celebrations.",
-      "Cultural Sensitivity: Respecting cultural traditions and meanings in decoration choices. Honors cultural significance of celebration practices.",
-      "Budget Optimization: Achieving high-impact visual effect with limited resources. Demonstrates resourcefulness in design.",
-      "Safety Considerations: Ensuring decorations don't obstruct views or create hazards. Maintains guest safety and comfort.",
-      "Photography Appeal: Designing decorated areas with photo opportunities in mind. Creates shareable moments for social media.",
-      "Flexibility: Adaptable decoration systems that work in various venue sizes. Allows decoration reuse across different spaces."
-    ]
-  },
-  "source_references": {
-    "visual_arts": [
-      "Kandinsky, W. (1977). Concerning the Spiritual in Art. Dover Publications. - Foundational work on color theory and visual expression.",
-      "Johannes Itten's Color Theory - Bauhaus systematic approach to color relationships and harmony.",
-      "Josef Albers' Interaction of Color - optical and perceptual color effects and simultaneous contrast.",
-      "Color & Light by James Gurney - comprehensive guide to color use in visual composition and perception.",
-      "Ellen Lupton - Thinking with Type, explores visual hierarchy and spatial organization principles."
-    ],
-    "color_psychology": [
-      "Faber Birren's research on psychological effects of colors - foundational work in color psychology.",
-      "David McCandless's 'Colours Chart' - mapping psychological color associations and cultural meanings.",
-      "Eva Heller's 'Psychologie der Farbe' - comprehensive color psychology study across cultures.",
-      "Angela Wright's studies on color effects on mood and productivity - workplace and home environment applications.",
-      "Pantone Color Institute annual reports - contemporary color trend analysis and cultural color preferences."
-    ],
-    "spatial_design": [
-      "Stephen R. Kellert's Biophilic Design - natural spatial arrangement principles and environmental psychology.",
-      "Alain de Botton's Architecture of Happiness - space and emotional well-being connections.",
-      "Christopher Alexander's Pattern Language - repeating spatial design elements and environmental harmony.",
-      "Feng Shui principles - balance and harmony in spatial arrangement across Eastern and Western contexts.",
-      "Edward Hall's Proxemics theory - personal space and distance relationships in spatial design."
-    ],
-    "celebration_research": [
-      "Victor Turner's Liminality and Communitas - theoretical framework for celebration and ritual space creation.",
-      "Mary Douglas on Purity and Danger - cultural frameworks for decoration and boundary marking.",
-      "Barbara Ehrenreich's Dancing in the Streets - history of collective celebration and festive expression.",
-      "Erving Goffman's Presentation of Self - how decorated spaces communicate social meaning.",
-      "Arnold van Gennep's Rites of Passage - ceremonial and celebratory frameworks across cultures."
     ]
   }
 }

@@ -1,319 +1,167 @@
 {
   "category": "New Year & Calendar Changes",
-  "regular_trivia": [
-    {
-      "clue": "The Roman emperor who added January and February to the calendar",
-      "correctQuestion": "Who is Numa Pompilius?",
-      "value": 200
-    },
-    {
-      "clue": "The number of days in a leap year",
-      "correctQuestion": "What is 366?",
-      "value": 200
-    },
-    {
-      "clue": "The month that usually has 28 days",
-      "correctQuestion": "What is February?",
-      "value": 200
-    },
-    {
-      "clue": "The first day of the year in the Gregorian calendar",
-      "correctQuestion": "What is January 1st?",
-      "value": 200
-    },
-    {
-      "clue": "The number of months in a year",
-      "correctQuestion": "What is 12?",
-      "value": 200
-    },
-    {
-      "clue": "The year the Gregorian calendar was adopted",
-      "correctQuestion": "What is 1582?",
-      "value": 400
-    },
-    {
-      "clue": "The calendar system used before the Gregorian calendar",
-      "correctQuestion": "What is the Julian calendar?",
-      "value": 400
-    },
-    {
-      "clue": "The zodiac sign for people born on January 1st",
-      "correctQuestion": "What is Capricorn?",
-      "value": 400
-    },
-    {
-      "clue": "The number of seconds in a year",
-      "correctQuestion": "What is 31,536,000?",
-      "value": 400
-    },
-    {
-      "clue": "The month with the most days",
-      "correctQuestion": "What is December?",
-      "value": 400
-    },
-    {
-      "clue": "The name of the Jewish New Year",
-      "correctQuestion": "What is Rosh Hashanah?",
-      "value": 600
-    },
-    {
-      "clue": "The day of the week that January 1, 2000 fell on",
-      "correctQuestion": "What is Saturday?",
-      "value": 600
-    },
-    {
-      "clue": "The Chinese zodiac animal for 2024",
-      "correctQuestion": "What is the Dragon?",
-      "value": 600
-    },
-    {
-      "clue": "The Islamic New Year is also called",
-      "correctQuestion": "What is Hijra?",
-      "value": 600
-    },
-    {
-      "clue": "The number of leap days in 400 years",
-      "correctQuestion": "What is 97?",
-      "value": 600
-    },
-    {
-      "clue": "The country that celebrates New Year first each day",
-      "correctQuestion": "What is Kiribati?",
-      "value": 800
-    },
-    {
-      "clue": "The reason February sometimes has 29 days",
-      "correctQuestion": "What is the Earth's orbit taking 365.25 days?",
-      "value": 800
-    },
-    {
-      "clue": "The number of days difference between Julian and Gregorian calendars",
-      "correctQuestion": "What is 13 days?",
-      "value": 800
-    },
-    {
-      "clue": "The ancient Roman month originally the first month of their year",
-      "correctQuestion": "What is March?",
-      "value": 800
-    },
-    {
-      "clue": "The year 2000 was a leap year because it was divisible by",
-      "correctQuestion": "What is 400?",
-      "value": 800
-    },
-    {
-      "clue": "The Mayan calendar cycle that ended in 2012",
-      "correctQuestion": "What is the Long Count?",
-      "value": 1000
-    },
-    {
-      "clue": "The calendar system used by the Ethiopian Orthodox Church",
-      "correctQuestion": "What is the Ethiopian calendar?",
-      "value": 1000
-    },
-    {
-      "clue": "The month named after the Roman god of war",
-      "correctQuestion": "What is March?",
-      "value": 1000
-    },
-    {
-      "clue": "The Hebrew word for the New Year celebration",
-      "correctQuestion": "What is Shanah Tovah?",
-      "value": 1000
-    },
-    {
-      "clue": "The number of time zones that celebrate New Year on January 1st",
-      "correctQuestion": "What is 24?",
-      "value": 1000
-    },
-    {
-      "clue": "The reason some countries changed from Julian to Gregorian calendar",
-      "correctQuestion": "What is calendar synchronization with the solar year?",
-      "value": 1000
-    },
-    {
-      "clue": "The first person to celebrate New Year at midnight in Times Square",
-      "correctQuestion": "What is the New Year's Eve Ball?",
-      "value": 1000
-    },
-    {
-      "clue": "The calendar system that has 13 months of 28 days",
-      "correctQuestion": "What is the International Fixed Calendar?",
-      "value": 1000
-    },
-    {
-      "clue": "The month that originally had 30 days but now has 31",
-      "correctQuestion": "What is August?",
-      "value": 1000
-    },
-    {
-      "clue": "The Gregorian calendar has a leap day every",
-      "correctQuestion": "What is 4 years?",
-      "value": 1000
-    }
-  ],
-  "cah_style": [
-    {
-      "clue": "What humans pretend to start doing on January 2nd",
-      "correctQuestion": "What is exercise?",
-      "value": 200
-    },
-    {
-      "clue": "The lie you tell yourself at midnight on December 31st",
-      "correctQuestion": "What is 'This year will be different'?",
-      "value": 200
-    },
-    {
-      "clue": "Why you'll be drunk filling out New Year's resolutions",
-      "correctQuestion": "What is champagne?",
-      "value": 200
-    },
-    {
-      "clue": "What broke at 11:59pm on December 31, 1999",
-      "correctQuestion": "What is the entire internet?",
-      "value": 200
-    },
-    {
-      "clue": "The calendar app that still shows wrong birth dates",
-      "correctQuestion": "What is Google Calendar?",
-      "value": 200
-    },
-    {
-      "clue": "Who's still signing documents with the wrong year in January",
-      "correctQuestion": "What is everyone?",
-      "value": 400
-    },
-    {
-      "clue": "The mood that lasts exactly 2 days into New Year",
-      "correctQuestion": "What is motivation?",
-      "value": 400
-    },
-    {
-      "clue": "What's back to normal by January 5th",
-      "correctQuestion": "What are your bad habits?",
-      "value": 400
-    },
-    {
-      "clue": "The New Year's resolution you'll actually keep",
-      "correctQuestion": "What is watching Netflix?",
-      "value": 400
-    },
-    {
-      "clue": "Why nobody remembers what year it is anymore",
-      "correctQuestion": "What is the pandemic?",
-      "value": 400
-    },
-    {
-      "clue": "The only calendar on your phone that actually works",
-      "correctQuestion": "What is the app you paid for in 2018 and forgot about?",
-      "value": 600
-    },
-    {
-      "clue": "What the Mayan calendar got right",
-      "correctQuestion": "What is that the world ends on your birthday?",
-      "value": 600
-    },
-    {
-      "clue": "The person who decided resolutions were necessary",
-      "correctQuestion": "Who is Satan?",
-      "value": 600
-    },
-    {
-      "clue": "Why you'll reset your life on January 1st instead of literally any other day",
-      "correctQuestion": "What is capitalism?",
-      "value": 600
-    },
-    {
-      "clue": "The New Year's supply that runs out the fastest",
-      "correctQuestion": "What is willpower?",
-      "value": 600
-    },
-    {
-      "clue": "What Time's Square's ball drop symbolizes",
-      "correctQuestion": "What is your dignity?",
-      "value": 800
-    },
-    {
-      "clue": "The calendar system Gen Z refuses to use",
-      "correctQuestion": "What is the Gregorian calendar?",
-      "value": 800
-    },
-    {
-      "clue": "Why February is the angriest month",
-      "correctQuestion": "What is it's the shortest and still drags on?",
-      "value": 800
-    },
-    {
-      "clue": "What leap year gives you but you don't want",
-      "correctQuestion": "What is another day of your miserable existence?",
-      "value": 800
-    },
-    {
-      "clue": "The app that forgot to change your birthday",
-      "correctQuestion": "What is Facebook?",
-      "value": 800
-    },
-    {
-      "clue": "Why you actually hate the new year",
-      "correctQuestion": "What is it means you're older?",
-      "value": 1000
-    },
-    {
-      "clue": "The calendar month that's definitely out for blood",
-      "correctQuestion": "What is Monday?",
-      "value": 1000
-    },
-    {
-      "clue": "What celebrities do on New Year's that you'll see on Instagram",
-      "correctQuestion": "What is expensive things?",
-      "value": 1000
-    },
-    {
-      "clue": "The ancient Mayan calendar was wrong about",
-      "correctQuestion": "What is literally everything except the exact end date?",
-      "value": 1000
-    },
-    {
-      "clue": "Why leap years exist instead of just changing your Netflix password",
-      "correctQuestion": "What is orbital mechanics?",
-      "value": 1000
-    },
-    {
-      "clue": "The calendar you're still adjusting to in November",
-      "correctQuestion": "What is the new year?",
-      "value": 1000
-    },
-    {
-      "clue": "What your New Year's resolution actually requires",
-      "correctQuestion": "What is therapy?",
-      "value": 1000
-    },
-    {
-      "clue": "The person who created January and deserves to suffer",
-      "correctQuestion": "What is Numa Pompilius?",
-      "value": 1000
-    },
-    {
-      "clue": "Why you'll buy a new calendar instead of a planner",
-      "correctQuestion": "What is false hope?",
-      "value": 1000
-    },
-    {
-      "clue": "The only calendar change that actually matters",
-      "correctQuestion": "What is when your phone updates the date?",
-      "value": 1000
-    }
-  ],
-  "metadata": {
-    "total_clues": 60,
-    "regular_clues": 30,
-    "cah_clues": 30,
-    "theme": "New Year & Calendar Changes",
-    "style_guide_compliance": "CAH_STYLE_GUIDE_2025.md",
-    "characteristics": "SHORT & PUNCHY",
-    "value_distribution": {
-      "regular": "200-1000 points",
-      "cah": "200-1000 points"
-    }
+  "theme": "newyear",
+  "category_id": "newyear_calendar_change",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The Roman emperor who added January and February to the calendar",
+        "correctQuestion": "Who is Numa Pompilius?",
+        "value": 200
+      },
+      {
+        "clue": "The number of days in a leap year",
+        "correctQuestion": "What is 366?",
+        "value": 200
+      },
+      {
+        "clue": "The month that usually has 28 days",
+        "correctQuestion": "What is February?",
+        "value": 200
+      },
+      {
+        "clue": "The first day of the year in the Gregorian calendar",
+        "correctQuestion": "What is January 1st?",
+        "value": 200
+      },
+      {
+        "clue": "The number of months in a year",
+        "correctQuestion": "What is 12?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "The year the Gregorian calendar was adopted",
+        "correctQuestion": "What is 1582?",
+        "value": 400
+      },
+      {
+        "clue": "The calendar system used before the Gregorian calendar",
+        "correctQuestion": "What is the Julian calendar?",
+        "value": 400
+      },
+      {
+        "clue": "The zodiac sign for people born on January 1st",
+        "correctQuestion": "What is Capricorn?",
+        "value": 400
+      },
+      {
+        "clue": "The number of seconds in a year",
+        "correctQuestion": "What is 31,536,000?",
+        "value": 400
+      },
+      {
+        "clue": "The month with the most days",
+        "correctQuestion": "What is December?",
+        "value": 400
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "The name of the Jewish New Year",
+        "correctQuestion": "What is Rosh Hashanah?",
+        "value": 600
+      },
+      {
+        "clue": "The day of the week that January 1, 2000 fell on",
+        "correctQuestion": "What is Saturday?",
+        "value": 600
+      },
+      {
+        "clue": "The Chinese zodiac animal for 2024",
+        "correctQuestion": "What is the Dragon?",
+        "value": 600
+      },
+      {
+        "clue": "The Islamic New Year is also called",
+        "correctQuestion": "What is Hijra?",
+        "value": 600
+      },
+      {
+        "clue": "The number of leap days in 400 years",
+        "correctQuestion": "What is 97?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The country that celebrates New Year first each day",
+        "correctQuestion": "What is Kiribati?",
+        "value": 800
+      },
+      {
+        "clue": "The reason February sometimes has 29 days",
+        "correctQuestion": "What is the Earth's orbit taking 365.25 days?",
+        "value": 800
+      },
+      {
+        "clue": "The number of days difference between Julian and Gregorian calendars",
+        "correctQuestion": "What is 13 days?",
+        "value": 800
+      },
+      {
+        "clue": "The ancient Roman month originally the first month of their year",
+        "correctQuestion": "What is March?",
+        "value": 800
+      },
+      {
+        "clue": "The year 2000 was a leap year because it was divisible by",
+        "correctQuestion": "What is 400?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "The Mayan calendar cycle that ended in 2012",
+        "correctQuestion": "What is the Long Count?",
+        "value": 1000
+      },
+      {
+        "clue": "The calendar system used by the Ethiopian Orthodox Church",
+        "correctQuestion": "What is the Ethiopian calendar?",
+        "value": 1000
+      },
+      {
+        "clue": "The month named after the Roman god of war",
+        "correctQuestion": "What is March?",
+        "value": 1000
+      },
+      {
+        "clue": "The Hebrew word for the New Year celebration",
+        "correctQuestion": "What is Shanah Tovah?",
+        "value": 1000
+      },
+      {
+        "clue": "The number of time zones that celebrate New Year on January 1st",
+        "correctQuestion": "What is 24?",
+        "value": 1000
+      },
+      {
+        "clue": "The reason some countries changed from Julian to Gregorian calendar",
+        "correctQuestion": "What is calendar synchronization with the solar year?",
+        "value": 1000
+      },
+      {
+        "clue": "The first person to celebrate New Year at midnight in Times Square",
+        "correctQuestion": "What is the New Year's Eve Ball?",
+        "value": 1000
+      },
+      {
+        "clue": "The calendar system that has 13 months of 28 days",
+        "correctQuestion": "What is the International Fixed Calendar?",
+        "value": 1000
+      },
+      {
+        "clue": "The month that originally had 30 days but now has 31",
+        "correctQuestion": "What is August?",
+        "value": 1000
+      },
+      {
+        "clue": "The Gregorian calendar has a leap day every",
+        "correctQuestion": "What is 4 years?",
+        "value": 1000
+      }
+    ]
   }
 }

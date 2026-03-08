@@ -1,1139 +1,909 @@
 {
-  "title": "Beach Collecting Shells",
-  "description": "Family-friendly trivia about shell collecting, finding treasures, and beach hunting",
-  "total_questions": 180,
-  "difficulty_levels": 6,
-  "format": "Jeopardy",
-  "categories": [
-    "Shell Types",
-    "Beach Hunting",
-    "Treasure Finds",
-    "Ocean Life",
-    "Shell Facts",
-    "Beach Safety"
-  ],
-  "levels": {
-    "1_easy": {
-      "level": 1,
-      "difficulty": "Easy",
-      "point_value": 100,
-      "questions": [
-        {
-          "id": "1_1",
-          "question": "What do shells feel like when you pick them up?",
-          "answer": "Hard and smooth or bumpy",
-          "category": "Shell Types"
-        },
-        {
-          "id": "1_2",
-          "question": "Where would you go to collect shells?",
-          "answer": "The beach",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "1_3",
-          "question": "What sea animal lives inside a clam shell?",
-          "answer": "A clam",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "1_4",
-          "question": "What color are many seashells found on the beach?",
-          "answer": "White, pink, or tan",
-          "category": "Shell Types"
-        },
-        {
-          "id": "1_5",
-          "question": "Is a pearl found inside or outside a shell?",
-          "answer": "Inside",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "1_6",
-          "question": "What do you use a bucket for at the beach?",
-          "answer": "To collect shells",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "1_7",
-          "question": "What is the name of a spiral-shaped shell?",
-          "answer": "Snail or conch shell",
-          "category": "Shell Types"
-        },
-        {
-          "id": "1_8",
-          "question": "What animal has a shell that opens and closes?",
-          "answer": "Clam or oyster",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "1_9",
-          "question": "What would you find if you held a shell to your ear?",
-          "answer": "The sound of the ocean",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "1_10",
-          "question": "When is the best time to collect shells?",
-          "answer": "After a storm or at low tide",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "1_11",
-          "question": "What is a common small shell found on beaches?",
-          "answer": "Sand dollar or scallop",
-          "category": "Shell Types"
-        },
-        {
-          "id": "1_12",
-          "question": "What protects a hermit crab instead of its own shell?",
-          "answer": "A borrowed shell",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "1_13",
-          "question": "What shiny treasure is sometimes found in oysters?",
-          "answer": "Pearl",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "1_14",
-          "question": "What should you wear on your feet at the beach?",
-          "answer": "Flip-flops or water shoes",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "1_15",
-          "question": "What is a very large spiral shell called?",
-          "answer": "Conch",
-          "category": "Shell Types"
-        },
-        {
-          "id": "1_16",
-          "question": "What does a shell protect?",
-          "answer": "The soft body of an animal",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "1_17",
-          "question": "What do you call searching for shells?",
-          "answer": "Shell hunting or shell collecting",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "1_18",
-          "question": "What is sea glass sometimes called?",
-          "answer": "Beach glass or frosted glass",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "1_19",
-          "question": "What is the ocean water called that comes up on shore?",
-          "answer": "Waves",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "1_20",
-          "question": "What animal has a hard shell and eight legs?",
-          "answer": "Crab or lobster",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "1_21",
-          "question": "What shape are starfish?",
-          "answer": "Star-shaped or five-pointed",
-          "category": "Shell Types"
-        },
-        {
-          "id": "1_22",
-          "question": "What should you always bring with you to the beach?",
-          "answer": "Sunscreen and water",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "1_23",
-          "question": "What sea creature leaves a shell when it dies?",
-          "answer": "Mussel or clam",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "1_24",
-          "question": "What color might a special shell be that you find?",
-          "answer": "Purple, orange, or rare colors",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "1_25",
-          "question": "What is a net used for at the beach?",
-          "answer": "To catch or scoop shells from water",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "1_26",
-          "question": "What two things do shells have?",
-          "answer": "An outside (hard) and inside (soft part)",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "1_27",
-          "question": "What happens to shells when waves crash?",
-          "answer": "They get washed onto shore",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "1_28",
-          "question": "What kind of animal makes a spiral shell?",
-          "answer": "Snail or sea snail",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "1_29",
-          "question": "What could make your collection of shells special?",
-          "answer": "Rare shells or beautiful colors",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "1_30",
-          "question": "What is the sandy edge where waves meet called?",
-          "answer": "The shore or shoreline",
-          "category": "Beach Hunting"
-        }
-      ]
-    },
-    "2_intermediate": {
-      "level": 2,
-      "difficulty": "Intermediate",
-      "point_value": 200,
-      "questions": [
-        {
-          "id": "2_1",
-          "question": "What is the hard outer layer of a shell called?",
-          "answer": "Nacre or mother-of-pearl",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "2_2",
-          "question": "Which mollusks have two equal shell halves?",
-          "answer": "Bivalves like clams and mussels",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "2_3",
-          "question": "What mineral do shells primarily contain?",
-          "answer": "Calcium carbonate",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "2_4",
-          "question": "Where are sand dollars typically found?",
-          "answer": "In shallow sand near the shore",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "2_5",
-          "question": "What tide exposes more shells on the beach?",
-          "answer": "Low tide",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "2_6",
-          "question": "What is a scallop shell known for?",
-          "answer": "Its fan shape and ridged texture",
-          "category": "Shell Types"
-        },
-        {
-          "id": "2_7",
-          "question": "What do you call the bumps and ridges on shells?",
-          "answer": "Ribs or ridges",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "2_8",
-          "question": "What is the scientific name for snails?",
-          "answer": "Gastropods",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "2_9",
-          "question": "How do pearls form inside oysters?",
-          "answer": "When an irritant gets inside and gets coated with nacre",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "2_10",
-          "question": "What is a common spiral shell from warm waters?",
-          "answer": "Conch or queen conch",
-          "category": "Shell Types"
-        },
-        {
-          "id": "2_11",
-          "question": "Why should you never collect living shells?",
-          "answer": "Because they still have living animals inside",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "2_12",
-          "question": "What creates the mother-of-pearl shine on shells?",
-          "answer": "Layers of nacre reflecting light",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "2_13",
-          "question": "What is a small spiky shell sometimes called?",
-          "answer": "Sea urchin shell or test",
-          "category": "Shell Types"
-        },
-        {
-          "id": "2_14",
-          "question": "What beach condition brings the most shells ashore?",
-          "answer": "After storms or rough waves",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "2_15",
-          "question": "What animal makes a flat, five-sided shell?",
-          "answer": "Sea star or starfish",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "2_16",
-          "question": "How long can some shells take to form?",
-          "answer": "Several years or even decades",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "2_17",
-          "question": "What is a chambered nautilus shell valued for?",
-          "answer": "Its spiral chamber pattern and beauty",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "2_18",
-          "question": "What protective equipment should you use at the beach?",
-          "answer": "Sunscreen and a hat",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "2_19",
-          "question": "What are the serrated edges of some shells called?",
-          "answer": "Teeth or scalloped edges",
-          "category": "Shell Types"
-        },
-        {
-          "id": "2_20",
-          "question": "What do hermit crabs do when they outgrow their shell?",
-          "answer": "Find a larger shell to move into",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "2_21",
-          "question": "What shells are more likely to be found whole?",
-          "answer": "Thicker, heavier shells",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "2_22",
-          "question": "What is the spiral opening of a snail shell called?",
-          "answer": "The aperture",
-          "category": "Shell Types"
-        },
-        {
-          "id": "2_23",
-          "question": "What can damage or scratch your shell collection?",
-          "answer": "Sand, salt water, and rough handling",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "2_24",
-          "question": "What is a grouping of shells called?",
-          "answer": "A collection or assemblage",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "2_25",
-          "question": "What part of the beach has the most shells?",
-          "answer": "The tide line or wrack line",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "2_26",
-          "question": "What shells might contain small living creatures?",
-          "answer": "Shells with living animals inside",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "2_27",
-          "question": "What color patterns can you find on shells?",
-          "answer": "Stripes, spots, rays, or solid colors",
-          "category": "Shell Types"
-        },
-        {
-          "id": "2_28",
-          "question": "What is the rarest type of shell to find?",
-          "answer": "Perfect whole shells with unusual colors or patterns",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "2_29",
-          "question": "How should you clean shells you collect?",
-          "answer": "With fresh water and a soft brush",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "2_30",
-          "question": "What shells might feel rough or sharp?",
-          "answer": "Barnacle shells or broken shells",
-          "category": "Beach Safety"
-        }
-      ]
-    },
-    "3_advanced": {
-      "level": 3,
-      "difficulty": "Advanced",
-      "point_value": 300,
-      "questions": [
-        {
-          "id": "3_1",
-          "question": "What is the study of mollusks and shells called?",
-          "answer": "Malacology",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_2",
-          "question": "What are the three main types of mollusks?",
-          "answer": "Gastropods, bivalves, and cephalopods",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "3_3",
-          "question": "What process do mollusks use to create shells?",
-          "answer": "Biomineralization",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_4",
-          "question": "What is the distinction between a shell and a test?",
-          "answer": "Shells are hard parts of mollusks; tests are from echinoderms",
-          "category": "Shell Types"
-        },
-        {
-          "id": "3_5",
-          "question": "How does temperature affect shell collection?",
-          "answer": "Warmer climates have more diverse tropical shells",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "3_6",
-          "question": "What determines the size of a fully-grown shell?",
-          "answer": "The species and age of the mollusk",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "3_7",
-          "question": "What is abrasion that occurs to shells at sea called?",
-          "answer": "Wave damage or bioerosion",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_8",
-          "question": "What characteristics make some shells more valuable?",
-          "answer": "Rarity, size, color, and condition",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "3_9",
-          "question": "What geological era did mollusks first appear?",
-          "answer": "The Cambrian Period",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_10",
-          "question": "What is a chink in a shell's structure?",
-          "answer": "A crack or opening in the shell",
-          "category": "Shell Types"
-        },
-        {
-          "id": "3_11",
-          "question": "How deep in the ocean can shells be found?",
-          "answer": "From tide pools to the deepest trenches",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "3_12",
-          "question": "What is the organic protein in shells called?",
-          "answer": "Conchiolin",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_13",
-          "question": "What is a museum-quality shell specimen?",
-          "answer": "A perfect, undamaged shell with clear provenance",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "3_14",
-          "question": "What are anchor shells and where are they found?",
-          "answer": "Small parasitic shells found on larger shells",
-          "category": "Shell Types"
-        },
-        {
-          "id": "3_15",
-          "question": "What causes the iridescence in abalone shells?",
-          "answer": "The layering and composition of nacre",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_16",
-          "question": "What is the posterior and anterior end of a bivalve?",
-          "answer": "The back and front hinges of the shell",
-          "category": "Shell Types"
-        },
-        {
-          "id": "3_17",
-          "question": "What is the relationship between shell morphology and habitat?",
-          "answer": "Shells adapt to survive in their specific environments",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "3_18",
-          "question": "What factors threaten natural shell populations?",
-          "answer": "Pollution, ocean acidification, and over-harvesting",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "3_19",
-          "question": "What is a pelagic shell that drifts in open ocean?",
-          "answer": "A planktonic larval shell before settling",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "3_20",
-          "question": "What is the geological time it takes shells to fossilize?",
-          "answer": "Millions of years under proper conditions",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_21",
-          "question": "What is a cone shell and why are they dangerous?",
-          "answer": "Venomous predatory shells with toxins",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "3_22",
-          "question": "What is the relationship between epiphytes and shells?",
-          "answer": "Small organisms that grow on and attach to shells",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "3_23",
-          "question": "What conservation areas protect shell-forming species?",
-          "answer": "Marine protected areas and national seashores",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "3_24",
-          "question": "What is a fossil shell called?",
-          "answer": "A fossil shell or paleontological specimen",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "3_25",
-          "question": "How do you identify shell species accurately?",
-          "answer": "Using field guides and consulting with malacologists",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "3_26",
-          "question": "What is the difference between right-handed and left-handed spirals?",
-          "answer": "The direction of the spiral when viewed from above",
-          "category": "Shell Types"
-        },
-        {
-          "id": "3_27",
-          "question": "What is the role of symbionts in mollusk shells?",
-          "answer": "They help with nutrition and protection",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "3_28",
-          "question": "What makes a shell rare enough to be treasure?",
-          "answer": "Geographic rarity, age, or distinctive features",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "3_29",
-          "question": "What is the substrate preference of different shells?",
-          "answer": "Sand, rock, or vegetation depending on species",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "3_30",
-          "question": "What is anthropogenic impact on shell collection?",
-          "answer": "Human activities that harm shell ecosystems",
-          "category": "Beach Safety"
-        }
-      ]
-    },
-    "4_challenging": {
-      "level": 4,
-      "difficulty": "Challenging",
-      "point_value": 400,
-      "questions": [
-        {
-          "id": "4_1",
-          "question": "What are trochoidal and planispiral shell configurations?",
-          "answer": "Different coiling patterns in gastropod shells",
-          "category": "Shell Types"
-        },
-        {
-          "id": "4_2",
-          "question": "What is the periostracum and its function?",
-          "answer": "The outer organic layer protecting the shell",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "4_3",
-          "question": "How does ocean pH affect shell formation in mollusks?",
-          "answer": "Lower pH weakens calcium carbonate absorption",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "4_4",
-          "question": "What is the nomenclature system for shell collectors?",
-          "answer": "Scientific classification using genus and species",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "4_5",
-          "question": "What are radial ribs versus spiral ridges in shells?",
-          "answer": "Different surface patterns indicating growth directions",
-          "category": "Shell Types"
-        },
-        {
-          "id": "4_6",
-          "question": "What ecological role do shell-forming mollusks play?",
-          "answer": "Filter feeders, food sources, and reef builders",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "4_7",
-          "question": "What is the relationship between salinity and shell diversity?",
-          "answer": "Higher diversity in moderate to high salinity waters",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "4_8",
-          "question": "How do extinct species relate to present-day treasures?",
-          "answer": "Fossil shells from extinct species are valuable finds",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "4_9",
-          "question": "What is the significance of growth lines on shells?",
-          "answer": "They indicate age and growth history of the mollusk",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "4_10",
-          "question": "What determines shell color in mollusks?",
-          "answer": "Pigments from diet and environmental factors",
-          "category": "Shell Types"
-        },
-        {
-          "id": "4_11",
-          "question": "What maritime environments host endemic shells?",
-          "answer": "Coral reefs, estuaries, and upwelling zones",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "4_12",
-          "question": "What is the significance of the operculum in gastropods?",
-          "answer": "A trapdoor-like structure that seals the shell opening",
-          "category": "Shell Types"
-        },
-        {
-          "id": "4_13",
-          "question": "How do cryptic shell dwellers affect shell collection?",
-          "answer": "They alter shells through inhabitation and boring",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "4_14",
-          "question": "What taphonomic processes affect shells post-mortem?",
-          "answer": "Dissolution, fragmentation, and encrustation",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "4_15",
-          "question": "What is the relationship between shell ornament and predation?",
-          "answer": "Complex shapes may provide defense against predators",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "4_16",
-          "question": "What zooarchaeological significance do shells have?",
-          "answer": "Evidence of human diet and trade patterns",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "4_17",
-          "question": "How does larval settlement substrate preference work?",
-          "answer": "Larvae detect chemical signals from specific surfaces",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "4_18",
-          "question": "What malacofauna characterizes specific geological periods?",
-          "answer": "Different shell species dominated different eras",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "4_19",
-          "question": "What is the collectors' market value hierarchy for shells?",
-          "answer": "Rarity, condition, size, and desirability ranking",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "4_20",
-          "question": "What is the significance of hinge ligament in bivalves?",
-          "answer": "It enables shell opening through elasticity",
-          "category": "Shell Types"
-        },
-        {
-          "id": "4_21",
-          "question": "How do parasitic infections affect shell morphology?",
-          "answer": "They cause deformations and aberrant growth",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "4_22",
-          "question": "What is the paleoceanographic value of shell assemblages?",
-          "answer": "They reveal past ocean conditions and environments",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "4_23",
-          "question": "What international treaties protect rare shells?",
-          "answer": "CITES and regional marine conservation laws",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "4_24",
-          "question": "What is sequential mineralization in shell development?",
-          "answer": "Layers of different mineral compositions",
-          "category": "Shell Types"
-        },
-        {
-          "id": "4_25",
-          "question": "How do temperature oscillations affect shell thickness?",
-          "answer": "Seasonal changes create distinct growth bands",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "4_26",
-          "question": "What is the significance of muscle scars in bivalves?",
-          "answer": "They indicate attachment points for adductor muscles",
-          "category": "Shell Types"
-        },
-        {
-          "id": "4_27",
-          "question": "How do bioeroders affect shell preservation?",
-          "answer": "They create boring patterns and weaken structure",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "4_28",
-          "question": "What documentation standards apply to rare collections?",
-          "answer": "Provenance records and species verification",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "4_29",
-          "question": "What is the impact of anthropogenic noise on mollusks?",
-          "answer": "It disrupts larval settlement and migration behaviors",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "4_30",
-          "question": "How do shell-bearing species respond to turbidity?",
-          "answer": "Reduced clarity affects filter feeding efficiency",
-          "category": "Ocean Life"
-        }
-      ]
-    },
-    "5_expert": {
-      "level": 5,
-      "difficulty": "Expert",
-      "point_value": 500,
-      "questions": [
-        {
-          "id": "5_1",
-          "question": "What is the molecular basis of nacre assembly?",
-          "answer": "Controlled calcium carbonate crystallization with organic matrices",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "5_2",
-          "question": "What heterochiral and ontogenetic variations exist in shells?",
-          "answer": "Variations in chirality and growth patterns during development",
-          "category": "Shell Types"
-        },
-        {
-          "id": "5_3",
-          "question": "How do epigenetic factors influence shell phenotypes?",
-          "answer": "Environmental stress affects gene expression patterns",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_4",
-          "question": "What is the phylogenetic classification of major shell groups?",
-          "answer": "Molecular and morphological analyses reconstructing mollusk evolution",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "5_5",
-          "question": "How does biomechanics affect predator-prey shell interactions?",
-          "answer": "Shell design optimizes resistance to crushing forces",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_6",
-          "question": "What geochemical tracers are preserved in shell aragonite?",
-          "answer": "Stable isotopes revealing past ocean temperatures and chemistry",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "5_7",
-          "question": "What paleoenvironmental reconstructions use shell assemblages?",
-          "answer": "Biofacies analysis determining ancient depositional environments",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "5_8",
-          "question": "How do trace element concentrations vary in shell matrix?",
-          "answer": "Elemental ratios reflect water chemistry at formation time",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "5_9",
-          "question": "What is the significance of aberrant spiral symmetry in shells?",
-          "answer": "Indicates developmental mutations or environmental stress",
-          "category": "Shell Types"
-        },
-        {
-          "id": "5_10",
-          "question": "How does ocean acidification mechanistically affect calcification?",
-          "answer": "Reduced carbonate ion availability and enzymatic inhibition",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_11",
-          "question": "What are endosymbiotic relationships in shell-bearing mollusks?",
-          "answer": "Chemosynthetic bacteria providing nutrition in deep-sea species",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_12",
-          "question": "What ontogenetic heterochrony occurs in shell development?",
-          "answer": "Changes in timing of developmental stages affecting shell morphology",
-          "category": "Shell Types"
-        },
-        {
-          "id": "5_13",
-          "question": "How do paleontologists distinguish analogous and homologous shells?",
-          "answer": "Through cladistic analysis of shared derived characteristics",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "5_14",
-          "question": "What is the role of micromollusks in deep-sea ecosystems?",
-          "answer": "Food source for infauna and evidence of productivity",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "5_15",
-          "question": "How does biomineralization cost affect allochronic speciation?",
-          "answer": "Energy trade-offs influencing reproductive timing and isolation",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_16",
-          "question": "What cryptic biodiversity exists in shell microhabitats?",
-          "answer": "Specialized fauna living within shell fractures and cavities",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_17",
-          "question": "How do phylogenetic paleontology methods date shell divergence?",
-          "answer": "Molecular clocks calibrated against fossil record data",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "5_18",
-          "question": "What taxonomic challenge do ecophenotypic variations present?",
-          "answer": "Environmental morphs mimic distinct species characteristics",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "5_19",
-          "question": "How do shell collectors use spectroscopy in authentication?",
-          "answer": "Identifying mineral composition and detecting artificial treatments",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "5_20",
-          "question": "What is the ecological carrying capacity for endemic shells?",
-          "answer": "Maximum sustainable population density before ecosystem collapse",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "5_21",
-          "question": "How do hydrodynamic forces shape shell morphogenesis?",
-          "answer": "Water flow patterns guide growth axis orientation",
-          "category": "Shell Types"
-        },
-        {
-          "id": "5_22",
-          "question": "What metagenomic analysis reveals about shell biofilms?",
-          "answer": "Diverse microbial communities affecting shell chemistry",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_23",
-          "question": "How do museum curation standards preserve delicate specimens?",
-          "answer": "Controlled humidity, temperature, and protective encasement",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "5_24",
-          "question": "What phylogeographic patterns reveal in shell populations?",
-          "answer": "Historical population movements and isolation events",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "5_25",
-          "question": "How do mathematical growth models predict shell morphology?",
-          "answer": "Logarithmic and polynomial equations modeling coiling patterns",
-          "category": "Shell Types"
-        },
-        {
-          "id": "5_26",
-          "question": "What non-destructive imaging reveals internal shell structure?",
-          "answer": "CT scanning showing chamber arrangements and density",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "5_27",
-          "question": "How do epigenetic markers indicate environmental stressors?",
-          "answer": "DNA methylation patterns correlating with condition",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "5_28",
-          "question": "What zoogeographic principles explain shell distribution?",
-          "answer": "Biogeographic realms with endemic faunal assemblages",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "5_29",
-          "question": "How do functional morphology studies optimize shell design?",
-          "answer": "Stress analysis revealing structural efficiency",
-          "category": "Shell Types"
-        },
-        {
-          "id": "5_30",
-          "question": "What paleoclimate proxies derive from shell oxygen isotopes?",
-          "answer": "Temperature and salinity reconstructions from isotopic ratios",
-          "category": "Shell Facts"
-        }
-      ]
-    },
-    "6_master": {
-      "level": 6,
-      "difficulty": "Master",
-      "point_value": 600,
-      "questions": [
-        {
-          "id": "6_1",
-          "question": "What crystallographic polymorphism explains aragonite versus calcite shells?",
-          "answer": "Different stable mineral forms under specific pressure-temperature conditions",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "6_2",
-          "question": "How do post-translational modifications regulate biomineralization proteins?",
-          "answer": "Phosphorylation and glycosylation controlling matrix assembly",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "6_3",
-          "question": "What ecological stoichiometry governs shell formation budgets?",
-          "answer": "Elemental ratios of C, N, P constraining biomass production",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "6_4",
-          "question": "How do quantum mechanical properties affect shell luminescence?",
-          "answer": "Electron transitions in doped mineral lattices producing fluorescence",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_5",
-          "question": "What are the implications of heterochronic evolution in shell morphogenesis?",
-          "answer": "Shifts in developmental timing producing neotenic and peramorphic forms",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "6_6",
-          "question": "How do stochastic processes influence population-level shell polymorphism?",
-          "answer": "Random genetic drift and allele frequency changes",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "6_7",
-          "question": "What genomic rearrangements differentiate shell architecture types?",
-          "answer": "Duplication and divergence of biomineralization gene clusters",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_8",
-          "question": "How do paleoproteomics authenticate ancient rare shell specimens?",
-          "answer": "Ancient protein analysis confirming species and preservation state",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "6_9",
-          "question": "What synchrotron analysis reveals about shell microstructure?",
-          "answer": "High-resolution elemental mapping of crystalline organization",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "6_10",
-          "question": "How do allometric relationships predict shell size-shape trajectories?",
-          "answer": "Scaling laws governing growth proportions in ontogeny",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_11",
-          "question": "What comparative genomics reveals about mollusk divergence?",
-          "answer": "Synteny conservation and lineage-specific gene loss patterns",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "6_12",
-          "question": "How do transgenerational epigenetic inheritance affect shells?",
-          "answer": "Parental stress responses imprinted in offspring morphology",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "6_13",
-          "question": "What paleogenomic data reveals about extinct shell lineages?",
-          "answer": "Ancient DNA recovery establishing phylogenetic relationships",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "6_14",
-          "question": "How do metabolomic signatures distinguish shell formation modes?",
-          "answer": "Biochemical pathways unique to different mineralization strategies",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "6_15",
-          "question": "What nanostructural engineering principles optimize shell strength?",
-          "answer": "Hierarchical composite design with stress-dissipation mechanisms",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_16",
-          "question": "How do paleontological databases inform conservation strategies?",
-          "answer": "Historical baseline data revealing natural range variability",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "6_17",
-          "question": "What codon bias analysis reveals about biomineralization genes?",
-          "answer": "Translation optimization for high protein production efficiency",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "6_18",
-          "question": "How do theoretical population genetics model shell diversity maintenance?",
-          "answer": "Balancing selection and frequency-dependent fitness mechanisms",
-          "category": "Beach Hunting"
-        },
-        {
-          "id": "6_19",
-          "question": "What machine learning approaches classify shell specimens?",
-          "answer": "Convolutional neural networks trained on morphological databases",
-          "category": "Treasure Finds"
-        },
-        {
-          "id": "6_20",
-          "question": "How do biophysical models simulate shell growth patterns?",
-          "answer": "Reaction-diffusion systems producing complex morphologies",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_21",
-          "question": "What endocrine signaling cascades regulate biomineralization timing?",
-          "answer": "Neuropeptide and hormone feedback loops controlling secretion",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "6_22",
-          "question": "How do paleoclimatic oscillations drive shell morphological evolution?",
-          "answer": "Cyclical selection pressures favoring alternating phenotypes",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "6_23",
-          "question": "What proteolytic processing activates shell matrix proteins?",
-          "answer": "Specific cleavage producing functional biomineralization factors",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_24",
-          "question": "How do ecological network models predict invasive shell species impacts?",
-          "answer": "Trophic cascade and competition modeling",
-          "category": "Beach Safety"
-        },
-        {
-          "id": "6_25",
-          "question": "What thermodynamic constraints govern shell polymorphism?",
-          "answer": "Gibbs free energy minimization determining stable forms",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "6_26",
-          "question": "How do developmental constraint models explain shell morphospace?",
-          "answer": "Restricted parameter ranges accessible during ontogeny",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_27",
-          "question": "What integrative bioinformatics systems analyze shell proteomes?",
-          "answer": "Multi-omics integration revealing biomineralization regulation",
-          "category": "Ocean Life"
-        },
-        {
-          "id": "6_28",
-          "question": "How do Bayesian phylogenetic methods date mollusk radiations?",
-          "answer": "Fossil-calibrated molecular clocks with uncertainty quantification",
-          "category": "Shell Facts"
-        },
-        {
-          "id": "6_29",
-          "question": "What quantum chromodynamic principles affect shell pigmentation?",
-          "answer": "Subatomic particle interactions in chromophore compounds",
-          "category": "Shell Types"
-        },
-        {
-          "id": "6_30",
-          "question": "How do systems biology approaches model shell regeneration?",
-          "answer": "Network reconstruction of signaling cascades during repair",
-          "category": "Ocean Life"
-        }
-      ]
-    }
+  "category": "Beach Collecting Shells",
+  "theme": "beach",
+  "category_id": "beach_collecting_shells",
+  "audiences": {
+    "adults": [
+      {
+        "clue": "What do shells feel like when you pick them up?",
+        "correctQuestion": "Hard and smooth or bumpy",
+        "value": 100
+      },
+      {
+        "clue": "Where would you go to collect shells?",
+        "correctQuestion": "The beach",
+        "value": 100
+      },
+      {
+        "clue": "What sea animal lives inside a clam shell?",
+        "correctQuestion": "A clam",
+        "value": 100
+      },
+      {
+        "clue": "What color are many seashells found on the beach?",
+        "correctQuestion": "White, pink, or tan",
+        "value": 100
+      },
+      {
+        "clue": "Is a pearl found inside or outside a shell?",
+        "correctQuestion": "Inside",
+        "value": 100
+      },
+      {
+        "clue": "What do you use a bucket for at the beach?",
+        "correctQuestion": "To collect shells",
+        "value": 100
+      },
+      {
+        "clue": "What is the name of a spiral-shaped shell?",
+        "correctQuestion": "Snail or conch shell",
+        "value": 100
+      },
+      {
+        "clue": "What animal has a shell that opens and closes?",
+        "correctQuestion": "Clam or oyster",
+        "value": 100
+      },
+      {
+        "clue": "What would you find if you held a shell to your ear?",
+        "correctQuestion": "The sound of the ocean",
+        "value": 100
+      },
+      {
+        "clue": "When is the best time to collect shells?",
+        "correctQuestion": "After a storm or at low tide",
+        "value": 100
+      },
+      {
+        "clue": "What is a common small shell found on beaches?",
+        "correctQuestion": "Sand dollar or scallop",
+        "value": 100
+      },
+      {
+        "clue": "What protects a hermit crab instead of its own shell?",
+        "correctQuestion": "A borrowed shell",
+        "value": 100
+      },
+      {
+        "clue": "What shiny treasure is sometimes found in oysters?",
+        "correctQuestion": "Pearl",
+        "value": 100
+      },
+      {
+        "clue": "What should you wear on your feet at the beach?",
+        "correctQuestion": "Flip-flops or water shoes",
+        "value": 100
+      },
+      {
+        "clue": "What is a very large spiral shell called?",
+        "correctQuestion": "Conch",
+        "value": 100
+      },
+      {
+        "clue": "What does a shell protect?",
+        "correctQuestion": "The soft body of an animal",
+        "value": 100
+      },
+      {
+        "clue": "What do you call searching for shells?",
+        "correctQuestion": "Shell hunting or shell collecting",
+        "value": 100
+      },
+      {
+        "clue": "What is sea glass sometimes called?",
+        "correctQuestion": "Beach glass or frosted glass",
+        "value": 100
+      },
+      {
+        "clue": "What is the ocean water called that comes up on shore?",
+        "correctQuestion": "Waves",
+        "value": 100
+      },
+      {
+        "clue": "What animal has a hard shell and eight legs?",
+        "correctQuestion": "Crab or lobster",
+        "value": 100
+      },
+      {
+        "clue": "What shape are starfish?",
+        "correctQuestion": "Star-shaped or five-pointed",
+        "value": 100
+      },
+      {
+        "clue": "What should you always bring with you to the beach?",
+        "correctQuestion": "Sunscreen and water",
+        "value": 100
+      },
+      {
+        "clue": "What sea creature leaves a shell when it dies?",
+        "correctQuestion": "Mussel or clam",
+        "value": 100
+      },
+      {
+        "clue": "What color might a special shell be that you find?",
+        "correctQuestion": "Purple, orange, or rare colors",
+        "value": 100
+      },
+      {
+        "clue": "What is a net used for at the beach?",
+        "correctQuestion": "To catch or scoop shells from water",
+        "value": 100
+      },
+      {
+        "clue": "What two things do shells have?",
+        "correctQuestion": "An outside (hard) and inside (soft part)",
+        "value": 100
+      },
+      {
+        "clue": "What happens to shells when waves crash?",
+        "correctQuestion": "They get washed onto shore",
+        "value": 100
+      },
+      {
+        "clue": "What kind of animal makes a spiral shell?",
+        "correctQuestion": "Snail or sea snail",
+        "value": 100
+      },
+      {
+        "clue": "What could make your collection of shells special?",
+        "correctQuestion": "Rare shells or beautiful colors",
+        "value": 100
+      },
+      {
+        "clue": "What is the sandy edge where waves meet called?",
+        "correctQuestion": "The shore or shoreline",
+        "value": 100
+      },
+      {
+        "clue": "What is the hard outer layer of a shell called?",
+        "correctQuestion": "Nacre or mother-of-pearl",
+        "value": 200
+      },
+      {
+        "clue": "Which mollusks have two equal shell halves?",
+        "correctQuestion": "Bivalves like clams and mussels",
+        "value": 200
+      },
+      {
+        "clue": "What mineral do shells primarily contain?",
+        "correctQuestion": "Calcium carbonate",
+        "value": 200
+      },
+      {
+        "clue": "Where are sand dollars typically found?",
+        "correctQuestion": "In shallow sand near the shore",
+        "value": 200
+      },
+      {
+        "clue": "What tide exposes more shells on the beach?",
+        "correctQuestion": "Low tide",
+        "value": 200
+      },
+      {
+        "clue": "What is a scallop shell known for?",
+        "correctQuestion": "Its fan shape and ridged texture",
+        "value": 200
+      },
+      {
+        "clue": "What do you call the bumps and ridges on shells?",
+        "correctQuestion": "Ribs or ridges",
+        "value": 200
+      },
+      {
+        "clue": "What is the scientific name for snails?",
+        "correctQuestion": "Gastropods",
+        "value": 200
+      },
+      {
+        "clue": "How do pearls form inside oysters?",
+        "correctQuestion": "When an irritant gets inside and gets coated with nacre",
+        "value": 200
+      },
+      {
+        "clue": "What is a common spiral shell from warm waters?",
+        "correctQuestion": "Conch or queen conch",
+        "value": 200
+      },
+      {
+        "clue": "Why should you never collect living shells?",
+        "correctQuestion": "Because they still have living animals inside",
+        "value": 200
+      },
+      {
+        "clue": "What creates the mother-of-pearl shine on shells?",
+        "correctQuestion": "Layers of nacre reflecting light",
+        "value": 200
+      },
+      {
+        "clue": "What is a small spiky shell sometimes called?",
+        "correctQuestion": "Sea urchin shell or test",
+        "value": 200
+      },
+      {
+        "clue": "What beach condition brings the most shells ashore?",
+        "correctQuestion": "After storms or rough waves",
+        "value": 200
+      },
+      {
+        "clue": "What animal makes a flat, five-sided shell?",
+        "correctQuestion": "Sea star or starfish",
+        "value": 200
+      },
+      {
+        "clue": "How long can some shells take to form?",
+        "correctQuestion": "Several years or even decades",
+        "value": 200
+      },
+      {
+        "clue": "What is a chambered nautilus shell valued for?",
+        "correctQuestion": "Its spiral chamber pattern and beauty",
+        "value": 200
+      },
+      {
+        "clue": "What protective equipment should you use at the beach?",
+        "correctQuestion": "Sunscreen and a hat",
+        "value": 200
+      },
+      {
+        "clue": "What are the serrated edges of some shells called?",
+        "correctQuestion": "Teeth or scalloped edges",
+        "value": 200
+      },
+      {
+        "clue": "What do hermit crabs do when they outgrow their shell?",
+        "correctQuestion": "Find a larger shell to move into",
+        "value": 200
+      },
+      {
+        "clue": "What shells are more likely to be found whole?",
+        "correctQuestion": "Thicker, heavier shells",
+        "value": 200
+      },
+      {
+        "clue": "What is the spiral opening of a snail shell called?",
+        "correctQuestion": "The aperture",
+        "value": 200
+      },
+      {
+        "clue": "What can damage or scratch your shell collection?",
+        "correctQuestion": "Sand, salt water, and rough handling",
+        "value": 200
+      },
+      {
+        "clue": "What is a grouping of shells called?",
+        "correctQuestion": "A collection or assemblage",
+        "value": 200
+      },
+      {
+        "clue": "What part of the beach has the most shells?",
+        "correctQuestion": "The tide line or wrack line",
+        "value": 200
+      },
+      {
+        "clue": "What shells might contain small living creatures?",
+        "correctQuestion": "Shells with living animals inside",
+        "value": 200
+      },
+      {
+        "clue": "What color patterns can you find on shells?",
+        "correctQuestion": "Stripes, spots, rays, or solid colors",
+        "value": 200
+      },
+      {
+        "clue": "What is the rarest type of shell to find?",
+        "correctQuestion": "Perfect whole shells with unusual colors or patterns",
+        "value": 200
+      },
+      {
+        "clue": "How should you clean shells you collect?",
+        "correctQuestion": "With fresh water and a soft brush",
+        "value": 200
+      },
+      {
+        "clue": "What shells might feel rough or sharp?",
+        "correctQuestion": "Barnacle shells or broken shells",
+        "value": 200
+      },
+      {
+        "clue": "What is the study of mollusks and shells called?",
+        "correctQuestion": "Malacology",
+        "value": 300
+      },
+      {
+        "clue": "What are the three main types of mollusks?",
+        "correctQuestion": "Gastropods, bivalves, and cephalopods",
+        "value": 300
+      },
+      {
+        "clue": "What process do mollusks use to create shells?",
+        "correctQuestion": "Biomineralization",
+        "value": 300
+      },
+      {
+        "clue": "What is the distinction between a shell and a test?",
+        "correctQuestion": "Shells are hard parts of mollusks; tests are from echinoderms",
+        "value": 300
+      },
+      {
+        "clue": "How does temperature affect shell collection?",
+        "correctQuestion": "Warmer climates have more diverse tropical shells",
+        "value": 300
+      },
+      {
+        "clue": "What determines the size of a fully-grown shell?",
+        "correctQuestion": "The species and age of the mollusk",
+        "value": 300
+      },
+      {
+        "clue": "What is abrasion that occurs to shells at sea called?",
+        "correctQuestion": "Wave damage or bioerosion",
+        "value": 300
+      },
+      {
+        "clue": "What characteristics make some shells more valuable?",
+        "correctQuestion": "Rarity, size, color, and condition",
+        "value": 300
+      },
+      {
+        "clue": "What geological era did mollusks first appear?",
+        "correctQuestion": "The Cambrian Period",
+        "value": 300
+      },
+      {
+        "clue": "What is a chink in a shell's structure?",
+        "correctQuestion": "A crack or opening in the shell",
+        "value": 300
+      },
+      {
+        "clue": "How deep in the ocean can shells be found?",
+        "correctQuestion": "From tide pools to the deepest trenches",
+        "value": 300
+      },
+      {
+        "clue": "What is the organic protein in shells called?",
+        "correctQuestion": "Conchiolin",
+        "value": 300
+      },
+      {
+        "clue": "What is a museum-quality shell specimen?",
+        "correctQuestion": "A perfect, undamaged shell with clear provenance",
+        "value": 300
+      },
+      {
+        "clue": "What are anchor shells and where are they found?",
+        "correctQuestion": "Small parasitic shells found on larger shells",
+        "value": 300
+      },
+      {
+        "clue": "What causes the iridescence in abalone shells?",
+        "correctQuestion": "The layering and composition of nacre",
+        "value": 300
+      },
+      {
+        "clue": "What is the posterior and anterior end of a bivalve?",
+        "correctQuestion": "The back and front hinges of the shell",
+        "value": 300
+      },
+      {
+        "clue": "What is the relationship between shell morphology and habitat?",
+        "correctQuestion": "Shells adapt to survive in their specific environments",
+        "value": 300
+      },
+      {
+        "clue": "What factors threaten natural shell populations?",
+        "correctQuestion": "Pollution, ocean acidification, and over-harvesting",
+        "value": 300
+      },
+      {
+        "clue": "What is a pelagic shell that drifts in open ocean?",
+        "correctQuestion": "A planktonic larval shell before settling",
+        "value": 300
+      },
+      {
+        "clue": "What is the geological time it takes shells to fossilize?",
+        "correctQuestion": "Millions of years under proper conditions",
+        "value": 300
+      },
+      {
+        "clue": "What is a cone shell and why are they dangerous?",
+        "correctQuestion": "Venomous predatory shells with toxins",
+        "value": 300
+      },
+      {
+        "clue": "What is the relationship between epiphytes and shells?",
+        "correctQuestion": "Small organisms that grow on and attach to shells",
+        "value": 300
+      },
+      {
+        "clue": "What conservation areas protect shell-forming species?",
+        "correctQuestion": "Marine protected areas and national seashores",
+        "value": 300
+      },
+      {
+        "clue": "What is a fossil shell called?",
+        "correctQuestion": "A fossil shell or paleontological specimen",
+        "value": 300
+      },
+      {
+        "clue": "How do you identify shell species accurately?",
+        "correctQuestion": "Using field guides and consulting with malacologists",
+        "value": 300
+      },
+      {
+        "clue": "What is the difference between right-handed and left-handed spirals?",
+        "correctQuestion": "The direction of the spiral when viewed from above",
+        "value": 300
+      },
+      {
+        "clue": "What is the role of symbionts in mollusk shells?",
+        "correctQuestion": "They help with nutrition and protection",
+        "value": 300
+      },
+      {
+        "clue": "What makes a shell rare enough to be treasure?",
+        "correctQuestion": "Geographic rarity, age, or distinctive features",
+        "value": 300
+      },
+      {
+        "clue": "What is the substrate preference of different shells?",
+        "correctQuestion": "Sand, rock, or vegetation depending on species",
+        "value": 300
+      },
+      {
+        "clue": "What is anthropogenic impact on shell collection?",
+        "correctQuestion": "Human activities that harm shell ecosystems",
+        "value": 300
+      },
+      {
+        "clue": "What are trochoidal and planispiral shell configurations?",
+        "correctQuestion": "Different coiling patterns in gastropod shells",
+        "value": 400
+      },
+      {
+        "clue": "What is the periostracum and its function?",
+        "correctQuestion": "The outer organic layer protecting the shell",
+        "value": 400
+      },
+      {
+        "clue": "How does ocean pH affect shell formation in mollusks?",
+        "correctQuestion": "Lower pH weakens calcium carbonate absorption",
+        "value": 400
+      },
+      {
+        "clue": "What is the nomenclature system for shell collectors?",
+        "correctQuestion": "Scientific classification using genus and species",
+        "value": 400
+      },
+      {
+        "clue": "What are radial ribs versus spiral ridges in shells?",
+        "correctQuestion": "Different surface patterns indicating growth directions",
+        "value": 400
+      },
+      {
+        "clue": "What ecological role do shell-forming mollusks play?",
+        "correctQuestion": "Filter feeders, food sources, and reef builders",
+        "value": 400
+      },
+      {
+        "clue": "What is the relationship between salinity and shell diversity?",
+        "correctQuestion": "Higher diversity in moderate to high salinity waters",
+        "value": 400
+      },
+      {
+        "clue": "How do extinct species relate to present-day treasures?",
+        "correctQuestion": "Fossil shells from extinct species are valuable finds",
+        "value": 400
+      },
+      {
+        "clue": "What is the significance of growth lines on shells?",
+        "correctQuestion": "They indicate age and growth history of the mollusk",
+        "value": 400
+      },
+      {
+        "clue": "What determines shell color in mollusks?",
+        "correctQuestion": "Pigments from diet and environmental factors",
+        "value": 400
+      },
+      {
+        "clue": "What maritime environments host endemic shells?",
+        "correctQuestion": "Coral reefs, estuaries, and upwelling zones",
+        "value": 400
+      },
+      {
+        "clue": "What is the significance of the operculum in gastropods?",
+        "correctQuestion": "A trapdoor-like structure that seals the shell opening",
+        "value": 400
+      },
+      {
+        "clue": "How do cryptic shell dwellers affect shell collection?",
+        "correctQuestion": "They alter shells through inhabitation and boring",
+        "value": 400
+      },
+      {
+        "clue": "What taphonomic processes affect shells post-mortem?",
+        "correctQuestion": "Dissolution, fragmentation, and encrustation",
+        "value": 400
+      },
+      {
+        "clue": "What is the relationship between shell ornament and predation?",
+        "correctQuestion": "Complex shapes may provide defense against predators",
+        "value": 400
+      },
+      {
+        "clue": "What zooarchaeological significance do shells have?",
+        "correctQuestion": "Evidence of human diet and trade patterns",
+        "value": 400
+      },
+      {
+        "clue": "How does larval settlement substrate preference work?",
+        "correctQuestion": "Larvae detect chemical signals from specific surfaces",
+        "value": 400
+      },
+      {
+        "clue": "What malacofauna characterizes specific geological periods?",
+        "correctQuestion": "Different shell species dominated different eras",
+        "value": 400
+      },
+      {
+        "clue": "What is the collectors' market value hierarchy for shells?",
+        "correctQuestion": "Rarity, condition, size, and desirability ranking",
+        "value": 400
+      },
+      {
+        "clue": "What is the significance of hinge ligament in bivalves?",
+        "correctQuestion": "It enables shell opening through elasticity",
+        "value": 400
+      },
+      {
+        "clue": "How do parasitic infections affect shell morphology?",
+        "correctQuestion": "They cause deformations and aberrant growth",
+        "value": 400
+      },
+      {
+        "clue": "What is the paleoceanographic value of shell assemblages?",
+        "correctQuestion": "They reveal past ocean conditions and environments",
+        "value": 400
+      },
+      {
+        "clue": "What international treaties protect rare shells?",
+        "correctQuestion": "CITES and regional marine conservation laws",
+        "value": 400
+      },
+      {
+        "clue": "What is sequential mineralization in shell development?",
+        "correctQuestion": "Layers of different mineral compositions",
+        "value": 400
+      },
+      {
+        "clue": "How do temperature oscillations affect shell thickness?",
+        "correctQuestion": "Seasonal changes create distinct growth bands",
+        "value": 400
+      },
+      {
+        "clue": "What is the significance of muscle scars in bivalves?",
+        "correctQuestion": "They indicate attachment points for adductor muscles",
+        "value": 400
+      },
+      {
+        "clue": "How do bioeroders affect shell preservation?",
+        "correctQuestion": "They create boring patterns and weaken structure",
+        "value": 400
+      },
+      {
+        "clue": "What documentation standards apply to rare collections?",
+        "correctQuestion": "Provenance records and species verification",
+        "value": 400
+      },
+      {
+        "clue": "What is the impact of anthropogenic noise on mollusks?",
+        "correctQuestion": "It disrupts larval settlement and migration behaviors",
+        "value": 400
+      },
+      {
+        "clue": "How do shell-bearing species respond to turbidity?",
+        "correctQuestion": "Reduced clarity affects filter feeding efficiency",
+        "value": 400
+      },
+      {
+        "clue": "What is the molecular basis of nacre assembly?",
+        "correctQuestion": "Controlled calcium carbonate crystallization with organic matrices",
+        "value": 500
+      },
+      {
+        "clue": "What heterochiral and ontogenetic variations exist in shells?",
+        "correctQuestion": "Variations in chirality and growth patterns during development",
+        "value": 500
+      },
+      {
+        "clue": "How do epigenetic factors influence shell phenotypes?",
+        "correctQuestion": "Environmental stress affects gene expression patterns",
+        "value": 500
+      },
+      {
+        "clue": "What is the phylogenetic classification of major shell groups?",
+        "correctQuestion": "Molecular and morphological analyses reconstructing mollusk evolution",
+        "value": 500
+      },
+      {
+        "clue": "How does biomechanics affect predator-prey shell interactions?",
+        "correctQuestion": "Shell design optimizes resistance to crushing forces",
+        "value": 500
+      },
+      {
+        "clue": "What geochemical tracers are preserved in shell aragonite?",
+        "correctQuestion": "Stable isotopes revealing past ocean temperatures and chemistry",
+        "value": 500
+      },
+      {
+        "clue": "What paleoenvironmental reconstructions use shell assemblages?",
+        "correctQuestion": "Biofacies analysis determining ancient depositional environments",
+        "value": 500
+      },
+      {
+        "clue": "How do trace element concentrations vary in shell matrix?",
+        "correctQuestion": "Elemental ratios reflect water chemistry at formation time",
+        "value": 500
+      },
+      {
+        "clue": "What is the significance of aberrant spiral symmetry in shells?",
+        "correctQuestion": "Indicates developmental mutations or environmental stress",
+        "value": 500
+      },
+      {
+        "clue": "How does ocean acidification mechanistically affect calcification?",
+        "correctQuestion": "Reduced carbonate ion availability and enzymatic inhibition",
+        "value": 500
+      },
+      {
+        "clue": "What are endosymbiotic relationships in shell-bearing mollusks?",
+        "correctQuestion": "Chemosynthetic bacteria providing nutrition in deep-sea species",
+        "value": 500
+      },
+      {
+        "clue": "What ontogenetic heterochrony occurs in shell development?",
+        "correctQuestion": "Changes in timing of developmental stages affecting shell morphology",
+        "value": 500
+      },
+      {
+        "clue": "How do paleontologists distinguish analogous and homologous shells?",
+        "correctQuestion": "Through cladistic analysis of shared derived characteristics",
+        "value": 500
+      },
+      {
+        "clue": "What is the role of micromollusks in deep-sea ecosystems?",
+        "correctQuestion": "Food source for infauna and evidence of productivity",
+        "value": 500
+      },
+      {
+        "clue": "How does biomineralization cost affect allochronic speciation?",
+        "correctQuestion": "Energy trade-offs influencing reproductive timing and isolation",
+        "value": 500
+      },
+      {
+        "clue": "What cryptic biodiversity exists in shell microhabitats?",
+        "correctQuestion": "Specialized fauna living within shell fractures and cavities",
+        "value": 500
+      },
+      {
+        "clue": "How do phylogenetic paleontology methods date shell divergence?",
+        "correctQuestion": "Molecular clocks calibrated against fossil record data",
+        "value": 500
+      },
+      {
+        "clue": "What taxonomic challenge do ecophenotypic variations present?",
+        "correctQuestion": "Environmental morphs mimic distinct species characteristics",
+        "value": 500
+      },
+      {
+        "clue": "How do shell collectors use spectroscopy in authentication?",
+        "correctQuestion": "Identifying mineral composition and detecting artificial treatments",
+        "value": 500
+      },
+      {
+        "clue": "What is the ecological carrying capacity for endemic shells?",
+        "correctQuestion": "Maximum sustainable population density before ecosystem collapse",
+        "value": 500
+      },
+      {
+        "clue": "How do hydrodynamic forces shape shell morphogenesis?",
+        "correctQuestion": "Water flow patterns guide growth axis orientation",
+        "value": 500
+      },
+      {
+        "clue": "What metagenomic analysis reveals about shell biofilms?",
+        "correctQuestion": "Diverse microbial communities affecting shell chemistry",
+        "value": 500
+      },
+      {
+        "clue": "How do museum curation standards preserve delicate specimens?",
+        "correctQuestion": "Controlled humidity, temperature, and protective encasement",
+        "value": 500
+      },
+      {
+        "clue": "What phylogeographic patterns reveal in shell populations?",
+        "correctQuestion": "Historical population movements and isolation events",
+        "value": 500
+      },
+      {
+        "clue": "How do mathematical growth models predict shell morphology?",
+        "correctQuestion": "Logarithmic and polynomial equations modeling coiling patterns",
+        "value": 500
+      },
+      {
+        "clue": "What non-destructive imaging reveals internal shell structure?",
+        "correctQuestion": "CT scanning showing chamber arrangements and density",
+        "value": 500
+      },
+      {
+        "clue": "How do epigenetic markers indicate environmental stressors?",
+        "correctQuestion": "DNA methylation patterns correlating with condition",
+        "value": 500
+      },
+      {
+        "clue": "What zoogeographic principles explain shell distribution?",
+        "correctQuestion": "Biogeographic realms with endemic faunal assemblages",
+        "value": 500
+      },
+      {
+        "clue": "How do functional morphology studies optimize shell design?",
+        "correctQuestion": "Stress analysis revealing structural efficiency",
+        "value": 500
+      },
+      {
+        "clue": "What paleoclimate proxies derive from shell oxygen isotopes?",
+        "correctQuestion": "Temperature and salinity reconstructions from isotopic ratios",
+        "value": 500
+      },
+      {
+        "clue": "What crystallographic polymorphism explains aragonite versus calcite shells?",
+        "correctQuestion": "Different stable mineral forms under specific pressure-temperature conditions",
+        "value": 600
+      },
+      {
+        "clue": "How do post-translational modifications regulate biomineralization proteins?",
+        "correctQuestion": "Phosphorylation and glycosylation controlling matrix assembly",
+        "value": 600
+      },
+      {
+        "clue": "What ecological stoichiometry governs shell formation budgets?",
+        "correctQuestion": "Elemental ratios of C, N, P constraining biomass production",
+        "value": 600
+      },
+      {
+        "clue": "How do quantum mechanical properties affect shell luminescence?",
+        "correctQuestion": "Electron transitions in doped mineral lattices producing fluorescence",
+        "value": 600
+      },
+      {
+        "clue": "What are the implications of heterochronic evolution in shell morphogenesis?",
+        "correctQuestion": "Shifts in developmental timing producing neotenic and peramorphic forms",
+        "value": 600
+      },
+      {
+        "clue": "How do stochastic processes influence population-level shell polymorphism?",
+        "correctQuestion": "Random genetic drift and allele frequency changes",
+        "value": 600
+      },
+      {
+        "clue": "What genomic rearrangements differentiate shell architecture types?",
+        "correctQuestion": "Duplication and divergence of biomineralization gene clusters",
+        "value": 600
+      },
+      {
+        "clue": "How do paleoproteomics authenticate ancient rare shell specimens?",
+        "correctQuestion": "Ancient protein analysis confirming species and preservation state",
+        "value": 600
+      },
+      {
+        "clue": "What synchrotron analysis reveals about shell microstructure?",
+        "correctQuestion": "High-resolution elemental mapping of crystalline organization",
+        "value": 600
+      },
+      {
+        "clue": "How do allometric relationships predict shell size-shape trajectories?",
+        "correctQuestion": "Scaling laws governing growth proportions in ontogeny",
+        "value": 600
+      },
+      {
+        "clue": "What comparative genomics reveals about mollusk divergence?",
+        "correctQuestion": "Synteny conservation and lineage-specific gene loss patterns",
+        "value": 600
+      },
+      {
+        "clue": "How do transgenerational epigenetic inheritance affect shells?",
+        "correctQuestion": "Parental stress responses imprinted in offspring morphology",
+        "value": 600
+      },
+      {
+        "clue": "What paleogenomic data reveals about extinct shell lineages?",
+        "correctQuestion": "Ancient DNA recovery establishing phylogenetic relationships",
+        "value": 600
+      },
+      {
+        "clue": "How do metabolomic signatures distinguish shell formation modes?",
+        "correctQuestion": "Biochemical pathways unique to different mineralization strategies",
+        "value": 600
+      },
+      {
+        "clue": "What nanostructural engineering principles optimize shell strength?",
+        "correctQuestion": "Hierarchical composite design with stress-dissipation mechanisms",
+        "value": 600
+      },
+      {
+        "clue": "How do paleontological databases inform conservation strategies?",
+        "correctQuestion": "Historical baseline data revealing natural range variability",
+        "value": 600
+      },
+      {
+        "clue": "What codon bias analysis reveals about biomineralization genes?",
+        "correctQuestion": "Translation optimization for high protein production efficiency",
+        "value": 600
+      },
+      {
+        "clue": "How do theoretical population genetics model shell diversity maintenance?",
+        "correctQuestion": "Balancing selection and frequency-dependent fitness mechanisms",
+        "value": 600
+      },
+      {
+        "clue": "What machine learning approaches classify shell specimens?",
+        "correctQuestion": "Convolutional neural networks trained on morphological databases",
+        "value": 600
+      },
+      {
+        "clue": "How do biophysical models simulate shell growth patterns?",
+        "correctQuestion": "Reaction-diffusion systems producing complex morphologies",
+        "value": 600
+      },
+      {
+        "clue": "What endocrine signaling cascades regulate biomineralization timing?",
+        "correctQuestion": "Neuropeptide and hormone feedback loops controlling secretion",
+        "value": 600
+      },
+      {
+        "clue": "How do paleoclimatic oscillations drive shell morphological evolution?",
+        "correctQuestion": "Cyclical selection pressures favoring alternating phenotypes",
+        "value": 600
+      },
+      {
+        "clue": "What proteolytic processing activates shell matrix proteins?",
+        "correctQuestion": "Specific cleavage producing functional biomineralization factors",
+        "value": 600
+      },
+      {
+        "clue": "How do ecological network models predict invasive shell species impacts?",
+        "correctQuestion": "Trophic cascade and competition modeling",
+        "value": 600
+      },
+      {
+        "clue": "What thermodynamic constraints govern shell polymorphism?",
+        "correctQuestion": "Gibbs free energy minimization determining stable forms",
+        "value": 600
+      },
+      {
+        "clue": "How do developmental constraint models explain shell morphospace?",
+        "correctQuestion": "Restricted parameter ranges accessible during ontogeny",
+        "value": 600
+      },
+      {
+        "clue": "What integrative bioinformatics systems analyze shell proteomes?",
+        "correctQuestion": "Multi-omics integration revealing biomineralization regulation",
+        "value": 600
+      },
+      {
+        "clue": "How do Bayesian phylogenetic methods date mollusk radiations?",
+        "correctQuestion": "Fossil-calibrated molecular clocks with uncertainty quantification",
+        "value": 600
+      },
+      {
+        "clue": "What quantum chromodynamic principles affect shell pigmentation?",
+        "correctQuestion": "Subatomic particle interactions in chromophore compounds",
+        "value": 600
+      },
+      {
+        "clue": "How do systems biology approaches model shell regeneration?",
+        "correctQuestion": "Network reconstruction of signaling cascades during repair",
+        "value": 600
+      }
+    ]
   }
 }

@@ -1,1863 +1,913 @@
 {
-  "category": {
-    "id": "christmas_countdown",
-    "name": "Counting to Christmas",
-    "description": "Questions about Advent calendars, counting down days to Christmas, calendar concepts, and time - with mathematical connections for young learners",
-    "themes": [
-      "Advent calendars",
-      "Days until Christmas",
-      "Counting and numbers",
-      "Calendar concepts",
-      "Time measurement",
-      "Mathematical thinking"
-    ],
-    "target_audiences": [
-      "kids_4_under",
-      "kids_10_under",
-      "teens",
-      "adults",
-      "seniors"
-    ],
-    "total_questions": 180,
-    "questions_per_audience": 36
-  },
-  "questions": [
-    {
-      "id": "cc_k4_001",
-      "audience": "kids_4_under",
-      "difficulty": 100,
-      "question": "How many windows does an Advent calendar have?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["advent_calendar", "counting", "basic_numbers"]
-    },
-    {
-      "id": "cc_k4_002",
-      "audience": "kids_4_under",
-      "difficulty": 100,
-      "question": "What number comes right before Christmas Day on December 24th?",
-      "answer": "23",
-      "category": "christmas_countdown",
-      "tags": ["counting", "december", "sequence"]
-    },
-    {
-      "id": "cc_k4_003",
-      "audience": "kids_4_under",
-      "difficulty": 100,
-      "question": "If you open 1 Advent calendar door each day, how many do you open in 2 days?",
-      "answer": "2",
-      "category": "christmas_countdown",
-      "tags": ["addition", "advent_calendar", "simple_math"]
-    },
-    {
-      "id": "cc_k4_004",
-      "audience": "kids_4_under",
-      "difficulty": 100,
-      "question": "What date is Christmas Day?",
-      "answer": "December 25th",
-      "category": "christmas_countdown",
-      "tags": ["christmas_date", "calendar", "basic_knowledge"]
-    },
-    {
-      "id": "cc_k4_005",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "If there are 10 days until Christmas and 3 days pass, how many days are left?",
-      "answer": "7",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "countdown", "basic_math"]
-    },
-    {
-      "id": "cc_k4_006",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "What month do we celebrate Christmas?",
-      "answer": "December",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "months", "basic_knowledge"]
-    },
-    {
-      "id": "cc_k4_007",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "If you open doors 1, 2, and 3 on your Advent calendar, how many more until you reach door 5?",
-      "answer": "2",
-      "category": "christmas_countdown",
-      "tags": ["counting", "sequence", "subtraction"]
-    },
-    {
-      "id": "cc_k4_008",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "How many days are in one week of counting to Christmas?",
-      "answer": "7",
-      "category": "christmas_countdown",
-      "tags": ["week", "time", "basic_numbers"]
-    },
-    {
-      "id": "cc_k4_009",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "If Christmas is in 5 days, and today is Monday, what day is Christmas?",
-      "answer": "Saturday",
-      "category": "christmas_countdown",
-      "tags": ["days_of_week", "counting", "calendar"]
-    },
-    {
-      "id": "cc_k4_010",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "If you've opened 12 Advent calendar doors, how many are left to open before Christmas?",
-      "answer": "12",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "advent_calendar", "half"]
-    },
-    {
-      "id": "cc_k4_011",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "How many weeks are in the 4 weeks of Advent if each week has 7 days? (Count the days)",
-      "answer": "28",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "weeks", "advent"]
-    },
-    {
-      "id": "cc_k4_012",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "If today is December 20th, how many more days until Christmas Day?",
-      "answer": "5",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "december", "countdown"]
-    },
-    {
-      "id": "cc_k4_013",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "What do you find behind each door of an Advent calendar?",
-      "answer": "A treat or surprise (chocolate, toy, or picture)",
-      "category": "christmas_countdown",
-      "tags": ["advent_calendar", "tradition", "knowledge"]
-    },
-    {
-      "id": "cc_k4_014",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "If you count by 2s from door 2 to door 10 on an Advent calendar, how many doors do you count?",
-      "answer": "5",
-      "category": "christmas_countdown",
-      "tags": ["skip_counting", "pattern", "math"]
-    },
-    {
-      "id": "cc_k4_015",
-      "audience": "kids_4_under",
-      "difficulty": 400,
-      "question": "If Christmas is 3 weeks away, how many days is that?",
-      "answer": "21",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "weeks_to_days", "conversion"]
-    },
-    {
-      "id": "cc_k4_016",
-      "audience": "kids_4_under",
-      "difficulty": 400,
-      "question": "How many days does December have?",
-      "answer": "31",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "december", "months"]
-    },
-    {
-      "id": "cc_k4_017",
-      "audience": "kids_4_under",
-      "difficulty": 400,
-      "question": "If you open 2 Advent calendar doors every day, how many days does it take to open all 24?",
-      "answer": "12",
-      "category": "christmas_countdown",
-      "tags": ["division", "advent_calendar", "problem_solving"]
-    },
-    {
-      "id": "cc_k4_018",
-      "audience": "kids_4_under",
-      "difficulty": 400,
-      "question": "What day of the week was last Christmas if this Christmas is on a Wednesday?",
-      "answer": "Tuesday",
-      "category": "christmas_countdown",
-      "tags": ["days_of_week", "pattern", "logic"]
-    },
-    {
-      "id": "cc_k4_019",
-      "audience": "kids_4_under",
-      "difficulty": 500,
-      "question": "If today is December 1st and you open one door each day, on what date will you open door number 15?",
-      "answer": "December 15th",
-      "category": "christmas_countdown",
-      "tags": ["addition", "calendar", "sequence"]
-    },
-    {
-      "id": "cc_k4_020",
-      "audience": "kids_4_under",
-      "difficulty": 500,
-      "question": "How many hours are in one day of counting down to Christmas?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["time", "hours", "conversion"]
-    },
-    {
-      "id": "cc_k4_021",
-      "audience": "kids_4_under",
-      "difficulty": 500,
-      "question": "If an Advent calendar starts on December 1st, how many days until you open the last door on December 24th?",
-      "answer": "23",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "advent_calendar", "duration"]
-    },
-    {
-      "id": "cc_k4_022",
-      "audience": "kids_4_under",
-      "difficulty": 500,
-      "question": "If you've opened half of your Advent calendar doors, how many have you opened?",
-      "answer": "12",
-      "category": "christmas_countdown",
-      "tags": ["fractions", "half", "division"]
-    },
-    {
-      "id": "cc_k4_023",
-      "audience": "kids_4_under",
-      "difficulty": 100,
-      "question": "When does the Advent calendar countdown begin each year?",
-      "answer": "December 1st",
-      "category": "christmas_countdown",
-      "tags": ["advent_calendar", "tradition", "start_date"]
-    },
-    {
-      "id": "cc_k4_024",
-      "audience": "kids_4_under",
-      "difficulty": 100,
-      "question": "If there are 24 doors and you've opened 4, how many are closed?",
-      "answer": "20",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "counting", "basic_math"]
-    },
-    {
-      "id": "cc_k4_025",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "How many Sundays can be in the 4 weeks of Advent?",
-      "answer": "4",
-      "category": "christmas_countdown",
-      "tags": ["weeks", "advent", "days_of_week"]
-    },
-    {
-      "id": "cc_k4_026",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "If Christmas Eve is December 24th, what is the date the day before?",
-      "answer": "December 23rd",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "sequence", "subtraction"]
-    },
-    {
-      "id": "cc_k4_027",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "If you count all the even-numbered doors on an Advent calendar, how many are there?",
-      "answer": "12",
-      "category": "christmas_countdown",
-      "tags": ["even_numbers", "counting", "pattern"]
-    },
-    {
-      "id": "cc_k4_028",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "How many odd-numbered doors are on an Advent calendar?",
-      "answer": "12",
-      "category": "christmas_countdown",
-      "tags": ["odd_numbers", "counting", "pattern"]
-    },
-    {
-      "id": "cc_k4_029",
-      "audience": "kids_4_under",
-      "difficulty": 400,
-      "question": "If each Advent calendar door has 1 chocolate, how many chocolates will you eat in December before Christmas?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["counting", "total", "advent_calendar"]
-    },
-    {
-      "id": "cc_k4_030",
-      "audience": "kids_4_under",
-      "difficulty": 400,
-      "question": "What special name do we give to December 24th, the day before Christmas?",
-      "answer": "Christmas Eve",
-      "category": "christmas_countdown",
-      "tags": ["tradition", "christmas_eve", "knowledge"]
-    },
-    {
-      "id": "cc_k4_031",
-      "audience": "kids_4_under",
-      "difficulty": 500,
-      "question": "If December starts on a Friday, what day of the week is December 8th?",
-      "answer": "Friday",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "days_of_week", "counting"]
-    },
-    {
-      "id": "cc_k4_032",
-      "audience": "kids_4_under",
-      "difficulty": 500,
-      "question": "How many minutes are in one hour of waiting for Christmas?",
-      "answer": "60",
-      "category": "christmas_countdown",
-      "tags": ["time", "minutes", "conversion"]
-    },
-    {
-      "id": "cc_k4_033",
-      "audience": "kids_4_under",
-      "difficulty": 100,
-      "question": "If you open door number 10, how many more doors until door 12?",
-      "answer": "2",
-      "category": "christmas_countdown",
-      "tags": ["counting", "sequence", "subtraction"]
-    },
-    {
-      "id": "cc_k4_034",
-      "audience": "kids_4_under",
-      "difficulty": 200,
-      "question": "How many hands does a clock have that helps us count down to Christmas?",
-      "answer": "2 (or 3 if counting the second hand)",
-      "category": "christmas_countdown",
-      "tags": ["clock", "time", "counting"]
-    },
-    {
-      "id": "cc_k4_035",
-      "audience": "kids_4_under",
-      "difficulty": 300,
-      "question": "If Christmas is 10 days away and you sleep through 2 nights, how many more sleeps until Christmas?",
-      "answer": "8",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "sleeps", "countdown"]
-    },
-    {
-      "id": "cc_k4_036",
-      "audience": "kids_4_under",
-      "difficulty": 400,
-      "question": "If you have 3 Advent calendars with 24 doors each, how many total doors are there?",
-      "answer": "72",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "advent_calendar", "groups"]
-    },
-    {
-      "id": "cc_k10_001",
-      "audience": "kids_10_under",
-      "difficulty": 100,
-      "question": "How many days are traditionally in an Advent calendar countdown?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["advent_calendar", "tradition", "counting"]
-    },
-    {
-      "id": "cc_k10_002",
-      "audience": "kids_10_under",
-      "difficulty": 100,
-      "question": "If today is December 15th, how many days until Christmas?",
-      "answer": "10",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "december", "countdown"]
-    },
-    {
-      "id": "cc_k10_003",
-      "audience": "kids_10_under",
-      "difficulty": 100,
-      "question": "What is the first date you open on an Advent calendar?",
-      "answer": "December 1st",
-      "category": "christmas_countdown",
-      "tags": ["advent_calendar", "start_date", "tradition"]
-    },
-    {
-      "id": "cc_k10_004",
-      "audience": "kids_10_under",
-      "difficulty": 100,
-      "question": "How many weeks are in the traditional Advent season?",
-      "answer": "4",
-      "category": "christmas_countdown",
-      "tags": ["advent", "weeks", "tradition"]
-    },
-    {
-      "id": "cc_k10_005",
-      "audience": "kids_10_under",
-      "difficulty": 200,
-      "question": "If you've opened doors 1 through 18 on your Advent calendar, what percentage have you completed?",
-      "answer": "75%",
-      "category": "christmas_countdown",
-      "tags": ["percentage", "fractions", "division"]
-    },
-    {
-      "id": "cc_k10_006",
-      "audience": "kids_10_under",
-      "difficulty": 200,
-      "question": "How many hours are in the 24 days of an Advent calendar?",
-      "answer": "576",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "time_conversion", "hours"]
-    },
-    {
-      "id": "cc_k10_007",
-      "audience": "kids_10_under",
-      "difficulty": 200,
-      "question": "If Christmas is exactly 3 weeks and 3 days away, how many total days is that?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["addition", "weeks_to_days", "conversion"]
-    },
-    {
-      "id": "cc_k10_008",
-      "audience": "kids_10_under",
-      "difficulty": 200,
-      "question": "What country is credited with creating the first printed Advent calendar in the early 1900s?",
-      "answer": "Germany",
-      "category": "christmas_countdown",
-      "tags": ["history", "advent_calendar", "origin"]
-    },
-    {
-      "id": "cc_k10_009",
-      "audience": "kids_10_under",
-      "difficulty": 200,
-      "question": "If you open 1 door per day starting December 1st, on what day of the week will you open door 7 if December 1st is a Monday?",
-      "answer": "Sunday",
-      "category": "christmas_countdown",
-      "tags": ["days_of_week", "counting", "calendar"]
-    },
-    {
-      "id": "cc_k10_010",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "How many minutes are in the 24 days of Advent?",
-      "answer": "34,560",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "time_conversion", "minutes"]
-    },
-    {
-      "id": "cc_k10_011",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "If an Advent calendar has doors numbered 1-24, what is the sum of all the door numbers?",
-      "answer": "300",
-      "category": "christmas_countdown",
-      "tags": ["addition", "sequence", "sum"]
-    },
-    {
-      "id": "cc_k10_012",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "What is the last Sunday before Christmas called in the Advent season?",
-      "answer": "The Fourth Sunday of Advent",
-      "category": "christmas_countdown",
-      "tags": ["advent", "tradition", "sundays"]
-    },
-    {
-      "id": "cc_k10_013",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "If each Advent calendar door contains 15 grams of chocolate, how many total grams are in the calendar?",
-      "answer": "360",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "measurement", "total"]
-    },
-    {
-      "id": "cc_k10_014",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "How many days are between December 1st and December 25th, inclusive?",
-      "answer": "25",
-      "category": "christmas_countdown",
-      "tags": ["counting", "inclusive", "calendar"]
-    },
-    {
-      "id": "cc_k10_015",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "If you have a 12-day Advent calendar that covers only the '12 Days of Christmas,' on what date would it start to end on Christmas?",
-      "answer": "December 14th",
-      "category": "christmas_countdown",
-      "tags": ["subtraction", "calendar", "problem_solving"]
-    },
-    {
-      "id": "cc_k10_016",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "What is the average of all the door numbers on a 24-door Advent calendar?",
-      "answer": "12.5",
-      "category": "christmas_countdown",
-      "tags": ["average", "mean", "statistics"]
-    },
-    {
-      "id": "cc_k10_017",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "If Christmas Day 2025 falls on a Thursday, what day of the week was December 1st, 2025?",
-      "answer": "Monday",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "days_of_week", "reverse_counting"]
-    },
-    {
-      "id": "cc_k10_018",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "How many seconds are in one day of the Advent countdown?",
-      "answer": "86,400",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "time_conversion", "seconds"]
-    },
-    {
-      "id": "cc_k10_019",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "What word 'Advent' comes from a Latin word meaning what?",
-      "answer": "Coming or arrival",
-      "category": "christmas_countdown",
-      "tags": ["etymology", "latin", "meaning"]
-    },
-    {
-      "id": "cc_k10_020",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "If you have calendars with 24, 25, and 31 doors (covering all of December), how many total doors?",
-      "answer": "80",
-      "category": "christmas_countdown",
-      "tags": ["addition", "multiple_calendars", "total"]
-    },
-    {
-      "id": "cc_k10_021",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "What is the product of the first and last door numbers on an Advent calendar (1 × 24)?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["multiplication", "first_last", "product"]
-    },
-    {
-      "id": "cc_k10_022",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "If Advent begins on the fourth Sunday before Christmas, and Christmas is on a Sunday, what date is the first Sunday of Advent? (Assume December)",
-      "answer": "December 4th",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "advent_sundays", "counting_backwards"]
-    },
-    {
-      "id": "cc_k10_023",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "How many total hours from December 1st at midnight until Christmas morning at midnight?",
-      "answer": "576",
-      "category": "christmas_countdown",
-      "tags": ["time_duration", "multiplication", "hours"]
-    },
-    {
-      "id": "cc_k10_024",
-      "audience": "kids_10_under",
-      "difficulty": 100,
-      "question": "What fraction of the Advent calendar is complete when you've opened 12 doors?",
-      "answer": "1/2 or one-half",
-      "category": "christmas_countdown",
-      "tags": ["fractions", "half", "division"]
-    },
-    {
-      "id": "cc_k10_025",
-      "audience": "kids_10_under",
-      "difficulty": 200,
-      "question": "If door 1 through 6 are on the first row of an Advent calendar, how many complete rows are in 24 doors?",
-      "answer": "4",
-      "category": "christmas_countdown",
-      "tags": ["division", "groups", "rows"]
-    },
-    {
-      "id": "cc_k10_026",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "What is 1/4 of the total doors on an Advent calendar?",
-      "answer": "6",
-      "category": "christmas_countdown",
-      "tags": ["fractions", "division", "quarter"]
-    },
-    {
-      "id": "cc_k10_027",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "If you skip every third door on your calendar (3, 6, 9...), how many doors do you skip total?",
-      "answer": "8",
-      "category": "christmas_countdown",
-      "tags": ["skip_counting", "multiples", "division"]
-    },
-    {
-      "id": "cc_k10_028",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "How many days from November 30th to December 24th (the Advent period)?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "counting", "duration"]
-    },
-    {
-      "id": "cc_k10_029",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "If you arrange 24 Advent doors in a rectangle, what are two possible dimensions (length × width)?",
-      "answer": "4×6, 3×8, 2×12, 1×24 (any is correct)",
-      "category": "christmas_countdown",
-      "tags": ["factors", "rectangles", "geometry"]
-    },
-    {
-      "id": "cc_k10_030",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "If Advent Sunday is exactly 4 weeks before Christmas Day, and Christmas is December 25th, what is the earliest possible date for Advent Sunday?",
-      "answer": "November 27th",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "advent", "backwards_counting"]
-    },
-    {
-      "id": "cc_k10_031",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "What is the median door number on a 24-door Advent calendar?",
-      "answer": "12.5",
-      "category": "christmas_countdown",
-      "tags": ["median", "statistics", "middle"]
-    },
-    {
-      "id": "cc_k10_032",
-      "audience": "kids_10_under",
-      "difficulty": 200,
-      "question": "How many prime numbers are door numbers on an Advent calendar (1-24)?",
-      "answer": "9",
-      "category": "christmas_countdown",
-      "tags": ["prime_numbers", "counting", "number_theory"]
-    },
-    {
-      "id": "cc_k10_033",
-      "audience": "kids_10_under",
-      "difficulty": 300,
-      "question": "If you open doors in reverse order (24, 23, 22...), what door do you open on day 10?",
-      "answer": "15",
-      "category": "christmas_countdown",
-      "tags": ["reverse_order", "subtraction", "sequence"]
-    },
-    {
-      "id": "cc_k10_034",
-      "audience": "kids_10_under",
-      "difficulty": 400,
-      "question": "How many perfect square numbers are door numbers on an Advent calendar?",
-      "answer": "4 (1, 4, 9, 16)",
-      "category": "christmas_countdown",
-      "tags": ["perfect_squares", "counting", "number_properties"]
-    },
-    {
-      "id": "cc_k10_035",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "What is the least common multiple (LCM) of 12 and 24?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["lcm", "multiples", "number_theory"]
-    },
-    {
-      "id": "cc_k10_036",
-      "audience": "kids_10_under",
-      "difficulty": 500,
-      "question": "If each Advent door represents 1/24 of the countdown, what percentage does each door represent (rounded to nearest whole)?",
-      "answer": "4%",
-      "category": "christmas_countdown",
-      "tags": ["percentage", "division", "rounding"]
-    },
-    {
-      "id": "cc_teen_001",
-      "audience": "teens",
-      "difficulty": 100,
-      "question": "How many total days are in the period from December 1st through December 24th?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["calendar", "counting", "duration"]
-    },
-    {
-      "id": "cc_teen_002",
-      "audience": "teens",
-      "difficulty": 100,
-      "question": "In what year was the first known handmade Advent calendar created in Germany?",
-      "answer": "1851",
-      "category": "christmas_countdown",
-      "tags": ["history", "advent_calendar", "germany"]
-    },
-    {
-      "id": "cc_teen_003",
-      "audience": "teens",
-      "difficulty": 100,
-      "question": "What is the greatest common divisor (GCD) of 24 (Advent days) and 12 (months)?",
-      "answer": "12",
-      "category": "christmas_countdown",
-      "tags": ["gcd", "number_theory", "math"]
-    },
-    {
-      "id": "cc_teen_004",
-      "audience": "teens",
-      "difficulty": 100,
-      "question": "If Christmas falls on the same day of the week every 400 years in the Gregorian calendar pattern, how many times does it cycle?",
-      "answer": "Once (every 400 years)",
-      "category": "christmas_countdown",
-      "tags": ["gregorian_calendar", "cycles", "pattern"]
-    },
-    {
-      "id": "cc_teen_005",
-      "audience": "teens",
-      "difficulty": 200,
-      "question": "What is the sum of all multiples of 3 that are door numbers on an Advent calendar (3, 6, 9...)?",
-      "answer": "108",
-      "category": "christmas_countdown",
-      "tags": ["multiples", "addition", "sequence"]
-    },
-    {
-      "id": "cc_teen_006",
-      "audience": "teens",
-      "difficulty": 200,
-      "question": "If Advent begins on the Sunday closest to November 30th, what is the latest possible date for the First Sunday of Advent?",
-      "answer": "December 3rd",
-      "category": "christmas_countdown",
-      "tags": ["advent", "calendar", "church_tradition"]
-    },
-    {
-      "id": "cc_teen_007",
-      "audience": "teens",
-      "difficulty": 200,
-      "question": "How many factorial of 4 (4!) doors would an extended Advent calendar have?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["factorial", "math", "coincidence"]
-    },
-    {
-      "id": "cc_teen_008",
-      "audience": "teens",
-      "difficulty": 200,
-      "question": "What percentage of December is covered by a traditional 24-door Advent calendar?",
-      "answer": "77.4% (or approximately 77%)",
-      "category": "christmas_countdown",
-      "tags": ["percentage", "december", "calculation"]
-    },
-    {
-      "id": "cc_teen_009",
-      "audience": "teens",
-      "difficulty": 200,
-      "question": "If you model the countdown as an arithmetic sequence from 24 to 1, what is the common difference?",
-      "answer": "-1",
-      "category": "christmas_countdown",
-      "tags": ["arithmetic_sequence", "difference", "algebra"]
-    },
-    {
-      "id": "cc_teen_010",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "How many seconds are in the complete 24-day Advent period?",
-      "answer": "2,073,600",
-      "category": "christmas_countdown",
-      "tags": ["time_conversion", "multiplication", "seconds"]
-    },
-    {
-      "id": "cc_teen_011",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "What is the probability of randomly selecting a prime number door on an Advent calendar?",
-      "answer": "9/24 or 3/8 or 37.5%",
-      "category": "christmas_countdown",
-      "tags": ["probability", "prime_numbers", "fractions"]
-    },
-    {
-      "id": "cc_teen_012",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "If each Advent candle (4 total) burns for 3 hours each Sunday, how many total candle-hours for the season?",
-      "answer": "48",
-      "category": "christmas_countdown",
-      "tags": ["advent_wreath", "multiplication", "tradition"]
-    },
-    {
-      "id": "cc_teen_013",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "What is the mode of the digits used in door numbers 1-24?",
-      "answer": "1 and 2 (both appear most frequently)",
-      "category": "christmas_countdown",
-      "tags": ["mode", "statistics", "digits"]
-    },
-    {
-      "id": "cc_teen_014",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "In the liturgical calendar, Advent can be how many days long at minimum?",
-      "answer": "22",
-      "category": "christmas_countdown",
-      "tags": ["liturgical_calendar", "advent", "variable_length"]
-    },
-    {
-      "id": "cc_teen_015",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "What is the standard deviation of door opening times if each occurs exactly 24 hours apart?",
-      "answer": "0 (no variation)",
-      "category": "christmas_countdown",
-      "tags": ["statistics", "standard_deviation", "variation"]
-    },
-    {
-      "id": "cc_teen_016",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "If you arrange door numbers 1-24 in a 4×6 grid, what is the sum of the diagonal from top-left to bottom-right?",
-      "answer": "70 (1+8+15+22) assuming standard left-to-right, top-to-bottom numbering",
-      "category": "christmas_countdown",
-      "tags": ["matrix", "diagonal", "addition"]
-    },
-    {
-      "id": "cc_teen_017",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "What is the ratio of Advent days (24) to December days (31) in simplest form?",
-      "answer": "24:31",
-      "category": "christmas_countdown",
-      "tags": ["ratio", "simplification", "fractions"]
-    },
-    {
-      "id": "cc_teen_018",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "How many divisors does 24 (the number of Advent doors) have?",
-      "answer": "8 (1, 2, 3, 4, 6, 8, 12, 24)",
-      "category": "christmas_countdown",
-      "tags": ["divisors", "factors", "number_theory"]
-    },
-    {
-      "id": "cc_teen_019",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "What is the binary representation of 24?",
-      "answer": "11000",
-      "category": "christmas_countdown",
-      "tags": ["binary", "conversion", "computer_science"]
-    },
-    {
-      "id": "cc_teen_020",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "If you plot door numbers (x-axis) vs. days remaining (y-axis), what is the slope of the line?",
-      "answer": "-1",
-      "category": "christmas_countdown",
-      "tags": ["linear_equation", "slope", "graphing"]
-    },
-    {
-      "id": "cc_teen_021",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "What is 24 expressed in hexadecimal?",
-      "answer": "18",
-      "category": "christmas_countdown",
-      "tags": ["hexadecimal", "conversion", "base_16"]
-    },
-    {
-      "id": "cc_teen_022",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "If Advent calendars follow a Poisson distribution with λ=1 door per day, what is the expected value over 24 days?",
-      "answer": "24",
-      "category": "christmas_countdown",
-      "tags": ["poisson_distribution", "statistics", "expected_value"]
-    },
-    {
-      "id": "cc_teen_023",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "What is the prime factorization of 24?",
-      "answer": "2³ × 3 or 2×2×2×3",
-      "category": "christmas_countdown",
-      "tags": ["prime_factorization", "factors", "number_theory"]
-    },
-    {
-      "id": "cc_teen_024",
-      "audience": "teens",
-      "difficulty": 100,
-      "question": "How many composite numbers are door numbers on a 24-door Advent calendar?",
-      "answer": "14",
-      "category": "christmas_countdown",
-      "tags": ["composite_numbers", "counting", "number_theory"]
-    },
-    {
-      "id": "cc_teen_025",
-      "audience": "teens",
-      "difficulty": 200,
-      "question": "What is the sum of only the even-numbered doors on an Advent calendar?",
-      "answer": "156",
-      "category": "christmas_countdown",
-      "tags": ["even_numbers", "addition", "sequence"]
-    },
-    {
-      "id": "cc_teen_026",
-      "audience": "teens",
-      "difficulty": 200,
-      "question": "What is the sum of only the odd-numbered doors?",
-      "answer": "144",
-      "category": "christmas_countdown",
-      "tags": ["odd_numbers", "addition", "sequence"]
-    },
-    {
-      "id": "cc_teen_027",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "If you model the excitement level as exponential growth with base e, and it doubles every 6 days, what is the growth rate per day?",
-      "answer": "ln(2)/6 or approximately 0.1155",
-      "category": "christmas_countdown",
-      "tags": ["exponential_growth", "calculus", "rate"]
-    },
-    {
-      "id": "cc_teen_028",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "How many permutations are there of just the last 3 door numbers (22, 23, 24)?",
-      "answer": "6 (3! = 6)",
-      "category": "christmas_countdown",
-      "tags": ["permutations", "factorial", "combinations"]
-    },
-    {
-      "id": "cc_teen_029",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "What is 24 in Roman numerals?",
-      "answer": "XXIV",
-      "category": "christmas_countdown",
-      "tags": ["roman_numerals", "conversion", "history"]
-    },
-    {
-      "id": "cc_teen_030",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "If each door represents a node in a graph and consecutive doors are connected, how many edges in this path graph?",
-      "answer": "23",
-      "category": "christmas_countdown",
-      "tags": ["graph_theory", "edges", "discrete_math"]
-    },
-    {
-      "id": "cc_teen_031",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "What is the digital root of 300 (the sum of all door numbers 1-24)?",
-      "answer": "3",
-      "category": "christmas_countdown",
-      "tags": ["digital_root", "number_theory", "modulo"]
-    },
-    {
-      "id": "cc_teen_032",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "How many ways can you choose 2 doors from 24 (combination problem)?",
-      "answer": "276",
-      "category": "christmas_countdown",
-      "tags": ["combinations", "binomial_coefficient", "counting"]
-    },
-    {
-      "id": "cc_teen_033",
-      "audience": "teens",
-      "difficulty": 300,
-      "question": "What is the 24th triangular number?",
-      "answer": "300",
-      "category": "christmas_countdown",
-      "tags": ["triangular_numbers", "sequence", "sum"]
-    },
-    {
-      "id": "cc_teen_034",
-      "audience": "teens",
-      "difficulty": 400,
-      "question": "If you create a sequence where each term is the sum of door numbers up to n, what is the value for n=10?",
-      "answer": "55",
-      "category": "christmas_countdown",
-      "tags": ["sequence", "summation", "triangular"]
-    },
-    {
-      "id": "cc_teen_035",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "What is the modulo of the sum of all doors (300) when divided by the number of doors (24)?",
-      "answer": "12",
-      "category": "christmas_countdown",
-      "tags": ["modulo", "remainder", "division"]
-    },
-    {
-      "id": "cc_teen_036",
-      "audience": "teens",
-      "difficulty": 500,
-      "question": "In base 5, what is 24?",
-      "answer": "44",
-      "category": "christmas_countdown",
-      "tags": ["base_conversion", "base_5", "number_systems"]
-    },
-    {
-      "id": "cc_adult_001",
-      "audience": "adults",
-      "difficulty": 100,
-      "question": "What is the etymological origin of 'Advent' from Latin?",
-      "answer": "Adventus, meaning 'coming' or 'arrival'",
-      "category": "christmas_countdown",
-      "tags": ["etymology", "latin", "language"]
-    },
-    {
-      "id": "cc_adult_002",
-      "audience": "adults",
-      "difficulty": 100,
-      "question": "In the liturgical calendar, which Sunday marks the beginning of the Advent season?",
-      "answer": "The fourth Sunday before Christmas (Advent Sunday)",
-      "category": "christmas_countdown",
-      "tags": ["liturgical_calendar", "advent", "church"]
-    },
-    {
-      "id": "cc_adult_003",
-      "audience": "adults",
-      "difficulty": 100,
-      "question": "Who is credited with creating the first printed Advent calendar in 1908?",
-      "answer": "Gerhard Lang",
-      "category": "christmas_countdown",
-      "tags": ["history", "advent_calendar", "inventor"]
-    },
-    {
-      "id": "cc_adult_004",
-      "audience": "adults",
-      "difficulty": 100,
-      "question": "How many candles are traditionally on an Advent wreath?",
-      "answer": "4 (or 5 if including the Christ candle)",
-      "category": "christmas_countdown",
-      "tags": ["advent_wreath", "tradition", "candles"]
-    },
-    {
-      "id": "cc_adult_005",
-      "audience": "adults",
-      "difficulty": 200,
-      "question": "What is the variance of a uniform distribution over the 24 Advent calendar doors?",
-      "answer": "Approximately 47.92 or (24²-1)/12",
-      "category": "christmas_countdown",
-      "tags": ["statistics", "variance", "uniform_distribution"]
-    },
-    {
-      "id": "cc_adult_006",
-      "audience": "adults",
-      "difficulty": 200,
-      "question": "In the Western Christian tradition, what liturgical color is associated with Advent?",
-      "answer": "Purple or violet (sometimes blue)",
-      "category": "christmas_countdown",
-      "tags": ["liturgy", "tradition", "symbolism"]
-    },
-    {
-      "id": "cc_adult_007",
-      "audience": "adults",
-      "difficulty": 200,
-      "question": "What is the maximum possible length of Advent in the Western church calendar?",
-      "answer": "28 days (4 full weeks)",
-      "category": "christmas_countdown",
-      "tags": ["advent", "calendar", "duration"]
-    },
-    {
-      "id": "cc_adult_008",
-      "audience": "adults",
-      "difficulty": 200,
-      "question": "What year did commercial chocolate Advent calendars first appear?",
-      "answer": "1958",
-      "category": "christmas_countdown",
-      "tags": ["history", "chocolate", "commercialization"]
-    },
-    {
-      "id": "cc_adult_009",
-      "audience": "adults",
-      "difficulty": 200,
-      "question": "In number theory, is 24 a perfect number, abundant number, or deficient number?",
-      "answer": "Abundant number (divisors sum to 36)",
-      "category": "christmas_countdown",
-      "tags": ["number_theory", "abundant", "divisors"]
-    },
-    {
-      "id": "cc_adult_010",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "What is the Euler's totient function φ(24)?",
-      "answer": "8",
-      "category": "christmas_countdown",
-      "tags": ["euler_totient", "number_theory", "coprime"]
-    },
-    {
-      "id": "cc_adult_011",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "In Orthodox Christianity, how many days is the Nativity Fast (their Advent equivalent)?",
-      "answer": "40 days",
-      "category": "christmas_countdown",
-      "tags": ["orthodox", "nativity_fast", "tradition"]
-    },
-    {
-      "id": "cc_adult_012",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "What is the coefficient of variation for opening one door per day over 24 days?",
-      "answer": "0 (no variation in the rate)",
-      "category": "christmas_countdown",
-      "tags": ["statistics", "coefficient_variation", "consistency"]
-    },
-    {
-      "id": "cc_adult_013",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "In the Metonic cycle, how often does the same moon phase occur on Christmas Day?",
-      "answer": "Every 19 years",
-      "category": "christmas_countdown",
-      "tags": ["astronomy", "metonic_cycle", "lunar"]
-    },
-    {
-      "id": "cc_adult_014",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "What is the sum of divisors function σ(24)?",
-      "answer": "60",
-      "category": "christmas_countdown",
-      "tags": ["divisor_function", "number_theory", "sum"]
-    },
-    {
-      "id": "cc_adult_015",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "In the Gregorian calendar reform of 1582, what was the impact on Advent timing?",
-      "answer": "10 days were skipped, but Advent Sunday calculation remained tied to Christmas",
-      "category": "christmas_countdown",
-      "tags": ["gregorian_calendar", "history", "calendar_reform"]
-    },
-    {
-      "id": "cc_adult_016",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "What is the automorphic number property of 24 in relation to its square?",
-      "answer": "24² = 576, which does not end in 24 (not automorphic)",
-      "category": "christmas_countdown",
-      "tags": ["automorphic", "number_properties", "squares"]
-    },
-    {
-      "id": "cc_adult_017",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "In computational complexity, how many comparisons does bubble sort require for 24 items in worst case?",
-      "answer": "276 (n(n-1)/2)",
-      "category": "christmas_countdown",
-      "tags": ["computer_science", "sorting", "complexity"]
-    },
-    {
-      "id": "cc_adult_018",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "What theological significance do the four Advent candles represent in Western tradition?",
-      "answer": "Hope, Peace, Joy, and Love (order may vary)",
-      "category": "christmas_countdown",
-      "tags": ["theology", "symbolism", "advent_wreath"]
-    },
-    {
-      "id": "cc_adult_019",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "What is the partition function p(24)?",
-      "answer": "1,575 (number of ways to write 24 as sum of positive integers)",
-      "category": "christmas_countdown",
-      "tags": ["partition_function", "combinatorics", "number_theory"]
-    },
-    {
-      "id": "cc_adult_020",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "In the Julian calendar still used by some Orthodox churches, how many days different is Christmas from the Gregorian December 25?",
-      "answer": "13 days (January 7 Gregorian)",
-      "category": "christmas_countdown",
-      "tags": ["julian_calendar", "orthodox", "calendar_difference"]
-    },
-    {
-      "id": "cc_adult_021",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "What is the aliquot sum of 24?",
-      "answer": "36",
-      "category": "christmas_countdown",
-      "tags": ["aliquot_sum", "number_theory", "divisors"]
-    },
-    {
-      "id": "cc_adult_022",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "Using the Zeller's congruence formula, calculate the day of week for December 1, 2025.",
-      "answer": "Monday",
-      "category": "christmas_countdown",
-      "tags": ["zellers_congruence", "algorithm", "calendar"]
-    },
-    {
-      "id": "cc_adult_023",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "What is the significance of 24 in the Leech lattice, the unique 24-dimensional lattice with exceptional properties?",
-      "answer": "It's the dimension of the densest known sphere packing in its dimension",
-      "category": "christmas_countdown",
-      "tags": ["mathematics", "leech_lattice", "advanced"]
-    },
-    {
-      "id": "cc_adult_024",
-      "audience": "adults",
-      "difficulty": 100,
-      "question": "What is 24 in octal (base 8)?",
-      "answer": "30",
-      "category": "christmas_countdown",
-      "tags": ["octal", "base_conversion", "number_systems"]
-    },
-    {
-      "id": "cc_adult_025",
-      "audience": "adults",
-      "difficulty": 200,
-      "question": "In early German tradition, what did children use to count down to Christmas before printed calendars?",
-      "answer": "Chalk marks on doors or candles",
-      "category": "christmas_countdown",
-      "tags": ["history", "german_tradition", "advent"]
-    },
-    {
-      "id": "cc_adult_026",
-      "audience": "adults",
-      "difficulty": 200,
-      "question": "What is the harmonic mean of the numbers 1 through 24?",
-      "answer": "Approximately 6.39 or 24/(1+1/2+1/3+...+1/24)",
-      "category": "christmas_countdown",
-      "tags": ["harmonic_mean", "statistics", "average"]
-    },
-    {
-      "id": "cc_adult_027",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "What was the controversy around Advent calendars in WWII Germany?",
-      "answer": "Nazis created propaganda versions with 24 Nazi symbols instead of religious imagery",
-      "category": "christmas_countdown",
-      "tags": ["history", "wwii", "propaganda"]
-    },
-    {
-      "id": "cc_adult_028",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "In group theory, what is the order of the symmetric group S₄?",
-      "answer": "24 (4! = 24)",
-      "category": "christmas_countdown",
-      "tags": ["group_theory", "symmetric_group", "mathematics"]
-    },
-    {
-      "id": "cc_adult_029",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "What is the Ramanujan tau function τ(24)?",
-      "answer": "-52416",
-      "category": "christmas_countdown",
-      "tags": ["ramanujan", "tau_function", "number_theory"]
-    },
-    {
-      "id": "cc_adult_030",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "In which year did the first commercial Advent calendar appear in the United States?",
-      "answer": "1946 (imported from Germany)",
-      "category": "christmas_countdown",
-      "tags": ["history", "usa", "commercialization"]
-    },
-    {
-      "id": "cc_adult_031",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "What is the connection between 24 and the Monster group in mathematics?",
-      "answer": "The Leech lattice (24-dimensional) is used in the construction of the Monster group",
-      "category": "christmas_countdown",
-      "tags": ["monster_group", "advanced_math", "lattice"]
-    },
-    {
-      "id": "cc_adult_032",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "Using the Gaussian formula for the sum of squares, what is 1² + 2² + 3² + ... + 24²?",
-      "answer": "4,900",
-      "category": "christmas_countdown",
-      "tags": ["sum_of_squares", "formula", "calculation"]
-    },
-    {
-      "id": "cc_adult_033",
-      "audience": "adults",
-      "difficulty": 300,
-      "question": "What is the geographic mean of 1 and 24?",
-      "answer": "Approximately 4.899 or √24",
-      "category": "christmas_countdown",
-      "tags": ["geometric_mean", "statistics", "calculation"]
-    },
-    {
-      "id": "cc_adult_034",
-      "audience": "adults",
-      "difficulty": 400,
-      "question": "In the Anglican tradition, what are the traditional Advent Collects focused on?",
-      "answer": "Christ's first and second coming, Scripture study, and preparation",
-      "category": "christmas_countdown",
-      "tags": ["anglican", "collects", "liturgy"]
-    },
-    {
-      "id": "cc_adult_035",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "What is the Möbius function μ(24)?",
-      "answer": "0 (24 has a squared prime factor)",
-      "category": "christmas_countdown",
-      "tags": ["mobius_function", "number_theory", "advanced"]
-    },
-    {
-      "id": "cc_adult_036",
-      "audience": "adults",
-      "difficulty": 500,
-      "question": "In modular arithmetic, what is 24 ≡ ? (mod 7)?",
-      "answer": "3",
-      "category": "christmas_countdown",
-      "tags": ["modular_arithmetic", "congruence", "calculation"]
-    },
-    {
-      "id": "cc_senior_001",
-      "audience": "seniors",
-      "difficulty": 100,
-      "question": "In what decade did Advent calendars first become widely popular in America?",
-      "answer": "1950s",
-      "category": "christmas_countdown",
-      "tags": ["history", "america", "popularity"]
-    },
-    {
-      "id": "cc_senior_002",
-      "audience": "seniors",
-      "difficulty": 100,
-      "question": "What traditional Advent practice involves lighting one candle each week?",
-      "answer": "The Advent wreath",
-      "category": "christmas_countdown",
-      "tags": ["advent_wreath", "tradition", "candles"]
-    },
-    {
-      "id": "cc_senior_003",
-      "audience": "seniors",
-      "difficulty": 100,
-      "question": "What German publisher first mass-produced printed Advent calendars?",
-      "answer": "Reichhold & Lang",
-      "category": "christmas_countdown",
-      "tags": ["history", "publisher", "germany"]
-    },
-    {
-      "id": "cc_senior_004",
-      "audience": "seniors",
-      "difficulty": 100,
-      "question": "In medieval times, what did families mark with chalk to count down to Christmas?",
-      "answer": "Doors or walls (24 chalk marks)",
-      "category": "christmas_countdown",
-      "tags": ["medieval", "tradition", "history"]
-    },
-    {
-      "id": "cc_senior_005",
-      "audience": "seniors",
-      "difficulty": 200,
-      "question": "What Biblical book is traditionally read during Advent in many liturgical churches?",
-      "answer": "Isaiah (prophecies of the Messiah)",
-      "category": "christmas_countdown",
-      "tags": ["bible", "isaiah", "liturgy"]
-    },
-    {
-      "id": "cc_senior_006",
-      "audience": "seniors",
-      "difficulty": 200,
-      "question": "What year was the first known handmade Advent calendar created by a German mother?",
-      "answer": "1851",
-      "category": "christmas_countdown",
-      "tags": ["history", "first_calendar", "germany"]
-    },
-    {
-      "id": "cc_senior_007",
-      "audience": "seniors",
-      "difficulty": 200,
-      "question": "What color is the third candle (Gaudete candle) on a traditional Advent wreath?",
-      "answer": "Pink or rose",
-      "category": "christmas_countdown",
-      "tags": ["advent_wreath", "gaudete", "liturgy"]
-    },
-    {
-      "id": "cc_senior_008",
-      "audience": "seniors",
-      "difficulty": 200,
-      "question": "During WWII, what happened to Advent calendar production in Germany?",
-      "answer": "Production was banned or converted to propaganda use",
-      "category": "christmas_countdown",
-      "tags": ["wwii", "history", "germany"]
-    },
-    {
-      "id": "cc_senior_009",
-      "audience": "seniors",
-      "difficulty": 200,
-      "question": "What is the traditional German name for Advent calendars?",
-      "answer": "Adventskalender",
-      "category": "christmas_countdown",
-      "tags": ["german", "language", "tradition"]
-    },
-    {
-      "id": "cc_senior_010",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "What 19th-century Lutheran practice involved children earning stars on a calendar for good behavior?",
-      "answer": "The Advent star calendar or behavior chart",
-      "category": "christmas_countdown",
-      "tags": ["lutheran", "19th_century", "tradition"]
-    },
-    {
-      "id": "cc_senior_011",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "In Catholic tradition, what does the O Antiphon period during Advent refer to?",
-      "answer": "Seven special antiphons sung December 17-23 (starting with 'O')",
-      "category": "christmas_countdown",
-      "tags": ["catholic", "o_antiphons", "liturgy"]
-    },
-    {
-      "id": "cc_senior_012",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "What British tradition involves marking Advent with a candle that burns down each day?",
-      "answer": "The Advent candle with 24 daily markings",
-      "category": "christmas_countdown",
-      "tags": ["british", "candle", "tradition"]
-    },
-    {
-      "id": "cc_senior_013",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "When did President Eisenhower receive the first Advent calendar presented to a US President?",
-      "answer": "1953",
-      "category": "christmas_countdown",
-      "tags": ["eisenhower", "president", "history"]
-    },
-    {
-      "id": "cc_senior_014",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "What Scandinavian tradition involves 24 small gifts or the 'julkalender'?",
-      "answer": "The Swedish/Nordic Advent calendar tradition with daily small presents",
-      "category": "christmas_countdown",
-      "tags": ["scandinavian", "julkalender", "tradition"]
-    },
-    {
-      "id": "cc_senior_015",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "What was Gerhard Lang's mother's method of counting to Christmas that inspired his calendar?",
-      "answer": "She sewed 24 small cookies onto cardboard for him to eat daily",
-      "category": "christmas_countdown",
-      "tags": ["gerhard_lang", "origin_story", "history"]
-    },
-    {
-      "id": "cc_senior_016",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "In Eastern Orthodox tradition, what is the Nativity Fast called?",
-      "answer": "The Philipine Fast or Philipovka",
-      "category": "christmas_countdown",
-      "tags": ["orthodox", "fasting", "tradition"]
-    },
-    {
-      "id": "cc_senior_017",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "What year did Cadbury release the first chocolate Advent calendar in the UK?",
-      "answer": "1958",
-      "category": "christmas_countdown",
-      "tags": ["cadbury", "chocolate", "uk"]
-    },
-    {
-      "id": "cc_senior_018",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "What is the theological significance of Advent being approximately 4 weeks?",
-      "answer": "Represents 4,000 years of waiting for the Messiah (medieval interpretation)",
-      "category": "christmas_countdown",
-      "tags": ["theology", "symbolism", "medieval"]
-    },
-    {
-      "id": "cc_senior_019",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "What Austrian tradition uses a 'Klaubauf' figure during Advent?",
-      "answer": "A companion to St. Nicholas who visits during the Advent season",
-      "category": "christmas_countdown",
-      "tags": ["austrian", "st_nicholas", "folklore"]
-    },
-    {
-      "id": "cc_senior_020",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "What Council of Tours (567 AD) decision affected the modern Advent season length?",
-      "answer": "It established a fasting period from November 11 to Christmas (later shortened)",
-      "category": "christmas_countdown",
-      "tags": ["council_of_tours", "church_history", "advent"]
-    },
-    {
-      "id": "cc_senior_021",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "In the Ambrosian Rite (Milan), how many weeks is Advent?",
-      "answer": "6 weeks",
-      "category": "christmas_countdown",
-      "tags": ["ambrosian_rite", "milan", "liturgy"]
-    },
-    {
-      "id": "cc_senior_022",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "What is the 'Rorate Mass' celebrated during Advent?",
-      "answer": "Early morning candlelit Mass honoring the Virgin Mary",
-      "category": "christmas_countdown",
-      "tags": ["rorate_mass", "catholic", "tradition"]
-    },
-    {
-      "id": "cc_senior_023",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "Who was Richard Sellmer, important to Advent calendar history?",
-      "answer": "German publisher who revived Advent calendars after WWII in 1946",
-      "category": "christmas_countdown",
-      "tags": ["richard_sellmer", "postwar", "history"]
-    },
-    {
-      "id": "cc_senior_024",
-      "audience": "seniors",
-      "difficulty": 100,
-      "question": "What popular Advent hymn begins with 'O come, O come, Emmanuel'?",
-      "answer": "Veni, Veni, Emmanuel",
-      "category": "christmas_countdown",
-      "tags": ["hymns", "music", "tradition"]
-    },
-    {
-      "id": "cc_senior_025",
-      "audience": "seniors",
-      "difficulty": 200,
-      "question": "What does the evergreen of an Advent wreath symbolize?",
-      "answer": "Eternal life or God's enduring presence",
-      "category": "christmas_countdown",
-      "tags": ["symbolism", "advent_wreath", "evergreen"]
-    },
-    {
-      "id": "cc_senior_026",
-      "audience": "seniors",
-      "difficulty": 200,
-      "question": "In which century did the Advent season become standardized at four weeks?",
-      "answer": "6th century (by Pope Gregory I)",
-      "category": "christmas_countdown",
-      "tags": ["church_history", "pope_gregory", "standardization"]
-    },
-    {
-      "id": "cc_senior_027",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "What is the 'Jesse Tree' used during Advent?",
-      "answer": "A tree decorated daily with ornaments representing Christ's ancestry",
-      "category": "christmas_countdown",
-      "tags": ["jesse_tree", "tradition", "biblical"]
-    },
-    {
-      "id": "cc_senior_028",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "What Advent devotional practice involves daily Scripture readings called?",
-      "answer": "Advent devotional or Advent daily readings",
-      "category": "christmas_countdown",
-      "tags": ["devotional", "scripture", "practice"]
-    },
-    {
-      "id": "cc_senior_029",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "What is the significance of St. Andrew's Day (Nov 30) to Advent?",
-      "answer": "It's near the earliest possible start of Advent season",
-      "category": "christmas_countdown",
-      "tags": ["st_andrew", "calendar", "liturgy"]
-    },
-    {
-      "id": "cc_senior_030",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "What was the 'Advent House' tradition in 19th century Germany?",
-      "answer": "A cardboard house with 24 windows lit by candle inside",
-      "category": "christmas_countdown",
-      "tags": ["advent_house", "19th_century", "germany"]
-    },
-    {
-      "id": "cc_senior_031",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "What is the 'Golden Advent' in some Lutheran traditions?",
-      "answer": "When Advent Sunday falls on November 27, the earliest possible date",
-      "category": "christmas_countdown",
-      "tags": ["golden_advent", "lutheran", "rare"]
-    },
-    {
-      "id": "cc_senior_032",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "What medieval practice involved 'Advent Ember Days'?",
-      "answer": "Days of fasting and ordination during the third week of Advent",
-      "category": "christmas_countdown",
-      "tags": ["ember_days", "medieval", "fasting"]
-    },
-    {
-      "id": "cc_senior_033",
-      "audience": "seniors",
-      "difficulty": 300,
-      "question": "What do the four outer candles of an Advent wreath typically represent?",
-      "answer": "The four weeks of Advent (or Hope, Peace, Joy, Love)",
-      "category": "christmas_countdown",
-      "tags": ["advent_wreath", "symbolism", "candles"]
-    },
-    {
-      "id": "cc_senior_034",
-      "audience": "seniors",
-      "difficulty": 400,
-      "question": "What is the 'St. Martin's Fast' that preceded modern Advent?",
-      "answer": "A 40-day fast from November 11 to Christmas, similar to Lent",
-      "category": "christmas_countdown",
-      "tags": ["st_martins_fast", "medieval", "fasting"]
-    },
-    {
-      "id": "cc_senior_035",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "What is the 'Advent Prose' or 'Advent Antiphon' sung in some Anglican churches?",
-      "answer": "Drop down, ye heavens (Rorate Coeli)",
-      "category": "christmas_countdown",
-      "tags": ["anglican", "rorate_coeli", "music"]
-    },
-    {
-      "id": "cc_senior_036",
-      "audience": "seniors",
-      "difficulty": 500,
-      "question": "What was the practice of 'Advent fasting' or 'St. Philip's Fast' in the Eastern Church?",
-      "answer": "40-day fast beginning November 15, ending Christmas",
-      "category": "christmas_countdown",
-      "tags": ["eastern_church", "fasting", "st_philip"]
-    }
-  ],
-  "no_humanity": {
-    "category": "Countdown to Christmas - Cards Against Humanity Style",
-    "theme": "christmas_countdown",
-    "audience": "no_humanity",
-    "tone_guidelines": {
-      "style": "Cards Against Humanity - offensive, shocking, dark humor",
-      "themes": [
-        "Advent calendar = countdown to divorce",
-        "12 days of Christmas = 12 step program",
-        "Christmas Eve countdown = labor contractions",
-        "New Year countdown = pregnancy test",
-        "Counting down to see family (dread)",
-        "Days til Santa comes (erectile dysfunction)",
-        "Chocolate advent = edibles calendar",
-        "Opening windows = exposing yourself"
-      ],
-      "format": "Jeopardy clue/answer but with adult party game sensibility"
-    },
-    "questions": [
+  "category": "[object Object]",
+  "theme": "christmas",
+  "category_id": "christmas_countdown_complete",
+  "audiences": {
+    "kids_4_under": [
       {
-        "clue": "Where countdown calendar toys really come from",
-        "correctQuestion": "What is China?",
+        "clue": "How many windows does an Advent calendar have?",
+        "correctQuestion": "24",
         "value": 200
       },
       {
-        "clue": "Mom's War on Christmas countdown hub",
-        "correctQuestion": "What is Facebook?",
+        "clue": "What number comes right before Christmas Day on December 24th?",
+        "correctQuestion": "23",
         "value": 200
       },
       {
-        "clue": "What canceled Christmas countdown 2020",
-        "correctQuestion": "What is COVID-19?",
+        "clue": "If you open 1 Advent calendar door each day, how many do you open in 2 days?",
+        "correctQuestion": "2",
         "value": 200
       },
       {
-        "clue": "Kids' real advent calendar in 2025",
-        "correctQuestion": "What is Netflix?",
+        "clue": "What date is Christmas Day?",
+        "correctQuestion": "December 25th",
         "value": 200
       },
       {
-        "clue": "Red cups that started countdown outrage",
-        "correctQuestion": "What is Starbucks?",
+        "clue": "If there are 10 days until Christmas and 3 days pass, how many days are left?",
+        "correctQuestion": "7",
         "value": 200
       },
       {
-        "clue": "Where Millennials flex advent calendars",
-        "correctQuestion": "What is Instagram?",
+        "clue": "What month do we celebrate Christmas?",
+        "correctQuestion": "December",
         "value": 200
       },
       {
-        "clue": "Toy store Amazon murdered during countdown",
-        "correctQuestion": "What is Toys R Us?",
-        "value": 400
+        "clue": "If you open doors 1, 2, and 3 on your Advent calendar, how many more until you reach door 5?",
+        "correctQuestion": "2",
+        "value": 200
       },
       {
-        "clue": "What every kid wants countdown-style",
-        "correctQuestion": "What is an iPhone?",
-        "value": 400
+        "clue": "How many days are in one week of counting to Christmas?",
+        "correctQuestion": "7",
+        "value": 200
       },
       {
-        "clue": "Midnight countdown fuel delivery app",
-        "correctQuestion": "What is DoorDash?",
-        "value": 400
+        "clue": "If Christmas is in 5 days, and today is Monday, what day is Christmas?",
+        "correctQuestion": "Saturday",
+        "value": 200
       },
       {
-        "clue": "Who defrosts every December countdown",
-        "correctQuestion": "Who is Mariah Carey?",
-        "value": 400
+        "clue": "If you've opened 12 Advent calendar doors, how many are left to open before Christmas?",
+        "correctQuestion": "12",
+        "value": 200
       },
       {
-        "clue": "How moms survive Christmas party countdown",
-        "correctQuestion": "What is Ozempic?",
-        "value": 400
+        "clue": "How many weeks are in the 4 weeks of Advent if each week has 7 days? (Count the days)",
+        "correctQuestion": "28",
+        "value": 200
       },
       {
-        "clue": "What replaced countdown Christmas cards",
-        "correctQuestion": "What is a group text?",
-        "value": 400
+        "clue": "If today is December 20th, how many more days until Christmas Day?",
+        "correctQuestion": "5",
+        "value": 200
       },
       {
-        "clue": "Where exes countdown new relationships publicly",
-        "correctQuestion": "What is Venmo?",
-        "value": 400
+        "clue": "What do you find behind each door of an Advent calendar?",
+        "correctQuestion": "A treat or surprise (chocolate, toy, or picture)",
+        "value": 200
       },
       {
-        "clue": "Gen Z's actual advent calendar",
-        "correctQuestion": "What is TikTok?",
-        "value": 400
+        "clue": "If you count by 2s from door 2 to door 10 on an Advent calendar, how many doors do you count?",
+        "correctQuestion": "5",
+        "value": 200
       },
       {
-        "clue": "Millennial's real Christmas countdown wish",
-        "correctQuestion": "What is affordable housing?",
-        "value": 600
+        "clue": "If Christmas is 3 weeks away, how many days is that?",
+        "correctQuestion": "21",
+        "value": 200
       },
       {
-        "clue": "Parents countdown to returns here",
-        "correctQuestion": "What is Target?",
-        "value": 600
+        "clue": "How many days does December have?",
+        "correctQuestion": "31",
+        "value": 200
       },
       {
-        "clue": "What killed the countdown spirit",
-        "correctQuestion": "What is capitalism?",
-        "value": 600
+        "clue": "If you open 2 Advent calendar doors every day, how many days does it take to open all 24?",
+        "correctQuestion": "12",
+        "value": 200
       },
       {
-        "clue": "Mom's text starts this countdown",
-        "correctQuestion": "What is family drama?",
-        "value": 600
+        "clue": "What day of the week was last Christmas if this Christmas is on a Wednesday?",
+        "correctQuestion": "Tuesday",
+        "value": 200
       },
       {
-        "clue": "Where parents secretly buy 24 gifts",
-        "correctQuestion": "What is Amazon?",
-        "value": 600
+        "clue": "If today is December 1st and you open one door each day, on what date will you open door number 15?",
+        "correctQuestion": "December 15th",
+        "value": 200
       },
       {
-        "clue": "Worst possible countdown calendar vehicle",
-        "correctQuestion": "What is a Tesla?",
-        "value": 600
+        "clue": "How many hours are in one day of counting down to Christmas?",
+        "correctQuestion": "24",
+        "value": 200
       },
       {
-        "clue": "Spy device recording Christmas countdowns",
-        "correctQuestion": "What is Alexa?",
-        "value": 600
+        "clue": "If an Advent calendar starts on December 1st, how many days until you open the last door on December 24th?",
+        "correctQuestion": "23",
+        "value": 200
       },
       {
-        "clue": "Topic ruining countdown dinners 2020-2024",
-        "correctQuestion": "What is Trump?",
-        "value": 600
+        "clue": "If you've opened half of your Advent calendar doors, how many have you opened?",
+        "correctQuestion": "12",
+        "value": 200
       },
       {
-        "clue": "The other countdown dinner argument",
-        "correctQuestion": "What is the COVID vaccine?",
-        "value": 800
+        "clue": "When does the Advent calendar countdown begin each year?",
+        "correctQuestion": "December 1st",
+        "value": 200
       },
       {
-        "clue": "What destroyed mall Santa countdown",
-        "correctQuestion": "What is the sex offender registry?",
-        "value": 800
+        "clue": "If there are 24 doors and you've opened 4, how many are closed?",
+        "correctQuestion": "20",
+        "value": 200
       },
       {
-        "clue": "Parents' 2am countdown side hustle",
-        "correctQuestion": "What is Uber?",
-        "value": 800
+        "clue": "How many Sundays can be in the 4 weeks of Advent?",
+        "correctQuestion": "4",
+        "value": 200
       },
       {
-        "clue": "Christmas song actually about date rape",
-        "correctQuestion": "What is Baby It's Cold Outside?",
-        "value": 800
+        "clue": "If Christmas Eve is December 24th, what is the date the day before?",
+        "correctQuestion": "December 23rd",
+        "value": 200
       },
       {
-        "clue": "The countdown miracle parents need",
-        "correctQuestion": "What is affordable rent?",
-        "value": 800
+        "clue": "If you count all the even-numbered doors on an Advent calendar, how many are there?",
+        "correctQuestion": "12",
+        "value": 200
       },
       {
-        "clue": "What warehouse elves want for countdown",
-        "correctQuestion": "What are bathroom breaks?",
-        "value": 800
+        "clue": "How many odd-numbered doors are on an Advent calendar?",
+        "correctQuestion": "12",
+        "value": 200
       },
       {
-        "clue": "Wrapping paper trip costs $200 somehow",
-        "correctQuestion": "What is Target?",
-        "value": 1000
+        "clue": "If each Advent calendar door has 1 chocolate, how many chocolates will you eat in December before Christmas?",
+        "correctQuestion": "24",
+        "value": 200
       },
       {
-        "clue": "Buddy the Elf's actual diagnosis",
-        "correctQuestion": "What is ADHD?",
-        "value": 1000
+        "clue": "What special name do we give to December 24th, the day before Christmas?",
+        "correctQuestion": "Christmas Eve",
+        "value": 200
       },
       {
-        "clue": "Christmas countdown song from Hell",
-        "correctQuestion": "What is Wonderful Christmastime?",
-        "value": 1000
+        "clue": "If December starts on a Friday, what day of the week is December 8th?",
+        "correctQuestion": "Friday",
+        "value": 200
       },
       {
-        "clue": "What Die Hard countdown really explores",
-        "correctQuestion": "What is toxic masculinity?",
-        "value": 1000
+        "clue": "How many minutes are in one hour of waiting for Christmas?",
+        "correctQuestion": "60",
+        "value": 200
       },
       {
-        "clue": "How Hallmark movies solve racism countdown",
-        "correctQuestion": "What is a Christmas party?",
-        "value": 1000
+        "clue": "If you open door number 10, how many more doors until door 12?",
+        "correctQuestion": "2",
+        "value": 200
       },
       {
-        "clue": "Bulk countdown shopping with free samples",
-        "correctQuestion": "What is Costco?",
-        "value": 1000
+        "clue": "How many hands does a clock have that helps us count down to Christmas?",
+        "correctQuestion": "2 (or 3 if counting the second hand)",
+        "value": 200
       },
       {
-        "clue": "What parents actually countdown to",
-        "correctQuestion": "What is January?",
-        "value": 1000
+        "clue": "If Christmas is 10 days away and you sleep through 2 nights, how many more sleeps until Christmas?",
+        "correctQuestion": "8",
+        "value": 200
       },
       {
-        "clue": "Real countdown goal per therapist",
-        "correctQuestion": "What is surviving family?",
-        "value": 1000
+        "clue": "If you have 3 Advent calendars with 24 doors each, how many total doors are there?",
+        "correctQuestion": "72",
+        "value": 200
+      },
+      {
+        "clue": "How many days are traditionally in an Advent calendar countdown?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "If today is December 15th, how many days until Christmas?",
+        "correctQuestion": "10",
+        "value": 200
+      },
+      {
+        "clue": "What is the first date you open on an Advent calendar?",
+        "correctQuestion": "December 1st",
+        "value": 200
+      },
+      {
+        "clue": "How many weeks are in the traditional Advent season?",
+        "correctQuestion": "4",
+        "value": 200
+      },
+      {
+        "clue": "If you've opened doors 1 through 18 on your Advent calendar, what percentage have you completed?",
+        "correctQuestion": "75%",
+        "value": 200
+      },
+      {
+        "clue": "How many hours are in the 24 days of an Advent calendar?",
+        "correctQuestion": "576",
+        "value": 200
+      },
+      {
+        "clue": "If Christmas is exactly 3 weeks and 3 days away, how many total days is that?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "What country is credited with creating the first printed Advent calendar in the early 1900s?",
+        "correctQuestion": "Germany",
+        "value": 200
+      },
+      {
+        "clue": "If you open 1 door per day starting December 1st, on what day of the week will you open door 7 if December 1st is a Monday?",
+        "correctQuestion": "Sunday",
+        "value": 200
+      },
+      {
+        "clue": "How many minutes are in the 24 days of Advent?",
+        "correctQuestion": "34,560",
+        "value": 200
+      },
+      {
+        "clue": "If an Advent calendar has doors numbered 1-24, what is the sum of all the door numbers?",
+        "correctQuestion": "300",
+        "value": 200
+      },
+      {
+        "clue": "What is the last Sunday before Christmas called in the Advent season?",
+        "correctQuestion": "The Fourth Sunday of Advent",
+        "value": 200
+      },
+      {
+        "clue": "If each Advent calendar door contains 15 grams of chocolate, how many total grams are in the calendar?",
+        "correctQuestion": "360",
+        "value": 200
+      },
+      {
+        "clue": "How many days are between December 1st and December 25th, inclusive?",
+        "correctQuestion": "25",
+        "value": 200
+      },
+      {
+        "clue": "If you have a 12-day Advent calendar that covers only the '12 Days of Christmas,' on what date would it start to end on Christmas?",
+        "correctQuestion": "December 14th",
+        "value": 200
+      },
+      {
+        "clue": "What is the average of all the door numbers on a 24-door Advent calendar?",
+        "correctQuestion": "12.5",
+        "value": 200
+      },
+      {
+        "clue": "If Christmas Day 2025 falls on a Thursday, what day of the week was December 1st, 2025?",
+        "correctQuestion": "Monday",
+        "value": 200
+      },
+      {
+        "clue": "How many seconds are in one day of the Advent countdown?",
+        "correctQuestion": "86,400",
+        "value": 200
+      },
+      {
+        "clue": "What word 'Advent' comes from a Latin word meaning what?",
+        "correctQuestion": "Coming or arrival",
+        "value": 200
+      },
+      {
+        "clue": "If you have calendars with 24, 25, and 31 doors (covering all of December), how many total doors?",
+        "correctQuestion": "80",
+        "value": 200
+      },
+      {
+        "clue": "What is the product of the first and last door numbers on an Advent calendar (1 × 24)?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "If Advent begins on the fourth Sunday before Christmas, and Christmas is on a Sunday, what date is the first Sunday of Advent? (Assume December)",
+        "correctQuestion": "December 4th",
+        "value": 200
+      },
+      {
+        "clue": "How many total hours from December 1st at midnight until Christmas morning at midnight?",
+        "correctQuestion": "576",
+        "value": 200
+      },
+      {
+        "clue": "What fraction of the Advent calendar is complete when you've opened 12 doors?",
+        "correctQuestion": "1/2 or one-half",
+        "value": 200
+      },
+      {
+        "clue": "If door 1 through 6 are on the first row of an Advent calendar, how many complete rows are in 24 doors?",
+        "correctQuestion": "4",
+        "value": 200
+      },
+      {
+        "clue": "What is 1/4 of the total doors on an Advent calendar?",
+        "correctQuestion": "6",
+        "value": 200
+      },
+      {
+        "clue": "If you skip every third door on your calendar (3, 6, 9...), how many doors do you skip total?",
+        "correctQuestion": "8",
+        "value": 200
+      },
+      {
+        "clue": "How many days from November 30th to December 24th (the Advent period)?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "If you arrange 24 Advent doors in a rectangle, what are two possible dimensions (length × width)?",
+        "correctQuestion": "4×6, 3×8, 2×12, 1×24 (any is correct)",
+        "value": 200
+      },
+      {
+        "clue": "If Advent Sunday is exactly 4 weeks before Christmas Day, and Christmas is December 25th, what is the earliest possible date for Advent Sunday?",
+        "correctQuestion": "November 27th",
+        "value": 200
+      },
+      {
+        "clue": "What is the median door number on a 24-door Advent calendar?",
+        "correctQuestion": "12.5",
+        "value": 200
+      },
+      {
+        "clue": "How many prime numbers are door numbers on an Advent calendar (1-24)?",
+        "correctQuestion": "9",
+        "value": 200
+      },
+      {
+        "clue": "If you open doors in reverse order (24, 23, 22...), what door do you open on day 10?",
+        "correctQuestion": "15",
+        "value": 200
+      },
+      {
+        "clue": "How many perfect square numbers are door numbers on an Advent calendar?",
+        "correctQuestion": "4 (1, 4, 9, 16)",
+        "value": 200
+      },
+      {
+        "clue": "What is the least common multiple (LCM) of 12 and 24?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "If each Advent door represents 1/24 of the countdown, what percentage does each door represent (rounded to nearest whole)?",
+        "correctQuestion": "4%",
+        "value": 200
+      },
+      {
+        "clue": "How many total days are in the period from December 1st through December 24th?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "In what year was the first known handmade Advent calendar created in Germany?",
+        "correctQuestion": "1851",
+        "value": 200
+      },
+      {
+        "clue": "What is the greatest common divisor (GCD) of 24 (Advent days) and 12 (months)?",
+        "correctQuestion": "12",
+        "value": 200
+      },
+      {
+        "clue": "If Christmas falls on the same day of the week every 400 years in the Gregorian calendar pattern, how many times does it cycle?",
+        "correctQuestion": "Once (every 400 years)",
+        "value": 200
+      },
+      {
+        "clue": "What is the sum of all multiples of 3 that are door numbers on an Advent calendar (3, 6, 9...)?",
+        "correctQuestion": "108",
+        "value": 200
+      },
+      {
+        "clue": "If Advent begins on the Sunday closest to November 30th, what is the latest possible date for the First Sunday of Advent?",
+        "correctQuestion": "December 3rd",
+        "value": 200
+      },
+      {
+        "clue": "How many factorial of 4 (4!) doors would an extended Advent calendar have?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "What percentage of December is covered by a traditional 24-door Advent calendar?",
+        "correctQuestion": "77.4% (or approximately 77%)",
+        "value": 200
+      },
+      {
+        "clue": "If you model the countdown as an arithmetic sequence from 24 to 1, what is the common difference?",
+        "correctQuestion": "-1",
+        "value": 200
+      },
+      {
+        "clue": "How many seconds are in the complete 24-day Advent period?",
+        "correctQuestion": "2,073,600",
+        "value": 200
+      },
+      {
+        "clue": "What is the probability of randomly selecting a prime number door on an Advent calendar?",
+        "correctQuestion": "9/24 or 3/8 or 37.5%",
+        "value": 200
+      },
+      {
+        "clue": "If each Advent candle (4 total) burns for 3 hours each Sunday, how many total candle-hours for the season?",
+        "correctQuestion": "48",
+        "value": 200
+      },
+      {
+        "clue": "What is the mode of the digits used in door numbers 1-24?",
+        "correctQuestion": "1 and 2 (both appear most frequently)",
+        "value": 200
+      },
+      {
+        "clue": "In the liturgical calendar, Advent can be how many days long at minimum?",
+        "correctQuestion": "22",
+        "value": 200
+      },
+      {
+        "clue": "What is the standard deviation of door opening times if each occurs exactly 24 hours apart?",
+        "correctQuestion": "0 (no variation)",
+        "value": 200
+      },
+      {
+        "clue": "If you arrange door numbers 1-24 in a 4×6 grid, what is the sum of the diagonal from top-left to bottom-right?",
+        "correctQuestion": "70 (1+8+15+22) assuming standard left-to-right, top-to-bottom numbering",
+        "value": 200
+      },
+      {
+        "clue": "What is the ratio of Advent days (24) to December days (31) in simplest form?",
+        "correctQuestion": "24:31",
+        "value": 200
+      },
+      {
+        "clue": "How many divisors does 24 (the number of Advent doors) have?",
+        "correctQuestion": "8 (1, 2, 3, 4, 6, 8, 12, 24)",
+        "value": 200
+      },
+      {
+        "clue": "What is the binary representation of 24?",
+        "correctQuestion": "11000",
+        "value": 200
+      },
+      {
+        "clue": "If you plot door numbers (x-axis) vs. days remaining (y-axis), what is the slope of the line?",
+        "correctQuestion": "-1",
+        "value": 200
+      },
+      {
+        "clue": "What is 24 expressed in hexadecimal?",
+        "correctQuestion": "18",
+        "value": 200
+      },
+      {
+        "clue": "If Advent calendars follow a Poisson distribution with λ=1 door per day, what is the expected value over 24 days?",
+        "correctQuestion": "24",
+        "value": 200
+      },
+      {
+        "clue": "What is the prime factorization of 24?",
+        "correctQuestion": "2³ × 3 or 2×2×2×3",
+        "value": 200
+      },
+      {
+        "clue": "How many composite numbers are door numbers on a 24-door Advent calendar?",
+        "correctQuestion": "14",
+        "value": 200
+      },
+      {
+        "clue": "What is the sum of only the even-numbered doors on an Advent calendar?",
+        "correctQuestion": "156",
+        "value": 200
+      },
+      {
+        "clue": "What is the sum of only the odd-numbered doors?",
+        "correctQuestion": "144",
+        "value": 200
+      },
+      {
+        "clue": "If you model the excitement level as exponential growth with base e, and it doubles every 6 days, what is the growth rate per day?",
+        "correctQuestion": "ln(2)/6 or approximately 0.1155",
+        "value": 200
+      },
+      {
+        "clue": "How many permutations are there of just the last 3 door numbers (22, 23, 24)?",
+        "correctQuestion": "6 (3! = 6)",
+        "value": 200
+      },
+      {
+        "clue": "What is 24 in Roman numerals?",
+        "correctQuestion": "XXIV",
+        "value": 200
+      },
+      {
+        "clue": "If each door represents a node in a graph and consecutive doors are connected, how many edges in this path graph?",
+        "correctQuestion": "23",
+        "value": 200
+      },
+      {
+        "clue": "What is the digital root of 300 (the sum of all door numbers 1-24)?",
+        "correctQuestion": "3",
+        "value": 200
+      },
+      {
+        "clue": "How many ways can you choose 2 doors from 24 (combination problem)?",
+        "correctQuestion": "276",
+        "value": 200
+      },
+      {
+        "clue": "What is the 24th triangular number?",
+        "correctQuestion": "300",
+        "value": 200
+      },
+      {
+        "clue": "If you create a sequence where each term is the sum of door numbers up to n, what is the value for n=10?",
+        "correctQuestion": "55",
+        "value": 200
+      },
+      {
+        "clue": "What is the modulo of the sum of all doors (300) when divided by the number of doors (24)?",
+        "correctQuestion": "12",
+        "value": 200
+      },
+      {
+        "clue": "In base 5, what is 24?",
+        "correctQuestion": "44",
+        "value": 200
+      },
+      {
+        "clue": "What is the etymological origin of 'Advent' from Latin?",
+        "correctQuestion": "Adventus, meaning 'coming' or 'arrival'",
+        "value": 200
+      },
+      {
+        "clue": "In the liturgical calendar, which Sunday marks the beginning of the Advent season?",
+        "correctQuestion": "The fourth Sunday before Christmas (Advent Sunday)",
+        "value": 200
+      },
+      {
+        "clue": "Who is credited with creating the first printed Advent calendar in 1908?",
+        "correctQuestion": "Gerhard Lang",
+        "value": 200
+      },
+      {
+        "clue": "How many candles are traditionally on an Advent wreath?",
+        "correctQuestion": "4 (or 5 if including the Christ candle)",
+        "value": 200
+      },
+      {
+        "clue": "What is the variance of a uniform distribution over the 24 Advent calendar doors?",
+        "correctQuestion": "Approximately 47.92 or (24²-1)/12",
+        "value": 200
+      },
+      {
+        "clue": "In the Western Christian tradition, what liturgical color is associated with Advent?",
+        "correctQuestion": "Purple or violet (sometimes blue)",
+        "value": 200
+      },
+      {
+        "clue": "What is the maximum possible length of Advent in the Western church calendar?",
+        "correctQuestion": "28 days (4 full weeks)",
+        "value": 200
+      },
+      {
+        "clue": "What year did commercial chocolate Advent calendars first appear?",
+        "correctQuestion": "1958",
+        "value": 200
+      },
+      {
+        "clue": "In number theory, is 24 a perfect number, abundant number, or deficient number?",
+        "correctQuestion": "Abundant number (divisors sum to 36)",
+        "value": 200
+      },
+      {
+        "clue": "What is the Euler's totient function φ(24)?",
+        "correctQuestion": "8",
+        "value": 200
+      },
+      {
+        "clue": "In Orthodox Christianity, how many days is the Nativity Fast (their Advent equivalent)?",
+        "correctQuestion": "40 days",
+        "value": 200
+      },
+      {
+        "clue": "What is the coefficient of variation for opening one door per day over 24 days?",
+        "correctQuestion": "0 (no variation in the rate)",
+        "value": 200
+      },
+      {
+        "clue": "In the Metonic cycle, how often does the same moon phase occur on Christmas Day?",
+        "correctQuestion": "Every 19 years",
+        "value": 200
+      },
+      {
+        "clue": "What is the sum of divisors function σ(24)?",
+        "correctQuestion": "60",
+        "value": 200
+      },
+      {
+        "clue": "In the Gregorian calendar reform of 1582, what was the impact on Advent timing?",
+        "correctQuestion": "10 days were skipped, but Advent Sunday calculation remained tied to Christmas",
+        "value": 200
+      },
+      {
+        "clue": "What is the automorphic number property of 24 in relation to its square?",
+        "correctQuestion": "24² = 576, which does not end in 24 (not automorphic)",
+        "value": 200
+      },
+      {
+        "clue": "In computational complexity, how many comparisons does bubble sort require for 24 items in worst case?",
+        "correctQuestion": "276 (n(n-1)/2)",
+        "value": 200
+      },
+      {
+        "clue": "What theological significance do the four Advent candles represent in Western tradition?",
+        "correctQuestion": "Hope, Peace, Joy, and Love (order may vary)",
+        "value": 200
+      },
+      {
+        "clue": "What is the partition function p(24)?",
+        "correctQuestion": "1,575 (number of ways to write 24 as sum of positive integers)",
+        "value": 200
+      },
+      {
+        "clue": "In the Julian calendar still used by some Orthodox churches, how many days different is Christmas from the Gregorian December 25?",
+        "correctQuestion": "13 days (January 7 Gregorian)",
+        "value": 200
+      },
+      {
+        "clue": "What is the aliquot sum of 24?",
+        "correctQuestion": "36",
+        "value": 200
+      },
+      {
+        "clue": "Using the Zeller's congruence formula, calculate the day of week for December 1, 2025.",
+        "correctQuestion": "Monday",
+        "value": 200
+      },
+      {
+        "clue": "What is the significance of 24 in the Leech lattice, the unique 24-dimensional lattice with exceptional properties?",
+        "correctQuestion": "It's the dimension of the densest known sphere packing in its dimension",
+        "value": 200
+      },
+      {
+        "clue": "What is 24 in octal (base 8)?",
+        "correctQuestion": "30",
+        "value": 200
+      },
+      {
+        "clue": "In early German tradition, what did children use to count down to Christmas before printed calendars?",
+        "correctQuestion": "Chalk marks on doors or candles",
+        "value": 200
+      },
+      {
+        "clue": "What is the harmonic mean of the numbers 1 through 24?",
+        "correctQuestion": "Approximately 6.39 or 24/(1+1/2+1/3+...+1/24)",
+        "value": 200
+      },
+      {
+        "clue": "What was the controversy around Advent calendars in WWII Germany?",
+        "correctQuestion": "Nazis created propaganda versions with 24 Nazi symbols instead of religious imagery",
+        "value": 200
+      },
+      {
+        "clue": "In group theory, what is the order of the symmetric group S₄?",
+        "correctQuestion": "24 (4! = 24)",
+        "value": 200
+      },
+      {
+        "clue": "What is the Ramanujan tau function τ(24)?",
+        "correctQuestion": "-52416",
+        "value": 200
+      },
+      {
+        "clue": "In which year did the first commercial Advent calendar appear in the United States?",
+        "correctQuestion": "1946 (imported from Germany)",
+        "value": 200
+      },
+      {
+        "clue": "What is the connection between 24 and the Monster group in mathematics?",
+        "correctQuestion": "The Leech lattice (24-dimensional) is used in the construction of the Monster group",
+        "value": 200
+      },
+      {
+        "clue": "Using the Gaussian formula for the sum of squares, what is 1² + 2² + 3² + ... + 24²?",
+        "correctQuestion": "4,900",
+        "value": 200
+      },
+      {
+        "clue": "What is the geographic mean of 1 and 24?",
+        "correctQuestion": "Approximately 4.899 or √24",
+        "value": 200
+      },
+      {
+        "clue": "In the Anglican tradition, what are the traditional Advent Collects focused on?",
+        "correctQuestion": "Christ's first and second coming, Scripture study, and preparation",
+        "value": 200
+      },
+      {
+        "clue": "What is the Möbius function μ(24)?",
+        "correctQuestion": "0 (24 has a squared prime factor)",
+        "value": 200
+      },
+      {
+        "clue": "In modular arithmetic, what is 24 ≡ ? (mod 7)?",
+        "correctQuestion": "3",
+        "value": 200
+      },
+      {
+        "clue": "In what decade did Advent calendars first become widely popular in America?",
+        "correctQuestion": "1950s",
+        "value": 200
+      },
+      {
+        "clue": "What traditional Advent practice involves lighting one candle each week?",
+        "correctQuestion": "The Advent wreath",
+        "value": 200
+      },
+      {
+        "clue": "What German publisher first mass-produced printed Advent calendars?",
+        "correctQuestion": "Reichhold & Lang",
+        "value": 200
+      },
+      {
+        "clue": "In medieval times, what did families mark with chalk to count down to Christmas?",
+        "correctQuestion": "Doors or walls (24 chalk marks)",
+        "value": 200
+      },
+      {
+        "clue": "What Biblical book is traditionally read during Advent in many liturgical churches?",
+        "correctQuestion": "Isaiah (prophecies of the Messiah)",
+        "value": 200
+      },
+      {
+        "clue": "What year was the first known handmade Advent calendar created by a German mother?",
+        "correctQuestion": "1851",
+        "value": 200
+      },
+      {
+        "clue": "What color is the third candle (Gaudete candle) on a traditional Advent wreath?",
+        "correctQuestion": "Pink or rose",
+        "value": 200
+      },
+      {
+        "clue": "During WWII, what happened to Advent calendar production in Germany?",
+        "correctQuestion": "Production was banned or converted to propaganda use",
+        "value": 200
+      },
+      {
+        "clue": "What is the traditional German name for Advent calendars?",
+        "correctQuestion": "Adventskalender",
+        "value": 200
+      },
+      {
+        "clue": "What 19th-century Lutheran practice involved children earning stars on a calendar for good behavior?",
+        "correctQuestion": "The Advent star calendar or behavior chart",
+        "value": 200
+      },
+      {
+        "clue": "In Catholic tradition, what does the O Antiphon period during Advent refer to?",
+        "correctQuestion": "Seven special antiphons sung December 17-23 (starting with 'O')",
+        "value": 200
+      },
+      {
+        "clue": "What British tradition involves marking Advent with a candle that burns down each day?",
+        "correctQuestion": "The Advent candle with 24 daily markings",
+        "value": 200
+      },
+      {
+        "clue": "When did President Eisenhower receive the first Advent calendar presented to a US President?",
+        "correctQuestion": "1953",
+        "value": 200
+      },
+      {
+        "clue": "What Scandinavian tradition involves 24 small gifts or the 'julkalender'?",
+        "correctQuestion": "The Swedish/Nordic Advent calendar tradition with daily small presents",
+        "value": 200
+      },
+      {
+        "clue": "What was Gerhard Lang's mother's method of counting to Christmas that inspired his calendar?",
+        "correctQuestion": "She sewed 24 small cookies onto cardboard for him to eat daily",
+        "value": 200
+      },
+      {
+        "clue": "In Eastern Orthodox tradition, what is the Nativity Fast called?",
+        "correctQuestion": "The Philipine Fast or Philipovka",
+        "value": 200
+      },
+      {
+        "clue": "What year did Cadbury release the first chocolate Advent calendar in the UK?",
+        "correctQuestion": "1958",
+        "value": 200
+      },
+      {
+        "clue": "What is the theological significance of Advent being approximately 4 weeks?",
+        "correctQuestion": "Represents 4,000 years of waiting for the Messiah (medieval interpretation)",
+        "value": 200
+      },
+      {
+        "clue": "What Austrian tradition uses a 'Klaubauf' figure during Advent?",
+        "correctQuestion": "A companion to St. Nicholas who visits during the Advent season",
+        "value": 200
+      },
+      {
+        "clue": "What Council of Tours (567 AD) decision affected the modern Advent season length?",
+        "correctQuestion": "It established a fasting period from November 11 to Christmas (later shortened)",
+        "value": 200
+      },
+      {
+        "clue": "In the Ambrosian Rite (Milan), how many weeks is Advent?",
+        "correctQuestion": "6 weeks",
+        "value": 200
+      },
+      {
+        "clue": "What is the 'Rorate Mass' celebrated during Advent?",
+        "correctQuestion": "Early morning candlelit Mass honoring the Virgin Mary",
+        "value": 200
+      },
+      {
+        "clue": "Who was Richard Sellmer, important to Advent calendar history?",
+        "correctQuestion": "German publisher who revived Advent calendars after WWII in 1946",
+        "value": 200
+      },
+      {
+        "clue": "What popular Advent hymn begins with 'O come, O come, Emmanuel'?",
+        "correctQuestion": "Veni, Veni, Emmanuel",
+        "value": 200
+      },
+      {
+        "clue": "What does the evergreen of an Advent wreath symbolize?",
+        "correctQuestion": "Eternal life or God's enduring presence",
+        "value": 200
+      },
+      {
+        "clue": "In which century did the Advent season become standardized at four weeks?",
+        "correctQuestion": "6th century (by Pope Gregory I)",
+        "value": 200
+      },
+      {
+        "clue": "What is the 'Jesse Tree' used during Advent?",
+        "correctQuestion": "A tree decorated daily with ornaments representing Christ's ancestry",
+        "value": 200
+      },
+      {
+        "clue": "What Advent devotional practice involves daily Scripture readings called?",
+        "correctQuestion": "Advent devotional or Advent daily readings",
+        "value": 200
+      },
+      {
+        "clue": "What is the significance of St. Andrew's Day (Nov 30) to Advent?",
+        "correctQuestion": "It's near the earliest possible start of Advent season",
+        "value": 200
+      },
+      {
+        "clue": "What was the 'Advent House' tradition in 19th century Germany?",
+        "correctQuestion": "A cardboard house with 24 windows lit by candle inside",
+        "value": 200
+      },
+      {
+        "clue": "What is the 'Golden Advent' in some Lutheran traditions?",
+        "correctQuestion": "When Advent Sunday falls on November 27, the earliest possible date",
+        "value": 200
+      },
+      {
+        "clue": "What medieval practice involved 'Advent Ember Days'?",
+        "correctQuestion": "Days of fasting and ordination during the third week of Advent",
+        "value": 200
+      },
+      {
+        "clue": "What do the four outer candles of an Advent wreath typically represent?",
+        "correctQuestion": "The four weeks of Advent (or Hope, Peace, Joy, Love)",
+        "value": 200
+      },
+      {
+        "clue": "What is the 'St. Martin's Fast' that preceded modern Advent?",
+        "correctQuestion": "A 40-day fast from November 11 to Christmas, similar to Lent",
+        "value": 200
+      },
+      {
+        "clue": "What is the 'Advent Prose' or 'Advent Antiphon' sung in some Anglican churches?",
+        "correctQuestion": "Drop down, ye heavens (Rorate Coeli)",
+        "value": 200
+      },
+      {
+        "clue": "What was the practice of 'Advent fasting' or 'St. Philip's Fast' in the Eastern Church?",
+        "correctQuestion": "40-day fast beginning November 15, ending Christmas",
+        "value": 200
       }
-    ]
-  },
-  "metadata": {
-    "generated_date": "2025-12-26",
-    "format": "jeopardy_style",
-    "difficulty_levels": [100, 200, 300, 400, 500],
-    "mathematical_connections": [
-      "Basic counting and number recognition",
-      "Addition and subtraction with calendar dates",
-      "Multiplication and division with time conversion",
-      "Fractions and percentages",
-      "Sequences and patterns",
-      "Statistics (mean, median, mode, variance)",
-      "Number theory (primes, factors, GCD, LCM)",
-      "Advanced mathematics (group theory, partition functions, lattices)"
     ],
-    "educational_value": "Combines Christmas tradition knowledge with mathematical thinking across age groups, from basic counting for young children to advanced number theory for adults"
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
   }
 }

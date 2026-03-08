@@ -1,307 +1,163 @@
 {
   "category": "New Year's Eve Toast & Celebration",
-  "regular": [
-    {
-      "clue": "The most common New Year's Eve beverage",
-      "correctQuestion": "What is champagne?",
-      "value": 200
-    },
-    {
-      "clue": "The act of raising glasses together in celebration",
-      "correctQuestion": "What is toasting?",
-      "value": 200
-    },
-    {
-      "clue": "The moment when fireworks typically explode on New Year's",
-      "correctQuestion": "What is midnight?",
-      "value": 200
-    },
-    {
-      "clue": "The resolution you make but break by February",
-      "correctQuestion": "What is a New Year's resolution?",
-      "value": 200
-    },
-    {
-      "clue": "The glittery stuff thrown at midnight celebrations",
-      "correctQuestion": "What is confetti?",
-      "value": 200
-    },
-    {
-      "clue": "The famous ball that drops in Times Square",
-      "correctQuestion": "What is the crystal ball?",
-      "value": 200
-    },
-    {
-      "clue": "The romantic gesture at midnight on New Year's Eve",
-      "correctQuestion": "What is a kiss?",
-      "value": 200
-    },
-    {
-      "clue": "The countdown everyone does before midnight",
-      "correctQuestion": "What is 10, 9, 8, 7...?",
-      "value": 200
-    },
-    {
-      "clue": "The traditional song sung at New Year's parties",
-      "correctQuestion": "What is Auld Lang Syne?",
-      "value": 200
-    },
-    {
-      "clue": "The number of minutes until the new year arrives",
-      "correctQuestion": "What is 60 minutes?",
-      "value": 200
-    },
-    {
-      "clue": "What people drink from during New Year's toasts",
-      "correctQuestion": "What is a glass?",
-      "value": 200
-    },
-    {
-      "clue": "The sound of corks popping at midnight",
-      "correctQuestion": "What is a pop?",
-      "value": 200
-    },
-    {
-      "clue": "What happens at 11:59:59 PM on December 31st",
-      "correctQuestion": "What is anticipation?",
-      "value": 200
-    },
-    {
-      "clue": "The year that just ended",
-      "correctQuestion": "What is 2025?",
-      "value": 200
-    },
-    {
-      "clue": "The year that just began",
-      "correctQuestion": "What is 2026?",
-      "value": 200
-    },
-    {
-      "clue": "The dress code for upscale New Year's Eve parties",
-      "correctQuestion": "What is black tie?",
-      "value": 200
-    },
-    {
-      "clue": "The venue where many toast the new year",
-      "correctQuestion": "What is a bar?",
-      "value": 200
-    },
-    {
-      "clue": "What typically follows a New Year's toast",
-      "correctQuestion": "What is clinking glasses?",
-      "value": 200
-    },
-    {
-      "clue": "The sparkling wine associated with celebrations",
-      "correctQuestion": "What is Champagne?",
-      "value": 200
-    },
-    {
-      "clue": "The person making a toast at a party",
-      "correctQuestion": "What is the host?",
-      "value": 200
-    },
-    {
-      "clue": "The sentiment shared in New Year's toasts",
-      "correctQuestion": "What is hope for the future?",
-      "value": 200
-    },
-    {
-      "clue": "The confetti and streamers falling during celebrations",
-      "correctQuestion": "What is festive decoration?",
-      "value": 200
-    },
-    {
-      "clue": "What people wear on their heads at midnight",
-      "correctQuestion": "What are party hats?",
-      "value": 200
-    },
-    {
-      "clue": "The noise makers blown at midnight",
-      "correctQuestion": "What are party horns?",
-      "value": 200
-    },
-    {
-      "clue": "The tradition of watching the ball drop",
-      "correctQuestion": "What is a New Year's Eve broadcast?",
-      "value": 200
-    },
-    {
-      "clue": "The message on greeting cards at New Year's",
-      "correctQuestion": "What is Happy New Year?",
-      "value": 200
-    },
-    {
-      "clue": "The celebratory words said at midnight",
-      "correctQuestion": "What is Cheers?",
-      "value": 200
-    },
-    {
-      "clue": "The number of seconds in a minute before midnight",
-      "correctQuestion": "What is 60?",
-      "value": 200
-    },
-    {
-      "clue": "The feeling when the new year arrives",
-      "correctQuestion": "What is excitement?",
-      "value": 200
-    },
-    {
-      "clue": "The alcoholic drink served at celebrations",
-      "correctQuestion": "What is wine?",
-      "value": 200
-    }
-  ],
-  "no_humanity": [
-    {
-      "clue": "What kills the New Year's Eve vibe faster than COVID",
-      "correctQuestion": "What is realizing it's still 2026?",
-      "value": 200
-    },
-    {
-      "clue": "Why your New Year's toast always gets interrupted",
-      "correctQuestion": "What is your drunk uncle?",
-      "value": 200
-    },
-    {
-      "clue": "What actually happens at midnight instead of fireworks",
-      "correctQuestion": "What is checking your stock portfolio?",
-      "value": 200
-    },
-    {
-      "clue": "The real reason people say Auld Lang Syne",
-      "correctQuestion": "What is because they have no idea what the words mean?",
-      "value": 200
-    },
-    {
-      "clue": "What you're really toasting to when saying 'better year ahead'",
-      "correctQuestion": "What is student loan forgiveness?",
-      "value": 200
-    },
-    {
-      "clue": "How Gen Z celebrates New Year's at midnight",
-      "correctQuestion": "What is TikTok dancing silently in their room?",
-      "value": 200
-    },
-    {
-      "clue": "The champagne brand your cheap boss buys for the office toast",
-      "correctQuestion": "What is Barefoot?",
-      "value": 200
-    },
-    {
-      "clue": "What you're actually thinking during the midnight countdown",
-      "correctQuestion": "What is 'I should be in bed'?",
-      "value": 200
-    },
-    {
-      "clue": "The most believable New Year's resolution",
-      "correctQuestion": "What is drinking less?",
-      "value": 200
-    },
-    {
-      "clue": "What replaces genuine happiness at New Year's 2026",
-      "correctQuestion": "What is crushing existential dread?",
-      "value": 200
-    },
-    {
-      "clue": "Why you're really toasting with flat champagne that costs $3",
-      "correctQuestion": "What is crippling inflation?",
-      "value": 400
-    },
-    {
-      "clue": "The most honest New Year's toast from a millennial",
-      "correctQuestion": "What is 'here's to affording rent'?",
-      "value": 400
-    },
-    {
-      "clue": "What Elon Musk toasts to at midnight",
-      "correctQuestion": "What is Dogecoin?",
-      "value": 400
-    },
-    {
-      "clue": "The only resolution that actually sticks for Americans",
-      "correctQuestion": "What is ordering DoorDash?",
-      "value": 400
-    },
-    {
-      "clue": "What happens to 87% of New Year's toasts by January 3rd",
-      "correctQuestion": "What is complete abandonment?",
-      "value": 400
-    },
-    {
-      "clue": "Why nobody actually drinks that fancy champagne at the toast",
-      "correctQuestion": "What is hangovers starting at 12:00:01 AM?",
-      "value": 400
-    },
-    {
-      "clue": "The last honest words before midnight gets weird",
-      "correctQuestion": "What is 'I'm leaving in 20 minutes'?",
-      "value": 400
-    },
-    {
-      "clue": "What the New Year's toast really celebrates",
-      "correctQuestion": "What is surviving another year of chaos?",
-      "value": 400
-    },
-    {
-      "clue": "The AI-generated emotional moment of the New Year's toast",
-      "correctQuestion": "What is everyone staring at their phones?",
-      "value": 400
-    },
-    {
-      "clue": "What people actually mean when they say 'new year new me'",
-      "correctQuestion": "What is same year same dysfunction?",
-      "value": 400
-    },
-    {
-      "clue": "The most depressing part of the midnight countdown",
-      "correctQuestion": "What is realizing it's just another day?",
-      "value": 400
-    },
-    {
-      "clue": "Why your New Year's Eve toast tastes like regret",
-      "correctQuestion": "What is mixing champagne with Venmo requests?",
-      "value": 400
-    },
-    {
-      "clue": "The unspoken truth in every New Year's toast",
-      "correctQuestion": "What is 'please let this year suck less'?",
-      "value": 400
-    },
-    {
-      "clue": "What Taylor Swift toasts to at midnight",
-      "correctQuestion": "What is her next ex?",
-      "value": 400
-    },
-    {
-      "clue": "The reason fireworks sound like PTSD at midnight",
-      "correctQuestion": "What is too many shots at 11:55 PM?",
-      "value": 400
-    },
-    {
-      "clue": "What actually gets raised higher than champagne glasses at midnight",
-      "correctQuestion": "What is anxiety levels?",
-      "value": 600
-    },
-    {
-      "clue": "The unsaid expectation in the New Year's midnight kiss",
-      "correctQuestion": "What is hoping they don't ghost you by January 2nd?",
-      "value": 600
-    },
-    {
-      "clue": "What Elon Musk is really toasting to after acquiring everything",
-      "correctQuestion": "What is completing his villain origin story?",
-      "value": 600
-    },
-    {
-      "clue": "The actual meaning of 'happy new year' to a therapist",
-      "correctQuestion": "What is 'bill me more frequently'?",
-      "value": 600
-    },
-    {
-      "clue": "What nobody wants to toast to but everyone's secretly thinking",
-      "correctQuestion": "What is 'maybe 2026 is the year we hit reset'?",
-      "value": 600
-    }
-  ]
+  "theme": "newyear",
+  "category_id": "newyear_toast",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "The most common New Year's Eve beverage",
+        "correctQuestion": "What is champagne?",
+        "value": 200
+      },
+      {
+        "clue": "The act of raising glasses together in celebration",
+        "correctQuestion": "What is toasting?",
+        "value": 200
+      },
+      {
+        "clue": "The moment when fireworks typically explode on New Year's",
+        "correctQuestion": "What is midnight?",
+        "value": 200
+      },
+      {
+        "clue": "The resolution you make but break by February",
+        "correctQuestion": "What is a New Year's resolution?",
+        "value": 200
+      },
+      {
+        "clue": "The glittery stuff thrown at midnight celebrations",
+        "correctQuestion": "What is confetti?",
+        "value": 200
+      },
+      {
+        "clue": "The famous ball that drops in Times Square",
+        "correctQuestion": "What is the crystal ball?",
+        "value": 200
+      },
+      {
+        "clue": "The romantic gesture at midnight on New Year's Eve",
+        "correctQuestion": "What is a kiss?",
+        "value": 200
+      },
+      {
+        "clue": "The countdown everyone does before midnight",
+        "correctQuestion": "What is 10, 9, 8, 7...?",
+        "value": 200
+      },
+      {
+        "clue": "The traditional song sung at New Year's parties",
+        "correctQuestion": "What is Auld Lang Syne?",
+        "value": 200
+      },
+      {
+        "clue": "The number of minutes until the new year arrives",
+        "correctQuestion": "What is 60 minutes?",
+        "value": 200
+      },
+      {
+        "clue": "What people drink from during New Year's toasts",
+        "correctQuestion": "What is a glass?",
+        "value": 200
+      },
+      {
+        "clue": "The sound of corks popping at midnight",
+        "correctQuestion": "What is a pop?",
+        "value": 200
+      },
+      {
+        "clue": "What happens at 11:59:59 PM on December 31st",
+        "correctQuestion": "What is anticipation?",
+        "value": 200
+      },
+      {
+        "clue": "The year that just ended",
+        "correctQuestion": "What is 2025?",
+        "value": 200
+      },
+      {
+        "clue": "The year that just began",
+        "correctQuestion": "What is 2026?",
+        "value": 200
+      },
+      {
+        "clue": "The dress code for upscale New Year's Eve parties",
+        "correctQuestion": "What is black tie?",
+        "value": 200
+      },
+      {
+        "clue": "The venue where many toast the new year",
+        "correctQuestion": "What is a bar?",
+        "value": 200
+      },
+      {
+        "clue": "What typically follows a New Year's toast",
+        "correctQuestion": "What is clinking glasses?",
+        "value": 200
+      },
+      {
+        "clue": "The sparkling wine associated with celebrations",
+        "correctQuestion": "What is Champagne?",
+        "value": 200
+      },
+      {
+        "clue": "The person making a toast at a party",
+        "correctQuestion": "What is the host?",
+        "value": 200
+      },
+      {
+        "clue": "The sentiment shared in New Year's toasts",
+        "correctQuestion": "What is hope for the future?",
+        "value": 200
+      },
+      {
+        "clue": "The confetti and streamers falling during celebrations",
+        "correctQuestion": "What is festive decoration?",
+        "value": 200
+      },
+      {
+        "clue": "What people wear on their heads at midnight",
+        "correctQuestion": "What are party hats?",
+        "value": 200
+      },
+      {
+        "clue": "The noise makers blown at midnight",
+        "correctQuestion": "What are party horns?",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of watching the ball drop",
+        "correctQuestion": "What is a New Year's Eve broadcast?",
+        "value": 200
+      },
+      {
+        "clue": "The message on greeting cards at New Year's",
+        "correctQuestion": "What is Happy New Year?",
+        "value": 200
+      },
+      {
+        "clue": "The celebratory words said at midnight",
+        "correctQuestion": "What is Cheers?",
+        "value": 200
+      },
+      {
+        "clue": "The number of seconds in a minute before midnight",
+        "correctQuestion": "What is 60?",
+        "value": 200
+      },
+      {
+        "clue": "The feeling when the new year arrives",
+        "correctQuestion": "What is excitement?",
+        "value": 200
+      },
+      {
+        "clue": "The alcoholic drink served at celebrations",
+        "correctQuestion": "What is wine?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [],
+    "teenagers": [],
+    "adults": [],
+    "no_humanity": []
+  }
 }
