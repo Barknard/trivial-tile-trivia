@@ -1,0 +1,310 @@
+{
+  "category": "Birthday Piñatas & Party Activities",
+  "theme": "birthday",
+  "category_id": "birthday_pinatas",
+  "research_basis": "Party tradition history, motor skill development, social engagement, celebration customs, cultural traditions",
+  "regular": [
+    {
+      "clue": "This Mexican party tradition is filled with candy and beaten with a stick",
+      "correctQuestion": "What is a piñata?",
+      "value": 200
+    },
+    {
+      "clue": "The cloth used to cover someone's eyes before hitting a piñata",
+      "correctQuestion": "What is a blindfold?",
+      "value": 200
+    },
+    {
+      "clue": "This activity has guests scrambling on the ground for scattered candy",
+      "correctQuestion": "What is a candy scramble?",
+      "value": 200
+    },
+    {
+      "clue": "The stick used to break open a piñata",
+      "correctQuestion": "What is a bat?",
+      "value": 200
+    },
+    {
+      "clue": "The prize items that spill out of a piñata when it breaks",
+      "correctQuestion": "What is candy?",
+      "value": 200
+    },
+    {
+      "clue": "This outdoor game involves running to collect numbered items",
+      "correctQuestion": "What is a scavenger hunt?",
+      "value": 200
+    },
+    {
+      "clue": "The song often played while waiting for your turn at the piñata",
+      "correctQuestion": "What is 'Happy Birthday'?",
+      "value": 200
+    },
+    {
+      "clue": "The papier-mâché animal or character shaped like this party decoration",
+      "correctQuestion": "What is a piñata?",
+      "value": 200
+    },
+    {
+      "clue": "This relay race has teams passing a baton",
+      "correctQuestion": "What is a relay race?",
+      "value": 200
+    },
+    {
+      "clue": "The decorative items you arrange before breaking the piñata",
+      "correctQuestion": "What are streamers?",
+      "value": 200
+    },
+    {
+      "clue": "This game has you spinning and trying to tag someone",
+      "correctQuestion": "What is tag?",
+      "value": 400
+    },
+    {
+      "clue": "The traditional age when children learn to participate in piñata traditions",
+      "correctQuestion": "What is 5 years old?",
+      "value": 400
+    },
+    {
+      "clue": "This party game involves musical chairs elimination",
+      "correctQuestion": "What is musical chairs?",
+      "value": 400
+    },
+    {
+      "clue": "The hand gesture you make when you want to catch candy falling down",
+      "correctQuestion": "What is cupping your hands?",
+      "value": 400
+    },
+    {
+      "clue": "This game uses chalk to draw a numbered grid on the ground",
+      "correctQuestion": "What is hopscotch?",
+      "value": 400
+    },
+    {
+      "clue": "The spicy Mexican candy often found in traditional piñatas",
+      "correctQuestion": "What is tamarindo or chili candy?",
+      "value": 400
+    },
+    {
+      "clue": "This party game requires everyone to sit down when music stops",
+      "correctQuestion": "What is freeze dance?",
+      "value": 400
+    },
+    {
+      "clue": "The rope or stick positioned in the middle of this game",
+      "correctQuestion": "What is jump rope?",
+      "value": 400
+    },
+    {
+      "clue": "This team sport uses balls, goals, and coordinated players",
+      "correctQuestion": "What is soccer?",
+      "value": 400
+    },
+    {
+      "clue": "The number of times you usually swing at a piñata before others try",
+      "correctQuestion": "What is three?",
+      "value": 400
+    },
+    {
+      "clue": "This water activity involves tossing balls at targets",
+      "correctQuestion": "What is water balloon toss?",
+      "value": 600
+    },
+    {
+      "clue": "The challenge game where you complete silly tasks without laughing",
+      "correctQuestion": "What is the challenge game?",
+      "value": 600
+    },
+    {
+      "clue": "This party favor game has everyone searching for hidden paper items",
+      "correctQuestion": "What is a treasure hunt?",
+      "value": 600
+    },
+    {
+      "clue": "The coordination skill tested when trying to hit a swinging piñata",
+      "correctQuestion": "What is hand-eye coordination?",
+      "value": 600
+    },
+    {
+      "clue": "This race requires teamwork with legs tied together",
+      "correctQuestion": "What is a three-legged race?",
+      "value": 600
+    },
+    {
+      "clue": "The traditional dance where kids hold hands in a circle",
+      "correctQuestion": "What is the conga line?",
+      "value": 600
+    },
+    {
+      "clue": "This elimination game has everyone standing and moving to music",
+      "correctQuestion": "What is duck duck goose?",
+      "value": 600
+    },
+    {
+      "clue": "The celebration moment when everyone sings and you make a wish",
+      "correctQuestion": "What is blowing out candles?",
+      "value": 600
+    },
+    {
+      "clue": "This outdoor activity involves rolling a ball into holes",
+      "correctQuestion": "What is croquet?",
+      "value": 800
+    },
+    {
+      "clue": "The party game where you balance objects while blindfolded",
+      "correctQuestion": "What is pin the tail?",
+      "value": 800
+    }
+  ],
+  "cah_no_humanity": [
+    {
+      "clue": "What kids actually are when beating a piñata",
+      "correctQuestion": "What is feral animals?",
+      "value": 200
+    },
+    {
+      "clue": "The real reason piñatas are blindfolded for the bash",
+      "correctQuestion": "What is so they don't see the betrayal?",
+      "value": 200
+    },
+    {
+      "clue": "What gets broken first at parties: the piñata or your will to live?",
+      "correctQuestion": "What is your will to live?",
+      "value": 200
+    },
+    {
+      "clue": "The only thing more fragile than a piñata",
+      "correctQuestion": "What is a child's emotional state after losing candy?",
+      "value": 200
+    },
+    {
+      "clue": "What the piñata represents to kids",
+      "correctQuestion": "What is a prison of delicious treasures?",
+      "value": 200
+    },
+    {
+      "clue": "The gig economy job that replaced hitting piñatas for candy",
+      "correctQuestion": "What is working at a concession stand?",
+      "value": 200
+    },
+    {
+      "clue": "Why kids elbow each other during candy scrambles",
+      "correctQuestion": "What is survival of the fittest?",
+      "value": 200
+    },
+    {
+      "clue": "What a candy scramble teaches children about economics",
+      "correctQuestion": "What is competition and hoarding behavior?",
+      "value": 200
+    },
+    {
+      "clue": "The app that replaced gathering for piñata parties",
+      "correctQuestion": "What is DoorDash candy delivery?",
+      "value": 200
+    },
+    {
+      "clue": "How divorced parents handle piñata custody battles",
+      "correctQuestion": "What is two piñatas?",
+      "value": 200
+    },
+    {
+      "clue": "The influencer who monetized piñata content for TikTok",
+      "correctQuestion": "What is someone's side hustle?",
+      "value": 400
+    },
+    {
+      "clue": "What happens to the piñata in a helicopter parent household",
+      "correctQuestion": "What is it gets removed for safety reasons?",
+      "value": 400
+    },
+    {
+      "clue": "The participation trophy version of piñata candies",
+      "correctQuestion": "What is everyone gets the same amount?",
+      "value": 400
+    },
+    {
+      "clue": "Why Amazon's piñata delivery costs more than the piñata itself",
+      "correctQuestion": "What is same-day rush fees?",
+      "value": 400
+    },
+    {
+      "clue": "The wealth inequality lesson taught by piñatas",
+      "correctQuestion": "What is whoever swings first wins?",
+      "value": 400
+    },
+    {
+      "clue": "What the stick represents in modern parenting",
+      "correctQuestion": "What is an outdated symbol of chaos?",
+      "value": 400
+    },
+    {
+      "clue": "How allergic kids feel watching others eat piñata candy",
+      "correctQuestion": "What is left out and bitter?",
+      "value": 400
+    },
+    {
+      "clue": "The pandemic update to traditional piñatas",
+      "correctQuestion": "What is hand sanitizer dispensers shaped like animals?",
+      "value": 400
+    },
+    {
+      "clue": "Why vegan kids refuse to hit piñatas",
+      "correctQuestion": "What is because they're shaped like adorable animals?",
+      "value": 400
+    },
+    {
+      "clue": "The awkward moment after someone gets hit by the piñata stick",
+      "correctQuestion": "What is silent judgment from other parents?",
+      "value": 400
+    },
+    {
+      "clue": "What candy scrambles reveal about your parenting style",
+      "correctQuestion": "What is nothing good?",
+      "value": 600
+    },
+    {
+      "clue": "The Karen version of piñata complaints",
+      "correctQuestion": "What is demanding to speak to the piñata designer?",
+      "value": 600
+    },
+    {
+      "clue": "Why billionaires skip the candy scramble",
+      "correctQuestion": "What is they already hoard everything?",
+      "value": 600
+    },
+    {
+      "clue": "The supply chain lesson learned from piñata shortages",
+      "correctQuestion": "What is inflation affects everything?",
+      "value": 600
+    },
+    {
+      "clue": "How Gen Z protests piñatas at parties",
+      "correctQuestion": "What is posts about animal exploitation?",
+      "value": 600
+    },
+    {
+      "clue": "Why therapy sessions often mention childhood piñata trauma",
+      "correctQuestion": "What is unprocessed candy competition?",
+      "value": 600
+    },
+    {
+      "clue": "The real hidden prize in a piñata filled with your expectations",
+      "correctQuestion": "What is disappointment?",
+      "value": 600
+    },
+    {
+      "clue": "What makes candy scrambles the perfect metaphor for society",
+      "correctQuestion": "What is everyone fighting over limited resources?",
+      "value": 600
+    },
+    {
+      "clue": "Why insurance companies fear piñata birthday parties",
+      "correctQuestion": "What is liability from wild children?",
+      "value": 800
+    },
+    {
+      "clue": "The ultimate party activity that replaced piñatas in luxury homes",
+      "correctQuestion": "What is a private candy dealer?",
+      "value": 800
+    }
+  ]
+}

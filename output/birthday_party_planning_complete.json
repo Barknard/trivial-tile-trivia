@@ -1,0 +1,928 @@
+{
+  "category": "Birthday Party Planning",
+  "theme": "event_planning",
+  "category_id": "birthday_party_planning",
+  "description": "Event planning, organization, budgeting, logistics, party preparation, scheduling, vendor management, guest coordination, and practical mathematics for birthday celebrations",
+  "age_suitability": "All ages",
+  "research_alignment": "Executive function, planning skills, practical mathematics, organizational behavior, budgeting and financial planning, logistics management, communication skills, time management, decision-making",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "research_sources": [
+    "Event Planning Mathematics: Cost calculations, catering per-person pricing, rental logistics",
+    "Executive Function: Planning skills, organization, decision-making under constraints",
+    "Practical Mathematics: Budgeting, fractions, percentages, measurements, venue capacity calculations",
+    "Event Management Best Practices: Timeline development, contingency planning, vendor coordination"
+  ],
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "You need this many people to have a birthday party",
+        "correctQuestion": "What is more than one?",
+        "value": 200
+      },
+      {
+        "clue": "This is what you do when you plan a party - you think ahead",
+        "correctQuestion": "What is planning?",
+        "value": 200
+      },
+      {
+        "clue": "This is the day your party happens",
+        "correctQuestion": "What is your birthday?",
+        "value": 200
+      },
+      {
+        "clue": "You make a list of all the people who will come to your party",
+        "correctQuestion": "What is a guest list?",
+        "value": 200
+      },
+      {
+        "clue": "This money is what you spend on your birthday party",
+        "correctQuestion": "What is a budget?",
+        "value": 200
+      },
+      {
+        "clue": "You send this to people to invite them to your party",
+        "correctQuestion": "What is an invitation?",
+        "value": 200
+      },
+      {
+        "clue": "This is where your birthday party happens",
+        "correctQuestion": "What is a location or venue?",
+        "value": 200
+      },
+      {
+        "clue": "These are the things you need to do to get ready for the party",
+        "correctQuestion": "What are tasks or chores?",
+        "value": 200
+      },
+      {
+        "clue": "You need this much time to plan a really good party",
+        "correctQuestion": "What is advance time or a few weeks?",
+        "value": 200
+      },
+      {
+        "clue": "This is the plan for what happens during your party from start to finish",
+        "correctQuestion": "What is a schedule or agenda?",
+        "value": 200
+      },
+      {
+        "clue": "You count these to see how much money you have to spend",
+        "correctQuestion": "What are dollars or coins?",
+        "value": 400
+      },
+      {
+        "clue": "This person helps deliver the birthday cake you ordered",
+        "correctQuestion": "What is a baker or delivery person?",
+        "value": 400
+      },
+      {
+        "clue": "You write this down to remember all the things you need to buy",
+        "correctQuestion": "What is a shopping list or checklist?",
+        "value": 400
+      },
+      {
+        "clue": "This is the day before your party when you check if everything is ready",
+        "correctQuestion": "What is the day before or preparation day?",
+        "value": 400
+      },
+      {
+        "clue": "You do this to tell your friends when and where the party is",
+        "correctQuestion": "What is send an invitation or tell them?",
+        "value": 400
+      },
+      {
+        "clue": "This tells you what day the party is and what time it starts",
+        "correctQuestion": "What is the date and time?",
+        "value": 400
+      },
+      {
+        "clue": "You count these to know how much food to buy",
+        "correctQuestion": "What are the number of guests?",
+        "value": 400
+      },
+      {
+        "clue": "This is something you decide on before you plan anything - like a superhero theme",
+        "correctQuestion": "What is a theme?",
+        "value": 400
+      },
+      {
+        "clue": "You buy more than you think you need in case people eat extra",
+        "correctQuestion": "What is extra food?",
+        "value": 400
+      },
+      {
+        "clue": "This is when things go wrong and you have a backup plan",
+        "correctQuestion": "What is a problem or emergency?",
+        "value": 400
+      },
+      {
+        "clue": "You do this at the party to make sure all the guests have fun",
+        "correctQuestion": "What is coordinate activities or manage the party?",
+        "value": 600
+      },
+      {
+        "clue": "This is a list of people who said they will come to your party",
+        "correctQuestion": "What are RSVP confirmations or yes responses?",
+        "value": 600
+      },
+      {
+        "clue": "You use these to hold decorations like balloons and banners at the party",
+        "correctQuestion": "What is tape, string, or clips?",
+        "value": 600
+      },
+      {
+        "clue": "This is the person who brings the food or decorations to your party venue",
+        "correctQuestion": "What is a vendor or service provider?",
+        "value": 600
+      },
+      {
+        "clue": "You need to know this about each guest so you can plan the right amount of food",
+        "correctQuestion": "What is if they have food allergies?",
+        "value": 600
+      },
+      {
+        "clue": "This person helps you set up all the decorations before the party starts",
+        "correctQuestion": "What is a helper or volunteer?",
+        "value": 600
+      },
+      {
+        "clue": "You do this the night before to prepare games, decorations, and food",
+        "correctQuestion": "What is set up or get ready?",
+        "value": 600
+      },
+      {
+        "clue": "This is the time when everyone will eat at your party",
+        "correctQuestion": "What is lunch time, dinner time, or snack time?",
+        "value": 600
+      },
+      {
+        "clue": "You make this so you know exactly how much each person will spend on the party",
+        "correctQuestion": "What is a per-person cost or budget breakdown?",
+        "value": 600
+      },
+      {
+        "clue": "This is what you do if not many people said they would come to your party",
+        "correctQuestion": "What is send more invitations or reschedule?",
+        "value": 600
+      },
+      {
+        "clue": "You check this to see if your party supplies arrived on time",
+        "correctQuestion": "What is the delivery date or tracking?",
+        "value": 600
+      },
+      {
+        "clue": "This is a list of activities planned for your party in order",
+        "correctQuestion": "What is an activity schedule or agenda?",
+        "value": 600
+      },
+      {
+        "clue": "You do this with friends and family to help prepare for the big day",
+        "correctQuestion": "What is ask for help or delegate tasks?",
+        "value": 600
+      },
+      {
+        "clue": "This is what you need to know about the party place before booking it",
+        "correctQuestion": "What is the size, location, and amenities?",
+        "value": 600
+      },
+      {
+        "clue": "You keep track of this to make sure you are not spending too much money",
+        "correctQuestion": "What is your spending or expenses?",
+        "value": 600
+      },
+      {
+        "clue": "This is the backup plan if your outdoor party gets rained on",
+        "correctQuestion": "What is an indoor location or tent?",
+        "value": 600
+      }
+    ],
+    "kids_5_9": [
+      {
+        "clue": "This is a detailed plan showing when each part of your party happens",
+        "correctQuestion": "What is a timeline or schedule?",
+        "value": 200
+      },
+      {
+        "clue": "You create this list to assign tasks to different people helping with the party",
+        "correctQuestion": "What is a duty list or task assignments?",
+        "value": 200
+      },
+      {
+        "clue": "This calculation tells you how much money you can spend per guest",
+        "correctQuestion": "What is dividing your total budget by the number of guests?",
+        "value": 200
+      },
+      {
+        "clue": "This is money you set aside in case something costs more than expected",
+        "correctQuestion": "What is a contingency fund or buffer?",
+        "value": 200
+      },
+      {
+        "clue": "You multiply this number by the cost per person to get your catering cost",
+        "correctQuestion": "What is the number of guests?",
+        "value": 200
+      },
+      {
+        "clue": "This helps you remember all the decorations you need to buy",
+        "correctQuestion": "What is a checklist?",
+        "value": 200
+      },
+      {
+        "clue": "You contact these people weeks before to make sure they can come on your date",
+        "correctQuestion": "What are vendors or service providers?",
+        "value": 200
+      },
+      {
+        "clue": "This document lists all the expenses and income for your party",
+        "correctQuestion": "What is a budget?",
+        "value": 200
+      },
+      {
+        "clue": "You do this with items in boxes when setting up the party venue",
+        "correctQuestion": "What is organize or arrange?",
+        "value": 200
+      },
+      {
+        "clue": "This tells you the total amount you can spend on the party",
+        "correctQuestion": "What is a budget limit or total budget?",
+        "value": 200
+      },
+      {
+        "clue": "If catering costs 15 dollars per person and you have 30 guests, what is your catering cost?",
+        "correctQuestion": "What is 450 dollars?",
+        "value": 400
+      },
+      {
+        "clue": "You do this 2-3 weeks before the party to give people time to respond",
+        "correctQuestion": "What is send out invitations?",
+        "value": 400
+      },
+      {
+        "clue": "This is the place where you'll hold your party - indoors or outdoors",
+        "correctQuestion": "What is a venue?",
+        "value": 400
+      },
+      {
+        "clue": "You check this to make sure the weather won't ruin your outdoor party plans",
+        "correctQuestion": "What is the weather forecast?",
+        "value": 400
+      },
+      {
+        "clue": "You do this when you visit a venue before booking it",
+        "correctQuestion": "What is tour it or inspect it?",
+        "value": 400
+      },
+      {
+        "clue": "This is the type of food you'll serve - pizza, hot dogs, or something else",
+        "correctQuestion": "What is a catering option or menu?",
+        "value": 400
+      },
+      {
+        "clue": "You should add this percentage to your budget as a safety buffer",
+        "correctQuestion": "What is 10-15 percent?",
+        "value": 400
+      },
+      {
+        "clue": "This is how you divided tasks fairly among people helping with the party",
+        "correctQuestion": "What is delegate or assign responsibilities?",
+        "value": 400
+      },
+      {
+        "clue": "You contact vendors for these to compare prices and availability",
+        "correctQuestion": "What are quotes?",
+        "value": 400
+      },
+      {
+        "clue": "This happens when you track expenses to see if you're staying within budget",
+        "correctQuestion": "What is reviewing or monitoring spending?",
+        "value": 400
+      },
+      {
+        "clue": "This is information you ask guests for when they respond to your invitation",
+        "correctQuestion": "What is RSVP or confirmation?",
+        "value": 600
+      },
+      {
+        "clue": "You need to find this for your party - it tells you parking, room size, and amenities",
+        "correctQuestion": "What is venue information or facility details?",
+        "value": 600
+      },
+      {
+        "clue": "You organize expenses into these groups: food, decorations, entertainment, supplies",
+        "correctQuestion": "What are expense categories?",
+        "value": 600
+      },
+      {
+        "clue": "This is what you do one week before to make sure everything is ready",
+        "correctQuestion": "What is a final walkthrough or check-in?",
+        "value": 600
+      },
+      {
+        "clue": "You write this to confirm with vendors what they will provide and when",
+        "correctQuestion": "What is a contract or booking confirmation?",
+        "value": 600
+      },
+      {
+        "clue": "This tells you how many tablespoons of something to serve each guest",
+        "correctQuestion": "What is a recipe ratio or serving measurement?",
+        "value": 600
+      },
+      {
+        "clue": "If 40 percent of guests want vegetarian food, how many of 60 guests is that?",
+        "correctQuestion": "What is 24 guests?",
+        "value": 600
+      },
+      {
+        "clue": "You do this to all the items on your checklist as you complete them",
+        "correctQuestion": "What is check them off or mark them done?",
+        "value": 600
+      },
+      {
+        "clue": "This is the name for the plan that shows what happens if things go wrong",
+        "correctQuestion": "What is a contingency plan or backup plan?",
+        "value": 600
+      },
+      {
+        "clue": "You create this to show when each vendor should arrive on party day",
+        "correctQuestion": "What is a timeline or arrival schedule?",
+        "value": 600
+      },
+      {
+        "clue": "This is how you organize information about each guest's preferences and restrictions",
+        "correctQuestion": "What is a guest database or spreadsheet?",
+        "value": 600
+      },
+      {
+        "clue": "If your budget is 300 and you spend 240, how much money is left?",
+        "correctQuestion": "What is 60 dollars?",
+        "value": 600
+      },
+      {
+        "clue": "You do this to make sure your helium balloons arrive before the party date",
+        "correctQuestion": "What is order in advance or schedule delivery?",
+        "value": 600
+      },
+      {
+        "clue": "This is the document that tells guests the date, time, and location of the party",
+        "correctQuestion": "What is the invitation or party details?",
+        "value": 600
+      },
+      {
+        "clue": "This happens when you compare prices from two or more vendors for the same service",
+        "correctQuestion": "What is getting quotes or comparing bids?",
+        "value": 600
+      },
+      {
+        "clue": "You need to know this about your guests to make sure you have enough food and seating",
+        "correctQuestion": "What is the final guest count or RSVP total?",
+        "value": 600
+      }
+    ],
+    "kids_10_13": [
+      {
+        "clue": "This document outlines all project elements from conception to completion",
+        "correctQuestion": "What is a project plan or party plan?",
+        "value": 200
+      },
+      {
+        "clue": "This spreadsheet tool tracks income and expenses for accurate budget monitoring",
+        "correctQuestion": "What is a budget spreadsheet or accounting sheet?",
+        "value": 200
+      },
+      {
+        "clue": "You organize these into categories like food, decorations, entertainment, and venue",
+        "correctQuestion": "What are budget expenses or cost categories?",
+        "value": 200
+      },
+      {
+        "clue": "This method ensures vendors deliver services on time through written confirmation",
+        "correctQuestion": "What is a written contract or booking confirmation?",
+        "value": 200
+      },
+      {
+        "clue": "You create this to identify potential problems before they happen at the party",
+        "correctQuestion": "What is a risk assessment or contingency plan?",
+        "value": 200
+      },
+      {
+        "clue": "This critical path shows which tasks must be done before others can start",
+        "correctQuestion": "What is a project timeline or Gantt chart?",
+        "value": 200
+      },
+      {
+        "clue": "You should do this for all major expenses to compare value and quality",
+        "correctQuestion": "What is get multiple quotes?",
+        "value": 200
+      },
+      {
+        "clue": "This document tracks who is responsible for each task and deadline",
+        "correctQuestion": "What is a responsibility matrix or assignment chart?",
+        "value": 200
+      },
+      {
+        "clue": "You use this method to gather feedback from guests about the party experience",
+        "correctQuestion": "What is a survey or feedback form?",
+        "value": 200
+      },
+      {
+        "clue": "This is when you hold a meeting to coordinate all vendors and team members",
+        "correctQuestion": "What is a vendor meeting or pre-party briefing?",
+        "value": 200
+      },
+      {
+        "clue": "If your budget is 500 dollars and you've spent 375 dollars, what percentage remains?",
+        "correctQuestion": "What is 25 percent?",
+        "value": 400
+      },
+      {
+        "clue": "If you need plates for 80 guests and they come in packs of 12, how many packs do you buy?",
+        "correctQuestion": "What is 7 packs?",
+        "value": 400
+      },
+      {
+        "clue": "You've invited 60 people, 20 said yes, and 10 said maybe - estimate your guest count",
+        "correctQuestion": "What is 30-35 guests?",
+        "value": 400
+      },
+      {
+        "clue": "If pizza costs 12 dollars per person for 45 people, what is your pizza cost?",
+        "correctQuestion": "What is 540 dollars?",
+        "value": 400
+      },
+      {
+        "clue": "You need chairs for 50 people. Each table seats 8. How many tables?",
+        "correctQuestion": "What is 7 tables? (rounding up from 6.25)",
+        "value": 400
+      },
+      {
+        "clue": "This organizational method uses color-coding to show task priority and timeline",
+        "correctQuestion": "What is a color-coded calendar or priority matrix?",
+        "value": 400
+      },
+      {
+        "clue": "This communication tool keeps all party helpers updated on changes and deadlines",
+        "correctQuestion": "What is a group email, text group, or shared document?",
+        "value": 400
+      },
+      {
+        "clue": "This metric measures how well your party planning stayed within budget",
+        "correctQuestion": "What is budget variance or budget adherence?",
+        "value": 400
+      },
+      {
+        "clue": "You prepare this document one week before showing all confirmed arrangements",
+        "correctQuestion": "What is a final checklist or event runsheet?",
+        "value": 400
+      },
+      {
+        "clue": "This role coordinates all aspects between hosts, guests, and service providers",
+        "correctQuestion": "What is a party coordinator or event manager?",
+        "value": 400
+      },
+      {
+        "clue": "This analysis technique identifies areas where actual costs exceed projections",
+        "correctQuestion": "What is variance analysis or budget deviation assessment?",
+        "value": 600
+      },
+      {
+        "clue": "You calculate this ratio to determine how efficiently your budget is being used",
+        "correctQuestion": "What is cost per guest or cost per hour?",
+        "value": 600
+      },
+      {
+        "clue": "If 25 percent of your budget is for decorations and your budget is 400 dollars, how much for decorations?",
+        "correctQuestion": "What is 100 dollars?",
+        "value": 600
+      },
+      {
+        "clue": "This is the term for tasks that must be completed before other tasks can begin",
+        "correctQuestion": "What are prerequisites or dependencies?",
+        "value": 600
+      },
+      {
+        "clue": "You create this matrix to show task assignments and responsible parties clearly",
+        "correctQuestion": "What is a RACI chart or responsibility matrix?",
+        "value": 600
+      },
+      {
+        "clue": "This forecasting method estimates guest attendance based on historical RSVP data",
+        "correctQuestion": "What is predictive modeling or statistical forecasting?",
+        "value": 600
+      },
+      {
+        "clue": "If vendor A costs 600 and vendor B costs 750 but includes free setup, what is the comparison metric?",
+        "correctQuestion": "What is total cost of ownership or value comparison?",
+        "value": 600
+      },
+      {
+        "clue": "You document these assumptions when creating your budget to explain your estimates",
+        "correctQuestion": "What are budget assumptions or cost drivers?",
+        "value": 600
+      },
+      {
+        "clue": "This identifies which tasks have flexibility in timing and which are inflexible",
+        "correctQuestion": "What is slack analysis or critical path analysis?",
+        "value": 600
+      },
+      {
+        "clue": "You perform this review midway through party prep to assess progress against timeline",
+        "correctQuestion": "What is a status checkpoint or progress assessment?",
+        "value": 600
+      },
+      {
+        "clue": "This is the method for categorizing risks by likelihood and potential impact",
+        "correctQuestion": "What is a risk matrix or probability-impact grid?",
+        "value": 600
+      },
+      {
+        "clue": "You calculate this metric to show the party cost per guest dollar spent",
+        "correctQuestion": "What is per-capita cost or per-person expense?",
+        "value": 600
+      },
+      {
+        "clue": "This negotiation strategy finds mutual benefits between cost savings and quality expectations",
+        "correctQuestion": "What is integrative negotiation or value-based discussion?",
+        "value": 600
+      },
+      {
+        "clue": "You track this document to show task completion percentage week by week",
+        "correctQuestion": "What is a burndown chart or progress tracker?",
+        "value": 600
+      },
+      {
+        "clue": "This is the financial technique for distributing fixed costs across all party attendees",
+        "correctQuestion": "What is cost allocation or overhead distribution?",
+        "value": 600
+      },
+      {
+        "clue": "You use this framework to evaluate whether to hire professionals or DIY the party",
+        "correctQuestion": "What is a make-vs-buy analysis?",
+        "value": 600
+      }
+    ],
+    "high_school": [
+      {
+        "clue": "This strategic planning method identifies specific, measurable, achievable, relevant, and timely objectives",
+        "correctQuestion": "What is SMART goal-setting?",
+        "value": 200
+      },
+      {
+        "clue": "This analytical framework helps you decide whether to purchase services or execute them in-house",
+        "correctQuestion": "What is a make-vs-buy analysis?",
+        "value": 200
+      },
+      {
+        "clue": "This project management methodology tracks tasks through stages from planning to execution",
+        "correctQuestion": "What is the waterfall model or phase-gate process?",
+        "value": 200
+      },
+      {
+        "clue": "This financial statement shows anticipated inflows from RSVPs and outflows for expenses",
+        "correctQuestion": "What is a cash flow statement or budget forecast?",
+        "value": 200
+      },
+      {
+        "clue": "This risk management technique assigns probability and impact scores to potential problems",
+        "correctQuestion": "What is a risk matrix or probability-impact analysis?",
+        "value": 200
+      },
+      {
+        "clue": "This communication framework ensures stakeholders understand objectives, constraints, and expectations",
+        "correctQuestion": "What is a project charter or kickoff briefing?",
+        "value": 200
+      },
+      {
+        "clue": "This cost control method tracks actuals against budget and identifies variances weekly",
+        "correctQuestion": "What is earned value management or variance analysis?",
+        "value": 200
+      },
+      {
+        "clue": "This analytical approach quantifies trade-offs between competing priorities like cost vs. quality",
+        "correctQuestion": "What is a cost-benefit analysis or trade-off matrix?",
+        "value": 200
+      },
+      {
+        "clue": "This metric tracks how efficiently you're allocating resources to achieve party objectives",
+        "correctQuestion": "What is ROI (Return on Investment) or efficiency ratio?",
+        "value": 200
+      },
+      {
+        "clue": "This agile technique involves quick cycles of planning, execution, review, and adjustment",
+        "correctQuestion": "What is iterative planning or sprint-based organizing?",
+        "value": 200
+      },
+      {
+        "clue": "Your total party budget is 2,000 dollars. If 35 percent goes to catering, how much is left for other expenses?",
+        "correctQuestion": "What is 1,300 dollars?",
+        "value": 400
+      },
+      {
+        "clue": "You have 100 confirmed guests, each costing an average of 18 dollars. What is your per-capita cost?",
+        "correctQuestion": "What is 18 dollars per person?",
+        "value": 400
+      },
+      {
+        "clue": "If your venue cost 300 dollars and you have 75 guests, what is the per-person venue cost?",
+        "correctQuestion": "What is 4 dollars per person?",
+        "value": 400
+      },
+      {
+        "clue": "A vendor quote is 20 percent higher than budgeted. Calculate the variance for a 500-dollar budgeted item",
+        "correctQuestion": "What is 100 dollars over budget?",
+        "value": 400
+      },
+      {
+        "clue": "You need 120 beverages. They come in cases of 24. Calculate cases needed and cost at 35 per case",
+        "correctQuestion": "What is 5 cases for a cost of 175 dollars?",
+        "value": 400
+      },
+      {
+        "clue": "This gap analysis identifies differences between current party plans and desired outcomes",
+        "correctQuestion": "What is a requirements analysis or status assessment?",
+        "value": 400
+      },
+      {
+        "clue": "This communication document goes to vendors detailing requirements, expectations, and penalties for non-compliance",
+        "correctQuestion": "What is a statement of work (SOW) or contract addendum?",
+        "value": 400
+      },
+      {
+        "clue": "This monitoring technique uses key indicators to track budget, timeline, quality, and customer satisfaction",
+        "correctQuestion": "What is KPI (Key Performance Indicator) tracking?",
+        "value": 400
+      },
+      {
+        "clue": "This calculation determines your safety margin by dividing contingency amount by total budget",
+        "correctQuestion": "What is contingency ratio or buffer percentage?",
+        "value": 400
+      },
+      {
+        "clue": "This post-event process captures lessons learned and performance metrics for future events",
+        "correctQuestion": "What is a retrospective or after-action review?",
+        "value": 400
+      },
+      {
+        "clue": "This methodology applies lean principles to eliminate waste and optimize party planning efficiency",
+        "correctQuestion": "What is Lean or Six Sigma methodology?",
+        "value": 600
+      },
+      {
+        "clue": "You use this technique to identify dependencies and optimize the critical path of party preparation",
+        "correctQuestion": "What is the critical path method (CPM) or PERT analysis?",
+        "value": 600
+      },
+      {
+        "clue": "If you spend 60 percent of budget on catering for a 3,000 dollar budget, and get 30 percent discount, new total?",
+        "correctQuestion": "What is 2,820 dollars?",
+        "value": 600
+      },
+      {
+        "clue": "Your historical data shows 15 percent of invited guests don't attend. With 100 invitations, expect this many",
+        "correctQuestion": "What is 85 guests?",
+        "value": 600
+      },
+      {
+        "clue": "This resource allocation technique ensures optimal distribution across competing demands",
+        "correctQuestion": "What is constraint satisfaction or resource optimization?",
+        "value": 600
+      },
+      {
+        "clue": "You create this to establish clear authority levels for budget approvals and expenditure limits",
+        "correctQuestion": "What is a delegation matrix or approval hierarchy?",
+        "value": 600
+      },
+      {
+        "clue": "If venue has 500 square feet and you need 20 square feet per guest, maximum comfortable attendance is",
+        "correctQuestion": "What is 25 guests?",
+        "value": 600
+      },
+      {
+        "clue": "This system tracks vendor performance across timeliness, quality, communication, and cost adherence",
+        "correctQuestion": "What is vendor scorecard or performance evaluation matrix?",
+        "value": 600
+      },
+      {
+        "clue": "You apply this principle to determine optimal party date based on venue availability and guest schedules",
+        "correctQuestion": "What is constraint theory or bottleneck analysis?",
+        "value": 600
+      },
+      {
+        "clue": "This financial ratio compares actual spending to budgeted amounts as a percentage",
+        "correctQuestion": "What is budget variance percentage or spending ratio?",
+        "value": 600
+      },
+      {
+        "clue": "You implement this approach to systematically identify and address planning risks early",
+        "correctQuestion": "What is proactive risk management or risk mitigation?",
+        "value": 600
+      },
+      {
+        "clue": "This communication plan identifies which stakeholders need which information at what times",
+        "correctQuestion": "What is a stakeholder communication matrix?",
+        "value": 600
+      },
+      {
+        "clue": "If decorations cost 40 dollars and you need them for 10 hours, your hourly decoration cost is",
+        "correctQuestion": "What is 4 dollars per hour?",
+        "value": 600
+      },
+      {
+        "clue": "You use this quantitative tool to evaluate multiple vendor options across price, quality, and availability",
+        "correctQuestion": "What is a vendor comparison matrix or scoring model?",
+        "value": 600
+      },
+      {
+        "clue": "This technique helps manage scope creep by documenting approved requirements and change requests",
+        "correctQuestion": "What is scope management or change control?",
+        "value": 600
+      },
+      {
+        "clue": "You track this leading indicator to predict whether party prep will finish on schedule",
+        "correctQuestion": "What is task completion rate or progress velocity?",
+        "value": 600
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This behavioral economics principle explains why planning parties early reduces cognitive load and decision fatigue",
+        "correctQuestion": "What is the concept of decision fatigue or ego depletion?",
+        "value": 200
+      },
+      {
+        "clue": "This executive function capacity involves maintaining multiple task sequences simultaneously across timeline",
+        "correctQuestion": "What is working memory or cognitive load management?",
+        "value": 200
+      },
+      {
+        "clue": "This organizational psychology concept explains task prioritization based on urgency and importance matrices",
+        "correctQuestion": "What is the Eisenhower Matrix or priority quadrant?",
+        "value": 200
+      },
+      {
+        "clue": "This statistical method forecasts attendance based on historical RSVP conversion rates and last-minute cancellations",
+        "correctQuestion": "What is predictive analytics or Bayesian estimation?",
+        "value": 200
+      },
+      {
+        "clue": "This financial planning concept allocates resources optimally when faced with competing budget constraints",
+        "correctQuestion": "What is opportunity cost analysis or constraint satisfaction?",
+        "value": 200
+      },
+      {
+        "clue": "This project management framework emphasizes iterative refinement, team adaptation, and continuous improvement",
+        "correctQuestion": "What is Agile or Scrum methodology?",
+        "value": 200
+      },
+      {
+        "clue": "This cognitive bias causes planners to underestimate time needed when similar past events took longer",
+        "correctQuestion": "What is optimism bias or planning fallacy?",
+        "value": 200
+      },
+      {
+        "clue": "This negotiation technique identifies mutually beneficial trades between cost reduction and quality objectives",
+        "correctQuestion": "What is integrative bargaining or win-win negotiation?",
+        "value": 200
+      },
+      {
+        "clue": "This systems thinking approach maps interdependencies between vendors, tasks, and guest expectations",
+        "correctQuestion": "What is stakeholder mapping or system dynamics?",
+        "value": 200
+      },
+      {
+        "clue": "This capacity planning metric measures venue constraints: headcount, electrical load, parking, and facilities",
+        "correctQuestion": "What is infrastructure capacity analysis?",
+        "value": 200
+      },
+      {
+        "clue": "Calculate the confidence interval for 65 confirmed guests when historical no-show rate is 12 percent",
+        "correctQuestion": "What is 57-59 guests (with 95% confidence)?",
+        "value": 400
+      },
+      {
+        "clue": "Your budget is 5,000 dollars, allocate to venue (40%), catering (45%), and contingency (15%)",
+        "correctQuestion": "What is 2,000 venue, 2,250 catering, 750 contingency?",
+        "value": 400
+      },
+      {
+        "clue": "Calculate break-even guest count if fixed venue cost is 800 and variable per-person cost is 25",
+        "correctQuestion": "What is approximately 32 guests (800 ÷ 25)?",
+        "value": 400
+      },
+      {
+        "clue": "Three vendors quote: A at 1,500, B at 1,350 (10% discount for 30-day advance), C at 1,600. Which is optimal?",
+        "correctQuestion": "What is B at 1,215 (1,350 × 0.90)?",
+        "value": 400
+      },
+      {
+        "clue": "Calculate total event cost: 100 guests at 35 per person catering, plus 500 venue, plus 200 decorations",
+        "correctQuestion": "What is 4,200 dollars?",
+        "value": 400
+      },
+      {
+        "clue": "This stakeholder communication strategy segments audiences by interest and tailors messages accordingly",
+        "correctQuestion": "What is audience segmentation or personas?",
+        "value": 400
+      },
+      {
+        "clue": "This logistics optimization model accounts for delivery windows, setup time, and vendor coordination sequences",
+        "correctQuestion": "What is operations research or route optimization?",
+        "value": 400
+      },
+      {
+        "clue": "This quality control metric measures satisfaction across venue, food, entertainment, and coordination dimensions",
+        "correctQuestion": "What is a balanced scorecard or multi-dimensional satisfaction assessment?",
+        "value": 400
+      },
+      {
+        "clue": "This governance framework documents decision rights, approval authority, and escalation paths for budget exceptions",
+        "correctQuestion": "What is a RACI matrix or decision authority framework?",
+        "value": 400
+      },
+      {
+        "clue": "This scenario planning technique models outcomes across best, worst, and most-likely event scenarios",
+        "correctQuestion": "What is scenario analysis or contingency planning matrices?",
+        "value": 400
+      },
+      {
+        "clue": "This psychological contract theory explains how expectations alignment prevents stakeholder dissatisfaction",
+        "correctQuestion": "What is expectation management or psychological contracting?",
+        "value": 600
+      },
+      {
+        "clue": "You apply this behavioral framework to motivate volunteers through autonomy, mastery, and purpose",
+        "correctQuestion": "What is Pink's motivation theory or self-determination theory?",
+        "value": 600
+      },
+      {
+        "clue": "If actual spend is 4,200 when budgeted at 3,800 dollars, calculate variance percentage",
+        "correctQuestion": "What is 10.5 percent over budget?",
+        "value": 600
+      },
+      {
+        "clue": "This vendor management strategy uses scorecards to track performance across multiple dimensions",
+        "correctQuestion": "What is balanced vendor scorecard or performance dashboard?",
+        "value": 600
+      },
+      {
+        "clue": "You implement this organizational structure to clarify decision-making authority and prevent bottlenecks",
+        "correctQuestion": "What is a hierarchical decision matrix or governance model?",
+        "value": 600
+      },
+      {
+        "clue": "This data visualization technique displays task dependencies and critical path prominently",
+        "correctQuestion": "What is a Gantt chart or network diagram?",
+        "value": 600
+      },
+      {
+        "clue": "If venue accommodates 150 people but your reservation is 120, calculate capacity buffer percentage",
+        "correctQuestion": "What is 25 percent excess capacity?",
+        "value": 600
+      },
+      {
+        "clue": "This stakeholder analysis identifies interests, influence, and engagement strategies for each party",
+        "correctQuestion": "What is power-interest matrix or salience model?",
+        "value": 600
+      },
+      {
+        "clue": "You employ this negotiation tactic to lock in favorable vendor pricing months in advance",
+        "correctQuestion": "What is advance commitment or early-bird pricing?",
+        "value": 600
+      },
+      {
+        "clue": "This learning system captures feedback loops to continuously improve party planning processes",
+        "correctQuestion": "What is organizational learning or kaizen approach?",
+        "value": 600
+      },
+      {
+        "clue": "This financial forecasting method uses historical party data to predict future cost trends",
+        "correctQuestion": "What is trend analysis or time-series forecasting?",
+        "value": 600
+      },
+      {
+        "clue": "You apply this risk response strategy to transfer party liability to vendors through insurance",
+        "correctQuestion": "What is risk transfer or risk mitigation?",
+        "value": 600
+      },
+      {
+        "clue": "If 80 percent of 150 guests attend a repeat party, use this to forecast next year's event size",
+        "correctQuestion": "What is 120 guests (base rate forecasting)?",
+        "value": 600
+      },
+      {
+        "clue": "This change management framework ensures all stakeholders understand and support planning modifications",
+        "correctQuestion": "What is change management methodology or stakeholder alignment?",
+        "value": 600
+      },
+      {
+        "clue": "You track this leading indicator of success: task completion percent, budget variance, and schedule adherence",
+        "correctQuestion": "What is KPI dashboard or balanced scorecard?",
+        "value": 600
+      },
+      {
+        "clue": "This systems integration approach ensures vendor handoffs occur seamlessly at predetermined times",
+        "correctQuestion": "What is orchestration or workflow management?",
+        "value": 600
+      }
+    ]
+  }
+}

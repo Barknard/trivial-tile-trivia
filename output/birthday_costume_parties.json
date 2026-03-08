@@ -1,0 +1,308 @@
+{
+  "category": "Birthday Costume Parties",
+  "description": "Costume-themed birthday celebrations, dress-up themes, and fancy party traditions",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "Superhero dress worn to a costume birthday party",
+      "answer": "What is a cape and mask?"
+    },
+    {
+      "points": 200,
+      "clue": "Classic costume theme featuring the undead",
+      "answer": "What is a zombie?"
+    },
+    {
+      "points": 200,
+      "clue": "Victorian-era costume with a fancy ball gown and tiara",
+      "answer": "What is a princess?"
+    },
+    {
+      "points": 200,
+      "clue": "Popular movie character costume with red hair and a blue dress",
+      "answer": "What is Dorothy from Wizard of Oz?"
+    },
+    {
+      "points": 200,
+      "clue": "Pirate costume accessory worn over one eye",
+      "answer": "What is an eye patch?"
+    },
+    {
+      "points": 200,
+      "clue": "Costume party tradition where everyone wears a mask",
+      "answer": "What is a masquerade ball?"
+    },
+    {
+      "points": 400,
+      "clue": "Costume theme based on a specific time period or decade",
+      "answer": "What is a decades party?"
+    },
+    {
+      "points": 400,
+      "clue": "Scary costume featuring pale skin and fangs",
+      "answer": "What is a vampire?"
+    },
+    {
+      "points": 400,
+      "clue": "Costume party where everyone dresses as the same character",
+      "answer": "What is a group costume party?"
+    },
+    {
+      "points": 400,
+      "clue": "Black and white formal costume worn to elegant parties",
+      "answer": "What is a tuxedo or ball gown?"
+    },
+    {
+      "points": 400,
+      "clue": "Costume accessory worn around the face on Mardi Gras",
+      "answer": "What is a feathered mask?"
+    },
+    {
+      "points": 400,
+      "clue": "Fantasy costume featuring wings and a magical theme",
+      "answer": "What is a fairy or angel?"
+    },
+    {
+      "points": 600,
+      "clue": "Medieval costume party theme featuring knights and nobles",
+      "answer": "What is a Renaissance faire costume?"
+    },
+    {
+      "points": 600,
+      "clue": "Pop culture costume trend based on viral social media characters",
+      "answer": "What is a meme costume?"
+    },
+    {
+      "points": 600,
+      "clue": "Steampunk costume elements including goggles and gears",
+      "answer": "What is Victorian-era industrial wear?"
+    },
+    {
+      "points": 600,
+      "clue": "Costume theme where guests dress as their favorite musicians",
+      "answer": "What is a rock star party?"
+    },
+    {
+      "points": 600,
+      "clue": "Anime or manga-inspired costume style popular at parties",
+      "answer": "What is cosplay?"
+    },
+    {
+      "points": 600,
+      "clue": "Costume accessory made of felt ears worn with a face paint design",
+      "answer": "What is an animal costume headpiece?"
+    },
+    {
+      "points": 800,
+      "clue": "Vintage 1920s flapper costume featuring beads and fringe",
+      "answer": "What is a speakeasy dress?"
+    },
+    {
+      "points": 800,
+      "clue": "Costume theme where attendees dress as characters from literature",
+      "answer": "What is a literary character party?"
+    },
+    {
+      "points": 800,
+      "clue": "Elaborate costume party tradition in New Orleans during Carnival season",
+      "answer": "What is Mardi Gras?"
+    },
+    {
+      "points": 800,
+      "clue": "Sci-fi costume featuring metallic fabrics and futuristic accessories",
+      "answer": "What is a space or alien costume?"
+    },
+    {
+      "points": 800,
+      "clue": "Costume theme based on horror films from the 1980s",
+      "answer": "What is a slasher movie party?"
+    },
+    {
+      "points": 800,
+      "clue": "Costume party where everyone must dress from a specific era of history",
+      "answer": "What is a historical period party?"
+    },
+    {
+      "points": 1000,
+      "clue": "Costume tradition originating from Venetian balls in the 1700s",
+      "answer": "What is wearing a Venetian mask?"
+    },
+    {
+      "points": 1000,
+      "clue": "Elaborate costume theme featuring mythical creatures and gods",
+      "answer": "What is a Greek or Roman mythology party?"
+    },
+    {
+      "points": 1000,
+      "clue": "Costume party where guests dress as their opposite gender counterpart",
+      "answer": "What is a gender-swap party?"
+    },
+    {
+      "points": 1000,
+      "clue": "Victorian-era tradition of costume balls attended only by the upper class",
+      "answer": "What is a debutante ball?"
+    },
+    {
+      "points": 1000,
+      "clue": "Costume theme based on characters from classic Disney animated films",
+      "answer": "What is a Disney character party?"
+    },
+    {
+      "points": 1000,
+      "clue": "Medieval European celebration featuring elaborate jousting tournaments and costumes",
+      "answer": "What is a Renaissance fair?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "What your Instagram looks like after posting costume party selfies",
+      "answer": "What is a thirst trap?"
+    },
+    {
+      "points": 200,
+      "clue": "The only costume that gets you out of showing your real face",
+      "answer": "What is a full-body suit?"
+    },
+    {
+      "points": 200,
+      "clue": "What you blame for your bad party photos",
+      "answer": "What is bad lighting?"
+    },
+    {
+      "points": 200,
+      "clue": "Why Karen showed up in a 'offensive' costume anyway",
+      "answer": "What is she doesn't care about consequences?"
+    },
+    {
+      "points": 200,
+      "clue": "Costume theme everyone copied from TikTok in 2022",
+      "answer": "What is whatever was trending?"
+    },
+    {
+      "points": 200,
+      "clue": "What your ex wore to upstage you at the costume party",
+      "answer": "What is the same exact costume as last year?"
+    },
+    {
+      "points": 400,
+      "clue": "Why nobody recognizes you in your elaborate costume",
+      "answer": "What is they're already three drinks in?"
+    },
+    {
+      "points": 400,
+      "clue": "The costume that costs more than your rent",
+      "answer": "What is a premium Etsy costume?"
+    },
+    {
+      "points": 400,
+      "clue": "What kills your costume vibe when you start sweating",
+      "answer": "What is a runny wig or melting makeup?"
+    },
+    {
+      "points": 400,
+      "clue": "Costume theme that sexually awakens suburban parents",
+      "answer": "What is the maid or firefighter outfit?"
+    },
+    {
+      "points": 400,
+      "clue": "Why Dave showed up as a 'sexy' version of a random object",
+      "answer": "What is he thinks he's being funny?"
+    },
+    {
+      "points": 400,
+      "clue": "What you Google frantically at 11pm before the party",
+      "answer": "What is last-minute costume ideas?"
+    },
+    {
+      "points": 600,
+      "clue": "Thing that happens when you wear your costume to actual events",
+      "answer": "What is you steal the entire show?"
+    },
+    {
+      "points": 600,
+      "clue": "Why your costume party photo got reported on Facebook",
+      "answer": "What is it looked like you'd been possessed?"
+    },
+    {
+      "points": 600,
+      "clue": "The drunk guest who critiques every costume choice",
+      "answer": "What is the fashion expert who peaked in 2003?"
+    },
+    {
+      "points": 600,
+      "clue": "Costume that automatically makes you the creepiest person there",
+      "answer": "What is a clown?"
+    },
+    {
+      "points": 600,
+      "clue": "What your costume smells like after three hours",
+      "answer": "What is desperation and sweat?"
+    },
+    {
+      "points": 600,
+      "clue": "Why influencers spent $500 on a costume party outfit",
+      "answer": "What is they needed five Instagram posts about it?"
+    },
+    {
+      "points": 800,
+      "clue": "The couple costume that screams 'we just started dating'",
+      "answer": "What is matching anything?"
+    },
+    {
+      "points": 800,
+      "clue": "What Karen demanded as the 'theme' to avoid being offended",
+      "answer": "What is something inclusive and culturally sensitive?"
+    },
+    {
+      "points": 800,
+      "clue": "Costume idea that sexually disappointed everyone",
+      "answer": "What is whatever Jim dressed as?"
+    },
+    {
+      "points": 800,
+      "clue": "Why your ex came in the same costume as your date",
+      "answer": "What is to ruin your entire evening?"
+    },
+    {
+      "points": 800,
+      "clue": "The costume party where nobody actually wore a costume",
+      "answer": "What is corporate team building?"
+    },
+    {
+      "points": 800,
+      "clue": "What the thrift store smelled like after costume season",
+      "answer": "What is despair and cigarettes?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why the costume contest was rigged for the host's friend",
+      "answer": "What is nepotism?"
+    },
+    {
+      "points": 1000,
+      "clue": "What your parents found in the closet from your costume phase",
+      "answer": "What is evidence of poor life choices?"
+    },
+    {
+      "points": 1000,
+      "clue": "The costume idea that got you canceled on Twitter",
+      "answer": "What is cultural appropriation?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why the birthday person's costume was awkwardly sexual",
+      "answer": "What is their questionable judgment in life partners?"
+    },
+    {
+      "points": 1000,
+      "clue": "Thing nobody mentions when drunk friends showed up in offensive costumes",
+      "answer": "What is nobody's willing to confront them?"
+    },
+    {
+      "points": 1000,
+      "clue": "The unspoken rule that made costume parties impossible after COVID",
+      "answer": "What is you can't unsee what everyone looks like without masks?"
+    }
+  ]
+}

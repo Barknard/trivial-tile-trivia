@@ -1,0 +1,322 @@
+{
+  "category": "New Year's Party Planning",
+  "theme": "event_planning",
+  "category_id": "newyear_party_planning",
+  "description": "New Year's party planning, preparations, decorations, logistics, budgeting, countdowns, resolutions, and celebration coordination for ringing in the new year",
+  "age_suitability": "All ages",
+  "research_alignment": "Event planning, logistics management, budgeting, time management, coordination skills, decision-making, organizational behavior",
+  "generated_date": "2025-12-31",
+  "total_questions": 60,
+  "research_sources": [
+    "Event Planning: Party logistics, vendor coordination, timeline management",
+    "Practical Mathematics: Budgeting, headcount calculations, timing coordination",
+    "Organizational Behavior: Team coordination, communication, contingency planning",
+    "Cultural Traditions: New Year celebrations, countdown rituals, modern trends"
+  ],
+  "audiences": {
+    "regular": [
+      {
+        "clue": "This list shows all the people you're inviting to your New Year's party",
+        "correctQuestion": "What is a guest list?",
+        "value": 200
+      },
+      {
+        "clue": "You need to choose this location for your New Year's celebration",
+        "correctQuestion": "What is a venue?",
+        "value": 200
+      },
+      {
+        "clue": "This money you set aside for party supplies and food",
+        "correctQuestion": "What is a budget?",
+        "value": 200
+      },
+      {
+        "clue": "These decorations are hung to create a festive New Year's atmosphere",
+        "correctQuestion": "What are balloons and streamers?",
+        "value": 200
+      },
+      {
+        "clue": "You send these to invite people to your New Year's party",
+        "correctQuestion": "What are invitations?",
+        "value": 200
+      },
+      {
+        "clue": "This item you press at midnight to celebrate the new year",
+        "correctQuestion": "What is a noise maker or party horn?",
+        "value": 200
+      },
+      {
+        "clue": "You count down from this number to celebrate the New Year",
+        "correctQuestion": "What is 10 or 60?",
+        "value": 200
+      },
+      {
+        "clue": "These glasses shaped like the new year number are popular party favors",
+        "correctQuestion": "What are novelty glasses?",
+        "value": 200
+      },
+      {
+        "clue": "This sparkly headwear is worn at New Year's celebrations",
+        "correctQuestion": "What is a tiara or crown?",
+        "value": 200
+      },
+      {
+        "clue": "You display this reflecting ball for decoration during New Year's parties",
+        "correctQuestion": "What is a disco ball?",
+        "value": 200
+      },
+      {
+        "clue": "These explode in the sky at midnight to celebrate New Year's Eve",
+        "correctQuestion": "What are fireworks?",
+        "value": 400
+      },
+      {
+        "clue": "This amount of time before midnight are the hours you wait",
+        "correctQuestion": "What are several hours or countdown hours?",
+        "value": 400
+      },
+      {
+        "clue": "You serve this sparkling beverage at midnight to toast",
+        "correctQuestion": "What is champagne or sparkling cider?",
+        "value": 400
+      },
+      {
+        "clue": "These resolutions are personal promises made on New Year's",
+        "correctQuestion": "What are goals for the coming year?",
+        "value": 400
+      },
+      {
+        "clue": "This centerpiece with the upcoming year's numbers sits on tables",
+        "correctQuestion": "What is a themed decoration?",
+        "value": 400
+      },
+      {
+        "clue": "You plan this detailed timeline to organize party activities and timing",
+        "correctQuestion": "What is a schedule or agenda?",
+        "value": 400
+      },
+      {
+        "clue": "This light display makes the party space festive and bright",
+        "correctQuestion": "What are string lights or LED lights?",
+        "value": 400
+      },
+      {
+        "clue": "You hire this person to spin music and keep the party energized",
+        "correctQuestion": "What is a DJ?",
+        "value": 400
+      },
+      {
+        "clue": "This catering company delivers food and beverages for your party",
+        "correctQuestion": "What is a restaurant or caterer?",
+        "value": 400
+      },
+      {
+        "clue": "You assign this person to bring specific food or drinks to share",
+        "correctQuestion": "What is a potluck assignment?",
+        "value": 400
+      },
+      {
+        "clue": "This app helps coordinate party details with your guests",
+        "correctQuestion": "What is Evite or a group chat?",
+        "value": 600
+      },
+      {
+        "clue": "You create this playlist weeks before to curate the party soundtrack",
+        "correctQuestion": "What is a New Year's party mix or Spotify playlist?",
+        "value": 600
+      },
+      {
+        "clue": "These contaminated food items require special handling before serving",
+        "correctQuestion": "What are allergens?",
+        "value": 600
+      },
+      {
+        "clue": "You check this weather forecast to plan outdoor New Year's celebrations",
+        "correctQuestion": "What is the temperature and conditions?",
+        "value": 600
+      },
+      {
+        "clue": "This designated driver arranges transportation after the party",
+        "correctQuestion": "What is safe transportation or a rideshare?",
+        "value": 600
+      },
+      {
+        "clue": "These professional photographers capture memories of your New Year's celebration",
+        "correctQuestion": "What are photographers or videographers?",
+        "value": 600
+      },
+      {
+        "clue": "You send thank you messages to guests using this method afterward",
+        "correctQuestion": "What are texts, emails, or cards?",
+        "value": 600
+      },
+      {
+        "clue": "This venue deposit reserves your space weeks in advance",
+        "correctQuestion": "What is a booking or reservation fee?",
+        "value": 600
+      },
+      {
+        "clue": "You confirm this information with vendors a week before the event",
+        "correctQuestion": "What is final headcount and logistics?",
+        "value": 800
+      },
+      {
+        "clue": "This contingency plan prepares you for potential party disasters",
+        "correctQuestion": "What is a backup plan?",
+        "value": 800
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "What you promise yourself on January 1st and break by January 15th",
+        "correctQuestion": "What is a New Year's resolution?",
+        "value": 200
+      },
+      {
+        "clue": "Where millennials celebrate New Year's without posting about it",
+        "correctQuestion": "What is nowhere?",
+        "value": 200
+      },
+      {
+        "clue": "The expensive sparkling wine that tastes like regret at midnight",
+        "correctQuestion": "What is champagne?",
+        "value": 200
+      },
+      {
+        "clue": "What your gym membership becomes in February",
+        "correctQuestion": "What is an unused subscription?",
+        "value": 200
+      },
+      {
+        "clue": "The app your friend keeps refreshing to see who's still single",
+        "correctQuestion": "What is Instagram Stories?",
+        "value": 200
+      },
+      {
+        "clue": "What you do when someone asks about your 2026 plans",
+        "correctQuestion": "What is panic internally?",
+        "value": 200
+      },
+      {
+        "clue": "The number of Instagram posts made at 11:59 PM on New Year's Eve",
+        "correctQuestion": "What is 47?",
+        "value": 200
+      },
+      {
+        "clue": "What kills the party vibe faster than anything else",
+        "correctQuestion": "What is someone mentioning inflation rates?",
+        "value": 200
+      },
+      {
+        "clue": "The venue fee you realize is non-refundable in January",
+        "correctQuestion": "What is devastating financial planning?",
+        "value": 200
+      },
+      {
+        "clue": "What your parents ask instead of 'How are you?'",
+        "correctQuestion": "What is 'What are your goals for this year?'?",
+        "value": 200
+      },
+      {
+        "clue": "The champagne brand that makes your vision blurry at 3 AM",
+        "correctQuestion": "What is the cheap stuff from Costco?",
+        "value": 400
+      },
+      {
+        "clue": "How your roommate celebrates while you're still cleaning",
+        "correctQuestion": "What is screaming in the bathroom?",
+        "value": 400
+      },
+      {
+        "clue": "What the DJ plays when the party is dying",
+        "correctQuestion": "What is 'Don't Stop Believin'?",
+        "value": 400
+      },
+      {
+        "clue": "This platform where you watched everyone else's New Year's party",
+        "correctQuestion": "What is TikTok?",
+        "value": 400
+      },
+      {
+        "clue": "The hour when someone gets too honest about family drama",
+        "correctQuestion": "What is 11:47 PM?",
+        "value": 400
+      },
+      {
+        "clue": "Why you didn't actually follow through with party planning",
+        "correctQuestion": "What is depression and procrastination?",
+        "value": 400
+      },
+      {
+        "clue": "The place where your New Year's party essentially happens",
+        "correctQuestion": "What is Zoom?",
+        "value": 400
+      },
+      {
+        "clue": "What the decorations will still be stuck to in March",
+        "correctQuestion": "What are the walls?",
+        "value": 400
+      },
+      {
+        "clue": "The app you use to track how many calories you ate at the party",
+        "correctQuestion": "What is MyFitnessPal?",
+        "value": 400
+      },
+      {
+        "clue": "What you tell yourself while ordering $200 worth of decorations",
+        "correctQuestion": "What is 'This is my year'?",
+        "value": 400
+      },
+      {
+        "clue": "The person who keeps asking if the wine is vegan",
+        "correctQuestion": "Who is everyone at the party?",
+        "value": 600
+      },
+      {
+        "clue": "Why your New Year's party budget ballooned by 300%",
+        "correctQuestion": "What is inflation and poor decision-making?",
+        "value": 600
+      },
+      {
+        "clue": "The gig economy job you'll take to pay off the party",
+        "correctQuestion": "What is DoorDash?",
+        "value": 600
+      },
+      {
+        "clue": "What your ex is doing at their own New Year's party",
+        "correctQuestion": "What is being happy without you?",
+        "value": 600
+      },
+      {
+        "clue": "The streaming service everyone wants to discuss at midnight",
+        "correctQuestion": "What is Netflix?",
+        "value": 600
+      },
+      {
+        "clue": "What ends the New Year's party conversation at work",
+        "correctQuestion": "What is mentioning your therapy sessions?",
+        "value": 600
+      },
+      {
+        "clue": "The wellness trend everyone's buying for their resolutions",
+        "correctQuestion": "What is a weighted blanket?",
+        "value": 600
+      },
+      {
+        "clue": "Why you never actually send thank-you notes",
+        "correctQuestion": "What is crippling executive dysfunction?",
+        "value": 600
+      },
+      {
+        "clue": "What couples do at New Year's to prove their relationship isn't failing",
+        "correctQuestion": "What is take a couple's photo?",
+        "value": 800
+      },
+      {
+        "clue": "The financial mistake that funded your New Year's party",
+        "correctQuestion": "What is a credit card you forgot about?",
+        "value": 800
+      }
+    ]
+  }
+}

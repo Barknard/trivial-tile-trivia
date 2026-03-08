@@ -1,0 +1,307 @@
+{
+  "category": "New Year Reflection - Looking Back at the Past Year",
+  "regular_clues": [
+    {
+      "clue": "The practice of thinking about achievements from the past year",
+      "correctQuestion": "What is reflection?",
+      "value": 200
+    },
+    {
+      "clue": "Looking backward to evaluate personal growth and change",
+      "correctQuestion": "What is retrospection?",
+      "value": 200
+    },
+    {
+      "clue": "Counting your wins before planning for next year",
+      "correctQuestion": "What is celebrating progress?",
+      "value": 200
+    },
+    {
+      "clue": "Examining what didn't work out the way you planned",
+      "correctQuestion": "What are lessons learned?",
+      "value": 200
+    },
+    {
+      "clue": "Setting new goals after reviewing the previous 12 months",
+      "correctQuestion": "What is goal revision?",
+      "value": 200
+    },
+    {
+      "clue": "Making peace with mistakes and failures from last year",
+      "correctQuestion": "What is letting go?",
+      "value": 200
+    },
+    {
+      "clue": "Documenting the most meaningful moment of the past year",
+      "correctQuestion": "What is journaling?",
+      "value": 200
+    },
+    {
+      "clue": "Taking stock of your relationships over the last 12 months",
+      "correctQuestion": "What is assessing connections?",
+      "value": 200
+    },
+    {
+      "clue": "Recognizing personal strength you discovered during tough times",
+      "correctQuestion": "What is resilience?",
+      "value": 200
+    },
+    {
+      "clue": "Deciding what habits to keep and what to abandon",
+      "correctQuestion": "What is evaluating patterns?",
+      "value": 200
+    },
+    {
+      "clue": "Reviewing how much you've grown as a person",
+      "correctQuestion": "What is measuring development?",
+      "value": 200
+    },
+    {
+      "clue": "Thinking about the year in chapters and seasons",
+      "correctQuestion": "What is compartmentalization?",
+      "value": 200
+    },
+    {
+      "clue": "Identifying the turning points that shaped your year",
+      "correctQuestion": "What are pivotal moments?",
+      "value": 200
+    },
+    {
+      "clue": "Appreciating the people who supported you through the year",
+      "correctQuestion": "What is gratitude?",
+      "value": 200
+    },
+    {
+      "clue": "Finding closure on unfinished business from last year",
+      "correctQuestion": "What is resolution?",
+      "value": 200
+    },
+    {
+      "clue": "Comparing who you were 12 months ago to who you are now",
+      "correctQuestion": "What is self-comparison?",
+      "value": 200
+    },
+    {
+      "clue": "Releasing regrets that weigh you down heading into next year",
+      "correctQuestion": "What is forgiveness?",
+      "value": 200
+    },
+    {
+      "clue": "Understanding the cause and effect of your major decisions",
+      "correctQuestion": "What is analyzing choices?",
+      "value": 200
+    },
+    {
+      "clue": "Identifying patterns in behavior you want to change",
+      "correctQuestion": "What is recognizing cycles?",
+      "value": 200
+    },
+    {
+      "clue": "Celebrating small victories that add up to big progress",
+      "correctQuestion": "What is acknowledging incremental success?",
+      "value": 200
+    },
+    {
+      "clue": "Reflecting on health and wellness habits formed over the year",
+      "correctQuestion": "What is evaluating self-care?",
+      "value": 200
+    },
+    {
+      "clue": "Looking at career or professional development milestones",
+      "correctQuestion": "What is career assessment?",
+      "value": 200
+    },
+    {
+      "clue": "Examining financial decisions and their consequences",
+      "correctQuestion": "What is fiscal reflection?",
+      "value": 200
+    },
+    {
+      "clue": "Thinking about how you spent your most valuable resource: time",
+      "correctQuestion": "What is time accounting?",
+      "value": 200
+    },
+    {
+      "clue": "Reconnecting with your core values and what matters most",
+      "correctQuestion": "What is values alignment?",
+      "value": 200
+    },
+    {
+      "clue": "Noticing how your perspective on life has shifted",
+      "correctQuestion": "What is wisdom gained?",
+      "value": 200
+    },
+    {
+      "clue": "Reviewing your relationship with self-doubt and confidence",
+      "correctQuestion": "What is confidence assessment?",
+      "value": 200
+    },
+    {
+      "clue": "Thinking about how you contributed to your community",
+      "correctQuestion": "What is impact measurement?",
+      "value": 200
+    },
+    {
+      "clue": "Recognizing the unexpected joys and pleasant surprises",
+      "correctQuestion": "What is gratitude practice?",
+      "value": 200
+    },
+    {
+      "clue": "Integrating all lessons learned into your new year vision",
+      "correctQuestion": "What is synthesis?",
+      "value": 200
+    }
+  ],
+  "no_humanity": [
+    {
+      "clue": "What you pretend to feel when reflecting on your year without wine",
+      "correctQuestion": "What is accountability?",
+      "value": 200
+    },
+    {
+      "clue": "The coping mechanism of choice when reviewing past failures",
+      "correctQuestion": "What is amnesia?",
+      "value": 200
+    },
+    {
+      "clue": "What every resolution relies on to survive past January 15th",
+      "correctQuestion": "What is delusion?",
+      "value": 200
+    },
+    {
+      "clue": "The real reason people journal about the past year",
+      "correctQuestion": "What is cataloging evidence for therapy?",
+      "value": 200
+    },
+    {
+      "clue": "What replaced personal growth in 2025's definition",
+      "correctQuestion": "What is Instagram followers?",
+      "value": 200
+    },
+    {
+      "clue": "How you actually measure success when reviewing the year",
+      "correctQuestion": "What is did I avoid getting fired?",
+      "value": 200
+    },
+    {
+      "clue": "The app that tracks all the things you said you'd do and didn't",
+      "correctQuestion": "What is your phone's photo gallery?",
+      "value": 200
+    },
+    {
+      "clue": "What most people reflect on instead of actual personal growth",
+      "correctQuestion": "What is TikTok trends they missed?",
+      "value": 200
+    },
+    {
+      "clue": "The hardest part of reviewing last year",
+      "correctQuestion": "What is admitting you're the problem?",
+      "value": 200
+    },
+    {
+      "clue": "What 90% of year reflections ignore completely",
+      "correctQuestion": "What is that awkward thing you said in April?",
+      "value": 200
+    },
+    {
+      "clue": "The real metric for success in your past year",
+      "correctQuestion": "What is still having a pulse?",
+      "value": 200
+    },
+    {
+      "clue": "What you convince yourself of when reviewing your money",
+      "correctQuestion": "What is I'm being financially responsible?",
+      "value": 200
+    },
+    {
+      "clue": "The person most likely to interrupt your reflection time",
+      "correctQuestion": "What is your phone with a notification?",
+      "value": 200
+    },
+    {
+      "clue": "What derails meaningful reflection on your growth",
+      "correctQuestion": "What is scrolling through others' highlight reels?",
+      "value": 200
+    },
+    {
+      "clue": "The lie everyone tells themselves when reviewing the year",
+      "correctQuestion": "What is next year will be different?",
+      "value": 200
+    },
+    {
+      "clue": "What reflection really means when you break it down",
+      "correctQuestion": "What is why am I like this?",
+      "value": 400
+    },
+    {
+      "clue": "The therapy session you're having in your head while reflecting",
+      "correctQuestion": "What is processing trauma?",
+      "value": 400
+    },
+    {
+      "clue": "Why your year-in-review is actually just a highlight reel",
+      "correctQuestion": "What is Instagram conditioning?",
+      "value": 400
+    },
+    {
+      "clue": "The unspoken truth about your personal growth narrative",
+      "correctQuestion": "What is I made the same mistakes in different ways?",
+      "value": 400
+    },
+    {
+      "clue": "What you're really doing when you journal about the past",
+      "correctQuestion": "What is emotional self-harm disguised as reflection?",
+      "value": 400
+    },
+    {
+      "clue": "The reason your resolutions fail before your birthday",
+      "correctQuestion": "What is you're the same person?",
+      "value": 400
+    },
+    {
+      "clue": "What year reflections prove about human nature",
+      "correctQuestion": "What is we're hopelessly optimistic?",
+      "value": 400
+    },
+    {
+      "clue": "The moment you realize your growth was imaginary",
+      "correctQuestion": "What is February 1st?",
+      "value": 400
+    },
+    {
+      "clue": "Your actual yearly accomplishment when being honest",
+      "correctQuestion": "What is lowering my expectations?",
+      "value": 400
+    },
+    {
+      "clue": "What every reflection ends with no matter how it starts",
+      "correctQuestion": "What is anxiety about the future?",
+      "value": 400
+    },
+    {
+      "clue": "The skill you actually mastered in the past year",
+      "correctQuestion": "What is rationalizing poor life choices?",
+      "value": 400
+    },
+    {
+      "clue": "How you measure time when reflecting on the past 365 days",
+      "correctQuestion": "What is how many times did I cry?",
+      "value": 400
+    },
+    {
+      "clue": "What your therapist is really thinking during your year review",
+      "correctQuestion": "What is when is this session over?",
+      "value": 400
+    },
+    {
+      "clue": "The universal truth hidden in all year reflections",
+      "correctQuestion": "What is I have no idea what I'm doing?",
+      "value": 400
+    },
+    {
+      "clue": "Why people actually bother with new year reflections at all",
+      "correctQuestion": "What is desperate hope mixed with denial?",
+      "value": 600
+    }
+  ]
+}

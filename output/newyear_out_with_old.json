@@ -1,0 +1,307 @@
+{
+  "category": "Out with the Old, In with the New - New Year Edition",
+  "regular_clues": [
+    {
+      "clue": "Annual tradition of resolving to change",
+      "correctQuestion": "What is a New Year's resolution?",
+      "value": 200
+    },
+    {
+      "clue": "Number of seconds in a New Year's countdown",
+      "correctQuestion": "What is 10 seconds?",
+      "value": 200
+    },
+    {
+      "clue": "Guy who drops in Times Square on December 31st",
+      "correctQuestion": "What is a ball?",
+      "value": 200
+    },
+    {
+      "clue": "The month when people start gym memberships",
+      "correctQuestion": "What is January?",
+      "value": 200
+    },
+    {
+      "clue": "Beverage traditionally used for New Year toasts",
+      "correctQuestion": "What is champagne?",
+      "value": 200
+    },
+    {
+      "clue": "Roman god of new beginnings and transitions",
+      "correctQuestion": "Who is Janus?",
+      "value": 200
+    },
+    {
+      "clue": "Phrase meaning to start fresh at year's end",
+      "correctQuestion": "What is 'turn over a new leaf'?",
+      "value": 200
+    },
+    {
+      "clue": "Year that just passed when January 1st arrives",
+      "correctQuestion": "What is the old year?",
+      "value": 200
+    },
+    {
+      "clue": "Common diet people start January 1st",
+      "correctQuestion": "What is a New Year's diet?",
+      "value": 200
+    },
+    {
+      "clue": "Calendar section you tear off at year's end",
+      "correctQuestion": "What is a page?",
+      "value": 200
+    },
+    {
+      "clue": "Ancient Rome's four-day festival celebrating new year",
+      "correctQuestion": "What is Saturnalia?",
+      "value": 400
+    },
+    {
+      "clue": "Scottish word for the New Year celebration",
+      "correctQuestion": "What is Hogmanay?",
+      "value": 400
+    },
+    {
+      "clue": "Japanese New Year tradition of cleaning house",
+      "correctQuestion": "What is Osoji?",
+      "value": 400
+    },
+    {
+      "clue": "Wearing this color brings good luck in Chinese New Year",
+      "correctQuestion": "What is red?",
+      "value": 400
+    },
+    {
+      "clue": "King cake dessert eaten during New Year season",
+      "correctQuestion": "What is galette des rois?",
+      "value": 400
+    },
+    {
+      "clue": "Item thrown at midnight to represent letting go",
+      "correctQuestion": "What is old dishes or old shoes?",
+      "value": 400
+    },
+    {
+      "clue": "Lunar calendar event celebrated as New Year in Asia",
+      "correctQuestion": "What is Chinese New Year?",
+      "value": 400
+    },
+    {
+      "clue": "Spanish tradition of eating grapes at midnight",
+      "correctQuestion": "What are 12 grapes?",
+      "value": 400
+    },
+    {
+      "clue": "Type of resolutions most people break by January 15th",
+      "correctQuestion": "What is fitness resolutions?",
+      "value": 400
+    },
+    {
+      "clue": "New Year's concept meaning fresh start in life",
+      "correctQuestion": "What is reinvention?",
+      "value": 400
+    },
+    {
+      "clue": "Phrase meaning to shed old problems or habits",
+      "correctQuestion": "What is 'out with the old, in with the new'?",
+      "value": 600
+    },
+    {
+      "clue": "Turkish tradition of breaking pomegranates for fertility",
+      "correctQuestion": "What is Nevruz?",
+      "value": 600
+    },
+    {
+      "clue": "Jewish holiday starting on new moon of spring",
+      "correctQuestion": "What is Rosh Hashanah?",
+      "value": 600
+    },
+    {
+      "clue": "Gregorian calendar adopted in 1582 changed the New Year to this date",
+      "correctQuestion": "What is January 1st?",
+      "value": 600
+    },
+    {
+      "clue": "Act of renewing something at the start of the year",
+      "correctQuestion": "What is resolution?",
+      "value": 600
+    },
+    {
+      "clue": "Persian New Year celebrating renewal and rebirth",
+      "correctQuestion": "What is Nowruz?",
+      "value": 600
+    },
+    {
+      "clue": "Time period that people historically celebrate New Year changes",
+      "correctQuestion": "What is winter solstice to spring equinox?",
+      "value": 600
+    },
+    {
+      "clue": "Type of cleaning or purification done before New Year",
+      "correctQuestion": "What is spring cleaning?",
+      "value": 600
+    },
+    {
+      "clue": "Tradition of writing down goals for the year ahead",
+      "correctQuestion": "What is goal-setting?",
+      "value": 600
+    },
+    {
+      "clue": "Superstition about clearing debt before New Year",
+      "correctQuestion": "What is financial cleansing?",
+      "value": 600
+    }
+  ],
+  "CAH_clues": [
+    {
+      "clue": "What broke most gym resolutions by January 15th",
+      "correctQuestion": "What is motivation?",
+      "value": 200
+    },
+    {
+      "clue": "The app you downloaded on January 1st and deleted by January 2nd",
+      "correctQuestion": "What is a fitness tracking app?",
+      "value": 200
+    },
+    {
+      "clue": "What you promise to quit every New Year",
+      "correctQuestion": "What is drinking or smoking?",
+      "value": 200
+    },
+    {
+      "clue": "New Year's tradition of lying to yourself for 365 days",
+      "correctQuestion": "What is making resolutions?",
+      "value": 200
+    },
+    {
+      "clue": "What actually changed since last New Year",
+      "correctQuestion": "What is the date on your calendar?",
+      "value": 200
+    },
+    {
+      "clue": "The relationship status update from last New Year",
+      "correctQuestion": "What is 'It's complicated'?",
+      "value": 200
+    },
+    {
+      "clue": "Your budget category that gets trashed on January 1st",
+      "correctQuestion": "What is going out money?",
+      "value": 200
+    },
+    {
+      "clue": "What your therapist loves about January",
+      "correctQuestion": "What is cash flow from failed resolutions?",
+      "value": 200
+    },
+    {
+      "clue": "The New Year's tradition that costs Americans billions annually",
+      "correctQuestion": "What is gym memberships people never use?",
+      "value": 200
+    },
+    {
+      "clue": "What replaces your New Year's resolution by February",
+      "correctQuestion": "What is apathy?",
+      "value": 200
+    },
+    {
+      "clue": "TikTok trend of pretending to be a new person on January 1st",
+      "correctQuestion": "What is main character energy?",
+      "value": 400
+    },
+    {
+      "clue": "Why boomers say 'Kids these days' at New Year's parties",
+      "correctQuestion": "What is their grandkids using TikTok instead of doing resolutions?",
+      "value": 400
+    },
+    {
+      "clue": "The thing you told yourself you were cutting out in 2025",
+      "correctQuestion": "What is toxic relationships (or alcohol)?",
+      "value": 400
+    },
+    {
+      "clue": "What millennials actually want to change about themselves",
+      "correctQuestion": "What is their student loan debt?",
+      "value": 400
+    },
+    {
+      "clue": "The outfit you wore to New Year's to impress people",
+      "correctQuestion": "What is 'borrowed from someone you'll ghosted'?",
+      "value": 400
+    },
+    {
+      "clue": "What Gen Z considers an old habit to break in 2025",
+      "correctQuestion": "What is talking to people IRL?",
+      "value": 400
+    },
+    {
+      "clue": "The New Year's cleanse that costs $200 at the juice bar",
+      "correctQuestion": "What is expensive juice that's just laxatives?",
+      "value": 400
+    },
+    {
+      "clue": "What you're really swearing off on January 1st",
+      "correctQuestion": "What is your feelings?",
+      "value": 400
+    },
+    {
+      "clue": "Your gym's favorite people: those who arrive January 2nd",
+      "correctQuestion": "What is those who quit by January 15th?",
+      "value": 400
+    },
+    {
+      "clue": "What replacement for your old job starts in 2025",
+      "correctQuestion": "What is the same job with worse pay?",
+      "value": 400
+    },
+    {
+      "clue": "The new hobby you'll quit faster than your old ones",
+      "correctQuestion": "What is whatever you said you'd do in 2025?",
+      "value": 600
+    },
+    {
+      "clue": "What your parents mean by 'getting your life together'",
+      "correctQuestion": "What is getting married and getting a job you hate?",
+      "value": 600
+    },
+    {
+      "clue": "The thing you inherited from your old self by January 2nd",
+      "correctQuestion": "What is all the same problems?",
+      "value": 600
+    },
+    {
+      "clue": "What luxury brand replaces 'affordable' in 2025",
+      "correctQuestion": "What is debt?",
+      "value": 600
+    },
+    {
+      "clue": "New Year's motivation that's actually just New Year's anxiety",
+      "correctQuestion": "What is feeling like you're running out of time?",
+      "value": 600
+    },
+    {
+      "clue": "The person you're definitely getting rid of: your old self",
+      "correctQuestion": "What is the person who was also a mess last year?",
+      "value": 600
+    },
+    {
+      "clue": "What Instagram influencers sell you on January 1st",
+      "correctQuestion": "What is a fake version of their actual life?",
+      "value": 600
+    },
+    {
+      "clue": "Your new bank account that's replacing the old overdrawn one",
+      "correctQuestion": "What is another one you'll overdraw?",
+      "value": 600
+    },
+    {
+      "clue": "The mental health crisis disguised as New Year optimism",
+      "correctQuestion": "What is existential dread?",
+      "value": 600
+    },
+    {
+      "clue": "Out with the old ex, in with the new ex",
+      "correctQuestion": "What is the same type of person that makes you miserable?",
+      "value": 600
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {"clue": "This is the color of shamrocks and spring grass", "correctQuestion": "What is green?", "value": 200},
+  {"clue": "This fluffy yellow baby bird hatches from an egg in spring", "correctQuestion": "What is a chick?", "value": 200},
+  {"clue": "This colorful arc appears in the sky after spring rain", "correctQuestion": "What is a rainbow?", "value": 200},
+  {"clue": "This tiny plant part you put in dirt grows into a flower", "correctQuestion": "What is a seed?", "value": 200},
+  {"clue": "This is the season when flowers bloom and birds sing again", "correctQuestion": "What is spring?", "value": 200},
+
+  {"clue": "This little leaf has three parts and is worn on St. Patrick's Day", "correctQuestion": "What is a shamrock?", "value": 400},
+  {"clue": "This wet stuff falls from clouds and helps flowers grow in spring", "correctQuestion": "What is rain?", "value": 400},
+  {"clue": "This tiny creature has colorful wings and flies from flower to flower", "correctQuestion": "What is a butterfly?", "value": 400},
+  {"clue": "A leprechaun hides his gold coins at the end of this", "correctQuestion": "What is a rainbow?", "value": 400},
+  {"clue": "This baby sheep is born in spring and says baa", "correctQuestion": "What is a lamb?", "value": 400},
+
+  {"clue": "This magical little man wears a green hat and hides a pot of gold", "correctQuestion": "What is a leprechaun?", "value": 600},
+  {"clue": "Flowers drink this from the ground through their roots", "correctQuestion": "What is water?", "value": 600},
+  {"clue": "This bright yellow flower is one of the first to bloom in spring", "correctQuestion": "What is a daffodil?", "value": 600},
+  {"clue": "On St. Patrick's Day, people wear this color to celebrate", "correctQuestion": "What is green?", "value": 600},
+  {"clue": "This is what a butterfly sleeps inside before it grows its wings", "correctQuestion": "What is a cocoon?", "value": 600},
+
+  {"clue": "This is the shiny treasure a leprechaun keeps at the rainbow's end", "correctQuestion": "What is a pot of gold?", "value": 800},
+  {"clue": "Bees visit flowers in spring to collect this sweet sticky food", "correctQuestion": "What is honey?", "value": 800},
+  {"clue": "This small crawling creature comes out of the ground after spring rain", "correctQuestion": "What is a worm?", "value": 800},
+  {"clue": "This four-leaf plant is said to bring you good luck on St. Patrick's Day", "correctQuestion": "What is a four-leaf clover?", "value": 800},
+  {"clue": "This is the country where St. Patrick's Day first began long ago", "correctQuestion": "What is Ireland?", "value": 800},
+
+  {"clue": "Baby ducks are called this fluffy little name", "correctQuestion": "What is a duckling?", "value": 1000},
+  {"clue": "In spring, birds build these with sticks and leaves to hold their eggs", "correctQuestion": "What is a nest?", "value": 1000},
+  {"clue": "This purple spring flower smells very sweet and grows in bunches", "correctQuestion": "What is a lilac?", "value": 1000},
+  {"clue": "These little black and yellow bugs help flowers grow by moving pollen", "correctQuestion": "What are bees?", "value": 1000},
+  {"clue": "St. Patrick's Day is celebrated on this number day in March", "correctQuestion": "What is the 17th?", "value": 1000},
+  {"clue": "This is what happens to a caterpillar when it grows wings and flies away", "correctQuestion": "What is becoming a butterfly?", "value": 1000},
+  {"clue": "In spring, the days get longer because there is more of this", "correctQuestion": "What is sunshine?", "value": 1000},
+  {"clue": "Baby rabbits are called this soft little name", "correctQuestion": "What is a bunny or kit?", "value": 1000},
+  {"clue": "These pink flowers bloom on trees in spring and fall like snow", "correctQuestion": "What are cherry blossoms?", "value": 1000},
+  {"clue": "A leprechaun is said to be a very tiny magical kind of this", "correctQuestion": "What is a fairy?", "value": 1000},
+  {"clue": "Spring rain makes these round wet puddles that children love to jump in", "correctQuestion": "What are puddles?", "value": 1000},
+  {"clue": "This is what flowers do when they open up their petals for the first time", "correctQuestion": "What is blooming?", "value": 1000},
+  {"clue": "On St. Patrick's Day, this green vegetable is eaten in a famous Irish soup", "correctQuestion": "What is cabbage?", "value": 1000},
+  {"clue": "In spring, squirrels find these brown nuts they buried in the ground last fall", "correctQuestion": "What are acorns?", "value": 1000},
+  {"clue": "This is what you call the warm gentle wind that blows in springtime", "correctQuestion": "What is a breeze?", "value": 1000}
+]

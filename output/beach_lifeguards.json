@@ -1,0 +1,1122 @@
+{
+  "title": "Beach Lifeguards & Water Safety",
+  "description": "Family-friendly trivia about lifeguards, beach safety heroes, and water rescue",
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "category": "Lifeguard Basics",
+          "question": "What color are most lifeguard uniforms?",
+          "answer": "Red or red and yellow"
+        },
+        {
+          "id": 2,
+          "category": "Beach Safety",
+          "question": "What do lifeguards use to rescue someone from the water?",
+          "answer": "A rescue buoy or rescue tube"
+        },
+        {
+          "id": 3,
+          "category": "Lifeguard Equipment",
+          "question": "What is the tall chair that lifeguards sit on called?",
+          "answer": "A lifeguard tower or lifeguard stand"
+        },
+        {
+          "id": 4,
+          "category": "Beach Flags",
+          "question": "What flag warns swimmers of rough water conditions?",
+          "answer": "A red flag"
+        },
+        {
+          "id": 5,
+          "category": "Safety Rules",
+          "question": "Should you swim alone at the beach?",
+          "answer": "No, always swim with a buddy"
+        },
+        {
+          "id": 6,
+          "category": "Lifeguard Duty",
+          "question": "What is the primary job of a lifeguard?",
+          "answer": "To watch swimmers and prevent drowning"
+        },
+        {
+          "id": 7,
+          "category": "Beach Safety",
+          "question": "What should you apply to protect your skin from the sun?",
+          "answer": "Sunscreen"
+        },
+        {
+          "id": 8,
+          "category": "Water Safety",
+          "question": "What swimming stroke do lifeguards teach first to beginners?",
+          "answer": "The front crawl or freestyle"
+        },
+        {
+          "id": 9,
+          "category": "Beach Hazards",
+          "question": "What ocean current pulls swimmers away from shore?",
+          "answer": "A rip current"
+        },
+        {
+          "id": 10,
+          "category": "Lifeguard Training",
+          "question": "What certification must lifeguards have to perform CPR?",
+          "answer": "CPR certification"
+        },
+        {
+          "id": 11,
+          "category": "Beach Safety",
+          "question": "What should you wear to protect your feet while walking on the beach?",
+          "answer": "Flip-flops, sandals, or water shoes"
+        },
+        {
+          "id": 12,
+          "category": "Safety Rules",
+          "question": "What should you do before entering the water?",
+          "answer": "Check the water conditions and watch for warning flags"
+        },
+        {
+          "id": 13,
+          "category": "Lifeguard Equipment",
+          "question": "What whistle do lifeguards use to get attention?",
+          "answer": "A whistle"
+        },
+        {
+          "id": 14,
+          "category": "Beach Safety",
+          "question": "What is dehydration at the beach a risk from?",
+          "answer": "The hot sun and saltwater"
+        },
+        {
+          "id": 15,
+          "category": "Water Safety",
+          "question": "What should you avoid doing in the ocean after eating?",
+          "answer": "Swimming or diving immediately"
+        },
+        {
+          "id": 16,
+          "category": "Lifeguard Signs",
+          "question": "What flag means the beach is closed to swimmers?",
+          "answer": "A black flag"
+        },
+        {
+          "id": 17,
+          "category": "Beach Hazards",
+          "question": "What sea creatures sometimes wash up on the beach and should not be touched?",
+          "answer": "Jellyfish"
+        },
+        {
+          "id": 18,
+          "category": "Safety Rules",
+          "question": "How far from a lifeguard tower should you stay when swimming?",
+          "answer": "Within the supervised swimming area"
+        },
+        {
+          "id": 19,
+          "category": "Water Safety",
+          "question": "What piece of equipment helps non-swimmers stay safe in the water?",
+          "answer": "A life jacket or flotation device"
+        },
+        {
+          "id": 20,
+          "category": "Beach Safety",
+          "question": "What is the best time of day to go to the beach to avoid sunburn?",
+          "answer": "Early morning or late afternoon"
+        },
+        {
+          "id": 21,
+          "category": "Lifeguard Duty",
+          "question": "What do lifeguards use binoculars for?",
+          "answer": "To monitor swimmers from a distance"
+        },
+        {
+          "id": 22,
+          "category": "Water Safety",
+          "question": "What swimming skill helps you float if you get tired?",
+          "answer": "Treading water"
+        },
+        {
+          "id": 23,
+          "category": "Beach Hazards",
+          "question": "What sharp objects might be buried in the sand?",
+          "answer": "Shells or rocks"
+        },
+        {
+          "id": 24,
+          "category": "Safety Rules",
+          "question": "What should you do if you see someone drowning?",
+          "answer": "Call a lifeguard or call 911 immediately"
+        },
+        {
+          "id": 25,
+          "category": "Lifeguard Equipment",
+          "question": "What do lifeguards carry to help identify themselves?",
+          "answer": "A badge or ID"
+        },
+        {
+          "id": 26,
+          "category": "Beach Safety",
+          "question": "What should you bring to stay hydrated at the beach?",
+          "answer": "Water or drinks"
+        },
+        {
+          "id": 27,
+          "category": "Water Safety",
+          "question": "What is the buddy system in swimming?",
+          "answer": "Swimming with a partner to watch each other"
+        },
+        {
+          "id": 28,
+          "category": "Beach Hazards",
+          "question": "What happens if you stay in the sun too long?",
+          "answer": "You can get sunburned"
+        },
+        {
+          "id": 29,
+          "category": "Lifeguard Training",
+          "question": "What must lifeguards be trained in?",
+          "answer": "First aid and rescue techniques"
+        },
+        {
+          "id": 30,
+          "category": "Safety Rules",
+          "question": "What is the safest place to set up your beach towel?",
+          "answer": "Near a lifeguard tower"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "Moderate",
+      "questions": [
+        {
+          "id": 31,
+          "category": "Lifeguard Equipment",
+          "question": "What color are lifeguard rescue tubes typically painted?",
+          "answer": "Bright yellow or red and white"
+        },
+        {
+          "id": 32,
+          "category": "Beach Safety",
+          "question": "What is the recommended SPF level for sunscreen?",
+          "answer": "At least SPF 30"
+        },
+        {
+          "id": 33,
+          "category": "Water Safety",
+          "question": "What is a submerged hazard that swimmers should avoid?",
+          "answer": "A sandbar or underwater rock"
+        },
+        {
+          "id": 34,
+          "category": "Lifeguard Duty",
+          "question": "During what time of day are beaches most crowded with swimmers?",
+          "answer": "Midday or afternoon"
+        },
+        {
+          "id": 35,
+          "category": "Beach Hazards",
+          "question": "What ocean creatures might leave stings on swimmers?",
+          "answer": "Jellyfish or sea urchins"
+        },
+        {
+          "id": 36,
+          "category": "Safety Rules",
+          "question": "What should you check before entering unfamiliar water?",
+          "answer": "The water conditions and weather forecast"
+        },
+        {
+          "id": 37,
+          "category": "Lifeguard Training",
+          "question": "What is the term for a person who has lost consciousness in water?",
+          "answer": "A drowning victim or unconscious swimmer"
+        },
+        {
+          "id": 38,
+          "category": "Beach Safety",
+          "question": "How often should you reapply sunscreen?",
+          "answer": "Every 2 hours or after swimming"
+        },
+        {
+          "id": 39,
+          "category": "Water Safety",
+          "question": "What technique teaches children to survive in water by floating on their back?",
+          "answer": "Water survival or drown-proofing"
+        },
+        {
+          "id": 40,
+          "category": "Lifeguard Equipment",
+          "question": "What device do lifeguards use to communicate with other staff?",
+          "answer": "A radio or walkie-talkie"
+        },
+        {
+          "id": 41,
+          "category": "Beach Flags",
+          "question": "What do two red flags indicate about beach conditions?",
+          "answer": "Strong currents and hazardous conditions"
+        },
+        {
+          "id": 42,
+          "category": "Safety Rules",
+          "question": "What should you avoid drinking from the ocean?",
+          "answer": "Saltwater"
+        },
+        {
+          "id": 43,
+          "category": "Lifeguard Duty",
+          "question": "What is the most dangerous condition for swimmers to watch for?",
+          "answer": "Rip currents"
+        },
+        {
+          "id": 44,
+          "category": "Beach Hazards",
+          "question": "What skin condition can result from prolonged exposure to saltwater?",
+          "answer": "Saltwater irritation or dermatitis"
+        },
+        {
+          "id": 45,
+          "category": "Water Safety",
+          "question": "What is the safest way to escape a rip current?",
+          "answer": "Swim parallel to shore"
+        },
+        {
+          "id": 46,
+          "category": "Lifeguard Training",
+          "question": "What breathing technique is taught in water survival courses?",
+          "answer": "Breath control or controlled breathing"
+        },
+        {
+          "id": 47,
+          "category": "Beach Safety",
+          "question": "What should parents provide for young children at the beach?",
+          "answer": "Supervision and floatation devices"
+        },
+        {
+          "id": 48,
+          "category": "Lifeguard Equipment",
+          "question": "What is stored in a beach first aid kit?",
+          "answer": "Bandages, antiseptic, and medical supplies"
+        },
+        {
+          "id": 49,
+          "category": "Safety Rules",
+          "question": "What is the correct number of breaths to give during CPR?",
+          "answer": "Two initial rescue breaths"
+        },
+        {
+          "id": 50,
+          "category": "Water Safety",
+          "question": "What is a warning sign that someone might be drowning?",
+          "answer": "Silent struggle or lack of splashing"
+        },
+        {
+          "id": 51,
+          "category": "Beach Hazards",
+          "question": "What weather condition should close beaches to swimmers?",
+          "answer": "Lightning or severe storms"
+        },
+        {
+          "id": 52,
+          "category": "Lifeguard Duty",
+          "question": "What do lifeguards do during their shift breaks?",
+          "answer": "Stay alert for emergencies while off-duty"
+        },
+        {
+          "id": 53,
+          "category": "Beach Safety",
+          "question": "What type of footwear is not recommended for beach walking?",
+          "answer": "Bare feet on hot sand"
+        },
+        {
+          "id": 54,
+          "category": "Water Safety",
+          "question": "What is the proper form for the rescue carry in lifeguarding?",
+          "answer": "Towing the victim to shore"
+        },
+        {
+          "id": 55,
+          "category": "Lifeguard Training",
+          "question": "How long should CPR chest compressions continue?",
+          "answer": "Until emergency services arrive or victim recovers"
+        },
+        {
+          "id": 56,
+          "category": "Beach Safety",
+          "question": "What precaution should swimmers take with their valuables?",
+          "answer": "Leave them in a secure location or with a trusted person"
+        },
+        {
+          "id": 57,
+          "category": "Safety Rules",
+          "question": "What age group requires the closest supervision at the beach?",
+          "answer": "Young children ages 0-5"
+        },
+        {
+          "id": 58,
+          "category": "Lifeguard Equipment",
+          "question": "What is a cervical spine board used for?",
+          "answer": "Stabilizing injured swimmers"
+        },
+        {
+          "id": 59,
+          "category": "Beach Hazards",
+          "question": "What happens to the beach during high tide?",
+          "answer": "The water level rises and the beach gets smaller"
+        },
+        {
+          "id": 60,
+          "category": "Water Safety",
+          "question": "What is a safe distance to dive in the ocean?",
+          "answer": "Only in designated areas with known depths"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "Intermediate",
+      "questions": [
+        {
+          "id": 61,
+          "category": "Lifeguard History",
+          "question": "In what year was the first official lifeguard service established in the United States?",
+          "answer": "1912"
+        },
+        {
+          "id": 62,
+          "category": "Water Safety",
+          "question": "What is secondary drowning, and how long can it occur after water exposure?",
+          "answer": "Delayed breathing difficulty, up to 24 hours after exposure"
+        },
+        {
+          "id": 63,
+          "category": "Beach Hazards",
+          "question": "What is the phenomenon called when waves meet and create dangerous patterns?",
+          "answer": "Wave interference or standing waves"
+        },
+        {
+          "id": 64,
+          "category": "Lifeguard Training",
+          "question": "What is the acronym RICE used for in treating beach injuries?",
+          "answer": "Rest, Ice, Compression, Elevation"
+        },
+        {
+          "id": 65,
+          "category": "Safety Rules",
+          "question": "What is the recommended water temperature for safe swimming?",
+          "answer": "At least 70 degrees Fahrenheit"
+        },
+        {
+          "id": 66,
+          "category": "Lifeguard Equipment",
+          "question": "What type of rescue technique uses a torpedo-shaped buoy?",
+          "answer": "A can buoy rescue"
+        },
+        {
+          "id": 67,
+          "category": "Beach Safety",
+          "question": "What is the condition caused by rapid temperature drop in water?",
+          "answer": "Hypothermia"
+        },
+        {
+          "id": 68,
+          "category": "Water Safety",
+          "question": "What is dry drowning and what causes it?",
+          "answer": "Sudden closure of airways due to water exposure or reflex"
+        },
+        {
+          "id": 69,
+          "category": "Lifeguard Duty",
+          "question": "What is the primary scan pattern lifeguards use to monitor swimmers?",
+          "answer": "Systematic left-to-right or zone-based scanning"
+        },
+        {
+          "id": 70,
+          "category": "Beach Hazards",
+          "question": "What dangerous current is caused by water piling up on shore?",
+          "answer": "A rip current"
+        },
+        {
+          "id": 71,
+          "category": "Lifeguard Training",
+          "question": "What is the proper compression-to-ventilation ratio for CPR?",
+          "answer": "30 compressions to 2 breaths"
+        },
+        {
+          "id": 72,
+          "category": "Safety Rules",
+          "question": "What condition describes excessive body heat buildup at the beach?",
+          "answer": "Heat exhaustion or heat stroke"
+        },
+        {
+          "id": 73,
+          "category": "Water Safety",
+          "question": "What reflex causes involuntary gasping when entering cold water?",
+          "answer": "The cold shock response"
+        },
+        {
+          "id": 74,
+          "category": "Lifeguard Equipment",
+          "question": "What is an automated external defibrillator (AED) used for?",
+          "answer": "Treating cardiac arrest with electric shock"
+        },
+        {
+          "id": 75,
+          "category": "Beach Safety",
+          "question": "What is the recommended depth for diving in the ocean?",
+          "answer": "Never dive in the ocean without proper training"
+        },
+        {
+          "id": 76,
+          "category": "Lifeguard Duty",
+          "question": "What document do lifeguards use to record incidents and accidents?",
+          "answer": "An incident report or accident log"
+        },
+        {
+          "id": 77,
+          "category": "Water Safety",
+          "question": "What is the tidal bore and why is it dangerous?",
+          "answer": "A large wave caused by incoming tide, dangerous to swimmers"
+        },
+        {
+          "id": 78,
+          "category": "Beach Hazards",
+          "question": "What condition occurs when blood vessels constrict from cold water?",
+          "answer": "Vasoconstriction"
+        },
+        {
+          "id": 79,
+          "category": "Lifeguard Training",
+          "question": "What technique is used to safely approach a panicked swimmer?",
+          "answer": "Approaching from behind or using a flotation device"
+        },
+        {
+          "id": 80,
+          "category": "Safety Rules",
+          "question": "What is the legal duty of care lifeguards have?",
+          "answer": "To prevent drowning within their surveillance zone"
+        },
+        {
+          "id": 81,
+          "category": "Beach Safety",
+          "question": "What is a lifeguard's responsibility regarding weather monitoring?",
+          "answer": "Checking forecasts and closing beach during dangerous conditions"
+        },
+        {
+          "id": 82,
+          "category": "Water Safety",
+          "question": "What is the shallow water blackout phenomenon?",
+          "answer": "Unconsciousness caused by breath-holding before diving"
+        },
+        {
+          "id": 83,
+          "category": "Lifeguard Equipment",
+          "question": "What is a rescue board used for in ocean rescue?",
+          "answer": "Reaching swimmers beyond safe wading distance"
+        },
+        {
+          "id": 84,
+          "category": "Beach Hazards",
+          "question": "What is a riptide and how does it differ from a rip current?",
+          "answer": "Terms often used interchangeably for strong water currents"
+        },
+        {
+          "id": 85,
+          "category": "Lifeguard Training",
+          "question": "What is the recovery position used for after CPR?",
+          "answer": "Side-lying position to keep airway open"
+        },
+        {
+          "id": 86,
+          "category": "Safety Rules",
+          "question": "What is the recommended ratio of lifeguards to swimmers?",
+          "answer": "One lifeguard per 500-1000 swimmers depending on conditions"
+        },
+        {
+          "id": 87,
+          "category": "Water Safety",
+          "question": "What is hydrocution and what causes it?",
+          "answer": "Sudden death from water immersion, cause uncertain"
+        },
+        {
+          "id": 88,
+          "category": "Beach Safety",
+          "question": "What precautions should lifeguards take against UV exposure?",
+          "answer": "Sunscreen, protective clothing, and regular rotation"
+        },
+        {
+          "id": 89,
+          "category": "Lifeguard Duty",
+          "question": "What is the maximum attention span for safe lifeguard scanning?",
+          "answer": "10 seconds maximum before returning to zone"
+        },
+        {
+          "id": 90,
+          "category": "Beach Hazards",
+          "question": "What causes undertow at the beach?",
+          "answer": "Water returning to sea after waves break on shore"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "difficulty": "Advanced",
+      "questions": [
+        {
+          "id": 91,
+          "category": "Lifeguard Standards",
+          "question": "What is the USLA and what role does it play in lifeguarding?",
+          "answer": "United States Lifesaving Association, sets standards and certifications"
+        },
+        {
+          "id": 92,
+          "category": "Water Physiology",
+          "question": "What is the mammalian dive reflex and how does it affect rescued swimmers?",
+          "answer": "Involuntary response that slows heart rate and conserves oxygen"
+        },
+        {
+          "id": 93,
+          "category": "Beach Hazards",
+          "question": "What is the difference between erosion and accretion on beaches?",
+          "answer": "Erosion is loss of sand, accretion is gain of sand"
+        },
+        {
+          "id": 94,
+          "category": "Lifeguard Training",
+          "question": "What is the protocol for treating possible spinal injuries in water?",
+          "answer": "Stabilize head and neck, use backboard extraction"
+        },
+        {
+          "id": 95,
+          "category": "Water Safety",
+          "question": "What is the laryngospasm reflex that can lead to drowning?",
+          "answer": "Involuntary closure of vocal cords when water enters throat"
+        },
+        {
+          "id": 96,
+          "category": "Beach Safety",
+          "question": "What is the recommended training frequency for lifeguard recertification?",
+          "answer": "Annually or every 2 years depending on certification"
+        },
+        {
+          "id": 97,
+          "category": "Lifeguard Equipment",
+          "question": "What are the specifications for a rescue tube used in lifeguarding?",
+          "answer": "At least 35 inches long, 4.5 inches diameter, 17-20 pounds buoyancy"
+        },
+        {
+          "id": 98,
+          "category": "Water Physiology",
+          "question": "What is the difference between passive and active drowning?",
+          "answer": "Active drowning shows struggle; passive is silent and unconscious"
+        },
+        {
+          "id": 99,
+          "category": "Beach Hazards",
+          "question": "What causes coastal flooding and storm surge during hurricanes?",
+          "answer": "High winds and low pressure systems pushing water onto shore"
+        },
+        {
+          "id": 100,
+          "category": "Lifeguard Training",
+          "question": "What is the technique for breaking free from a panicked swimmer's grasp?",
+          "answer": "Submerge both, which causes reflex release"
+        },
+        {
+          "id": 101,
+          "category": "Safety Rules",
+          "question": "What legal liability do beach municipalities have for lifeguard services?",
+          "answer": "Duty to provide safe conditions within their control"
+        },
+        {
+          "id": 102,
+          "category": "Water Safety",
+          "question": "What is the immersion syndrome and what triggers it?",
+          "answer": "Sudden cardiac death from cold water immersion"
+        },
+        {
+          "id": 103,
+          "category": "Lifeguard Duty",
+          "question": "What is the surveillance zone system used by professional lifeguards?",
+          "answer": "Dividing beach into monitored sections with assigned lifeguards"
+        },
+        {
+          "id": 104,
+          "category": "Beach Safety",
+          "question": "What is the recommended approach angle for rescuing a swimmer?",
+          "answer": "45-90 degrees to avoid being grabbed from behind"
+        },
+        {
+          "id": 105,
+          "category": "Water Physiology",
+          "question": "What is breath-hold diving and why is it dangerous?",
+          "answer": "Holding breath underwater; oxygen depletion can cause blackout"
+        },
+        {
+          "id": 106,
+          "category": "Lifeguard Equipment",
+          "question": "What are the safety requirements for rescue boards?",
+          "answer": "Minimum 6 feet long with flotation and leash attachment"
+        },
+        {
+          "id": 107,
+          "category": "Beach Hazards",
+          "question": "What is the relationship between wind and wave generation?",
+          "answer": "Stronger wind creates larger, more dangerous waves"
+        },
+        {
+          "id": 108,
+          "category": "Lifeguard Training",
+          "question": "What is the technique for administering rescue breathing in saltwater exposure?",
+          "answer": "Standard CPR with consideration for water aspiration"
+        },
+        {
+          "id": 109,
+          "category": "Safety Rules",
+          "question": "What is the Good Samaritan Law and how does it apply to lifeguards?",
+          "answer": "Legal protection for providing aid in emergency situations"
+        },
+        {
+          "id": 110,
+          "category": "Water Safety",
+          "question": "What is the difference between hypoxia and anoxia in drowning?",
+          "answer": "Hypoxia is low oxygen, anoxia is no oxygen"
+        },
+        {
+          "id": 111,
+          "category": "Beach Safety",
+          "question": "What is the protocol for managing a beach emergency in crowded conditions?",
+          "answer": "Clear water area, establish communication, coordinate response"
+        },
+        {
+          "id": 112,
+          "category": "Lifeguard Duty",
+          "question": "What is the significance of lifeguard lookout distance?",
+          "answer": "Determines effective surveillance range for monitoring swimmers"
+        },
+        {
+          "id": 113,
+          "category": "Water Physiology",
+          "question": "What is the cold water afterdrop phenomenon?",
+          "answer": "Continued core temperature drop after rescue from cold water"
+        },
+        {
+          "id": 114,
+          "category": "Beach Hazards",
+          "question": "What is a longshore current and how does it affect swimmers?",
+          "answer": "Current parallel to shore that can sweep swimmers downbeach"
+        },
+        {
+          "id": 115,
+          "category": "Lifeguard Training",
+          "question": "What is the proper technique for performing a two-person rescue?",
+          "answer": "One controls victim, one provides support and communication"
+        },
+        {
+          "id": 116,
+          "category": "Safety Rules",
+          "question": "What documentation must lifeguards maintain after an incident?",
+          "answer": "Detailed incident reports with witness statements and medical records"
+        },
+        {
+          "id": 117,
+          "category": "Water Safety",
+          "question": "What is aspiration and what distinguishes it from drowning?",
+          "answer": "Water entering lungs; distinguished from drowning by mechanisms"
+        },
+        {
+          "id": 118,
+          "category": "Lifeguard Equipment",
+          "question": "What is the visibility requirement for lifeguard uniforms?",
+          "answer": "High visibility colors, typically red and white or red and yellow"
+        },
+        {
+          "id": 119,
+          "category": "Beach Safety",
+          "question": "What is the purpose of beach grooming and raking operations?",
+          "answer": "Remove debris and hazards, improve safety and aesthetics"
+        },
+        {
+          "id": 120,
+          "category": "Water Physiology",
+          "question": "What is the diving response in humans and animals?",
+          "answer": "Slowing heart rate and blood vessel constriction during water immersion"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 121,
+          "category": "Advanced Rescue Techniques",
+          "question": "What is the kinetic rescue swimming technique and when is it employed?",
+          "answer": "Using momentum to reach and support distressed swimmer"
+        },
+        {
+          "id": 122,
+          "category": "Water Physiology",
+          "question": "What is the Traube-Hering waves phenomenon in relation to water immersion?",
+          "answer": "Fluctuations in blood pressure related to breathing and circulation"
+        },
+        {
+          "id": 123,
+          "category": "Beach Management",
+          "question": "What is the ABCS assessment protocol for rapid rescue evaluation?",
+          "answer": "Airway, Breathing, Circulation, Spine awareness"
+        },
+        {
+          "id": 124,
+          "category": "Lifeguard Psychology",
+          "question": "What is bystander effect and how does it impact beach emergencies?",
+          "answer": "Tendency for people not to help in emergency situations"
+        },
+        {
+          "id": 125,
+          "category": "Water Safety",
+          "question": "What is the relationship between water density and buoyancy control?",
+          "answer": "Denser saltwater provides more buoyancy than freshwater"
+        },
+        {
+          "id": 126,
+          "category": "Advanced Rescue Techniques",
+          "question": "What is the difference between contact and non-contact rescues?",
+          "answer": "Contact requires touching victim; non-contact uses equipment"
+        },
+        {
+          "id": 127,
+          "category": "Beach Hazards",
+          "question": "What is the bathymetry of a beach and how does it affect swimmers?",
+          "answer": "Underwater topography; steep slopes create dangerous conditions"
+        },
+        {
+          "id": 128,
+          "category": "Lifeguard Training",
+          "question": "What is the theory behind interval-based CPR training refreshers?",
+          "answer": "Muscle memory retention requires periodic retraining"
+        },
+        {
+          "id": 129,
+          "category": "Water Physiology",
+          "question": "What is the Windkessel effect in cardiovascular response to cold water?",
+          "answer": "Elastic recoil of arteries affecting blood pressure regulation"
+        },
+        {
+          "id": 130,
+          "category": "Beach Safety",
+          "question": "What is the signaling system used for inter-lifeguard communication?",
+          "answer": "Whistle codes and radio procedures"
+        },
+        {
+          "id": 131,
+          "category": "Advanced Rescue Techniques",
+          "question": "What is the proper escape technique from a victim's grip during rescue?",
+          "answer": "Submerge to trigger reflex release or use defensive positioning"
+        },
+        {
+          "id": 132,
+          "category": "Lifeguard Standards",
+          "question": "What are the USLA's recommended response times for emergency situations?",
+          "answer": "Arrival at victim within 30 seconds or less"
+        },
+        {
+          "id": 133,
+          "category": "Water Safety",
+          "question": "What is hydrostatic squeeze and how does it affect deep swimmers?",
+          "answer": "Pressure effects on body during deep water exposure"
+        },
+        {
+          "id": 134,
+          "category": "Beach Management",
+          "question": "What data do lifeguards track for statistical analysis of incidents?",
+          "answer": "Time, location, victim demographics, rescue type, outcome"
+        },
+        {
+          "id": 135,
+          "category": "Advanced Rescue Techniques",
+          "question": "What is the tower drag rescue method and its application?",
+          "answer": "Using beach equipment or buoys to assist in victim extraction"
+        },
+        {
+          "id": 136,
+          "category": "Water Physiology",
+          "question": "What is the relationship between core temperature and survival time?",
+          "answer": "Lower core temperature extends possible revival window"
+        },
+        {
+          "id": 137,
+          "category": "Beach Hazards",
+          "question": "What is the shoaling effect and how does it impact wave behavior?",
+          "answer": "Wave height increase as water depth decreases approaching shore"
+        },
+        {
+          "id": 138,
+          "category": "Lifeguard Equipment",
+          "question": "What is the specification for effective rescue throw bags?",
+          "answer": "50-75 feet of rope with buoyant end marker"
+        },
+        {
+          "id": 139,
+          "category": "Safety Rules",
+          "question": "What is the chain of custody protocol for evidence in beach-related incidents?",
+          "answer": "Documented handling and storage of physical evidence"
+        },
+        {
+          "id": 140,
+          "category": "Advanced Rescue Techniques",
+          "question": "What is the cross-chest carry rescue technique and when is it used?",
+          "answer": "Securing victim across rescuer's chest for rapid extrication"
+        },
+        {
+          "id": 141,
+          "category": "Water Safety",
+          "question": "What is the valsalva maneuver and why is it dangerous in water?",
+          "answer": "Forced exhalation against closed glottis; can cause blackout"
+        },
+        {
+          "id": 142,
+          "category": "Beach Management",
+          "question": "What is the risk stratification matrix for beach closure decisions?",
+          "answer": "Multi-factor analysis of conditions, rescues, and incidents"
+        },
+        {
+          "id": 143,
+          "category": "Lifeguard Training",
+          "question": "What is the neurological assessment using the AVPU scale?",
+          "answer": "Alert, Verbal, Pain, Unresponsive consciousness levels"
+        },
+        {
+          "id": 144,
+          "category": "Advanced Rescue Techniques",
+          "question": "What is the flip turn rescue method for unconscious swimmers?",
+          "answer": "Technique to rotate victim face-up for airway access"
+        },
+        {
+          "id": 145,
+          "category": "Beach Hazards",
+          "question": "What is the relationship between lunar cycles and tidal range?",
+          "answer": "Spring tides occur near new and full moons; larger range"
+        },
+        {
+          "id": 146,
+          "category": "Water Physiology",
+          "question": "What is the peripheral vasoconstriction response to immersion?",
+          "answer": "Blood vessel narrowing to preserve core body temperature"
+        },
+        {
+          "id": 147,
+          "category": "Lifeguard Standards",
+          "question": "What are the criteria for lifeguard fitness and conditioning standards?",
+          "answer": "Endurance, strength, swimming speed, and rescue capability requirements"
+        },
+        {
+          "id": 148,
+          "category": "Beach Safety",
+          "question": "What is the incident prediction model used by modern lifeguard services?",
+          "answer": "Analysis of conditions, history, and behavioral patterns"
+        },
+        {
+          "id": 149,
+          "category": "Advanced Rescue Techniques",
+          "question": "What is the proper technique for rescuing a swimmer from a rip current?",
+          "answer": "Approach from side, provide flotation, exit perpendicular to current"
+        },
+        {
+          "id": 150,
+          "category": "Water Safety",
+          "question": "What is the threshold for effective heat dissipation in water immersion?",
+          "answer": "Heat loss occurs faster in water than air at same temperature"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "difficulty": "Expert",
+      "questions": [
+        {
+          "id": 151,
+          "category": "Advanced Medical",
+          "question": "What is the patho-physiology of immersion pulmonary edema (IPE) in swimmers?",
+          "answer": "Fluid accumulation in lungs from pressure differential and autonomic response"
+        },
+        {
+          "id": 152,
+          "category": "Rescue Science",
+          "question": "What is the theoretical basis for the mammalian dive reflex duration in humans?",
+          "answer": "Limited by cerebral oxygen stores, typically 10-20 seconds consciousness"
+        },
+        {
+          "id": 153,
+          "category": "Beach Oceanography",
+          "question": "What is the computational fluid dynamics application for predicting rip current formation?",
+          "answer": "Modeling wave energy dissipation and water return flow dynamics"
+        },
+        {
+          "id": 154,
+          "category": "Lifeguard Physiology",
+          "question": "What is the metabolic cost analysis for sprint rescue swimming performance?",
+          "answer": "Anaerobic exertion requiring rapid recovery protocols"
+        },
+        {
+          "id": 155,
+          "category": "Advanced Rescue",
+          "question": "What is the biomechanical optimization for efficient rescue board deployment?",
+          "answer": "Paddling technique, weight distribution, and wave utilization dynamics"
+        },
+        {
+          "id": 156,
+          "category": "Water Safety Science",
+          "question": "What is the relationship between hydration level and cold water immersion endurance?",
+          "answer": "Proper hydration supports thermoregulation and survival time"
+        },
+        {
+          "id": 157,
+          "category": "Beach Management",
+          "question": "What is the epidemiological analysis of near-drowning incidents and risk factors?",
+          "answer": "Statistical correlation between demographics, conditions, and outcomes"
+        },
+        {
+          "id": 158,
+          "category": "Advanced Training",
+          "question": "What is the sport-specific training regimen for competitive lifeguard rescue athletes?",
+          "answer": "Sprint conditioning, strength training, and sport-specific skill development"
+        },
+        {
+          "id": 159,
+          "category": "Rescue Technology",
+          "question": "What is the application of drone technology in beach surveillance and rescue operations?",
+          "answer": "Aerial monitoring, rapid victim location, equipment delivery capability"
+        },
+        {
+          "id": 160,
+          "category": "Water Physiology",
+          "question": "What is the cerebral metabolic suppression during moderate hypothermia in water?",
+          "answer": "Reduced oxygen demand extends possible revival window significantly"
+        },
+        {
+          "id": 161,
+          "category": "Advanced Medical",
+          "question": "What is the extracorporeal rewarming protocol for severe hypothermia victims?",
+          "answer": "ECMO or bypass techniques for core rewarming when conventional methods fail"
+        },
+        {
+          "id": 162,
+          "category": "Beach Science",
+          "question": "What is the sediment transport modeling for predicting coastal erosion patterns?",
+          "answer": "Wave energy analysis combined with longshore drift calculations"
+        },
+        {
+          "id": 163,
+          "category": "Lifeguard Standards",
+          "question": "What is the evidence-based framework for optimal lifeguard placement ratios?",
+          "answer": "Research-derived recommendations based on incident density and response times"
+        },
+        {
+          "id": 164,
+          "category": "Rescue Science",
+          "question": "What is the application of biomechanics in analyzing rescue carry efficiency?",
+          "answer": "Optimizing body mechanics to reduce energy expenditure during extrication"
+        },
+        {
+          "id": 165,
+          "category": "Water Safety",
+          "question": "What is the relationship between water clarity and submersion drowning risks?",
+          "answer": "Reduced visibility prevents early victim detection and delayed rescue"
+        },
+        {
+          "id": 166,
+          "category": "Advanced Training",
+          "question": "What is the cognitive load theory application in lifeguard decision-making?",
+          "answer": "Working memory limitations affect rapid assessment under stress conditions"
+        },
+        {
+          "id": 167,
+          "category": "Beach Management",
+          "question": "What is the systems-based approach to incident prevention through environmental design?",
+          "answer": "Modifying beach layout to reduce hazard exposure and improve access"
+        },
+        {
+          "id": 168,
+          "category": "Rescue Technology",
+          "question": "What is the artificial intelligence application for automated rip current detection?",
+          "answer": "Machine learning models trained on satellite imagery for real-time hazard identification"
+        },
+        {
+          "id": 169,
+          "category": "Water Physiology",
+          "question": "What is the arterial blood gas analysis interpretation in near-drowning cases?",
+          "answer": "Hypoxemia and hypercapnia levels indicate aspiration severity and oxygen deficit"
+        },
+        {
+          "id": 170,
+          "category": "Advanced Medical",
+          "question": "What is the long-term neurological outcome prediction for hypoxic-ischemic encephalopathy victims?",
+          "answer": "Prognosis based on cooling time, resuscitation duration, and recovery trajectory"
+        },
+        {
+          "id": 171,
+          "category": "Lifeguard Psychology",
+          "question": "What is the stress inoculation training methodology for preparing rescue responders?",
+          "answer": "Progressive exposure to realistic stressors to build resilience and competence"
+        },
+        {
+          "id": 172,
+          "category": "Beach Oceanography",
+          "question": "What is the application of fluid mechanics principles to analyze undertow generation?",
+          "answer": "Mass conservation equations describing return flow dynamics at shoreline"
+        },
+        {
+          "id": 173,
+          "category": "Rescue Science",
+          "question": "What is the kinetic energy analysis of rescue board velocity and impact dynamics?",
+          "answer": "Physics calculations for safe approach speed and contact force management"
+        },
+        {
+          "id": 174,
+          "category": "Water Safety",
+          "question": "What is the relationship between age and cardiovascular response to cold water immersion?",
+          "answer": "Diminished reflex capacity in elderly increases hypothermia and cardiac risk"
+        },
+        {
+          "id": 175,
+          "category": "Advanced Training",
+          "question": "What is the periodization model for optimal lifeguard conditioning throughout seasons?",
+          "answer": "Cyclical training progression matching peak lifeguard demand periods"
+        },
+        {
+          "id": 176,
+          "category": "Beach Management",
+          "question": "What is the multi-criteria decision analysis for beach closure protocols?",
+          "answer": "Weighted scoring of condition severity, historical data, and forecast uncertainty"
+        },
+        {
+          "id": 177,
+          "category": "Rescue Technology",
+          "question": "What is the application of wearable sensors in monitoring lifeguard physiological stress?",
+          "answer": "Real-time heart rate and fatigue assessment for operational performance management"
+        },
+        {
+          "id": 178,
+          "category": "Water Physiology",
+          "question": "What is the pathophysiology of cold-induced immersion diuresis in extended water exposure?",
+          "answer": "Central blood volume redistribution causing excessive urination and dehydration"
+        },
+        {
+          "id": 179,
+          "category": "Advanced Medical",
+          "question": "What is the immunological response and inflammation cascade post-near-drowning?",
+          "answer": "Acute phase response with potential delayed organ dysfunction development"
+        },
+        {
+          "id": 180,
+          "category": "Lifeguard Standards",
+          "question": "What is the psychometric validation methodology for competency-based lifeguard certification exams?",
+          "answer": "Statistical analysis of test reliability, validity, and predictive rescue performance"
+        }
+      ]
+    }
+  ]
+}

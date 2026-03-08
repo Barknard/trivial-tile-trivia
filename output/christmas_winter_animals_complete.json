@@ -1,0 +1,922 @@
+{
+  "category": "Winter Animals",
+  "theme": "christmas",
+  "category_id": "winter_animals",
+  "description": "Polar bears, penguins, Arctic creatures",
+  "age_suitability": "kids_4_under, kids_10_under primary",
+  "research_alignment": "Science connection - habitats, adaptation, biodiversity",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This big white bear lives in the snowy Arctic",
+        "correctQuestion": "What is a polar bear?",
+        "value": 200
+      },
+      {
+        "clue": "These black and white birds slide on their bellies on ice",
+        "correctQuestion": "What are penguins?",
+        "value": 200
+      },
+      {
+        "clue": "Santa's sleigh is pulled by these animals with antlers",
+        "correctQuestion": "What are reindeer?",
+        "value": 200
+      },
+      {
+        "clue": "This animal has a long neck and white fur and lives in the snow",
+        "correctQuestion": "What is a snow goose?",
+        "value": 200
+      },
+      {
+        "clue": "This fluffy white Arctic animal is related to a dog and says 'howl'",
+        "correctQuestion": "What is a wolf?",
+        "value": 200
+      },
+      {
+        "clue": "This animal makes a snowman's body from three of these white balls",
+        "correctQuestion": "What is snow?",
+        "value": 200
+      },
+      {
+        "clue": "Penguins live in this very cold place at the bottom of Earth",
+        "correctQuestion": "What is Antarctica?",
+        "value": 200
+      },
+      {
+        "clue": "This white animal with a pink nose hops in the snow",
+        "correctQuestion": "What is a bunny?",
+        "value": 200
+      },
+      {
+        "clue": "Polar bears have fur that is this color",
+        "correctQuestion": "What is white?",
+        "value": 200
+      },
+      {
+        "clue": "These birds that look like ducks swim in icy water",
+        "correctQuestion": "What are ducks?",
+        "value": 200
+      },
+      {
+        "clue": "This Arctic animal looks like a big seal with long teeth",
+        "correctQuestion": "What is a walrus?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer use these hard things on their head to dig in snow for food",
+        "correctQuestion": "What are antlers?",
+        "value": 400
+      },
+      {
+        "clue": "Penguins slide on their tummies which is called this",
+        "correctQuestion": "What is tobogganing?",
+        "value": 400
+      },
+      {
+        "clue": "This small white animal stores nuts and changes color in winter",
+        "correctQuestion": "What is a squirrel?",
+        "value": 400
+      },
+      {
+        "clue": "Polar bears hunt for this swimming animal to eat",
+        "correctQuestion": "What are seals?",
+        "value": 400
+      },
+      {
+        "clue": "This white owl hunts in the Arctic snow",
+        "correctQuestion": "What is a snowy owl?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer eat this fuzzy plant called moss that grows in cold places",
+        "correctQuestion": "What is lichen?",
+        "value": 400
+      },
+      {
+        "clue": "These baby seals are white and fluffy",
+        "correctQuestion": "What are seal pups?",
+        "value": 400
+      },
+      {
+        "clue": "This Arctic animal looks like a big white weasel",
+        "correctQuestion": "What is an ermine?",
+        "value": 400
+      },
+      {
+        "clue": "Penguins have these instead of arms for swimming",
+        "correctQuestion": "What are flippers?",
+        "value": 400
+      },
+      {
+        "clue": "This Arctic fox turns this color in winter to hide in snow",
+        "correctQuestion": "What is white?",
+        "value": 600
+      },
+      {
+        "clue": "Polar bears have black skin under their fur to absorb this from the sun",
+        "correctQuestion": "What is heat?",
+        "value": 600
+      },
+      {
+        "clue": "Emperor penguins keep their eggs warm on these body parts",
+        "correctQuestion": "What are their feet?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer have special noses that warm up the air before they do this",
+        "correctQuestion": "What is breathe?",
+        "value": 600
+      },
+      {
+        "clue": "This Arctic animal with a horn is called the unicorn of the sea",
+        "correctQuestion": "What is a narwhal?",
+        "value": 600
+      },
+      {
+        "clue": "Seals make holes in ice so they can do this important thing",
+        "correctQuestion": "What is breathe?",
+        "value": 600
+      },
+      {
+        "clue": "This bird flies south for winter which is called this",
+        "correctQuestion": "What is migration?",
+        "value": 600
+      },
+      {
+        "clue": "Polar bear cubs are born this size compared to mom",
+        "correctQuestion": "What is very tiny?",
+        "value": 600
+      },
+      {
+        "clue": "Penguins huddle together to stay this opposite of cold",
+        "correctQuestion": "What is warm?",
+        "value": 800
+      },
+      {
+        "clue": "Walruses use their tusks to pull themselves onto this frozen surface",
+        "correctQuestion": "What is ice?",
+        "value": 800
+      },
+      {
+        "clue": "Arctic hares have big feet that work like these for walking on snow",
+        "correctQuestion": "What are snowshoes?",
+        "value": 800
+      },
+      {
+        "clue": "Reindeer can see this type of light that humans cannot see",
+        "correctQuestion": "What is ultraviolet light?",
+        "value": 800
+      },
+      {
+        "clue": "Polar bears are excellent at this water activity",
+        "correctQuestion": "What is swimming?",
+        "value": 1000
+      },
+      {
+        "clue": "Emperor penguins can hold their breath underwater for this many minutes",
+        "correctQuestion": "What is twenty minutes?",
+        "value": 1000
+      },
+      {
+        "clue": "Snowy owls hunt for these small rodents under the snow",
+        "correctQuestion": "What are lemmings?",
+        "value": 1000
+      },
+      {
+        "clue": "Caribou and reindeer are actually this relationship to each other",
+        "correctQuestion": "What is the same animal?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This Arctic mammal is the largest land carnivore on Earth",
+        "correctQuestion": "What is a polar bear?",
+        "value": 200
+      },
+      {
+        "clue": "Emperor penguins are native to this frozen continent",
+        "correctQuestion": "What is Antarctica?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer are called this in North America",
+        "correctQuestion": "What are caribou?",
+        "value": 200
+      },
+      {
+        "clue": "This Arctic whale has a long spiral tusk and is called the unicorn of the sea",
+        "correctQuestion": "What is a narwhal?",
+        "value": 200
+      },
+      {
+        "clue": "Arctic foxes change from brown to this color in winter for camouflage",
+        "correctQuestion": "What is white?",
+        "value": 200
+      },
+      {
+        "clue": "Snowy owls have this unusual trait for an owl species",
+        "correctQuestion": "What is being active during daytime?",
+        "value": 200
+      },
+      {
+        "clue": "Walruses use their tusks primarily for this activity on ice",
+        "correctQuestion": "What is hauling out?",
+        "value": 200
+      },
+      {
+        "clue": "This Arctic animal can run up to 40 mph and has large hooves for snow",
+        "correctQuestion": "What is a reindeer or caribou?",
+        "value": 200
+      },
+      {
+        "clue": "Polar bears have this color skin under their white fur",
+        "correctQuestion": "What is black?",
+        "value": 200
+      },
+      {
+        "clue": "This small Arctic rodent is a primary food source for snowy owls",
+        "correctQuestion": "What is a lemming?",
+        "value": 200
+      },
+      {
+        "clue": "Emperor penguins can dive to depths of over this many feet",
+        "correctQuestion": "What is 1,800 feet?",
+        "value": 400
+      },
+      {
+        "clue": "Polar bears primarily hunt this marine mammal for food",
+        "correctQuestion": "What are seals?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer are the only deer species where both males and females grow these",
+        "correctQuestion": "What are antlers?",
+        "value": 400
+      },
+      {
+        "clue": "This adaptation allows polar bears' fur to appear white while being transparent",
+        "correctQuestion": "What is hollow hair shafts?",
+        "value": 400
+      },
+      {
+        "clue": "Arctic hares can reach hopping speeds of this many mph",
+        "correctQuestion": "What is 40 mph?",
+        "value": 400
+      },
+      {
+        "clue": "Penguins toboggan by sliding on their bellies to conserve this",
+        "correctQuestion": "What is energy?",
+        "value": 400
+      },
+      {
+        "clue": "This Arctic seal species has a distinctive spotted coat",
+        "correctQuestion": "What is a harp seal?",
+        "value": 400
+      },
+      {
+        "clue": "Snowy owls can rotate their heads this many degrees",
+        "correctQuestion": "What is 270 degrees?",
+        "value": 400
+      },
+      {
+        "clue": "Walrus calves can swim within this time period after birth",
+        "correctQuestion": "What is hours or one day?",
+        "value": 400
+      },
+      {
+        "clue": "This is the name for a group of penguins on land",
+        "correctQuestion": "What is a waddle?",
+        "value": 400
+      },
+      {
+        "clue": "Polar bears can smell seals from this distance away",
+        "correctQuestion": "What is one mile?",
+        "value": 600
+      },
+      {
+        "clue": "Emperor penguins fast for this many months during breeding season",
+        "correctQuestion": "What is four months?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer eyes change color from gold in summer to this in winter",
+        "correctQuestion": "What is blue?",
+        "value": 600
+      },
+      {
+        "clue": "This Arctic bird migrates farther than any other, from Arctic to Antarctic",
+        "correctQuestion": "What is the Arctic tern?",
+        "value": 600
+      },
+      {
+        "clue": "Musk oxen have this adaptation that forms a protective circle against predators",
+        "correctQuestion": "What is herding behavior?",
+        "value": 600
+      },
+      {
+        "clue": "Beluga whales are called this due to their distinctive communication sounds",
+        "correctQuestion": "What are canaries of the sea?",
+        "value": 600
+      },
+      {
+        "clue": "Arctic ground squirrels can survive body temperatures below freezing by entering this state",
+        "correctQuestion": "What is hibernation?",
+        "value": 600
+      },
+      {
+        "clue": "Polar bear paws can be this width to distribute weight on ice",
+        "correctQuestion": "What is 12 inches?",
+        "value": 600
+      },
+      {
+        "clue": "This Arctic predator is known for its beautiful white coat and hunts in packs",
+        "correctQuestion": "What is an Arctic wolf?",
+        "value": 800
+      },
+      {
+        "clue": "Narwhal tusks are actually this elongated tooth",
+        "correctQuestion": "What is a left incisor?",
+        "value": 800
+      },
+      {
+        "clue": "Reindeer can detect this type of light to see better in Arctic winters",
+        "correctQuestion": "What is ultraviolet light?",
+        "value": 800
+      },
+      {
+        "clue": "This percentage of a polar bear's diet consists of fat from seals",
+        "correctQuestion": "What is 50 percent?",
+        "value": 800
+      },
+      {
+        "clue": "The smallest penguin species is named after this blue gemstone",
+        "correctQuestion": "What is little blue penguin?",
+        "value": 1000
+      },
+      {
+        "clue": "Arctic foxes can survive temperatures as low as negative this many degrees Fahrenheit",
+        "correctQuestion": "What is -70 degrees?",
+        "value": 1000
+      },
+      {
+        "clue": "This conservation status currently applies to polar bears due to climate change",
+        "correctQuestion": "What is vulnerable?",
+        "value": 1000
+      },
+      {
+        "clue": "Emperor penguins navigate across featureless ice using this natural GPS",
+        "correctQuestion": "What is the sun's position?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "Climate change has reduced Arctic sea ice by this percentage since 1979",
+        "correctQuestion": "What is approximately 40 percent?",
+        "value": 200
+      },
+      {
+        "clue": "This 2005 documentary featuring emperor penguins won an Academy Award",
+        "correctQuestion": "What is March of the Penguins?",
+        "value": 200
+      },
+      {
+        "clue": "Polar bears are classified as this type of animal despite eating almost entirely meat",
+        "correctQuestion": "What are marine mammals?",
+        "value": 200
+      },
+      {
+        "clue": "This social media campaign uses polar bears to illustrate climate change impacts",
+        "correctQuestion": "What is #SaveThePolarBears?",
+        "value": 200
+      },
+      {
+        "clue": "The narwhal's tusk can grow to this length in feet",
+        "correctQuestion": "What is 10 feet?",
+        "value": 200
+      },
+      {
+        "clue": "This streaming service produced the documentary series Our Planet featuring Arctic wildlife",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "Arctic wolves have this advantage over gray wolves in terms of conservation status",
+        "correctQuestion": "What is least concern?",
+        "value": 200
+      },
+      {
+        "clue": "This percentage of emperor penguin colonies could disappear by 2100 due to warming",
+        "correctQuestion": "What is 80 percent?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer herding is a traditional practice of this indigenous people of Scandinavia",
+        "correctQuestion": "Who are the Sami?",
+        "value": 200
+      },
+      {
+        "clue": "This year marked the first time a polar bear was listed under the Endangered Species Act",
+        "correctQuestion": "What is 2008?",
+        "value": 200
+      },
+      {
+        "clue": "This BBC nature series narrated by David Attenborough features extensive Arctic footage",
+        "correctQuestion": "What is Planet Earth or Frozen Planet?",
+        "value": 400
+      },
+      {
+        "clue": "Polar bear populations are monitored using this GPS technology",
+        "correctQuestion": "What are satellite collars?",
+        "value": 400
+      },
+      {
+        "clue": "This phenomenon allows reindeer to see UV light, helping them spot predators in snow",
+        "correctQuestion": "What is UV vision adaptation?",
+        "value": 400
+      },
+      {
+        "clue": "The narwhal tusk contains this many nerve endings making it a sensory organ",
+        "correctQuestion": "What is 10 million?",
+        "value": 400
+      },
+      {
+        "clue": "This conservation organization uses the polar bear as its logo",
+        "correctQuestion": "What is Polar Bears International?",
+        "value": 400
+      },
+      {
+        "clue": "Arctic ice loss affects penguin populations through this food chain disruption",
+        "correctQuestion": "What is krill decline?",
+        "value": 400
+      },
+      {
+        "clue": "This scientific term describes when Arctic animals turn white in winter",
+        "correctQuestion": "What is seasonal camouflage or molting?",
+        "value": 400
+      },
+      {
+        "clue": "Walruses are threatened by the loss of this critical habitat feature",
+        "correctQuestion": "What are ice platforms?",
+        "value": 400
+      },
+      {
+        "clue": "This viral 2017 video showed a starving polar bear illustrating climate impacts",
+        "correctQuestion": "What is the National Geographic video?",
+        "value": 400
+      },
+      {
+        "clue": "Arctic foxes have the warmest fur of any mammal with this R-value insulation",
+        "correctQuestion": "What is the highest insulation value?",
+        "value": 400
+      },
+      {
+        "clue": "This genetic adaptation allows polar bears to metabolize fat at extreme levels",
+        "correctQuestion": "What is specialized liver function?",
+        "value": 600
+      },
+      {
+        "clue": "Emperor penguins form groups of this many thousand individuals during breeding",
+        "correctQuestion": "What is 5,000-10,000?",
+        "value": 600
+      },
+      {
+        "clue": "This Inuit practice of sustainable hunting maintains cultural traditions while conserving populations",
+        "correctQuestion": "What is subsistence hunting?",
+        "value": 600
+      },
+      {
+        "clue": "Polar bears can swim continuously for this many days without rest",
+        "correctQuestion": "What is nine days?",
+        "value": 600
+      },
+      {
+        "clue": "This phenomenon causes polar bear fur to sometimes appear greenish from algae",
+        "correctQuestion": "What is algae growth in hollow hair shafts?",
+        "value": 600
+      },
+      {
+        "clue": "Arctic seabirds face this threat from microplastics in the ocean food chain",
+        "correctQuestion": "What is bioaccumulation?",
+        "value": 600
+      },
+      {
+        "clue": "This conservation strategy protects Arctic wildlife through international agreements",
+        "correctQuestion": "What is the Arctic Council?",
+        "value": 600
+      },
+      {
+        "clue": "Reindeer populations serve as this environmental indicator species for Arctic health",
+        "correctQuestion": "What is a keystone or indicator species?",
+        "value": 600
+      },
+      {
+        "clue": "This percentage of polar bear hunts for seals are successful",
+        "correctQuestion": "What is less than 2 percent?",
+        "value": 800
+      },
+      {
+        "clue": "The Antarctic Treaty of 1959 designated this continent for this purpose only",
+        "correctQuestion": "What is scientific research?",
+        "value": 800
+      },
+      {
+        "clue": "This thermal imaging technology reveals heat loss patterns in Arctic mammals",
+        "correctQuestion": "What is infrared thermography?",
+        "value": 800
+      },
+      {
+        "clue": "Narwhals are threatened by this acoustic pollution disrupting echolocation",
+        "correctQuestion": "What is sonar or ship noise?",
+        "value": 800
+      },
+      {
+        "clue": "This metabolic adaptation allows Arctic animals to survive on stored fat for months",
+        "correctQuestion": "What is ketosis or torpor?",
+        "value": 1000
+      },
+      {
+        "clue": "The global polar bear population is estimated at this many individuals",
+        "correctQuestion": "What is 22,000-31,000?",
+        "value": 1000
+      },
+      {
+        "clue": "This century could see ice-free Arctic summers according to climate models",
+        "correctQuestion": "What is the 21st century?",
+        "value": 1000
+      },
+      {
+        "clue": "Emperor penguins use this magnetic field navigation during long ocean journeys",
+        "correctQuestion": "What is magnetoreception?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The scientific name for polar bear is Ursus maritimus, meaning this in Latin",
+        "correctQuestion": "What is maritime bear?",
+        "value": 200
+      },
+      {
+        "clue": "This 19th century explorer documented the first scientific observations of emperor penguins",
+        "correctQuestion": "Who is Robert Falcon Scott?",
+        "value": 200
+      },
+      {
+        "clue": "The Arctic Circle is defined as this latitude north of the equator",
+        "correctQuestion": "What is 66.5 degrees?",
+        "value": 200
+      },
+      {
+        "clue": "This thermoregulation adaptation allows polar bears to avoid overheating despite thick fur",
+        "correctQuestion": "What is panting and reduced activity?",
+        "value": 200
+      },
+      {
+        "clue": "The Antarctic Treaty was signed in this year establishing international cooperation",
+        "correctQuestion": "What is 1959?",
+        "value": 200
+      },
+      {
+        "clue": "Reindeer domestication began approximately this many thousand years ago",
+        "correctQuestion": "What is 2,000-3,000 years?",
+        "value": 200
+      },
+      {
+        "clue": "This evolutionary adaptation allows narwhals' tusks to sense water salinity and temperature",
+        "correctQuestion": "What are hydrodynamic sensory organs?",
+        "value": 200
+      },
+      {
+        "clue": "The IUCN Red List classifies polar bears with this conservation status as of 2023",
+        "correctQuestion": "What is vulnerable?",
+        "value": 200
+      },
+      {
+        "clue": "Emperor penguins breed during this season in Antarctica",
+        "correctQuestion": "What is winter?",
+        "value": 200
+      },
+      {
+        "clue": "This marine biologist's work established baseline data for Arctic ecosystem studies",
+        "correctQuestion": "Who is Fridtjof Nansen?",
+        "value": 200
+      },
+      {
+        "clue": "Polar bears evolved from this ancestral bear species approximately 500,000 years ago",
+        "correctQuestion": "What are brown bears?",
+        "value": 400
+      },
+      {
+        "clue": "The metabolic water production in polar bears allows survival without drinking for this duration",
+        "correctQuestion": "What is months?",
+        "value": 400
+      },
+      {
+        "clue": "This phenomenon of delayed implantation in polar bears ensures cubs are born at optimal times",
+        "correctQuestion": "What is embryonic diapause?",
+        "value": 400
+      },
+      {
+        "clue": "Arctic terns hold the record for longest migration, traveling this many miles annually",
+        "correctQuestion": "What is 44,000 miles?",
+        "value": 400
+      },
+      {
+        "clue": "This marine protected area in Antarctica covers 1.55 million square kilometers",
+        "correctQuestion": "What is the Ross Sea Marine Protected Area?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer circadian rhythms adapt to this Arctic phenomenon of constant daylight",
+        "correctQuestion": "What is the midnight sun?",
+        "value": 400
+      },
+      {
+        "clue": "The discovery of this vitamin deficiency from polar bear liver consumption affected early explorers",
+        "correctQuestion": "What is hypervitaminosis A?",
+        "value": 400
+      },
+      {
+        "clue": "This 2002 study revealed polar bear cannibalism increasing due to climate stress",
+        "correctQuestion": "What is the Derocher study?",
+        "value": 400
+      },
+      {
+        "clue": "Emperor penguin vocalizations use this acoustic principle for mate recognition in colonies",
+        "correctQuestion": "What is signature calls or vocal signatures?",
+        "value": 400
+      },
+      {
+        "clue": "This percentage of Arctic sea ice thickness has been lost since satellite measurements began",
+        "correctQuestion": "What is 50-70 percent?",
+        "value": 400
+      },
+      {
+        "clue": "Polar bear maternity dens maintain internal temperatures of this many degrees above outside",
+        "correctQuestion": "What is 40 degrees Fahrenheit?",
+        "value": 600
+      },
+      {
+        "clue": "The Convention on International Trade in Endangered Species lists polar bears under this appendix",
+        "correctQuestion": "What is Appendix II?",
+        "value": 600
+      },
+      {
+        "clue": "This researcher's 40-year study established comprehensive polar bear population dynamics",
+        "correctQuestion": "Who is Ian Stirling?",
+        "value": 600
+      },
+      {
+        "clue": "Emperor penguin chicks require this caloric intake daily during rapid growth phase",
+        "correctQuestion": "What is 1-2 kg of food?",
+        "value": 600
+      },
+      {
+        "clue": "This genetic bottleneck occurred in polar bears during the Pleistocene glaciation",
+        "correctQuestion": "What is population reduction to 1000-5000 individuals?",
+        "value": 600
+      },
+      {
+        "clue": "Arctic wildlife face this phenomenon where pollutants concentrate in top predators",
+        "correctQuestion": "What is biomagnification?",
+        "value": 600
+      },
+      {
+        "clue": "The Arctic Oscillation pattern affects wildlife through this climate mechanism",
+        "correctQuestion": "What is atmospheric pressure variations?",
+        "value": 600
+      },
+      {
+        "clue": "This international agreement regulates polar bear hunting among Arctic nations",
+        "correctQuestion": "What is the Agreement on the Conservation of Polar Bears?",
+        "value": 600
+      },
+      {
+        "clue": "Narwhal tusks exhibit this unusual growth pattern spiraling counterclockwise",
+        "correctQuestion": "What is left-handed helical growth?",
+        "value": 800
+      },
+      {
+        "clue": "This satellite tracking study revealed polar bear movements exceeding 4000 km annually",
+        "correctQuestion": "What is the Beaufort Sea population study?",
+        "value": 800
+      },
+      {
+        "clue": "Emperor penguin super cooling adaptation prevents ice crystal formation through this mechanism",
+        "correctQuestion": "What are antifreeze proteins?",
+        "value": 800
+      },
+      {
+        "clue": "This tipping point temperature increase threatens Arctic ecosystem collapse",
+        "correctQuestion": "What is 2 degrees Celsius?",
+        "value": 800
+      },
+      {
+        "clue": "The polar bear's evolutionary divergence from brown bears occurred during this geological epoch",
+        "correctQuestion": "What is the Pleistocene?",
+        "value": 1000
+      },
+      {
+        "clue": "This metabolic adaptation allows emperor penguins to reduce metabolism by 25% while incubating",
+        "correctQuestion": "What is facultative hypothermia?",
+        "value": 1000
+      },
+      {
+        "clue": "Arctic wildlife conservation requires this approach integrating indigenous knowledge with science",
+        "correctQuestion": "What is co-management?",
+        "value": 1000
+      },
+      {
+        "clue": "This year marked the lowest Arctic sea ice extent on record",
+        "correctQuestion": "What is 2012?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Penguin documentary that made you cry",
+        "correctQuestion": "What is March of the Penguins?",
+        "value": 200
+      },
+      {
+        "clue": "Netflix's favorite dying animal content",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "2017 starving polar bear guilt trip",
+        "correctQuestion": "What is the National Geographic polar bear video?",
+        "value": 200
+      },
+      {
+        "clue": "Where your aunt shares polar bear posts",
+        "correctQuestion": "What is Facebook?",
+        "value": 200
+      },
+      {
+        "clue": "Pandemic Zoom meeting background noise",
+        "correctQuestion": "What is COVID-19?",
+        "value": 200
+      },
+      {
+        "clue": "What's killing polar bears right now",
+        "correctQuestion": "What is climate change?",
+        "value": 200
+      },
+      {
+        "clue": "British guy making you cry about penguins",
+        "correctQuestion": "Who is David Attenborough?",
+        "value": 200
+      },
+      {
+        "clue": "BBC series showing drowning polar bears",
+        "correctQuestion": "What is Planet Earth or Frozen Planet?",
+        "value": 200
+      },
+      {
+        "clue": "Gen Z blames this for melting ice",
+        "correctQuestion": "What is capitalism?",
+        "value": 400
+      },
+      {
+        "clue": "Coffee chain killing polar bears daily",
+        "correctQuestion": "What is Starbucks?",
+        "value": 400
+      },
+      {
+        "clue": "Boxes bigger than penguins, delivered daily",
+        "correctQuestion": "What is Amazon?",
+        "value": 400
+      },
+      {
+        "clue": "What Millennials actually want for Christmas",
+        "correctQuestion": "What is affordable housing?",
+        "value": 400
+      },
+      {
+        "clue": "CEO tweets while Arctic animals die",
+        "correctQuestion": "What is Tesla?",
+        "value": 400
+      },
+      {
+        "clue": "15-second climate change awareness fails",
+        "correctQuestion": "What is TikTok?",
+        "value": 400
+      },
+      {
+        "clue": "Topic that ruins Christmas dinner",
+        "correctQuestion": "What is Trump and politics?",
+        "value": 400
+      },
+      {
+        "clue": "Streams Polar Express while bears starve",
+        "correctQuestion": "What is Disney Plus?",
+        "value": 400
+      },
+      {
+        "clue": "Your relatives refuse to believe this",
+        "correctQuestion": "What is global warming?",
+        "value": 600
+      },
+      {
+        "clue": "Economic system killing Christmas and Arctic",
+        "correctQuestion": "What is late-stage capitalism?",
+        "value": 600
+      },
+      {
+        "clue": "Your ex's penguin emoji donations",
+        "correctQuestion": "What is Venmo?",
+        "value": 600
+      },
+      {
+        "clue": "Other topic ruining Christmas dinner",
+        "correctQuestion": "What is the COVID vaccine?",
+        "value": 600
+      },
+      {
+        "clue": "December millionaire while ice caps melt",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 600
+      },
+      {
+        "clue": "Gen Z demands actual action on this",
+        "correctQuestion": "What is climate policy?",
+        "value": 600
+      },
+      {
+        "clue": "Amazon device selling your crying data",
+        "correctQuestion": "What is Alexa?",
+        "value": 600
+      },
+      {
+        "clue": "Billionaire tweeting Mars, ignoring Earth",
+        "correctQuestion": "Who is Elon Musk?",
+        "value": 600
+      },
+      {
+        "clue": "Ice-free by 2050, like your dreams",
+        "correctQuestion": "What is the Arctic?",
+        "value": 800
+      },
+      {
+        "clue": "Christmas miracle that won't happen",
+        "correctQuestion": "What is ending fossil fuel dependency?",
+        "value": 800
+      },
+      {
+        "clue": "Posting penguin photos saves nothing",
+        "correctQuestion": "What is performative activism?",
+        "value": 800
+      },
+      {
+        "clue": "Made you vegan for 3 days",
+        "correctQuestion": "What is Our Planet?",
+        "value": 800
+      },
+      {
+        "clue": "Boomers destroyed this for polar bears",
+        "correctQuestion": "What is the environment?",
+        "value": 800
+      },
+      {
+        "clue": "Greta quote became meme, bears drowning",
+        "correctQuestion": "What is climate activism?",
+        "value": 800
+      },
+      {
+        "clue": "Delivery app three times weekly guilt",
+        "correctQuestion": "What is DoorDash?",
+        "value": 800
+      },
+      {
+        "clue": "Ride app melting ice caps",
+        "correctQuestion": "What is Uber?",
+        "value": 800
+      },
+      {
+        "clue": "Justification for buying cheap junk",
+        "correctQuestion": "What is free shipping?",
+        "value": 1000
+      },
+      {
+        "clue": "Weight-loss drug costs more than habitats",
+        "correctQuestion": "What is Ozempic?",
+        "value": 1000
+      },
+      {
+        "clue": "Trump gave polar bears middle finger",
+        "correctQuestion": "What is 2017?",
+        "value": 1000
+      },
+      {
+        "clue": "Lost penguin represents your mental health",
+        "correctQuestion": "What is climate displacement?",
+        "value": 1000
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "category": "Santa Claus - CAH Style v4.0 (MAINSTREAM REFERENCES ONLY)",
+  "research_basis": {
+    "jeopardy_principles": [
+      "Pinning - clue must lead to only ONE answer",
+      "Give enough detail to clearly point at the answer",
+      "Avoid ambiguity - make the connection obvious"
+    ],
+    "cah_principles": [
+      "Absurdity through juxtaposition, not random shock",
+      "Recognizable references people actually know",
+      "Clever connection between setup and punchline"
+    ],
+    "mainstream_only": [
+      "Apps: Amazon, Netflix, TikTok, Instagram, Uber, DoorDash, Venmo",
+      "Tech: iPhone, Alexa, Google, Facebook/Meta, Tesla",
+      "People: Trump, Biden, Taylor Swift, Elon Musk, Kardashians",
+      "Events: COVID-19, January 6th, student loans, inflation",
+      "Brands: Starbucks, Target, Walmart, McDonald's, Chipotle",
+      "Memes: Karen, OK Boomer, main character energy, rizz, slay"
+    ]
+  },
+  "sample_questions": [
+    {
+      "clue": "This retail giant is where Santa actually gets those 'handmade' North Pole toys for $3.99 with free 2-day shipping",
+      "correctQuestion": "What is Amazon?",
+      "value": 200,
+      "why_it_works": "Everyone knows Amazon + Prime shipping. Clear juxtaposition of 'handmade' myth vs reality"
+    },
+    {
+      "clue": "What Mrs. Claus caught Santa watching at 3am when he said he was 'checking the naughty list'",
+      "correctQuestion": "What is porn?",
+      "value": 400,
+      "why_it_works": "Universal reference, clear setup/punchline, obvious connection"
+    },
+    {
+      "clue": "The streaming platform responsible for kids now believing in the Grinch more than Santa",
+      "correctQuestion": "What is Netflix?",
+      "value": 200,
+      "why_it_works": "Everyone knows Netflix, clear reference to streaming culture"
+    },
+    {
+      "clue": "This is what Rudolph's glowing red nose is actually from, according to Mrs. Claus",
+      "correctQuestion": "What is cocaine?",
+      "value": 600,
+      "why_it_works": "Clear visual joke everyone gets - red nose = drug reference"
+    },
+    {
+      "clue": "The app where influencers post their 'authentic' Christmas morning in matching pajamas that took 47 takes",
+      "correctQuestion": "What is Instagram?",
+      "value": 400,
+      "why_it_works": "Everyone knows Instagram influencer culture + performative authenticity"
+    },
+    {
+      "clue": "What Santa really means when he asks if you've been 'naughty or nice' after his fourth glass of eggnog",
+      "correctQuestion": "What is sexual harassment?",
+      "value": 800,
+      "why_it_works": "Mall Santa + alcohol = obvious inappropriate behavior connection"
+    },
+    {
+      "clue": "The social media platform where your drunk uncle will explain the War on Christmas during dinner",
+      "correctQuestion": "What is Facebook?",
+      "value": 600,
+      "why_it_works": "Everyone has a Facebook uncle + War on Christmas is mainstream controversy"
+    },
+    {
+      "clue": "This billionaire's electric sleigh would actually make Santa's job easier if it didn't keep catching fire",
+      "correctQuestion": "Who is Elon Musk?",
+      "value": 400,
+      "why_it_works": "Everyone knows Tesla fire problems + Elon Musk"
+    },
+    {
+      "clue": "What kids in 2024 asked Santa for instead of toys: therapy, student loan forgiveness, and this other financial miracle",
+      "correctQuestion": "What is affordable rent?",
+      "value": 800,
+      "why_it_works": "Millennial/Gen Z financial crisis is mainstream news"
+    },
+    {
+      "clue": "The gig economy app Santa drives for after Christmas to pay off his North Pole credit card debt",
+      "correctQuestion": "What is Uber?",
+      "value": 400,
+      "why_it_works": "Everyone knows Uber + gig economy struggles"
+    },
+    {
+      "clue": "This pandemic turned Christmas 2020 into Zoom calls with grandma who doesn't know how to unmute",
+      "correctQuestion": "What is COVID-19?",
+      "value": 600,
+      "why_it_works": "Universal COVID Zoom experience everyone lived through"
+    },
+    {
+      "clue": "The payment app where you can see your friends Venmoing each other for 'Christmas gifts' with emoji codes",
+      "correctQuestion": "What is Venmo?",
+      "value": 400,
+      "why_it_works": "Venmo's public feed is well-known + emoji drug codes meme"
+    },
+    {
+      "clue": "This is what the Elf on the Shelf is really training your kids to accept as normal surveillance",
+      "correctQuestion": "What is the NSA?",
+      "value": 800,
+      "why_it_works": "Post-Snowden everyone knows NSA + Elf watching parallel"
+    },
+    {
+      "clue": "The celebrity who makes $3 million every December by defrosting for 'All I Want for Christmas'",
+      "correctQuestion": "Who is Mariah Carey?",
+      "value": 600,
+      "why_it_works": "The 'Mariah Carey defrost' meme is everywhere every December"
+    },
+    {
+      "clue": "What Target moms call the Christmas shopping trip where they went for wrapping paper and spent $347",
+      "correctQuestion": "What is a Target run?",
+      "value": 400,
+      "why_it_works": "Target overspending is a universal meme everyone knows"
+    },
+    {
+      "clue": "This coffee chain's cup design became the frontline of the War on Christmas according to your Facebook feed",
+      "correctQuestion": "What is Starbucks?",
+      "value": 600,
+      "why_it_works": "2015 red cup controversy was huge news + ongoing meme"
+    },
+    {
+      "clue": "The fast food app Santa uses to DoorDash McDonald's at 2am on Christmas Eve",
+      "correctQuestion": "What is DoorDash?",
+      "value": 400,
+      "why_it_works": "Everyone knows DoorDash + late night fast food ordering"
+    },
+    {
+      "clue": "This is what killed more family Christmas dinners than politics: arguments about getting this shot",
+      "correctQuestion": "What is the COVID vaccine?",
+      "value": 1000,
+      "why_it_works": "Vaccine debates at family dinners were universal 2020-2023 experience"
+    },
+    {
+      "clue": "The AI assistant that heard everything you said around the Christmas tree and is definitely selling that data",
+      "correctQuestion": "What is Alexa?",
+      "value": 600,
+      "why_it_works": "Alexa privacy concerns are mainstream + everyone knows Amazon Echo"
+    },
+    {
+      "clue": "What Gen Z calls it when they film their gift reactions for content instead of just saying thanks",
+      "correctQuestion": "What is main character energy?",
+      "value": 800,
+      "why_it_works": "Main character energy is a huge Gen Z meme + performative behavior"
+    }
+  ],
+  "anti_patterns_to_avoid": {
+    "obscure_references": [
+      "❌ Deep Reddit memes only chronically online people know",
+      "❌ Niche podcast references",
+      "❌ Obscure indie game or anime references",
+      "❌ Academic or technical jargon",
+      "❌ References to things from before 2000 unless iconic"
+    ],
+    "random_shock": [
+      "❌ Just saying 'penis' or 'butthole' without a setup",
+      "❌ Crude words with no logical connection to the clue",
+      "❌ Shock for shock's sake with no joke"
+    ]
+  },
+  "mainstream_checklist": {
+    "before_using_reference": [
+      "✅ Would my parents know what this is?",
+      "✅ Has this been on mainstream news/TV?",
+      "✅ Would someone who doesn't use social media recognize this?",
+      "✅ Is this a brand/app/person with millions of users/followers?",
+      "✅ Has SNL or late night TV made jokes about this?"
+    ]
+  }
+}

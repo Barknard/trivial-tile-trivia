@@ -1,0 +1,319 @@
+{
+  "category": "New Year's Day - Regular & CAH (SHORT & PUNCHY)",
+  "regular": [
+    {
+      "clue": "January 1st tradition of promising to change yourself",
+      "correctQuestion": "What is a New Year's resolution?",
+      "value": 200
+    },
+    {
+      "clue": "The parade watched on TV while recovering from NYE",
+      "correctQuestion": "What is the Rose Parade?",
+      "value": 200
+    },
+    {
+      "clue": "Football games that dominate New Year's Day TV",
+      "correctQuestion": "What is the Cotton Bowl or Fiesta Bowl?",
+      "value": 200
+    },
+    {
+      "clue": "Drink served at midnight on December 31st",
+      "correctQuestion": "What is champagne or sparkling cider?",
+      "value": 200
+    },
+    {
+      "clue": "Activity of replacing your calendar",
+      "correctQuestion": "What is hanging a new calendar?",
+      "value": 200
+    },
+    {
+      "clue": "The last day of the previous year",
+      "correctQuestion": "What is December 31st?",
+      "value": 200
+    },
+    {
+      "clue": "Traditional dish eaten on New Year's Day for good luck",
+      "correctQuestion": "What is collard greens or black-eyed peas?",
+      "value": 200
+    },
+    {
+      "clue": "Party event on December 31st going into January 1st",
+      "correctQuestion": "What is New Year's Eve?",
+      "value": 200
+    },
+    {
+      "clue": "Counting down from 10 to 1 before midnight",
+      "correctQuestion": "What is the New Year's countdown?",
+      "value": 200
+    },
+    {
+      "clue": "People who party on New Year's Eve",
+      "correctQuestion": "What is New Year's revelers?",
+      "value": 200
+    },
+    {
+      "clue": "Decorative paper falling from the ceiling at midnight",
+      "correctQuestion": "What is confetti?",
+      "value": 400
+    },
+    {
+      "clue": "Act of setting new goals for the year ahead",
+      "correctQuestion": "What is making resolutions?",
+      "value": 400
+    },
+    {
+      "clue": "Symbol of the baby representing the new year",
+      "correctQuestion": "What is a baby in a diaper?",
+      "value": 400
+    },
+    {
+      "clue": "Saying 'Happy New Year' to everyone you see",
+      "correctQuestion": "What is New Year's greetings?",
+      "value": 400
+    },
+    {
+      "clue": "The feeling after staying up until midnight",
+      "correctQuestion": "What is exhaustion?",
+      "value": 400
+    },
+    {
+      "clue": "Gym memberships purchased on January 1st",
+      "correctQuestion": "What is joining a gym?",
+      "value": 400
+    },
+    {
+      "clue": "Fireworks display that rings in the new year",
+      "correctQuestion": "What is New Year's fireworks?",
+      "value": 400
+    },
+    {
+      "clue": "Creating a to-do list for the new year",
+      "correctQuestion": "What is goal setting?",
+      "value": 400
+    },
+    {
+      "clue": "Recovering from partying too hard on New Year's Eve",
+      "correctQuestion": "What is a hangover?",
+      "value": 400
+    },
+    {
+      "clue": "First meal of the new year",
+      "correctQuestion": "What is breakfast?",
+      "value": 400
+    },
+    {
+      "clue": "Kiss exchanged at midnight",
+      "correctQuestion": "What is a New Year's kiss?",
+      "value": 600
+    },
+    {
+      "clue": "Throwing out old items to make room for new ones",
+      "correctQuestion": "What is decluttering?",
+      "value": 600
+    },
+    {
+      "clue": "Writing down what you want to accomplish in the new year",
+      "correctQuestion": "What is journaling or writing goals?",
+      "value": 600
+    },
+    {
+      "clue": "Dancing with strangers at New Year's Eve parties",
+      "correctQuestion": "What is NYE dancing?",
+      "value": 600
+    },
+    {
+      "clue": "Staying in bed most of January 1st",
+      "correctQuestion": "What is sleeping off a hangover?",
+      "value": 600
+    },
+    {
+      "clue": "Watching the ball drop in Times Square",
+      "correctQuestion": "What is the New Year's Eve countdown?",
+      "value": 600
+    },
+    {
+      "clue": "Drinking water to recover from New Year's Eve",
+      "correctQuestion": "What is hydrating?",
+      "value": 600
+    },
+    {
+      "clue": "Reviewing the past year and reflecting on memories",
+      "correctQuestion": "What is reflection?",
+      "value": 600
+    },
+    {
+      "clue": "Promise to eat healthier starting January 1st",
+      "correctQuestion": "What is a diet resolution?",
+      "value": 800
+    },
+    {
+      "clue": "Ignoring your resolutions by January 15th",
+      "correctQuestion": "What is giving up on your goals?",
+      "value": 800
+    }
+  ],
+  "no_humanity": [
+    {
+      "clue": "What you promised to do January 1st but quit by January 7th",
+      "correctQuestion": "What is your resolution?",
+      "value": 200
+    },
+    {
+      "clue": "What your body smells like on January 1st morning",
+      "correctQuestion": "What is alcohol and regret?",
+      "value": 200
+    },
+    {
+      "clue": "Why January 1st at the gym is unbearable",
+      "correctQuestion": "What is 10,000 New Year's resolutions?",
+      "value": 200
+    },
+    {
+      "clue": "The time you check your credit card statement after NYE",
+      "correctQuestion": "What is 3am in a cold sweat?",
+      "value": 200
+    },
+    {
+      "clue": "What you Googled at 4am on January 1st",
+      "correctQuestion": "What is 'how to cure a hangover'?",
+      "value": 200
+    },
+    {
+      "clue": "The lie you tell yourself about this year",
+      "correctQuestion": "What is 'I'll exercise every day'?",
+      "value": 200
+    },
+    {
+      "clue": "What replaced your willpower by 7pm on January 1st",
+      "correctQuestion": "What is pizza?",
+      "value": 200
+    },
+    {
+      "clue": "Your phone on January 1st morning",
+      "correctQuestion": "What is 47 regrettable texts?",
+      "value": 200
+    },
+    {
+      "clue": "The last thing you remember from NYE",
+      "correctQuestion": "What is nothing?",
+      "value": 200
+    },
+    {
+      "clue": "Why you can't find one shoe on January 1st",
+      "correctQuestion": "What is you have no memory?",
+      "value": 200
+    },
+    {
+      "clue": "The mirror on January 1st morning",
+      "correctQuestion": "What is a crime scene?",
+      "value": 400
+    },
+    {
+      "clue": "Person texting you apologies on January 1st",
+      "correctQuestion": "What is your ex?",
+      "value": 400
+    },
+    {
+      "clue": "What you wore to NYE vs. what you wore January 1st",
+      "correctQuestion": "What is hot mess vs. unhygienic hobo?",
+      "value": 400
+    },
+    {
+      "clue": "Why gyms are packed on January 2nd then empty by January 8th",
+      "correctQuestion": "What is motivation?",
+      "value": 400
+    },
+    {
+      "clue": "What aspirin couldn't fix this New Year's",
+      "correctQuestion": "What is your life choices?",
+      "value": 400
+    },
+    {
+      "clue": "The resolution lasted longer than your",
+      "correctQuestion": "What is your attention span?",
+      "value": 400
+    },
+    {
+      "clue": "At 11:59pm NYE you're basically just",
+      "correctQuestion": "What is standing around drunk?",
+      "value": 400
+    },
+    {
+      "clue": "Why you skip gym on January 1st",
+      "correctQuestion": "What is you can barely walk?",
+      "value": 400
+    },
+    {
+      "clue": "Your resolution after one beer on January 1st",
+      "correctQuestion": "What is abandoned?",
+      "value": 400
+    },
+    {
+      "clue": "The texts you sent your crush at 2am NYE",
+      "correctQuestion": "What is never mentioned again?",
+      "value": 400
+    },
+    {
+      "clue": "Why you ordered DoorDash at midnight on January 1st",
+      "correctQuestion": "What is you can't remember eating dinner?",
+      "value": 600
+    },
+    {
+      "clue": "The selfie from NYE you immediately deleted",
+      "correctQuestion": "What is unforgivable?",
+      "value": 600
+    },
+    {
+      "clue": "What killed your January 1st gym motivation",
+      "correctQuestion": "What is a hangover?",
+      "value": 600
+    },
+    {
+      "clue": "Your Venmo from NYE explained as",
+      "correctQuestion": "What is never?",
+      "value": 600
+    },
+    {
+      "clue": "January 1st without this is just a regular Tuesday",
+      "correctQuestion": "What is crushing regret and shame?",
+      "value": 600
+    },
+    {
+      "clue": "Why you can't remember your own New Year's Eve",
+      "correctQuestion": "What is tequila?",
+      "value": 600
+    },
+    {
+      "clue": "What you promised to stop doing by noon January 1st",
+      "correctQuestion": "What is using your phone?",
+      "value": 600
+    },
+    {
+      "clue": "The app tracking your 'no sugar' resolution violations",
+      "correctQuestion": "What is your Apple Watch?",
+      "value": 600
+    },
+    {
+      "clue": "Why January 1st parties are just NYE's awkward sibling",
+      "correctQuestion": "What is nobody's sober?",
+      "value": 800
+    },
+    {
+      "clue": "Your January 1st morning monologue to the toilet",
+      "correctQuestion": "What is 'never again'?",
+      "value": 800
+    }
+  ],
+  "improvements": {
+    "regular_notes": "30 straightforward trivia clues about New Year's Day traditions, NYE customs, and activities",
+    "cah_notes": "30 dark humor clues following CAH_STYLE_GUIDE_2025: mainstream references (apps, cultural touchstones), short punchy format, relatable hangover recovery themes, self-deprecating humor",
+    "key_features": [
+      "All clues 5-10 words (ultra-concise)",
+      "Mainstream references: Venmo, DoorDash, Apple Watch, Uber, etc.",
+      "Relatable hangover/recovery experiences",
+      "Dark humor without being random",
+      "Set up → payoff structure in CAH clues",
+      "No obscure references - everyone who's partied gets these"
+    ]
+  }
+}

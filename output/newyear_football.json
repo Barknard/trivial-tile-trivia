@@ -1,0 +1,320 @@
+{
+  "category": "New Year's Day Football & Bowl Games",
+  "regular_clues": [
+    {
+      "clue": "The oldest college bowl game played on New Year's Day since 1902",
+      "correctQuestion": "What is the Rose Bowl?",
+      "value": 200
+    },
+    {
+      "clue": "Bowl game played in Miami named after a parade",
+      "correctQuestion": "What is the Orange Bowl?",
+      "value": 200
+    },
+    {
+      "clue": "Sugar Bowl's home city",
+      "correctQuestion": "What is New Orleans?",
+      "value": 200
+    },
+    {
+      "clue": "Cotton Bowl's traditional location",
+      "correctQuestion": "What is Dallas, Texas?",
+      "value": 200
+    },
+    {
+      "clue": "The newest major college football playoff bowl",
+      "correctQuestion": "What is the College Football Playoff?",
+      "value": 200
+    },
+    {
+      "clue": "Sport traditionally played on New Year's Day",
+      "correctQuestion": "What is college football?",
+      "value": 200
+    },
+    {
+      "clue": "The bowl game called 'The Granddaddy'",
+      "correctQuestion": "What is the Rose Bowl?",
+      "value": 200
+    },
+    {
+      "clue": "Fiesta Bowl's traditional home state",
+      "correctQuestion": "What is Arizona?",
+      "value": 200
+    },
+    {
+      "clue": "Peach Bowl's host city",
+      "correctQuestion": "What is Atlanta?",
+      "value": 200
+    },
+    {
+      "clue": "NFL team that plays a game on New Year's Day",
+      "correctQuestion": "What is the Detroit Lions?",
+      "value": 200
+    },
+    {
+      "clue": "The bowl game played in Jacksonville",
+      "correctQuestion": "What is the Florida Blue Florida Classic?",
+      "value": 400
+    },
+    {
+      "clue": "Bowl game named after a military conflict in Texas",
+      "correctQuestion": "What is the Alamo Bowl?",
+      "value": 400
+    },
+    {
+      "clue": "The bowl game that replaced the old Citrus Bowl name",
+      "correctQuestion": "What is the Camping World Bowl?",
+      "value": 400
+    },
+    {
+      "clue": "Team that won the first Rose Bowl in 1902",
+      "correctQuestion": "What is Michigan?",
+      "value": 400
+    },
+    {
+      "clue": "The number of major bowl games in the College Football Playoff",
+      "correctQuestion": "What is four?",
+      "value": 400
+    },
+    {
+      "clue": "Traditional method fans use to predict bowl game outcomes",
+      "correctQuestion": "What is the AP Poll?",
+      "value": 400
+    },
+    {
+      "clue": "The bowl game played in San Diego",
+      "correctQuestion": "What is the Torero Bowl or Holiday Bowl?",
+      "value": 400
+    },
+    {
+      "clue": "Team that holds the most Rose Bowl victories",
+      "correctQuestion": "What is USC?",
+      "value": 400
+    },
+    {
+      "clue": "The ball used in football",
+      "correctQuestion": "What is the pigskin?",
+      "value": 400
+    },
+    {
+      "clue": "Formation where two teams line up opposite each other",
+      "correctQuestion": "What is the line of scrimmage?",
+      "value": 400
+    },
+    {
+      "clue": "Award given to the best college football player annually",
+      "correctQuestion": "What is the Heisman Trophy?",
+      "value": 600
+    },
+    {
+      "clue": "The conference that includes Ohio State and Michigan",
+      "correctQuestion": "What is the Big Ten?",
+      "value": 600
+    },
+    {
+      "clue": "Conference home to Alabama and Auburn",
+      "correctQuestion": "What is the SEC?",
+      "value": 600
+    },
+    {
+      "clue": "Term for the traditional New Year's Day matchup between certain bowl games",
+      "correctQuestion": "What is the bowls rotation?",
+      "value": 600
+    },
+    {
+      "clue": "Coaches' poll ranking system used to select bowl teams",
+      "correctQuestion": "What is the BCS or College Football Playoff ranking?",
+      "value": 600
+    },
+    {
+      "clue": "The city hosting the 2026 Rose Bowl",
+      "correctQuestion": "What is Pasadena?",
+      "value": 600
+    },
+    {
+      "clue": "Stadium where the Rose Bowl is played",
+      "correctQuestion": "What is the Rose Bowl Stadium?",
+      "value": 600
+    },
+    {
+      "clue": "The oldest rivalry game in college football",
+      "correctQuestion": "What is Yale vs Princeton?",
+      "value": 600
+    },
+    {
+      "clue": "Team known as the Crimson Tide from Alabama",
+      "correctQuestion": "What is Alabama?",
+      "value": 600
+    },
+    {
+      "clue": "The Superdome hosts this New Year's Day bowl game",
+      "correctQuestion": "What is the Sugar Bowl?",
+      "value": 600
+    }
+  ],
+  "cah_clues": [
+    {
+      "clue": "Why your dad wakes up at 6am on January 1st",
+      "correctQuestion": "What is the Rose Bowl?",
+      "value": 200
+    },
+    {
+      "clue": "What replaces sleeping in on New Year's Day",
+      "correctQuestion": "What is football?",
+      "value": 200
+    },
+    {
+      "clue": "The only acceptable hangover in sports",
+      "correctQuestion": "What is watching 8 straight hours of bowl games?",
+      "value": 200
+    },
+    {
+      "clue": "Why your family argues on New Year's Day",
+      "correctQuestion": "What is the playoff selection committee?",
+      "value": 200
+    },
+    {
+      "clue": "What destroyed your New Year's resolution time",
+      "correctQuestion": "What is the bowl game schedule?",
+      "value": 200
+    },
+    {
+      "clue": "The app college fans refresh obsessively on January 1st",
+      "correctQuestion": "What is ESPN?",
+      "value": 200
+    },
+    {
+      "clue": "Bowl game where nobody can spell the sponsor",
+      "correctQuestion": "What is the Citrus Bowl or whatever it's called now?",
+      "value": 200
+    },
+    {
+      "clue": "What killed your fitness New Year's goal",
+      "correctQuestion": "What is sitting on the couch for 12 hours?",
+      "value": 200
+    },
+    {
+      "clue": "Why the Detroit Lions are actually lucky",
+      "correctQuestion": "What is they get to play on New Year's Day?",
+      "value": 200
+    },
+    {
+      "clue": "The worst bowl game prediction ever made",
+      "correctQuestion": "What is your dad's bracket?",
+      "value": 200
+    },
+    {
+      "clue": "What your liver is doing during the Sugar Bowl",
+      "correctQuestion": "What is slowly dying?",
+      "value": 400
+    },
+    {
+      "clue": "The only tradition more important than New Year's resolutions",
+      "correctQuestion": "What is watching college football?",
+      "value": 400
+    },
+    {
+      "clue": "Why you're calling in sick on January 2nd",
+      "correctQuestion": "What is staying up for triple overtime?",
+      "value": 400
+    },
+    {
+      "clue": "The true meaning of the bowls",
+      "correctQuestion": "What is corporations sponsoring traditions?",
+      "value": 400
+    },
+    {
+      "clue": "What makes every bowl game last 4 hours",
+      "correctQuestion": "What are endless commercials?",
+      "value": 400
+    },
+    {
+      "clue": "The most emotional breakup on January 1st",
+      "correctQuestion": "What is losing the championship game?",
+      "value": 400
+    },
+    {
+      "clue": "Why boomer dads peak in January",
+      "correctQuestion": "What is predicting games correctly for once?",
+      "value": 400
+    },
+    {
+      "clue": "The only thing that can extend New Year's Day longer",
+      "correctQuestion": "What is overtime?",
+      "value": 400
+    },
+    {
+      "clue": "What your hot take about the playoff will start",
+      "correctQuestion": "What is family arguments?",
+      "value": 400
+    },
+    {
+      "clue": "Bowl sponsorship name that sounds ridiculous",
+      "correctQuestion": "What is the Cheez-It Bowl?",
+      "value": 400
+    },
+    {
+      "clue": "Why your group chat explodes at midnight January 1st",
+      "correctQuestion": "What is someone got their team snubbed?",
+      "value": 600
+    },
+    {
+      "clue": "The real reason to stay up until January 1st",
+      "correctQuestion": "What is schadenfreude watching rival teams lose?",
+      "value": 600
+    },
+    {
+      "clue": "What $3 million football players are doing wrong",
+      "correctQuestion": "What is playing in bowl games?",
+      "value": 600
+    },
+    {
+      "clue": "The worst college football tradition",
+      "correctQuestion": "What is pretending bowl games matter?",
+      "value": 600
+    },
+    {
+      "clue": "Why your parents avoid you January 1st",
+      "correctQuestion": "What is you complain the whole time?",
+      "value": 600
+    },
+    {
+      "clue": "The playoff system fans actually want",
+      "correctQuestion": "What is a 128-team tournament?",
+      "value": 600
+    },
+    {
+      "clue": "What turns rational adults into ranting lunatics",
+      "correctQuestion": "What is a terrible bowl game call?",
+      "value": 600
+    },
+    {
+      "clue": "The only thing that beats the Rose Bowl",
+      "correctQuestion": "What is sleeping?",
+      "value": 600
+    },
+    {
+      "clue": "Why your dad screams at the TV",
+      "correctQuestion": "What is the holding call that wasn't?",
+      "value": 800
+    },
+    {
+      "clue": "The student loan problem that football doesn't solve",
+      "correctQuestion": "What is poverty?",
+      "value": 800
+    },
+    {
+      "clue": "How you're actually spending your New Year's resolutions",
+      "correctQuestion": "What is ignoring them for football?",
+      "value": 800
+    }
+  ],
+  "metadata": {
+    "total_regular_clues": 30,
+    "total_cah_clues": 30,
+    "category_theme": "New Year's Day Football, Bowl Games, and Sports Traditions",
+    "style_notes": "Regular clues are straightforward trivia. CAH clues use modern references, family dynamics, and dark humor about New Year's traditions and football obsession.",
+    "mainstream_references": ["ESPN", "Rose Bowl", "Detroit Lions", "NFL", "playoff system", "social media arguments"],
+    "generation_date": "2026-01-02"
+  }
+}

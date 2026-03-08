@@ -1,0 +1,1185 @@
+{
+  "categoryId": "birthday_famous_birthdays",
+  "categoryName": "Famous Birthdays",
+  "categoryDescription": "Historical figures, celebrities, and famous people born on the same day across different eras. Explores connections between notable birthdays, shared birth dates, and celebrity biographies throughout history.",
+  "ageSuitability": ["kids_4_under", "kids_10_under", "teenagers", "adults", "no_humanity"],
+  "researchAlignment": "Historical biography - celebrity studies, chronological documentation, cultural significance of birth dates, historical figure achievements and life events",
+  "questions": [
+    {
+      "audience": "kids_4_under",
+      "clue": "This Disney character who loves honey was born on a day that shares the same date as author A.A. Milne.",
+      "correctQuestion": "Who is Winnie the Pooh?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The famous mouse who talks and wears gloves was created by Walt Disney - and Walt Disney himself was born on this month and day.",
+      "correctQuestion": "What is December 5?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "This superhero with super strength was born in a comic book on the same month and day as actor Christopher Reeve, who played him in movies.",
+      "correctQuestion": "Who is Superman?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The singer of 'Let It Go' from Frozen shares her birthday with Thomas Edison, the man who invented this bright thing.",
+      "correctQuestion": "What is the light bulb?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The voice of Elsa in Frozen was born on the same day as this famous president who said 'Speak softly and carry a big stick.'",
+      "correctQuestion": "Who is Theodore Roosevelt?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Taylor Swift, the famous singer, was born on the same day as Sir Isaac Newton, who discovered this scientific law.",
+      "correctQuestion": "What is gravity?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The author who wrote Harry Potter shares a birthday with this author who wrote adventure stories about treasure and pirates.",
+      "correctQuestion": "Who is Robert Louis Stevenson?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Elvis Presley, the King of Rock and Roll, was born on the same day as this holiday where we remember important people.",
+      "correctQuestion": "What is January 8?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The girl in the cartoon SpongeBob SquarePants is named Sandy - she shares her fictional birthday with this real inventor.",
+      "correctQuestion": "Who is someone famous born on July 14?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "This basketball player who wore number 23 was born on the same day of the year as President Abraham Lincoln.",
+      "correctQuestion": "Who is Michael Jordan?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Author J.K. Rowling shares her birthday of July 31 with this fictional wizard she created.",
+      "correctQuestion": "Who is Harry Potter?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Isaac Newton, discoverer of gravity, shares his December 25 birthday with this major Christian holiday.",
+      "correctQuestion": "What is Christmas?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Christy Turlington, the famous supermodel, was born on January 6, the same day as this holiday in some countries.",
+      "correctQuestion": "What is Epiphany?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Albert Einstein and Galileo were both born during this month - a sign of March being a time for great scientists.",
+      "correctQuestion": "What is March?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Elvis Presley and Stephen Hawking the famous physicist both share this month as their birth month.",
+      "correctQuestion": "What is January?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Oprah Winfrey shares her January 29 birthday with this composer of classical music born centuries before her.",
+      "correctQuestion": "Who is Thomas Paine?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Barack Obama was born on August 4, the same day this American inventor was born.",
+      "correctQuestion": "Who is James Ritty?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Dwayne 'The Rock' Johnson shares his May 2 birthday with someone famous - what year was he born in?",
+      "correctQuestion": "What is 1972?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Bill Gates was born on October 28, which is also the birthday of this European composer.",
+      "correctQuestion": "Who is Amédée-Louis Despax?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Serena Williams shares her September 26 birthday with actress Julie Dretzin - they are both famous for being these types of performers.",
+      "correctQuestion": "What is a woman?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Isaac Newton and Isaac Newton the scientist were both born on December 25 - but which would be the holiday's first recorded celebrity birthday clash?",
+      "correctQuestion": "What is Newton's birth in 1642?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Taylor Swift was born on December 13, 1989 - she shares this date with this inventor who was born December 13, 1797.",
+      "correctQuestion": "Who is James Thomson?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Ernest Hemingway, the Nobel Prize-winning author, shares his July 21 birthday with what space exploration achievement?",
+      "correctQuestion": "What is the moon landing or Apollo 11 mission?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Oprah Winfrey and Franklin D. Roosevelt both share this month as their birth month - making them part of an exclusive group.",
+      "correctQuestion": "What is January?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Marilyn Monroe was born on June 1 - the same day as this composer of classical music.",
+      "correctQuestion": "Who is Johann Gottfried Müthel?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Beyoncé and George Orwell share this birth month, connecting the pop star to the dystopian author.",
+      "correctQuestion": "What is September?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Cristiano Ronaldo was born on February 5, the same day as this American actress and producer.",
+      "correctQuestion": "Who is Rosa Parks or another February 5 celebrity?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Michael Jackson and George Washington share this birth month, connecting the King of Pop to the Father of His Country.",
+      "correctQuestion": "What is February?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Stephen Colbert was born on May 13, which he shares with this composer who lived in the 1700s.",
+      "correctQuestion": "What is 1733 (Joseph-Marie Leclair)?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Emma Stone shares her November 6 birthday with this President of the United States.",
+      "correctQuestion": "Who is James Naismith or someone born November 6?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Albert Einstein and J.K. Rowling were not born on the same day, but Einstein shares his March 14 birthday with this modern physicist.",
+      "correctQuestion": "What is Stephen Hawking's death date or another March 14 event?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Winston Churchill was born on November 30 - the same day as this fictional character in literature.",
+      "correctQuestion": "What is December 1 or a November 30 birthday?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Audrey Hepburn was born on May 4 - she shares this date with this famous inventor of the stethoscope.",
+      "correctQuestion": "Who is René Laënnec?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Leonardo DiCaprio was born on November 11 - Armistice Day - sharing it with this historical military event.",
+      "correctQuestion": "What is Armistice Day or the end of World War I?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Shakira was born on February 2 - Groundhog Day in the U.S., which celebrates this animal.",
+      "correctQuestion": "What is a groundhog?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Angelina Jolie shares her June 4 birthday with this inventor of the first successful airplane.",
+      "correctQuestion": "Who is the Wright brothers or Orville Wright?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Brad Pitt was born on December 18 - he shares this winter month with this famous author born December 18, 1878.",
+      "correctQuestion": "Who is Saki?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Jennifer Aniston and David Hockney share this birth month - connecting the actress to the pop artist.",
+      "correctQuestion": "What is February?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "John F. Kennedy was born on May 29 - he shares this date with Irish independence and the birth of this Irish leader.",
+      "correctQuestion": "What is John F. Kennedy sharing the date with other May 29 births?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The genealogical coincidence of Isaac Newton's December 25 birthday reflects how major scientists often received attention despite religious calendar dominance in this century.",
+      "correctQuestion": "What is the 17th century?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Taylor Swift's December 13, 1989 birth date creates an interesting historical connection to the fall of this symbol of Cold War division.",
+      "correctQuestion": "What is the Berlin Wall?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Ernest Hemingway's July 21 birth year (1899) is significant because his fictional works explored traumatic experiences from this conflict.",
+      "correctQuestion": "What is World War I?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Oprah Winfrey and Franklin D. Roosevelt's January births connect the entertainment industry to political leadership across these two centuries.",
+      "correctQuestion": "What are the 20th and 21st centuries?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Marilyn Monroe's June 1 birth connects to the classical composer tradition of celebrating summer solstice seasonal transitions in what tradition?",
+      "correctQuestion": "What is the Western classical music tradition?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Beyoncé and George Orwell sharing September birthdays creates a temporal connection between dystopian literature and contemporary entertainment expressing what philosophical concern?",
+      "correctQuestion": "What is the nature of power and control in society?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Cristiano Ronaldo's February 5 birth date aligns with this global celebration of love and connection that dominates February cultural consciousness.",
+      "correctQuestion": "What is Valentine's Day?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Michael Jackson and George Washington sharing February births connects the musical revolution to the political revolution across these historical distances.",
+      "correctQuestion": "What are the late 18th century and late 20th century?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Stephen Colbert's May 13 birth connects him to Enlightenment-era composers, suggesting how the same dates produce different cultural outputs across historical periods.",
+      "correctQuestion": "What is the continuous cultural reproduction despite temporal distance?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Emma Stone's November 6 birth aligns with this late autumn period that historically marked transitions in agricultural and social calendars.",
+      "correctQuestion": "What is the pre-winter agricultural transition?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Albert Einstein's March 14 birth date is academically significant because Pi Day (March 14 - 3.14) commemorates this mathematical constant he applied in his theories.",
+      "correctQuestion": "What is the mathematical constant pi?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Winston Churchill's November 30 birth connects him to autumn's threshold, a period he navigated politically through this global conflict.",
+      "correctQuestion": "What is World War II?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Audrey Hepburn's May 4 birth aligns with spring fertility symbolism that characterizes many European cultural traditions in this season.",
+      "correctQuestion": "What is spring or May?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Leonardo DiCaprio's November 11 (Armistice Day) birth creates a historically charged birthday connecting him to this 20th-century conflict's commemoration.",
+      "correctQuestion": "What is World War I?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Shakira's February 2 (Groundhog Day) birth connects her to this Christianized pagan festival marking spring's traditional beginning in the Northern Hemisphere.",
+      "correctQuestion": "What is Candlemas or the Celtic Imbolc?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Angelina Jolie's June 4 birth aligns with early summer and parallels the aeronautical achievements of this historical aviation milestone.",
+      "correctQuestion": "What is the Wright brothers' first powered flight?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Brad Pitt's December 18 birth connects him to the winter solstice period and this author's exploration of imperialism and colonialism.",
+      "correctQuestion": "What is Rudyard Kipling's influence on adventure narratives?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Jennifer Aniston and David Hockney's February births connect entertainment and visual art across generational and national boundaries in this century.",
+      "correctQuestion": "What is the 20th century?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "John F. Kennedy's May 29 birth aligns with late spring, a period he would later navigate during the Cuban Missile Crisis requiring strategic thinking.",
+      "correctQuestion": "What is Kennedy's Cold War leadership?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The clustering of notable births on specific calendar dates reveals what Foucauldian apparatus about the regulation of temporal subject formation?",
+      "correctQuestion": "What is the disciplinary production of historical consciousness through calendar standardization?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "That famous people share birthdays across centuries suggests what about the phenomenology of temporal coincidence - is this meaningful or merely statistical artifact?",
+      "correctQuestion": "What is the aporia between narrative causality and random distribution in historical consciousness?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The Derridean trace appears when Taylor Swift's 1989 birth date simultaneously marks both her individual origin and the fall of the Berlin Wall - what is this?",
+      "correctQuestion": "What is the event of non-coincidental temporal co-occurrence producing meaning retroactively?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Analyzing why certain birth dates (Christmas, Groundhog Day) attract celebrity associations reveals what about the relationship between collective calendars and individual distinction?",
+      "correctQuestion": "What is the paradox that famous individuals emerge from and are partially subsumed by collective temporal structures?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The genealogical method would suggest that shared birthdays between Einstein and contemporary physicists reveals what about the production of scientific subjectivity?",
+      "correctQuestion": "What is the way disciplines produce subjects who emerge at predictable temporal intervals?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "That we celebrate celebrity birthdays while erasing common citizens' birth dates demonstrates what about power and the right to be remembered?",
+      "correctQuestion": "What is Agambenian bare life versus the exceptional life worthy of documentation?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The construction of historical narrative around famous birthdays instantiates what Benjaminian concept about the redemptive power of past moments?",
+      "correctQuestion": "What is the jetztzeit or the messianic moment when past and present collide?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Deconstruct the claim that Newton's December 25 birth is 'coincidental' rather than 'meaningful' - what does this binary opposition obscure about temporal consciousness?",
+      "correctQuestion": "What is the way meaning is retroactively assigned to arbitrary temporal markers?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The multiplication of birthday 'coincidences' in celebrity culture reveals what about the statistical improbability of random distribution and the human drive for narrative?",
+      "correctQuestion": "What is pareidolia - the tendency to see patterns in randomness?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "That famous people born on Armistice Day (like DiCaprio) are commemorated through their birthdays rather than the historical event suggests what about consumer culture's appropriation of historical memory?",
+      "correctQuestion": "What is the displacement of collective historical trauma onto celebrity biography?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Winston Churchill, the leader who saved Britain, was born on the same month as this holiday celebrating being thankful.",
+      "correctQuestion": "What is November or Thanksgiving?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The first president of America shares his birth month with the King of Rock and Roll - both born in this month.",
+      "correctQuestion": "What is February?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "This famous tennis player shares her birthday with someone from hundreds of years ago - but they both happen to be born on this month.",
+      "correctQuestion": "What is September?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The inventor Thomas Edison shares his birthday with actress Idina Menzel who sings 'Let It Go' - both born in this month.",
+      "correctQuestion": "What is October?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Lady Gaga and someone from long ago share a birthday - they both were born on this spring month.",
+      "correctQuestion": "What is March?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The author of Sherlock Holmes shares his birthday with a famous person from history - both born in this month.",
+      "correctQuestion": "What is May?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "A famous astronomer was born on July 15 - he shares this summer day with this modern football player.",
+      "correctQuestion": "What is a famous sports player born July 15?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "This famous actor known for fast cars shares an August birthday with a classical composer from the 1700s.",
+      "correctQuestion": "What is August?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The inventor Alexander Graham Bell and a famous modern singer share this March birthday together.",
+      "correctQuestion": "What is March 3?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Queen Elizabeth II was born in this month - and this month is named after this Roman calendar feature.",
+      "correctQuestion": "What is April?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "The rapper Snoop Dogg was born on October 20 - he shares this fall month with this classical composer from Italy.",
+      "correctQuestion": "What is October?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Bruce Willis and this former first lady share a March birthday - making them spring babies.",
+      "correctQuestion": "What is March?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Ariana Grande shares her birthday month with this classical composer born in Austria who wrote 'Eine kleine Nachtmusik.'",
+      "correctQuestion": "What is January?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Tom Hanks and this famous inventor who developed the telephone both share a July birthday.",
+      "correctQuestion": "What is July?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Usain Bolt, the fastest man in the world, shares his August birthday with this author of adventure novels about treasure.",
+      "correctQuestion": "What is August?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "LeBron James was born on December 30, which is very close to Christmas - he shares this winter month with this scientist.",
+      "correctQuestion": "What is December?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Rihanna was born on February 20 - she shares this month with U.S. President George Washington.",
+      "correctQuestion": "What is February?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Mariah Carey was born on March 27 - she shares the spring month with this inventor.",
+      "correctQuestion": "What is March?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Justin Bieber and William Shakespeare were both born in this month - making them April babies.",
+      "correctQuestion": "What is April?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Prince and someone from history share May 29 - but May is named after this ancient Roman character.",
+      "correctQuestion": "What is May or the goddess Maia?",
+      "points": 200,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Keanu Reeves was born on September 2, 1964 - during this Cold War period that characterized his early life.",
+      "correctQuestion": "What is the height of the Cold War?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Halsey was born on September 29, 1996 - the same month as author George Orwell, both sharing this autumn month.",
+      "correctQuestion": "What is September?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Kylie Jenner was born on August 10, 1997 - sharing this month with this explorer who sailed the HMS Beagle.",
+      "correctQuestion": "Who is Charles Darwin?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Kanye West and this classical composer were both born on June 8 - connecting music across genres and centuries.",
+      "correctQuestion": "Who is Robert Schumann?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "The birth of Mona Lisa (the painting's subject) and Leonardo DiCaprio on November 11 creates what historical paradox?",
+      "correctQuestion": "What is the anachronism of celebrating a fictional date alongside a real celebrity?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Zendaya and this 16th-century painter share the same month - both born in September, connecting entertainment and art.",
+      "correctQuestion": "What is September?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Post Malone was born on July 4, Independence Day - sharing this patriotic month with this American president.",
+      "correctQuestion": "What is July?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Lizzo was born on April 27 - she shares this month with this author of romantic novels.",
+      "correctQuestion": "What is April?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Tyler, the Creator was born on March 6 - sharing this spring month with this famous scientist.",
+      "correctQuestion": "What is March?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Billie Eilish was born on December 18 - sharing this winter month with this author and composer.",
+      "correctQuestion": "What is December?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Statistical analysis of celebrity birth dates reveals what about cultural memory - are these 'coincidences' truly random or selected retroactively?",
+      "correctQuestion": "What is confirmation bias in the selection of celebrated birthdays?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The concentration of notable births during certain months suggests what about seasonal conception patterns and historical documentation practices?",
+      "correctQuestion": "What is the relationship between biological reproduction cycles and recorded history?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "That we celebrate famous birthdays while constructing genealogies across centuries demonstrates what Derridean concept about temporal difference?",
+      "correctQuestion": "What is différance - the infinite deferral of meaning across temporal distance?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The practice of noting shared birthdates between celebrities and historical figures reveals what about the construction of historical narrative?",
+      "correctQuestion": "What is the imposition of continuity onto discontinuous historical moments?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The elevation of certain birthdays (Christmas, Armistice Day) to significance through celebrity association exemplifies what Gramscian concept?",
+      "correctQuestion": "What is cultural hegemony through the naturalization of particular temporal orderings?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "That historical figures and modern celebrities share birthdays across centuries suggests what about the nature of recorded history?",
+      "correctQuestion": "What is the privileging of documented elites in historical consciousness?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The use of shared birthdates to create meaning between Einstein and contemporary scientists exemplifies what sociological phenomenon?",
+      "correctQuestion": "What is the production of disciplinary subjects through temporal regularization?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Celebrity birthday culture demonstrates what about the relationship between individual distinction and collective temporal structures?",
+      "correctQuestion": "What is the paradox that fame emerges from and remains partially embedded in shared social calendars?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The selective emphasis on celebrity birthdays while erasing ordinary citizens' births reflects what about power and historical visibility?",
+      "correctQuestion": "What is the way privilege grants one's temporal markers cultural significance?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "That shared birthdates across cultures (Islamic, Julian, Gregorian calendars) are often ignored reveals what about calendar standardization?",
+      "correctQuestion": "What is the imposition of Western calendar systems as the unmarked norm in global historical consciousness?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Construct a genealogical analysis of why we find shared celebrity birthdays psychologically compelling despite their mathematical inevitability - what gap between statistical knowledge and subjective experience does this reveal?",
+      "correctQuestion": "What is the irreducible gap between rational epistemology and affective experience of coincidence?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The practice of assigning meaning to temporal coincidence (Newton on Christmas, DiCaprio on Armistice Day) exemplifies what Benjaminian concept about historical consciousness?",
+      "correctQuestion": "What is the redemptive historical consciousness that finds traces of redemption in arbitrary temporal moments?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Derrida argues that any temporal moment is always already inhabited by traces of other moments - analyze how celebrity birthday coincidences instantiate this aporia.",
+      "correctQuestion": "What is the hauntological structure whereby past moments are never fully past but return in unexpected forms?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The birthday becomes a technology of what - simultaneously marking individual distinctiveness while subordinating the individual to collective temporal structures?",
+      "correctQuestion": "What is the production of the modern autonomous subject through temporal discipline?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "That only elite births are documented while common citizens' births are erased demonstrates what about the relationship between power and temporal marking?",
+      "correctQuestion": "What is Foucauldian biopower - the regulation of human life through systems of recording and categorization?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Celebrity birthday discourse produces what Lacanian effect - a retroactive causality whereby the celebrity is produced as significant because of their birthdate rather than their birthdate gaining significance through their celebrity?",
+      "correctQuestion": "What is the split subject - the temporal gap between cause and effect in the production of historical meaning?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The pareidolia of finding meaningful patterns in random birthdate distributions suggests what about the relationship between human meaning-making and mathematical probability?",
+      "correctQuestion": "What is the cognitive imperative toward narrative coherence exceeding statistical rationality?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Analyze the phenomenological difference between 'discovering' a shared birthdate and 'constructing' its significance retroactively - what does this distinction reveal about historical consciousness?",
+      "correctQuestion": "What is the impossibility of separating discovery from construction in the production of historical knowledge?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The Western calendar's standardization obscures alternative temporalities (lunar, agricultural, religious) - how does this homogenization serve what ideological function?",
+      "correctQuestion": "What is the naturalization of Western temporal ordering as the unmarked universal standard?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "That celebrity birthdays generate collective attention while poverty-stricken births occur in obscurity exemplifies what about the biopolitics of documentation?",
+      "correctQuestion": "What is the differential allocation of symbolic and material recognition based on existing power relations?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "This president who wanted to speak softly and carry a big stick was born on this day - October 27.",
+      "correctQuestion": "Who is Theodore Roosevelt?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The person who invented electricity-using light was born on February 11 - this inventor's name is.",
+      "correctQuestion": "Who is Thomas Edison?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "A very famous author who wrote books about a boy wizard was born on July 31 - the same day as her character's birthday.",
+      "correctQuestion": "Who is J.K. Rowling?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The king of rock and roll was born on January 8 - this singer is known as the 'King' by fans.",
+      "correctQuestion": "Who is Elvis Presley?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "This scientist discovered that objects fall due to this force - he was born on December 25, Christmas day.",
+      "correctQuestion": "Who is Isaac Newton?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Michael Jordan, who played basketball with the number 23, was born on February 17 - the same month as this president.",
+      "correctQuestion": "Who is George Washington?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Walt Disney was born on December 5 - he created the world's most famous cartoon character which is this mouse.",
+      "correctQuestion": "Who is Mickey Mouse?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "This scientist who discovered atoms and how they work was born on January 6 - his name is John Dalton.",
+      "correctQuestion": "Who is John Dalton?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "The woman who created Frankenstein's monster was born on this date - August 30, 1797.",
+      "correctQuestion": "Who is Mary Shelley?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Albert Einstein, the smartest scientist, was born on March 14 - which is celebrated as this mathematical day.",
+      "correctQuestion": "What is Pi Day?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Oprah Winfrey was born on January 29, 1954 - she shares this winter month with many famous people throughout history.",
+      "correctQuestion": "What is January?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Stephen Hawking, the famous scientist who studied black holes, was born on January 8 - the same day as Elvis Presley.",
+      "correctQuestion": "What is January 8?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Charles Dickens, who wrote 'A Christmas Carol,' was born on February 7, 1812 - in this month associated with winter.",
+      "correctQuestion": "What is February?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "This painter with the same first name as the Renaissance artist was born on August 15, 1769 - his name was.",
+      "correctQuestion": "What is August 15?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Benjamin Franklin was born on January 17, 1706 - he invented this item with a metal tip you use in storms.",
+      "correctQuestion": "What is a lightning rod?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "This explorer discovered America in 1492 - he was born on October 31 according to some sources, which is this holiday.",
+      "correctQuestion": "What is October 31 or Halloween?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Helen Keller was born on June 27, 1880 - she overcame disabilities to become this type of person.",
+      "correctQuestion": "What is a speaker and writer?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "This president who ended slavery was born on February 12, 1809 - in this month with winter.",
+      "correctQuestion": "What is February?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Vincent Van Gogh was born on March 30, 1853 - he painted pictures with these bright colored paints.",
+      "correctQuestion": "What is oil paint or bright colors?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Florence Nightingale was born on May 12, 1820 - she was famous for helping people in this profession.",
+      "correctQuestion": "What is nursing?",
+      "points": 300,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "The paradox of Newton being born on Christmas demonstrates what about how calendar dates become metaphorically loaded with significance?",
+      "correctQuestion": "What is the overdetermination of meaning onto arbitrary temporal moments?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "That we celebrate celebrity birthdays through media consumption while most births occur in obscurity reveals what about power and historical visibility?",
+      "correctQuestion": "What is the privileging of elite lives in historical documentation?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "The clustering of notable births during spring and early summer months (March-June) may reflect what biological phenomenon?",
+      "correctQuestion": "What is seasonal breeding patterns or conception in summer/fall?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "That Armistice Day (November 11) births are noted for celebrities but the actual war's significance is often secondary suggests what about consumer culture?",
+      "correctQuestion": "What is the subordination of historical trauma to celebrity marketing?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "The use of shared birthdays to create genealogical connections between artists and scientists across centuries exemplifies what historiographical practice?",
+      "correctQuestion": "What is the imposition of narrative coherence onto discontinuous historical moments?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Birthday coincidences that appear meaningful (Newton on Christmas, DiCaprio on Armistice) may exemplify what cognitive bias?",
+      "correctQuestion": "What is confirmation bias - selecting for coincidences that support preexisting beliefs?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "That only documented elites' birthdays become celebrated suggests what about the historical record's relationship to power?",
+      "correctQuestion": "What is that history is written by and about the privileged?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "The standardization of the Gregorian calendar globally obscures what about non-Western temporal systems?",
+      "correctQuestion": "What is the erasure of alternative calendrical practices and worldviews?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Celebrity birthday culture generates what Bourdieusian form of capital that distinguishes cultural elites from common citizens?",
+      "correctQuestion": "What is cultural capital through familiarity with elite biography?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "That shared birthdays between centuries-distant figures are presented as meaningful coincidences reveals what about narrative's power?",
+      "correctQuestion": "What is narrative's ability to create false causal connections across temporal distance?",
+      "points": 400,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The mathematical probability of shared birthdays (birthday paradox) suggests that celebrity birthday 'coincidences' are statistically inevitable - what does this reveal about the construction of meaning?",
+      "correctQuestion": "What is that all systems of meaning-making involve selective emphasis on mathematically probable but culturally framed as significant events?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The elevation of certain birthdays through celebrity association exemplifies what Foucauldian apparatus about the regulation of subjects?",
+      "correctQuestion": "What is the way power/knowledge regimes produce certain temporal moments as sites of intensified meaning?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "That we assign retrospective significance to Newton's Christmas birth demonstrates what about the relationship between causality and narrative?",
+      "correctQuestion": "What is the post-hoc construction of meaningful connections from arbitrary temporal coincidence?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The documented concentration of elite births during spring (potentially reflecting fall conceptions) reveals what about the intersection of biology and historical documentation?",
+      "correctQuestion": "What is the way biological patterns become invisibly encoded in supposedly purely cultural historical records?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "Celebrity birthday discourse performs what ideological function in consumer capitalism - specifically, what does celebrating famous birthdays accomplish?",
+      "correctQuestion": "What is the naturalization of inequality by transforming structural privilege into individual distinction?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The global dissemination of Western birthdate celebration protocols obscures what about the relationship between Gregorian calendar standardization and cultural imperialism?",
+      "correctQuestion": "What is the way technological standardization (calendars) enforces ideological homogenization?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "That pareidolia drives us to find meaningful patterns in birthdate distributions suggests what about the human cognitive requirement for narrative?",
+      "correctQuestion": "What is that human consciousness is fundamentally oriented toward meaning-making regardless of statistical probability?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The practice of noting shared birthdays across disciplinary boundaries (science, art, politics) reveals what about how subjects are produced across fields?",
+      "correctQuestion": "What is the heteronomous production of elite subjects across apparently autonomous social domains?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "That only elite deaths and births enter historical record while common people die in obscurity exemplifies what about biopower and temporal marking?",
+      "correctQuestion": "What is Agambenian bare life versus the biographically recognized life?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "adults",
+      "clue": "The construction of genealogical meaning from shared birthdays across centuries exemplifies what Foucauldian methodology about the production of historical knowledge?",
+      "correctQuestion": "What is genealogy - the tracing of contingent historical connections rather than teleological causality?",
+      "points": 500,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Construct a Derridean analysis of the birthday as the trace that is never fully present - it marks a moment that is simultaneously origin, absence, and the subject's otherness to itself.",
+      "correctQuestion": "What is the way the birthday instantiates the structure of différance in temporal consciousness?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The birthday paradox demonstrates that coincidence is mathematically inevitable yet narratively exceptional - what does this aporia reveal about the gap between knowledge and experience?",
+      "correctQuestion": "What is the unbridgeable gulf between statistical understanding and affective meaning-making?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Analyze the hauntological structure whereby celebrity birthdays are inhabited by the traces of historical figures - what does the birthday become as a site of temporal co-presence?",
+      "correctQuestion": "What is the collapsed distinction between past and present in the birthday's temporal organization?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The Lacanian concept of retroactive causality applies to birthday significance - the celebrity produces the birthday's meaning rather than the birthdate producing the celebrity - what does this reversal reveal?",
+      "correctQuestion": "What is the split subject where temporality is inverted in the production of historical meaning?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Celebrity birthday discourse instantiates what Althusserian ideological state apparatus - how does celebrating famous birthdays accomplish state-level ideological work?",
+      "correctQuestion": "What is the naturalization of hierarchy through the apparent meritocratic celebration of individual achievement?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The erasure of common citizens' births from historical record while elite births are celebrated exemplifies what Agambenian biopolitical principle?",
+      "correctQuestion": "What is the differential production of somebodies and nobodies through temporal documentation?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Deconstruct the claim that finding shared birthdays is a mere 'coincidence' - what does the attempt to distinguish accident from meaning obscure about temporal consciousness?",
+      "correctQuestion": "What is the way all temporal meaning-making involves retroactive construction from underdetermined facticity?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The birthday becomes a technology of what according to Foucault - it produces subjects by marking their temporal origin and subjecting them to calendrical normalization.",
+      "correctQuestion": "What is the disciplinary production of the modern subject through temporal standardization?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Construct a genealogy of the celebrity birthday as a modern invention - what historical conditions enabled the concentration of biographical attention on individual birth dates?",
+      "correctQuestion": "What is the intersection of print capitalism, the modern nation-state, and the cult of personality?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "The Benjaminian concept of the 'jetztzeit' - the now-time when past and present collapse - appears realized in birthday coincidences - what does this reveal about how nostalgia operates?",
+      "correctQuestion": "What is the messianic temporality where forgotten moments suddenly become charged with redemptive possibility?",
+      "points": 600,
+      "category": "birthday_famous_birthdays"
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "category": "Holiday Music",
+  "theme": "christmas",
+  "category_id": "christmas_songs",
+  "description": "Christmas carols and popular songs",
+  "age_suitability": "All ages",
+  "research_alignment": "Auditory learning, music memory, lyrics comprehension",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This song asks Santa to 'bring me a puppy'",
+        "correctQuestion": "What is Santa Claus Is Coming to Town?",
+        "value": 200
+      },
+      {
+        "clue": "Jingle bells jingle all the way in this one-horse open vehicle",
+        "correctQuestion": "What is a sleigh?",
+        "value": 200
+      },
+      {
+        "clue": "This reindeer with a red nose had a very shiny one",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 200
+      },
+      {
+        "clue": "Frosty the Snowman was made from this white stuff that falls from the sky",
+        "correctQuestion": "What is snow?",
+        "value": 200
+      },
+      {
+        "clue": "In the song, these items make a jingle bell sound",
+        "correctQuestion": "What are bells?",
+        "value": 200
+      },
+      {
+        "clue": "The little drummer boy played this instrument for baby Jesus",
+        "correctQuestion": "What is a drum?",
+        "value": 200
+      },
+      {
+        "clue": "This snowman came to life when a magic hat was placed on his head",
+        "correctQuestion": "Who is Frosty?",
+        "value": 200
+      },
+      {
+        "clue": "Santa Claus is coming to this place",
+        "correctQuestion": "What is town?",
+        "value": 200
+      },
+      {
+        "clue": "In Jingle Bells, we're riding in this festive way",
+        "correctQuestion": "What is a one-horse open sleigh?",
+        "value": 200
+      },
+      {
+        "clue": "Rudolph's nose is this bright color",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "In the song, Frosty had eyes made of this black mineral",
+        "correctQuestion": "What is coal?",
+        "value": 400
+      },
+      {
+        "clue": "The song says Santa knows if you've been bad or this opposite",
+        "correctQuestion": "What is good?",
+        "value": 400
+      },
+      {
+        "clue": "In Rudolph the Red-Nosed Reindeer, the other reindeer wouldn't let him join these activities",
+        "correctQuestion": "What are reindeer games?",
+        "value": 400
+      },
+      {
+        "clue": "The Little Drummer Boy says he has no gift to bring that's fit for this baby",
+        "correctQuestion": "Who is a King?",
+        "value": 400
+      },
+      {
+        "clue": "Jingle Bells tells us to do this all the way",
+        "correctQuestion": "What is jingle?",
+        "value": 400
+      },
+      {
+        "clue": "You better not do this because Santa Claus is coming to town",
+        "correctQuestion": "What is cry?",
+        "value": 400
+      },
+      {
+        "clue": "Frosty had a button nose and this in his hand",
+        "correctQuestion": "What is a broomstick?",
+        "value": 400
+      },
+      {
+        "clue": "On Christmas Eve, kids leave these treats for Santa",
+        "correctQuestion": "What are cookies?",
+        "value": 400
+      },
+      {
+        "clue": "In Rudolph, the fog was so thick one Christmas, Santa needed this to guide his sleigh",
+        "correctQuestion": "What is Rudolph's nose?",
+        "value": 400
+      },
+      {
+        "clue": "Santa checks his list this many times",
+        "correctQuestion": "What is twice?",
+        "value": 400
+      },
+      {
+        "clue": "In Jingle Bells, this animal pulls the sleigh",
+        "correctQuestion": "What is a horse?",
+        "value": 600
+      },
+      {
+        "clue": "The reindeer used to laugh and call Rudolph these mean words",
+        "correctQuestion": "What are names?",
+        "value": 600
+      },
+      {
+        "clue": "Frosty knew he had to hurry on his way before he did this",
+        "correctQuestion": "What is melt?",
+        "value": 600
+      },
+      {
+        "clue": "Santa knows when you're awake and when you're doing this",
+        "correctQuestion": "What is sleeping?",
+        "value": 600
+      },
+      {
+        "clue": "In We Wish You a Merry Christmas, we also wish you this type of year",
+        "correctQuestion": "What is a happy new year?",
+        "value": 600
+      },
+      {
+        "clue": "The Little Drummer Boy played his best for this special baby",
+        "correctQuestion": "Who is Jesus?",
+        "value": 600
+      },
+      {
+        "clue": "Rudolph went down in this as the most famous reindeer",
+        "correctQuestion": "What is history?",
+        "value": 600
+      },
+      {
+        "clue": "Frosty was a jolly happy soul with a corncob pipe and this on his head",
+        "correctQuestion": "What is an old silk hat?",
+        "value": 600
+      },
+      {
+        "clue": "In the song, on Christmas Eve Santa rides in his sleigh pulled by eight of these",
+        "correctQuestion": "What are reindeer?",
+        "value": 800
+      },
+      {
+        "clue": "Rudolph had a nose that did this glowing thing",
+        "correctQuestion": "What is shine?",
+        "value": 800
+      },
+      {
+        "clue": "In Here Comes Santa Claus, he's coming down this street feature",
+        "correctQuestion": "What is Santa Claus Lane?",
+        "value": 800
+      },
+      {
+        "clue": "The song says to deck the halls with boughs of this plant",
+        "correctQuestion": "What is holly?",
+        "value": 800
+      },
+      {
+        "clue": "Away in a Manger says no crying this baby makes",
+        "correctQuestion": "Who is baby Jesus?",
+        "value": 1000
+      },
+      {
+        "clue": "The song tells us all to have a holly jolly this holiday",
+        "correctQuestion": "What is Christmas?",
+        "value": 1000
+      },
+      {
+        "clue": "In the song, these people are coming to town with Santa Claus",
+        "correctQuestion": "What is Santa Claus?",
+        "value": 1000
+      },
+      {
+        "clue": "Silent Night says all is calm and all is this peaceful word",
+        "correctQuestion": "What is bright?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This holiday song starts with 'You better watch out, you better not cry'",
+        "correctQuestion": "What is Santa Claus is Coming to Town?",
+        "value": 200
+      },
+      {
+        "clue": "In The Twelve Days of Christmas, my true love gave me this many golden rings",
+        "correctQuestion": "What is five?",
+        "value": 200
+      },
+      {
+        "clue": "This song asks Rudolph to guide Santa's sleigh tonight",
+        "correctQuestion": "What is Rudolph the Red-Nosed Reindeer?",
+        "value": 200
+      },
+      {
+        "clue": "In Jingle Bell Rock, the jingle bells swing and jingle bells do this",
+        "correctQuestion": "What is ring?",
+        "value": 200
+      },
+      {
+        "clue": "Grandma Got Run Over by one of these in a humorous Christmas song",
+        "correctQuestion": "What is a reindeer?",
+        "value": 200
+      },
+      {
+        "clue": "All I Want for Christmas Is You was made famous by this pop diva",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 200
+      },
+      {
+        "clue": "This Mariah Carey song is the best-selling holiday song by a solo artist",
+        "correctQuestion": "What is All I Want for Christmas Is You?",
+        "value": 200
+      },
+      {
+        "clue": "In the song, Frosty the Snowman had a corncob pipe and this type of nose",
+        "correctQuestion": "What is a button nose?",
+        "value": 200
+      },
+      {
+        "clue": "The song says to deck the halls with boughs of this evergreen plant",
+        "correctQuestion": "What is holly?",
+        "value": 200
+      },
+      {
+        "clue": "This song mentions roasting chestnuts on an open fire",
+        "correctQuestion": "What is The Christmas Song?",
+        "value": 200
+      },
+      {
+        "clue": "In Winter Wonderland, we pretend the snowman is this clergy member",
+        "correctQuestion": "Who is Parson Brown?",
+        "value": 400
+      },
+      {
+        "clue": "The song Last Christmas says 'I gave you my' this organ",
+        "correctQuestion": "What is heart?",
+        "value": 400
+      },
+      {
+        "clue": "In The Twelve Days of Christmas, there are this many lords a-leaping",
+        "correctQuestion": "What is ten?",
+        "value": 400
+      },
+      {
+        "clue": "This song by José Feliciano wishes you this Spanish phrase for Merry Christmas",
+        "correctQuestion": "What is Feliz Navidad?",
+        "value": 400
+      },
+      {
+        "clue": "Jingle Bell Rock mentions this town square where the jingle hop has begun",
+        "correctQuestion": "What is Jingle Bell Square?",
+        "value": 400
+      },
+      {
+        "clue": "In You're a Mean One, Mr. Grinch, his brain is full of these insects",
+        "correctQuestion": "What are spiders?",
+        "value": 400
+      },
+      {
+        "clue": "This Dr. Seuss character has a song about how mean he is",
+        "correctQuestion": "Who is Mr. Grinch?",
+        "value": 400
+      },
+      {
+        "clue": "In Rockin' Around the Christmas Tree, people are dancing in this new old-fashioned way",
+        "correctQuestion": "What is mistletoe hung?",
+        "value": 400
+      },
+      {
+        "clue": "The Little Drummer Boy says 'pa rum pum pum' this many times per verse",
+        "correctQuestion": "What is pum?",
+        "value": 400
+      },
+      {
+        "clue": "In Here Comes Santa Claus, Santa's coming down this festively named lane",
+        "correctQuestion": "What is Santa Claus Lane?",
+        "value": 400
+      },
+      {
+        "clue": "This holiday classic mentions Jack Frost nipping at your nose",
+        "correctQuestion": "What is The Christmas Song (Chestnuts Roasting)?",
+        "value": 600
+      },
+      {
+        "clue": "In The Twelve Days of Christmas, this many maids are a-milking",
+        "correctQuestion": "What is eight?",
+        "value": 600
+      },
+      {
+        "clue": "This Paul McCartney song is titled 'Wonderful' this holiday season",
+        "correctQuestion": "What is Wonderful Christmastime?",
+        "value": 600
+      },
+      {
+        "clue": "In Blue Christmas, Elvis sings he'll have a blue Christmas without this person",
+        "correctQuestion": "Who is you?",
+        "value": 600
+      },
+      {
+        "clue": "The 12 Days of Christmas ends with this many drummers drumming",
+        "correctQuestion": "What is twelve?",
+        "value": 600
+      },
+      {
+        "clue": "In Baby It's Cold Outside, this weather condition is mentioned as a reason to stay",
+        "correctQuestion": "What is cold?",
+        "value": 600
+      },
+      {
+        "clue": "Rudolph's nose is described as this bright adjective in the song",
+        "correctQuestion": "What is shiny?",
+        "value": 600
+      },
+      {
+        "clue": "In Frosty the Snowman, the children say he could do this and that just the same as you and me",
+        "correctQuestion": "What is laugh and play?",
+        "value": 600
+      },
+      {
+        "clue": "This Christmas carol mentions 'tidings of comfort and joy'",
+        "correctQuestion": "What is God Rest Ye Merry Gentlemen?",
+        "value": 800
+      },
+      {
+        "clue": "In The Twelve Days of Christmas, six of these birds are a-laying",
+        "correctQuestion": "What are geese?",
+        "value": 800
+      },
+      {
+        "clue": "This Bing Crosby classic song dreams of this color Christmas",
+        "correctQuestion": "What is White Christmas?",
+        "value": 800
+      },
+      {
+        "clue": "In Do You Hear What I Hear, a star is dancing in the this time of day",
+        "correctQuestion": "What is night?",
+        "value": 800
+      },
+      {
+        "clue": "Carol of the Bells was originally composed in this Eastern European country",
+        "correctQuestion": "What is Ukraine?",
+        "value": 1000
+      },
+      {
+        "clue": "In We Wish You a Merry Christmas, carolers demand this pudding",
+        "correctQuestion": "What is figgy pudding?",
+        "value": 1000
+      },
+      {
+        "clue": "The Twelve Days of Christmas features this many swans a-swimming",
+        "correctQuestion": "What is seven?",
+        "value": 1000
+      },
+      {
+        "clue": "In Sleigh Ride, the song mentions being cozy as this warm bear",
+        "correctQuestion": "What is a bear?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This Wham! song from 1984 laments giving your heart away the previous Christmas",
+        "correctQuestion": "What is Last Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "Mariah Carey's All I Want for Christmas Is You was released in this decade",
+        "correctQuestion": "What is the 1990s?",
+        "value": 200
+      },
+      {
+        "clue": "This Michael Bublé album became the best-selling Christmas album of the 21st century",
+        "correctQuestion": "What is Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "Ariana Grande's Christmas album features this thank u, next style title",
+        "correctQuestion": "What is 'thank u, next' (Christmas & Chill)?",
+        "value": 200
+      },
+      {
+        "clue": "This artist had a viral TikTok moment when All I Want for Christmas hit #1 in 2019",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 200
+      },
+      {
+        "clue": "The Pogues' Fairytale of New York is a duet between Shane MacGowan and this female vocalist",
+        "correctQuestion": "Who is Kirsty MacColl?",
+        "value": 200
+      },
+      {
+        "clue": "This streaming platform releases Spotify Wrapped each December showing your top songs",
+        "correctQuestion": "What is Spotify?",
+        "value": 200
+      },
+      {
+        "clue": "Justin Bieber's 2011 holiday album is titled this festive name",
+        "correctQuestion": "What is Under the Mistletoe?",
+        "value": 200
+      },
+      {
+        "clue": "This K-pop group released a Christmas song Last Christmas in 2020",
+        "correctQuestion": "Who is Ariana Grande (or any K-pop group)?",
+        "value": 200
+      },
+      {
+        "clue": "Taylor Swift covered this classic for The Christmas Song compilation",
+        "correctQuestion": "What is Last Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "This year Mariah Carey's All I Want for Christmas Is You first reached #1 on Billboard Hot 100",
+        "correctQuestion": "What is 2019?",
+        "value": 400
+      },
+      {
+        "clue": "Pentatonix's a cappella version of this carol has over 700 million YouTube views",
+        "correctQuestion": "What is Hallelujah?",
+        "value": 400
+      },
+      {
+        "clue": "This controversial Christmas song faces criticism for this consent-related lyric issue",
+        "correctQuestion": "What is Baby It's Cold Outside?",
+        "value": 400
+      },
+      {
+        "clue": "Sia's 2017 Christmas album features this many saved my life",
+        "correctQuestion": "What is Everyday is Christmas?",
+        "value": 400
+      },
+      {
+        "clue": "The Vince Guaraldi Trio composed the jazz soundtrack for this animated Christmas special",
+        "correctQuestion": "What is A Charlie Brown Christmas?",
+        "value": 400
+      },
+      {
+        "clue": "This British singer-songwriter wrote and performed 'Snowman' in 2020",
+        "correctQuestion": "Who is Sia?",
+        "value": 400
+      },
+      {
+        "clue": "Sabrina Carpenter released this Christmas-themed EP in 2023",
+        "correctQuestion": "What is fruitcake?",
+        "value": 400
+      },
+      {
+        "clue": "Kelly Clarkson's Underneath the Tree appears on this 2013 holiday album",
+        "correctQuestion": "What is Wrapped in Red?",
+        "value": 400
+      },
+      {
+        "clue": "This emo band recorded a Christmas album called 'A Hawthorne Heights Christmas'",
+        "correctQuestion": "Who is Hawthorne Heights?",
+        "value": 400
+      },
+      {
+        "clue": "Meghan Trainor covered this Mariah Carey classic for her Christmas album",
+        "correctQuestion": "What is All I Want for Christmas Is You?",
+        "value": 400
+      },
+      {
+        "clue": "This social media trend involves posting Mariah Carey defrosting memes every November",
+        "correctQuestion": "What is the Mariah Carey defrosting meme?",
+        "value": 600
+      },
+      {
+        "clue": "Band Aid's Do They Know It's Christmas was written to raise funds for this African crisis",
+        "correctQuestion": "What is the Ethiopian famine?",
+        "value": 600
+      },
+      {
+        "clue": "This John Legend Christmas album features collaborations with Stevie Wonder",
+        "correctQuestion": "What is A Legendary Christmas?",
+        "value": 600
+      },
+      {
+        "clue": "The Killers release a new Christmas single annually to benefit this color charity",
+        "correctQuestion": "What is (RED)?",
+        "value": 600
+      },
+      {
+        "clue": "This satirical song by The Key of Awesome parodies Black Friday shopping culture",
+        "correctQuestion": "What is It's Almost Christmas?",
+        "value": 600
+      },
+      {
+        "clue": "Straight No Chaser's viral 12 Days of Christmas video launched their career in this year",
+        "correctQuestion": "What is 2007?",
+        "value": 600
+      },
+      {
+        "clue": "This artist's Christmas album featured the hit single 'Mistletoe' in 2011",
+        "correctQuestion": "Who is Justin Bieber?",
+        "value": 600
+      },
+      {
+        "clue": "SNL's parody 'Christmas Sucks' features this comedian as Santa",
+        "correctQuestion": "Who is Jimmy Fallon?",
+        "value": 600
+      },
+      {
+        "clue": "This Christmas song trend on TikTok involves dancing to 'Jingle Bell Rock'",
+        "correctQuestion": "What is the Mean Girls dance?",
+        "value": 800
+      },
+      {
+        "clue": "Glee's Christmas album features this many seasons worth of holiday episodes",
+        "correctQuestion": "What is three?",
+        "value": 800
+      },
+      {
+        "clue": "This rapper released 'Christmas in Harlem' featuring Kanye West in 2010",
+        "correctQuestion": "Who is Jim Jones?",
+        "value": 800
+      },
+      {
+        "clue": "The Waitresses' Christmas Wrapping is considered a classic in this music genre",
+        "correctQuestion": "What is new wave?",
+        "value": 800
+      },
+      {
+        "clue": "This chart rule change in 2018 allowed catalog songs like All I Want for Christmas to re-chart",
+        "correctQuestion": "What is the recurrent rule change?",
+        "value": 1000
+      },
+      {
+        "clue": "Trans-Siberian Orchestra's Christmas concerts have grossed over this many million dollars",
+        "correctQuestion": "What is 700 million?",
+        "value": 1000
+      },
+      {
+        "clue": "This year White Christmas by Bing Crosby became the best-selling single of all time",
+        "correctQuestion": "What is 1942?",
+        "value": 1000
+      },
+      {
+        "clue": "Mariah Carey reportedly earns this many million dollars annually from All I Want for Christmas royalties",
+        "correctQuestion": "What is 2-3 million?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Bing Crosby's White Christmas remains the best-selling single of all time with this many million copies sold",
+        "correctQuestion": "What is 50 million?",
+        "value": 200
+      },
+      {
+        "clue": "This 1818 Austrian carol was originally titled 'Stille Nacht'",
+        "correctQuestion": "What is Silent Night?",
+        "value": 200
+      },
+      {
+        "clue": "Irving Berlin composed White Christmas for this 1942 musical film",
+        "correctQuestion": "What is Holiday Inn?",
+        "value": 200
+      },
+      {
+        "clue": "The carol 'O Come All Ye Faithful' was originally written in this language",
+        "correctQuestion": "What is Latin?",
+        "value": 200
+      },
+      {
+        "clue": "Franz Xaver Gruber composed the music for this carol in 1818",
+        "correctQuestion": "What is Silent Night?",
+        "value": 200
+      },
+      {
+        "clue": "This Phil Spector-produced 1963 album is considered the greatest Christmas album ever",
+        "correctQuestion": "What is A Christmas Gift for You?",
+        "value": 200
+      },
+      {
+        "clue": "The Nutcracker ballet features music composed by this Russian composer",
+        "correctQuestion": "Who is Tchaikovsky?",
+        "value": 200
+      },
+      {
+        "clue": "Handel's Messiah features the famous 'Hallelujah' chorus traditionally performed during this season",
+        "correctQuestion": "What is Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "John Lennon and Yoko Ono's 'Happy Xmas (War Is Over)' was released in this year",
+        "correctQuestion": "What is 1971?",
+        "value": 200
+      },
+      {
+        "clue": "This 1970 Gene Autry song became a country Christmas standard about a lonely holiday",
+        "correctQuestion": "What is Here Comes Santa Claus?",
+        "value": 200
+      },
+      {
+        "clue": "The melody of 'Hark! The Herald Angels Sing' was composed by this German composer",
+        "correctQuestion": "Who is Felix Mendelssohn?",
+        "value": 400
+      },
+      {
+        "clue": "Nat King Cole's 'The Christmas Song' was written by this co-composer with Bob Wells",
+        "correctQuestion": "Who is Mel Tormé?",
+        "value": 400
+      },
+      {
+        "clue": "This 1944 Judy Garland film introduced 'Have Yourself a Merry Little Christmas'",
+        "correctQuestion": "What is Meet Me in St. Louis?",
+        "value": 400
+      },
+      {
+        "clue": "The carol 'Good King Wenceslas' is set on the Feast of Stephen, which is this date",
+        "correctQuestion": "What is December 26?",
+        "value": 400
+      },
+      {
+        "clue": "Elvis Presley's Blue Christmas appeared on this 1957 album",
+        "correctQuestion": "What is Elvis' Christmas Album?",
+        "value": 400
+      },
+      {
+        "clue": "The original 1984 Band Aid recording featured this many British and Irish music stars",
+        "correctQuestion": "What is 36?",
+        "value": 400
+      },
+      {
+        "clue": "Vince Guaraldi's 'Linus and Lucy' was composed for this TV special",
+        "correctQuestion": "What is A Charlie Brown Christmas?",
+        "value": 400
+      },
+      {
+        "clue": "The drinking song 'Auld Lang Syne' was penned by this Scottish poet",
+        "correctQuestion": "Who is Robert Burns?",
+        "value": 400
+      },
+      {
+        "clue": "Jose Feliciano's Feliz Navidad was recorded in this year",
+        "correctQuestion": "What is 1970?",
+        "value": 400
+      },
+      {
+        "clue": "This 1949 Gene Autry recording became the second best-selling Christmas song ever",
+        "correctQuestion": "What is Rudolph the Red-Nosed Reindeer?",
+        "value": 400
+      },
+      {
+        "clue": "The melody of 'What Child Is This?' is based on this English folk song",
+        "correctQuestion": "What is Greensleeves?",
+        "value": 600
+      },
+      {
+        "clue": "Brenda Lee recorded 'Rockin' Around the Christmas Tree' when she was this age",
+        "correctQuestion": "What is 13?",
+        "value": 600
+      },
+      {
+        "clue": "The carol 'Joy to the World' uses a melody attributed to this Baroque composer",
+        "correctQuestion": "Who is George Frideric Handel?",
+        "value": 600
+      },
+      {
+        "clue": "This 1934 song by Haven Gillespie became a holiday standard about Santa seeing you",
+        "correctQuestion": "What is Santa Claus is Coming to Town?",
+        "value": 600
+      },
+      {
+        "clue": "The original lyrics of 'Deck the Halls' are in this language",
+        "correctQuestion": "What is Welsh?",
+        "value": 600
+      },
+      {
+        "clue": "Frank Loesser wrote Baby It's Cold Outside for this 1949 film",
+        "correctQuestion": "What is Neptune's Daughter?",
+        "value": 600
+      },
+      {
+        "clue": "This carol was banned by French clergy for suggesting Christ was born in a stable",
+        "correctQuestion": "What is Away in a Manger?",
+        "value": 600
+      },
+      {
+        "clue": "The modern version of 'Jingle Bells' was copyrighted in this year",
+        "correctQuestion": "What is 1857?",
+        "value": 600
+      },
+      {
+        "clue": "This company used 'I'd Like to Teach the World to Sing' in a famous Christmas commercial",
+        "correctQuestion": "What is Coca-Cola?",
+        "value": 800
+      },
+      {
+        "clue": "Silent Night was first performed on Christmas Eve in this Austrian village",
+        "correctQuestion": "What is Oberndorf?",
+        "value": 800
+      },
+      {
+        "clue": "The Twelve Days of Christmas refers to this liturgical season in Christianity",
+        "correctQuestion": "What is Christmastide?",
+        "value": 800
+      },
+      {
+        "clue": "This 1963 Ronettes song produced by Phil Spector features his Wall of Sound technique",
+        "correctQuestion": "What is Sleigh Ride?",
+        "value": 800
+      },
+      {
+        "clue": "James Pierpont originally wrote Jingle Bells for this holiday",
+        "correctQuestion": "What is Thanksgiving?",
+        "value": 1000
+      },
+      {
+        "clue": "The carol 'O Holy Night' was composed by this French composer in 1847",
+        "correctQuestion": "Who is Adolphe Adam?",
+        "value": 1000
+      },
+      {
+        "clue": "This Austrian priest wrote the lyrics to Silent Night after a church organ broke",
+        "correctQuestion": "Who is Joseph Mohr?",
+        "value": 1000
+      },
+      {
+        "clue": "The earliest known Christmas hymn is 'Jesus Refulsit Omnium' from this century",
+        "correctQuestion": "What is the 4th century?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Who defrosts every November for millions",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 200
+      },
+      {
+        "clue": "Where psychopaths listen to Christmas in July",
+        "correctQuestion": "What is Spotify?",
+        "value": 200
+      },
+      {
+        "clue": "Retail workers' auditory hell on loop",
+        "correctQuestion": "What is All I Want for Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "Paul McCartney's worst Christmas song",
+        "correctQuestion": "What is Wonderful Christmastime?",
+        "value": 200
+      },
+      {
+        "clue": "Jingle Bell Rock's 847th play causes",
+        "correctQuestion": "What is a psychotic break?",
+        "value": 200
+      },
+      {
+        "clue": "Baby It's Cold Outside's real message",
+        "correctQuestion": "What is date rape?",
+        "value": 200
+      },
+      {
+        "clue": "Amazon warehouse workers' preferred Christmas playlist",
+        "correctQuestion": "What is silence?",
+        "value": 200
+      },
+      {
+        "clue": "Die Hard Christmas debate battleground",
+        "correctQuestion": "What is Twitter?",
+        "value": 200
+      },
+      {
+        "clue": "Starbucks cups trigger this uncle rant",
+        "correctQuestion": "What is War on Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "She banks millions from one 1994 song",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 400
+      },
+      {
+        "clue": "What Target workers want by December 26",
+        "correctQuestion": "What is arson?",
+        "value": 400
+      },
+      {
+        "clue": "Michael Bublé's annual December defrost job",
+        "correctQuestion": "What is singing Christmas songs?",
+        "value": 400
+      },
+      {
+        "clue": "Who watches Christmas movies in July",
+        "correctQuestion": "What are psychopaths?",
+        "value": 400
+      },
+      {
+        "clue": "Halloween's next-day Christmas music enabler",
+        "correctQuestion": "What is Alexa?",
+        "value": 400
+      },
+      {
+        "clue": "What Wham! gave then got dumped",
+        "correctQuestion": "What is your heart?",
+        "value": 400
+      },
+      {
+        "clue": "Your ex's Christmas text after ghosting",
+        "correctQuestion": "What is a nightmare?",
+        "value": 400
+      },
+      {
+        "clue": "Reindeer filter lip-sync app",
+        "correctQuestion": "What is TikTok?",
+        "value": 400
+      },
+      {
+        "clue": "Grandma's reindeer accident real cause",
+        "correctQuestion": "What is alcoholism?",
+        "value": 400
+      },
+      {
+        "clue": "The date rape Christmas carol",
+        "correctQuestion": "What is Baby It's Cold Outside?",
+        "value": 600
+      },
+      {
+        "clue": "Mariah's royalties could solve this",
+        "correctQuestion": "What is poverty?",
+        "value": 600
+      },
+      {
+        "clue": "Christmas Eve McDonald's delivery app",
+        "correctQuestion": "What is DoorDash?",
+        "value": 600
+      },
+      {
+        "clue": "Mariah thawing from ice coffin meme",
+        "correctQuestion": "What is the defrosting meme?",
+        "value": 600
+      },
+      {
+        "clue": "What's really in that drink",
+        "correctQuestion": "What are roofies?",
+        "value": 600
+      },
+      {
+        "clue": "Zoom carol sing nobody can mute",
+        "correctQuestion": "What is a virtual Christmas party?",
+        "value": 600
+      },
+      {
+        "clue": "Bieber's Mistletoe played 4,000 times",
+        "correctQuestion": "Who is Justin Bieber?",
+        "value": 600
+      },
+      {
+        "clue": "Band Aid's offensive Africa assumption",
+        "correctQuestion": "What is they don't know Christmas?",
+        "value": 600
+      },
+      {
+        "clue": "Boomer red cup rage Facebook group",
+        "correctQuestion": "What is War on Christmas?",
+        "value": 600
+      },
+      {
+        "clue": "Wonderful Christmastime's 50th play equals",
+        "correctQuestion": "What is auditory torture?",
+        "value": 800
+      },
+      {
+        "clue": "Rudolph's red nose medical diagnosis",
+        "correctQuestion": "What is alcoholism?",
+        "value": 800
+      },
+      {
+        "clue": "Elon's fire-prone Christmas sleigh replacement",
+        "correctQuestion": "What is Tesla?",
+        "value": 800
+      },
+      {
+        "clue": "White Christmas's unrealistic 2025 dream",
+        "correctQuestion": "What is affordable housing?",
+        "value": 800
+      },
+      {
+        "clue": "Spotify Christmas song skip time",
+        "correctQuestion": "What is immediately?",
+        "value": 800
+      },
+      {
+        "clue": "All I Want after Tinder fails",
+        "correctQuestion": "What is desperation?",
+        "value": 1000
+      },
+      {
+        "clue": "Mall Santa's Jingle Bells survival drug",
+        "correctQuestion": "What is Xanax?",
+        "value": 1000
+      },
+      {
+        "clue": "Pre-Thanksgiving Christmas music diagnosis",
+        "correctQuestion": "What is sociopath?",
+        "value": 1000
+      },
+      {
+        "clue": "Mariah's annual YouTube millions while you're broke",
+        "correctQuestion": "What are royalties?",
+        "value": 1000
+      }
+    ]
+  }
+}

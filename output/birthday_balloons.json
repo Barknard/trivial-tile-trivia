@@ -1,0 +1,316 @@
+{
+  "category": "Birthday Balloons, Streamers & Party Supplies",
+  "theme": "party_decorations",
+  "category_id": "birthday_balloons",
+  "description": "Balloons, streamers, confetti, party supplies, decorations, balloon animals, latex vs. helium, party planning materials, balloon physics, and festive decorative elements for birthday celebrations",
+  "age_suitability": "All ages",
+  "research_alignment": "Party planning, decorative arts, physics of buoyancy, materials science, event decoration, color theory, spatial design, craft skills, historical traditions, celebration culture",
+  "generated_date": "2025-12-27",
+  "total_questions": 60,
+  "audiences": {
+    "regular_trivia": [
+      {
+        "clue": "This gas fills most party balloons to make them float",
+        "correctQuestion": "What is helium?",
+        "value": 200
+      },
+      {
+        "clue": "This element is extracted from natural gas and used to inflate balloons",
+        "correctQuestion": "What is helium?",
+        "value": 200
+      },
+      {
+        "clue": "Balloons made from this material are the most common type for parties",
+        "correctQuestion": "What is latex?",
+        "value": 200
+      },
+      {
+        "clue": "A person who creates balloon animals at parties is called this",
+        "correctQuestion": "What is a balloon artist or balloon twister?",
+        "value": 200
+      },
+      {
+        "clue": "This paper product is often thrown in the air to celebrate",
+        "correctQuestion": "What is confetti?",
+        "value": 200
+      },
+      {
+        "clue": "Long, spiral streamers that unroll when thrown are called this",
+        "correctQuestion": "What is a party popper or streamer gun?",
+        "value": 200
+      },
+      {
+        "clue": "This color of balloon is traditional for birthday decorations in many Western cultures",
+        "correctQuestion": "What is red, blue, yellow, or any bright color?",
+        "value": 200
+      },
+      {
+        "clue": "A metal container shaped like a balloon and filled with helium is called this",
+        "correctQuestion": "What is a mylar balloon or foil balloon?",
+        "value": 200
+      },
+      {
+        "clue": "This string attaches balloons to prevent them from floating away",
+        "correctQuestion": "What is balloon string or ribbon?",
+        "value": 200
+      },
+      {
+        "clue": "Balloons are invented and used commercially starting in this century",
+        "correctQuestion": "What is the 19th century?",
+        "value": 200
+      },
+      {
+        "clue": "This process causes balloons to eventually deflate over time",
+        "correctQuestion": "What is oxidation or air leakage?",
+        "value": 400
+      },
+      {
+        "clue": "The scientific principle that makes helium balloons float is called this",
+        "correctQuestion": "What is buoyancy?",
+        "value": 400
+      },
+      {
+        "clue": "A decorative strip of paper or plastic hung across rooms is called this",
+        "correctQuestion": "What is a streamer?",
+        "value": 400
+      },
+      {
+        "clue": "This glue or adhesive is used to attach balloons and decorations to walls",
+        "correctQuestion": "What is painter's tape, removable adhesive, or temporary wall putty?",
+        "value": 400
+      },
+      {
+        "clue": "The thickness of balloon material is measured in this unit",
+        "correctQuestion": "What is millimeters or microns?",
+        "value": 400
+      },
+      {
+        "clue": "Biodegradable balloons are made from this natural material",
+        "correctQuestion": "What is latex or natural rubber?",
+        "value": 400
+      },
+      {
+        "clue": "This device pumps air into balloons without using your mouth",
+        "correctQuestion": "What is a balloon pump or air pump?",
+        "value": 400
+      },
+      {
+        "clue": "Most decorative streamers are made from this type of material",
+        "correctQuestion": "What is plastic or crepe paper?",
+        "value": 400
+      },
+      {
+        "clue": "The average helium balloon floats for this length of time before deflating",
+        "correctQuestion": "What is 8-24 hours?",
+        "value": 600
+      },
+      {
+        "clue": "This principle explains why balloons expand when heated",
+        "correctQuestion": "What is thermal expansion or Charles's Law?",
+        "value": 600
+      },
+      {
+        "clue": "Mylar balloons were invented by this company originally for food packaging",
+        "correctQuestion": "What is DuPont?",
+        "value": 600
+      },
+      {
+        "clue": "This environmental concern has led to regulations on released balloons in some countries",
+        "correctQuestion": "What is marine pollution or wildlife harm?",
+        "value": 600
+      },
+      {
+        "clue": "The average birthday party uses approximately this many balloons",
+        "correctQuestion": "What is 20-50 balloons?",
+        "value": 600
+      },
+      {
+        "clue": "Helium balloons can reach altitudes of this many feet before bursting",
+        "correctQuestion": "What is 20,000-30,000 feet?",
+        "value": 600
+      },
+      {
+        "clue": "This company is the largest manufacturer of balloons worldwide",
+        "correctQuestion": "What is Amscan or Qualatex?",
+        "value": 600
+      },
+      {
+        "clue": "Balloon animals require this technique to create shapes and joints",
+        "correctQuestion": "What is twisting or folding?",
+        "value": 600
+      },
+      {
+        "clue": "This type of balloon is specifically designed for water balloon fights",
+        "correctQuestion": "What is a water balloon or biodegradable balloon?",
+        "value": 800
+      },
+      {
+        "clue": "The rubber in natural latex balloons comes from this tree",
+        "correctQuestion": "What is a rubber tree or Hevea brasiliensis?",
+        "value": 800
+      },
+      {
+        "clue": "This allergic reaction affects people sensitive to natural latex balloons",
+        "correctQuestion": "What is latex allergy or anaphylaxis?",
+        "value": 800
+      },
+      {
+        "clue": "The decorative technique of arranging balloons into arches and garlands is called this",
+        "correctQuestion": "What is balloon installation or balloon sculpting?",
+        "value": 800
+      }
+    ],
+    "cah_style": [
+      {
+        "clue": "What Pinterest moms spend their entire weekend creating for their kid's party",
+        "correctQuestion": "What is a balloon garland that costs more than your rent?",
+        "value": 400
+      },
+      {
+        "clue": "The only thing that makes a sad birthday party sadder",
+        "correctQuestion": "What is a popped balloon during the first five minutes?",
+        "value": 400
+      },
+      {
+        "clue": "What a balloon artist is really doing when they're 'too busy to make you a poodle'",
+        "correctQuestion": "What is calculating whether you deserve their talent?",
+        "value": 400
+      },
+      {
+        "clue": "The sound that ruins every peaceful moment at a children's birthday party",
+        "correctQuestion": "What is a balloon popping?",
+        "value": 400
+      },
+      {
+        "clue": "Why all the helium balloons at your party look deflated by evening",
+        "correctQuestion": "What is the laws of physics not giving a damn about your plans?",
+        "value": 400
+      },
+      {
+        "clue": "The birthday decoration your cat considers a personal challenge",
+        "correctQuestion": "What is balloons?",
+        "value": 400
+      },
+      {
+        "clue": "What confetti becomes 48 hours after the party ends",
+        "correctQuestion": "What is a permanent fixture in your carpet and vacuum?",
+        "value": 600
+      },
+      {
+        "clue": "The one thing every Pinterest 'budget party' recommendation forgets to mention",
+        "correctQuestion": "What is that balloons cost more than the actual cake?",
+        "value": 600
+      },
+      {
+        "clue": "What those 'easy DIY balloon arches' really require",
+        "correctQuestion": "What is $200 worth of balloons and three hours of your life?",
+        "value": 600
+      },
+      {
+        "clue": "The reason party stores are always out of balloons on party day",
+        "correctQuestion": "What is everyone planning their party the night before?",
+        "value": 600
+      },
+      {
+        "clue": "What makes a 'simple balloon decoration' turn into a full-day project",
+        "correctQuestion": "What is realizing tape doesn't work on your textured walls?",
+        "value": 600
+      },
+      {
+        "clue": "The Instagram aesthetic that actually costs $500 to recreate at home",
+        "correctQuestion": "What is a professional balloon installation?",
+        "value": 600
+      },
+      {
+        "clue": "Why your dog hides when balloon decorations appear",
+        "correctQuestion": "What is PTSD from the inevitable balloon popping incident?",
+        "value": 600
+      },
+      {
+        "clue": "What confetti manufacturers designed to haunt party hosts for months",
+        "correctQuestion": "What is glitter confetti that never leaves your home?",
+        "value": 600
+      },
+      {
+        "clue": "The party supply that's technically free but you'll spend $80 on anyway",
+        "correctQuestion": "What is balloons?",
+        "value": 600
+      },
+      {
+        "clue": "What everyone pretends to enjoy but secretly finds anxiety-inducing",
+        "correctQuestion": "What is being trapped in a room full of pointy balloons?",
+        "value": 800
+      },
+      {
+        "clue": "The party hack that TikTok keeps suggesting that actually requires engineering skills",
+        "correctQuestion": "What is attaching balloons to a ceiling without them sticking?",
+        "value": 800
+      },
+      {
+        "clue": "Why helium balloons at birthday parties make you sound ridiculous when you suck on them",
+        "correctQuestion": "What is the science of gas density changing your vocal resonance?",
+        "value": 800
+      },
+      {
+        "clue": "The only human activity more chaotic than balloon popping for entertainment",
+        "correctQuestion": "What is... actually nothing, balloons are chaotic enough?",
+        "value": 800
+      },
+      {
+        "clue": "What your party photos prove: either Instagram-worthy decor or your floor after cleanup",
+        "correctQuestion": "What is there's no in-between with party supplies?",
+        "value": 800
+      },
+      {
+        "clue": "The decorating style preferred by people who hate having free time",
+        "correctQuestion": "What is covering every available surface with balloons?",
+        "value": 800
+      },
+      {
+        "clue": "Why your neighbor's balloon situation always looks sketchy in December",
+        "correctQuestion": "What is New Year's Eve parties that started in November?",
+        "value": 800
+      },
+      {
+        "clue": "The party supply that creates the most tension at a children's gathering",
+        "correctQuestion": "What is a limited number of balloons with unlimited children?",
+        "value": 800
+      },
+      {
+        "clue": "What 'eco-friendly biodegradable balloons' really means for marine life",
+        "correctQuestion": "What is they still kill sea turtles, just slower?",
+        "value": 1000
+      },
+      {
+        "clue": "The moment you realize your balloon decoration idea was optimistic at best",
+        "correctQuestion": "What is when you see how many balloons you actually need?",
+        "value": 1000
+      },
+      {
+        "clue": "Why balloon manufacturers market to party planners but really serve sadists",
+        "correctQuestion": "What is the chaotic joy they know balloons will bring?",
+        "value": 1000
+      },
+      {
+        "clue": "The compromise parents make between the Pinterest dream and reality",
+        "correctQuestion": "What is buying a few nice balloons and accepting it'll look mediocre?",
+        "value": 1000
+      },
+      {
+        "clue": "What happens when you tell party guests there are 'plenty of balloons for everyone'",
+        "correctQuestion": "What is you become a balloon custodian instead of a host?",
+        "value": 1000
+      },
+      {
+        "clue": "The party supply that proves our love for our kids exceeds our sanity",
+        "correctQuestion": "What is spending $300 on decorations for a 2-year-old's party?",
+        "value": 1000
+      },
+      {
+        "clue": "Why balloons and streamers are basically decorative chaos waiting to happen",
+        "correctQuestion": "What is they require perfect conditions that never exist?",
+        "value": 1000
+      }
+    ]
+  }
+}

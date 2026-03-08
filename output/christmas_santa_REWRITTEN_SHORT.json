@@ -1,0 +1,195 @@
+{
+  "category": "Santa & His Friends - NO HUMANITY (Rewritten: Short & Funny)",
+  "no_humanity": [
+    {
+      "clue": "Santa's real workshop",
+      "correctQuestion": "What is a Chinese sweatshop?",
+      "value": 200
+    },
+    {
+      "clue": "Where kids actually send Christmas wish lists in 2025",
+      "correctQuestion": "What is Amazon?",
+      "value": 200
+    },
+    {
+      "clue": "What Rudolph's red nose really is",
+      "correctQuestion": "What is alcoholism?",
+      "value": 200
+    },
+    {
+      "clue": "The app that replaced letters to Santa",
+      "correctQuestion": "What is TikTok?",
+      "value": 200
+    },
+    {
+      "clue": "How Santa actually tracks the naughty list",
+      "correctQuestion": "What is Facebook data mining?",
+      "value": 200
+    },
+    {
+      "clue": "What ruined Christmas 2020",
+      "correctQuestion": "What is COVID-19?",
+      "value": 200
+    },
+    {
+      "clue": "The 2015 War on Christmas battleground",
+      "correctQuestion": "What are Starbucks red cups?",
+      "value": 200
+    },
+    {
+      "clue": "How Santa fits down chimneys now",
+      "correctQuestion": "What is Ozempic?",
+      "value": 200
+    },
+    {
+      "clue": "Mrs. Claus's side hustle after finding Santa's browser history",
+      "correctQuestion": "What is OnlyFans?",
+      "value": 400
+    },
+    {
+      "clue": "Santa's 2am gig on December 26th",
+      "correctQuestion": "What is driving for Uber?",
+      "value": 400
+    },
+    {
+      "clue": "The toy store Amazon murdered",
+      "correctQuestion": "What is Toys R Us?",
+      "value": 400
+    },
+    {
+      "clue": "What elves actually want for Christmas",
+      "correctQuestion": "What is an iPhone?",
+      "value": 400
+    },
+    {
+      "clue": "The Elf on the Shelf's real employer",
+      "correctQuestion": "What is the NSA?",
+      "value": 400
+    },
+    {
+      "clue": "Where you see your ex's new Christmas spending",
+      "correctQuestion": "What is Venmo?",
+      "value": 400
+    },
+    {
+      "clue": "The worst possible replacement for Santa's sleigh",
+      "correctQuestion": "What is a Tesla?",
+      "value": 400
+    },
+    {
+      "clue": "North Pole surveillance device",
+      "correctQuestion": "What is Alexa?",
+      "value": 400
+    },
+    {
+      "clue": "What Gen Z actually wants for Christmas",
+      "correctQuestion": "What is affordable rent?",
+      "value": 600
+    },
+    {
+      "clue": "Why Santa only comes once a year",
+      "correctQuestion": "What is erectile dysfunction?",
+      "value": 600
+    },
+    {
+      "clue": "Who defrosts every November for $3 million",
+      "correctQuestion": "Who is Mariah Carey?",
+      "value": 600
+    },
+    {
+      "clue": "What replaced Christmas cards",
+      "correctQuestion": "What is a group text?",
+      "value": 600
+    },
+    {
+      "clue": "The topic that ruins Christmas dinner",
+      "correctQuestion": "What is Trump?",
+      "value": 600
+    },
+    {
+      "clue": "What kids leave Santa in legal states",
+      "correctQuestion": "What are edibles?",
+      "value": 600
+    },
+    {
+      "clue": "Santa's Christmas Eve fuel source",
+      "correctQuestion": "What is DoorDash McDonald's?",
+      "value": 600
+    },
+    {
+      "clue": "What killed the mall Santa industry",
+      "correctQuestion": "What is the sex offender registry?",
+      "value": 600
+    },
+    {
+      "clue": "Where Mrs. Claus caught Santa swiping right",
+      "correctQuestion": "What is FarmersOnly.com?",
+      "value": 800
+    },
+    {
+      "clue": "The other topic that ruins Christmas dinner",
+      "correctQuestion": "What is the COVID vaccine?",
+      "value": 800
+    },
+    {
+      "clue": "What Santa's elves are unionizing for",
+      "correctQuestion": "What are workers' rights?",
+      "value": 800
+    },
+    {
+      "clue": "Santa's Uber rating",
+      "correctQuestion": "What is 1 star?",
+      "value": 800
+    },
+    {
+      "clue": "The real millennial Christmas miracle",
+      "correctQuestion": "What is affordable housing?",
+      "value": 800
+    },
+    {
+      "clue": "What killed the Christmas spirit",
+      "correctQuestion": "What is capitalism?",
+      "value": 800
+    },
+    {
+      "clue": "The Christmas song that's actually about date rape",
+      "correctQuestion": "What is Baby It's Cold Outside?",
+      "value": 1000
+    },
+    {
+      "clue": "Buddy the Elf's diagnosis",
+      "correctQuestion": "What is ADHD?",
+      "value": 1000
+    },
+    {
+      "clue": "The Christmas song playing in Hell",
+      "correctQuestion": "What is Wonderful Christmastime?",
+      "value": 1000
+    },
+    {
+      "clue": "What Die Hard is really about",
+      "correctQuestion": "What is toxic masculinity?",
+      "value": 1000
+    },
+    {
+      "clue": "How white people solve racism in Hallmark movies",
+      "correctQuestion": "What is a Christmas party?",
+      "value": 1000
+    },
+    {
+      "clue": "Where moms spend $347 buying wrapping paper",
+      "correctQuestion": "What is Target?",
+      "value": 1000
+    }
+  ],
+  "improvements": {
+    "before_avg_words": "18 words per clue",
+    "after_avg_words": "6 words per clue",
+    "key_changes": [
+      "Cut all unnecessary explanation",
+      "Let the dark juxtaposition be the joke",
+      "Punchy and concise like actual Jeopardy",
+      "Humor through brevity and surprise"
+    ]
+  }
+}

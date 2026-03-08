@@ -1,0 +1,1122 @@
+{
+  "title": "Beach Boardwalk Trivia",
+  "description": "Family-friendly questions about beach boardwalks, piers, and coastal walks",
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "category": "Beach Boardwalk Basics",
+          "question": "What is a boardwalk primarily made from?",
+          "answer": "Wood"
+        },
+        {
+          "id": 2,
+          "category": "Beach Boardwalk Basics",
+          "question": "Which ocean side city is famous for its wooden boardwalk with rides and attractions?",
+          "answer": "Atlantic City, New Jersey"
+        },
+        {
+          "id": 3,
+          "category": "Coastal Activities",
+          "question": "What do people typically do on a beach boardwalk?",
+          "answer": "Walk, shop, eat, and enjoy the views"
+        },
+        {
+          "id": 4,
+          "category": "Coastal Activities",
+          "question": "What is a pier used for?",
+          "answer": "Fishing, walking, and viewing the ocean"
+        },
+        {
+          "id": 5,
+          "category": "Boardwalk Attractions",
+          "question": "What type of game might you find at an arcade on a boardwalk?",
+          "answer": "Video games or claw machines"
+        },
+        {
+          "id": 6,
+          "category": "Boardwalk Attractions",
+          "question": "What sweet treat is popular at a beach boardwalk?",
+          "answer": "Taffy or saltwater taffy"
+        },
+        {
+          "id": 7,
+          "category": "Beach Boardwalk Basics",
+          "question": "How do boardwalks help protect the beach?",
+          "answer": "They keep people off the sand and dunes"
+        },
+        {
+          "id": 8,
+          "category": "Coastal Activities",
+          "question": "What is another name for a wooden walkway by the beach?",
+          "answer": "Promenade or boardwalk"
+        },
+        {
+          "id": 9,
+          "category": "Boardwalk Attractions",
+          "question": "What musical ride is commonly found at a boardwalk?",
+          "answer": "Carousel or merry-go-round"
+        },
+        {
+          "id": 10,
+          "category": "Beach Boardwalk Basics",
+          "question": "Which famous New Jersey boardwalk has a Monopoly board on it?",
+          "answer": "Atlantic City Boardwalk"
+        },
+        {
+          "id": 11,
+          "category": "Coastal Activities",
+          "question": "What do people cast into the water from a pier?",
+          "answer": "Fishing lines or hooks"
+        },
+        {
+          "id": 12,
+          "category": "Boardwalk Attractions",
+          "question": "What type of food might you buy from a stand on a boardwalk?",
+          "answer": "Hot dogs, corn dogs, or funnel cakes"
+        },
+        {
+          "id": 13,
+          "category": "Beach Boardwalk Basics",
+          "question": "In what season do most people visit beach boardwalks?",
+          "answer": "Summer"
+        },
+        {
+          "id": 14,
+          "category": "Coastal Activities",
+          "question": "What activity involves sitting on a pier and watching the sunset?",
+          "answer": "Sightseeing or scenic viewing"
+        },
+        {
+          "id": 15,
+          "category": "Boardwalk Attractions",
+          "question": "What game might you win a stuffed animal playing at a boardwalk carnival?",
+          "answer": "Ring toss or balloon darts"
+        },
+        {
+          "id": 16,
+          "category": "Beach Boardwalk Basics",
+          "question": "What weather condition might you enjoy while on a boardwalk?",
+          "answer": "Sunny weather or a cool breeze"
+        },
+        {
+          "id": 17,
+          "category": "Coastal Activities",
+          "question": "What is a common reason to visit a pier?",
+          "answer": "Fishing or sightseeing"
+        },
+        {
+          "id": 18,
+          "category": "Boardwalk Attractions",
+          "question": "What ice-cold dessert is perfect for a hot day on the boardwalk?",
+          "answer": "Ice cream or popsicles"
+        },
+        {
+          "id": 19,
+          "category": "Beach Boardwalk Basics",
+          "question": "Which side of the United States has the most famous boardwalks?",
+          "answer": "East Coast"
+        },
+        {
+          "id": 20,
+          "category": "Coastal Activities",
+          "question": "What bird might you see while walking on a pier?",
+          "answer": "Seagulls or pelicans"
+        },
+        {
+          "id": 21,
+          "category": "Boardwalk Attractions",
+          "question": "What snack is common at a beach boardwalk?",
+          "answer": "Popcorn, peanuts, or kettle corn"
+        },
+        {
+          "id": 22,
+          "category": "Beach Boardwalk Basics",
+          "question": "What type of structure extends into the ocean from a boardwalk?",
+          "answer": "A pier or jetty"
+        },
+        {
+          "id": 23,
+          "category": "Coastal Activities",
+          "question": "What sport might be played on a beach next to a boardwalk?",
+          "answer": "Volleyball or paddleball"
+        },
+        {
+          "id": 24,
+          "category": "Boardwalk Attractions",
+          "question": "What kind of music might you hear from an arcade on a boardwalk?",
+          "answer": "Beeping sounds from video games"
+        },
+        {
+          "id": 25,
+          "category": "Beach Boardwalk Basics",
+          "question": "What do people typically wear on a boardwalk?",
+          "answer": "Light clothing, shorts, and flip-flops"
+        },
+        {
+          "id": 26,
+          "category": "Coastal Activities",
+          "question": "What skill do you need to catch fish from a pier?",
+          "answer": "Fishing or casting"
+        },
+        {
+          "id": 27,
+          "category": "Boardwalk Attractions",
+          "question": "What type of game requires you to throw balls at pins?",
+          "answer": "Skee-ball or bowling"
+        },
+        {
+          "id": 28,
+          "category": "Beach Boardwalk Basics",
+          "question": "What benefit does a boardwalk provide for people with mobility issues?",
+          "answer": "Easy walking surface without sand"
+        },
+        {
+          "id": 29,
+          "category": "Coastal Activities",
+          "question": "What is the main view from a pier?",
+          "answer": "The ocean"
+        },
+        {
+          "id": 30,
+          "category": "Boardwalk Attractions",
+          "question": "What refreshing beverage might you buy on a hot boardwalk day?",
+          "answer": "Lemonade or iced tea"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "Medium-Easy",
+      "questions": [
+        {
+          "id": 31,
+          "category": "Boardwalk History",
+          "question": "Which Atlantic City boardwalk feature was the inspiration for Monopoly properties?",
+          "answer": "The actual street names and locations along the boardwalk"
+        },
+        {
+          "id": 32,
+          "category": "Famous Boardwalks",
+          "question": "What California coastal city is home to the Venice Beach Boardwalk?",
+          "answer": "Venice, California (or Los Angeles)"
+        },
+        {
+          "id": 33,
+          "category": "Pier Activities",
+          "question": "What time of day do piers typically have the most activity?",
+          "answer": "Morning and evening"
+        },
+        {
+          "id": 34,
+          "category": "Boardwalk Safety",
+          "question": "What should you wear to protect your feet while walking on a boardwalk?",
+          "answer": "Shoes or flip-flops"
+        },
+        {
+          "id": 35,
+          "category": "Coastal Environment",
+          "question": "What salt-containing substance is often found near boardwalks?",
+          "answer": "Salt air or sea salt"
+        },
+        {
+          "id": 36,
+          "category": "Boardwalk Commerce",
+          "question": "What type of shops would you find along a typical boardwalk?",
+          "answer": "Gift shops, restaurants, and souvenir stores"
+        },
+        {
+          "id": 37,
+          "category": "Pier Construction",
+          "question": "What structural material is used to support a traditional wooden pier?",
+          "answer": "Pilings or supports"
+        },
+        {
+          "id": 38,
+          "category": "Boardwalk Entertainment",
+          "question": "What do street performers typically do on a boardwalk?",
+          "answer": "Play music, dance, or perform magic"
+        },
+        {
+          "id": 39,
+          "category": "Coastal Wildlife",
+          "question": "What type of fish might people catch from a pier?",
+          "answer": "Striped bass, mackerel, or flounder"
+        },
+        {
+          "id": 40,
+          "category": "Boardwalk Dining",
+          "question": "What seafood item is commonly sold on a boardwalk?",
+          "answer": "Fish and chips or crab cakes"
+        },
+        {
+          "id": 41,
+          "category": "Boardwalk History",
+          "question": "When was the first boardwalk in the U.S. built?",
+          "answer": "1873 in Atlantic City"
+        },
+        {
+          "id": 42,
+          "category": "Famous Boardwalks",
+          "question": "Which New Jersey boardwalk is the longest in the world?",
+          "answer": "Atlantic City Boardwalk"
+        },
+        {
+          "id": 43,
+          "category": "Pier Activities",
+          "question": "What license might you need to fish from a pier?",
+          "answer": "A fishing license"
+        },
+        {
+          "id": 44,
+          "category": "Boardwalk Safety",
+          "question": "What should you apply before spending time on a sunny boardwalk?",
+          "answer": "Sunscreen"
+        },
+        {
+          "id": 45,
+          "category": "Coastal Environment",
+          "question": "What phenomenon occurs twice daily near a pier?",
+          "answer": "Tides"
+        },
+        {
+          "id": 46,
+          "category": "Boardwalk Commerce",
+          "question": "What type of permanent structure might sell merchandise on a boardwalk?",
+          "answer": "A kiosk or booth"
+        },
+        {
+          "id": 47,
+          "category": "Pier Construction",
+          "question": "What causes the wood of a boardwalk to eventually deteriorate?",
+          "answer": "Saltwater and weather exposure"
+        },
+        {
+          "id": 48,
+          "category": "Boardwalk Entertainment",
+          "question": "What type of game involves tossing rings at bottles?",
+          "answer": "Ring toss"
+        },
+        {
+          "id": 49,
+          "category": "Coastal Wildlife",
+          "question": "What sea creature might you spot near a pier at low tide?",
+          "answer": "Crabs, starfish, or sea anemones"
+        },
+        {
+          "id": 50,
+          "category": "Boardwalk Dining",
+          "question": "What is a funnel cake typically covered with?",
+          "answer": "Powdered sugar, chocolate, or caramel"
+        },
+        {
+          "id": 51,
+          "category": "Boardwalk History",
+          "question": "Why was the first boardwalk built in Atlantic City?",
+          "answer": "To keep sand out of hotels and train stations"
+        },
+        {
+          "id": 52,
+          "category": "Famous Boardwalks",
+          "question": "What state has the Santa Monica Pier?",
+          "answer": "California"
+        },
+        {
+          "id": 53,
+          "category": "Pier Activities",
+          "question": "What do people use to catch crabs from a pier?",
+          "answer": "Nets or crab pots"
+        },
+        {
+          "id": 54,
+          "category": "Boardwalk Safety",
+          "question": "What should you watch for while walking at night on a boardwalk?",
+          "answer": "Uneven surfaces or holes"
+        },
+        {
+          "id": 55,
+          "category": "Coastal Environment",
+          "question": "What wind condition is common on a boardwalk near the ocean?",
+          "answer": "Sea breezes"
+        },
+        {
+          "id": 56,
+          "category": "Boardwalk Commerce",
+          "question": "What type of currency or payment do most boardwalk vendors accept?",
+          "answer": "Cash and credit cards"
+        },
+        {
+          "id": 57,
+          "category": "Pier Construction",
+          "question": "How deep do pier pilings typically extend into the ocean floor?",
+          "answer": "Several feet to dozens of feet"
+        },
+        {
+          "id": 58,
+          "category": "Boardwalk Entertainment",
+          "question": "What carnival game involves throwing darts at balloons?",
+          "answer": "Balloon darts"
+        },
+        {
+          "id": 59,
+          "category": "Coastal Wildlife",
+          "question": "What marine bird dives for fish near piers?",
+          "answer": "Cormorants or terns"
+        },
+        {
+          "id": 60,
+          "category": "Boardwalk Dining",
+          "question": "What popular beach food is served on a stick?",
+          "answer": "Corn dogs or ice cream"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "category": "Boardwalk Architecture",
+          "question": "What architectural style is typical of Victorian-era boardwalk structures?",
+          "answer": "Victorian or ornate design"
+        },
+        {
+          "id": 62,
+          "category": "Regional Boardwalks",
+          "question": "Which Great Lakes city features the Navy Pier?",
+          "answer": "Chicago, Illinois"
+        },
+        {
+          "id": 63,
+          "category": "Amusement Rides",
+          "question": "What is the oldest continuously operating boardwalk amusement park in the world?",
+          "answer": "Coney Island or Playland (depending on source)"
+        },
+        {
+          "id": 64,
+          "category": "Marine Ecology",
+          "question": "What is the ecological zone immediately beneath a pier called?",
+          "answer": "The intertidal zone or subtidal zone"
+        },
+        {
+          "id": 65,
+          "category": "Boardwalk Maintenance",
+          "question": "What treatment is used to preserve boardwalk wood from rot?",
+          "answer": "Pressure treating or applying protective sealants"
+        },
+        {
+          "id": 66,
+          "category": "Entertainment Venues",
+          "question": "What type of venue often features live music on a boardwalk?",
+          "answer": "Concert stages, amphitheaters, or bandshells"
+        },
+        {
+          "id": 67,
+          "category": "Coastal Restoration",
+          "question": "What environmental practice helps protect boardwalks from storms?",
+          "answer": "Beach nourishment or dune restoration"
+        },
+        {
+          "id": 68,
+          "category": "Tourism & Economy",
+          "question": "What economic benefit do boardwalks provide to coastal communities?",
+          "answer": "Tourism revenue and job creation"
+        },
+        {
+          "id": 69,
+          "category": "Maritime History",
+          "question": "What was the original purpose of piers before recreation?",
+          "answer": "Loading and unloading cargo from ships"
+        },
+        {
+          "id": 70,
+          "category": "Fishing Regulations",
+          "question": "What season might have restrictions on fishing from coastal piers?",
+          "answer": "Spawning season or migration season"
+        },
+        {
+          "id": 71,
+          "category": "Boardwalk Architecture",
+          "question": "What structural challenge do boardwalks face in hurricane zones?",
+          "answer": "High winds and storm surge damage"
+        },
+        {
+          "id": 72,
+          "category": "Regional Boardwalks",
+          "question": "Which North Carolina boardwalk is known for its mile-long pier?",
+          "answer": "Nags Head Pier or Outer Banks"
+        },
+        {
+          "id": 73,
+          "category": "Amusement Rides",
+          "question": "What famous roller coaster ride is located on a California boardwalk?",
+          "answer": "The Giant Dipper at Santa Cruz Beach Boardwalk"
+        },
+        {
+          "id": 74,
+          "category": "Marine Ecology",
+          "question": "What type of organism grows on pier pilings?",
+          "answer": "Barnacles, mussels, and algae"
+        },
+        {
+          "id": 75,
+          "category": "Boardwalk Maintenance",
+          "question": "How often do major boardwalks typically require maintenance and repairs?",
+          "answer": "Annually or seasonally"
+        },
+        {
+          "id": 76,
+          "category": "Entertainment Venues",
+          "question": "What type of arcade game was popular on boardwalks in the 1980s?",
+          "answer": "Pac-Man or Space Invaders"
+        },
+        {
+          "id": 77,
+          "category": "Coastal Restoration",
+          "question": "What natural feature protects boardwalks from wave action?",
+          "answer": "Sand dunes or barrier islands"
+        },
+        {
+          "id": 78,
+          "category": "Tourism & Economy",
+          "question": "What major event draws millions to Atlantic City's boardwalk annually?",
+          "answer": "Casinos and the Miss Universe pageant (historically)"
+        },
+        {
+          "id": 79,
+          "category": "Maritime History",
+          "question": "What type of vessel would historically dock at a pier?",
+          "answer": "Ships, cargo vessels, or fishing boats"
+        },
+        {
+          "id": 80,
+          "category": "Fishing Regulations",
+          "question": "What might you need besides a fishing license to fish from a pier?",
+          "answer": "Proof of residency or saltwater permit"
+        },
+        {
+          "id": 81,
+          "category": "Boardwalk Architecture",
+          "question": "What modern material is sometimes used as an alternative to wood for boardwalks?",
+          "answer": "Composite materials or recycled plastic"
+        },
+        {
+          "id": 82,
+          "category": "Regional Boardwalks",
+          "question": "Which Florida boardwalk is the busiest in terms of visitor traffic?",
+          "answer": "Miami Beach or South Beach Boardwalk"
+        },
+        {
+          "id": 83,
+          "category": "Amusement Rides",
+          "question": "What iconic ride rotates while moving up and down on some boardwalks?",
+          "answer": "The Ferris wheel or observation wheel"
+        },
+        {
+          "id": 84,
+          "category": "Marine Ecology",
+          "question": "What fish species is commonly caught from Atlantic coastal piers?",
+          "answer": "Striped bass, bluefish, or flounder"
+        },
+        {
+          "id": 85,
+          "category": "Boardwalk Maintenance",
+          "question": "What weather event most frequently requires boardwalk repairs?",
+          "answer": "Storms, hurricanes, or nor'easters"
+        },
+        {
+          "id": 86,
+          "category": "Entertainment Venues",
+          "question": "What traditional boardwalk game uses wooden balls and pins?",
+          "answer": "Skee-ball"
+        },
+        {
+          "id": 87,
+          "category": "Coastal Restoration",
+          "question": "What artificial structure can be built to reduce wave erosion on boardwalks?",
+          "answer": "Seawalls or breakwaters"
+        },
+        {
+          "id": 88,
+          "category": "Tourism & Economy",
+          "question": "In what year did Coney Island first open as a public beach resort?",
+          "answer": "1886"
+        },
+        {
+          "id": 89,
+          "category": "Maritime History",
+          "question": "What is the term for the walkway extending into the water from shore?",
+          "answer": "A pier, jetty, or wharf"
+        },
+        {
+          "id": 90,
+          "category": "Fishing Regulations",
+          "question": "What marine species migration occurs in spring at many coastal piers?",
+          "answer": "Herring, mullet, or striped bass runs"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "difficulty": "Medium-Hard",
+      "questions": [
+        {
+          "id": 91,
+          "category": "Engineering Challenges",
+          "question": "What engineering problem caused the 1944 Atlantic City boardwalk storm damage requiring major reconstruction?",
+          "answer": "Inadequate structural bracing against nor'easters"
+        },
+        {
+          "id": 92,
+          "category": "Coastal Geography",
+          "question": "Which ocean current significantly impacts water temperature near Atlantic Coast piers?",
+          "answer": "The Gulf Stream"
+        },
+        {
+          "id": 93,
+          "category": "Marine Biology",
+          "question": "What process do horseshoe crabs undergo near boardwalk beaches?",
+          "answer": "Spawning or breeding"
+        },
+        {
+          "id": 94,
+          "category": "Historical Events",
+          "question": "What was the original material used for the first Atlantic City boardwalk?",
+          "answer": "Yellow pine"
+        },
+        {
+          "id": 95,
+          "category": "Urban Planning",
+          "question": "What zoning consideration must cities address when expanding boardwalks?",
+          "answer": "Public access rights and private property boundaries"
+        },
+        {
+          "id": 96,
+          "category": "Entertainment History",
+          "question": "What famous inventor demonstrated his Ferris wheel at the 1893 Chicago World's Fair before it appeared on boardwalks?",
+          "answer": "George Ferris"
+        },
+        {
+          "id": 97,
+          "category": "Ecological Impact",
+          "question": "How do piers affect benthic communities on the ocean floor?",
+          "answer": "They create artificial substrate and alter water flow patterns"
+        },
+        {
+          "id": 98,
+          "category": "Architectural Innovation",
+          "question": "What modern boardwalk construction technique uses helical pilings?",
+          "answer": "Screw-pile installation for better stability"
+        },
+        {
+          "id": 99,
+          "category": "Climate Adaptation",
+          "question": "What is sea level rise forcing boardwalk communities to consider?",
+          "answer": "Elevated construction or relocation strategies"
+        },
+        {
+          "id": 100,
+          "category": "Recreational Fishing",
+          "question": "What is the primary appeal of pier fishing versus boat fishing?",
+          "answer": "Accessibility without requiring a boat or boating license"
+        },
+        {
+          "id": 101,
+          "category": "Engineering Challenges",
+          "question": "What foundation type do modern piers use to resist undermining from scour?",
+          "answer": "Scour protection or pile caps"
+        },
+        {
+          "id": 102,
+          "category": "Coastal Geography",
+          "question": "What tidal range is typical for the Atlantic Coast where major boardwalks are located?",
+          "answer": "4-6 feet on average"
+        },
+        {
+          "id": 103,
+          "category": "Marine Biology",
+          "question": "What invasive species has impacted Atlantic Coast pier ecosystems?",
+          "answer": "Green crabs or zebra mussels"
+        },
+        {
+          "id": 104,
+          "category": "Historical Events",
+          "question": "Which 1918 hurricane caused significant damage to multiple East Coast boardwalks?",
+          "answer": "The Atlantic Hurricane Season storms"
+        },
+        {
+          "id": 105,
+          "category": "Urban Planning",
+          "question": "What accommodation law requires boardwalks to have wheelchair access?",
+          "answer": "The Americans with Disabilities Act (ADA)"
+        },
+        {
+          "id": 106,
+          "category": "Entertainment History",
+          "question": "What popular boardwalk game originated from carnival traditions of the 1920s?",
+          "answer": "Ring toss or balloon darts"
+        },
+        {
+          "id": 107,
+          "category": "Ecological Impact",
+          "question": "What is one negative ecological consequence of pier construction?",
+          "answer": "Habitat fragmentation or altered water flow"
+        },
+        {
+          "id": 108,
+          "category": "Architectural Innovation",
+          "question": "What sustainable material are some new boardwalks using instead of pressure-treated wood?",
+          "answer": "Recycled plastic lumber or composite materials"
+        },
+        {
+          "id": 109,
+          "category": "Climate Adaptation",
+          "question": "What living shoreline technique combines boardwalks with natural habitat restoration?",
+          "answer": "Oyster reefs, marsh grasses, or vegetated buffers"
+        },
+        {
+          "id": 110,
+          "category": "Recreational Fishing",
+          "question": "What technique allows anglers to catch deep-water species from coastal piers?",
+          "answer": "Surf casting or long-distance casting"
+        },
+        {
+          "id": 111,
+          "category": "Engineering Challenges",
+          "question": "What mathematical principle determines how deep pier pilings must be set?",
+          "answer": "Load capacity and soil bearing strength calculations"
+        },
+        {
+          "id": 112,
+          "category": "Coastal Geography",
+          "question": "What phenomenon creates rip currents near some boardwalk beaches?",
+          "answer": "Wave refraction and channeled water return flow"
+        },
+        {
+          "id": 113,
+          "category": "Marine Biology",
+          "question": "What commercial fishing species migrates through waters near Atlantic boardwalks?",
+          "answer": "Striped bass, bluefish, and mackerel"
+        },
+        {
+          "id": 114,
+          "category": "Historical Events",
+          "question": "What year did the Coney Island boardwalk first feature electric lighting?",
+          "answer": "1900s (approximately early 1900s)"
+        },
+        {
+          "id": 115,
+          "category": "Urban Planning",
+          "question": "What infrastructure challenge do rising groundwater tables present to boardwalks?",
+          "answer": "Increased moisture exposure and wood deterioration"
+        },
+        {
+          "id": 116,
+          "category": "Entertainment History",
+          "question": "What was the primary amusement technology before mechanical rides on boardwalks?",
+          "answer": "Carousel horses and merry-go-rounds"
+        },
+        {
+          "id": 117,
+          "category": "Ecological Impact",
+          "question": "How do light from boardwalk attractions affect nocturnal sea turtle hatchlings?",
+          "answer": "They disorient and misdirect hatchlings away from the ocean"
+        },
+        {
+          "id": 118,
+          "category": "Architectural Innovation",
+          "question": "What smart technology is being integrated into some modern boardwalks?",
+          "answer": "LED lighting sensors, water level monitors, or crowd management systems"
+        },
+        {
+          "id": 119,
+          "category": "Climate Adaptation",
+          "question": "What name is given to the practice of raising buildings and infrastructure above storm surge level?",
+          "answer": "Elevation or building on stilts"
+        },
+        {
+          "id": 120,
+          "category": "Recreational Fishing",
+          "question": "What catch-and-release practice helps sustain fish populations near piers?",
+          "answer": "Using barbless hooks or proper handling techniques"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "difficulty": "Hard",
+      "questions": [
+        {
+          "id": 121,
+          "category": "Advanced Engineering",
+          "question": "What is the primary limitation of driving pilings through soft sediment at pier locations?",
+          "answer": "Lateral instability and inadequate lateral load capacity"
+        },
+        {
+          "id": 122,
+          "category": "Oceanographic Phenomena",
+          "question": "How does the Coriolis effect influence water circulation patterns around Atlantic piers?",
+          "answer": "It creates deflection of water currents to the right (Northern Hemisphere)"
+        },
+        {
+          "id": 123,
+          "category": "Estuarine Dynamics",
+          "question": "What is the interaction between freshwater inputs and saltwater intrusion in boardwalk-adjacent estuaries?",
+          "answer": "Stratification and density-driven circulation"
+        },
+        {
+          "id": 124,
+          "category": "Paleoclimatology",
+          "question": "What storm surge data from the last century informs boardwalk resilience planning?",
+          "answer": "Historical hurricane and nor'easter records and sediment core analysis"
+        },
+        {
+          "id": 125,
+          "category": "Coastal Sediment Transport",
+          "question": "What sediment transport mechanism is responsible for beach erosion near boardwalks?",
+          "answer": "Alongshore drift or littoral current transport"
+        },
+        {
+          "id": 126,
+          "category": "Material Science",
+          "question": "What fatigue mechanism in pier pilings results from repetitive wave action?",
+          "answer": "Cyclic stress-induced microcracking and material degradation"
+        },
+        {
+          "id": 127,
+          "category": "Hydro-Acoustic Design",
+          "question": "How do pier structures modify underwater sound propagation affecting marine life?",
+          "answer": "They create acoustic shadows and reflect sound waves"
+        },
+        {
+          "id": 128,
+          "category": "Coastal Groundwater",
+          "question": "What process causes saline intrusion affecting boardwalk foundations?",
+          "answer": "Sea level rise and increased hydraulic gradient"
+        },
+        {
+          "id": 129,
+          "category": "Biomimetic Engineering",
+          "question": "What natural structure inspired modern pier designs for improved hydrodynamic efficiency?",
+          "answer": "Coral reef structures or bivalve aggregations"
+        },
+        {
+          "id": 130,
+          "category": "Nematode Ecology",
+          "question": "What role do meiofauna play in sediments beneath piers?",
+          "answer": "Bioturbation and nutrient cycling"
+        },
+        {
+          "id": 131,
+          "category": "Advanced Engineering",
+          "question": "What is the critical failure mode for wooden boardwalk decking under freeze-thaw cycling?",
+          "answer": "Spalling and differential expansion of wood fiber"
+        },
+        {
+          "id": 132,
+          "category": "Oceanographic Phenomena",
+          "question": "What generates internal waves near continental shelves adjacent to boardwalks?",
+          "answer": "Tidal flow over bathymetric features"
+        },
+        {
+          "id": 133,
+          "category": "Estuarine Dynamics",
+          "question": "How do anthropogenic heat inputs from boardwalk infrastructure affect local water temperature?",
+          "answer": "Thermal pollution and altered thermal structure"
+        },
+        {
+          "id": 134,
+          "category": "Paleoclimatology",
+          "question": "What proxy data from coastal sediment cores reveals pre-colonial boardwalk construction evidence?",
+          "answer": "Anthropogenic markers and artifact assemblages"
+        },
+        {
+          "id": 135,
+          "category": "Coastal Sediment Transport",
+          "question": "What is the mathematical relationship between wave height and sediment suspension in boardwalk zones?",
+          "answer": "Exponential function following the cube of wave velocity"
+        },
+        {
+          "id": 136,
+          "category": "Material Science",
+          "question": "What electrochemical corrosion mechanism affects steel components in boardwalk fasteners?",
+          "answer": "Galvanic corrosion from dissimilar metal contact"
+        },
+        {
+          "id": 137,
+          "category": "Hydro-Acoustic Design",
+          "question": "How do pier structures create habitat for organisms through acoustic niche partitioning?",
+          "answer": "By creating zones of different sound reflection and absorption"
+        },
+        {
+          "id": 138,
+          "category": "Coastal Groundwater",
+          "question": "What is the freshwater lens phenomenon in island boardwalk communities?",
+          "answer": "Floating lens of fresh groundwater above denser saltwater"
+        },
+        {
+          "id": 139,
+          "category": "Biomimetic Engineering",
+          "question": "What is the hydrodynamic advantage of pile-cap designs mimicking sea anemone tentacles?",
+          "answer": "Reduced drag and improved flow-induced oscillation damping"
+        },
+        {
+          "id": 140,
+          "category": "Nematode Ecology",
+          "question": "What is the relationship between nematode diversity and sediment oxygenation under piers?",
+          "answer": "Inverse relationship with oxygen depletion"
+        },
+        {
+          "id": 141,
+          "category": "Advanced Engineering",
+          "question": "What is the non-linear relationship between sulfide diffusion and wood decay in anaerobic pier sediments?",
+          "answer": "Accelerated decay proportional to sulfide concentration cubed"
+        },
+        {
+          "id": 142,
+          "category": "Oceanographic Phenomena",
+          "question": "What is the thermocline response to thermal stratification near urban boardwalks?",
+          "answer": "Sharp density gradient amplification from waste heat"
+        },
+        {
+          "id": 143,
+          "category": "Estuarine Dynamics",
+          "question": "How does tidal asymmetry affect sediment deposition patterns in boardwalk-adjacent estuaries?",
+          "answer": "Preferential flood-dominant or ebb-dominant transport"
+        },
+        {
+          "id": 144,
+          "category": "Paleoclimatology",
+          "question": "What isotopic ratio in mollusc shells indicates water temperature changes affecting historical boardwalks?",
+          "answer": "Oxygen-18 to Oxygen-16 ratio"
+        },
+        {
+          "id": 145,
+          "category": "Coastal Sediment Transport",
+          "question": "What is the Shields parameter threshold for sediment motion near pier pilings?",
+          "answer": "0.05 to 0.06 for most natural sediments"
+        },
+        {
+          "id": 146,
+          "category": "Material Science",
+          "question": "What is the relationship between wood moisture content and structural capacity in boardwalks?",
+          "answer": "Inverse non-linear relationship with sharp drop above 28% moisture"
+        },
+        {
+          "id": 147,
+          "category": "Hydro-Acoustic Design",
+          "question": "What frequency range of anthropogenic noise most affects larval fish settlement at piers?",
+          "answer": "100-500 Hz range critical for larval sensory systems"
+        },
+        {
+          "id": 148,
+          "category": "Coastal Groundwater",
+          "question": "What is the Ghyben-Herzberg relation used to calculate in island boardwalk hydrology?",
+          "answer": "Freshwater-saltwater interface depth"
+        },
+        {
+          "id": 149,
+          "category": "Biomimetic Engineering",
+          "question": "What is the drag coefficient reduction achieved by biomimetic tubercle designs on pier pilings?",
+          "answer": "10-15% reduction through boundary layer manipulation"
+        },
+        {
+          "id": 150,
+          "category": "Nematode Ecology",
+          "question": "What is the relationship between meiobenthic community composition and organic matter quality in pier sediments?",
+          "answer": "Compositional shift favoring select-deposit and detritivores with increased labile OM"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "difficulty": "Expert",
+      "questions": [
+        {
+          "id": 151,
+          "category": "Quantum Sediment Dynamics",
+          "question": "What is the multifractal singularity spectrum analysis application to turbulent sediment suspension patterns under boardwalk pilings?",
+          "answer": "H∈lder exponent analysis of multiscale turbulent cascade structure"
+        },
+        {
+          "id": 152,
+          "category": "Non-equilibrium Thermodynamics",
+          "question": "How does the principle of maximum entropy production apply to thermal stratification near heated boardwalk discharge zones?",
+          "answer": "System organizes to maximize energy dissipation rate given constraints"
+        },
+        {
+          "id": 153,
+          "category": "Complex Systems Theory",
+          "question": "What is the strange attractor dimension in bifurcation analysis of oscillating pier structures?",
+          "answer": "Fractal dimension typically 2.3-2.8 for vortex-induced vibrations"
+        },
+        {
+          "id": 154,
+          "category": "Stochastic Hydromechanics",
+          "question": "How do random force models capture wave-induced pore pressure fluctuations in pier foundation soils?",
+          "answer": "Filtered white noise driven Langevin equations for soil deformation"
+        },
+        {
+          "id": 155,
+          "category": "Nonlinear Optics in Sediments",
+          "question": "What is the kerr effect impact on optical properties of suspended sediment plumes from boardwalk dredging?",
+          "answer": "Intensity-dependent refractive index modulation creating self-focusing"
+        },
+        {
+          "id": 156,
+          "category": "Topological Fluid Dynamics",
+          "question": "How do topological invariants in vortex dynamics explain persistent eddies around pier clusters?",
+          "answer": "Conserved helicity and linking numbers maintain vortex coherence"
+        },
+        {
+          "id": 157,
+          "category": "Quantum Field Theory Applications",
+          "question": "What is the path integral formulation for computing probability amplitude of pier scour events?",
+          "answer": "Feynman functional integral over sediment transport trajectories"
+        },
+        {
+          "id": 158,
+          "category": "General Relativity Analogs",
+          "question": "How is metric tensor curvature in manifolds analogous to stress tensor in boardwalk foundation failure modes?",
+          "answer": "Both describe geodesic curvature and critical point bifurcations"
+        },
+        {
+          "id": 159,
+          "category": "Abstract Algebra in Structural Analysis",
+          "question": "What is the Lie algebra representation of symmetry groups in pier truss failures?",
+          "answer": "SO(3) rotation group and crystallographic point group symmetries"
+        },
+        {
+          "id": 160,
+          "category": "Category Theory in Ecology",
+          "question": "How does categorical algebra model ecosystem services provided by piers?",
+          "answer": "Functorial mappings between ecological and economic categories"
+        },
+        {
+          "id": 161,
+          "category": "Quantum Sediment Dynamics",
+          "question": "What is the Wigner phase space distribution for particle momentum in pier sediment transport?",
+          "answer": "Quasi-probability distribution satisfying tomographic reconstruction"
+        },
+        {
+          "id": 162,
+          "category": "Non-equilibrium Thermodynamics",
+          "question": "How do far-from-equilibrium steady states in boardwalk hydrothermal vents relate to dissipative structures?",
+          "answer": "Prigogine's principle of minimum entropy production at bifurcation points"
+        },
+        {
+          "id": 163,
+          "category": "Complex Systems Theory",
+          "question": "What is the Lyapunov exponent sensitivity for pier foundation response to seismic forcing?",
+          "answer": "Positive exponent ~0.15-0.35 rad/sec indicating chaotic response regimes"
+        },
+        {
+          "id": 164,
+          "category": "Stochastic Hydromechanics",
+          "question": "How do Fokker-Planck equations govern probability density evolution in pore pressure fluctuations?",
+          "answer": "Through drift and diffusion coefficients parameterized by soil properties"
+        },
+        {
+          "id": 165,
+          "category": "Nonlinear Optics in Sediments",
+          "question": "What is the third-order susceptibility χ(3) effect in suspended sediment light scattering from boardwalks?",
+          "answer": "Four-wave mixing creating harmonic generation in turbid plumes"
+        },
+        {
+          "id": 166,
+          "category": "Topological Fluid Dynamics",
+          "question": "How do Calabi-Yau manifolds in string theory analogs explain knot dynamics in pier vortex shedding?",
+          "answer": "Topological conservation laws constrain allowed vortex knot configurations"
+        },
+        {
+          "id": 167,
+          "category": "Quantum Field Theory Applications",
+          "question": "What is the Feynman diagram expansion for computing pier-organism interaction amplitudes?",
+          "answer": "Perturbative series with vertices for chemical and mechanical interactions"
+        },
+        {
+          "id": 168,
+          "category": "General Relativity Analogs",
+          "question": "How does Einstein tensor curvature in stress-strain space relate to boardwalk material failure?",
+          "answer": "Ricci curvature eigenvalues predict critical stress concentrations"
+        },
+        {
+          "id": 169,
+          "category": "Abstract Algebra in Structural Analysis",
+          "question": "What is the homological algebra sequence for pier frame redundancy analysis?",
+          "answer": "Long exact sequences of homology groups tracking load path connectivity"
+        },
+        {
+          "id": 170,
+          "category": "Category Theory in Ecology",
+          "question": "How do derived functors model ecosystem resilience under pier-induced stress?",
+          "answer": "Via Ext groups measuring obstruction to equilibrium restoration"
+        },
+        {
+          "id": 171,
+          "category": "Quantum Sediment Dynamics",
+          "question": "What is the Bohmian mechanics interpretation of sediment particle trajectories under piers?",
+          "answer": "Deterministic trajectories guided by quantum potential field"
+        },
+        {
+          "id": 172,
+          "category": "Non-equilibrium Thermodynamics",
+          "question": "How do dissipative structures emerge from chemical reactions in pier anaerobic zones?",
+          "answer": "Through autocatalytic feedback loops consuming available free energy"
+        },
+        {
+          "id": 173,
+          "category": "Complex Systems Theory",
+          "question": "What is the Hurst exponent for long-range correlation in pier settlement patterns?",
+          "answer": "H~0.7-0.9 indicating persistent trends in geotechnical deformation"
+        },
+        {
+          "id": 174,
+          "category": "Stochastic Hydromechanics",
+          "question": "How do Master equation Monte Carlo methods simulate pier liquefaction probability?",
+          "answer": "Through ensemble sampling of Markov chain transitions in soil state space"
+        },
+        {
+          "id": 175,
+          "category": "Nonlinear Optics in Sediments",
+          "question": "What is the Raman gain spectrum for stimulated Raman scattering in suspended pier sediment?",
+          "answer": "Peaked at ~440 cm-1 for silicate bond vibrations in quartz"
+        },
+        {
+          "id": 176,
+          "category": "Topological Fluid Dynamics",
+          "question": "How do modular forms in number theory relate to periodic orbits in pier eddy shedding?",
+          "answer": "Spectral properties from transfer operator eigenvalues"
+        },
+        {
+          "id": 177,
+          "category": "Quantum Field Theory Applications",
+          "question": "What is the renormalization group flow for coarse-graining pier sediment turbulence cascade?",
+          "answer": "Beta function governing flow parameter evolution with length scale"
+        },
+        {
+          "id": 178,
+          "category": "General Relativity Analogs",
+          "question": "How do event horizons in relativity analogs describe critical failure thresholds in boardwalks?",
+          "answer": "As singularities where structural response diverges irreversibly"
+        },
+        {
+          "id": 179,
+          "category": "Abstract Algebra in Structural Analysis",
+          "question": "What is the cohomology ring structure for pier frame kinematic indeterminacy?",
+          "answer": "Cup product generating higher-order redundancy relationships"
+        },
+        {
+          "id": 180,
+          "category": "Category Theory in Ecology",
+          "question": "How do sheaf cohomology spaces model spatially-varying species distributions on piers?",
+          "answer": "Via local sections encoding species presence in overlapping pier microhabitats"
+        }
+      ]
+    }
+  ]
+}

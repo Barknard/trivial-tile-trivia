@@ -1,0 +1,341 @@
+{
+  "category": "Pin the Tail on the Donkey - Birthday Game",
+  "theme": "birthday",
+  "category_id": "birthday_pin_the_tail",
+  "research_basis": "Party game history, motor skills development, tactile learning, spatial reasoning, blindfolded coordination, game variations, cultural adaptations",
+  "audiences": {
+    "regular_trivia": [
+      {
+        "clue": "This classic party game involves placing a donkey's body part on a picture while blindfolded",
+        "correctQuestion": "What is pin the tail on the donkey?",
+        "value": 200
+      },
+      {
+        "clue": "Players are typically blindfolded and spun around to disorient them before placing the tail",
+        "correctQuestion": "What is dizziness?",
+        "value": 200
+      },
+      {
+        "clue": "The body part that players pin on the donkey in the classic game version",
+        "correctQuestion": "What is the tail?",
+        "value": 200
+      },
+      {
+        "clue": "This farm animal is the traditional target in the pinning game",
+        "correctQuestion": "What is a donkey?",
+        "value": 200
+      },
+      {
+        "clue": "The textile item used to cover a player's eyes during the game",
+        "correctQuestion": "What is a blindfold?",
+        "value": 200
+      },
+      {
+        "clue": "This adhesive method typically attaches the paper tail to the poster",
+        "correctQuestion": "What is tape or tack?",
+        "value": 400
+      },
+      {
+        "clue": "Players must pin the tail on this location of the donkey to score points",
+        "correctQuestion": "What is the correct spot or the donkey's rear?",
+        "value": 400
+      },
+      {
+        "clue": "This spinning motion is used to disorient players before they attempt to pin",
+        "correctQuestion": "What is being spun around?",
+        "value": 400
+      },
+      {
+        "clue": "The game teaches this skill as players navigate the room blindfolded",
+        "correctQuestion": "What is spatial awareness?",
+        "value": 400
+      },
+      {
+        "clue": "Prize winners are determined by how accurately they place the tail at this location",
+        "correctQuestion": "What is closest to the donkey's rear end?",
+        "value": 400
+      },
+      {
+        "clue": "This variation of the game swaps the donkey for a cat and pins on whiskers",
+        "correctQuestion": "What is pin the whiskers on the cat?",
+        "value": 600
+      },
+      {
+        "clue": "In this maritime variation, players pin a treasure chest on a pirate ship",
+        "correctQuestion": "What is pin the treasure on the ship?",
+        "value": 600
+      },
+      {
+        "clue": "This winter holiday variation has players pinning a star on a Christmas tree",
+        "correctQuestion": "What is pin the star on the Christmas tree?",
+        "value": 600
+      },
+      {
+        "clue": "The game board image used in pin the tail is typically made of this material",
+        "correctQuestion": "What is paper or poster board?",
+        "value": 600
+      },
+      {
+        "clue": "This sense is heavily relied upon when players are blindfolded during the game",
+        "correctQuestion": "What is touch?",
+        "value": 600
+      },
+      {
+        "clue": "The game originated as a parlor game in Victorian times during this century",
+        "correctQuestion": "What is the 19th century?",
+        "value": 800
+      },
+      {
+        "clue": "This famous children's author wrote about a donkey in classic literature",
+        "correctQuestion": "Who is Winnie the Pooh's friend (or Pinocchio's)?",
+        "value": 800
+      },
+      {
+        "clue": "The phrase 'pinning the tail' comes from actual veterinary practices of branding animals with these",
+        "correctQuestion": "What is markers or tags?",
+        "value": 800
+      },
+      {
+        "clue": "In modern variations, players may pin body parts on celebrities or cartoon characters instead",
+        "correctQuestion": "What is a pop culture figure?",
+        "value": 800
+      },
+      {
+        "clue": "The game is often played at birthday parties for this age group primarily",
+        "correctQuestion": "What is young children or kids?",
+        "value": 800
+      },
+      {
+        "clue": "This safety consideration is important when spinning children around during the game",
+        "correctQuestion": "What is dizziness or vertigo prevention?",
+        "value": 1000
+      },
+      {
+        "clue": "The game teaches children about this directional concept through tactile exploration",
+        "correctQuestion": "What is spatial orientation or directions?",
+        "value": 1000
+      },
+      {
+        "clue": "This cognitive skill is developed as children estimate distances while blindfolded",
+        "correctQuestion": "What is proprioception or body awareness?",
+        "value": 1000
+      },
+      {
+        "clue": "In some variations, the tail becomes this to make the game more challenging",
+        "correctQuestion": "What is smaller or harder to attach?",
+        "value": 1000
+      },
+      {
+        "clue": "The game's competitive element comes from determining who places the tail closest to this",
+        "correctQuestion": "What is the intended target area?",
+        "value": 1000
+      },
+      {
+        "clue": "Modern pin the tail games sometimes use this technology instead of paper",
+        "correctQuestion": "What is digital or interactive/virtual?",
+        "value": 1000
+      },
+      {
+        "clue": "This farm animal produces a sound that's often mimicked during charades versions",
+        "correctQuestion": "What is a donkey braying?",
+        "value": 1000
+      },
+      {
+        "clue": "The game requires players to trust their teammates who give them verbal directions",
+        "correctQuestion": "What is teamwork or communication?",
+        "value": 1000
+      },
+      {
+        "clue": "Historical records show this game was played in British high society during Victorian parties",
+        "correctQuestion": "What is a parlor game or drawing room game?",
+        "value": 1000
+      },
+      {
+        "clue": "The game's hilarity comes from the unpredictable locations where blindfolded players place the tail",
+        "correctQuestion": "What is the unexpected positioning or silly outcomes?",
+        "value": 1000
+      }
+    ],
+    "cah_style": [
+      {
+        "clue": "What a blindfolded Karen thinks she's doing when she misses the poster entirely and tapes the tail to someone's actual rear",
+        "correctQuestion": "What is 'pin the tail on the donkey'?",
+        "value": 200,
+        "why_it_works": "Karen cultural reference + misunderstanding = classic CAH humor"
+      },
+      {
+        "clue": "The speed at which a 7-year-old runs into the birthday kid's mom while blindfolded during pin the tail",
+        "correctQuestion": "What is full sprint?",
+        "value": 200,
+        "why_it_works": "Universal parent experience from birthday parties"
+      },
+      {
+        "clue": "What parents mean when they say 'let's play that game so the kids are tired out'",
+        "correctQuestion": "What is controlled chaos and property damage?",
+        "value": 400,
+        "why_it_works": "Every parent knows this parenting hack"
+      },
+      {
+        "clue": "The drawing on the poster that looks nothing like a donkey after the 15th child has pinned it and made it sag",
+        "correctQuestion": "What is abstract art or modern expressionism?",
+        "value": 400,
+        "why_it_works": "Relatable party experience - poster gets destroyed"
+      },
+      {
+        "clue": "What the birthday boy's little sibling does every single time during pin the tail instead of waiting his turn",
+        "correctQuestion": "What is ruins the game by bumping into people?",
+        "value": 400,
+        "why_it_works": "Annoying little sibling dynamic everyone relates to"
+      },
+      {
+        "clue": "The weird spot where the tail always ends up if one kid is clearly using sonar like a bat",
+        "correctQuestion": "What is on the wall 6 feet away?",
+        "value": 600,
+        "why_it_works": "Funny image of a kid completely lost while blindfolded"
+      },
+      {
+        "clue": "When your mom insists on playing pin the tail at your age-inappropriate birthday party",
+        "correctQuestion": "What is social suicide?",
+        "value": 600,
+        "why_it_works": "Teen embarrassment at a childhood game - relatable"
+      },
+      {
+        "clue": "The Instagram trend where millennials play pin the tail but the donkey is replaced with a photo of their ex",
+        "correctQuestion": "What is cathartic destruction?",
+        "value": 600,
+        "why_it_works": "Millennial Instagram trends + therapy humor"
+      },
+      {
+        "clue": "What happens when you spin a kid around three times and they still somehow nail the tail on the first try",
+        "correctQuestion": "What is hiring them as your personal GPS?",
+        "value": 600,
+        "why_it_works": "Unexpected competence humor"
+      },
+      {
+        "clue": "The unspoken rule at birthday parties that whoever is winning always 'accidentally' bumps into the winner",
+        "correctQuestion": "What is competitive sabotage?",
+        "value": 800,
+        "why_it_works": "Birthday party politics/competitiveness"
+      },
+      {
+        "clue": "Where the tail actually ends up after a sugar-fueled child on the guest list tackles the poster",
+        "correctQuestion": "What is in someone's hair?",
+        "value": 800,
+        "why_it_works": "Chaos of hyped-up kids at parties"
+      },
+      {
+        "clue": "The TikTok algorithm after someone posted pin the tail with 50 takes of a toddler", "correctQuestion": "What is now recommending parenting content to everyone?",
+        "value": 800,
+        "why_it_works": "TikTok algorithm/algorithm humor"
+      },
+      {
+        "clue": "What pin the tail on the donkey becomes when you're drunk at a 30-year-old's birthday party",
+        "correctQuestion": "What is pin the tail on the random person standing nearby?",
+        "value": 800,
+        "why_it_works": "Adult party humor - drunk games"
+      },
+      {
+        "clue": "The sound a dad makes while narrating pin the tail like it's the World Cup final",
+        "correctQuestion": "What is 'AND HE'S GOING IN... HE'S GOING IN...'?",
+        "value": 800,
+        "why_it_works": "Dad commentary on children's games"
+      },
+      {
+        "clue": "When the birthday kid's overprotective parent insists the blindfold doesn't obstruct vision 'enough'",
+        "correctQuestion": "What is a sleep mask duct-taped to their face?",
+        "value": 1000,
+        "why_it_works": "Overprotective parent absurdity"
+      },
+      {
+        "clue": "The NFT some crypto bro minted of his kid winning pin the tail that nobody asked for",
+        "correctQuestion": "What is blockchain birthday culture?",
+        "value": 1000,
+        "why_it_works": "Crypto absurdity/unnecessary blockchain"
+      },
+      {
+        "clue": "What happens at a Pinterest-perfect birthday party when the handmade donkey poster costs $87",
+        "correctQuestion": "What is someone's going to destroy it in 30 seconds?",
+        "value": 1000,
+        "why_it_works": "Pinterest culture meets reality disappointment"
+      },
+      {
+        "clue": "The therapy session where someone discusses their childhood trauma of constantly losing at pin the tail",
+        "correctQuestion": "What is 'It started here, doctor'?",
+        "value": 1000,
+        "why_it_works": "Therapy/psychological humor from childhood games"
+      },
+      {
+        "clue": "When the birthday party rental company's 'pin the tail' game is actually pin the tail on a real donkey they brought",
+        "correctQuestion": "What is a lawsuit waiting to happen?",
+        "value": 1000,
+        "why_it_works": "Dark humor about party rental companies"
+      },
+      {
+        "clue": "The moment a parent realizes their child has been blindfolded with a luxury branded scarf worth $300",
+        "correctQuestion": "What is regret?",
+        "value": 1000,
+        "why_it_works": "Rich parent problems/expensive accessories as blindfold"
+      },
+      {
+        "clue": "What pins the tail on the donkey stays in the group chat as evidence for the next 10 years",
+        "correctQuestion": "What is video footage of your most embarrassing moment?",
+        "value": 1000,
+        "why_it_works": "Group chat/social media evidence forever"
+      },
+      {
+        "clue": "The trending TikTok challenge where people pin the tail while attempting an increasingly difficult dance",
+        "correctQuestion": "What is 'Pin the Tail: Parkour Edition'?",
+        "value": 1000,
+        "why_it_works": "TikTok challenge culture"
+      },
+      {
+        "clue": "When the birthday kid's competitive older sibling starts giving bad directions while the child is blindfolded",
+        "correctQuestion": "What is psychological warfare?",
+        "value": 1000,
+        "why_it_works": "Sibling sabotage/rivalry"
+      },
+      {
+        "clue": "The wellness expert charging $300 for a 'mindful pin the tail' corporate team-building exercise",
+        "correctQuestion": "What is exploitation of CEOs?",
+        "value": 1000,
+        "why_it_works": "Corporate wellness culture absurdity"
+      },
+      {
+        "clue": "What the birthday party goes viral for when someone's grandmother gets tapped to play and pins it perfectly",
+        "correctQuestion": "What is 'Grandma is actually a superhero'?",
+        "value": 1000,
+        "why_it_works": "Unexpected competence from unlikely person"
+      },
+      {
+        "clue": "The genetic trait that apparently skips a generation and makes some kids impossibly good at pin the tail",
+        "correctQuestion": "What is proprioception or spatial reasoning?",
+        "value": 1000,
+        "why_it_works": "Scientific humor about competitive advantage"
+      },
+      {
+        "clue": "What historians believe pin the tail taught children before smartphones existed",
+        "correctQuestion": "What is how to navigate the world without GPS?",
+        "value": 1000,
+        "why_it_works": "Millennial/Gen Z vs older generations humor"
+      },
+      {
+        "clue": "The energy an only child brings to pin the tail when they realize competition is required",
+        "correctQuestion": "What is either dominance or complete meltdown?",
+        "value": 1000,
+        "why_it_works": "Only child stereotypes"
+      },
+      {
+        "clue": "When someone's meticulously planned birthday party ends because someone actually hit the donkey and everyone cried",
+        "correctQuestion": "What is 'Should we just hire a bounce house next year'?",
+        "value": 1000,
+        "why_it_works": "Party planning expectations vs reality"
+      },
+      {
+        "clue": "The unwritten rule that whoever watches you play pin the tail will definitely use it against you in next week's group chat",
+        "correctQuestion": "What is photographic evidence of your complete lack of spatial awareness?",
+        "value": 1000,
+        "why_it_works": "Social media documentation of failures"
+      }
+    ]
+  }
+}

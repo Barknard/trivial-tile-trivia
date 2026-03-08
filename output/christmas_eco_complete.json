@@ -1,0 +1,2136 @@
+{
+  "category": "Eco-Friendly Holidays",
+  "category_id": "christmas_environmental",
+  "description": "Test your knowledge of sustainable Christmas practices, recycling, environmental awareness, and responsible holiday celebrations",
+  "audiences": ["teenagers", "adults"],
+  "difficulty_levels": 5,
+  "total_questions": 180,
+  "questions": [
+    {
+      "id": "eco_teen_100_1",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This common Christmas decoration can be replanted after the holidays instead of thrown away",
+      "answer": "What is a potted Christmas tree?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_decorations",
+        "subtopic": "living_trees"
+      }
+    },
+    {
+      "id": "eco_teen_100_2",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "Instead of throwing away wrapping paper, you should do this to help the environment",
+      "answer": "What is recycle it (or reuse it)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "wrapping_paper"
+      }
+    },
+    {
+      "id": "eco_teen_100_3",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "These holiday lights use 75% less energy than traditional incandescent bulbs",
+      "answer": "What are LED lights?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "energy_conservation",
+        "subtopic": "lighting"
+      }
+    },
+    {
+      "id": "eco_teen_100_4",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This natural material makes eco-friendly Christmas decorations and can be composted after the holidays",
+      "answer": "What are pinecones?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_decorations",
+        "subtopic": "natural_materials"
+      }
+    },
+    {
+      "id": "eco_teen_100_5",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "Instead of buying new gift bags, environmentally conscious shoppers do this",
+      "answer": "What is reuse old bags (or make their own)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "gift_wrapping"
+      }
+    },
+    {
+      "id": "eco_teen_100_6",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This reusable item can replace disposable wrapping paper year after year",
+      "answer": "What is fabric wrap (or cloth gift bags)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "reusable_wrapping"
+      }
+    },
+    {
+      "id": "eco_teen_100_7",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "Turning off these decorations when you go to bed saves energy during the holidays",
+      "answer": "What are Christmas lights?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "energy_conservation",
+        "subtopic": "lighting_habits"
+      }
+    },
+    {
+      "id": "eco_teen_100_8",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This bin color is commonly used for recycling Christmas cards and paper",
+      "answer": "What is blue (or green)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "paper_products"
+      }
+    },
+    {
+      "id": "eco_teen_100_9",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "Giving these intangible gifts creates zero waste while still spreading joy",
+      "answer": "What are experiences (or gift certificates)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_gifting",
+        "subtopic": "experiential_gifts"
+      }
+    },
+    {
+      "id": "eco_adult_100_1",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "This certification ensures your Christmas tree was grown on a sustainable farm",
+      "answer": "What is FSC (Forest Stewardship Council)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_sourcing",
+        "subtopic": "tree_certification"
+      }
+    },
+    {
+      "id": "eco_adult_100_2",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "The average American household generates this much more trash during the holidays",
+      "answer": "What is 25% (or one-quarter) more?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_statistics",
+        "subtopic": "holiday_waste"
+      }
+    },
+    {
+      "id": "eco_adult_100_3",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "This type of wrapping paper with metallic coating cannot be recycled",
+      "answer": "What is foil (or glossy/laminated) wrapping paper?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "non_recyclable_materials"
+      }
+    },
+    {
+      "id": "eco_adult_100_4",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "Using a timer on your Christmas lights can reduce energy consumption by this much",
+      "answer": "What is 50% (or half)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "energy_conservation",
+        "subtopic": "automation"
+      }
+    },
+    {
+      "id": "eco_adult_100_5",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "This eco-friendly alternative to plastic Christmas tree bags allows your tree to breathe during storage",
+      "answer": "What is a canvas (or fabric) storage bag?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_storage",
+        "subtopic": "tree_storage"
+      }
+    },
+    {
+      "id": "eco_adult_100_6",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "Composting your Christmas tree returns these vital nutrients to the soil",
+      "answer": "What is nitrogen (and carbon)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "composting",
+        "subtopic": "tree_disposal"
+      }
+    },
+    {
+      "id": "eco_adult_100_7",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "This percentage of Christmas cards end up in landfills instead of being recycled",
+      "answer": "What is 50% (or half)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_statistics",
+        "subtopic": "card_disposal"
+      }
+    },
+    {
+      "id": "eco_adult_100_8",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "These natural ornaments made from dried fruit slices are completely biodegradable",
+      "answer": "What are orange (or citrus) slice ornaments?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_decorations",
+        "subtopic": "edible_ornaments"
+      }
+    },
+    {
+      "id": "eco_adult_100_9",
+      "audience": "adults",
+      "difficulty": 100,
+      "question": "Buying gifts from this type of seller reduces carbon emissions from shipping",
+      "answer": "What are local (or small) businesses?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_shopping",
+        "subtopic": "local_economy"
+      }
+    },
+    {
+      "id": "eco_teen_200_1",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This Japanese wrapping technique uses fabric instead of paper and creates zero waste",
+      "answer": "What is Furoshiki?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_traditions",
+        "subtopic": "fabric_wrapping"
+      }
+    },
+    {
+      "id": "eco_teen_200_2",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Americans throw away this many tons of wrapping paper each year during the holidays",
+      "answer": "What is 4 million tons?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_statistics",
+        "subtopic": "wrapping_waste"
+      }
+    },
+    {
+      "id": "eco_teen_200_3",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This part of your Christmas tree should be removed before recycling or composting",
+      "answer": "What are ornament hooks (or tinsel)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "tree_preparation"
+      }
+    },
+    {
+      "id": "eco_teen_200_4",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "These battery-operated decorations should be disposed of at special collection sites, not in regular trash",
+      "answer": "What are electronic decorations (or light-up ornaments)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "e_waste",
+        "subtopic": "proper_disposal"
+      }
+    },
+    {
+      "id": "eco_teen_200_5",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Making garland from this leftover material keeps it out of landfills and looks festive",
+      "answer": "What is popcorn (or cranberries)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_decorations",
+        "subtopic": "edible_garland"
+      }
+    },
+    {
+      "id": "eco_teen_200_6",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This eco-friendly practice involves buying pre-owned gifts for Christmas",
+      "answer": "What is thrifting (or secondhand shopping)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_shopping",
+        "subtopic": "secondhand"
+      }
+    },
+    {
+      "id": "eco_teen_200_7",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Old Christmas cards can be upcycled into these small decorative items for next year",
+      "answer": "What are gift tags (or ornaments)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "upcycling",
+        "subtopic": "card_reuse"
+      }
+    },
+    {
+      "id": "eco_teen_200_8",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This type of Christmas tree is the most eco-friendly choice because it can be used for years",
+      "answer": "What is a potted living tree (that can be planted)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_choices",
+        "subtopic": "tree_selection"
+      }
+    },
+    {
+      "id": "eco_teen_200_9",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Shipping emissions can be reduced by choosing this delivery option when shopping online",
+      "answer": "What is standard (or slow) shipping?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_footprint",
+        "subtopic": "shipping_choices"
+      }
+    },
+    {
+      "id": "eco_teen_200_10",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This biodegradable alternative to plastic ribbon is made from natural plant fibers",
+      "answer": "What is raffia (or jute twine)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_materials",
+        "subtopic": "natural_ribbons"
+      }
+    },
+    {
+      "id": "eco_teen_200_11",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "These digital greetings eliminate paper waste entirely while still spreading holiday cheer",
+      "answer": "What are e-cards (or digital cards)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "digital_alternatives"
+      }
+    },
+    {
+      "id": "eco_teen_200_12",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This simple test tells you if wrapping paper is recyclable: crumple it and see if it does this",
+      "answer": "What is stays crumpled (doesn't spring back)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "paper_testing"
+      }
+    },
+    {
+      "id": "eco_teen_200_13",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Artificial trees must be reused for this many years to offset their carbon footprint compared to real trees",
+      "answer": "What is 10 years?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_footprint",
+        "subtopic": "tree_comparison"
+      }
+    },
+    {
+      "id": "eco_teen_200_14",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This percentage of energy can be saved by using solar-powered outdoor Christmas lights",
+      "answer": "What is 100%?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "renewable_energy",
+        "subtopic": "solar_lights"
+      }
+    },
+    {
+      "id": "eco_teen_200_15",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Old Christmas lights should be taken to this type of facility for proper recycling",
+      "answer": "What is an e-waste (or electronics recycling) center?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "e_waste",
+        "subtopic": "light_disposal"
+      }
+    },
+    {
+      "id": "eco_teen_200_16",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "These handmade gifts reduce environmental impact while adding personal touch",
+      "answer": "What are crafts (or DIY gifts)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_gifting",
+        "subtopic": "handmade"
+      }
+    },
+    {
+      "id": "eco_teen_200_17",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This plant-based decoration is fully compostable and looks festive on your tree",
+      "answer": "What are evergreen boughs (or fresh greenery)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_decorations",
+        "subtopic": "natural_greenery"
+      }
+    },
+    {
+      "id": "eco_teen_200_18",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Donating unwanted Christmas gifts to this helps reduce waste and helps others",
+      "answer": "What is charity (or thrift stores)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "donation"
+      }
+    },
+    {
+      "id": "eco_adult_200_1",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "The carbon footprint of a real Christmas tree is approximately this compared to an artificial tree used for 6 years",
+      "answer": "What is 40% lower?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_footprint",
+        "subtopic": "lifecycle_analysis"
+      }
+    },
+    {
+      "id": "eco_adult_200_2",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This circular economy practice involves renting Christmas decorations instead of buying new ones",
+      "answer": "What is decoration rental (or sharing economy)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "circular_economy",
+        "subtopic": "rental_services"
+      }
+    },
+    {
+      "id": "eco_adult_200_3",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "Municipal programs that collect Christmas trees often turn them into this useful landscaping material",
+      "answer": "What is mulch?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "tree_programs"
+      }
+    },
+    {
+      "id": "eco_adult_200_4",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This certification label ensures holiday products meet strict environmental and social standards",
+      "answer": "What is Fair Trade?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_sourcing",
+        "subtopic": "certifications"
+      }
+    },
+    {
+      "id": "eco_adult_200_5",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "The environmental cost of this holiday shipping option is 5-10 times higher than standard delivery",
+      "answer": "What is next-day (or overnight) shipping?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_footprint",
+        "subtopic": "expedited_shipping"
+      }
+    },
+    {
+      "id": "eco_adult_200_6",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This type of packaging made from mushroom mycelium is a biodegradable alternative to styrofoam",
+      "answer": "What is mycelium (or mushroom) packaging?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_packaging",
+        "subtopic": "innovative_materials"
+      }
+    },
+    {
+      "id": "eco_adult_200_7",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "These traditional glass ornaments have a lower environmental impact because they can be used for this many generations",
+      "answer": "What is multiple (or many) generations?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_choices",
+        "subtopic": "heirloom_decorations"
+      }
+    },
+    {
+      "id": "eco_adult_200_8",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This environmental impact category measures the water pollution from Christmas tree farming",
+      "answer": "What is eutrophication (or nutrient runoff)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_impacts",
+        "subtopic": "water_quality"
+      }
+    },
+    {
+      "id": "eco_adult_200_9",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "Battery consumption during holidays can be reduced by choosing decorations with this power source",
+      "answer": "What is plug-in (or AC power)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "battery_alternatives"
+      }
+    },
+    {
+      "id": "eco_adult_200_10",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This eco-labeling system rates products from A to G based on energy efficiency, including Christmas lights",
+      "answer": "What is the EU Energy Label?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "energy_efficiency",
+        "subtopic": "labeling_systems"
+      }
+    },
+    {
+      "id": "eco_adult_200_11",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "The production of artificial Christmas trees releases this greenhouse gas in significant quantities",
+      "answer": "What is carbon dioxide (or CO2)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_footprint",
+        "subtopic": "manufacturing_emissions"
+      }
+    },
+    {
+      "id": "eco_adult_200_12",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This percentage of municipal solid waste during holidays consists of packaging and wrapping materials",
+      "answer": "What is 25-30%?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_statistics",
+        "subtopic": "packaging_waste"
+      }
+    },
+    {
+      "id": "eco_adult_200_13",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "These charitable gift alternatives support conservation efforts while giving meaningful presents",
+      "answer": "What are symbolic adoptions (or donations in someone's name)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_gifting",
+        "subtopic": "charitable_giving"
+      }
+    },
+    {
+      "id": "eco_adult_200_14",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "Seed paper cards embedded with wildflower seeds demonstrate this sustainable design principle",
+      "answer": "What is cradle-to-cradle (or regenerative design)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_design",
+        "subtopic": "plantable_products"
+      }
+    },
+    {
+      "id": "eco_adult_200_15",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This volatile organic compound is released from artificial trees made with PVC plastic",
+      "answer": "What is lead (or phthalates)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "indoor_air_quality",
+        "subtopic": "toxic_materials"
+      }
+    },
+    {
+      "id": "eco_adult_200_16",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "These reef-safe ornament alternatives avoid microplastic pollution from glitter",
+      "answer": "What are biodegradable glitter (or natural decorations)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "microplastic_pollution",
+        "subtopic": "glitter_alternatives"
+      }
+    },
+    {
+      "id": "eco_adult_200_17",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "This lifecycle assessment phase accounts for most environmental impact of real Christmas trees",
+      "answer": "What is cultivation (or growing phase)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "lifecycle_analysis",
+        "subtopic": "tree_production"
+      }
+    },
+    {
+      "id": "eco_adult_200_18",
+      "audience": "adults",
+      "difficulty": 200,
+      "question": "Food waste during holidays can be reduced by composting leftovers in this home system",
+      "answer": "What is a compost bin (or vermicompost)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "food_composting"
+      }
+    },
+    {
+      "id": "eco_teen_300_1",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This international agreement aims to reduce carbon emissions that spike during the holiday shopping season",
+      "answer": "What is the Paris Agreement (or Paris Climate Accord)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_policy",
+        "subtopic": "international_agreements"
+      }
+    },
+    {
+      "id": "eco_teen_300_2",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This zero-waste principle suggests refusing, reducing, reusing, recycling, and this final 'R'",
+      "answer": "What is rot (or compost)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "zero_waste",
+        "subtopic": "five_rs"
+      }
+    },
+    {
+      "id": "eco_teen_300_3",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The carbon sequestration benefit of planting a Christmas tree sapling offsets emissions after this many years",
+      "answer": "What is 1-2 years?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_sequestration",
+        "subtopic": "tree_planting"
+      }
+    },
+    {
+      "id": "eco_teen_300_4",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This sustainable forestry practice ensures new Christmas trees are planted to replace harvested ones",
+      "answer": "What is reforestation (or replanting)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_forestry",
+        "subtopic": "tree_farming"
+      }
+    },
+    {
+      "id": "eco_teen_300_5",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "These microorganisms break down compostable decorations in industrial composting facilities",
+      "answer": "What are bacteria (and fungi)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "composting",
+        "subtopic": "decomposition_process"
+      }
+    },
+    {
+      "id": "eco_teen_300_6",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This environmental footprint measures total greenhouse gases produced throughout a product's lifecycle",
+      "answer": "What is carbon footprint?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_metrics",
+        "subtopic": "carbon_accounting"
+      }
+    },
+    {
+      "id": "eco_teen_300_7",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The embedded water in manufacturing one artificial tree equals this many years of watering a real tree",
+      "answer": "What is 7-10 years?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "water_footprint",
+        "subtopic": "manufacturing_impact"
+      }
+    },
+    {
+      "id": "eco_teen_300_8",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This phenomenon occurs when Christmas lights increase neighborhood electricity demand beyond grid capacity",
+      "answer": "What is peak demand (or grid stress)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "energy_systems",
+        "subtopic": "grid_impact"
+      }
+    },
+    {
+      "id": "eco_teen_300_9",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "These precious metals recovered from recycling Christmas lights can be reused in new electronics",
+      "answer": "What is copper (and gold)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "metal_recovery"
+      }
+    },
+    {
+      "id": "eco_teen_300_10",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This sustainable packaging material made from cornstarch dissolves in water",
+      "answer": "What is PLA (or polylactic acid)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_packaging",
+        "subtopic": "bioplastics"
+      }
+    },
+    {
+      "id": "eco_teen_300_11",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This measurement in grams of CO2 per kilometer tracks the environmental cost of holiday shipping",
+      "answer": "What is carbon intensity (or emissions per kilometer)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_footprint",
+        "subtopic": "shipping_metrics"
+      }
+    },
+    {
+      "id": "eco_teen_300_12",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "Christmas tree farms provide this ecological service by absorbing CO2 from the atmosphere",
+      "answer": "What is carbon sequestration?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "ecosystem_services",
+        "subtopic": "carbon_storage"
+      }
+    },
+    {
+      "id": "eco_teen_300_13",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This design philosophy aims to eliminate waste by keeping materials in continuous use cycles",
+      "answer": "What is circular economy?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_design",
+        "subtopic": "circular_systems"
+      }
+    },
+    {
+      "id": "eco_teen_300_14",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "These rechargeable batteries reduce holiday waste and can be reused this many times",
+      "answer": "What is 500-1000 times?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_reduction",
+        "subtopic": "battery_technology"
+      }
+    },
+    {
+      "id": "eco_teen_300_15",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This process converts recycled Christmas cards into new paper products using minimal energy",
+      "answer": "What is pulping (or paper recycling)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "paper_processing"
+      }
+    },
+    {
+      "id": "eco_teen_300_16",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "Wildlife habitats are supported when Christmas tree farms use this agricultural practice avoiding chemicals",
+      "answer": "What is organic farming?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biodiversity",
+        "subtopic": "sustainable_agriculture"
+      }
+    },
+    {
+      "id": "eco_teen_300_17",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This environmental benefit occurs when buying local Christmas gifts instead of international products",
+      "answer": "What is reduced transportation emissions (or lower carbon footprint)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "local_economy",
+        "subtopic": "food_miles"
+      }
+    },
+    {
+      "id": "eco_teen_300_18",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "Minimalist gift wrapping using this Scandinavian design principle reduces waste while looking elegant",
+      "answer": "What is hygge (or lagom)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_traditions",
+        "subtopic": "minimalism"
+      }
+    },
+    {
+      "id": "eco_adult_300_1",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This lifecycle assessment methodology measures environmental impacts from cradle to grave for holiday products",
+      "answer": "What is LCA (Life Cycle Assessment)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_assessment",
+        "subtopic": "methodology"
+      }
+    },
+    {
+      "id": "eco_adult_300_2",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "The ecological footprint of Christmas is measured in these standardized units of biologically productive land",
+      "answer": "What are global hectares?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_metrics",
+        "subtopic": "ecological_footprint"
+      }
+    },
+    {
+      "id": "eco_adult_300_3",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This Extended Producer Responsibility scheme makes manufacturers accountable for post-consumer waste",
+      "answer": "What is EPR (Extended Producer Responsibility)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "waste_policy",
+        "subtopic": "producer_responsibility"
+      }
+    },
+    {
+      "id": "eco_adult_300_4",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "Christmas tree decomposition in landfills produces this potent greenhouse gas 25 times stronger than CO2",
+      "answer": "What is methane?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "greenhouse_gases",
+        "subtopic": "methane_emissions"
+      }
+    },
+    {
+      "id": "eco_adult_300_5",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This ISO standard certifies environmental management systems for sustainable holiday product manufacturers",
+      "answer": "What is ISO 14001?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_standards",
+        "subtopic": "certifications"
+      }
+    },
+    {
+      "id": "eco_adult_300_6",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "The embodied energy in manufacturing artificial trees is measured in these kilojoule units",
+      "answer": "What are megajoules (or gigajoules)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "energy_analysis",
+        "subtopic": "embodied_energy"
+      }
+    },
+    {
+      "id": "eco_adult_300_7",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This biodiversity metric measures species richness on sustainable Christmas tree farms",
+      "answer": "What is the Shannon diversity index?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biodiversity",
+        "subtopic": "ecological_metrics"
+      }
+    },
+    {
+      "id": "eco_adult_300_8",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "These persistent organic pollutants from artificial tree manufacturing accumulate in food chains",
+      "answer": "What are POPs (or dioxins)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "toxic_chemicals",
+        "subtopic": "persistent_pollutants"
+      }
+    },
+    {
+      "id": "eco_adult_300_9",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This thermodynamic principle explains why recycling wrapping paper uses less energy than virgin production",
+      "answer": "What is the second law of thermodynamics (or entropy)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling_science",
+        "subtopic": "energy_efficiency"
+      }
+    },
+    {
+      "id": "eco_adult_300_10",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "The eutrophication potential of Christmas tree fertilizers is measured in these phosphate equivalents",
+      "answer": "What are PO4 equivalents?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "water_pollution",
+        "subtopic": "nutrient_loading"
+      }
+    },
+    {
+      "id": "eco_adult_300_11",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This blockchain technology enables transparent tracking of sustainable supply chains for holiday products",
+      "answer": "What is distributed ledger technology (or blockchain)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "supply_chain",
+        "subtopic": "transparency_technology"
+      }
+    },
+    {
+      "id": "eco_adult_300_12",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "Carbon offset programs for holiday shipping invest in these renewable energy certificates",
+      "answer": "What are RECs (Renewable Energy Certificates)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "carbon_offsetting",
+        "subtopic": "renewable_credits"
+      }
+    },
+    {
+      "id": "eco_adult_300_13",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This ecological principle explains why monoculture Christmas tree farms have lower biodiversity",
+      "answer": "What is competitive exclusion (or Gause's principle)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "ecology",
+        "subtopic": "biodiversity_loss"
+      }
+    },
+    {
+      "id": "eco_adult_300_14",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "The albedo effect from artificial white Christmas trees affects indoor temperature through this mechanism",
+      "answer": "What is solar reflection (or radiative forcing)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "energy_efficiency",
+        "subtopic": "thermal_dynamics"
+      }
+    },
+    {
+      "id": "eco_adult_300_15",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "These microplastics from synthetic Christmas decorations are classified as primary or secondary based on this",
+      "answer": "What is their source (or origin)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "plastic_pollution",
+        "subtopic": "microplastic_classification"
+      }
+    },
+    {
+      "id": "eco_adult_300_16",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This economic model values ecosystem services provided by Christmas tree farms including carbon storage",
+      "answer": "What is natural capital accounting?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "ecosystem_valuation"
+      }
+    },
+    {
+      "id": "eco_adult_300_17",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "The Water Footprint Network measures holiday product impacts in these cubic meter units",
+      "answer": "What are liters (or cubic meters)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "water_footprint",
+        "subtopic": "water_accounting"
+      }
+    },
+    {
+      "id": "eco_adult_300_18",
+      "audience": "adults",
+      "difficulty": 300,
+      "question": "This principle from industrial ecology suggests designing products for disassembly and material recovery",
+      "answer": "What is design for environment (or DfE)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainable_design",
+        "subtopic": "industrial_ecology"
+      }
+    },
+    {
+      "id": "eco_teen_400_1",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This international certification program verifies sustainable management of forests where Christmas trees are harvested",
+      "answer": "What is PEFC (Programme for the Endorsement of Forest Certification)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "forest_certification",
+        "subtopic": "international_standards"
+      }
+    },
+    {
+      "id": "eco_teen_400_2",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The concept of planetary boundaries includes this safe operating space for atmospheric CO2 concentration",
+      "answer": "What is 350 ppm (parts per million)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_science",
+        "subtopic": "planetary_boundaries"
+      }
+    },
+    {
+      "id": "eco_teen_400_3",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This environmental justice issue occurs when wealthy neighborhoods over-decorate while burdening shared electrical grids",
+      "answer": "What is energy inequity (or environmental racism)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_justice",
+        "subtopic": "energy_access"
+      }
+    },
+    {
+      "id": "eco_teen_400_4",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "These enzymes produced by fungi break down lignin in composting Christmas trees",
+      "answer": "What are ligninases (or lignin peroxidases)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "composting_science",
+        "subtopic": "biochemistry"
+      }
+    },
+    {
+      "id": "eco_teen_400_5",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The precautionary principle applied to holiday shopping suggests avoiding products containing this class of chemicals",
+      "answer": "What are endocrine disruptors (or PFAS)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "toxic_chemicals",
+        "subtopic": "precautionary_approach"
+      }
+    },
+    {
+      "id": "eco_teen_400_6",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This ecological succession process occurs on abandoned Christmas tree farms over decades",
+      "answer": "What is secondary succession?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "ecology",
+        "subtopic": "ecosystem_recovery"
+      }
+    },
+    {
+      "id": "eco_teen_400_7",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The tragedy of the commons applies to holiday consumption through depletion of these shared resources",
+      "answer": "What are global commons (or atmosphere)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "common_resources"
+      }
+    },
+    {
+      "id": "eco_teen_400_8",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This phenomenon where recycled plastic degrades in quality limits Christmas decoration recyclability",
+      "answer": "What is downcycling?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "recycling",
+        "subtopic": "material_degradation"
+      }
+    },
+    {
+      "id": "eco_teen_400_9",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "Biomimicry in sustainable wrapping paper design mimics this natural structure for strength",
+      "answer": "What is cellulose fiber structure (or plant cell walls)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biomimicry",
+        "subtopic": "material_design"
+      }
+    },
+    {
+      "id": "eco_teen_400_10",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This systems thinking concept explains how small sustainable choices cascade into larger environmental benefits",
+      "answer": "What is positive feedback loops (or multiplier effects)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "systems_thinking",
+        "subtopic": "feedback_mechanisms"
+      }
+    },
+    {
+      "id": "eco_teen_400_11",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The Jevons paradox suggests that energy-efficient LED lights might increase total consumption through this effect",
+      "answer": "What is the rebound effect?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "efficiency_paradox"
+      }
+    },
+    {
+      "id": "eco_teen_400_12",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This soil carbon sequestration process occurs when decomposing Christmas trees form stable organic matter",
+      "answer": "What is humification?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "soil_science",
+        "subtopic": "carbon_storage"
+      }
+    },
+    {
+      "id": "eco_teen_400_13",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "Environmental accounting for holiday waste uses this triple bottom line framework",
+      "answer": "What is people, planet, profit (or TBL)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "sustainability_accounting",
+        "subtopic": "triple_bottom_line"
+      }
+    },
+    {
+      "id": "eco_teen_400_14",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "These phytoremediation species planted after Christmas tree farming remove soil contaminants",
+      "answer": "What are hyperaccumulators?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "soil_remediation",
+        "subtopic": "phytoremediation"
+      }
+    },
+    {
+      "id": "eco_teen_400_15",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The substitution effect in environmental economics occurs when consumers choose this sustainable alternative",
+      "answer": "What are lower-impact products (or eco-friendly substitutes)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "consumer_behavior"
+      }
+    },
+    {
+      "id": "eco_teen_400_16",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This urban heat island mitigation benefit occurs when Christmas tree farms surround cities",
+      "answer": "What is evaporative cooling (or transpiration)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "urban_ecology",
+        "subtopic": "microclimate"
+      }
+    },
+    {
+      "id": "eco_teen_400_17",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The biogeochemical nitrogen cycle is disrupted by this practice in conventional Christmas tree farming",
+      "answer": "What is synthetic fertilizer application?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biogeochemistry",
+        "subtopic": "nitrogen_cycle"
+      }
+    },
+    {
+      "id": "eco_teen_400_18",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This environmental policy instrument makes polluters pay for holiday waste through taxation",
+      "answer": "What is Pigouvian tax (or environmental tax)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_policy",
+        "subtopic": "economic_instruments"
+      }
+    },
+    {
+      "id": "eco_adult_400_1",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The Kaya identity decomposes Christmas carbon emissions into population, GDP, energy intensity, and this factor",
+      "answer": "What is carbon intensity of energy?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_science",
+        "subtopic": "emissions_accounting"
+      }
+    },
+    {
+      "id": "eco_adult_400_2",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "This thermohaline circulation disruption from climate change affects Christmas tree growing zones",
+      "answer": "What is Atlantic Meridional Overturning Circulation (or AMOC)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_change",
+        "subtopic": "ocean_circulation"
+      }
+    },
+    {
+      "id": "eco_adult_400_3",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The Kuznets curve hypothesis suggests environmental impact follows this relationship with economic development",
+      "answer": "What is inverted U-shaped (or initially increases then decreases)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "development_theory"
+      }
+    },
+    {
+      "id": "eco_adult_400_4",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "These halogenated compounds in flame-retardant artificial trees persist in environment as POPs",
+      "answer": "What are polybrominated diphenyl ethers (or PBDEs)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "toxic_chemicals",
+        "subtopic": "flame_retardants"
+      }
+    },
+    {
+      "id": "eco_adult_400_5",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The IPAT equation relates environmental impact to population, affluence, and this technological factor",
+      "answer": "What is technology (or impact per unit of consumption)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_science",
+        "subtopic": "impact_equations"
+      }
+    },
+    {
+      "id": "eco_adult_400_6",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "This trophic cascade effect occurs when Christmas tree monocultures disrupt predator-prey dynamics",
+      "answer": "What is mesopredator release (or trophic downgrading)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "ecology",
+        "subtopic": "food_webs"
+      }
+    },
+    {
+      "id": "eco_adult_400_7",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The ecological stoichiometry of decomposing Christmas trees affects this nutrient cycling ratio",
+      "answer": "What is C:N ratio (carbon to nitrogen)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biogeochemistry",
+        "subtopic": "nutrient_ratios"
+      }
+    },
+    {
+      "id": "eco_adult_400_8",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "This radiative forcing metric measures climate impact per unit mass of greenhouse gas emissions",
+      "answer": "What is Global Warming Potential (or GWP)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_science",
+        "subtopic": "forcing_metrics"
+      }
+    },
+    {
+      "id": "eco_adult_400_9",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The Porter hypothesis suggests stringent environmental regulations drive this type of corporate innovation",
+      "answer": "What is eco-innovation (or green technology)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "regulation_innovation"
+      }
+    },
+    {
+      "id": "eco_adult_400_10",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "These mycorrhizal associations in Christmas tree roots enhance nutrient uptake while sequestering carbon",
+      "answer": "What are ectomycorrhizae?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "soil_ecology",
+        "subtopic": "fungal_symbiosis"
+      }
+    },
+    {
+      "id": "eco_adult_400_11",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The discount rate in environmental economics affects valuation of these long-term sustainability benefits",
+      "answer": "What are future ecosystem services (or intergenerational equity)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "temporal_discounting"
+      }
+    },
+    {
+      "id": "eco_adult_400_12",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "This epigenetic mechanism allows Christmas trees to adapt to climate stress across generations",
+      "answer": "What is DNA methylation?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "genetics",
+        "subtopic": "epigenetics"
+      }
+    },
+    {
+      "id": "eco_adult_400_13",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The Anthropocene Working Group identifies this marker layer of synthetic materials in geological record",
+      "answer": "What is the technofossil layer (or plastic horizon)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "geology",
+        "subtopic": "stratigraphic_markers"
+      }
+    },
+    {
+      "id": "eco_adult_400_14",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "These allelopathic compounds released by decomposing pine needles affect soil chemistry",
+      "answer": "What are terpenes (or phenolic compounds)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "soil_chemistry",
+        "subtopic": "allelopathy"
+      }
+    },
+    {
+      "id": "eco_adult_400_15",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The thermoeconomic analysis of Christmas consumption quantifies this energy-to-GDP ratio",
+      "answer": "What is energy intensity (or EROI)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "ecological_economics",
+        "subtopic": "energy_analysis"
+      }
+    },
+    {
+      "id": "eco_adult_400_16",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "This biogeochemical weathering process is enhanced by acidic compounds from pine needle decomposition",
+      "answer": "What is mineral weathering (or silicate dissolution)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "geochemistry",
+        "subtopic": "weathering_processes"
+      }
+    },
+    {
+      "id": "eco_adult_400_17",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "The social cost of carbon quantifies climate damages in these present-value dollar terms",
+      "answer": "What is dollars per ton of CO2?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "carbon_pricing"
+      }
+    },
+    {
+      "id": "eco_adult_400_18",
+      "audience": "adults",
+      "difficulty": 400,
+      "question": "These ecosystem engineer species create habitat complexity in sustainable Christmas tree farms",
+      "answer": "What are keystone species?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "conservation_biology",
+        "subtopic": "ecosystem_engineering"
+      }
+    },
+    {
+      "id": "eco_teen_500_1",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Holocene thermal maximum provides this paleoclimate analog for understanding Christmas tree range shifts",
+      "answer": "What is Mid-Holocene Warm Period?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "paleoclimatology",
+        "subtopic": "climate_analogs"
+      }
+    },
+    {
+      "id": "eco_teen_500_2",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This metabolic theory scaling law predicts how Christmas tree growth rates change with temperature",
+      "answer": "What is the Metabolic Theory of Ecology (or MTE)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "ecological_theory",
+        "subtopic": "metabolic_scaling"
+      }
+    },
+    {
+      "id": "eco_teen_500_3",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Maximum Sustainable Yield concept applied to Christmas tree harvesting balances extraction with this",
+      "answer": "What is regeneration capacity (or population growth rate)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "resource_management",
+        "subtopic": "sustainable_harvesting"
+      }
+    },
+    {
+      "id": "eco_teen_500_4",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "These soil aggregate stability mechanisms are disrupted by intensive Christmas tree farm machinery",
+      "answer": "What is fungal hyphal networks (or organic matter binding)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "soil_physics",
+        "subtopic": "soil_structure"
+      }
+    },
+    {
+      "id": "eco_teen_500_5",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The endosymbiotic theory explains origin of these organelles conducting photosynthesis in Christmas trees",
+      "answer": "What are chloroplasts?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "cell_biology",
+        "subtopic": "evolution"
+      }
+    },
+    {
+      "id": "eco_teen_500_6",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This game theoretic concept explains why individual rational choices lead to collective environmental degradation",
+      "answer": "What is Nash equilibrium (or prisoner's dilemma)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "game_theory",
+        "subtopic": "cooperation_problems"
+      }
+    },
+    {
+      "id": "eco_teen_500_7",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Redfield ratio governing ocean nutrient cycling has this terrestrial analog in forest ecosystems",
+      "answer": "What is the Reiners ratio (or terrestrial C:N:P)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biogeochemistry",
+        "subtopic": "nutrient_stoichiometry"
+      }
+    },
+    {
+      "id": "eco_teen_500_8",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "These quantum dot LEDs represent next-generation efficiency for Christmas lighting applications",
+      "answer": "What are QLED (or quantum dot light-emitting diodes)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "nanotechnology",
+        "subtopic": "lighting_innovation"
+      }
+    },
+    {
+      "id": "eco_teen_500_9",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Island Biogeography Theory predicts species richness in Christmas tree farm habitat patches using this equation",
+      "answer": "What is S = cA^z (species-area relationship)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "conservation_biology",
+        "subtopic": "fragmentation_theory"
+      }
+    },
+    {
+      "id": "eco_teen_500_10",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This stochastic demographic process threatens small populations in fragmented Christmas tree farm landscapes",
+      "answer": "What is genetic drift (or Allee effects)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "population_genetics",
+        "subtopic": "small_populations"
+      }
+    },
+    {
+      "id": "eco_teen_500_11",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Arrhenius equation describes how these soil microbial decomposition rates respond to temperature",
+      "answer": "What is exponential increase (or Q10 temperature coefficient)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "soil_microbiology",
+        "subtopic": "temperature_kinetics"
+      }
+    },
+    {
+      "id": "eco_teen_500_12",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This mechanism of horizontal gene transfer spreads pesticide resistance among Christmas tree farm soil bacteria",
+      "answer": "What is conjugation (or plasmid transfer)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "microbiology",
+        "subtopic": "gene_transfer"
+      }
+    },
+    {
+      "id": "eco_teen_500_13",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Coase theorem suggests pollution problems can be solved through this mechanism without regulation",
+      "answer": "What is property rights assignment (or bargaining)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "environmental_economics",
+        "subtopic": "institutional_solutions"
+      }
+    },
+    {
+      "id": "eco_teen_500_14",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "These coherent acoustic phonons in cellulose nanocrystals enable biodegradable packaging applications",
+      "answer": "What are phonon modes (or vibrational states)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "materials_science",
+        "subtopic": "nanocellulose"
+      }
+    },
+    {
+      "id": "eco_teen_500_15",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Lotka-Volterra equations model these population dynamics in Christmas tree farm pest systems",
+      "answer": "What are predator-prey oscillations?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "population_ecology",
+        "subtopic": "mathematical_models"
+      }
+    },
+    {
+      "id": "eco_teen_500_16",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This spectroscopic technique identifies microplastic contamination in recycled holiday materials",
+      "answer": "What is Raman spectroscopy (or FTIR)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "analytical_chemistry",
+        "subtopic": "polymer_identification"
+      }
+    },
+    {
+      "id": "eco_teen_500_17",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The dilution effect hypothesis explains how Christmas tree farm biodiversity affects this disease transmission",
+      "answer": "What is vector-borne disease prevalence?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "disease_ecology",
+        "subtopic": "biodiversity_health"
+      }
+    },
+    {
+      "id": "eco_teen_500_18",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "These topological insulators could revolutionize energy-efficient Christmas lighting through quantum effects",
+      "answer": "What are quantum Hall systems (or topological materials)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "quantum_physics",
+        "subtopic": "condensed_matter"
+      }
+    },
+    {
+      "id": "eco_adult_500_1",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The Gibbs free energy minimization principle governs this thermodynamic equilibrium in biodegradable polymer decomposition",
+      "answer": "What is chemical equilibrium (or spontaneous degradation)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "thermodynamics",
+        "subtopic": "polymer_chemistry"
+      }
+    },
+    {
+      "id": "eco_adult_500_2",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "This eigenvector centrality measure in network ecology identifies keystone species in Christmas tree farm food webs",
+      "answer": "What is PageRank (or centrality metric)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "network_ecology",
+        "subtopic": "graph_theory"
+      }
+    },
+    {
+      "id": "eco_adult_500_3",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The Stern Review quantified climate damages using this integrated assessment model framework",
+      "answer": "What is PAGE (Policy Analysis of the Greenhouse Effect)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_economics",
+        "subtopic": "integrated_assessment"
+      }
+    },
+    {
+      "id": "eco_adult_500_4",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "These prion-like self-propagating protein aggregates affect lignin degradation in composting systems",
+      "answer": "What are amyloid fibrils?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biochemistry",
+        "subtopic": "protein_structures"
+      }
+    },
+    {
+      "id": "eco_adult_500_5",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The Lindeman efficiency describing energy transfer between trophic levels averages this percentage",
+      "answer": "What is 10%?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "ecosystem_ecology",
+        "subtopic": "energy_flow"
+      }
+    },
+    {
+      "id": "eco_adult_500_6",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "This critical point phenomenon in percolation theory models spread of sustainable practices through social networks",
+      "answer": "What is phase transition (or percolation threshold)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "complex_systems",
+        "subtopic": "social_dynamics"
+      }
+    },
+    {
+      "id": "eco_adult_500_7",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The maximum power principle from biophysical economics explains this optimization in ecosystem development",
+      "answer": "What is emergy maximization (or power density)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "biophysical_economics",
+        "subtopic": "energy_theory"
+      }
+    },
+    {
+      "id": "eco_adult_500_8",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "These non-equilibrium thermodynamic structures characterize self-organization in composting microbial communities",
+      "answer": "What are dissipative structures (or Prigogine structures)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "thermodynamics",
+        "subtopic": "far_from_equilibrium"
+      }
+    },
+    {
+      "id": "eco_adult_500_9",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The Nordhaus DICE model integrates climate and economy using this Ramsey growth framework",
+      "answer": "What is optimal growth theory (or dynamic optimization)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_economics",
+        "subtopic": "optimization_models"
+      }
+    },
+    {
+      "id": "eco_adult_500_10",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "This quantum tunneling mechanism enables low-temperature enzymatic reactions during winter composting",
+      "answer": "What is proton tunneling?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "quantum_biology",
+        "subtopic": "enzyme_catalysis"
+      }
+    },
+    {
+      "id": "eco_adult_500_11",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The Ostrom framework for common-pool resource governance identifies these institutional design principles",
+      "answer": "What are polycentricity (or nested enterprises)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "institutional_economics",
+        "subtopic": "commons_governance"
+      }
+    },
+    {
+      "id": "eco_adult_500_12",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "These topological defects in polymer crystallinity affect degradation kinetics of biodegradable packaging",
+      "answer": "What are grain boundaries (or dislocations)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "polymer_physics",
+        "subtopic": "crystallography"
+      }
+    },
+    {
+      "id": "eco_adult_500_13",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The Resource Depletion Hypothesis from evolutionary ecology predicts this pattern in Christmas tree nutrient uptake",
+      "answer": "What is R* theory (or resource competition)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "theoretical_ecology",
+        "subtopic": "competition_theory"
+      }
+    },
+    {
+      "id": "eco_adult_500_14",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "This stochastic process describing genetic drift follows the Fokker-Planck equation in population genetics",
+      "answer": "What is the Wright-Fisher diffusion?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "population_genetics",
+        "subtopic": "diffusion_models"
+      }
+    },
+    {
+      "id": "eco_adult_500_15",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The exergy analysis of recycling systems quantifies this thermodynamic quality measure",
+      "answer": "What is available work (or useful energy)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "thermodynamics",
+        "subtopic": "exergy_analysis"
+      }
+    },
+    {
+      "id": "eco_adult_500_16",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "These spinodal decomposition dynamics govern phase separation in biodegradable polymer blends",
+      "answer": "What is Cahn-Hilliard kinetics?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "materials_science",
+        "subtopic": "phase_transitions"
+      }
+    },
+    {
+      "id": "eco_adult_500_17",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "The Marginal Abatement Cost Curve framework ranks carbon reduction strategies by this economic metric",
+      "answer": "What is cost per ton CO2 avoided?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "climate_economics",
+        "subtopic": "mitigation_analysis"
+      }
+    },
+    {
+      "id": "eco_adult_500_18",
+      "audience": "adults",
+      "difficulty": 500,
+      "question": "This renormalization group approach from statistical mechanics models critical transitions in ecosystems",
+      "answer": "What is scaling theory (or universality class)?",
+      "category": "christmas_environmental",
+      "metadata": {
+        "topic": "theoretical_physics",
+        "subtopic": "critical_phenomena"
+      }
+    }
+  ],
+  "no_humanity": [
+    {
+      "clue": "Tiger King's home during lockdown",
+      "correctQuestion": "What is Netflix?",
+      "value": 200
+    },
+    {
+      "clue": "Where Christmas tree farms went to die",
+      "correctQuestion": "What is Amazon?",
+      "value": 200
+    },
+    {
+      "clue": "The War on Christmas battleground",
+      "correctQuestion": "What is Starbucks?",
+      "value": 200
+    },
+    {
+      "clue": "Gen Z's climate change education platform",
+      "correctQuestion": "What is TikTok?",
+      "value": 200
+    },
+    {
+      "clue": "The millennial Christmas miracle",
+      "correctQuestion": "What is a house?",
+      "value": 200
+    },
+    {
+      "clue": "What ruined Christmas 2020",
+      "correctQuestion": "What is COVID-19?",
+      "value": 200
+    },
+    {
+      "clue": "Eco-fraud billionaire burning desert water",
+      "correctQuestion": "Who is Elon Musk?",
+      "value": 400
+    },
+    {
+      "clue": "Annual e-waste generator parents buy annually",
+      "correctQuestion": "What is an iPhone?",
+      "value": 400
+    },
+    {
+      "clue": "Fast fashion sweatshop Christmas headquarters",
+      "correctQuestion": "What is Shein?",
+      "value": 400
+    },
+    {
+      "clue": "Rich people's holiday weight loss cheat",
+      "correctQuestion": "What is Ozempic?",
+      "value": 400
+    },
+    {
+      "clue": "Poverty wage Christmas shopping delivery service",
+      "correctQuestion": "What is DoorDash?",
+      "value": 400
+    },
+    {
+      "clue": "What murdered Toys R Us",
+      "correctQuestion": "What is Amazon?",
+      "value": 400
+    },
+    {
+      "clue": "Who defrosts every November for millions",
+      "correctQuestion": "Who is Mariah Carey?",
+      "value": 600
+    },
+    {
+      "clue": "Where you stalk your ex's spending",
+      "correctQuestion": "What is Venmo?",
+      "value": 600
+    },
+    {
+      "clue": "Where eco-shopping becomes $200 waste",
+      "correctQuestion": "What is Target?",
+      "value": 600
+    },
+    {
+      "clue": "Christmas tree surveillance capitalist",
+      "correctQuestion": "What is Alexa?",
+      "value": 600
+    },
+    {
+      "clue": "What killed Christmas worse than climate",
+      "correctQuestion": "What is capitalism?",
+      "value": 600
+    },
+    {
+      "clue": "Planet-killing shipping for impatient shoppers",
+      "correctQuestion": "What is overnight delivery?",
+      "value": 600
+    },
+    {
+      "clue": "Boomer climate denial Christmas photo platform",
+      "correctQuestion": "What is Facebook?",
+      "value": 800
+    },
+    {
+      "clue": "Christmas dinner ruiner 2016-2024",
+      "correctQuestion": "What is Trump?",
+      "value": 800
+    },
+    {
+      "clue": "Gen Z's actual Christmas wish",
+      "correctQuestion": "What is affordable rent?",
+      "value": 800
+    },
+    {
+      "clue": "Packaging waste disguised as self-care",
+      "correctQuestion": "What is Ipsy (or Birchbox)?",
+      "value": 800
+    },
+    {
+      "clue": "Why Christmas lights never get recycled",
+      "correctQuestion": "What is Instagram?",
+      "value": 800
+    },
+    {
+      "clue": "2am Styrofoam landfill creator",
+      "correctQuestion": "What is McDonald's?",
+      "value": 800
+    },
+    {
+      "clue": "Christmas dinner ender 2020-2023",
+      "correctQuestion": "What is the COVID vaccine?",
+      "value": 1000
+    },
+    {
+      "clue": "Overpriced crafts saving the planet allegedly",
+      "correctQuestion": "What is Etsy?",
+      "value": 1000
+    },
+    {
+      "clue": "Mariah's infinite loop server energy destroyer",
+      "correctQuestion": "What is Spotify?",
+      "value": 1000
+    },
+    {
+      "clue": "50 wrapping paper rolls nobody needs",
+      "correctQuestion": "What is Costco?",
+      "value": 1000
+    },
+    {
+      "clue": "What replaced tree farms",
+      "correctQuestion": "What is a fake tree?",
+      "value": 1000
+    },
+    {
+      "clue": "Hypocrite environmentalist dating app",
+      "correctQuestion": "What is Tinder?",
+      "value": 1000
+    },
+    {
+      "clue": "Unboxing consumerism pressure platform",
+      "correctQuestion": "What is YouTube?",
+      "value": 1000
+    },
+    {
+      "clue": "Wasteful billionaire eco-hypocrite family",
+      "correctQuestion": "Who are the Kardashians?",
+      "value": 1000
+    },
+    {
+      "clue": "Sea turtle strangling burrito wrapper",
+      "correctQuestion": "What is Uber Eats?",
+      "value": 1000
+    },
+    {
+      "clue": "Impossible Christmas miracle for sustainable shopping",
+      "correctQuestion": "What is student loan forgiveness?",
+      "value": 1000
+    },
+    {
+      "clue": "Tech bro eco-lecture mobile ecosystem destroyer",
+      "correctQuestion": "What is Tesla?",
+      "value": 1000
+    },
+    {
+      "clue": "2020's fake Christmas party platform",
+      "correctQuestion": "What is Zoom?",
+      "value": 1000
+    }
+  ]
+}

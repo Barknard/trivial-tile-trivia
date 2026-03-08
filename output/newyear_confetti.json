@@ -1,0 +1,324 @@
+{
+  "category": "New Year: Confetti, Streamers & Party Decorations",
+  "regular_clues": [
+    {
+      "clue": "Colorful paper pieces thrown at celebrations",
+      "correctQuestion": "What is confetti?",
+      "value": 100
+    },
+    {
+      "clue": "Ribbon-like streamers that dangle from ceilings",
+      "correctQuestion": "What are streamers?",
+      "value": 100
+    },
+    {
+      "clue": "The countdown moment when confetti cannons explode",
+      "correctQuestion": "What is midnight on New Year's Eve?",
+      "value": 100
+    },
+    {
+      "clue": "Decorative balloons filled with helium or air",
+      "correctQuestion": "What are balloons?",
+      "value": 100
+    },
+    {
+      "clue": "Paper strips that curl when pulled with scissors",
+      "correctQuestion": "What are ribbon curls?",
+      "value": 100
+    },
+    {
+      "clue": "A device that shoots confetti into the air",
+      "correctQuestion": "What is a confetti cannon?",
+      "value": 200
+    },
+    {
+      "clue": "Metallic confetti shaped like small stars or circles",
+      "correctQuestion": "What is sequin confetti?",
+      "value": 200
+    },
+    {
+      "clue": "Decorative paper chains linked together",
+      "correctQuestion": "What are paper garlands?",
+      "value": 200
+    },
+    {
+      "clue": "Inflatable decorations shaped like numbers for the new year",
+      "correctQuestion": "What are giant number balloons?",
+      "value": 200
+    },
+    {
+      "clue": "Glitter-covered confetti that sparkles under light",
+      "correctQuestion": "What is glitter confetti?",
+      "value": 200
+    },
+    {
+      "clue": "The traditional song played as confetti falls at midnight",
+      "correctQuestion": "What is Auld Lang Syne?",
+      "value": 200
+    },
+    {
+      "clue": "Hanging decorations that spin and reflect light",
+      "correctQuestion": "What are disco balls?",
+      "value": 200
+    },
+    {
+      "clue": "Confetti made from shredded tissue paper or mylar",
+      "correctQuestion": "What are streamers or tissue confetti?",
+      "value": 200
+    },
+    {
+      "clue": "Colorful paper hats worn at New Year's parties",
+      "correctQuestion": "What are party hats?",
+      "value": 200
+    },
+    {
+      "clue": "The messy cleanup after a confetti-filled celebration",
+      "correctQuestion": "What is sweeping up confetti?",
+      "value": 200
+    },
+    {
+      "clue": "Large fabric backdrops decorated with metallic designs",
+      "correctQuestion": "What are party backdrops?",
+      "value": 300
+    },
+    {
+      "clue": "Biodegradable confetti made from flower petals or leaves",
+      "correctQuestion": "What is eco-friendly confetti?",
+      "value": 300
+    },
+    {
+      "clue": "Hanging foil strands that create a curtain effect",
+      "correctQuestion": "What are tinsel streamers?",
+      "value": 300
+    },
+    {
+      "clue": "LED lights used to decorate party spaces",
+      "correctQuestion": "What are string lights or LED lights?",
+      "value": 300
+    },
+    {
+      "clue": "A tradition of throwing confetti at celebrations in Italy and Spain",
+      "correctQuestion": "What is using colorful paper for parties?",
+      "value": 300
+    },
+    {
+      "clue": "Confetti cannons that are hand-held or placed on tables",
+      "correctQuestion": "What are party poppers?",
+      "value": 300
+    },
+    {
+      "clue": "The paper tubes inside a confetti cannon",
+      "correctQuestion": "What is the projectile chamber?",
+      "value": 300
+    },
+    {
+      "clue": "Foil balloons shaped like champagne bottles or clocks",
+      "correctQuestion": "What are themed foil balloons?",
+      "value": 300
+    },
+    {
+      "clue": "Decorations hung from rafters or ceiling beams",
+      "correctQuestion": "What are ceiling decorations?",
+      "value": 400
+    },
+    {
+      "clue": "The fabric or paper material used for party streamers",
+      "correctQuestion": "What is crepe paper?",
+      "value": 400
+    },
+    {
+      "clue": "Confetti that glows under ultraviolet or black light",
+      "correctQuestion": "What is glow-in-the-dark confetti?",
+      "value": 400
+    },
+    {
+      "clue": "Hand-tossed paper pieces that float slowly downward",
+      "correctQuestion": "What is lightweight confetti?",
+      "value": 400
+    },
+    {
+      "clue": "A decorative technique layering streamers in waves across walls",
+      "correctQuestion": "What is a streamer swag or festoon?",
+      "value": 400
+    },
+    {
+      "clue": "The adhesive used to stick streamers and decorations",
+      "correctQuestion": "What is painter's tape or removable adhesive?",
+      "value": 400
+    },
+    {
+      "clue": "Decorative centerpieces combining balloons and streamers",
+      "correctQuestion": "What is a balloon garland or streamer bouquet?",
+      "value": 400
+    }
+  ],
+  "no_humanity": [
+    {
+      "clue": "Where confetti really comes from",
+      "correctQuestion": "What is a sweatshop in China?",
+      "value": 200
+    },
+    {
+      "clue": "What your vacuum finds three months later",
+      "correctQuestion": "What is confetti?",
+      "value": 200
+    },
+    {
+      "clue": "The reason your landlord charged you extra",
+      "correctQuestion": "What is glitter confetti?",
+      "value": 200
+    },
+    {
+      "clue": "How much money you spend on decorations you use once",
+      "correctQuestion": "What is $147 at Party City?",
+      "value": 200
+    },
+    {
+      "clue": "Party decorations millennials actually want",
+      "correctQuestion": "What is Instagram-able backdrops?",
+      "value": 200
+    },
+    {
+      "clue": "The confetti style Gen Z pretends to hate but uses anyway",
+      "correctQuestion": "What is glitter everything?",
+      "value": 200
+    },
+    {
+      "clue": "How your apartment looks the next morning after confetti falls",
+      "correctQuestion": "What is a disaster zone?",
+      "value": 400
+    },
+    {
+      "clue": "The New Year's decoration that never comes down",
+      "correctQuestion": "What are streamers?",
+      "value": 400
+    },
+    {
+      "clue": "What you find stuck to you at 3am after the party",
+      "correctQuestion": "What is confetti?",
+      "value": 400
+    },
+    {
+      "clue": "The platform where people buy party decorations at 11:45pm on NYE",
+      "correctQuestion": "What is Amazon Prime?",
+      "value": 400
+    },
+    {
+      "clue": "Party decorations that look fancy until the lights come on",
+      "correctQuestion": "What are cheap streamers from the dollar store?",
+      "value": 400
+    },
+    {
+      "clue": "What ends up everywhere except where you actually needed it",
+      "correctQuestion": "What is confetti?",
+      "value": 400
+    },
+    {
+      "clue": "The reason you're still finding decorations in May",
+      "correctQuestion": "What is your lack of planning skills?",
+      "value": 400
+    },
+    {
+      "clue": "How stores describe cheap plastic confetti",
+      "correctQuestion": "What is 'shimmering party magic'?",
+      "value": 400
+    },
+    {
+      "clue": "The TikTok trend that made confetti mandatory",
+      "correctQuestion": "What is the New Year countdown aesthetic?",
+      "value": 400
+    },
+    {
+      "clue": "What your roommate finds in their hair for weeks",
+      "correctQuestion": "What is glitter?",
+      "value": 600
+    },
+    {
+      "clue": "The streaming service hosting the New Year's Eve celebration your parents watch",
+      "correctQuestion": "What is ABC or Times Square coverage?",
+      "value": 600
+    },
+    {
+      "clue": "Party decorations purchased on January 2nd at 75% off",
+      "correctQuestion": "What are last-minute clearance streamers?",
+      "value": 600
+    },
+    {
+      "clue": "Why the New Year's party looked worse than you planned",
+      "correctQuestion": "What is being too drunk to decorate properly?",
+      "value": 600
+    },
+    {
+      "clue": "The amount of confetti actual NYE events use vs what party stores sell",
+      "correctQuestion": "What is 1% actual confetti vs 99% waste?",
+      "value": 600
+    },
+    {
+      "clue": "How party decorations at luxury clubs differ from college dorms",
+      "correctQuestion": "What is the price tag is 100x higher?",
+      "value": 600
+    },
+    {
+      "clue": "The decoration that makes your cat act insane",
+      "correctQuestion": "What are metallic streamers?",
+      "value": 600
+    },
+    {
+      "clue": "What your apartment complex sent an email about after NYE",
+      "correctQuestion": "What is cleaning up confetti?",
+      "value": 600
+    },
+    {
+      "clue": "The real environmental cost of New Year's confetti",
+      "correctQuestion": "What is tons of plastic waste?",
+      "value": 600
+    },
+    {
+      "clue": "Why your date was unimpressed with your decorating",
+      "correctQuestion": "What is you used the same streamers since 2019?",
+      "value": 800
+    },
+    {
+      "clue": "The market Times Square uses vs what party stores sell",
+      "correctQuestion": "What is biodegradable paper confetti vs microplastics?",
+      "value": 800
+    },
+    {
+      "clue": "How NYC and your apartment's confetti traditions differ",
+      "correctQuestion": "What is they use tons, you use sad streamer scraps?",
+      "value": 800
+    },
+    {
+      "clue": "The algorithm that decides what confetti trends on TikTok",
+      "correctQuestion": "What is whatever looks most expensive?",
+      "value": 800
+    },
+    {
+      "clue": "What Office Depot thinks you need to celebrate New Year's",
+      "correctQuestion": "What is $200 worth of party supplies?",
+      "value": 800
+    },
+    {
+      "clue": "The true cost of your Instagram-worthy New Year's setup",
+      "correctQuestion": "What is your entire January budget?",
+      "value": 1000
+    },
+    {
+      "clue": "Why you swore off confetti but will buy it again next year",
+      "correctQuestion": "What is peer pressure and FOMO?",
+      "value": 1000
+    }
+  ],
+  "source_notes": {
+    "style": "CAH (Cards Against Humanity) format - mainstream references only",
+    "regular_clues": "30 trivia questions about confetti, streamers, and New Year's decorations",
+    "no_humanity_clues": "30 dark humor clues following CAH_STYLE_GUIDE_2025.md principles",
+    "principles_applied": [
+      "Mainstream cultural references (Amazon, TikTok, Instagram, Target, Party City)",
+      "Short, punchy phrasing (average 4-6 words)",
+      "Contemporary 2000-2025 cultural touchstones",
+      "Dark humor that makes logical sense (not random)",
+      "References accessible to non-Reddit users"
+    ]
+  }
+}

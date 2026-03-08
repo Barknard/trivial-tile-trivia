@@ -1,0 +1,1833 @@
+{
+  "category": "Holiday Shopping",
+  "category_id": "christmas_economics",
+  "description": "Test your knowledge of Black Friday deals, retail traditions, holiday spending habits, consumer economics, and budgeting strategies during the festive shopping season",
+  "total_questions": 180,
+  "difficulty_levels": {
+    "easy": 60,
+    "medium": 60,
+    "hard": 60
+  },
+  "target_audiences": ["teenagers", "adults"],
+  "questions": [
+    {
+      "id": "cs_easy_teen_001",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This day, occurring the Friday after Thanksgiving, marks the unofficial start of the Christmas shopping season",
+      "answer": "What is Black Friday?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_002",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This online shopping event happens on the Monday following Thanksgiving weekend",
+      "answer": "What is Cyber Monday?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_003",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This giant online retailer founded by Jeff Bezos sees massive holiday traffic",
+      "answer": "What is Amazon?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_004",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This payment service lets you split purchases into 4 interest-free payments",
+      "answer": "What is Afterpay (or Klarna)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_005",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This type of card with a specific dollar amount loaded on it makes a popular gift",
+      "answer": "What is a gift card?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_006",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This percentage off your purchase is also known as a discount",
+      "answer": "What is a sale?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_007",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This French luxury brand with interlocking C's is a dream gift for many shoppers",
+      "answer": "What is Chanel?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_008",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This Apple product line of smartphones is consistently among the most gifted items",
+      "answer": "What is the iPhone?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_009",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This term describes when stores reduce prices to clear out inventory",
+      "answer": "What is a clearance sale?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_010",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This digital code entered at checkout gives you a discount online",
+      "answer": "What is a promo code (or coupon code)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_011",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This mall retailer Victoria's Secret is famous for these semi-annual events",
+      "answer": "What are sales?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_012",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This gaming console from Sony is a highly sought-after holiday gift",
+      "answer": "What is PlayStation (or PS5)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_013",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This Microsoft gaming console competes with PlayStation",
+      "answer": "What is Xbox?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_014",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This retail giant with a red bullseye logo offers big Black Friday deals",
+      "answer": "What is Target?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_015",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This payment method requires a PIN and deducts money directly from your bank account",
+      "answer": "What is a debit card?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_016",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This athletic brand with the swoosh logo is popular for gift-giving",
+      "answer": "What is Nike?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_017",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This list you make before shopping helps you stay organized and on budget",
+      "answer": "What is a shopping list?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_018",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This policy allows you to bring items back to the store for a refund",
+      "answer": "What is a return policy?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_019",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This financial limit you set helps prevent overspending during the holidays",
+      "answer": "What is a budget?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_020",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This December 25th holiday is the biggest shopping season of the year",
+      "answer": "What is Christmas?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_021",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This wireless earbuds product from Apple are a popular stocking stuffer",
+      "answer": "What are AirPods?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_022",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This beauty retailer Sephora offers this tier program for loyal shoppers",
+      "answer": "What is a rewards program (or loyalty program)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_023",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This tax added at checkout increases your final price",
+      "answer": "What is sales tax?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_024",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This makeup brand founded by Rihanna is called Fenty this",
+      "answer": "What is Beauty?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_025",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This fast-fashion retailer from Sweden is known for affordable trendy clothing",
+      "answer": "What is H&M?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_026",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This streaming service subscription makes a popular gift at around $10-15 per month",
+      "answer": "What is Netflix (or Spotify, Disney+)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_027",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This Spanish fast-fashion brand is pronounced 'zah-rah'",
+      "answer": "What is Zara?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_028",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This purchase protection plan extends beyond the manufacturer's warranty",
+      "answer": "What is an extended warranty (or protection plan)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_029",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This cosmetics store Ulta offers this type of shopping experience online and in-store",
+      "answer": "What is omnichannel (or hybrid)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_teen_030",
+      "difficulty": "easy",
+      "audience": "teenagers",
+      "value": 200,
+      "question": "This shipping speed gets your package to you the very next day",
+      "answer": "What is overnight (or next-day) shipping?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_001",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This doorbuster shopping day after Thanksgiving got its name from stores' profit margins going from red to this color",
+      "answer": "What is Black Friday?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_002",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This acronym BOGO means you get two items but pay for only one",
+      "answer": "What is Buy One Get One (Free)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_003",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This membership warehouse club requires an annual fee but offers bulk discounts",
+      "answer": "What is Costco (or Sam's Club)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_004",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This small business shopping day occurs on the Saturday after Thanksgiving",
+      "answer": "What is Small Business Saturday?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_005",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This charitable movement on the Tuesday after Thanksgiving encourages giving instead of shopping",
+      "answer": "What is Giving Tuesday?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_006",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This final date for retailers to earn revenue ends on December 24th or 25th",
+      "answer": "What is the holiday shopping deadline?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_007",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This Amazon membership program offers free two-day shipping for an annual fee",
+      "answer": "What is Amazon Prime?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_008",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This type of interest rate on credit cards can reach 20-30% if you carry a balance",
+      "answer": "What is APR (Annual Percentage Rate)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_009",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This online payment platform founded by Elon Musk lets you send money using email",
+      "answer": "What is PayPal?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_010",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This retail strategy prices items at $9.99 instead of $10 to appear cheaper",
+      "answer": "What is psychological pricing (or charm pricing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_011",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This four-letter acronym describes the retail traffic on Black Friday",
+      "answer": "What is BUSY (or RUSH)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_012",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This cashback browser extension automatically finds coupon codes at checkout",
+      "answer": "What is Honey (or Rakuten)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_013",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This post-Christmas shopping day on December 26th is huge in Commonwealth countries",
+      "answer": "What is Boxing Day?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_014",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This consumer price metric tracked by the Bureau of Labor Statistics measures inflation",
+      "answer": "What is CPI (Consumer Price Index)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_015",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This retail apocalypse term describes stores closing due to online competition",
+      "answer": "What is brick-and-mortar decline?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_016",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This holiday spending metric is closely watched by economists to gauge consumer confidence",
+      "answer": "What is retail sales (or consumer spending)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_017",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This type of fraud using stolen credit card information spikes during the holidays",
+      "answer": "What is identity theft (or credit card fraud)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_018",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This envelope budgeting system uses physical cash for different spending categories",
+      "answer": "What is the envelope method (or cash envelope system)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_019",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This delivery service option lets you pick up online orders at the store for free",
+      "answer": "What is BOPIS (Buy Online Pick-up In Store)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_020",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This economic quarter including the holidays is Q4, ending on this date",
+      "answer": "What is December 31st?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_021",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This mobile payment system from Apple lets you pay with your phone",
+      "answer": "What is Apple Pay?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_022",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This credit score range of 300-850 determines your loan approval odds",
+      "answer": "What is a FICO score?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_023",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This December shopping rush is called this 'super' Saturday before Christmas",
+      "answer": "What is Super Saturday (or Panic Saturday)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_024",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This layaway alternative lets you pay in installments but take the item home immediately",
+      "answer": "What is buy now pay later (BNPL)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_025",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This retail metric measures sales per square foot of store space",
+      "answer": "What is sales density (or revenue per square foot)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_026",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This department store chain filed for bankruptcy in 2020 after 125 years",
+      "answer": "What is JCPenney?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_027",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This contactless payment technology uses radio waves and is abbreviated NFC",
+      "answer": "What is Near Field Communication?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_028",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This Chinese shopping holiday on November 11th is called Singles' Day or this",
+      "answer": "What is 11.11 (or Double 11)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_029",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This regressive tax disproportionately affects lower-income holiday shoppers",
+      "answer": "What is sales tax?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_easy_adult_030",
+      "difficulty": "easy",
+      "audience": "adults",
+      "value": 200,
+      "question": "This subscription model charges customers monthly instead of one-time purchases",
+      "answer": "What is a subscription service (or recurring revenue)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_001",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This phenomenon where limited-time deals create urgency is called FOMO, meaning this",
+      "answer": "What is Fear Of Missing Out?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_002",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This retail tactic places impulse-buy items near the checkout to encourage last-minute purchases",
+      "answer": "What is point-of-sale marketing (or checkout merchandising)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_003",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This economics term describes when you spend more because you're using a credit card versus cash",
+      "answer": "What is the cashless effect (or credit card premium)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_004",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This toy shopping frenzy in 1996 involved parents fighting over this red Muppet",
+      "answer": "Who is Tickle Me Elmo?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_005",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This percentage of holiday shoppers start before Halloween has grown to over 40%",
+      "answer": "What are early shoppers (or early birds)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_006",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This pricing strategy charges different customers different prices based on their willingness to pay",
+      "answer": "What is dynamic pricing (or price discrimination)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_007",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This Swedish payment app Klarna offers 'pay in 4' using this business model abbreviation",
+      "answer": "What is BNPL (Buy Now Pay Later)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_008",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This amount that the average American spends on holiday gifts is around $1,000 per person",
+      "answer": "What is holiday spending (or gift budget)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_009",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This cognitive bias makes you value items more highly simply because you own them",
+      "answer": "What is the endowment effect?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_010",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This term describes fake discounts where the 'original' price was never actually charged",
+      "answer": "What is artificial inflation (or phantom pricing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_011",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This resale platform lets you buy and sell secondhand designer items authenticated by experts",
+      "answer": "What is The RealReal (or Vestiaire Collective, Rebag)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_012",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This minimum order amount is often required to qualify for free shipping, typically $25-50",
+      "answer": "What is a shipping threshold (or minimum purchase)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_013",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This type of shopping cart software tracks items you want to buy but haven't purchased yet",
+      "answer": "What is an online shopping cart (or wish list)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_014",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This economic principle states that as prices drop, demand increases during Black Friday sales",
+      "answer": "What is the law of demand?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_015",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This return fraud scheme involves wearing clothes with tags on and returning them after use",
+      "answer": "What is wardrobing?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_016",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This social commerce feature on Instagram lets you shop directly from posts and stories",
+      "answer": "What is Instagram Shopping (or shoppable posts)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_017",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This gamification technique gives you points or miles for purchases to encourage loyalty",
+      "answer": "What is a rewards program (or points system)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_018",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This scarcity principle makes limited-edition sneaker drops sell out in seconds",
+      "answer": "What is artificial scarcity (or limited supply)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_019",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This Chinese e-commerce giant Alibaba runs the world's largest shopping event on 11/11",
+      "answer": "What is Singles' Day (or Double 11)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_020",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This marketing tactic uses countdown timers to create urgency for flash sales",
+      "answer": "What is scarcity marketing (or urgency tactics)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_021",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This peer-to-peer payment app owned by PayPal lets friends split costs using Venmo",
+      "answer": "What is Venmo?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_022",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This environmental movement encourages thrifting and secondhand shopping on Black Friday",
+      "answer": "What is Buy Nothing Day (or sustainable shopping)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_023",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This bot software automatically purchases limited-release items faster than humans can",
+      "answer": "What are sneaker bots (or purchase bots)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_024",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This financial literacy term means spending money on experiences rather than material goods",
+      "answer": "What is experiential consumption?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_025",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This retail strategy of 'anchoring' shows a high original price to make the sale price seem better",
+      "answer": "What is price anchoring (or reference pricing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_026",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This phenomenon where stores run out of popular items is called this type of shortage",
+      "answer": "What is stock-out (or inventory shortage)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_027",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This subscription box service delivers curated clothing items monthly for a styling fee",
+      "answer": "What is Stitch Fix (or Trunk Club)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_028",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This hidden cost in online shopping includes shipping, taxes, and fees added at checkout",
+      "answer": "What are total landed costs (or final price)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_029",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This resale market for collectible sneakers is estimated to be worth $6 billion annually",
+      "answer": "What is the sneaker resale market (or sneakerhead economy)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_teen_030",
+      "difficulty": "medium",
+      "audience": "teenagers",
+      "value": 400,
+      "question": "This percentage of shopping carts are abandoned online, typically around 70%",
+      "answer": "What is cart abandonment rate?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_001",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This consumer protection law requires retailers to honor advertised prices and prevents bait-and-switch",
+      "answer": "What is truth in advertising (or FTC regulations)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_002",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This economic indicator measuring total U.S. holiday sales reached $936 billion in 2023",
+      "answer": "What is holiday retail spending (or seasonal sales)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_003",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This budgeting rule allocates 50% to needs, 30% to wants, and 20% to savings",
+      "answer": "What is the 50/30/20 rule?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_004",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This credit card feature offers 1-5% back on purchases, popular during holiday shopping",
+      "answer": "What are cashback rewards?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_005",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This inventory management strategy keeps 'just enough' stock to minimize warehouse costs",
+      "answer": "What is Just-In-Time (JIT) inventory?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_006",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This retail metric comparing this year's sales to last year's is abbreviated YoY",
+      "answer": "What is Year-over-Year growth?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_007",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This consumer debt reaches its annual peak in January after holiday shopping, averaging $6,000",
+      "answer": "What is credit card debt?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_008",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This shipping cut-off date for USPS Ground is typically December 17-18 for Christmas delivery",
+      "answer": "What is the shipping deadline?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_009",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This pricing algorithm adjusts prices in real-time based on demand, competition, and inventory",
+      "answer": "What is algorithmic pricing (or dynamic pricing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_010",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This retail strategy offers 0% APR financing for 12-24 months on large purchases",
+      "answer": "What is deferred interest (or promotional financing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_011",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This economic theory explains why discounted luxury goods still signal status despite being on sale",
+      "answer": "What is conspicuous consumption (or Veblen effect)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_012",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This fulfillment model where retailers ship directly from manufacturers is called drop-shipping",
+      "answer": "What is drop-shipping?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_013",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This tax-free shopping period offered by some states during back-to-school and holidays",
+      "answer": "What is a sales tax holiday?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_014",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This retail apocalypse saw Toys 'R' Us liquidate in 2018 after filing for this legal protection",
+      "answer": "What is bankruptcy (Chapter 11)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_015",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This consumer sentiment index from the University of Michigan predicts holiday spending trends",
+      "answer": "What is the Consumer Confidence Index (or sentiment survey)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_016",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This markup percentage from wholesale to retail price typically ranges from 50-100% (keystone pricing)",
+      "answer": "What is retail markup (or margin)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_017",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This behavioral economics concept explains why we irrationally spend more during sales",
+      "answer": "What is the sunk cost fallacy (or loss aversion)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_018",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This customer acquisition cost (CAC) for retailers spikes 50% during the holiday season",
+      "answer": "What is customer acquisition cost?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_019",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This fraud prevention system flags suspicious transactions using machine learning algorithms",
+      "answer": "What is fraud detection (or risk scoring)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_020",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This retail showrooming practice involves browsing in-store but purchasing online for better prices",
+      "answer": "What is showrooming?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_021",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This supply chain bottleneck at West Coast ports delayed 2021 holiday inventory by weeks",
+      "answer": "What is port congestion (or supply chain crisis)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_022",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This chargeback ratio above 1% can result in retailers losing their payment processing privileges",
+      "answer": "What is chargeback rate (or dispute ratio)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_023",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This retail metric measures how many times inventory sells and is replaced annually",
+      "answer": "What is inventory turnover (or stock turn)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_024",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This omnichannel strategy integrates online and offline shopping for seamless experiences",
+      "answer": "What is unified commerce (or omnichannel retail)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_025",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This loss prevention technique uses RFID tags and electronic article surveillance to prevent theft",
+      "answer": "What is EAS (Electronic Article Surveillance)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_026",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This personalization engine uses AI to recommend products based on browsing history",
+      "answer": "What is a recommendation algorithm (or collaborative filtering)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_027",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This retail calendar metric called 'retail weeks' standardizes the 4-5-4 calendar for comparisons",
+      "answer": "What is the retail calendar (or 4-5-4 calendar)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_028",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This conversion rate optimization (CRO) increases the percentage of visitors who make purchases",
+      "answer": "What is conversion rate optimization?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_029",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This Department of Commerce report tracks monthly retail sales as a key economic indicator",
+      "answer": "What is the Advance Monthly Retail Trade Report?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_medium_adult_030",
+      "difficulty": "medium",
+      "audience": "adults",
+      "value": 400,
+      "question": "This subscription fatigue phenomenon occurs when consumers feel overwhelmed by recurring charges",
+      "answer": "What is subscription fatigue (or subscription overload)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_001",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This cognitive bias makes you believe that because something is expensive, it must be of higher quality",
+      "answer": "What is the price-quality heuristic (or premium pricing effect)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_002",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This economic paradox explains why some luxury goods sell MORE when prices increase",
+      "answer": "What is the Veblen effect (or Giffen good)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_003",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This 1985 Cabbage Patch Kids shortage is an example of this marketing strategy creating artificial demand",
+      "answer": "What is manufactured scarcity?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_004",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This neuromarketing technique uses brain imaging to study consumer purchasing decisions",
+      "answer": "What is neuroeconomics (or consumer neuroscience)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_005",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This Nobel Prize-winning economist Daniel Kahneman described two systems of thinking that affect shopping decisions",
+      "answer": "Who is Daniel Kahneman?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_006",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This cryptocurrency payment option is accepted by some retailers but faces volatility issues",
+      "answer": "What is Bitcoin (or cryptocurrency)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_007",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This marketing psychology principle explains why we buy more when prices end in .99 versus .00",
+      "answer": "What is the left-digit effect?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_008",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This A/B testing methodology helps retailers optimize checkout pages to reduce cart abandonment",
+      "answer": "What is conversion rate optimization (or multivariate testing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_009",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This economic theory of 'rational actor' is contradicted by impulse holiday purchases",
+      "answer": "What is homo economicus (or rational choice theory)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_010",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This attention economy concept explains why social media influencers can drive purchasing decisions",
+      "answer": "What is the attention economy (or influencer marketing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_011",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This decoy pricing effect offers three options to make the middle option seem most appealing",
+      "answer": "What is the decoy effect (or asymmetric dominance)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_012",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This machine learning technique predicts which customers are most likely to make purchases",
+      "answer": "What is predictive analytics (or propensity modeling)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_013",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This zero-sum game theory applies to limited-edition product drops where one person's gain is another's loss",
+      "answer": "What is zero-sum game theory?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_014",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This consumer protection regulation GDPR affects how retailers collect and use shopping data in Europe",
+      "answer": "What is GDPR (General Data Protection Regulation)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_015",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This paradox of choice theory suggests that too many options actually decreases purchase satisfaction",
+      "answer": "What is the paradox of choice (or choice overload)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_016",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This blockchain technology enables NFT digital collectibles sold as holiday gifts",
+      "answer": "What is blockchain (or distributed ledger)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_017",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This hedonic adaptation principle explains why new purchases quickly lose their excitement",
+      "answer": "What is hedonic adaptation (or hedonic treadmill)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_018",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This social proof phenomenon makes products with many reviews sell better regardless of quality",
+      "answer": "What is social proof (or bandwagon effect)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_019",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This augmented reality feature lets shoppers virtually try on clothes or makeup before buying",
+      "answer": "What is AR try-on (or virtual try-on)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_020",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This circular economy model focuses on resale, repair, and recycling instead of new purchases",
+      "answer": "What is the circular economy?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_021",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This anchoring bias makes the first price you see influence all subsequent price judgments",
+      "answer": "What is anchoring bias (or focalism)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_022",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This loss aversion principle explains why 'save $50' is more effective than 'pay only $150'",
+      "answer": "What is loss aversion (or prospect theory)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_023",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This microeconomic elasticity concept measures how price changes affect quantity demanded",
+      "answer": "What is price elasticity of demand?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_024",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This dark pattern UX design trick makes it hard to cancel subscriptions or decline upsells",
+      "answer": "What are dark patterns (or deceptive design)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_025",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This mental accounting bias makes you treat gift money differently than earned income when shopping",
+      "answer": "What is mental accounting?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_026",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This hyperbolic discounting explains why you choose immediate gratification over better long-term value",
+      "answer": "What is hyperbolic discounting (or present bias)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_027",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This cohort analysis segments shoppers by generation to predict purchasing behavior patterns",
+      "answer": "What is cohort analysis (or generational marketing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_028",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This reciprocity norm makes free samples or gifts create obligation to purchase",
+      "answer": "What is the reciprocity principle (or norm of reciprocity)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_029",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This IKEA effect cognitive bias makes you value items more when you assemble or customize them",
+      "answer": "What is the IKEA effect?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_teen_030",
+      "difficulty": "hard",
+      "audience": "teenagers",
+      "value": 600,
+      "question": "This price discrimination strategy charges different segments different prices based on willingness to pay",
+      "answer": "What is third-degree price discrimination (or market segmentation pricing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_001",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Keynesian multiplier effect means holiday spending has a compounding impact on GDP beyond the initial purchase",
+      "answer": "What is the multiplier effect?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_002",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Supreme Court case South Dakota v. Wayfair (2018) changed internet sales tax collection rules",
+      "answer": "What is South Dakota v. Wayfair?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_003",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This behavioral economics concept from Richard Thaler earned him the Nobel Prize for studying irrational shopping",
+      "answer": "What is nudge theory (or behavioral economics)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_004",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This payment security standard PCI DSS requires retailers to protect credit card data with encryption",
+      "answer": "What is PCI DSS (Payment Card Industry Data Security Standard)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_005",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This microservices architecture enables retailers to scale infrastructure for Black Friday traffic spikes",
+      "answer": "What is cloud-native architecture (or microservices)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_006",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This econometric regression analysis helps retailers forecast demand using historical sales data",
+      "answer": "What is demand forecasting (or predictive modeling)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_007",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Nash equilibrium in game theory explains why retailers are trapped in a Black Friday discount arms race",
+      "answer": "What is Nash equilibrium (or prisoner's dilemma)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_008",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This attribution modeling technique assigns credit to different marketing touchpoints in the customer journey",
+      "answer": "What is multi-touch attribution (or marketing attribution)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_009",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This warehouse automation using Kiva robots reduced Amazon's fulfillment costs by 20%",
+      "answer": "What is robotic fulfillment (or warehouse automation)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_010",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Consumer Financial Protection Bureau regulates BNPL services under this lending law",
+      "answer": "What is the Truth in Lending Act (or Regulation Z)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_011",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Pareto principle suggests 80% of holiday revenue comes from 20% of customers",
+      "answer": "What is the Pareto principle (or 80/20 rule)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_012",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This cohort retention analysis measures customer lifetime value (CLV) across holiday shopping seasons",
+      "answer": "What is customer lifetime value (or CLV analysis)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_013",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This freight derivative contracts let retailers hedge against shipping cost volatility during peak season",
+      "answer": "What are freight futures (or shipping derivatives)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_014",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This antitrust concern about Amazon's dual role as retailer and marketplace host faces FTC scrutiny",
+      "answer": "What is vertical integration (or platform conflict of interest)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_015",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This carbon footprint of e-commerce returns generates 5 billion pounds of landfill waste annually",
+      "answer": "What is reverse logistics (or returns environmental impact)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_016",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This real-time bidding (RTB) auction system prices online ads in milliseconds during holiday campaigns",
+      "answer": "What is programmatic advertising (or RTB)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_017",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This customer data platform (CDP) unifies shopping behavior across channels for personalization",
+      "answer": "What is a customer data platform (or CDP)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_018",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This retail apocalypse metric saw 12,000 store closures in 2020 accelerating the shift to e-commerce",
+      "answer": "What is store closure rate (or retail consolidation)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_019",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Magnuson-Moss Warranty Act governs holiday product warranties and disclosure requirements",
+      "answer": "What is the Magnuson-Moss Warranty Act?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_020",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This cross-price elasticity measures how a discount on turkeys affects demand for cranberry sauce",
+      "answer": "What is cross-price elasticity of demand?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_021",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This servitization trend shifts businesses from selling products to selling outcomes or subscriptions",
+      "answer": "What is servitization (or product-as-a-service)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_022",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Bayesian inference algorithm powers recommendation engines by updating predictions with new shopping data",
+      "answer": "What is Bayesian inference (or machine learning)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_023",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This transaction cost economics theory explains why vertical integration reduces holiday supply chain friction",
+      "answer": "What is transaction cost economics (or Coase theorem)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_024",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Robinson-Patman Act prohibits price discrimination that harms competition in retail markets",
+      "answer": "What is the Robinson-Patman Act?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_025",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This quantum computing application could optimize Black Friday logistics and routing in real-time",
+      "answer": "What is quantum optimization (or quantum computing)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_026",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This marginal propensity to consume (MPC) measures how much of additional income gets spent on holidays",
+      "answer": "What is marginal propensity to consume?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_027",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This serverless computing architecture auto-scales to handle Cyber Monday traffic without provisioning servers",
+      "answer": "What is serverless computing (or Function-as-a-Service)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_028",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This brand equity valuation method calculates the premium consumers pay for branded vs. generic items",
+      "answer": "What is brand valuation (or brand premium)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_029",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This Federal Reserve interest rate policy affects holiday credit card rates and consumer borrowing",
+      "answer": "What is the federal funds rate (or monetary policy)?",
+      "category": "Holiday Shopping"
+    },
+    {
+      "id": "cs_hard_adult_030",
+      "difficulty": "hard",
+      "audience": "adults",
+      "value": 600,
+      "question": "This agglomeration economy explains why competing retailers cluster together in malls and shopping districts",
+      "answer": "What is agglomeration economy (or clustering effect)?",
+      "category": "Holiday Shopping"
+    }
+  ],
+  "no_humanity": [
+    {
+      "clue": "Where you buy everything in underwear",
+      "correctQuestion": "What is Amazon?",
+      "value": 200
+    },
+    {
+      "clue": "Wrapping paper costs $347 here",
+      "correctQuestion": "What is Target?",
+      "value": 200
+    },
+    {
+      "clue": "48 toilet paper rolls membership club",
+      "correctQuestion": "What is Costco?",
+      "value": 200
+    },
+    {
+      "clue": "Black Friday fight video headquarters",
+      "correctQuestion": "What is Walmart?",
+      "value": 200
+    },
+    {
+      "clue": "$80 candle store",
+      "correctQuestion": "What is Nordstrom?",
+      "value": 200
+    },
+    {
+      "clue": "Where friends brag about Christmas hauls",
+      "correctQuestion": "What is Instagram?",
+      "value": 200
+    },
+    {
+      "clue": "Stalking your ex's Christmas spending",
+      "correctQuestion": "What is Venmo?",
+      "value": 400
+    },
+    {
+      "clue": "People camp out like it's Jesus",
+      "correctQuestion": "What is Apple?",
+      "value": 400
+    },
+    {
+      "clue": "$500 Sephora haul videos",
+      "correctQuestion": "What is TikTok?",
+      "value": 400
+    },
+    {
+      "clue": "Subscriptions mean you're out of ideas",
+      "correctQuestion": "What is Netflix?",
+      "value": 400
+    },
+    {
+      "clue": "Red cup War on Christmas",
+      "correctQuestion": "What is Starbucks?",
+      "value": 400
+    },
+    {
+      "clue": "$15 at a time bank drain",
+      "correctQuestion": "What is DoorDash?",
+      "value": 400
+    },
+    {
+      "clue": "Drunk uncle's $89 surge pricing",
+      "correctQuestion": "What is Uber?",
+      "value": 600
+    },
+    {
+      "clue": "Toy store Amazon murdered",
+      "correctQuestion": "What is Toys R Us?",
+      "value": 600
+    },
+    {
+      "clue": "Zoom calls nobody can unmute",
+      "correctQuestion": "What is COVID-19?",
+      "value": 600
+    },
+    {
+      "clue": "$3 million December defrost queen",
+      "correctQuestion": "Who is Mariah Carey?",
+      "value": 600
+    },
+    {
+      "clue": "Boomer War on Christmas shares",
+      "correctQuestion": "What is Facebook?",
+      "value": 600
+    },
+    {
+      "clue": "Tesla billionaire's brain-dead Christmas takes",
+      "correctQuestion": "Who is Elon Musk?",
+      "value": 600
+    },
+    {
+      "clue": "Ruins dinners worse than burnt turkey",
+      "correctQuestion": "Who is Trump?",
+      "value": 800
+    },
+    {
+      "clue": "What Millennials actually want",
+      "correctQuestion": "What is affordable housing?",
+      "value": 800
+    },
+    {
+      "clue": "Impossible Christmas miracle to forgive",
+      "correctQuestion": "What are student loans?",
+      "value": 800
+    },
+    {
+      "clue": "Every Hallmark movie's real theme",
+      "correctQuestion": "What is white people problems?",
+      "value": 800
+    },
+    {
+      "clue": "New Year's financial destruction evidence",
+      "correctQuestion": "What is your bank statement?",
+      "value": 800
+    },
+    {
+      "clue": "K-family overpriced makeup empire",
+      "correctQuestion": "Who are the Kardashians?",
+      "value": 800
+    },
+    {
+      "clue": "What killed Christmas spirit",
+      "correctQuestion": "What is capitalism?",
+      "value": 1000
+    },
+    {
+      "clue": "Why people camp on Thanksgiving",
+      "correctQuestion": "What is they hate their family?",
+      "value": 1000
+    },
+    {
+      "clue": "Credit card offers translate to this",
+      "correctQuestion": "What is 'please go into debt'?",
+      "value": 1000
+    },
+    {
+      "clue": "Gift that says you're fat",
+      "correctQuestion": "What is Ozempic?",
+      "value": 1000
+    },
+    {
+      "clue": "Parents' accidental adult content subscription",
+      "correctQuestion": "What is Prime Video?",
+      "value": 1000
+    },
+    {
+      "clue": "Black Friday's real name",
+      "correctQuestion": "What is a scam?",
+      "value": 1000
+    },
+    {
+      "clue": "47 people arguing about restaurants",
+      "correctQuestion": "What is a group text?",
+      "value": 200
+    },
+    {
+      "clue": "Budget spreadsheet lie category",
+      "correctQuestion": "What is 'essential expenses'?",
+      "value": 200
+    },
+    {
+      "clue": "Gift cards' honest meaning",
+      "correctQuestion": "What is 'I don't care about you'?",
+      "value": 400
+    },
+    {
+      "clue": "4am shopping's real purpose",
+      "correctQuestion": "What is an escape from your family?",
+      "value": 400
+    },
+    {
+      "clue": "What $800 in toys buys",
+      "correctQuestion": "What is guilt?",
+      "value": 600
+    },
+    {
+      "clue": "Walmart's Guantanamo Bay torture song",
+      "correctQuestion": "What is 'Wonderful Christmastime' by Paul McCartney?",
+      "value": 600
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-12-26",
+    "format": "Jeopardy",
+    "theme": "Christmas Economics and Holiday Shopping",
+    "topics": [
+      "Black Friday",
+      "Cyber Monday",
+      "Retail Economics",
+      "Consumer Spending",
+      "Budgeting",
+      "E-commerce",
+      "Shopping Psychology",
+      "Holiday Traditions",
+      "Payment Systems",
+      "Supply Chain"
+    ]
+  }
+}

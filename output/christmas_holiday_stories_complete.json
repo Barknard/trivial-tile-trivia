@@ -1,0 +1,922 @@
+{
+  "category": "Holiday Stories",
+  "theme": "christmas",
+  "category_id": "christmas_stories",
+  "description": "The Nutcracker, A Christmas Carol, Nativity",
+  "age_suitability": "kids_10_under, teenagers, adults primary",
+  "research_alignment": "Literacy connection, narrative comprehension, cultural heritage",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "In this story, a mean green character steals Christmas from Whoville",
+        "correctQuestion": "What is How the Grinch Stole Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "This story is about a snowman that comes to life",
+        "correctQuestion": "What is Frosty the Snowman?",
+        "value": 200
+      },
+      {
+        "clue": "Baby Jesus was born in this type of building for animals",
+        "correctQuestion": "What is a stable?",
+        "value": 200
+      },
+      {
+        "clue": "In the Christmas story, three wise men brought gifts to this baby",
+        "correctQuestion": "Who is Jesus?",
+        "value": 200
+      },
+      {
+        "clue": "Rudolph is a reindeer with a nose that is this color",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "The Grinch's heart grows this many sizes at the end",
+        "correctQuestion": "What is three?",
+        "value": 200
+      },
+      {
+        "clue": "In The Night Before Christmas, not a creature is stirring, not even this small animal",
+        "correctQuestion": "What is a mouse?",
+        "value": 200
+      },
+      {
+        "clue": "This story has a little boy who wants a BB gun for Christmas",
+        "correctQuestion": "What is A Christmas Story?",
+        "value": 200
+      },
+      {
+        "clue": "The Little Drummer Boy played this instrument for baby Jesus",
+        "correctQuestion": "What is a drum?",
+        "value": 200
+      },
+      {
+        "clue": "In The Polar Express, children ride this to the North Pole",
+        "correctQuestion": "What is a train?",
+        "value": 200
+      },
+      {
+        "clue": "Mary and Joseph couldn't find room at this place to stay",
+        "correctQuestion": "What is the inn?",
+        "value": 400
+      },
+      {
+        "clue": "The Grinch lives on top of this mountain",
+        "correctQuestion": "What is Mount Crumpit?",
+        "value": 400
+      },
+      {
+        "clue": "Frosty melted but promised to come back again this day",
+        "correctQuestion": "What is someday?",
+        "value": 400
+      },
+      {
+        "clue": "In Rudolph's story, this elf wants to be a dentist",
+        "correctQuestion": "Who is Hermey?",
+        "value": 400
+      },
+      {
+        "clue": "The Night Before Christmas says Santa has a belly like a bowl full of this",
+        "correctQuestion": "What is jelly?",
+        "value": 400
+      },
+      {
+        "clue": "In the nativity story, shepherds were watching these animals at night",
+        "correctQuestion": "What are sheep?",
+        "value": 400
+      },
+      {
+        "clue": "The Polar Express gives each child this special gift",
+        "correctQuestion": "What is a bell?",
+        "value": 400
+      },
+      {
+        "clue": "The Grinch's dog is named this",
+        "correctQuestion": "Who is Max?",
+        "value": 400
+      },
+      {
+        "clue": "The three wise men followed this in the sky to find baby Jesus",
+        "correctQuestion": "What is a star?",
+        "value": 400
+      },
+      {
+        "clue": "In The Nutcracker, toys come to life on this special night",
+        "correctQuestion": "What is Christmas Eve?",
+        "value": 400
+      },
+      {
+        "clue": "In The Night Before Christmas, Santa fills the stockings and turns with this quick movement",
+        "correctQuestion": "What is a jerk?",
+        "value": 600
+      },
+      {
+        "clue": "The three wise men brought gold, frankincense, and this third gift",
+        "correctQuestion": "What is myrrh?",
+        "value": 600
+      },
+      {
+        "clue": "Rudolph was chosen to guide the sleigh on this type of weather night",
+        "correctQuestion": "What is foggy?",
+        "value": 600
+      },
+      {
+        "clue": "The Grinch dressed his dog Max as this animal",
+        "correctQuestion": "What is a reindeer?",
+        "value": 600
+      },
+      {
+        "clue": "In The Nutcracker, Clara's nutcracker battles the king of these animals",
+        "correctQuestion": "What are mice?",
+        "value": 600
+      },
+      {
+        "clue": "The Little Drummer Boy had no gifts but gave this instead",
+        "correctQuestion": "What is his music?",
+        "value": 600
+      },
+      {
+        "clue": "Frosty wore this type of old hat on his head",
+        "correctQuestion": "What is a silk hat?",
+        "value": 600
+      },
+      {
+        "clue": "In The Polar Express, only children who do this can hear the bell",
+        "correctQuestion": "What is believe?",
+        "value": 600
+      },
+      {
+        "clue": "Baby Jesus was laid in this type of bed for animals",
+        "correctQuestion": "What is a manger?",
+        "value": 800
+      },
+      {
+        "clue": "The Night Before Christmas says Santa's eyes twinkle and his dimples are this adjective",
+        "correctQuestion": "What is merry?",
+        "value": 800
+      },
+      {
+        "clue": "The Grinch carved this feast for himself",
+        "correctQuestion": "What is roast beast?",
+        "value": 800
+      },
+      {
+        "clue": "In Rudolph, the misfit toys live on this island",
+        "correctQuestion": "What is the Island of Misfit Toys?",
+        "value": 800
+      },
+      {
+        "clue": "In The Nutcracker, Clara travels to this magical land",
+        "correctQuestion": "What is the Land of Sweets?",
+        "value": 1000
+      },
+      {
+        "clue": "The shepherds were told about Jesus's birth by these heavenly beings",
+        "correctQuestion": "What are angels?",
+        "value": 1000
+      },
+      {
+        "clue": "The Polar Express conductor punches tickets with letters that spell this word",
+        "correctQuestion": "What is BELIEVE?",
+        "value": 1000
+      },
+      {
+        "clue": "The Whos in Whoville sing even without this",
+        "correctQuestion": "What are presents?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Charles Dickens wrote this classic story about Ebenezer Scrooge",
+        "correctQuestion": "What is A Christmas Carol?",
+        "value": 200
+      },
+      {
+        "clue": "In The Nutcracker ballet, Clara receives this magical toy at a Christmas party",
+        "correctQuestion": "What is a nutcracker?",
+        "value": 200
+      },
+      {
+        "clue": "Dr. Seuss wrote this story about a green character who hates Christmas",
+        "correctQuestion": "What is How the Grinch Stole Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "The nativity story appears in these two gospels of the Bible",
+        "correctQuestion": "What are Matthew and Luke?",
+        "value": 200
+      },
+      {
+        "clue": "In A Christmas Carol, Scrooge is visited by this many ghosts",
+        "correctQuestion": "What is four?",
+        "value": 200
+      },
+      {
+        "clue": "The poem 'Twas the Night Before Christmas' was written by this author",
+        "correctQuestion": "Who is Clement Clarke Moore?",
+        "value": 200
+      },
+      {
+        "clue": "In The Polar Express, the train conductor is voiced by this actor",
+        "correctQuestion": "Who is Tom Hanks?",
+        "value": 200
+      },
+      {
+        "clue": "The Little Drummer Boy's song goes 'pa rum pum pum' this many times",
+        "correctQuestion": "What is pum?",
+        "value": 200
+      },
+      {
+        "clue": "In The Nutcracker, the Mouse King has this many heads",
+        "correctQuestion": "What is seven?",
+        "value": 200
+      },
+      {
+        "clue": "King Herod tried to find baby Jesus in this town where he was born",
+        "correctQuestion": "What is Bethlehem?",
+        "value": 200
+      },
+      {
+        "clue": "In A Christmas Carol, the Ghost of Christmas Past shows Scrooge this about himself",
+        "correctQuestion": "What is his childhood?",
+        "value": 400
+      },
+      {
+        "clue": "The Nutcracker was composed by this famous Russian composer",
+        "correctQuestion": "Who is Tchaikovsky?",
+        "value": 400
+      },
+      {
+        "clue": "In How the Grinch Stole Christmas, Cindy Lou Who is this age",
+        "correctQuestion": "What is two?",
+        "value": 400
+      },
+      {
+        "clue": "The three wise men came from this direction in the nativity story",
+        "correctQuestion": "What is the East?",
+        "value": 400
+      },
+      {
+        "clue": "A Christmas Carol was published in this year",
+        "correctQuestion": "What is 1843?",
+        "value": 400
+      },
+      {
+        "clue": "In The Night Before Christmas, Santa's sleigh is pulled by this many reindeer",
+        "correctQuestion": "What is eight?",
+        "value": 400
+      },
+      {
+        "clue": "The Polar Express is based on a book illustrated by this artist",
+        "correctQuestion": "Who is Chris Van Allsburg?",
+        "value": 400
+      },
+      {
+        "clue": "In The Nutcracker, the Sugar Plum Fairy dances in this act",
+        "correctQuestion": "What is Act 2?",
+        "value": 400
+      },
+      {
+        "clue": "The nativity story says Mary rode to Bethlehem on this animal",
+        "correctQuestion": "What is a donkey?",
+        "value": 400
+      },
+      {
+        "clue": "In A Christmas Carol, Tiny Tim says this famous blessing",
+        "correctQuestion": "What is 'God bless us, every one'?",
+        "value": 400
+      },
+      {
+        "clue": "The original Nutcracker story was written by this German author",
+        "correctQuestion": "Who is E.T.A. Hoffmann?",
+        "value": 600
+      },
+      {
+        "clue": "In A Christmas Carol, Jacob Marley appears wrapped in these",
+        "correctQuestion": "What are chains?",
+        "value": 600
+      },
+      {
+        "clue": "The Grinch's small heart is this many sizes too small",
+        "correctQuestion": "What is two?",
+        "value": 600
+      },
+      {
+        "clue": "The shepherds in the nativity were told 'Glory to God in' this location",
+        "correctQuestion": "What is the highest?",
+        "value": 600
+      },
+      {
+        "clue": "In The Polar Express, the first gift of Christmas is given by this person",
+        "correctQuestion": "Who is Santa Claus?",
+        "value": 600
+      },
+      {
+        "clue": "The Night Before Christmas describes Santa's nose as resembling this fruit",
+        "correctQuestion": "What is a cherry?",
+        "value": 600
+      },
+      {
+        "clue": "In The Nutcracker, Clara's uncle who gives her the nutcracker is named this",
+        "correctQuestion": "Who is Drosselmeyer?",
+        "value": 600
+      },
+      {
+        "clue": "The Little Match Girl is a sad Christmas story by this Danish author",
+        "correctQuestion": "Who is Hans Christian Andersen?",
+        "value": 600
+      },
+      {
+        "clue": "In A Christmas Carol, the Ghost of Christmas Yet to Come is also called this",
+        "correctQuestion": "What is the Ghost of Christmas Future?",
+        "value": 800
+      },
+      {
+        "clue": "The carol 'Silent Night' tells the nativity story and was first performed in this country",
+        "correctQuestion": "What is Austria?",
+        "value": 800
+      },
+      {
+        "clue": "In Rudolph the Red-Nosed Reindeer, Clarice tells Rudolph he's this adjective",
+        "correctQuestion": "What is cute?",
+        "value": 800
+      },
+      {
+        "clue": "The Nutcracker prince battles enemies in this room of the house",
+        "correctQuestion": "What is the parlor or living room?",
+        "value": 800
+      },
+      {
+        "clue": "In The Polar Express, the train arrives at the boy's house at this exact time",
+        "correctQuestion": "What is five to midnight?",
+        "value": 1000
+      },
+      {
+        "clue": "A Christmas Carol's Scrooge works as this profession",
+        "correctQuestion": "What is a moneylender or banker?",
+        "value": 1000
+      },
+      {
+        "clue": "The nativity census was ordered by this Roman emperor",
+        "correctQuestion": "Who is Caesar Augustus?",
+        "value": 1000
+      },
+      {
+        "clue": "The Nutcracker ballet premiered in this Russian city in 1892",
+        "correctQuestion": "What is St. Petersburg?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This 2019 Netflix film Last Christmas was inspired by a George Michael song",
+        "correctQuestion": "What is Last Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "The modern retelling of A Christmas Carol was adapted into this Bill Murray film",
+        "correctQuestion": "What is Scrooged?",
+        "value": 200
+      },
+      {
+        "clue": "This YA novel series by John Green features a Christmas-themed story",
+        "correctQuestion": "What is Let It Snow?",
+        "value": 200
+      },
+      {
+        "clue": "The Nutcracker and the Four Realms is this type of Disney adaptation",
+        "correctQuestion": "What is live-action?",
+        "value": 200
+      },
+      {
+        "clue": "This 2017 film Wonder takes place partially during Christmas season",
+        "correctQuestion": "What is Wonder?",
+        "value": 200
+      },
+      {
+        "clue": "Charles Dickens published A Christmas Carol during this Victorian era decade",
+        "correctQuestion": "What is the 1840s?",
+        "value": 200
+      },
+      {
+        "clue": "This graphic novel series includes a Christmas adventure",
+        "correctQuestion": "What is Heartstopper?",
+        "value": 200
+      },
+      {
+        "clue": "The Grinch's backstory explores themes of this social issue",
+        "correctQuestion": "What is bullying?",
+        "value": 200
+      },
+      {
+        "clue": "This Hallmark Channel trend features 40+ original Christmas movies annually",
+        "correctQuestion": "What is Countdown to Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "The nativity story includes this theme of social justice regarding the poor",
+        "correctQuestion": "What is hospitality?",
+        "value": 200
+      },
+      {
+        "clue": "This modern retelling sets A Christmas Carol in a corporate office",
+        "correctQuestion": "What is A Diva's Christmas Carol?",
+        "value": 400
+      },
+      {
+        "clue": "The Polar Express book was published in this decade",
+        "correctQuestion": "What is the 1980s?",
+        "value": 400
+      },
+      {
+        "clue": "This Christmas romance novel by Jenny Han became a Netflix film",
+        "correctQuestion": "What is Dash & Lily?",
+        "value": 400
+      },
+      {
+        "clue": "The Nutcracker features this number of dances in the Land of Sweets",
+        "correctQuestion": "What is six?",
+        "value": 400
+      },
+      {
+        "clue": "This author wrote The Best Christmas Pageant Ever about the Herdman kids",
+        "correctQuestion": "Who is Barbara Robinson?",
+        "value": 400
+      },
+      {
+        "clue": "A Christmas Carol has been adapted to film approximately this many times",
+        "correctQuestion": "What is 100+?",
+        "value": 400
+      },
+      {
+        "clue": "This Christmas horror story involves Krampus, Santa's dark counterpart",
+        "correctQuestion": "What is Krampus?",
+        "value": 400
+      },
+      {
+        "clue": "The nativity story challenges this Roman Empire authority theme",
+        "correctQuestion": "What is census and taxation?",
+        "value": 400
+      },
+      {
+        "clue": "This BookTok trend features Christmas romance novels each December",
+        "correctQuestion": "What is holiday romance recommendations?",
+        "value": 400
+      },
+      {
+        "clue": "The Little Women novel includes Christmas scenes in this economic context",
+        "correctQuestion": "What is poverty during Civil War?",
+        "value": 400
+      },
+      {
+        "clue": "This modern Christmas story explores family dysfunction in a comedic way",
+        "correctQuestion": "What is National Lampoon's Christmas Vacation?",
+        "value": 600
+      },
+      {
+        "clue": "The Nutcracker's original reception was this critical response",
+        "correctQuestion": "What is mixed or negative?",
+        "value": 600
+      },
+      {
+        "clue": "This Christmas romance subgenre features royal characters",
+        "correctQuestion": "What is Christmas prince stories?",
+        "value": 600
+      },
+      {
+        "clue": "A Christmas Carol influenced this social reform movement in Victorian England",
+        "correctQuestion": "What is charity for the poor?",
+        "value": 600
+      },
+      {
+        "clue": "This streaming platform produces The Christmas Chronicles series",
+        "correctQuestion": "What is Netflix?",
+        "value": 600
+      },
+      {
+        "clue": "The Grinch's transformation represents this psychological concept",
+        "correctQuestion": "What is redemption or change?",
+        "value": 600
+      },
+      {
+        "clue": "This feminist retelling of The Nutcracker centers Clara as the hero",
+        "correctQuestion": "What is The Nutcracker and the Four Realms?",
+        "value": 600
+      },
+      {
+        "clue": "The nativity story subverts this expectation about a king's birthplace",
+        "correctQuestion": "What is being born in a palace?",
+        "value": 600
+      },
+      {
+        "clue": "This author wrote the Christmas romance The Holiday",
+        "correctQuestion": "Who is Nancy Meyers (screenplay)?",
+        "value": 800
+      },
+      {
+        "clue": "A Christmas Carol popularized this phrase meaning cheap or stingy",
+        "correctQuestion": "What is Scrooge?",
+        "value": 800
+      },
+      {
+        "clue": "This modern adaptation sets A Christmas Carol in a 1980s corporate setting",
+        "correctQuestion": "What is Scrooged?",
+        "value": 800
+      },
+      {
+        "clue": "The Nutcracker's Dance of the Sugar Plum Fairy features this unique instrument",
+        "correctQuestion": "What is the celesta?",
+        "value": 800
+      },
+      {
+        "clue": "This coming-of-age Christmas film explores LGBTQ+ themes",
+        "correctQuestion": "What is Happiest Season?",
+        "value": 1000
+      },
+      {
+        "clue": "Charles Dickens wrote A Christmas Carol in this short time period",
+        "correctQuestion": "What is six weeks?",
+        "value": 1000
+      },
+      {
+        "clue": "This Christmas story tradition evolved from medieval mystery plays",
+        "correctQuestion": "What are nativity pageants?",
+        "value": 1000
+      },
+      {
+        "clue": "The Polar Express explores themes of this philosophical concept",
+        "correctQuestion": "What is belief and faith?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Charles Dickens wrote A Christmas Carol partially in response to this 1842 Parliamentary report",
+        "correctQuestion": "What is the Report on Child Labour?",
+        "value": 200
+      },
+      {
+        "clue": "The Nutcracker ballet was based on this Alexandre Dumas adaptation",
+        "correctQuestion": "What is The Story of a Nutcracker?",
+        "value": 200
+      },
+      {
+        "clue": "The Gospel of Luke's nativity narrative emphasizes this marginalized group",
+        "correctQuestion": "Who are shepherds?",
+        "value": 200
+      },
+      {
+        "clue": "Clement Clarke Moore's authorship of The Night Before Christmas has been disputed in favor of this poet",
+        "correctQuestion": "Who is Henry Livingston Jr.?",
+        "value": 200
+      },
+      {
+        "clue": "A Christmas Carol was published by this method after publishers rejected it",
+        "correctQuestion": "What is self-publishing?",
+        "value": 200
+      },
+      {
+        "clue": "The Nutcracker's original choreographer was this Mariinsky Ballet master",
+        "correctQuestion": "Who is Marius Petipa?",
+        "value": 200
+      },
+      {
+        "clue": "The nativity story's census reflects this historical Roman administrative practice",
+        "correctQuestion": "What is provincial enumeration?",
+        "value": 200
+      },
+      {
+        "clue": "Dr. Seuss wrote The Grinch as a critique of this aspect of Christmas",
+        "correctQuestion": "What is commercialism?",
+        "value": 200
+      },
+      {
+        "clue": "The Gift of the Magi by O. Henry illustrates this literary device",
+        "correctQuestion": "What is irony?",
+        "value": 200
+      },
+      {
+        "clue": "A Christmas Carol sold out its first edition of this many copies in days",
+        "correctQuestion": "What is 6,000?",
+        "value": 200
+      },
+      {
+        "clue": "The Nutcracker's libretto was adapted from this E.T.A. Hoffmann story",
+        "correctQuestion": "What is The Nutcracker and the Mouse King?",
+        "value": 400
+      },
+      {
+        "clue": "The Gospel nativity narratives reflect this theological concept of divine-human intersection",
+        "correctQuestion": "What is incarnation?",
+        "value": 400
+      },
+      {
+        "clue": "Dickens' A Christmas Carol revived this medieval tradition in Victorian England",
+        "correctQuestion": "What is Christmas celebration?",
+        "value": 400
+      },
+      {
+        "clue": "The Nutcracker premiered at this St. Petersburg theater in 1892",
+        "correctQuestion": "What is the Mariinsky Theatre?",
+        "value": 400
+      },
+      {
+        "clue": "The Night Before Christmas established this aspect of Santa iconography",
+        "correctQuestion": "What is eight reindeer with names?",
+        "value": 400
+      },
+      {
+        "clue": "The nativity story's inn (kataluma) more accurately translates to this",
+        "correctQuestion": "What is guest room?",
+        "value": 400
+      },
+      {
+        "clue": "Dickens performed public readings of A Christmas Carol for this charitable purpose",
+        "correctQuestion": "What is raising funds for the poor?",
+        "value": 400
+      },
+      {
+        "clue": "The Nutcracker's Dance of the Flowers features this many variations",
+        "correctQuestion": "What is six?",
+        "value": 400
+      },
+      {
+        "clue": "The Little Match Girl by Hans Christian Andersen critiques this social issue",
+        "correctQuestion": "What is child poverty?",
+        "value": 400
+      },
+      {
+        "clue": "The Polar Express book won this prestigious children's literature award",
+        "correctQuestion": "What is the Caldecott Medal?",
+        "value": 400
+      },
+      {
+        "clue": "A Christmas Carol's Ignorance and Want represent Dickens' concern for this Victorian crisis",
+        "correctQuestion": "What is educational poverty?",
+        "value": 600
+      },
+      {
+        "clue": "The Nutcracker's initial failure was attributed to this choreographic limitation",
+        "correctQuestion": "What is lack of adult dancers in lead roles?",
+        "value": 600
+      },
+      {
+        "clue": "The nativity star phenomenon has been attributed to this astronomical event",
+        "correctQuestion": "What is a planetary conjunction?",
+        "value": 600
+      },
+      {
+        "clue": "Dr. Seuss' Grinch was inspired by his reflection in this bathroom object",
+        "correctQuestion": "What is a mirror?",
+        "value": 600
+      },
+      {
+        "clue": "The Gospel of Matthew's nativity emphasizes this Old Testament fulfillment theme",
+        "correctQuestion": "What is Messianic prophecy?",
+        "value": 600
+      },
+      {
+        "clue": "Dickens' serialized novels influenced A Christmas Carol's structure with this many staves",
+        "correctQuestion": "What is five?",
+        "value": 600
+      },
+      {
+        "clue": "The Nutcracker gained popularity in America through this choreographer's 1954 production",
+        "correctQuestion": "Who is George Balanchine?",
+        "value": 600
+      },
+      {
+        "clue": "The nativity's Magnificat reflects this liberation theology theme",
+        "correctQuestion": "What is divine reversal of social order?",
+        "value": 600
+      },
+      {
+        "clue": "A Christmas Carol was written during this period of Dickens' financial crisis",
+        "correctQuestion": "What is 1843 debt?",
+        "value": 800
+      },
+      {
+        "clue": "The Nutcracker's original reviews criticized Tchaikovsky's score as this",
+        "correctQuestion": "What is too symphonic?",
+        "value": 800
+      },
+      {
+        "clue": "The nativity census under Quirinius dates to this problematic chronology",
+        "correctQuestion": "What is 6 CE (after Herod's death)?",
+        "value": 800
+      },
+      {
+        "clue": "The Night Before Christmas codified Santa's entry method as this specific location",
+        "correctQuestion": "What is down the chimney?",
+        "value": 800
+      },
+      {
+        "clue": "A Christmas Carol's influence extended to this social legislation in 1844",
+        "correctQuestion": "What is Factory Act reform?",
+        "value": 1000
+      },
+      {
+        "clue": "The Nutcracker's libretto was written by this Mariinsky director",
+        "correctQuestion": "Who is Ivan Vsevolozhsky?",
+        "value": 1000
+      },
+      {
+        "clue": "The nativity narrative genre is classified as this in New Testament scholarship",
+        "correctQuestion": "What is infancy gospel?",
+        "value": 1000
+      },
+      {
+        "clue": "Dickens' A Christmas Carol sold this many copies in the first week",
+        "correctQuestion": "What is 6,000?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Scrooge's 2025 investment portfolio",
+        "correctQuestion": "What is Bitcoin?",
+        "value": 200
+      },
+      {
+        "clue": "Where kids stream Christmas Carol",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "What ruined Polar Express 2020",
+        "correctQuestion": "What is COVID-19?",
+        "value": 200
+      },
+      {
+        "clue": "Hallmark's Christmas movie factory",
+        "correctQuestion": "What is Hallmark Channel?",
+        "value": 200
+      },
+      {
+        "clue": "Where Nutcracker dancers went viral",
+        "correctQuestion": "What is TikTok?",
+        "value": 200
+      },
+      {
+        "clue": "Modern Grinch meme headquarters",
+        "correctQuestion": "What is Facebook?",
+        "value": 200
+      },
+      {
+        "clue": "Replaced Christmas cards forever",
+        "correctQuestion": "What is a group text?",
+        "value": 200
+      },
+      {
+        "clue": "Amazon murdered this toy store",
+        "correctQuestion": "What is Toys R Us?",
+        "value": 200
+      },
+      {
+        "clue": "Scrooge's $8 peppermint latte source",
+        "correctQuestion": "What is Starbucks?",
+        "value": 200
+      },
+      {
+        "clue": "North Pole's data mining device",
+        "correctQuestion": "What is Alexa?",
+        "value": 400
+      },
+      {
+        "clue": "Where Grandma couldn't unmute Christmas 2020",
+        "correctQuestion": "What is Zoom?",
+        "value": 400
+      },
+      {
+        "clue": "Scrooge's modern sleigh replacement",
+        "correctQuestion": "What is Tesla?",
+        "value": 400
+      },
+      {
+        "clue": "Christmas dinner when nobody cooks",
+        "correctQuestion": "What is DoorDash?",
+        "value": 400
+      },
+      {
+        "clue": "Scrooge's Christmas morning obsession",
+        "correctQuestion": "What is his stock portfolio?",
+        "value": 400
+      },
+      {
+        "clue": "Every Christmas Carol version streaming",
+        "correctQuestion": "What is Disney Plus?",
+        "value": 400
+      },
+      {
+        "clue": "Payment app Grinch costume receipts",
+        "correctQuestion": "What is Venmo?",
+        "value": 400
+      },
+      {
+        "clue": "What kids want instead wooden toys",
+        "correctQuestion": "What is an iPhone?",
+        "value": 400
+      },
+      {
+        "clue": "Who defrosts every December",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 600
+      },
+      {
+        "clue": "Millennials' real Christmas wish",
+        "correctQuestion": "What is student loan forgiveness?",
+        "value": 600
+      },
+      {
+        "clue": "Worse than the Grinch",
+        "correctQuestion": "What is inflation?",
+        "value": 600
+      },
+      {
+        "clue": "Where moms spend $200 unintentionally",
+        "correctQuestion": "What is Target?",
+        "value": 600
+      },
+      {
+        "clue": "Topic ruining Christmas dinner annually",
+        "correctQuestion": "Who is Trump?",
+        "value": 600
+      },
+      {
+        "clue": "Other topic ruining Christmas dinner",
+        "correctQuestion": "What is COVID vaccine?",
+        "value": 600
+      },
+      {
+        "clue": "Gen Z's affordable housing miracle",
+        "correctQuestion": "What is affordable housing?",
+        "value": 600
+      },
+      {
+        "clue": "Giant Nutcracker decoration warehouse",
+        "correctQuestion": "What is Costco?",
+        "value": 600
+      },
+      {
+        "clue": "Polar Express soundtrack torture device",
+        "correctQuestion": "What is Spotify?",
+        "value": 800
+      },
+      {
+        "clue": "Bob Cratchit's actual Christmas wish",
+        "correctQuestion": "What is remote work?",
+        "value": 800
+      },
+      {
+        "clue": "Grinch family avoidance restaurant",
+        "correctQuestion": "What is McDonald's?",
+        "value": 800
+      },
+      {
+        "clue": "Annual Christmas movie debate",
+        "correctQuestion": "What is Die Hard?",
+        "value": 800
+      },
+      {
+        "clue": "Scrooge's Christmas Eve meal app",
+        "correctQuestion": "What is Uber Eats?",
+        "value": 800
+      },
+      {
+        "clue": "Tiny Tim's 2025 real problem",
+        "correctQuestion": "What is no health insurance?",
+        "value": 800
+      },
+      {
+        "clue": "Post-Thanksgiving shopping madness day",
+        "correctQuestion": "What is Black Friday?",
+        "value": 1000
+      },
+      {
+        "clue": "Auto-renewing Scrooge debt collector",
+        "correctQuestion": "What is Amazon Prime?",
+        "value": 1000
+      },
+      {
+        "clue": "Gen Z's word for Polar Express belief",
+        "correctQuestion": "What is delulu?",
+        "value": 1000
+      },
+      {
+        "clue": "Pandemic Nutcracker viewing method",
+        "correctQuestion": "What is watching alone?",
+        "value": 1000
+      },
+      {
+        "clue": "What Dickens wrote in six weeks",
+        "correctQuestion": "What is A Christmas Carol?",
+        "value": 1000
+      }
+    ]
+  }
+}

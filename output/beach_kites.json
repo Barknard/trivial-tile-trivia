@@ -1,0 +1,1068 @@
+{
+  "title": "Beach Kites & Wind",
+  "description": "Family-friendly Jeopardy-format questions about flying kites on the beach, kite flying, and wind phenomena",
+  "category": "Beach & Outdoor Activities",
+  "difficulty_levels": 6,
+  "questions_per_level": 30,
+  "total_questions": 180,
+  "format": "jeopardy",
+  "questions": [
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Kite Parts",
+      "clue": "This is the long string you hold to control a kite.",
+      "answer": "What is a string (or line)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Kite Parts",
+      "clue": "The frame of a kite is typically made of this lightweight material.",
+      "answer": "What is wood?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Kite Parts",
+      "clue": "This colorful covering stretches over the kite frame.",
+      "answer": "What is paper (or plastic/fabric)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Kite Parts",
+      "clue": "Many kites have two or three of these flowing behind them.",
+      "answer": "What is a tail?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Kite Parts",
+      "clue": "This pointed object at the front of a kite cuts through the air.",
+      "answer": "What is a nose (or point)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Kite Parts",
+      "clue": "Kite strings are often wound on this cylindrical tool.",
+      "answer": "What is a spool (or reel)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Wind Knowledge",
+      "clue": "Moving air that you feel and that makes kites fly.",
+      "answer": "What is wind?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Wind Knowledge",
+      "clue": "You measure wind speed using the Beaufort scale or this tool.",
+      "answer": "What is an anemometer?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Wind Knowledge",
+      "clue": "The best time to fly a kite is when there's this kind of breeze.",
+      "answer": "What is a steady breeze?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Basic Wind Knowledge",
+      "clue": "This forms when wind hits a mountain or builds near land.",
+      "answer": "What is wind shear (or thermal updraft)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Beach Locations",
+      "clue": "This sandy area by the ocean is the perfect place for kite flying.",
+      "answer": "What is a beach?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Beach Locations",
+      "clue": "This grassy field with few obstacles is ideal for kite flying.",
+      "answer": "What is an open field (or park)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Safety Basics",
+      "clue": "Stay away from these when flying kites to avoid electric shock.",
+      "answer": "What are power lines?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Safety Basics",
+      "clue": "Always wear this on sunny beach days while flying kites.",
+      "answer": "What is sunscreen (or a hat)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Safety Basics",
+      "clue": "Before launching, check the sky for these weather phenomena.",
+      "answer": "What are thunderstorms (or lightning)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Types of Kites",
+      "clue": "The simplest kite shape with four sides and two sticks.",
+      "answer": "What is a diamond kite?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Types of Kites",
+      "clue": "This triangular kite has a single line and no tail.",
+      "answer": "What is a delta kite?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Types of Kites",
+      "clue": "A kite made with two lines that you can steer left and right.",
+      "answer": "What is a box kite (or dual-line kite)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Kite Flying Basics",
+      "clue": "You do this to launch a kite into the air.",
+      "answer": "What is throw it (or run with it)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Kite Flying Basics",
+      "clue": "If your kite nose-dives, do this to the string.",
+      "answer": "What is pull up (or jerk the string)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Kite Flying Basics",
+      "clue": "The height of a kite is measured in these units.",
+      "answer": "What are feet (or meters)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Sea Breeze Facts",
+      "clue": "This breeze blows from the ocean toward the land during the day.",
+      "answer": "What is a sea breeze?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Sea Breeze Facts",
+      "clue": "This breeze flows from the land toward the ocean at night.",
+      "answer": "What is a land breeze?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Fun Facts",
+      "clue": "This ancient civilization is credited with inventing the kite.",
+      "answer": "What is China?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Fun Facts",
+      "clue": "Famous scientist Benjamin Franklin used a kite to study this.",
+      "answer": "What is lightning (or electricity)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Fun Facts",
+      "clue": "This word refers to many kites flying together in the sky.",
+      "answer": "What is a kite festival (or festival)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Colors & Design",
+      "clue": "Bright colors on a kite make it easier to see from this distance.",
+      "answer": "What is far away?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Colors & Design",
+      "clue": "Adding this reflective material helps kites glow at dusk.",
+      "answer": "What is glitter (or reflective tape)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Weather",
+      "clue": "Too much of this prevents kites from flying properly.",
+      "answer": "What is wind (or too much wind)?"
+    },
+    {
+      "level": 1,
+      "points": 100,
+      "category": "Weather",
+      "clue": "Kites fly best on days with this type of weather.",
+      "answer": "What is clear (or sunny with breeze)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Wind Speed & Conditions",
+      "clue": "Kites fly best in winds between this range in miles per hour.",
+      "answer": "What is 5 to 25 mph?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Wind Speed & Conditions",
+      "clue": "This scale measures wind strength from 0 to 12.",
+      "answer": "What is the Beaufort scale?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Wind Speed & Conditions",
+      "clue": "Winds below 3 mph on the Beaufort scale are called this.",
+      "answer": "What is calm (or light air)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Wind Speed & Conditions",
+      "clue": "A wind speed of 32-43 mph creates these dangerous conditions.",
+      "answer": "What is a strong gale (or gale)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Kite History",
+      "clue": "Kites were first used in Asia for this military purpose.",
+      "answer": "What is warfare (or sending messages)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Kite History",
+      "clue": "This inventor used a kite to discover the nature of electricity in 1752.",
+      "answer": "Who is Benjamin Franklin?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Kite History",
+      "clue": "The Wright Brothers used kite principles to develop this.",
+      "answer": "What is the airplane?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Kite History",
+      "clue": "This engineer invented the box kite in 1893.",
+      "answer": "Who is Lawrence Hargrave?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Advanced Kite Types",
+      "clue": "This Asian kite has a curved design and uses glass-coated string.",
+      "answer": "What is a fighter kite?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Advanced Kite Types",
+      "clue": "This large kite requires at least 10 people to hold the string.",
+      "answer": "What is a rokkaku?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Advanced Kite Types",
+      "clue": "This modern kite has four lines and is used for tricks.",
+      "answer": "What is a quad-line kite (or 4-line kite)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Advanced Kite Types",
+      "clue": "This kite is used for water sports and paragliding.",
+      "answer": "What is a power kite?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Materials & Construction",
+      "clue": "Modern kites often use this lightweight synthetic material instead of paper.",
+      "answer": "What is nylon (or plastic/polyester)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Materials & Construction",
+      "clue": "Kite frame poles are often made of this flexible material.",
+      "answer": "What is bamboo (or fiberglass)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Materials & Construction",
+      "clue": "Traditional kite strings are coated with this to increase durability.",
+      "answer": "What is rice paste (or glass powder)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Beach Conditions",
+      "clue": "Wet sand on the beach is ideal for this purpose.",
+      "answer": "What is standing (or running)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Beach Conditions",
+      "clue": "This natural phenomenon at the beach can help wind patterns for kites.",
+      "answer": "What is a sea breeze?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Beach Conditions",
+      "clue": "Tall objects on the beach create wind shadows called this.",
+      "answer": "What is wind turbulence (or eddies)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Tricks & Maneuvers",
+      "clue": "This trick involves making a kite hover almost motionless.",
+      "answer": "What is stalling?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Tricks & Maneuvers",
+      "clue": "A kite that suddenly drops from the sky is said to do this.",
+      "answer": "What is dive (or nose-dive)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Tricks & Maneuvers",
+      "clue": "Making a kite spin in circles is called doing this.",
+      "answer": "What is a spin (or barrel roll)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Seasonal Flying",
+      "clue": "This season typically has the most stable wind for kite flying.",
+      "answer": "What is spring (or fall)?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Seasonal Flying",
+      "clue": "Kite flying festivals are most common during this season.",
+      "answer": "What is spring?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Safety & Precautions",
+      "clue": "Always fly kites in this kind of area away from obstacles.",
+      "answer": "What is an open space?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Safety & Precautions",
+      "clue": "Wear these to protect your hands from string cuts.",
+      "answer": "What are gloves?"
+    },
+    {
+      "level": 2,
+      "points": 200,
+      "category": "Safety & Precautions",
+      "clue": "Always fly kites with this type of person, especially children.",
+      "answer": "What is an adult (or a partner/buddy)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Aerodynamics",
+      "clue": "This force pulls a kite downward toward the earth.",
+      "answer": "What is gravity?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Aerodynamics",
+      "clue": "This force pushes air against the kite surface to create lift.",
+      "answer": "What is air pressure?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Aerodynamics",
+      "clue": "The angle between the kite surface and the wind is called this.",
+      "answer": "What is the angle of attack?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Aerodynamics",
+      "clue": "This force opposes a kite's movement through the air.",
+      "answer": "What is drag?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Wind Patterns",
+      "clue": "Wind patterns that spiral upward are called this.",
+      "answer": "What are thermal updrafts (or thermals)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Wind Patterns",
+      "clue": "This occurs when wind flows around obstacles and creates confusion.",
+      "answer": "What is wind shear?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Wind Patterns",
+      "clue": "Rotating winds near the ground are called this.",
+      "answer": "What are dust devils (or vortices)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Wind Patterns",
+      "clue": "The change in wind speed with height is called this gradient.",
+      "answer": "What is a wind shear gradient (or velocity gradient)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Advanced Materials",
+      "clue": "This modern kite material is waterproof and extremely durable.",
+      "answer": "What is ripstop nylon?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Advanced Materials",
+      "clue": "Kite strings used in sport are often made of this material.",
+      "answer": "What is Kevlar (or polyethylene)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Advanced Materials",
+      "clue": "The center support bar of a kite frame is called this.",
+      "answer": "What is a spine (or main spar)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Advanced Materials",
+      "clue": "The crossbar of a kite frame is called this.",
+      "answer": "What is a spar (or crosspiece)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Cultural Significance",
+      "clue": "This Indian festival celebrates kite flying annually.",
+      "answer": "What is Makar Sankranti?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Cultural Significance",
+      "clue": "This Brazilian sport uses kites for these athletic competitions.",
+      "answer": "What is kite fighting?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Cultural Significance",
+      "clue": "In this Asian country, kite fighting tournaments are major events.",
+      "answer": "What is Afghanistan?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Physics of Flight",
+      "clue": "This principle explains how moving air creates lift on a kite.",
+      "answer": "What is Bernoulli's principle?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Physics of Flight",
+      "clue": "Wind at the surface moves slower due to this effect.",
+      "answer": "What is ground friction (or surface friction)?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Kite Design",
+      "clue": "A kite with these can perform more aerobatic tricks.",
+      "answer": "What are multiple lines?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Kite Design",
+      "clue": "This design feature on a kite improves stability.",
+      "answer": "What is a longer tail?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Kite Design",
+      "clue": "The bridle of a kite serves this purpose.",
+      "answer": "What is controlling the angle of attack?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Elevation & Altitude",
+      "clue": "Most recreational kites reach heights between this range.",
+      "answer": "What is 50 to 500 feet?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Elevation & Altitude",
+      "clue": "The world record for kite height is over this many feet.",
+      "answer": "What is 12,000 feet?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Tricks & Skills",
+      "clue": "Making a kite fly backward is called this.",
+      "answer": "What is flying in reverse?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Tricks & Skills",
+      "clue": "Controlling every movement of a kite precisely is called this.",
+      "answer": "What is precision flying?"
+    },
+    {
+      "level": 3,
+      "points": 300,
+      "category": "Tricks & Skills",
+      "clue": "Flying multiple kites on one string is called this.",
+      "answer": "What is stacking?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Meteorology Basics",
+      "clue": "This measurement tool uses a spinning cup to measure wind speed.",
+      "answer": "What is an anemometer?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Meteorology Basics",
+      "clue": "This weather system causes dangerous gusty winds.",
+      "answer": "What is a thunderstorm (or squall line)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Meteorology Basics",
+      "clue": "Wind direction is measured using this instrument with cardinal points.",
+      "answer": "What is a weather vane (or wind vane)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Meteorology Basics",
+      "clue": "This atmospheric layer closest to Earth is where weather occurs.",
+      "answer": "What is the troposphere?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Advanced Aerodynamics",
+      "clue": "The curved surface of an airfoil that creates lift is called this.",
+      "answer": "What is a cambered surface?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Advanced Aerodynamics",
+      "clue": "This coefficient measures the lifting ability of a kite design.",
+      "answer": "What is the lift coefficient (or CL)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Advanced Aerodynamics",
+      "clue": "The ratio of lift to drag on a kite is measured by this.",
+      "answer": "What is the glide ratio (or L/D ratio)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Advanced Aerodynamics",
+      "clue": "The boundary layer between moving air and the kite surface causes this.",
+      "answer": "What is turbulence (or eddy formation)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Kite Sports & Competitions",
+      "clue": "This sport combines kites with windsurfing on water.",
+      "answer": "What is kitesurfing (or kiteboarding)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Kite Sports & Competitions",
+      "clue": "This sport uses large power kites to pull a person across snow.",
+      "answer": "What is snow kiting (or kite skiing)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Kite Sports & Competitions",
+      "clue": "This sport involves jumping with a kite to achieve great height.",
+      "answer": "What is kite landboarding (or kite bugging)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Kite Sports & Competitions",
+      "clue": "In kite fighting competitions, the goal is to do this to opponents' kites.",
+      "answer": "What is cut their string (or sever)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Historical Innovations",
+      "clue": "This famous photographer used a kite to take aerial photographs.",
+      "answer": "Who is George Lawrence?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Historical Innovations",
+      "clue": "This scientist used kites to demonstrate pressure differences in air.",
+      "answer": "Who is Johann Lenz?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Historical Innovations",
+      "clue": "This inventor developed the cellular or box kite design principle.",
+      "answer": "Who is Lawrence Hargrave?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Coastal Meteorology",
+      "clue": "This formation of wind along a coast creates ideal kite conditions.",
+      "answer": "What is a coastal jet (or sea breeze front)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Coastal Meteorology",
+      "clue": "Temperature differences between land and sea create this wind pattern.",
+      "answer": "What is a thermal circulation (or diurnal cycle)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Coastal Meteorology",
+      "clue": "This narrow zone marks where sea breeze temperature changes occur.",
+      "answer": "What is the sea breeze front?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "String & Lines",
+      "clue": "High-quality kite string can withstand this much tension.",
+      "answer": "What is 50+ pounds of tension?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "String & Lines",
+      "clue": "This type of knot secures a kite string to the bridle.",
+      "answer": "What is a larks head knot (or reverse larks head)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "String & Lines",
+      "clue": "This spool holds hundreds of feet of kite string.",
+      "answer": "What is a kite reel?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Optimal Conditions",
+      "clue": "The barometric pressure for ideal kite flying is around this.",
+      "answer": "What is 30 inches of mercury?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Optimal Conditions",
+      "clue": "Humidity levels affect air density and therefore this.",
+      "answer": "What is wind speed (or lift capability)?"
+    },
+    {
+      "level": 4,
+      "points": 400,
+      "category": "Optimal Conditions",
+      "clue": "Kites perform best when wind direction is this consistent.",
+      "answer": "What is steady (or constant)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Quantum Wind Dynamics",
+      "clue": "This mathematical model predicts turbulent wind patterns near the ground.",
+      "answer": "What is the Reynolds equation?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Quantum Wind Dynamics",
+      "clue": "The logarithmic wind profile describes wind speed variation over this.",
+      "answer": "What is height (or altitude)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Quantum Wind Dynamics",
+      "clue": "This non-dimensional number measures flow regime characteristics.",
+      "answer": "What is the Reynolds number?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Quantum Wind Dynamics",
+      "clue": "Fractals are used to model this aspect of natural wind patterns.",
+      "answer": "What is turbulence scaling (or power spectrum)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Advanced Kite Physics",
+      "clue": "This mathematical formula describes kite lift as force.",
+      "answer": "What is F = 0.5 * rho * v^2 * S * CL?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Advanced Kite Physics",
+      "clue": "The center of this point must align behind the center of pressure for stability.",
+      "answer": "What is the center of mass (or center of gravity)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Advanced Kite Physics",
+      "clue": "This occurs when wind pressure exceeds structural limits of a kite.",
+      "answer": "What is structural failure (or flutter)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Advanced Kite Physics",
+      "clue": "The neutral point where kite balance changes is called this.",
+      "answer": "What is the center of pressure (or aerodynamic center)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Experimental Kite Flying",
+      "clue": "This technique uses weather balloons attached to kites.",
+      "answer": "What is meteorological kite flying?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Experimental Kite Flying",
+      "clue": "Early atmospheric research used kites equipped with this.",
+      "answer": "What are weather instruments (or anemometers)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Experimental Kite Flying",
+      "clue": "Kites are used in this scientific field to study boundary layer dynamics.",
+      "answer": "What is atmospheric science (or meteorology)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Experimental Kite Flying",
+      "clue": "This technique uses kites to measure wind velocity profiles with altitude.",
+      "answer": "What is vertical wind profiling?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "International Kite Culture",
+      "clue": "In India, the losing kite in a battle becomes property of this group.",
+      "answer": "What is the victor (or winner)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "International Kite Culture",
+      "clue": "The kite festival in Jaipur, India, celebrates this many days.",
+      "answer": "What is three days?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "International Kite Culture",
+      "clue": "This Afghan kite fighting master is a protagonist in literary works.",
+      "answer": "What is a baaz bazi player?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "International Kite Culture",
+      "clue": "This traditional Japanese kite festival is named after a season.",
+      "answer": "What is a Rokkaku festival (or Nagasaki hamaichi)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Biomimicry in Kites",
+      "clue": "Kite designers study the flight patterns of this animal.",
+      "answer": "What are birds (or raptors)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Biomimicry in Kites",
+      "clue": "The wing shape of a kite mimics this feature of birds.",
+      "answer": "What is a cambered airfoil (or curved wing)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Biomimicry in Kites",
+      "clue": "Tail feathers of birds inspire this stability feature in kites.",
+      "answer": "What is the tail (or stabilizer)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Environmental Factors",
+      "clue": "This phenomenon occurs when water meets warmer land air.",
+      "answer": "What is fog (or sea breeze inversion)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Environmental Factors",
+      "clue": "Solar heating creates these columns of rising warm air for kites.",
+      "answer": "What are thermals (or updrafts)?"
+    },
+    {
+      "level": 5,
+      "points": 500,
+      "category": "Environmental Factors",
+      "clue": "This weather condition creates wind patterns perfect for certain kite styles.",
+      "answer": "What is high pressure (or stable conditions)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Computational Fluid Dynamics",
+      "clue": "This numerical method simulates kite aerodynamic behavior in wind.",
+      "answer": "What is Computational Fluid Dynamics (CFD)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Computational Fluid Dynamics",
+      "clue": "This equation governs the motion of viscous fluids around kites.",
+      "answer": "What are the Navier-Stokes equations?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Computational Fluid Dynamics",
+      "clue": "This non-dimensional number determines laminar or turbulent flow.",
+      "answer": "What is the Reynolds number?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Computational Fluid Dynamics",
+      "clue": "The boundary layer thickness grows as this function of distance.",
+      "answer": "What is the square root of distance (or power law)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Advanced Structural Analysis",
+      "clue": "This material property describes how kite materials deform under stress.",
+      "answer": "What is Young's modulus (or elastic modulus)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Advanced Structural Analysis",
+      "clue": "This analysis predicts failure modes in kite frame construction.",
+      "answer": "What is finite element analysis (FEA)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Advanced Structural Analysis",
+      "clue": "This resonance phenomenon can cause kite oscillations in turbulent wind.",
+      "answer": "What is aeroelastic flutter (or vortex-induced vibration)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Advanced Structural Analysis",
+      "clue": "The stress concentration factor for a kite corner is typically this value.",
+      "answer": "What is between 2 and 4?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Atmospheric Boundary Layer Science",
+      "clue": "This layer of atmosphere extends from surface to 1-2 km height.",
+      "answer": "What is the planetary boundary layer (or PBL)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Atmospheric Boundary Layer Science",
+      "clue": "This roughness parameter describes landscape effects on wind.",
+      "answer": "What is the roughness length (or z0)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Atmospheric Boundary Layer Science",
+      "clue": "This mechanism causes wind to veer with altitude in stable conditions.",
+      "answer": "What is the Coriolis effect (or Ekman spiral)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Atmospheric Boundary Layer Science",
+      "clue": "This stability classification affects wind mixing near the ground.",
+      "answer": "What is the Pasquill-Gifford stability class?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Optimization Algorithms",
+      "clue": "This optimization technique mimics natural selection for kite design.",
+      "answer": "What is a genetic algorithm?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Optimization Algorithms",
+      "clue": "This algorithm uses gradient descent to optimize kite parameters.",
+      "answer": "What is the conjugate gradient method?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Optimization Algorithms",
+      "clue": "This Monte Carlo method uses random sampling for design optimization.",
+      "answer": "What is the Metropolis algorithm (or simulated annealing)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Optimization Algorithms",
+      "clue": "This machine learning technique predicts kite performance from shape.",
+      "answer": "What is neural network regression?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Esoteric Wind Science",
+      "clue": "This rare wind pattern forms in mountain passes with exceptional acceleration.",
+      "answer": "What is a Venturi effect wind?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Esoteric Wind Science",
+      "clue": "This phenomenon occurs when stable air flows over mountains.",
+      "answer": "What are lee waves (or mountain waves)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Esoteric Wind Science",
+      "clue": "This rotating storm system creates conditions unsuitable for safe flying.",
+      "answer": "What is a tornado (or mesocyclone)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Esoteric Wind Science",
+      "clue": "This wave-like wind pattern forms when convection is suppressed.",
+      "answer": "What is gravity wave propagation?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Exotic Kite Varieties",
+      "clue": "This Indian kite style features a sharp bamboo spar design.",
+      "answer": "What is the Nagpur kite (or traditional diamond kite)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Exotic Kite Varieties",
+      "clue": "This Indonesian kite design uses a shield-shaped frame.",
+      "answer": "What is the layangan (or Indonesian fighting kite)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Exotic Kite Varieties",
+      "clue": "This Persian kite style is used in high-altitude competitions.",
+      "answer": "What is the gudi (or Persian fighter kite)?"
+    },
+    {
+      "level": 6,
+      "points": 600,
+      "category": "Exotic Kite Varieties",
+      "clue": "This Brazilian kite construction uses a six-sided frame.",
+      "answer": "What is the papagaio (or Brazilian fighter kite)?"
+    }
+  ]
+}

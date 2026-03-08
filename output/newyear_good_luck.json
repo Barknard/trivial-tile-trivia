@@ -1,0 +1,316 @@
+{
+  "category": "New Year Good Luck Charms & Superstitions",
+  "theme": "new_year_traditions",
+  "category_id": "newyear_good_luck",
+  "description": "Lucky charms, superstitions, good luck traditions, New Year's customs, cultural lucky practices, fortune-telling, amulets, talismans, lucky symbols across cultures, and prosperity rituals for new beginnings",
+  "age_suitability": "All ages",
+  "research_alignment": "Cultural traditions, folk beliefs, psychology of luck, superstitions across cultures, symbolism, spiritual practices, New Year customs, fortune mythology, lucky symbols history, global celebration traditions",
+  "generated_date": "2025-12-31",
+  "total_questions": 60,
+  "audiences": {
+    "regular_trivia": [
+      {
+        "clue": "This horseshoe is traditionally hung above doorways to bring good luck",
+        "correctQuestion": "What is an upside-down horseshoe?",
+        "value": 200
+      },
+      {
+        "clue": "In Chinese culture, this color is considered extremely lucky",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "The number 8 is considered lucky in this Asian culture",
+        "correctQuestion": "What is Chinese culture?",
+        "value": 200
+      },
+      {
+        "clue": "This four-leaf plant is traditionally carried for luck in Ireland",
+        "correctQuestion": "What is a four-leaf clover?",
+        "value": 200
+      },
+      {
+        "clue": "Breaking this mirror is believed to bring seven years of bad luck",
+        "correctQuestion": "What is a mirror?",
+        "value": 200
+      },
+      {
+        "clue": "Knocking on this material is done to ward off bad luck",
+        "correctQuestion": "What is wood?",
+        "value": 200
+      },
+      {
+        "clue": "In Western culture, walking under this is considered bad luck",
+        "correctQuestion": "What is a ladder?",
+        "value": 200
+      },
+      {
+        "clue": "This number is considered unlucky in many Western cultures",
+        "correctQuestion": "What is 13?",
+        "value": 200
+      },
+      {
+        "clue": "A black cat crossing your path is believed to bring this in some cultures",
+        "correctQuestion": "What is bad luck?",
+        "value": 200
+      },
+      {
+        "clue": "This fruit is traditionally eaten on New Year's Eve in the Mediterranean",
+        "correctQuestion": "What are grapes?",
+        "value": 200
+      },
+      {
+        "clue": "Coins in this dessert are a traditional New Year's good luck symbol",
+        "correctQuestion": "What is a cake or pudding?",
+        "value": 400
+      },
+      {
+        "clue": "This gemstone is believed to bring good luck and prosperity in Hindu traditions",
+        "correctQuestion": "What is a ruby or yellow sapphire?",
+        "value": 400
+      },
+      {
+        "clue": "In feng shui, this plant is placed at home entrances for prosperity",
+        "correctQuestion": "What is bamboo or money plant?",
+        "value": 400
+      },
+      {
+        "clue": "This iron implement shaped like a horse's hoof brings luck in Italian culture",
+        "correctQuestion": "What is a horseshoe?",
+        "value": 400
+      },
+      {
+        "clue": "Opening these after midnight on New Year's Eve symbolizes welcoming good luck",
+        "correctQuestion": "What are windows or doors?",
+        "value": 400
+      },
+      {
+        "clue": "This traditional New Year's bread contains a coin for good fortune",
+        "correctQuestion": "What is a king cake or vasilopita?",
+        "value": 400
+      },
+      {
+        "clue": "The practice of wearing this color on New Year's Day brings good luck in some cultures",
+        "correctQuestion": "What is red?",
+        "value": 400
+      },
+      {
+        "clue": "In Japanese culture, this symbol shaped like '&' is hung for good luck",
+        "correctQuestion": "What is the number 8 or the Daruma doll?",
+        "value": 400
+      },
+      {
+        "clue": "This practice of throwing coins into water wells makes a wish for luck",
+        "correctQuestion": "What is coin tossing or well-wishing?",
+        "value": 400
+      },
+      {
+        "clue": "In Scotland, the first person to enter your home on New Year's Day is called this",
+        "correctQuestion": "What is the first foot or first footer?",
+        "value": 400
+      },
+      {
+        "clue": "This Egyptian symbol shaped like a cross represents eternal life and good fortune",
+        "correctQuestion": "What is an ankh?",
+        "value": 600
+      },
+      {
+        "clue": "In Spanish tradition, eating this exact number of grapes at midnight brings good luck",
+        "correctQuestion": "What is 12 grapes?",
+        "value": 600
+      },
+      {
+        "clue": "This Hindu celebration of lights is called Diwali and represents good luck and prosperity",
+        "correctQuestion": "What is the Festival of Lights?",
+        "value": 600
+      },
+      {
+        "clue": "A salt circle is drawn around homes in this African tradition for protection",
+        "correctQuestion": "What is Hoodoo or African American folk practice?",
+        "value": 600
+      },
+      {
+        "clue": "This crystal stone is believed to bring clarity and good luck in New Age practices",
+        "correctQuestion": "What is clear quartz?",
+        "value": 600
+      },
+      {
+        "clue": "The Hamsa hand symbol originates from this Middle Eastern and North African region",
+        "correctQuestion": "What is the Middle East or Morocco?",
+        "value": 600
+      },
+      {
+        "clue": "Carrying this herb bundle called smudging clears negative energy in Native traditions",
+        "correctQuestion": "What is sage?",
+        "value": 600
+      },
+      {
+        "clue": "This Jewish tradition of breaking glass at weddings symbolizes good luck and new beginnings",
+        "correctQuestion": "What is breaking the glass or 'mazel tov'?",
+        "value": 600
+      },
+      {
+        "clue": "The Nian monster legend from China is why we celebrate the New Year with this color",
+        "correctQuestion": "What is red?",
+        "value": 600
+      },
+      {
+        "clue": "In Korean tradition, this soup eaten on New Year's Day brings good luck and another year of age",
+        "correctQuestion": "What is tteokguk or rice cake soup?",
+        "value": 600
+      }
+    ],
+    "cah_trivia": [
+      {
+        "clue": "The gig economy hustle your cousin started because they ignored this New Year's superstition",
+        "correctQuestion": "What is breaking a mirror?",
+        "value": 200
+      },
+      {
+        "clue": "What your New Year's resolution actually tracks",
+        "correctQuestion": "What is your Netflix watch history?",
+        "value": 200
+      },
+      {
+        "clue": "The real reason people eat 12 grapes at midnight: they're trying to forget they just",
+        "correctQuestion": "What is their dating profile picture?",
+        "value": 200
+      },
+      {
+        "clue": "What you're actually throwing coins into the wishing well for",
+        "correctQuestion": "What is your rent money?",
+        "value": 200
+      },
+      {
+        "clue": "The superstition your parents follow that actually made your life worse",
+        "correctQuestion": "What is not stepping on cracks?",
+        "value": 200
+      },
+      {
+        "clue": "This lucky charm sits on your dashboard, smells like 2005, and definitely violated traffic laws",
+        "correctQuestion": "What is a fuzzy dice or air freshener?",
+        "value": 200
+      },
+      {
+        "clue": "Why your astrology-obsessed coworker blamed Mercury for the spreadsheet disaster",
+        "correctQuestion": "What is Mercury retrograde?",
+        "value": 200
+      },
+      {
+        "clue": "The New Year's Eve tradition that's just an excuse to drink and cry about your job",
+        "correctQuestion": "What is watching the ball drop?",
+        "value": 200
+      },
+      {
+        "clue": "What Gen Z considers bad luck more than breaking a mirror",
+        "correctQuestion": "What is eye contact?",
+        "value": 200
+      },
+      {
+        "clue": "Your mom's lucky penny has more bacteria than this place",
+        "correctQuestion": "What is a gas station bathroom?",
+        "value": 200
+      },
+      {
+        "clue": "The horseshoe hung above your door is just expensive because it's from this app",
+        "correctQuestion": "What is Etsy?",
+        "value": 400
+      },
+      {
+        "clue": "What the ancient Egyptians used as a lucky charm that your college roommate got tattooed",
+        "correctQuestion": "What is an ankh?",
+        "value": 400
+      },
+      {
+        "clue": "The crystal healing practice that's really just depression spending on Goop",
+        "correctQuestion": "What is buying crystals?",
+        "value": 400
+      },
+      {
+        "clue": "Why your friend's feng shui consultant costs more per hour than this",
+        "correctQuestion": "What is your therapist?",
+        "value": 400
+      },
+      {
+        "clue": "The lucky charm your paranoid sibling bought because this TikTok creator endorsed it",
+        "correctQuestion": "What is a random beauty influencer?",
+        "value": 400
+      },
+      {
+        "clue": "What your zodiac sign uses to justify procrastinating on your New Year's goals",
+        "correctQuestion": "What is Mercury retrograde or planetary alignment?",
+        "value": 400
+      },
+      {
+        "clue": "The tarot card reading you got that told you exactly what you wanted to hear: you'll finally",
+        "correctQuestion": "What is have a successful year?",
+        "value": 400
+      },
+      {
+        "clue": "Your aunt's lucky red envelope money went directly to this on New Year's",
+        "correctQuestion": "What is your college debt or credit card bills?",
+        "value": 400
+      },
+      {
+        "clue": "The rabbit's foot keychain your grandpa carries which is definitely from",
+        "correctQuestion": "What is a roadkill incident?",
+        "value": 400
+      },
+      {
+        "clue": "Why your manifestation board from 2023 only attracted this",
+        "correctQuestion": "What is dust bunnies?",
+        "value": 400
+      },
+      {
+        "clue": "The lucky number 8 in Chinese culture looks like this emoji when you're too broke to care about fortune",
+        "correctQuestion": "What is ∞ (infinity)?",
+        "value": 600
+      },
+      {
+        "clue": "Your wellness influencer's New Year 'lucky ritual' is actually just expensive",
+        "correctQuestion": "What is a juice cleanse or detox program?",
+        "value": 600
+      },
+      {
+        "clue": "The Hamsa hand good luck symbol that your cultural appropriation friend bought at this store",
+        "correctQuestion": "What is Urban Outfitters or a mall kiosk?",
+        "value": 600
+      },
+      {
+        "clue": "Why opening windows on New Year's Eve makes sense when you realize they're trying to let out",
+        "correctQuestion": "What is the smell of last year's failure?",
+        "value": 600
+      },
+      {
+        "clue": "The astrology app your friends use to make decisions that really should just be made by",
+        "correctQuestion": "What is a functioning adult or literally anyone with sense?",
+        "value": 600
+      },
+      {
+        "clue": "What 'breaking bad luck' actually means in modern therapy culture",
+        "correctQuestion": "What is breaking avoidant attachment patterns?",
+        "value": 600
+      },
+      {
+        "clue": "Your manifestation coach's lucky ritual costs $500 and is scientifically equivalent to",
+        "correctQuestion": "What is closing your eyes and guessing?",
+        "value": 600
+      },
+      {
+        "clue": "The reason salt circles don't work for protection from anything except",
+        "correctQuestion": "What is slugs?",
+        "value": 600
+      },
+      {
+        "clue": "Your friend's lucky charm from their spiritual awakening retreat is actually just",
+        "correctQuestion": "What is expensive garbage or spiritual consumerism?",
+        "value": 600
+      },
+      {
+        "clue": "Why the money plant in your apartment only brought luck to your landlord's",
+        "correctQuestion": "What is rent collection?",
+        "value": 600
+      }
+    ]
+  }
+}

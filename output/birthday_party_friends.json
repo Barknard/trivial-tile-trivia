@@ -1,0 +1,309 @@
+{
+  "category": "Birthday Party Friends - Celebrating with Friends, Friendship",
+  "theme": "birthday",
+  "category_id": "birthday_party_friends",
+  "regular_clues": [
+    {
+      "clue": "Your closest friends gathered to celebrate your special day",
+      "correctQuestion": "What is a birthday party?",
+      "value": 200
+    },
+    {
+      "clue": "This person receives a special role standing beside the birthday person",
+      "correctQuestion": "Who is a best friend?",
+      "value": 200
+    },
+    {
+      "clue": "The tradition where everyone surrounds the birthday person and sings",
+      "correctQuestion": "What is singing happy birthday?",
+      "value": 200
+    },
+    {
+      "clue": "Friends gather to share food, drinks, and this at celebrations",
+      "correctQuestion": "What is cake?",
+      "value": 200
+    },
+    {
+      "clue": "These wrapped items are given by friends at birthday celebrations",
+      "correctQuestion": "What are gifts?",
+      "value": 200
+    },
+    {
+      "clue": "The person who invites friends to celebrate their birthday",
+      "correctQuestion": "Who is the birthday person?",
+      "value": 200
+    },
+    {
+      "clue": "A group of close friends you trust with your deepest secrets",
+      "correctQuestion": "What is a best friend group?",
+      "value": 200
+    },
+    {
+      "clue": "The feeling you get when surrounded by friends who care about you",
+      "correctQuestion": "What is joy or happiness?",
+      "value": 200
+    },
+    {
+      "clue": "Friends often make these with candles on them for birthdays",
+      "correctQuestion": "What is a wish?",
+      "value": 200
+    },
+    {
+      "clue": "These are sent to invite people to a birthday party",
+      "correctQuestion": "What are invitations?",
+      "value": 400
+    },
+    {
+      "clue": "The bond that makes friends want to celebrate your birthday",
+      "correctQuestion": "What is love or friendship?",
+      "value": 400
+    },
+    {
+      "clue": "Friends often plan this without your knowledge before the party",
+      "correctQuestion": "What is a surprise?",
+      "value": 400
+    },
+    {
+      "clue": "This group celebrates together, supports each other, and stays loyal",
+      "correctQuestion": "What is a friend group?",
+      "value": 400
+    },
+    {
+      "clue": "The person who knows every embarrassing story about you at the party",
+      "correctQuestion": "Who is your oldest friend?",
+      "value": 400
+    },
+    {
+      "clue": "Friends gather in this location for most birthday celebrations",
+      "correctQuestion": "What is a home or party venue?",
+      "value": 400
+    },
+    {
+      "clue": "This social skill helps you make friends who celebrate with you",
+      "correctQuestion": "What is kindness?",
+      "value": 400
+    },
+    {
+      "clue": "What true friends give you besides presents on your birthday",
+      "correctQuestion": "What is their time and presence?",
+      "value": 400
+    },
+    {
+      "clue": "The moment when your best friend walks through the door at your party",
+      "correctQuestion": "What is pure excitement?",
+      "value": 400
+    },
+    {
+      "clue": "Friends do this when you succeed to show they support you",
+      "correctQuestion": "What is cheering or celebrating?",
+      "value": 600
+    },
+    {
+      "clue": "A friendship quality that makes someone want to show up for your birthday",
+      "correctQuestion": "What is loyalty?",
+      "value": 600
+    },
+    {
+      "clue": "The thing friends value most when deciding to celebrate with you",
+      "correctQuestion": "What is your personality or character?",
+      "value": 600
+    },
+    {
+      "clue": "This bond between friends makes birthday celebrations feel meaningful",
+      "correctQuestion": "What is a deep connection?",
+      "value": 600
+    },
+    {
+      "clue": "Friends who travel long distances to celebrate with you show this",
+      "correctQuestion": "What is dedication?",
+      "value": 600
+    },
+    {
+      "clue": "The type of friend who remembers your birthday without being reminded",
+      "correctQuestion": "Who is a true friend?",
+      "value": 600
+    },
+    {
+      "clue": "What good friends offer you during difficult times between birthdays",
+      "correctQuestion": "What is support or comfort?",
+      "value": 800
+    },
+    {
+      "clue": "This quality allows friends to accept your flaws while celebrating you",
+      "correctQuestion": "What is unconditional love?",
+      "value": 800
+    },
+    {
+      "clue": "The most valuable gift friends can give you at a birthday party",
+      "correctQuestion": "What is their genuine presence and attention?",
+      "value": 800
+    },
+    {
+      "clue": "Friends who stay through hard times and celebrate good times embody this",
+      "correctQuestion": "What is true friendship?",
+      "value": 800
+    },
+    {
+      "clue": "This type of friend knows you so well they can finish your sentences",
+      "correctQuestion": "Who is a best friend?",
+      "value": 800
+    },
+    {
+      "clue": "The feeling that makes lifelong friendships happen at birthday parties",
+      "correctQuestion": "What is recognition of a kindred spirit?",
+      "value": 1000
+    }
+  ],
+  "no_humanity": [
+    {
+      "clue": "What your best friend claims they'll do but actually ghosts you for",
+      "correctQuestion": "What is your birthday?",
+      "value": 200
+    },
+    {
+      "clue": "The excuse your friend texts 20 minutes before the party starts",
+      "correctQuestion": "What is traffic or a family emergency?",
+      "value": 200
+    },
+    {
+      "clue": "The group chat notification at 3am the night before your birthday",
+      "correctQuestion": "What is friends roasting you with embarrassing memories?",
+      "value": 200
+    },
+    {
+      "clue": "What your friend's Instagram story shows instead of your party",
+      "correctQuestion": "What is their bathroom mirror selfie?",
+      "value": 200
+    },
+    {
+      "clue": "The gift your friend regifted that still has the receipt",
+      "correctQuestion": "What is a candle from three holidays ago?",
+      "value": 200
+    },
+    {
+      "clue": "What your friend uses to film you blowing out candles for clout",
+      "correctQuestion": "What is their phone?",
+      "value": 200
+    },
+    {
+      "clue": "The text your friend sends asking what to bring 2 hours before arrival",
+      "correctQuestion": "What is are you still doing dinner?",
+      "value": 200
+    },
+    {
+      "clue": "Your friend's gift wrapped in newspaper because they forgot to go shopping",
+      "correctQuestion": "What is a birthday disaster?",
+      "value": 200
+    },
+    {
+      "clue": "What your 'best friend' checks before responding to your party invite",
+      "correctQuestion": "What is their Venmo balance?",
+      "value": 200
+    },
+    {
+      "clue": "The friend who arrives with a gift card still warm from the register",
+      "correctQuestion": "What is the procrastinator?",
+      "value": 400
+    },
+    {
+      "clue": "What the group chat devolves into when planning your surprise party",
+      "correctQuestion": "What is accidental spoilers and arguments about who pays?",
+      "value": 400
+    },
+    {
+      "clue": "Your friend's excuse for not attending despite blocking out the date",
+      "correctQuestion": "What is a Netflix series finale that day?",
+      "value": 400
+    },
+    {
+      "clue": "What your friend livestreams during your birthday instead of hanging out",
+      "correctQuestion": "What is their morning coffee?",
+      "value": 400
+    },
+    {
+      "clue": "The first thing your friend does when arriving at your party",
+      "correctQuestion": "What is finding the bathroom?",
+      "value": 400
+    },
+    {
+      "clue": "What your friend orders to drink at the party but doesn't finish",
+      "correctQuestion": "What is something they'll never drink again?",
+      "value": 400
+    },
+    {
+      "clue": "The friend who brings a plus-one nobody invited",
+      "correctQuestion": "What is the worst timing ever?",
+      "value": 400
+    },
+    {
+      "clue": "What gets shared in the group chat after your party about what happened",
+      "correctQuestion": "What is a video of you crying that nobody asked for?",
+      "value": 400
+    },
+    {
+      "clue": "Your friend's gift that's still in the original packaging from last year",
+      "correctQuestion": "What is regifted trauma?",
+      "value": 400
+    },
+    {
+      "clue": "What happens when your best friend starts drinking at your party",
+      "correctQuestion": "What is they suddenly become honest about everything?",
+      "value": 600
+    },
+    {
+      "clue": "The thing your friend swears they'll do but never follows through on",
+      "correctQuestion": "What is planning another friend's surprise?",
+      "value": 600
+    },
+    {
+      "clue": "What your friend confuses your birthday party date with yearly",
+      "correctQuestion": "What is their own birthday?",
+      "value": 600
+    },
+    {
+      "clue": "The reason your friend doesn't show up to your party despite RSVP yes",
+      "correctQuestion": "What is emotional unavailability or poor planning?",
+      "value": 600
+    },
+    {
+      "clue": "What your friend does in the group chat instead of your birthday",
+      "correctQuestion": "What is thirst-trapping for engagement?",
+      "value": 600
+    },
+    {
+      "clue": "Your friend's gift that makes you question your entire friendship",
+      "correctQuestion": "What is a Crocs keychain?",
+      "value": 600
+    },
+    {
+      "clue": "What your 'ride or die' friend has done at every birthday party",
+      "correctQuestion": "What is almost ruining something important?",
+      "value": 800
+    },
+    {
+      "clue": "The moment you realize your 'best friend' forgot your birthday again",
+      "correctQuestion": "What is scrolling through Instagram seeing them at someone else's party?",
+      "value": 800
+    },
+    {
+      "clue": "What your friends are actually celebrating at your 'birthday party'",
+      "correctQuestion": "What is an excuse to drink and avoid their own problems?",
+      "value": 800
+    },
+    {
+      "clue": "The friend who tells their entire group chat about your business",
+      "correctQuestion": "What is the one you told a secret to?",
+      "value": 800
+    },
+    {
+      "clue": "What your friend does when you're crying at your own party",
+      "correctQuestion": "What is record it for TikTok?",
+      "value": 800
+    },
+    {
+      "clue": "Your 'childhood best friend' who you haven't seen in seven years",
+      "correctQuestion": "What is just a follower on Instagram now?",
+      "value": 1000
+    }
+  ]
+}

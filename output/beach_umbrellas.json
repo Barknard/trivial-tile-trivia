@@ -1,0 +1,408 @@
+{
+  "category": "Beach Umbrellas",
+  "description": "Family-friendly trivia about beach umbrellas, shade, sun protection, and beach safety",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "A portable shelter typically made of fabric stretched over a frame, commonly seen at beaches",
+      "answer": "What is a beach umbrella?"
+    },
+    {
+      "points": 200,
+      "clue": "This lightweight metal or wooden structure holds up a beach umbrella",
+      "answer": "What is a pole or shaft?"
+    },
+    {
+      "points": 200,
+      "clue": "The circular covering on top of a beach umbrella usually made of nylon or canvas",
+      "answer": "What is the canopy?"
+    },
+    {
+      "points": 200,
+      "clue": "The wide base that keeps a beach umbrella from blowing away",
+      "answer": "What is an anchor or base?"
+    },
+    {
+      "points": 200,
+      "clue": "This protection factor helps measure how much UV light is blocked",
+      "answer": "What is SPF (Sun Protection Factor)?"
+    },
+    {
+      "points": 200,
+      "clue": "The sun's rays that can cause skin damage and premature aging",
+      "answer": "What are UV rays?"
+    },
+    {
+      "points": 200,
+      "clue": "Beach umbrellas come in many bright colors to reflect this",
+      "answer": "What is sunlight or heat?"
+    },
+    {
+      "points": 200,
+      "clue": "This term describes the cooler area created under a beach umbrella",
+      "answer": "What is shade?"
+    },
+    {
+      "points": 200,
+      "clue": "During the hottest part of the day, beach umbrellas provide this protection",
+      "answer": "What is shade or shelter?"
+    },
+    {
+      "points": 200,
+      "clue": "A common color for beach umbrellas that symbolizes relaxation",
+      "answer": "What is blue?"
+    },
+    {
+      "points": 400,
+      "clue": "The mechanism that allows you to adjust the height and angle of a beach umbrella",
+      "answer": "What is a tilt feature or adjustment?"
+    },
+    {
+      "points": 400,
+      "clue": "This fabric treatment helps beach umbrella canopies resist water and fading",
+      "answer": "What is UV-resistant coating or waterproofing?"
+    },
+    {
+      "points": 400,
+      "clue": "A modern beach umbrella feature that automatically closes when windy",
+      "answer": "What is a wind-resistant mechanism?"
+    },
+    {
+      "points": 400,
+      "clue": "The process of the sun's rays causing skin damage over time",
+      "answer": "What is sun damage or sun exposure?"
+    },
+    {
+      "points": 400,
+      "clue": "Dermatologists recommend using beach umbrellas along with this SPF number sunscreen",
+      "answer": "What is SPF 30 or higher?"
+    },
+    {
+      "points": 400,
+      "clue": "The reddening of skin caused by too much sun exposure",
+      "answer": "What is a sunburn?"
+    },
+    {
+      "points": 400,
+      "clue": "This time of day requires the most sun protection at the beach",
+      "answer": "What is midday or 10 AM to 4 PM?"
+    },
+    {
+      "points": 400,
+      "clue": "Beach umbrellas are often anchored into this substance to stay secure",
+      "answer": "What is sand?"
+    },
+    {
+      "points": 400,
+      "clue": "A traditional beach umbrella design with a hinged canopy that can be folded",
+      "answer": "What is a telescoping umbrella?"
+    },
+    {
+      "points": 400,
+      "clue": "This type of fiber makes beach umbrellas lightweight and portable",
+      "answer": "What is fiberglass or aluminum?"
+    },
+    {
+      "points": 600,
+      "clue": "A rare pigment in skin that increases with sun exposure for protection",
+      "answer": "What is melanin?"
+    },
+    {
+      "points": 600,
+      "clue": "The angle at which you position a beach umbrella to maximize shade protection",
+      "answer": "What is 45 degrees or angled away from the sun?"
+    },
+    {
+      "points": 600,
+      "clue": "Beach umbrellas with this type of fabric offer better UV protection than polyester alone",
+      "answer": "What is treated or specialty UV-blocking fabric?"
+    },
+    {
+      "points": 600,
+      "clue": "This phenomenon occurs when UV rays bounce off sand and water to reflect onto skin",
+      "answer": "What is UV reflection?"
+    },
+    {
+      "points": 600,
+      "clue": "A condition caused by prolonged sun exposure that creates permanent damage to skin",
+      "answer": "What is skin cancer or melanoma?"
+    },
+    {
+      "points": 600,
+      "clue": "The width of a beach umbrella canopy that determines coverage area",
+      "answer": "What is diameter (usually 6-8 feet)?"
+    },
+    {
+      "points": 600,
+      "clue": "Beach umbrellas are typically designed at an angle for this reason",
+      "answer": "What is to provide shade as the sun moves?"
+    },
+    {
+      "points": 600,
+      "clue": "A portable alternative to beach umbrellas that provides full-body UV protection",
+      "answer": "What is a beach tent or pop-up shelter?"
+    },
+    {
+      "points": 600,
+      "clue": "The process of selecting a beach umbrella with proper tilt to block maximum UV",
+      "answer": "What is sun positioning or orientation?"
+    },
+    {
+      "points": 600,
+      "clue": "This accessory hanging from a beach umbrella provides additional shade for feet",
+      "answer": "What is a side panel or skirt?"
+    },
+    {
+      "points": 800,
+      "clue": "The technical term for skin damage caused by UVA and UVB radiation",
+      "answer": "What is photoaging or solar elastosis?"
+    },
+    {
+      "points": 800,
+      "clue": "Beach umbrellas made from this material are more durable and fade-resistant than standard fabric",
+      "answer": "What is acrylic or solution-dyed polyester?"
+    },
+    {
+      "points": 800,
+      "clue": "The measurement system used to determine how effectively a material blocks UV rays",
+      "answer": "What is UPF (Ultraviolet Protection Factor)?"
+    },
+    {
+      "points": 800,
+      "clue": "Scientists discovered this protection mechanism in organisms that produce melanin",
+      "answer": "What is natural sunscreen or UV absorbers?"
+    },
+    {
+      "points": 800,
+      "clue": "A beach umbrella design feature that distributes weight evenly to prevent tipping",
+      "answer": "What is a wide, weighted base or sand anchor?"
+    },
+    {
+      "points": 800,
+      "clue": "The wavelength of UV radiation that causes deeper skin damage and aging",
+      "answer": "What is UVA radiation?"
+    },
+    {
+      "points": 800,
+      "clue": "This atmospheric layer is responsible for filtering harmful UV radiation",
+      "answer": "What is the ozone layer?"
+    },
+    {
+      "points": 800,
+      "clue": "The angle of the sun changes throughout the year in what measurement",
+      "answer": "What is degrees of solar altitude?"
+    },
+    {
+      "points": 800,
+      "clue": "A premium beach umbrella option featuring reflective or mirrored coating technology",
+      "answer": "What is a solar-reflective umbrella?"
+    },
+    {
+      "points": 800,
+      "clue": "Modern beach umbrellas use this computer technology to track optimal shade positioning",
+      "answer": "What is solar tracking or positioning apps?"
+    },
+    {
+      "points": 1000,
+      "clue": "The critical UV index level at which beach umbrellas become absolutely essential",
+      "answer": "What is 6 or higher?"
+    },
+    {
+      "points": 1000,
+      "clue": "Scientists calculate that properly positioned beach umbrellas reduce UV exposure by approximately this percentage",
+      "answer": "What is 75% or more?"
+    },
+    {
+      "points": 1000,
+      "clue": "This compound in specialized beach umbrella fabrics actively absorbs rather than reflects UV rays",
+      "answer": "What is titanium dioxide or zinc oxide?"
+    },
+    {
+      "points": 1000,
+      "clue": "The reflection coefficient of sand compared to water that intensifies UV exposure",
+      "answer": "What is 25% (sand reflects more than water)?"
+    },
+    {
+      "points": 1000,
+      "clue": "Research shows this time period of sun exposure significantly increases skin cancer risk in children",
+      "answer": "What is 15 minutes or more?"
+    },
+    {
+      "points": 1000,
+      "clue": "The atmospheric altitude and latitude factor that increases UV intensity at beaches",
+      "answer": "What is elevation and proximity to equator?"
+    },
+    {
+      "points": 1000,
+      "clue": "Dermatological studies show beach umbrellas reduce skin damage probability by this factor",
+      "answer": "What is five times or 80 percent?"
+    },
+    {
+      "points": 1000,
+      "clue": "The thermal imaging principle used to design optimal beach umbrella angles for maximum cooling",
+      "answer": "What is infrared radiation reflection?"
+    },
+    {
+      "points": 1000,
+      "clue": "Marine biologists note that beach umbrellas protect shallow water ecosystems from this harmful phenomenon",
+      "answer": "What is human UV-induced stress or algae overgrowth?"
+    },
+    {
+      "points": 1000,
+      "clue": "The molecular structure of UV-protective dyes creates this type of polymer network in umbrella fabric",
+      "answer": "What is conjugated double bonds or chromophore systems?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "What beach umbrellas are actually used for after you get distracted on your phone",
+      "answer": "What is a place to hide your shopping bags?"
+    },
+    {
+      "points": 200,
+      "clue": "The real reason people buy colorful beach umbrellas",
+      "answer": "What is so their friends can find them in a crowd?"
+    },
+    {
+      "points": 200,
+      "clue": "What blows your beach umbrella away when you're in the water",
+      "answer": "What is a five-second gust of wind?"
+    },
+    {
+      "points": 200,
+      "clue": "Why you should never use an old beach umbrella",
+      "answer": "What is it's basically a UV lighthouse now?"
+    },
+    {
+      "points": 200,
+      "clue": "The percentage of beach umbrellas that survive spring break intact",
+      "answer": "What is basically zero percent?"
+    },
+    {
+      "points": 200,
+      "clue": "What happened to your beach umbrella after you bought three of them",
+      "answer": "What is they all ended up looking the same?"
+    },
+    {
+      "points": 400,
+      "clue": "The thing people steal at the beach most frequently after their dignity",
+      "answer": "What is beach umbrellas?"
+    },
+    {
+      "points": 400,
+      "clue": "Why your mom insists on the beach umbrella you hate",
+      "answer": "What is because skin cancer is serious?"
+    },
+    {
+      "points": 400,
+      "clue": "The absolute worst beach umbrella material according to experience",
+      "answer": "What is whatever you actually own?"
+    },
+    {
+      "points": 400,
+      "clue": "What you yell when someone else's umbrella blows into yours",
+      "answer": "What is a list of creative profanities?"
+    },
+    {
+      "points": 400,
+      "clue": "The real reason beach umbrellas come with sand anchors",
+      "answer": "What is the false hope they'll stay put?"
+    },
+    {
+      "points": 400,
+      "clue": "What your friends do with your expensive umbrella while you're swimming",
+      "answer": "What is sit under it like they own it?"
+    },
+    {
+      "points": 600,
+      "clue": "Why beach umbrellas are basically portable relationship tests",
+      "answer": "What is fighting over whose turn it is to hold it?"
+    },
+    {
+      "points": 600,
+      "clue": "The item beach vendors actually want to sell you instead of umbrellas",
+      "answer": "What is knockoff sunglasses and towels?"
+    },
+    {
+      "points": 600,
+      "clue": "What you do with your beach umbrella during high winds",
+      "answer": "What is pray or chase it down the beach?"
+    },
+    {
+      "points": 600,
+      "clue": "The primary location of stolen beach umbrellas",
+      "answer": "What is under someone else's spot five feet away?"
+    },
+    {
+      "points": 600,
+      "clue": "Why matching beach umbrellas with family are basically a bad idea",
+      "answer": "What is someone will definitely grab the wrong one?"
+    },
+    {
+      "points": 600,
+      "clue": "The relationship status of two beach umbrellas fighting over the same spot",
+      "answer": "What is eternal enemies?"
+    },
+    {
+      "points": 800,
+      "clue": "What you actually want to hear about sun damage but nobody warns you about",
+      "answer": "What is it feels amazing anyway?"
+    },
+    {
+      "points": 800,
+      "clue": "The beach umbrella principle that decides all beachgoer conflicts",
+      "answer": "What is whoever got there first owns the sand?"
+    },
+    {
+      "points": 800,
+      "clue": "Why expensive beach umbrellas fail more than cheap ones",
+      "answer": "What is you worry more about them blowing away?"
+    },
+    {
+      "points": 800,
+      "clue": "The terrible truth about beach umbrella ratings online",
+      "answer": "What is five stars means someone bought one yesterday?"
+    },
+    {
+      "points": 800,
+      "clue": "What parents use beach umbrellas for besides sun protection",
+      "answer": "What is a desperation hideout from their kids?"
+    },
+    {
+      "points": 800,
+      "clue": "The scientific term for what happens to your umbrella in average beach wind",
+      "answer": "What is catastrophic failure?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why your beach umbrella looks like everyone else's beach umbrella",
+      "answer": "What is capitalism crushing individuality at the retail level?"
+    },
+    {
+      "points": 1000,
+      "clue": "The umbrella that blew away was definitely this person's",
+      "answer": "What is the person who paid the most for it?"
+    },
+    {
+      "points": 1000,
+      "clue": "What correlation researchers should study about UV protection and actually using it",
+      "answer": "What is it's basically inverse?"
+    },
+    {
+      "points": 1000,
+      "clue": "The real reason beach umbrellas need weighted bases",
+      "answer": "What is nature is actively trying to ruin your vacation?"
+    },
+    {
+      "points": 1000,
+      "clue": "What the beach vendor is actually thinking when you ask for umbrella advice",
+      "answer": "What is how many will you buy before accepting defeat?"
+    },
+    {
+      "points": 1000,
+      "clue": "The unspoken rule of beach umbrellas that nobody admits but everyone follows",
+      "answer": "What is if it's closer to the water, it's probably mine?"
+    }
+  ]
+}

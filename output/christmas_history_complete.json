@@ -1,0 +1,1241 @@
+{
+  "categoryId": "christmas_history",
+  "categoryName": "Christmas Through Time",
+  "categoryDescription": "Origins and historical traditions",
+  "ageSuitability": ["teenagers", "adults"],
+  "researchAlignment": "Historical thinking - timeline, evolution of traditions",
+  "questions": [
+    {
+      "audience": "kids_4_under",
+      "clue": "Before lights, trees had candles",
+      "correctQuestion": "What are Christmas lights?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Animals pulling Santa's sleigh",
+      "correctQuestion": "What are reindeer?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Hung by fireplace for treats",
+      "correctQuestion": "What are stockings?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Happy Christmas songs door-to-door",
+      "correctQuestion": "What are carols?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Families baked sweet cookies",
+      "correctQuestion": "What are Christmas treats?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Green tree decorated inside house",
+      "correctQuestion": "What is a Christmas tree?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before wrapping paper, brown material",
+      "correctQuestion": "What is paper?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Shiny stuff on Christmas trees",
+      "correctQuestion": "What is tinsel?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Orange vegetables for reindeer",
+      "correctQuestion": "What are carrots?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before plastic, toys from trees",
+      "correctQuestion": "What is wood?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Special plant above doorways",
+      "correctQuestion": "What is mistletoe?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before store cards, made at home",
+      "correctQuestion": "What are homemade cards?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Red berries and popcorn decorations",
+      "correctQuestion": "What are cranberries?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Jolly man in red suit",
+      "correctQuestion": "Who is Santa Claus?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before electric, simple toys on wheels",
+      "correctQuestion": "What are toy trains?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Song about jolly living snowman",
+      "correctQuestion": "What is Frosty the Snowman?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Families telling Christmas stories together",
+      "correctQuestion": "What are Christmas stories?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before TV, box playing sounds",
+      "correctQuestion": "What is a radio?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Red flower with special leaves",
+      "correctQuestion": "What is a poinsettia?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before plastic, paper decorations",
+      "correctQuestion": "What are paper ornaments?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Fruit treat in stockings",
+      "correctQuestion": "What is an orange?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Ring these for jingly sounds",
+      "correctQuestion": "What are bells?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Spicy cookies shaped like people",
+      "correctQuestion": "What are gingerbread cookies?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Star or angel on tree top",
+      "correctQuestion": "What is a tree topper?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Shapes made lying in snow",
+      "correctQuestion": "What are snow angels?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Fluffy white snack garland",
+      "correctQuestion": "What is popcorn?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Special building for singing and praying",
+      "correctQuestion": "What is a church?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Sweet cookie and candy house",
+      "correctQuestion": "What is a gingerbread house?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Special morning opening presents",
+      "correctQuestion": "What is Christmas morning?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Warm place for hanging stockings",
+      "correctQuestion": "What is a fireplace?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Three wise men bringing gifts",
+      "correctQuestion": "Who are the Three Wise Men?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before video games, pull toys",
+      "correctQuestion": "What are pull toys?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Celebrating Christmas for twelve days",
+      "correctQuestion": "What is twelve days?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Baby born celebrating his birthday",
+      "correctQuestion": "Who is Jesus?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_4_under",
+      "clue": "Before stores, person making wood toys",
+      "correctQuestion": "Who is a carpenter?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "1818 Austrian carol 'Stille Nacht'",
+      "correctQuestion": "What is Silent Night?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Prince who married Queen Victoria",
+      "correctQuestion": "Who is Prince Albert?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "'Twas the Night Before Christmas",
+      "correctQuestion": "What is A Visit from St. Nicholas?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "First commercial paper greetings",
+      "correctQuestion": "What are Christmas cards?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Medieval egg and milk drink",
+      "correctQuestion": "What is eggnog?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Peppermint treat representing Jesus",
+      "correctQuestion": "What is a candy cane?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Turkish bishop inspiring Santa",
+      "correctQuestion": "Who is Saint Nicholas?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "President declaring Christmas federal holiday",
+      "correctQuestion": "Who is Ulysses S. Grant?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "German hidden pickle ornament",
+      "correctQuestion": "What is the Christmas pickle?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Century Puritans banned Christmas",
+      "correctQuestion": "What is the 17th century?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Author of 'A Christmas Carol'",
+      "correctQuestion": "Who is Charles Dickens?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Roman winter gift-giving festival",
+      "correctQuestion": "What is Saturnalia?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Inventor's associate creating electric lights",
+      "correctQuestion": "Who is Thomas Edison?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Druid sacred plant for decorations",
+      "correctQuestion": "What is mistletoe?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Country starting Boxing Day",
+      "correctQuestion": "What is England?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Cartoonist creating modern Santa image",
+      "correctQuestion": "Who is Thomas Nast?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Door-to-door carol tradition",
+      "correctQuestion": "What is wassailing?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Mexican Mary and Joseph journey",
+      "correctQuestion": "What is Las Posadas?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "City with first store Santa",
+      "correctQuestion": "What is Boston?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Italian witch delivering January 6th",
+      "correctQuestion": "What is January 6th?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Norse winter festival log tradition",
+      "correctQuestion": "What is Yule?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Company standardizing Santa's outfit 1931",
+      "correctQuestion": "What is Coca-Cola?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Country introducing poinsettia plant",
+      "correctQuestion": "What is Mexico?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "King starting goose dinner tradition",
+      "correctQuestion": "Who is King Henry VIII?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Feast ending Twelve Days",
+      "correctQuestion": "What is Epiphany?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "1947 department store Santa film",
+      "correctQuestion": "What is Miracle on 34th Street?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Luther adding tree illuminations",
+      "correctQuestion": "What are candles?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "December 13th Scandinavian candle saint",
+      "correctQuestion": "Who is Saint Lucia?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Country starting advent calendars",
+      "correctQuestion": "What is Germany?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "President with first electric tree",
+      "correctQuestion": "Who is Grover Cleveland?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Jingle Bells originally for Thanksgiving",
+      "correctQuestion": "What is Thanksgiving?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Queen reducing Christmas celebrations",
+      "correctQuestion": "Who is Queen Victoria?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "1914 Christmas truce war",
+      "correctQuestion": "What is World War I?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "December 28th Holy Family feast",
+      "correctQuestion": "What is the Feast of the Holy Innocents?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "kids_10_under",
+      "clue": "Emperor establishing December 25th",
+      "correctQuestion": "Who is Constantine?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Council establishing Christ's birth celebration",
+      "correctQuestion": "What is the First Council of Nicaea?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "War that commercialized Christmas",
+      "correctQuestion": "What is World War II?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Parade launching Christmas shopping season",
+      "correctQuestion": "What is Macy's?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Victorian family, charity, and domesticity",
+      "correctQuestion": "What are Victorian values?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Reformer who rejected saint veneration",
+      "correctQuestion": "Who is Martin Luther?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Dutch colony where Sinterklaas evolved",
+      "correctQuestion": "What is New Amsterdam?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "1950s boom fueling Christmas spending",
+      "correctQuestion": "What is the post-war boom?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Cromwell's Christmas-banning period",
+      "correctQuestion": "What is the Interregnum?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Roman festival influencing Christmas",
+      "correctQuestion": "What is Saturnalia?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Century Santa mythology synthesized",
+      "correctQuestion": "What is the 19th century?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Yes Virginia newspaper",
+      "correctQuestion": "What is The New York Sun?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "1960s shift religious to secular",
+      "correctQuestion": "What is secularization?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Medieval servants feasting like masters",
+      "correctQuestion": "What is the Feast of Fools?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Washington Irving popularized Dutch figure",
+      "correctQuestion": "Who is St. Nicholas?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Innovation mass-producing ornaments",
+      "correctQuestion": "What is glass blowing?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "1840s postal innovation enabling cards",
+      "correctQuestion": "What is the penny post?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Retailers' annual profitability day",
+      "correctQuestion": "What is Black Friday?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Twelve days sacred season",
+      "correctQuestion": "What is Christmastide?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Hallmark establishing card tradition",
+      "correctQuestion": "What is 'Keep them home for Christmas'?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Era beginning Christmas bonuses",
+      "correctQuestion": "What is the Industrial Revolution?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "1980s toy scarcity marketing strategy",
+      "correctQuestion": "What is planned scarcity?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Revolution spreading Christmas trees",
+      "correctQuestion": "What is the Industrial Revolution?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Pope establishing December 25th",
+      "correctQuestion": "Who is Pope Julius I?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Religious to commercial transformation process",
+      "correctQuestion": "What is commodification?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "1659 Massachusetts Christmas ban",
+      "correctQuestion": "What is the Christmas ban?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Christian mixed with pagan traditions",
+      "correctQuestion": "What are pagan traditions?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Theory explaining tradition creating cohesion",
+      "correctQuestion": "What is functionalism?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "German Christkind became this",
+      "correctQuestion": "What is Kris Kringle?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Medieval leader inverting social hierarchies",
+      "correctQuestion": "What is the Lord of Misrule?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Economic system promoting Christmas consumerism",
+      "correctQuestion": "What is capitalism?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Case ruling Christmas displays secular",
+      "correctQuestion": "What is Engel v. Vitale?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Cromwell's religious reform conflict",
+      "correctQuestion": "What is the Protestant Reformation?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Gift-giving creates social bonds",
+      "correctQuestion": "What is reciprocity?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Religious to secular evolution",
+      "correctQuestion": "What is secularization?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "teenagers",
+      "clue": "Medieval feast celebrating Mary's donkey",
+      "correctQuestion": "What is the Feast of the Ass?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Bishop establishing Christmas feast 506",
+      "correctQuestion": "Who is Caesarius of Arles?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Roman unconquered sun festival",
+      "correctQuestion": "What is Sol Invictus?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Reformation debate on sacred imagery",
+      "correctQuestion": "What is iconoclasm?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Christian-pagan blending term",
+      "correctQuestion": "What is syncretism?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Mumming inverting social hierarchies",
+      "correctQuestion": "What is ritual reversal?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Class driving Victorian Christmas revival",
+      "correctQuestion": "What is the middle class?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Marxist concept of consumption control",
+      "correctQuestion": "What is commodity fetishism?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Spring equinox dating method",
+      "correctQuestion": "What is the Calculation Hypothesis?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Medieval gift-giving reinforcing feudal patronage",
+      "correctQuestion": "What is largesse?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Pagan practices condemned 563 AD",
+      "correctQuestion": "What are Kalends festivities?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Historian crediting stores for Christmas",
+      "correctQuestion": "Who is William Leach?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "St. Nicholas to Santa process",
+      "correctQuestion": "What is cultural appropriation?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Liturgical Twelve Days structure",
+      "correctQuestion": "What is octave extension?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Nissenbaum's 19th-century class conflict",
+      "correctQuestion": "What is the domestication of Christmas?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Puritan term for unauthorized practice",
+      "correctQuestion": "What is popery?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Sociologist theorizing gift economy obligations",
+      "correctQuestion": "Who is Marcel Mauss?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Conspicuous consumption concept",
+      "correctQuestion": "What is potlatch?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Roman principle justifying birth celebration",
+      "correctQuestion": "What is natalis dies?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Frankfurt School culture industry critique",
+      "correctQuestion": "What is the commodification of culture?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Medieval drama becoming pageants",
+      "correctQuestion": "What are the Nativity plays?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Schmidt's commercial transformation documentation",
+      "correctQuestion": "What is consumer rites?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Medieval concept of sacred time",
+      "correctQuestion": "What is tempus sacrum?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Bakhtinian carnivalesque concept",
+      "correctQuestion": "What is the grotesque body?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Catholic to Protestant theological shift",
+      "correctQuestion": "What is the priesthood of all believers?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Writer proposing December 25th calculation",
+      "correctQuestion": "Who is Sextus Julius Africanus?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Medieval hospitality social structure",
+      "correctQuestion": "What is the gift economy?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Romantic medievalism movement",
+      "correctQuestion": "What is the Gothic Revival?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Concept explaining Advent preparation",
+      "correctQuestion": "What is the penitential season?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Puritan doctrine rejecting adiaphora",
+      "correctQuestion": "What is the Regulative Principle?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Boy Bishop inverting ecclesiastical hierarchy",
+      "correctQuestion": "What is the Feast of the Holy Innocents?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Restad's public to private shift",
+      "correctQuestion": "What is the privatization of Christmas?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Controversy influencing nativity debates",
+      "correctQuestion": "What is the Arian controversy?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Turner's liminal state concept",
+      "correctQuestion": "What is communitas?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Historian crediting Santa resolving class",
+      "correctQuestion": "Who is Stephen Nissenbaum?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "adults",
+      "clue": "Constantinople addressing christological issue",
+      "correctQuestion": "What is the hypostatic union?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Where Christmas shopping murdered stores",
+      "correctQuestion": "What is Amazon?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Pandemic that ruined Christmas 2020",
+      "correctQuestion": "What is COVID-19?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Red cups that started War",
+      "correctQuestion": "What is Starbucks?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "War on Christmas battleground platform",
+      "correctQuestion": "What is Facebook?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Streaming over family time",
+      "correctQuestion": "What is Netflix?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Toy store Amazon murdered",
+      "correctQuestion": "What is Toys R Us?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Defrosts every November for millions",
+      "correctQuestion": "Who is Mariah Carey?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "What Millennials actually want",
+      "correctQuestion": "What is affordable housing?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Company that invented Santa's outfit",
+      "correctQuestion": "What is Coca-Cola?",
+      "points": 200,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Device bankrupting parents since 2007",
+      "correctQuestion": "What is an iPhone?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Topic ruining dinner 2016-2024",
+      "correctQuestion": "What is Trump?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Gen Z's actual Christmas wish",
+      "correctQuestion": "What is mental health care?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Poem that made Santa fat",
+      "correctQuestion": "What is A Visit from St. Nicholas?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "What killed Christmas spirit",
+      "correctQuestion": "What are student loans?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Santa's December 26th gig",
+      "correctQuestion": "What is Uber?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "What replaced Christmas cards",
+      "correctQuestion": "What is a group text?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Parade marking shopping guilt season",
+      "correctQuestion": "What is Macy's?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Book that guilt-tripped rich Victorians",
+      "correctQuestion": "What is A Christmas Carol?",
+      "points": 400,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Creepy puppets giving kids nightmares",
+      "correctQuestion": "What is Rudolph the Red-Nosed Reindeer?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "One item becomes 300 dollars",
+      "correctQuestion": "What is Target?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Ballet causing torturous dance lessons",
+      "correctQuestion": "What is The Nutcracker?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Christmas Eve 11:55pm dinner solution",
+      "correctQuestion": "What is DoorDash?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Carol about war and poverty",
+      "correctQuestion": "What is Silent Night?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Green grouch merchandising empire",
+      "correctQuestion": "What is How the Grinch Stole Christmas?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Flop saved by copyright expiration",
+      "correctQuestion": "What is It's a Wonderful Life?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Song Gen Z canceled",
+      "correctQuestion": "What is Baby It's Cold Outside?",
+      "points": 600,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Red ink to black",
+      "correctQuestion": "What is Black Friday?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "President mixing church and state",
+      "correctQuestion": "Who is Ulysses S. Grant?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Invented modern guilt-trip Christmas",
+      "correctQuestion": "Who is Charles Dickens?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Buddy's undiagnosed ADHD and sugar",
+      "correctQuestion": "What is Elf?",
+      "points": 800,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Hell's soundtrack",
+      "correctQuestion": "What is Wonderful Christmastime?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Toxic masculinity with explosions",
+      "correctQuestion": "What is Die Hard?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Christmas party solves racism",
+      "correctQuestion": "What are Hallmark Christmas movies?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Soldiers stopped murdering for soccer",
+      "correctQuestion": "What is the Christmas Truce?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Rudolph as marketing stunt",
+      "correctQuestion": "What is Montgomery Ward?",
+      "points": 1000,
+      "category": "christmas_history"
+    },
+    {
+      "audience": "no_humanity",
+      "clue": "Wrong number started Santa tracking",
+      "correctQuestion": "What is NORAD?",
+      "points": 1000,
+      "category": "christmas_history"
+    }
+  ]
+}

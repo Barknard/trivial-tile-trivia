@@ -1,0 +1,922 @@
+{
+  "category": "Christmas Morning",
+  "theme": "christmas",
+  "category_id": "christmas_morning",
+  "description": "Opening presents, family time, excitement",
+  "age_suitability": "All ages",
+  "research_alignment": "SEL focus - gratitude, sharing, family connection, joy",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "On Christmas morning, kids wake up this early to see presents",
+        "correctQuestion": "What is early?",
+        "value": 200
+      },
+      {
+        "clue": "Presents are waiting under this decorated tree",
+        "correctQuestion": "What is a Christmas tree?",
+        "value": 200
+      },
+      {
+        "clue": "You say these two words when you open a present",
+        "correctQuestion": "What is thank you?",
+        "value": 200
+      },
+      {
+        "clue": "This person in red left presents during the night",
+        "correctQuestion": "Who is Santa?",
+        "value": 200
+      },
+      {
+        "clue": "You tear off this colorful paper to see your gift",
+        "correctQuestion": "What is wrapping paper?",
+        "value": 200
+      },
+      {
+        "clue": "Your whole family sits together in this room on Christmas morning",
+        "correctQuestion": "What is the living room?",
+        "value": 200
+      },
+      {
+        "clue": "Opening presents makes you feel this happy feeling",
+        "correctQuestion": "What is excited?",
+        "value": 200
+      },
+      {
+        "clue": "Christmas morning starts when the sun does this",
+        "correctQuestion": "What is comes up?",
+        "value": 200
+      },
+      {
+        "clue": "Santa filled these hanging things with small treats",
+        "correctQuestion": "What are stockings?",
+        "value": 200
+      },
+      {
+        "clue": "You should let everyone take turns doing this with presents",
+        "correctQuestion": "What is opening?",
+        "value": 200
+      },
+      {
+        "clue": "This warm drink with marshmallows is good on Christmas morning",
+        "correctQuestion": "What is hot chocolate?",
+        "value": 400
+      },
+      {
+        "clue": "You might still be wearing these comfy clothes when opening presents",
+        "correctQuestion": "What are pajamas?",
+        "value": 400
+      },
+      {
+        "clue": "Sharing your new toys with siblings shows this kindness",
+        "correctQuestion": "What is being nice?",
+        "value": 400
+      },
+      {
+        "clue": "Sometimes families eat this special morning meal together",
+        "correctQuestion": "What is breakfast?",
+        "value": 400
+      },
+      {
+        "clue": "You feel this grateful emotion when you get a gift you wanted",
+        "correctQuestion": "What is happy?",
+        "value": 400
+      },
+      {
+        "clue": "Taking a picture helps you do this with the special morning",
+        "correctQuestion": "What is remember?",
+        "value": 400
+      },
+      {
+        "clue": "The wrapping paper makes this crunchy sound when you tear it",
+        "correctQuestion": "What is crinkle?",
+        "value": 400
+      },
+      {
+        "clue": "Being together as a family on Christmas morning creates this",
+        "correctQuestion": "What are memories?",
+        "value": 400
+      },
+      {
+        "clue": "Some families read this book about baby Jesus before opening presents",
+        "correctQuestion": "What is the Bible?",
+        "value": 400
+      },
+      {
+        "clue": "You can give someone this action with your arms to show you're grateful",
+        "correctQuestion": "What is a hug?",
+        "value": 400
+      },
+      {
+        "clue": "Waiting your turn to open presents teaches you this patient skill",
+        "correctQuestion": "What is waiting?",
+        "value": 600
+      },
+      {
+        "clue": "The special feeling of Christmas morning is called this magical word",
+        "correctQuestion": "What is magic?",
+        "value": 600
+      },
+      {
+        "clue": "Some kids make this list of rules about opening presents in order",
+        "correctQuestion": "What are rules?",
+        "value": 600
+      },
+      {
+        "clue": "Being thankful for what you got instead of sad about what you didn't is this",
+        "correctQuestion": "What is grateful?",
+        "value": 600
+      },
+      {
+        "clue": "Cleaning up wrapping paper together as a family is called this helping",
+        "correctQuestion": "What is teamwork?",
+        "value": 600
+      },
+      {
+        "clue": "The joy you feel seeing someone else happy with their gift is this feeling",
+        "correctQuestion": "What is happiness?",
+        "value": 600
+      },
+      {
+        "clue": "Some families say this prayer of thanks before opening gifts",
+        "correctQuestion": "What is grace?",
+        "value": 600
+      },
+      {
+        "clue": "Watching others open presents instead of just thinking about yours shows this",
+        "correctQuestion": "What is caring?",
+        "value": 600
+      },
+      {
+        "clue": "Christmas morning traditions happen every year making them this special thing",
+        "correctQuestion": "What is a tradition?",
+        "value": 800
+      },
+      {
+        "clue": "Even if you didn't get everything you wanted, you can still feel this",
+        "correctQuestion": "What is thankful?",
+        "value": 800
+      },
+      {
+        "clue": "Playing with a new toy together instead of alone shows this sharing",
+        "correctQuestion": "What is kindness?",
+        "value": 800
+      },
+      {
+        "clue": "The most important part of Christmas morning isn't presents but this",
+        "correctQuestion": "What is family?",
+        "value": 800
+      },
+      {
+        "clue": "Telling someone why you love their gift to you is showing this",
+        "correctQuestion": "What is appreciation?",
+        "value": 1000
+      },
+      {
+        "clue": "Christmas morning teaches us that giving can feel as good as this",
+        "correctQuestion": "What is getting?",
+        "value": 1000
+      },
+      {
+        "clue": "Being together on Christmas morning shows this family feeling",
+        "correctQuestion": "What is love?",
+        "value": 1000
+      },
+      {
+        "clue": "The happy memories of Christmas morning last this long",
+        "correctQuestion": "What is forever?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Many families have this rule that nobody opens presents until everyone is awake",
+        "correctQuestion": "What is waiting for everyone?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of opening one present on Christmas Eve helps with anticipation",
+        "correctQuestion": "What is opening one early?",
+        "value": 200
+      },
+      {
+        "clue": "Some families take turns reading gift tags to do this fairly",
+        "correctQuestion": "What is distribute presents?",
+        "value": 200
+      },
+      {
+        "clue": "The excitement of Christmas morning makes it hard to do this the night before",
+        "correctQuestion": "What is sleep?",
+        "value": 200
+      },
+      {
+        "clue": "Many families make this special breakfast like cinnamon rolls on Christmas morning",
+        "correctQuestion": "What is a festive breakfast?",
+        "value": 200
+      },
+      {
+        "clue": "Opening stockings first is a tradition in many of these family groups",
+        "correctQuestion": "What are households?",
+        "value": 200
+      },
+      {
+        "clue": "Taking photos on Christmas morning helps preserve these",
+        "correctQuestion": "What are memories?",
+        "value": 200
+      },
+      {
+        "clue": "This feeling of thankfulness is important to express when receiving gifts",
+        "correctQuestion": "What is gratitude?",
+        "value": 200
+      },
+      {
+        "clue": "Some families open presents youngest to oldest to practice this virtue",
+        "correctQuestion": "What is patience?",
+        "value": 200
+      },
+      {
+        "clue": "Sharing the joy of watching others open gifts develops this emotional skill",
+        "correctQuestion": "What is empathy?",
+        "value": 200
+      },
+      {
+        "clue": "Many families read the Nativity story from this Gospel before opening presents",
+        "correctQuestion": "What is Luke?",
+        "value": 400
+      },
+      {
+        "clue": "This tradition of opening one present at a time makes the morning last longer",
+        "correctQuestion": "What is taking turns?",
+        "value": 400
+      },
+      {
+        "clue": "Parents often wake up this early to prepare coffee and set up cameras",
+        "correctQuestion": "What is very early?",
+        "value": 400
+      },
+      {
+        "clue": "Being grateful for what you receive rather than disappointed shows this maturity",
+        "correctQuestion": "What is graciousness?",
+        "value": 400
+      },
+      {
+        "clue": "Some families assign this person to collect and bag all the wrapping paper",
+        "correctQuestion": "Who is the cleanup helper?",
+        "value": 400
+      },
+      {
+        "clue": "Watching your sibling's excitement over their gift teaches you about this shared joy",
+        "correctQuestion": "What is vicarious happiness?",
+        "value": 400
+      },
+      {
+        "clue": "This tradition of Christmas morning devotions reminds families of the true meaning",
+        "correctQuestion": "What is worship?",
+        "value": 400
+      },
+      {
+        "clue": "Opening presents in a circle ensures everyone gets this equal experience",
+        "correctQuestion": "What is attention?",
+        "value": 400
+      },
+      {
+        "clue": "Many families save this biggest or special present for last",
+        "correctQuestion": "What is the main gift?",
+        "value": 400
+      },
+      {
+        "clue": "Expressing appreciation immediately after opening shows good social skills and this",
+        "correctQuestion": "What are manners?",
+        "value": 400
+      },
+      {
+        "clue": "This Victorian tradition of Christmas crackers adds excitement to the morning",
+        "correctQuestion": "What are Christmas crackers?",
+        "value": 600
+      },
+      {
+        "clue": "Some families record Christmas morning to share with this far-away group",
+        "correctQuestion": "Who are distant relatives?",
+        "value": 600
+      },
+      {
+        "clue": "The tradition of wearing matching pajamas for photos creates this family unity",
+        "correctQuestion": "What is togetherness?",
+        "value": 600
+      },
+      {
+        "clue": "Being present in the moment rather than rushing ahead demonstrates this mindfulness",
+        "correctQuestion": "What is being present?",
+        "value": 600
+      },
+      {
+        "clue": "Some families donate to charity Christmas morning to practice this value",
+        "correctQuestion": "What is generosity?",
+        "value": 600
+      },
+      {
+        "clue": "Acknowledging the gift-giver specifically when thanking shows this awareness",
+        "correctQuestion": "What is thoughtfulness?",
+        "value": 600
+      },
+      {
+        "clue": "This rule of no electronic gifts until after breakfast encourages family time",
+        "correctQuestion": "What is delayed gratification?",
+        "value": 600
+      },
+      {
+        "clue": "Many families include this person virtually via video call if they can't attend",
+        "correctQuestion": "Who are distant family members?",
+        "value": 600
+      },
+      {
+        "clue": "The tradition of reading thank-you notes aloud from the previous year teaches this",
+        "correctQuestion": "What is appreciation?",
+        "value": 800
+      },
+      {
+        "clue": "Some families draw names so each person focuses on one meaningful gift showing this",
+        "correctQuestion": "What is intentionality?",
+        "value": 800
+      },
+      {
+        "clue": "Comparing your gifts to siblings' gifts is this negative behavior to avoid",
+        "correctQuestion": "What is envy?",
+        "value": 800
+      },
+      {
+        "clue": "This tradition of opening a family gift together emphasizes collective joy",
+        "correctQuestion": "What is shared experience?",
+        "value": 800
+      },
+      {
+        "clue": "Christmas morning routines create this psychological sense of stability and belonging",
+        "correctQuestion": "What is tradition?",
+        "value": 1000
+      },
+      {
+        "clue": "The practice of focusing on others' happiness develops this SEL competency",
+        "correctQuestion": "What is social awareness?",
+        "value": 1000
+      },
+      {
+        "clue": "Being content with what you receive demonstrates this important life skill",
+        "correctQuestion": "What is gratitude?",
+        "value": 1000
+      },
+      {
+        "clue": "Christmas morning teaches that presence matters more than these material items",
+        "correctQuestion": "What are presents?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This social media trend of posting Christmas morning hauls can undermine gratitude",
+        "correctQuestion": "What is gift bragging?",
+        "value": 200
+      },
+      {
+        "clue": "Many teens experience this psychological letdown after the anticipation ends",
+        "correctQuestion": "What is post-Christmas blues?",
+        "value": 200
+      },
+      {
+        "clue": "Teenagers often sleep through this traditional early morning excitement",
+        "correctQuestion": "What is dawn present opening?",
+        "value": 200
+      },
+      {
+        "clue": "This practice of fake enthusiasm for unwanted gifts teaches social courtesy",
+        "correctQuestion": "What is gracious receiving?",
+        "value": 200
+      },
+      {
+        "clue": "Many families now start this video call tradition to include distant relatives",
+        "correctQuestion": "What is virtual Christmas morning?",
+        "value": 200
+      },
+      {
+        "clue": "Teens often request this type of gift that provides experiences over objects",
+        "correctQuestion": "What are experience gifts?",
+        "value": 200
+      },
+      {
+        "clue": "This mindfulness practice of savoring the moment combats rushing through presents",
+        "correctQuestion": "What is being present?",
+        "value": 200
+      },
+      {
+        "clue": "Some teens volunteer Christmas morning at these community service locations",
+        "correctQuestion": "What are shelters or soup kitchens?",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of handwritten thank-you notes teaches this lost communication art",
+        "correctQuestion": "What is gratitude expression?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological phenomenon explains why anticipation often exceeds actual joy",
+        "correctQuestion": "What is hedonic adaptation?",
+        "value": 200
+      },
+      {
+        "clue": "Many teens negotiate this later start time for Christmas morning activities",
+        "correctQuestion": "What is sleeping in?",
+        "value": 400
+      },
+      {
+        "clue": "This practice of comparing gifts to friends' hauls on social media reduces satisfaction",
+        "correctQuestion": "What is social comparison?",
+        "value": 400
+      },
+      {
+        "clue": "Some families adopt this minimalist approach of limiting gift quantity",
+        "correctQuestion": "What is the four-gift rule?",
+        "value": 400
+      },
+      {
+        "clue": "Teens practicing gratitude journaling might write about this on December 25th",
+        "correctQuestion": "What are Christmas morning blessings?",
+        "value": 400
+      },
+      {
+        "clue": "This tradition of donation matching teaches that giving equals receiving",
+        "correctQuestion": "What is charitable giving?",
+        "value": 400
+      },
+      {
+        "clue": "The pressure to perform happiness for family creates this emotional labor",
+        "correctQuestion": "What is forced enthusiasm?",
+        "value": 400
+      },
+      {
+        "clue": "Many teens value this quiet reflection time before the chaos begins",
+        "correctQuestion": "What is morning solitude?",
+        "value": 400
+      },
+      {
+        "clue": "This practice of putting phones away during gift opening promotes family connection",
+        "correctQuestion": "What is digital detox?",
+        "value": 400
+      },
+      {
+        "clue": "Teens in blended families navigate this complex dynamic on Christmas morning",
+        "correctQuestion": "What is divided holiday time?",
+        "value": 400
+      },
+      {
+        "clue": "This SEL skill helps teens manage disappointment when gifts don't meet expectations",
+        "correctQuestion": "What is emotional regulation?",
+        "value": 400
+      },
+      {
+        "clue": "The tradition of reading letters from sponsored children teaches this global awareness",
+        "correctQuestion": "What is perspective-taking?",
+        "value": 600
+      },
+      {
+        "clue": "This consumer psychology concept explains why expensive gifts aren't always appreciated more",
+        "correctQuestion": "What is perceived value?",
+        "value": 600
+      },
+      {
+        "clue": "Some teens request this instead of gifts to support environmental causes",
+        "correctQuestion": "What are charitable donations?",
+        "value": 600
+      },
+      {
+        "clue": "The practice of expressing specific appreciation activates this brain reward system",
+        "correctQuestion": "What is the gratitude circuit?",
+        "value": 600
+      },
+      {
+        "clue": "Teens managing anxiety about family tensions use these coping strategies Christmas morning",
+        "correctQuestion": "What are mindfulness techniques?",
+        "value": 600
+      },
+      {
+        "clue": "This tradition of family service projects before opening gifts builds character",
+        "correctQuestion": "What is service before self?",
+        "value": 600
+      },
+      {
+        "clue": "The Instagram aesthetic of perfect Christmas mornings creates this unrealistic pressure",
+        "correctQuestion": "What is comparison culture?",
+        "value": 600
+      },
+      {
+        "clue": "Practicing contentment with fewer gifts develops this resilience skill",
+        "correctQuestion": "What is anti-materialism?",
+        "value": 600
+      },
+      {
+        "clue": "This developmental stage makes teens more aware of family financial constraints",
+        "correctQuestion": "What is abstract thinking?",
+        "value": 800
+      },
+      {
+        "clue": "The tradition of reflecting on blessings before opening gifts promotes this mindset",
+        "correctQuestion": "What is abundance mentality?",
+        "value": 800
+      },
+      {
+        "clue": "Teens who volunteer Christmas morning report this psychological benefit",
+        "correctQuestion": "What is helper's high?",
+        "value": 800
+      },
+      {
+        "clue": "This practice of meaningful presence over material presents reflects maturity",
+        "correctQuestion": "What is valuing relationships?",
+        "value": 800
+      },
+      {
+        "clue": "The neuroscience of gratitude shows it activates this emotion-regulating brain region",
+        "correctQuestion": "What is the anterior cingulate cortex?",
+        "value": 1000
+      },
+      {
+        "clue": "Christmas morning in diverse families creates opportunities for this cultural competence",
+        "correctQuestion": "What is intercultural understanding?",
+        "value": 1000
+      },
+      {
+        "clue": "The psychology of delayed gratification learned from waiting teaches this executive function",
+        "correctQuestion": "What is impulse control?",
+        "value": 1000
+      },
+      {
+        "clue": "Teens who practice this appreciation style report higher Christmas morning satisfaction",
+        "correctQuestion": "What is savoring?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This Victorian tradition of Christmas morning church before presents originated in England",
+        "correctQuestion": "What is morning worship?",
+        "value": 200
+      },
+      {
+        "clue": "The Dutch tradition of Sinterklaas influenced this American Christmas morning custom",
+        "correctQuestion": "What is stocking stuffing?",
+        "value": 200
+      },
+      {
+        "clue": "This Dickens novella popularized the concept of Christmas morning family gatherings",
+        "correctQuestion": "What is A Christmas Carol?",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of opening one gift on Christmas Eve originated in this European country",
+        "correctQuestion": "What is Germany?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological concept explains the emotional preparation parents do for Christmas morning",
+        "correctQuestion": "What is emotional labor?",
+        "value": 200
+      },
+      {
+        "clue": "The practice of Christmas morning pajamas became popular through this retailer",
+        "correctQuestion": "What is Hannah Andersson?",
+        "value": 200
+      },
+      {
+        "clue": "This social psychology principle explains why family traditions create belonging",
+        "correctQuestion": "What is collective effervescence?",
+        "value": 200
+      },
+      {
+        "clue": "The Swedish tradition of Julbord breakfast influenced American Christmas morning meals",
+        "correctQuestion": "What is Christmas buffet?",
+        "value": 200
+      },
+      {
+        "clue": "This parenting philosophy emphasizes presence over presents on Christmas morning",
+        "correctQuestion": "What is minimalism?",
+        "value": 200
+      },
+      {
+        "clue": "The Advent tradition serves as this liturgical preparation for Christmas morning",
+        "correctQuestion": "What is anticipation?",
+        "value": 200
+      },
+      {
+        "clue": "This attachment theory concept explains why Christmas morning routines provide security",
+        "correctQuestion": "What is secure base?",
+        "value": 400
+      },
+      {
+        "clue": "The tradition of reading the Nativity from Luke 2 emphasizes this theological focus",
+        "correctQuestion": "What is the incarnation?",
+        "value": 400
+      },
+      {
+        "clue": "This economic concept of conspicuous consumption can undermine Christmas morning meaning",
+        "correctQuestion": "What is materialism?",
+        "value": 400
+      },
+      {
+        "clue": "The practice of Christmas morning gratitude activates this parasympathetic response",
+        "correctQuestion": "What is rest and digest?",
+        "value": 400
+      },
+      {
+        "clue": "This family systems theory explains how traditions transmit across generations",
+        "correctQuestion": "What is intergenerational transmission?",
+        "value": 400
+      },
+      {
+        "clue": "The Polish tradition of Oplatek sharing before gifts emphasizes this value",
+        "correctQuestion": "What is forgiveness?",
+        "value": 400
+      },
+      {
+        "clue": "This positive psychology intervention of savoring enhances Christmas morning joy",
+        "correctQuestion": "What is mindfulness?",
+        "value": 400
+      },
+      {
+        "clue": "The Italian tradition of La Befana delays gift-giving until this January date",
+        "correctQuestion": "What is Epiphany?",
+        "value": 400
+      },
+      {
+        "clue": "This developmental psychology concept explains children's magical thinking about Santa",
+        "correctQuestion": "What is preoperational stage?",
+        "value": 400
+      },
+      {
+        "clue": "The Scandinavian concept of hygge enhances this quality of Christmas morning",
+        "correctQuestion": "What is coziness?",
+        "value": 400
+      },
+      {
+        "clue": "This sociological concept of civil religion explains secular Christmas morning rituals",
+        "correctQuestion": "What is cultural Christianity?",
+        "value": 600
+      },
+      {
+        "clue": "The practice of Christmas morning meditation draws from this contemplative tradition",
+        "correctQuestion": "What is centering prayer?",
+        "value": 600
+      },
+      {
+        "clue": "This economic behavioral pattern shows people overspend trying to create perfect mornings",
+        "correctQuestion": "What is hedonic treadmill?",
+        "value": 600
+      },
+      {
+        "clue": "The German tradition of Bescherung involves this Christmas Eve gift-opening timing",
+        "correctQuestion": "What is evening presents?",
+        "value": 600
+      },
+      {
+        "clue": "This attachment style affects how adults experience Christmas morning nostalgia",
+        "correctQuestion": "What is secure attachment?",
+        "value": 600
+      },
+      {
+        "clue": "The Celtic tradition of Christmas morning bonfires symbolized this spiritual concept",
+        "correctQuestion": "What is divine light?",
+        "value": 600
+      },
+      {
+        "clue": "This neuroscience finding shows gratitude practice rewires this brain structure",
+        "correctQuestion": "What is the prefrontal cortex?",
+        "value": 600
+      },
+      {
+        "clue": "The Puritan ban on Christmas in 1640s England prohibited this morning celebration",
+        "correctQuestion": "What is gift-giving?",
+        "value": 600
+      },
+      {
+        "clue": "This family therapy concept explains how traditions regulate emotional systems",
+        "correctQuestion": "What is Bowen family systems?",
+        "value": 800
+      },
+      {
+        "clue": "The medieval tradition of Christmas morning almsgiving reflects this justice principle",
+        "correctQuestion": "What is preferential option for the poor?",
+        "value": 800
+      },
+      {
+        "clue": "This positive psychology construct of flow can occur during Christmas morning presence",
+        "correctQuestion": "What is optimal experience?",
+        "value": 800
+      },
+      {
+        "clue": "The Orthodox tradition of fasting until Christmas morning emphasizes this spiritual discipline",
+        "correctQuestion": "What is asceticism?",
+        "value": 800
+      },
+      {
+        "clue": "This sociological concept explains how Christmas morning creates collective memory",
+        "correctQuestion": "What is social construction?",
+        "value": 1000
+      },
+      {
+        "clue": "The theological concept of kenosis relates to this Christmas morning value",
+        "correctQuestion": "What is self-emptying?",
+        "value": 1000
+      },
+      {
+        "clue": "This neuroplasticity principle explains how gratitude practices reshape brain function",
+        "correctQuestion": "What is Hebbian learning?",
+        "value": 1000
+      },
+      {
+        "clue": "The anthropological concept of liminality describes Christmas morning as this ritual phase",
+        "correctQuestion": "What is threshold moment?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Where Christmas presents actually come from",
+        "correctQuestion": "What is Amazon?",
+        "value": 200
+      },
+      {
+        "clue": "What kids really want for Christmas",
+        "correctQuestion": "What is an iPhone?",
+        "value": 200
+      },
+      {
+        "clue": "Red cups that started culture wars",
+        "correctQuestion": "What is Starbucks?",
+        "value": 200
+      },
+      {
+        "clue": "Where families stream Home Alone again",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "What ruined Christmas 2020",
+        "correctQuestion": "What is COVID-19?",
+        "value": 200
+      },
+      {
+        "clue": "Where Gen Z posts haul videos",
+        "correctQuestion": "What is TikTok?",
+        "value": 200
+      },
+      {
+        "clue": "What replaced thoughtful Christmas cards",
+        "correctQuestion": "What is a group text?",
+        "value": 400
+      },
+      {
+        "clue": "Where you see everyone's gift spending",
+        "correctQuestion": "What is Venmo?",
+        "value": 400
+      },
+      {
+        "clue": "Who defrosts every December for millions",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 400
+      },
+      {
+        "clue": "Your broke cousin's Christmas morning gig",
+        "correctQuestion": "What is Uber?",
+        "value": 400
+      },
+      {
+        "clue": "Christmas morning surveillance device",
+        "correctQuestion": "What is Alexa?",
+        "value": 400
+      },
+      {
+        "clue": "Where uncle posts War on Christmas",
+        "correctQuestion": "What is Facebook?",
+        "value": 400
+      },
+      {
+        "clue": "What Millennials really want for Christmas",
+        "correctQuestion": "What is affordable housing?",
+        "value": 600
+      },
+      {
+        "clue": "Where moms spend $200 on wrapping",
+        "correctQuestion": "What is Target?",
+        "value": 600
+      },
+      {
+        "clue": "The gift everyone's asking for 2024",
+        "correctQuestion": "What is Ozempic?",
+        "value": 600
+      },
+      {
+        "clue": "Christmas morning breakfast emergency app",
+        "correctQuestion": "What is DoorDash?",
+        "value": 600
+      },
+      {
+        "clue": "What ruins Christmas dinner most",
+        "correctQuestion": "What is Trump and politics?",
+        "value": 600
+      },
+      {
+        "clue": "The toy store Amazon murdered",
+        "correctQuestion": "What is Toys R Us?",
+        "value": 600
+      },
+      {
+        "clue": "Gen Z's real Christmas wish list",
+        "correctQuestion": "What is affordable rent?",
+        "value": 800
+      },
+      {
+        "clue": "The other Christmas dinner argument starter",
+        "correctQuestion": "What is the COVID vaccine?",
+        "value": 800
+      },
+      {
+        "clue": "Santa's worst possible sleigh replacement",
+        "correctQuestion": "What is Tesla?",
+        "value": 800
+      },
+      {
+        "clue": "The real Christmas miracle needed",
+        "correctQuestion": "What is healthcare?",
+        "value": 800
+      },
+      {
+        "clue": "Where families overbuy wrapping paper",
+        "correctQuestion": "What is Costco?",
+        "value": 800
+      },
+      {
+        "clue": "What ruined Santa magic forever",
+        "correctQuestion": "What is Google?",
+        "value": 800
+      },
+      {
+        "clue": "Christmas morning when nobody planned breakfast",
+        "correctQuestion": "What is McDonald's?",
+        "value": 1000
+      },
+      {
+        "clue": "Still plays Wonderful Christmastime somehow",
+        "correctQuestion": "What is Spotify?",
+        "value": 1000
+      },
+      {
+        "clue": "What actually killed Christmas spirit",
+        "correctQuestion": "What is capitalism?",
+        "value": 1000
+      },
+      {
+        "clue": "Christmas 2020's frozen screen disaster",
+        "correctQuestion": "What is Zoom?",
+        "value": 1000
+      },
+      {
+        "clue": "What families fight over Christmas morning",
+        "correctQuestion": "What is Netflix?",
+        "value": 1000
+      },
+      {
+        "clue": "Parents' secret Christmas morning shopping",
+        "correctQuestion": "What is Amazon Prime?",
+        "value": 1000
+      },
+      {
+        "clue": "Staged perfect Christmas morning photos",
+        "correctQuestion": "What is Instagram?",
+        "value": 1000
+      },
+      {
+        "clue": "Millennial Christmas morning reality check",
+        "correctQuestion": "What is student debt?",
+        "value": 1000
+      },
+      {
+        "clue": "Actually open on Christmas morning",
+        "correctQuestion": "What is 7-Eleven?",
+        "value": 1000
+      },
+      {
+        "clue": "What kids do during grandma's gift",
+        "correctQuestion": "What is their phone?",
+        "value": 1000
+      },
+      {
+        "clue": "Christmas morning coffee line destination",
+        "correctQuestion": "What is Starbucks?",
+        "value": 1000
+      },
+      {
+        "clue": "Reality Christmas morning can't hide",
+        "correctQuestion": "What is inflation?",
+        "value": 1000
+      }
+    ]
+  }
+}

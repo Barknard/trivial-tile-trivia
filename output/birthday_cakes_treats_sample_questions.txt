@@ -1,0 +1,114 @@
+BIRTHDAY CAKES & TREATS - SAMPLE QUESTIONS BY AUDIENCE
+
+=============================================================================
+KIDS 4 AND UNDER (Basic sensory and vocabulary focus)
+=============================================================================
+
+$200: "This pink and white striped candy is shaped like a stick"
+      Answer: What is a candy cane?
+
+$400: "This is what you light on your birthday cake"
+      Answer: What are candles?
+
+$600: "These tiny colored balls sit on top of cupcakes"
+      Answer: What are sprinkles (or nonpareils)?
+
+$800: "This sweet white powder goes on top of cake"
+      Answer: What is powdered sugar?
+
+$1000: "You make a wish before blowing these out"
+       Answer: What are birthday candles?
+
+=============================================================================
+KIDS 10 AND UNDER (Recipe, ingredients, and basic chemistry focus)
+=============================================================================
+
+$200: "This ancient Roman honey cake evolved into modern birthday cakes"
+      Answer: What is panis mellitus?
+
+$400: "This process combines butter and sugar to create fluffy frosting"
+      Answer: What is creaming?
+
+$600: "This chemical reaction creates brownness in cakes"
+      Answer: What is the Maillard reaction?
+
+$800: "This ratio of flour to butter to sugar makes perfect shortbread"
+      Answer: What is 3:2:1?
+
+$1000: "This Mexican wedding cookie is rolled in powdered sugar"
+       Answer: What are polvorones (or Mexican wedding cookies)?
+
+=============================================================================
+TEENAGERS (Advanced baking science and cultural traditions)
+=============================================================================
+
+$200: "This percentage of cocoa makes chocolate in birthday cakes temper properly"
+      Answer: What is 50-70%?
+
+$400: "This molecular structure makes butter superior to margarine"
+      Answer: What is triglyceride formation?
+
+$600: "This French term means 'putting in place' all ingredients"
+      Answer: What is mise en place?
+
+$800: "This starch retrogradation causes cakes to go stale over time"
+      Answer: What is amylopectin recrystallization?
+
+$1000: "This water activity level preserves cake freshness"
+       Answer: What is 0.3-0.4?
+
+=============================================================================
+ADULTS (Food history, culture, and scholarship)
+=============================================================================
+
+$200: "This medieval guild regulated spice cake and gingerbread production in Europe"
+      Answer: What is the Lebkuchner guild?
+
+$400: "This thermodynamic principle explains oven spring during baking"
+      Answer: What is ideal gas law expansion?
+
+$600: "This concept by Pierre Bourdieu explains birthday cakes as cultural capital"
+      Answer: What is habitus?
+
+$800: "This anthropologist studied gift-giving rituals including birthday cakes"
+      Answer: Who is Mary Douglas?
+
+$1000: "This philosopher's aesthetics framework applies to cake decoration appreciation"
+       Answer: Who is Immanuel Kant?
+
+=============================================================================
+NO HUMANITY (Mathematical and theoretical frameworks)
+=============================================================================
+
+$200: "This partial differential equation models heat diffusion in birthday cakes"
+      Answer: What is the Fourier heat equation?
+
+$400: "This tensor field describes stress distribution in cake batter"
+      Answer: What is the Cauchy stress tensor?
+
+$600: "This quantum mechanical model explains caramelization reactions"
+      Answer: What is density functional theory (DFT)?
+
+$800: "This computational fluid dynamics models convection in baking ovens"
+      Answer: What is Reynolds-averaged Navier-Stokes (RANS)?
+
+$1000: "This optimal transport theory moves ingredients most efficiently"
+       Answer: What is Wasserstein metric?
+
+=============================================================================
+KEY FEATURES
+=============================================================================
+
+✓ 180 Total Questions (36 per audience tier)
+✓ Values: $200, $400, $600, $800, $1000 (6 questions per level per audience)
+✓ Progressive Complexity: Sensory → Culinary → Scientific → Theoretical
+✓ Research-Based Coverage:
+  - Culinary arts: International traditions (panettone, Black Forest, Sachertorte, etc.)
+  - Chemistry: Maillard reaction, caramelization, leavening, emulsification
+  - Sensory development: Taste, texture, color, aroma perception
+  - Culture & History: Medieval guilds, colonial trade, food symbolism
+  - Advanced Theory: Thermodynamics, quantum mechanics, category theory
+
+✓ Jeopardy Format: Each question uses "What is..." or "Who is..." format
+✓ Inclusive Design: Spans from preschool through theoretical mathematics
+

@@ -1,0 +1,308 @@
+{
+  "category": "Birthday Age Numbers - Counting Years",
+  "description": "Age milestones, number symbolism, counting birthdays, and numerical celebrations",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "The age when you legally become an adult in most U.S. states",
+      "answer": "What is 18?"
+    },
+    {
+      "points": 200,
+      "clue": "In many countries, the age you can legally drink alcohol",
+      "answer": "What is 21?"
+    },
+    {
+      "points": 200,
+      "clue": "Lucky number in Chinese culture symbolizing prosperity and good fortune",
+      "answer": "What is 8?"
+    },
+    {
+      "points": 200,
+      "clue": "Number of candles typically on a birthday cake for a 10-year-old",
+      "answer": "What is 10?"
+    },
+    {
+      "points": 200,
+      "clue": "The traditional gift for a 25th wedding anniversary celebration",
+      "answer": "What is silver?"
+    },
+    {
+      "points": 200,
+      "clue": "Age you can vote in United States presidential elections",
+      "answer": "What is 18?"
+    },
+    {
+      "points": 400,
+      "clue": "Significant birthday marking the start of teenage years",
+      "answer": "What is 13?"
+    },
+    {
+      "points": 400,
+      "clue": "Age when you're considered a legal senior citizen in the U.S.",
+      "answer": "What is 65?"
+    },
+    {
+      "points": 400,
+      "clue": "The milestone birthday where you celebrate a golden anniversary after 50 years of marriage",
+      "answer": "What is 50?"
+    },
+    {
+      "points": 400,
+      "clue": "Number associated with coming of age in Jewish tradition during Bar/Bat Mitzvah",
+      "answer": "What is 13?"
+    },
+    {
+      "points": 400,
+      "clue": "Age when most people can rent a car from major rental companies",
+      "answer": "What is 25?"
+    },
+    {
+      "points": 400,
+      "clue": "The age representing the start of middle age in modern times",
+      "answer": "What is 40?"
+    },
+    {
+      "points": 600,
+      "clue": "Chinese zodiac repeats in this cycle of years",
+      "answer": "What is 12?"
+    },
+    {
+      "points": 600,
+      "clue": "The age in ancient Rome when citizens could legally marry",
+      "answer": "What is 12?"
+    },
+    {
+      "points": 600,
+      "clue": "Number of years for a diamond wedding anniversary",
+      "answer": "What is 60?"
+    },
+    {
+      "points": 600,
+      "clue": "Age when brain development is considered complete in scientific research",
+      "answer": "What is 25?"
+    },
+    {
+      "points": 600,
+      "clue": "The traditional age of retirement in many European countries",
+      "answer": "What is 65?"
+    },
+    {
+      "points": 600,
+      "clue": "Number symbolizing new beginnings and fresh starts",
+      "answer": "What is 1?"
+    },
+    {
+      "points": 800,
+      "clue": "Milestone birthday celebrated as a 'sweet' age in Hispanic cultures",
+      "answer": "What is 15?"
+    },
+    {
+      "points": 800,
+      "clue": "Age requirement to legally work in most U.S. states without restrictions",
+      "answer": "What is 16?"
+    },
+    {
+      "points": 800,
+      "clue": "The average human lifespan expectancy in developed nations today",
+      "answer": "What is around 75-80?"
+    },
+    {
+      "points": 800,
+      "clue": "Age when social security benefits begin in the U.S. for full retirement",
+      "answer": "What is 67?"
+    },
+    {
+      "points": 800,
+      "clue": "Number of years for a platinum wedding anniversary",
+      "answer": "What is 70?"
+    },
+    {
+      "points": 1000,
+      "clue": "Age when the prefrontal cortex fully develops, affecting decision-making abilities",
+      "answer": "What is 25?"
+    },
+    {
+      "points": 1000,
+      "clue": "In Numerology, this number reduces to master number 11 representing intuition and enlightenment",
+      "answer": "What is 29?"
+    },
+    {
+      "points": 1000,
+      "clue": "The age Japanese celebrate as Seijin-shiki or Coming of Age Day",
+      "answer": "What is 20?"
+    },
+    {
+      "points": 1000,
+      "clue": "Number of years between major life transitions in Erik Erikson's developmental stages",
+      "answer": "What is approximately 7-8?"
+    },
+    {
+      "points": 1000,
+      "clue": "Age when telomeres begin shortening significantly, affecting cellular aging",
+      "answer": "What is 50?"
+    },
+    {
+      "points": 1000,
+      "clue": "The number considered universally lucky across most Western cultures",
+      "answer": "What is 7?"
+    },
+    {
+      "points": 1000,
+      "clue": "Age in ancient Greek philosophy when someone achieved full wisdom and maturity",
+      "answer": "What is 49?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "Age you first lie about on dating apps",
+      "answer": "What is 29?"
+    },
+    {
+      "points": 200,
+      "clue": "What you count instead of candles after age 30",
+      "answer": "What is life regrets?"
+    },
+    {
+      "points": 200,
+      "clue": "The number your mom still gets wrong on your birthday",
+      "answer": "What is your actual age?"
+    },
+    {
+      "points": 200,
+      "clue": "Age when your knees start making sounds",
+      "answer": "What is 35?"
+    },
+    {
+      "points": 200,
+      "clue": "Years it takes for a birthday cake from Whole Foods to cost what you make in an hour",
+      "answer": "What is 15?"
+    },
+    {
+      "points": 200,
+      "clue": "How many years you pretend to be younger than you are",
+      "answer": "What is at least 5?"
+    },
+    {
+      "points": 400,
+      "clue": "Age when you realize your parents were just winging it",
+      "answer": "What is 25?"
+    },
+    {
+      "points": 400,
+      "clue": "Number of birthday candles needed before you stop counting them",
+      "answer": "What is 30?"
+    },
+    {
+      "points": 400,
+      "clue": "What you'd trade your current age for immediately",
+      "answer": "What is 21?"
+    },
+    {
+      "points": 400,
+      "clue": "Years between thinking you're old and actually being old",
+      "answer": "What is 5?"
+    },
+    {
+      "points": 400,
+      "clue": "Age when you stop finding baby shower games entertaining",
+      "answer": "What is 22?"
+    },
+    {
+      "points": 400,
+      "clue": "How old your back feels after one night of birthday partying",
+      "answer": "What is 65?"
+    },
+    {
+      "points": 600,
+      "clue": "Age when 'Netflix and chill' becomes 'Netflix and sleep'",
+      "answer": "What is 28?"
+    },
+    {
+      "points": 600,
+      "clue": "Years it took for your parents to stop asking when you're getting married",
+      "answer": "What is never, they still ask?"
+    },
+    {
+      "points": 600,
+      "clue": "Number of years between your life goals and actual life choices",
+      "answer": "What is your whole life?"
+    },
+    {
+      "points": 600,
+      "clue": "Age when birthday parties turn into therapy sessions",
+      "answer": "What is 35?"
+    },
+    {
+      "points": 600,
+      "clue": "How many years before you stop pretending to like your birthday",
+      "answer": "What is 20?"
+    },
+    {
+      "points": 600,
+      "clue": "Years before your friends stop planning surprise parties and start planning your funeral",
+      "answer": "What is 40?"
+    },
+    {
+      "points": 800,
+      "clue": "Age when your birthday gift budget drops to 'whatever's on clearance at Target'",
+      "answer": "What is 32?"
+    },
+    {
+      "points": 800,
+      "clue": "Number representing how many hangovers you can't recover from in 24 hours",
+      "answer": "What is 30?"
+    },
+    {
+      "points": 800,
+      "clue": "Years between Instagram birthday wishes and actually caring who remembered",
+      "answer": "What is 5?"
+    },
+    {
+      "points": 800,
+      "clue": "Age when you finally understand why your dad loves his birthday nap",
+      "answer": "What is 38?"
+    },
+    {
+      "points": 800,
+      "clue": "How many birthday pounds accumulate before you notice your jeans don't fit",
+      "answer": "What is 7?"
+    },
+    {
+      "points": 800,
+      "clue": "Years it takes before you stop calculating your age in months",
+      "answer": "What is 25?"
+    },
+    {
+      "points": 1000,
+      "clue": "Age when your metabolism officially betrays you for ordering birthday pizza",
+      "answer": "What is 26?"
+    },
+    {
+      "points": 1000,
+      "clue": "Number of years before 'sleeping wrong' becomes a legitimate birthday injury",
+      "answer": "What is 35?"
+    },
+    {
+      "points": 1000,
+      "clue": "Age when your birthday playlist becomes depressing enough for a therapy session",
+      "answer": "What is 40?"
+    },
+    {
+      "points": 1000,
+      "clue": "Years passing before you realize your parents' birthday behavior now makes sense",
+      "answer": "What is 20?"
+    },
+    {
+      "points": 1000,
+      "clue": "Number that best describes how many people actually showed up to your last birthday zoom",
+      "answer": "What is 3?"
+    },
+    {
+      "points": 1000,
+      "clue": "Age when you stop having birthday goals and start having birthday survival plans",
+      "answer": "What is 35?"
+    }
+  ]
+}

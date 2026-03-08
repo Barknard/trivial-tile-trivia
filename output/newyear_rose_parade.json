@@ -1,0 +1,336 @@
+{
+  "category": "Rose Parade & Tournament of Roses",
+  "subcategories": {
+    "regular_trivia": "Traditional trivia questions about the Rose Parade, Tournament of Roses, and Pasadena history",
+    "cah_style": "Cards Against Humanity style answers for Rose Parade clues"
+  },
+  "regular_trivia_questions": [
+    {
+      "clue": "The Rose Parade takes place annually on this date or the following Monday if it falls on Sunday",
+      "correctAnswer": "What is January 1st?",
+      "value": 200
+    },
+    {
+      "clue": "This California city hosts the Tournament of Roses and the famous parade",
+      "correctAnswer": "What is Pasadena?",
+      "value": 200
+    },
+    {
+      "clue": "The Tournament of Roses began as a way to showcase the winter blooms from this citrus fruit",
+      "correctAnswer": "What are oranges?",
+      "value": 300
+    },
+    {
+      "clue": "This is the traditional route length of the Rose Parade down Colorado Boulevard",
+      "correctAnswer": "What is 5.5 miles?",
+      "value": 300
+    },
+    {
+      "clue": "The parade floats must be decorated with these natural materials, not painted ones",
+      "correctAnswer": "What are flowers and plants?",
+      "value": 300
+    },
+    {
+      "clue": "This football game, held after the parade, is part of the Tournament of Roses",
+      "correctAnswer": "What is the Rose Bowl?",
+      "value": 200
+    },
+    {
+      "clue": "The first Tournament of Roses parade occurred in this year",
+      "correctAnswer": "What is 1890?",
+      "value": 400
+    },
+    {
+      "clue": "This many teams typically compete in the Rose Bowl football game",
+      "correctAnswer": "What is two?",
+      "value": 200
+    },
+    {
+      "clue": "The Rose Parade features marching bands, floats, and these horse-mounted units",
+      "correctAnswer": "What are equestrian groups?",
+      "value": 200
+    },
+    {
+      "clue": "This California university's marching band has been a Rose Parade mainstay since 1891",
+      "correctAnswer": "What is UC Berkeley?",
+      "value": 400
+    },
+    {
+      "clue": "The Rose Parade Committee uses this method to ensure floats have no artificial decorations",
+      "correctAnswer": "What is botanical inspection?",
+      "value": 300
+    },
+    {
+      "clue": "In what year did television first broadcast the Rose Parade nationally?",
+      "correctAnswer": "What is 1954?",
+      "value": 400
+    },
+    {
+      "clue": "The parade Grand Marshal is typically a person known for these qualities",
+      "correctAnswer": "What is celebrity status or humanitarian achievement?",
+      "value": 300
+    },
+    {
+      "clue": "This mountain range provides a scenic backdrop to the Rose Parade",
+      "correctAnswer": "What is the San Gabriel Mountains?",
+      "value": 300
+    },
+    {
+      "clue": "The Tournament of Roses has been held continuously except for these two years due to wars",
+      "correctAnswer": "What is 1942 and 1943?",
+      "value": 400
+    },
+    {
+      "clue": "This many floats typically participate in the modern Rose Parade",
+      "correctAnswer": "What is around 40-50?",
+      "value": 300
+    },
+    {
+      "clue": "The Rose Bowl stadium is home to this university's football team",
+      "correctAnswer": "What is UCLA?",
+      "value": 300
+    },
+    {
+      "clue": "Each Rose Parade float must weigh no more than this many pounds",
+      "correctAnswer": "What is 35 tons?",
+      "value": 400
+    },
+    {
+      "clue": "The parade traditionally features millions of these colorful blooms",
+      "correctAnswer": "What are roses?",
+      "value": 200
+    },
+    {
+      "clue": "This tournament has been celebrating California's winter growing season since 1888",
+      "correctAnswer": "What is the Tournament of Roses?",
+      "value": 200
+    },
+    {
+      "clue": "The Rose Parade route starts at this location",
+      "correctAnswer": "What is the corner of Colorado and Orange Grove?",
+      "value": 300
+    },
+    {
+      "clue": "This many people typically watch the Rose Parade in person along the parade route",
+      "correctAnswer": "What is about 1-2 million?",
+      "value": 400
+    },
+    {
+      "clue": "Pasadena's Tournament of Roses began as a celebration of this region's agricultural wealth",
+      "correctAnswer": "What is citrus farming?",
+      "value": 300
+    },
+    {
+      "clue": "The Rose Parade grand marshal often rides in this type of vehicle",
+      "correctAnswer": "What is a convertible car?",
+      "value": 200
+    },
+    {
+      "clue": "This military branch often provides marching units and precision drill teams for the parade",
+      "correctAnswer": "What are the U.S. Armed Forces?",
+      "value": 300
+    },
+    {
+      "clue": "The Rose Bowl game is traditionally played on this day in early January",
+      "correctAnswer": "What is January 1st or January 2nd?",
+      "value": 300
+    },
+    {
+      "clue": "This is the most famous award given to a Rose Parade float",
+      "correctAnswer": "What is the Tournament of Roses Trophy?",
+      "value": 300
+    },
+    {
+      "clue": "The Rose Parade is considered the oldest of this type of event in the United States",
+      "correctAnswer": "What is a floral parade?",
+      "value": 400
+    },
+    {
+      "clue": "Pasadena's population grew dramatically during this era due to the tournament's popularity",
+      "correctAnswer": "What is the early 1900s?",
+      "value": 400
+    },
+    {
+      "clue": "The Rose Parade's floats must be built to this specification to ensure they're biodegradable",
+      "correctAnswer": "What is decorated only with natural materials?",
+      "value": 300
+    }
+  ],
+  "cah_style_questions": [
+    {
+      "clue": "What your California Grandma flew into Pasadena hoping to catch on New Year's Day",
+      "correctAnswer": "What is a float named after her favorite Hallmark character?",
+      "value": 200
+    },
+    {
+      "clue": "The real reason Pasadena scheduled the Rose Parade for January 1st",
+      "correctAnswer": "What is so drunk people would have an excuse for ugly crying at 8am?",
+      "value": 400
+    },
+    {
+      "clue": "What millions of Americans pretend to care about while secretly watching this instead",
+      "correctAnswer": "What is the football game that happens six hours later?",
+      "value": 300
+    },
+    {
+      "clue": "The Tournament of Roses Committee's solution to making parade floats 'eco-friendly'",
+      "correctAnswer": "What is gluing 50,000 flowers onto a float that drives three miles and dies?",
+      "value": 600
+    },
+    {
+      "clue": "Why Pasadena millionaires wake up at 5am on New Year's Day",
+      "correctAnswer": "What is staking out premium parade spots they've owned since 1952?",
+      "value": 400
+    },
+    {
+      "clue": "The parade feature that makes Boomers say 'they don't make floats like they used to'",
+      "correctAnswer": "What is basically the same floats as 1987?",
+      "value": 500
+    },
+    {
+      "clue": "What you're actually seeing if you think that float looks like a realistic unicorn",
+      "correctAnswer": "What is $2 million worth of someone's midlife crisis?",
+      "value": 600
+    },
+    {
+      "clue": "The parade's most reliable tradition besides New Year's hungover audiences",
+      "correctAnswer": "What is a marching band that took six months to memorize eight minutes of music?",
+      "value": 500
+    },
+    {
+      "clue": "Why the Rose Parade is technically 'the most watched event' in America",
+      "correctAnswer": "What is because families use it as an excuse not to talk to each other?",
+      "value": 500
+    },
+    {
+      "clue": "The Grand Marshal's primary job other than waving and occasionally looking surprised",
+      "correctAnswer": "What is realizing they have absolutely no idea what the Tournament of Roses is?",
+      "value": 500
+    },
+    {
+      "clue": "What social media influencers call attending the Rose Parade",
+      "correctAnswer": "What is a 'spiritual journey' involving three hours of standing in uncomfortable heels?",
+      "value": 600
+    },
+    {
+      "clue": "The environmental impact of making one Rose Parade float",
+      "correctAnswer": "What is roughly equivalent to a small concert tour?",
+      "value": 500
+    },
+    {
+      "clue": "Why Pasadena traffic is worse on January 1st than New Year's Eve",
+      "correctAnswer": "What is because the whole city shut down for a three-mile procession of elaborate garbage?",
+      "value": 600
+    },
+    {
+      "clue": "The most likely reason someone is actually watching the parade on TV at home",
+      "correctAnswer": "What is their parents wouldn't let them leave the room?",
+      "value": 500
+    },
+    {
+      "clue": "What every Rose Parade float designed by a corporation really represents",
+      "correctAnswer": "What is a $3 million ad you can't skip?",
+      "value": 600
+    },
+    {
+      "clue": "The real reason people camp out overnight for Rose Parade spots",
+      "correctAnswer": "What is generational trauma and Pasadena real estate competition?",
+      "value": 600
+    },
+    {
+      "clue": "What the Rose Bowl became once playoff football made it irrelevant",
+      "correctAnswer": "What is a consolation prize with more tradition than viewers?",
+      "value": 700
+    },
+    {
+      "clue": "The parade element that makes everyone pretend they have a cultural appreciation moment",
+      "correctAnswer": "What is a high school marching band from Nebraska?",
+      "value": 500
+    },
+    {
+      "clue": "Why Tournament of Roses floats can't have artificial flowers",
+      "correctAnswer": "What is because real flowers die way faster, like the parade's viewer interest?",
+      "value": 600
+    },
+    {
+      "clue": "The parade's real demographic: people who actually chose to wake up this early",
+      "correctAnswer": "What is older Californians, early risers, and people with no other plans?",
+      "value": 500
+    },
+    {
+      "clue": "What your family will argue about before the Rose Parade even starts",
+      "correctAnswer": "What is who gets the good seat that happened to be occupied in 1987?",
+      "value": 500
+    },
+    {
+      "clue": "The Tournament of Roses's longest-standing tradition besides the parade itself",
+      "correctAnswer": "What is commercialization masquerading as wholesome nostalgia?",
+      "value": 700
+    },
+    {
+      "clue": "Why the Rose Parade gets more TV coverage than actual breaking news",
+      "correctAnswer": "What is because it's been pre-recorded and safe unlike the chaos of real life?",
+      "value": 600
+    },
+    {
+      "clue": "The parade feature that makes conspiracy theorists absolutely unhinged",
+      "correctAnswer": "What is 'why is a giant robot in Pasadena?'",
+      "value": 600
+    },
+    {
+      "clue": "What Tournament of Roses organizers call it when a float breaks down mid-parade",
+      "correctAnswer": "What is 'an unexpected mechanical challenge'?",
+      "value": 500
+    },
+    {
+      "clue": "The demographic that would voluntarily endure 5+ hours for Rose Parade spots",
+      "correctAnswer": "What is the same people who watch QVC unironically?",
+      "value": 600
+    },
+    {
+      "clue": "Why Pasadena residents avoid the Rose Parade like it's a plague",
+      "correctAnswer": "What is because their own city becomes a nightmare of tourists and traffic?",
+      "value": 600
+    },
+    {
+      "clue": "The most honest description of Rose Parade floats from an engineering standpoint",
+      "correctAnswer": "What is 'a car with some plants that costs $5 million to make your grandma smile'?",
+      "value": 700
+    },
+    {
+      "clue": "What happens to a Rose Parade float immediately after the parade ends",
+      "correctAnswer": "What is it becomes very dead flowers in a dump?",
+      "value": 500
+    },
+    {
+      "clue": "The real reason the Tournament of Roses has continued for 130+ years",
+      "correctAnswer": "What is spite and a refusal to acknowledge better entertainment exists?",
+      "value": 700
+    }
+  ],
+  "style_notes": {
+    "regular_trivia": "Traditional Jeopardy-style questions focused on Rose Parade history, facts, traditions, and Pasadena",
+    "cah_style": "Dark humor emphasizing generational traditions, commercialism, environmental impact, and audience apathy",
+    "rose_parade_themes": [
+      "Historical facts and dates",
+      "Botanical requirements and natural decorations",
+      "Parade traditions and evolution",
+      "Tournament of Roses as an institution",
+      "Rose Bowl connection",
+      "Pasadena's role and growth",
+      "Float construction and specifications",
+      "Modern vs traditional parade elements"
+    ],
+    "cah_humor_angles": [
+      "Commercialization vs tradition",
+      "Why people actually watch (reluctance, family obligation)",
+      "Environmental contradiction of 'eco-friendly' short-lived flowers",
+      "Cost-benefit analysis of parade floats",
+      "Generational participation and nostalgia",
+      "Pasadena traffic and resident frustration",
+      "Comparison to actual entertainment",
+      "Corporate advertising disguised as art",
+      "Rose Bowl's declining relevance in modern football"
+    ]
+  }
+}

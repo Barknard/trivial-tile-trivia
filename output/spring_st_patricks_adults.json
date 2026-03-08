@@ -1,0 +1,177 @@
+[
+  {
+    "clue": "This Persian New Year celebration, marking the vernal equinox, has been observed for over 3,000 years and was inscribed on UNESCO's Intangible Cultural Heritage list in 2009.",
+    "correctQuestion": "What is Nowruz?",
+    "value": 200
+  },
+  {
+    "clue": "Though legend credits St. Patrick with driving them out, Ireland never had any of these reptiles to begin with — the last Ice Age left the island isolated before they could migrate there.",
+    "correctQuestion": "What are snakes?",
+    "value": 200
+  },
+  {
+    "clue": "Botticelli painted this allegory of spring, now at Florence's Uffizi Gallery, featuring nine mythological figures in a flowery grove including Venus, the Three Graces, Flora, and Mercury.",
+    "correctQuestion": "What is Primavera (La Primavera)?",
+    "value": 200
+  },
+  {
+    "clue": "In 1962, city workers first dumped this substance into the Chicago River, turning it emerald green for an entire week in a St. Patrick's Day tradition that continues today.",
+    "correctQuestion": "What is dye (green dye)?",
+    "value": 200
+  },
+  {
+    "clue": "This Hindu spring festival, whose name derives from the demon Holika who was burned while trying to kill the devout Prahlada, is celebrated by throwing brightly colored powders.",
+    "correctQuestion": "What is Holi?",
+    "value": 200
+  },
+  {
+    "clue": "The patron saint of Ireland's real name is believed to have been Maewyn Succat, and he was not Irish but rather from this cultural background — a Roman-ruled Briton of the 5th century.",
+    "correctQuestion": "What is Romano-British?",
+    "value": 400
+  },
+  {
+    "clue": "At its raucous 1913 Paris premiere, this Stravinsky ballet — scored to depict ancient Slavic pagan spring rites — provoked what has been described as one of the most famous uproars in concert history.",
+    "correctQuestion": "What is The Rite of Spring (Le Sacre du Printemps)?",
+    "value": 400
+  },
+  {
+    "clue": "The 1998 peace accord that ended most of the violence of the Troubles in Northern Ireland shares its name with a Christian holiday, was signed on April 10, and was ratified by 94% of voters in the Irish Republic.",
+    "correctQuestion": "What is the Good Friday Agreement (Belfast Agreement)?",
+    "value": 400
+  },
+  {
+    "clue": "This study of the seasonal timing of biological events — such as first leaf emergence, bird migration, and flowering — was pioneered in part by Robert Marsham, an English naturalist who began recording spring events in 1736.",
+    "correctQuestion": "What is phenology?",
+    "value": 400
+  },
+  {
+    "clue": "The spring equinox astronomically marks the moment the sun crosses the celestial equator moving northward, a point called the First Point of Aries — though due to this slow wobble of Earth's axis, it no longer falls in that constellation.",
+    "correctQuestion": "What is the precession of the equinoxes?",
+    "value": 400
+  },
+  {
+    "clue": "Only two writings are universally accepted as authentic works of St. Patrick: the Epistola, a letter condemning the slave-raiding British chieftain Coroticus, and this autobiographical confession written in Latin.",
+    "correctQuestion": "What is the Confessio?",
+    "value": 600
+  },
+  {
+    "clue": "The 1893 founding of this organization — the Gaelic League, or Conradh na Gaeilge — with Douglas Hyde as its first president, sought to reverse the anglicisation of Ireland through everyday use of what language.",
+    "correctQuestion": "What is the Irish language (Gaelic / Irish Gaelic)?",
+    "value": 600
+  },
+  {
+    "clue": "In Irish mythology, the goddess Brigid was a member of the Tuatha De Danann and daughter of the Dagda; this Celtic seasonal festival held on February 1st celebrates her and marks the midpoint between winter solstice and spring equinox.",
+    "correctQuestion": "What is Imbolc?",
+    "value": 600
+  },
+  {
+    "clue": "Seamus Heaney, awarded the 1995 Nobel Prize in Literature 'for works of lyrical beauty and ethical depth,' opened his debut 1966 collection with this poem comparing his pen to his father's spade.",
+    "correctQuestion": "What is 'Digging'?",
+    "value": 600
+  },
+  {
+    "clue": "The Haft-sin table central to Nowruz celebrations features seven items beginning with the Persian letter 'sin,' including sabze, the sprouted wheat or lentil symbolizing rebirth, and samanu, a sweet pudding made from this grain.",
+    "correctQuestion": "What is germinated wheat?",
+    "value": 600
+  },
+  {
+    "clue": "The Easter Rising began on Easter Monday, April 24, 1916, when Patrick Pearse read the Proclamation of the Irish Republic outside this Dublin landmark, which the rebels had seized as their headquarters.",
+    "correctQuestion": "What is the General Post Office (the GPO on O'Connell Street)?",
+    "value": 800
+  },
+  {
+    "clue": "Old Bushmills in County Antrim holds the distinction of being the world's oldest licensed whiskey distillery, its license to distill granted by this monarch on April 20, 1608.",
+    "correctQuestion": "Who is King James I (James VI of Scotland)?",
+    "value": 800
+  },
+  {
+    "clue": "Botticelli's Primavera contains over 500 identified plant species and approximately 190 distinct flowers; scholars believe its composition was devised with help from a member of Lorenzo de' Medici's circle, likely this humanist poet.",
+    "correctQuestion": "Who is Poliziano (Angelo Poliziano / Angelo Ambrogini)?",
+    "value": 800
+  },
+  {
+    "clue": "The 8th-century Anglo-Saxon scholar Bede is the sole early source naming this Germanic spring goddess, whose festival month — Eosturmōnaþ, roughly April — gave English its word for the Christian Paschal season.",
+    "correctQuestion": "Who is Eostre (Ēostre)?",
+    "value": 800
+  },
+  {
+    "clue": "This ancient Japanese tradition of communal cherry blossom viewing — whose origins trace to Emperor Saga's garden party at Kyoto's imperial palace in 812 CE — carries the Shinto belief that sakura trees house the spirit of the rice-field deity.",
+    "correctQuestion": "What is hanami?",
+    "value": 800
+  },
+  {
+    "clue": "St. Patrick's Confessio reveals that at age 16 he was kidnapped from his family's villa at a location scholars call 'Bannavem Taburniae' — most likely somewhere in Roman Britain — and held for six years as a slave performing this occupation.",
+    "correctQuestion": "What is herding sheep (shepherding)?",
+    "value": 1000
+  },
+  {
+    "clue": "The Tuatha De Danann arrived in Ireland bearing four sacred treasures; Lugh carried the Spear of Gorias, Nuada the Sword of Findias, the Dagda the Cauldron of Dagda, and the fourth treasure was this stone that cried out beneath the rightful High King.",
+    "correctQuestion": "What is the Lia Fail (the Stone of Destiny)?",
+    "value": 1000
+  },
+  {
+    "clue": "The story of St. Patrick using the shamrock to explain the Holy Trinity was not recorded in writing until 1726, when this Welsh-born botanist and clergyman included it in his flora of Dublin.",
+    "correctQuestion": "Who is Caleb Threlkeld?",
+    "value": 1000
+  },
+  {
+    "clue": "In 391 CE, the Roman consul Quintus Aurelius Symmachus received seven of these dogs as a gift from a Gaelic source, writing that 'all Rome viewed them with wonder' as they were used to fight lions and bears in the arena.",
+    "correctQuestion": "What are Irish Wolfhounds (canes Scotici)?",
+    "value": 1000
+  },
+  {
+    "clue": "Atmospheric blocking events — large quasi-stationary high-pressure systems that redirect migratory cyclones and cause prolonged spring weather anomalies — occur most frequently in the Northern Hemisphere over these two oceanic regions.",
+    "correctQuestion": "What are the eastern Pacific and Atlantic Oceans?",
+    "value": 1000
+  },
+  {
+    "clue": "Douglas Hyde's 1892 lecture 'The Necessity for De-Anglicising Ireland,' delivered to this Dublin organization, served as the intellectual catalyst for the Gaelic Revival and the subsequent founding of the Gaelic League.",
+    "correctQuestion": "What is the National Literary Society?",
+    "value": 1000
+  },
+  {
+    "clue": "James Connolly, the socialist leader of the Irish Citizen Army in the 1916 Easter Rising, was wounded so severely during the fighting that by the time of his execution at Kilmainham Gaol, he had to be tied to a chair because he could not stand; he died on this date.",
+    "correctQuestion": "What is May 12, 1916?",
+    "value": 1000
+  },
+  {
+    "clue": "Phenological research has revealed a dangerous mismatch in spring timing: migratory bird species have advanced their spring arrival, but the insect prey and vegetation they depend on have advanced their emergence even faster — with one PNAS study finding the gap between arrival and green-up increased by more than this fraction of a day per year.",
+    "correctQuestion": "What is half a day (more than half a day per year)?",
+    "value": 1000
+  },
+  {
+    "clue": "The vernal equinox was once marked by the sun entering the constellation Aries, but precession has moved this 'First Point of Aries' roughly 30 degrees westward; it now lies in this zodiac constellation.",
+    "correctQuestion": "What is Pisces?",
+    "value": 1000
+  },
+  {
+    "clue": "The Nowruz celebration was jointly inscribed to UNESCO's Intangible Heritage list in 2009 at the initiative of 11 nations; among the signatories were Afghanistan, Iran, Turkey, and this Central Asian nation whose capital is Astana.",
+    "correctQuestion": "What is Kazakhstan?",
+    "value": 1000
+  },
+  {
+    "clue": "Cormac's Glossary, a 9th-century Irish text written by Christian monks, described the Celtic goddess Brigid as 'the goddess whom poets adored' and suggested she was a triple deity with two sisters — one a healer and one a practitioner of this craft.",
+    "correctQuestion": "What is smithing (metalwork / blacksmithing)?",
+    "value": 1000
+  },
+  {
+    "clue": "The earliest account linking St. Patrick's Day to America comes not from New York or Boston but from St. Augustine, Florida in 1601, when Spanish colonial settlers held a parade; the first recorded celebration in Boston occurred in this year.",
+    "correctQuestion": "What is 1737?",
+    "value": 1000
+  },
+  {
+    "clue": "During the Great Famine of 1845-1850, roughly one million Irish died of starvation and disease while nearly two million emigrated; by 1850, Irish immigrants constituted approximately this percentage of the combined populations of Boston, New York City, Philadelphia, and Baltimore.",
+    "correctQuestion": "What is one quarter (25%)?",
+    "value": 1000
+  },
+  {
+    "clue": "The Book of Kells, a ca. 800 CE illuminated manuscript of the four Gospels housing what scholars call the finest example of Insular art, was donated to Trinity College Dublin in 1661 by Henry Jones, who held this ecclesiastical title.",
+    "correctQuestion": "What is Bishop of Clogher?",
+    "value": 1000
+  },
+  {
+    "clue": "The Good Friday Agreement of 1998 was chaired by this American diplomat and former Senate Majority Leader, whose multi-year mediation effort ultimately produced the power-sharing framework that ended the Troubles.",
+    "correctQuestion": "Who is George J. Mitchell?",
+    "value": 1000
+  }
+]

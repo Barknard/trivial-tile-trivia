@@ -1,0 +1,1454 @@
+{
+  "categoryId": "nativity_story",
+  "categoryName": "The Nativity",
+  "categoryDescription": "Birth of Jesus, manger scene",
+  "metadata": {
+    "created": "2025-12-26",
+    "version": "1.0",
+    "totalQuestions": 180,
+    "audiences": ["kids_4_under", "kids_10_under", "teenagers", "adults", "no_humanity"],
+    "researchAlignment": "Religious education - Christian tradition (respectful)"
+  },
+  "questions": [
+    {
+      "id": "nat_k4_001",
+      "audience": "kids_4_under",
+      "clue": "This special baby was born in a stable and placed in a manger.",
+      "correctQuestion": "Who is Baby Jesus?",
+      "pointValue": 200,
+      "tags": ["baby_jesus", "manger", "basic"]
+    },
+    {
+      "id": "nat_k4_002",
+      "audience": "kids_4_under",
+      "clue": "This is Baby Jesus' mommy who wore a blue robe.",
+      "correctQuestion": "Who is Mary?",
+      "pointValue": 200,
+      "tags": ["mary", "basic"]
+    },
+    {
+      "id": "nat_k4_003",
+      "audience": "kids_4_under",
+      "clue": "This is Baby Jesus' daddy on Earth who was a carpenter.",
+      "correctQuestion": "Who is Joseph?",
+      "pointValue": 200,
+      "tags": ["joseph", "basic"]
+    },
+    {
+      "id": "nat_k4_004",
+      "audience": "kids_4_under",
+      "clue": "Baby Jesus slept in this box that animals usually eat from.",
+      "correctQuestion": "What is a manger?",
+      "pointValue": 200,
+      "tags": ["manger", "basic"]
+    },
+    {
+      "id": "nat_k4_005",
+      "audience": "kids_4_under",
+      "clue": "Baby Jesus was born in this kind of building where animals live.",
+      "correctQuestion": "What is a stable?",
+      "pointValue": 200,
+      "tags": ["stable", "basic"]
+    },
+    {
+      "id": "nat_k4_006",
+      "audience": "kids_4_under",
+      "clue": "This bright, shining object appeared in the sky when Jesus was born.",
+      "correctQuestion": "What is a star?",
+      "pointValue": 200,
+      "tags": ["star", "basic"]
+    },
+    {
+      "id": "nat_k4_007",
+      "audience": "kids_4_under",
+      "clue": "These people who take care of sheep came to visit Baby Jesus.",
+      "correctQuestion": "Who are shepherds?",
+      "pointValue": 200,
+      "tags": ["shepherds", "basic"]
+    },
+    {
+      "id": "nat_k4_008",
+      "audience": "kids_4_under",
+      "clue": "These fluffy animals were probably near Baby Jesus in the stable.",
+      "correctQuestion": "What are sheep?",
+      "pointValue": 200,
+      "tags": ["animals", "basic"]
+    },
+    {
+      "id": "nat_k4_009",
+      "audience": "kids_4_under",
+      "clue": "Baby Jesus was wrapped in these soft cloths to keep Him warm.",
+      "correctQuestion": "What are swaddling clothes?",
+      "pointValue": 200,
+      "tags": ["swaddling", "basic"]
+    },
+    {
+      "id": "nat_k4_010",
+      "audience": "kids_4_under",
+      "clue": "These special visitors from heaven told the shepherds about Baby Jesus.",
+      "correctQuestion": "Who are angels?",
+      "pointValue": 200,
+      "tags": ["angels", "basic"]
+    },
+    {
+      "id": "nat_k4_011",
+      "audience": "kids_4_under",
+      "clue": "These animals with long ears might have been in the stable with Jesus.",
+      "correctQuestion": "What are donkeys?",
+      "pointValue": 200,
+      "tags": ["animals", "basic"]
+    },
+    {
+      "id": "nat_k4_012",
+      "audience": "kids_4_under",
+      "clue": "These mooing animals might have kept Baby Jesus warm in the stable.",
+      "correctQuestion": "What are cows?",
+      "pointValue": 200,
+      "tags": ["animals", "basic"]
+    },
+    {
+      "id": "nat_k4_013",
+      "audience": "kids_4_under",
+      "clue": "This is the town where Baby Jesus was born, starting with the letter B.",
+      "correctQuestion": "What is Bethlehem?",
+      "pointValue": 200,
+      "tags": ["bethlehem", "basic"]
+    },
+    {
+      "id": "nat_k4_014",
+      "audience": "kids_4_under",
+      "clue": "These three special visitors brought gifts to Baby Jesus.",
+      "correctQuestion": "Who are the wise men?",
+      "pointValue": 200,
+      "tags": ["wise_men", "basic"]
+    },
+    {
+      "id": "nat_k4_015",
+      "audience": "kids_4_under",
+      "clue": "The wise men rode on these tall animals with humps.",
+      "correctQuestion": "What are camels?",
+      "pointValue": 400,
+      "tags": ["animals", "camels"]
+    },
+    {
+      "id": "nat_k4_016",
+      "audience": "kids_4_under",
+      "clue": "This shiny yellow gift was brought by one of the wise men.",
+      "correctQuestion": "What is gold?",
+      "pointValue": 400,
+      "tags": ["gifts", "gold"]
+    },
+    {
+      "id": "nat_k4_017",
+      "audience": "kids_4_under",
+      "clue": "The angels sang this kind of happy song in the sky.",
+      "correctQuestion": "What is a hymn (or song)?",
+      "pointValue": 400,
+      "tags": ["angels", "singing"]
+    },
+    {
+      "id": "nat_k4_018",
+      "audience": "kids_4_under",
+      "clue": "Mary and Joseph traveled to Bethlehem from this town called Nazareth.",
+      "correctQuestion": "What is Nazareth?",
+      "pointValue": 400,
+      "tags": ["nazareth", "journey"]
+    },
+    {
+      "id": "nat_k4_019",
+      "audience": "kids_4_under",
+      "clue": "This is what the angels said, meaning 'peace on Earth.'",
+      "correctQuestion": "What is 'Glory to God in the highest'?",
+      "pointValue": 400,
+      "tags": ["angels", "message"]
+    },
+    {
+      "id": "nat_k4_020",
+      "audience": "kids_4_under",
+      "clue": "The wise men followed this special bright star all the way to Jesus.",
+      "correctQuestion": "What is the Star of Bethlehem?",
+      "pointValue": 400,
+      "tags": ["star", "bethlehem"]
+    },
+    {
+      "id": "nat_k4_021",
+      "audience": "kids_4_under",
+      "clue": "This sweet-smelling gift, frankincense, smells like this when you burn it.",
+      "correctQuestion": "What is perfume (or incense)?",
+      "pointValue": 400,
+      "tags": ["gifts", "frankincense"]
+    },
+    {
+      "id": "nat_k4_022",
+      "audience": "kids_4_under",
+      "clue": "Mary rode on this animal on the way to Bethlehem.",
+      "correctQuestion": "What is a donkey?",
+      "pointValue": 400,
+      "tags": ["journey", "donkey"]
+    },
+    {
+      "id": "nat_k4_023",
+      "audience": "kids_4_under",
+      "clue": "The innkeeper said there was no room here for Mary and Joseph.",
+      "correctQuestion": "What is the inn?",
+      "pointValue": 400,
+      "tags": ["inn", "no_room"]
+    },
+    {
+      "id": "nat_k4_024",
+      "audience": "kids_4_under",
+      "clue": "This special name for Jesus means 'God with us.'",
+      "correctQuestion": "What is Emmanuel (or Immanuel)?",
+      "pointValue": 600,
+      "tags": ["names", "emmanuel"]
+    },
+    {
+      "id": "nat_k4_025",
+      "audience": "kids_4_under",
+      "clue": "The third gift the wise men brought was this special oil called myrrh.",
+      "correctQuestion": "What is myrrh?",
+      "pointValue": 600,
+      "tags": ["gifts", "myrrh"]
+    },
+    {
+      "id": "nat_k4_026",
+      "audience": "kids_4_under",
+      "clue": "The shepherds were watching their sheep at this time when it's dark outside.",
+      "correctQuestion": "What is nighttime?",
+      "pointValue": 600,
+      "tags": ["shepherds", "night"]
+    },
+    {
+      "id": "nat_k4_027",
+      "audience": "kids_4_under",
+      "clue": "This is the special angel who told Mary she would have Baby Jesus.",
+      "correctQuestion": "Who is Gabriel?",
+      "pointValue": 600,
+      "tags": ["angels", "gabriel", "annunciation"]
+    },
+    {
+      "id": "nat_k4_028",
+      "audience": "kids_4_under",
+      "clue": "Mary said this special prayer song when she found out about Baby Jesus.",
+      "correctQuestion": "What is the Magnificat?",
+      "pointValue": 600,
+      "tags": ["mary", "magnificat"]
+    },
+    {
+      "id": "nat_k4_029",
+      "audience": "kids_4_under",
+      "clue": "This bad king wanted to find Baby Jesus but not to be nice to Him.",
+      "correctQuestion": "Who is King Herod?",
+      "pointValue": 600,
+      "tags": ["herod", "danger"]
+    },
+    {
+      "id": "nat_k4_030",
+      "audience": "kids_4_under",
+      "clue": "Joseph had this kind of special dream where an angel talked to him.",
+      "correctQuestion": "What is a vision (or dream)?",
+      "pointValue": 600,
+      "tags": ["joseph", "dreams"]
+    },
+    {
+      "id": "nat_k4_031",
+      "audience": "kids_4_under",
+      "clue": "Mary and Joseph took Baby Jesus to this country to keep Him safe from the king.",
+      "correctQuestion": "What is Egypt?",
+      "pointValue": 800,
+      "tags": ["egypt", "flight"]
+    },
+    {
+      "id": "nat_k4_032",
+      "audience": "kids_4_under",
+      "clue": "Jesus is called the 'Prince' of this because He brings peace.",
+      "correctQuestion": "What is Peace?",
+      "pointValue": 800,
+      "tags": ["titles", "peace"]
+    },
+    {
+      "id": "nat_k4_033",
+      "audience": "kids_4_under",
+      "clue": "This is Mary's cousin who also had a special baby named John.",
+      "correctQuestion": "Who is Elizabeth?",
+      "pointValue": 800,
+      "tags": ["elizabeth", "family"]
+    },
+    {
+      "id": "nat_k4_034",
+      "audience": "kids_4_under",
+      "clue": "The shepherds did this action when they heard the good news - they were very happy.",
+      "correctQuestion": "What is rejoiced (or celebrated)?",
+      "pointValue": 1000,
+      "tags": ["shepherds", "joy"]
+    },
+    {
+      "id": "nat_k4_035",
+      "audience": "kids_4_under",
+      "clue": "This is what we celebrate every year to remember Baby Jesus' birthday.",
+      "correctQuestion": "What is Christmas?",
+      "pointValue": 1000,
+      "tags": ["christmas", "celebration"]
+    },
+    {
+      "id": "nat_k4_036",
+      "audience": "kids_4_under",
+      "clue": "Jesus came to Earth to be this for everyone - someone who saves people.",
+      "correctQuestion": "What is a Savior?",
+      "pointValue": 1000,
+      "tags": ["savior", "purpose"]
+    },
+    {
+      "id": "nat_k10_001",
+      "audience": "kids_10_under",
+      "clue": "This Roman Emperor ordered a census that required Mary and Joseph to travel to Bethlehem.",
+      "correctQuestion": "Who is Caesar Augustus?",
+      "pointValue": 200,
+      "tags": ["census", "augustus", "history"]
+    },
+    {
+      "id": "nat_k10_002",
+      "audience": "kids_10_under",
+      "clue": "Joseph traveled to Bethlehem because he was from the family line of this ancient king.",
+      "correctQuestion": "Who is King David?",
+      "pointValue": 200,
+      "tags": ["joseph", "david", "lineage"]
+    },
+    {
+      "id": "nat_k10_003",
+      "audience": "kids_10_under",
+      "clue": "This is the region where the shepherds were keeping watch over their flocks by night.",
+      "correctQuestion": "What is Judea?",
+      "pointValue": 200,
+      "tags": ["shepherds", "judea", "geography"]
+    },
+    {
+      "id": "nat_k10_004",
+      "audience": "kids_10_under",
+      "clue": "The angel told the shepherds they would find the baby wrapped in these and lying in a manger.",
+      "correctQuestion": "What are swaddling cloths?",
+      "pointValue": 200,
+      "tags": ["sign", "swaddling"]
+    },
+    {
+      "id": "nat_k10_005",
+      "audience": "kids_10_under",
+      "clue": "This is what suddenly appeared with the angel, praising God.",
+      "correctQuestion": "What is a multitude of the heavenly host?",
+      "pointValue": 200,
+      "tags": ["angels", "heavenly_host"]
+    },
+    {
+      "id": "nat_k10_006",
+      "audience": "kids_10_under",
+      "clue": "The wise men came from this direction, following the star.",
+      "correctQuestion": "What is the East?",
+      "pointValue": 200,
+      "tags": ["wise_men", "east", "direction"]
+    },
+    {
+      "id": "nat_k10_007",
+      "audience": "kids_10_under",
+      "clue": "The wise men first went to this city to ask King Herod about the newborn king.",
+      "correctQuestion": "What is Jerusalem?",
+      "pointValue": 200,
+      "tags": ["wise_men", "jerusalem"]
+    },
+    {
+      "id": "nat_k10_008",
+      "audience": "kids_10_under",
+      "clue": "Gold symbolized that Jesus was this, a king or royalty.",
+      "correctQuestion": "What is kingship (or a king)?",
+      "pointValue": 200,
+      "tags": ["gifts", "gold", "symbolism"]
+    },
+    {
+      "id": "nat_k10_009",
+      "audience": "kids_10_under",
+      "clue": "Frankincense symbolized that Jesus was this, worthy of worship like God.",
+      "correctQuestion": "What is deity (or divine)?",
+      "pointValue": 200,
+      "tags": ["gifts", "frankincense", "symbolism"]
+    },
+    {
+      "id": "nat_k10_010",
+      "audience": "kids_10_under",
+      "clue": "Myrrh symbolized this future event, Jesus' death and burial.",
+      "correctQuestion": "What is His death (or crucifixion)?",
+      "pointValue": 200,
+      "tags": ["gifts", "myrrh", "symbolism"]
+    },
+    {
+      "id": "nat_k10_011",
+      "audience": "kids_10_under",
+      "clue": "This Old Testament prophet predicted that a virgin would conceive and bear a son.",
+      "correctQuestion": "Who is Isaiah?",
+      "pointValue": 200,
+      "tags": ["prophecy", "isaiah", "virgin"]
+    },
+    {
+      "id": "nat_k10_012",
+      "audience": "kids_10_under",
+      "clue": "This Old Testament prophet predicted the Messiah would be born in Bethlehem.",
+      "correctQuestion": "Who is Micah?",
+      "pointValue": 200,
+      "tags": ["prophecy", "micah", "bethlehem"]
+    },
+    {
+      "id": "nat_k10_013",
+      "audience": "kids_10_under",
+      "clue": "The shepherds did this after seeing Jesus, telling everyone what they had heard.",
+      "correctQuestion": "What is spread the word (or told everyone)?",
+      "pointValue": 200,
+      "tags": ["shepherds", "witness"]
+    },
+    {
+      "id": "nat_k10_014",
+      "audience": "kids_10_under",
+      "clue": "Mary did this with all the events surrounding Jesus' birth, pondering them.",
+      "correctQuestion": "What is treasured them in her heart?",
+      "pointValue": 200,
+      "tags": ["mary", "pondering"]
+    },
+    {
+      "id": "nat_k10_015",
+      "audience": "kids_10_under",
+      "clue": "This is how many days after birth Jesus was circumcised and named, according to Jewish law.",
+      "correctQuestion": "What is eight days?",
+      "pointValue": 400,
+      "tags": ["circumcision", "naming", "law"]
+    },
+    {
+      "id": "nat_k10_016",
+      "audience": "kids_10_under",
+      "clue": "Mary and Joseph presented Jesus at this place in Jerusalem after His birth.",
+      "correctQuestion": "What is the Temple?",
+      "pointValue": 400,
+      "tags": ["temple", "presentation"]
+    },
+    {
+      "id": "nat_k10_017",
+      "audience": "kids_10_under",
+      "clue": "This elderly prophet recognized Baby Jesus at the Temple and took Him in his arms.",
+      "correctQuestion": "Who is Simeon?",
+      "pointValue": 400,
+      "tags": ["simeon", "temple", "prophet"]
+    },
+    {
+      "id": "nat_k10_018",
+      "audience": "kids_10_under",
+      "clue": "This elderly prophetess, an 84-year-old widow, also recognized Jesus at the Temple.",
+      "correctQuestion": "Who is Anna?",
+      "pointValue": 400,
+      "tags": ["anna", "prophetess", "temple"]
+    },
+    {
+      "id": "nat_k10_019",
+      "audience": "kids_10_under",
+      "clue": "Simeon called Jesus this in his prayer, meaning 'God's salvation.'",
+      "correctQuestion": "What is the Lord's salvation (or 'your salvation')?",
+      "pointValue": 400,
+      "tags": ["simeon", "nunc_dimittis"]
+    },
+    {
+      "id": "nat_k10_020",
+      "audience": "kids_10_under",
+      "clue": "The wise men were warned in this kind of supernatural communication not to return to Herod.",
+      "correctQuestion": "What is a dream?",
+      "pointValue": 400,
+      "tags": ["wise_men", "dream", "warning"]
+    },
+    {
+      "id": "nat_k10_021",
+      "audience": "kids_10_under",
+      "clue": "Joseph was warned to flee to Egypt in a dream by this messenger.",
+      "correctQuestion": "Who is an angel of the Lord?",
+      "pointValue": 400,
+      "tags": ["joseph", "angel", "egypt"]
+    },
+    {
+      "id": "nat_k10_022",
+      "audience": "kids_10_under",
+      "clue": "King Herod ordered the killing of all male children under this age in Bethlehem.",
+      "correctQuestion": "What is two years old?",
+      "pointValue": 400,
+      "tags": ["herod", "massacre", "innocents"]
+    },
+    {
+      "id": "nat_k10_023",
+      "audience": "kids_10_under",
+      "clue": "This tragic event is known as the Massacre of these, the young children killed by Herod.",
+      "correctQuestion": "What are the Holy Innocents?",
+      "pointValue": 400,
+      "tags": ["massacre", "innocents"]
+    },
+    {
+      "id": "nat_k10_024",
+      "audience": "kids_10_under",
+      "clue": "The family returned from Egypt to settle in this town in Galilee.",
+      "correctQuestion": "What is Nazareth?",
+      "pointValue": 600,
+      "tags": ["nazareth", "return", "galilee"]
+    },
+    {
+      "id": "nat_k10_025",
+      "audience": "kids_10_under",
+      "clue": "This is the governor of Syria mentioned in Luke's account of the census.",
+      "correctQuestion": "Who is Quirinius?",
+      "pointValue": 600,
+      "tags": ["quirinius", "census", "luke"]
+    },
+    {
+      "id": "nat_k10_026",
+      "audience": "kids_10_under",
+      "clue": "These two Gospels contain detailed accounts of Jesus' birth.",
+      "correctQuestion": "What are Matthew and Luke?",
+      "pointValue": 600,
+      "tags": ["gospels", "matthew", "luke"]
+    },
+    {
+      "id": "nat_k10_027",
+      "audience": "kids_10_under",
+      "clue": "This Gospel focuses on the wise men and the flight to Egypt.",
+      "correctQuestion": "What is Matthew?",
+      "pointValue": 600,
+      "tags": ["matthew", "magi", "perspective"]
+    },
+    {
+      "id": "nat_k10_028",
+      "audience": "kids_10_under",
+      "clue": "This Gospel focuses on the shepherds and the presentation at the Temple.",
+      "correctQuestion": "What is Luke?",
+      "pointValue": 600,
+      "tags": ["luke", "shepherds", "perspective"]
+    },
+    {
+      "id": "nat_k10_029",
+      "audience": "kids_10_under",
+      "clue": "The angel Gabriel appeared to Mary in this town to announce Jesus' conception.",
+      "correctQuestion": "What is Nazareth?",
+      "pointValue": 600,
+      "tags": ["annunciation", "gabriel", "nazareth"]
+    },
+    {
+      "id": "nat_k10_030",
+      "audience": "kids_10_under",
+      "clue": "Mary visited her cousin Elizabeth in this region, traditionally identified as Ein Karem.",
+      "correctQuestion": "What is the hill country of Judea?",
+      "pointValue": 600,
+      "tags": ["visitation", "elizabeth", "judea"]
+    },
+    {
+      "id": "nat_k10_031",
+      "audience": "kids_10_under",
+      "clue": "Elizabeth's unborn baby did this in her womb when Mary greeted her.",
+      "correctQuestion": "What is leaped (or jumped)?",
+      "pointValue": 800,
+      "tags": ["visitation", "john", "elizabeth"]
+    },
+    {
+      "id": "nat_k10_032",
+      "audience": "kids_10_under",
+      "clue": "This is the name of Mary's prayer song in Luke 1:46-55, meaning 'magnifies.'",
+      "correctQuestion": "What is the Magnificat?",
+      "pointValue": 800,
+      "tags": ["magnificat", "mary", "canticle"]
+    },
+    {
+      "id": "nat_k10_033",
+      "audience": "kids_10_under",
+      "clue": "Simeon's prayer upon seeing Jesus is called this in Latin, meaning 'now let depart.'",
+      "correctQuestion": "What is the Nunc Dimittis?",
+      "pointValue": 800,
+      "tags": ["simeon", "nunc_dimittis", "canticle"]
+    },
+    {
+      "id": "nat_k10_034",
+      "audience": "kids_10_under",
+      "clue": "The wise men are traditionally given these three names, though not in Scripture.",
+      "correctQuestion": "Who are Caspar, Melchior, and Balthazar?",
+      "pointValue": 1000,
+      "tags": ["magi", "tradition", "names"]
+    },
+    {
+      "id": "nat_k10_035",
+      "audience": "kids_10_under",
+      "clue": "This is the traditional number of wise men, though the Bible doesn't specify.",
+      "correctQuestion": "What is three?",
+      "pointValue": 1000,
+      "tags": ["magi", "tradition", "number"]
+    },
+    {
+      "id": "nat_k10_036",
+      "audience": "kids_10_under",
+      "clue": "According to tradition, the wise men arrived this many days after Christmas, on Epiphany.",
+      "correctQuestion": "What is twelve days?",
+      "pointValue": 1000,
+      "tags": ["epiphany", "tradition", "timing"]
+    },
+    {
+      "id": "nat_teen_001",
+      "audience": "teenagers",
+      "clue": "Luke's Gospel emphasizes this theological theme by featuring shepherds, the lowly and marginalized.",
+      "correctQuestion": "What is God's concern for the poor and outcasts?",
+      "pointValue": 200,
+      "tags": ["luke", "theology", "social_justice"]
+    },
+    {
+      "id": "nat_teen_002",
+      "audience": "teenagers",
+      "clue": "Matthew's Gospel emphasizes Jesus as the Jewish Messiah by citing this many Old Testament prophecies.",
+      "correctQuestion": "What is five (or several)?",
+      "pointValue": 200,
+      "tags": ["matthew", "prophecy", "messiah"]
+    },
+    {
+      "id": "nat_teen_003",
+      "audience": "teenagers",
+      "clue": "Matthew's genealogy traces Jesus through this person, emphasizing His legal right to David's throne.",
+      "correctQuestion": "Who is Joseph?",
+      "pointValue": 200,
+      "tags": ["genealogy", "matthew", "joseph"]
+    },
+    {
+      "id": "nat_teen_004",
+      "audience": "teenagers",
+      "clue": "Luke's genealogy traces Jesus all the way back to this person, emphasizing universal humanity.",
+      "correctQuestion": "Who is Adam?",
+      "pointValue": 200,
+      "tags": ["genealogy", "luke", "adam"]
+    },
+    {
+      "id": "nat_teen_005",
+      "audience": "teenagers",
+      "clue": "The census under Quirinius is historically debated because secular records place it in this year AD.",
+      "correctQuestion": "What is 6 AD (or 6-7 AD)?",
+      "pointValue": 200,
+      "tags": ["quirinius", "census", "chronology"]
+    },
+    {
+      "id": "nat_teen_006",
+      "audience": "teenagers",
+      "clue": "Scholars estimate Jesus was actually born between 6-4 BC during the reign of this king.",
+      "correctQuestion": "Who is Herod the Great?",
+      "pointValue": 200,
+      "tags": ["chronology", "herod", "dating"]
+    },
+    {
+      "id": "nat_teen_007",
+      "audience": "teenagers",
+      "clue": "The star of Bethlehem has been theorized to be this astronomical event involving Jupiter and Saturn.",
+      "correctQuestion": "What is a planetary conjunction?",
+      "pointValue": 200,
+      "tags": ["star", "astronomy", "conjunction"]
+    },
+    {
+      "id": "nat_teen_008",
+      "audience": "teenagers",
+      "clue": "Some scholars suggest the star could have been this explosive stellar event.",
+      "correctQuestion": "What is a supernova?",
+      "pointValue": 200,
+      "tags": ["star", "astronomy", "supernova"]
+    },
+    {
+      "id": "nat_teen_009",
+      "audience": "teenagers",
+      "clue": "The Magi were likely these types of scholars from Persia or Babylon.",
+      "correctQuestion": "What are astrologers (or astronomers)?",
+      "pointValue": 200,
+      "tags": ["magi", "profession", "astronomy"]
+    },
+    {
+      "id": "nat_teen_010",
+      "audience": "teenagers",
+      "clue": "The visit of Gentile Magi represents this theological theme about salvation.",
+      "correctQuestion": "What is salvation for all nations (or universalism)?",
+      "pointValue": 200,
+      "tags": ["magi", "theology", "gentiles"]
+    },
+    {
+      "id": "nat_teen_011",
+      "audience": "teenagers",
+      "clue": "Matthew's account parallels this Old Testament figure who was also threatened as a baby and fled to Egypt.",
+      "correctQuestion": "Who is Moses?",
+      "pointValue": 200,
+      "tags": ["typology", "moses", "parallels"]
+    },
+    {
+      "id": "nat_teen_012",
+      "audience": "teenagers",
+      "clue": "The virgin birth doctrine is called this in theological terms, from Greek meaning 'virgin birth.'",
+      "correctQuestion": "What is the parthenogenesis (or virginal conception)?",
+      "pointValue": 200,
+      "tags": ["virgin_birth", "theology", "doctrine"]
+    },
+    {
+      "id": "nat_teen_013",
+      "audience": "teenagers",
+      "clue": "The title 'Immanuel' comes from Isaiah 7:14 and appears in this Gospel.",
+      "correctQuestion": "What is Matthew?",
+      "pointValue": 200,
+      "tags": ["immanuel", "isaiah", "matthew"]
+    },
+    {
+      "id": "nat_teen_014",
+      "audience": "teenagers",
+      "clue": "The doctrine that Jesus is both fully God and fully human is called this.",
+      "correctQuestion": "What is the hypostatic union?",
+      "pointValue": 200,
+      "tags": ["christology", "incarnation", "doctrine"]
+    },
+    {
+      "id": "nat_teen_015",
+      "audience": "teenagers",
+      "clue": "The theological term for God becoming human, celebrated at Christmas.",
+      "correctQuestion": "What is the Incarnation?",
+      "pointValue": 400,
+      "tags": ["incarnation", "theology", "christmas"]
+    },
+    {
+      "id": "nat_teen_016",
+      "audience": "teenagers",
+      "clue": "This church council in 431 AD affirmed Mary as 'Theotokos,' meaning this.",
+      "correctQuestion": "What is 'Mother of God' (or 'God-bearer')?",
+      "pointValue": 400,
+      "tags": ["mary", "councils", "theotokos"]
+    },
+    {
+      "id": "nat_teen_017",
+      "audience": "teenagers",
+      "clue": "This council was held in response to the Nestorian controversy about Christ's nature.",
+      "correctQuestion": "What is the Council of Ephesus?",
+      "pointValue": 400,
+      "tags": ["councils", "ephesus", "nestorianism"]
+    },
+    {
+      "id": "nat_teen_018",
+      "audience": "teenagers",
+      "clue": "This heresy claimed Jesus had only a divine nature, denied at Chalcedon in 451 AD.",
+      "correctQuestion": "What is Monophysitism (or Eutychianism)?",
+      "pointValue": 400,
+      "tags": ["heresy", "monophysitism", "chalcedon"]
+    },
+    {
+      "id": "nat_teen_019",
+      "audience": "teenagers",
+      "clue": "The Gospel of John begins with this philosophical concept, 'the Word became flesh.'",
+      "correctQuestion": "What is the Logos?",
+      "pointValue": 400,
+      "tags": ["john", "logos", "incarnation"]
+    },
+    {
+      "id": "nat_teen_020",
+      "audience": "teenagers",
+      "clue": "December 25 was likely chosen to coincide with this Roman festival of the 'Unconquered Sun.'",
+      "correctQuestion": "What is Sol Invictus (or Dies Natalis Solis Invicti)?",
+      "pointValue": 400,
+      "tags": ["christmas", "date", "sol_invictus"]
+    },
+    {
+      "id": "nat_teen_021",
+      "audience": "teenagers",
+      "clue": "The earliest certain reference to December 25 as Christmas comes from this century.",
+      "correctQuestion": "What is the 4th century (or 300s AD)?",
+      "pointValue": 400,
+      "tags": ["christmas", "date", "history"]
+    },
+    {
+      "id": "nat_teen_022",
+      "audience": "teenagers",
+      "clue": "Some Eastern Orthodox churches celebrate Christmas on January 7 using this calendar.",
+      "correctQuestion": "What is the Julian calendar?",
+      "pointValue": 400,
+      "tags": ["orthodox", "calendar", "january"]
+    },
+    {
+      "id": "nat_teen_023",
+      "audience": "teenagers",
+      "clue": "The Protoevangelium of James, written around 150 AD, is an example of this type of non-canonical writing.",
+      "correctQuestion": "What is apocryphal literature (or apocrypha)?",
+      "pointValue": 400,
+      "tags": ["apocrypha", "protoevangelium", "literature"]
+    },
+    {
+      "id": "nat_teen_024",
+      "audience": "teenagers",
+      "clue": "The Infancy Gospel of Thomas contains these types of stories about young Jesus.",
+      "correctQuestion": "What are miracle stories (or legends)?",
+      "pointValue": 600,
+      "tags": ["apocrypha", "infancy_gospel", "miracles"]
+    },
+    {
+      "id": "nat_teen_025",
+      "audience": "teenagers",
+      "clue": "This Roman historian, writing around 115 AD, provides early external evidence of Christ.",
+      "correctQuestion": "Who is Tacitus?",
+      "pointValue": 600,
+      "tags": ["tacitus", "historian", "evidence"]
+    },
+    {
+      "id": "nat_teen_026",
+      "audience": "teenagers",
+      "clue": "This Jewish historian's 'Testimonium Flavianum' mentions Jesus, though some parts are disputed.",
+      "correctQuestion": "Who is Josephus?",
+      "pointValue": 600,
+      "tags": ["josephus", "testimonium", "evidence"]
+    },
+    {
+      "id": "nat_teen_027",
+      "audience": "teenagers",
+      "clue": "Luke's phrase 'wrapped in swaddling cloths' may symbolically connect to this Wisdom 7 passage.",
+      "correctQuestion": "What is Wisdom 7:4-5 (about Solomon)?",
+      "pointValue": 600,
+      "tags": ["swaddling", "wisdom", "symbolism"]
+    },
+    {
+      "id": "nat_teen_028",
+      "audience": "teenagers",
+      "clue": "The manger may echo this prophecy in Isaiah 1:3 about an ox and donkey.",
+      "correctQuestion": "What is 'the ox knows its owner'?",
+      "pointValue": 600,
+      "tags": ["manger", "isaiah", "symbolism"]
+    },
+    {
+      "id": "nat_teen_029",
+      "audience": "teenagers",
+      "clue": "Matthew's use of 'house' instead of 'stable' for the Magi's visit suggests this timing.",
+      "correctQuestion": "What is later (or months/years after birth)?",
+      "pointValue": 600,
+      "tags": ["magi", "timing", "matthew"]
+    },
+    {
+      "id": "nat_teen_030",
+      "audience": "teenagers",
+      "clue": "The discrepancy between Matthew's and Luke's birth narratives illustrates this scholarly concept.",
+      "correctQuestion": "What is the Synoptic Problem (or independent traditions)?",
+      "pointValue": 600,
+      "tags": ["synoptic", "gospels", "criticism"]
+    },
+    {
+      "id": "nat_teen_031",
+      "audience": "teenagers",
+      "clue": "Form criticism analyzes the nativity narratives as these pre-Gospel oral units.",
+      "correctQuestion": "What are pericopes (or oral traditions)?",
+      "pointValue": 800,
+      "tags": ["form_criticism", "pericopes", "methodology"]
+    },
+    {
+      "id": "nat_teen_032",
+      "audience": "teenagers",
+      "clue": "This German scholar pioneered form criticism in the early 20th century.",
+      "correctQuestion": "Who is Rudolf Bultmann?",
+      "pointValue": 800,
+      "tags": ["bultmann", "form_criticism", "scholarship"]
+    },
+    {
+      "id": "nat_teen_033",
+      "audience": "teenagers",
+      "clue": "Redaction criticism studies how Matthew and Luke edited their sources with this theological agenda.",
+      "correctQuestion": "What is their distinctive theology (or theological purpose)?",
+      "pointValue": 800,
+      "tags": ["redaction_criticism", "theology", "methodology"]
+    },
+    {
+      "id": "nat_teen_034",
+      "audience": "teenagers",
+      "clue": "The 'Q' source theory suggests Matthew and Luke used this lost sayings collection.",
+      "correctQuestion": "What is Q (or Quelle)?",
+      "pointValue": 1000,
+      "tags": ["q_source", "synoptic", "theory"]
+    },
+    {
+      "id": "nat_teen_035",
+      "audience": "teenagers",
+      "clue": "The two-source hypothesis posits Matthew and Luke used Mark and this other source.",
+      "correctQuestion": "What is Q?",
+      "pointValue": 1000,
+      "tags": ["two_source", "synoptic", "theory"]
+    },
+    {
+      "id": "nat_teen_036",
+      "audience": "teenagers",
+      "clue": "This scholarly quest seeks to reconstruct the historical Jesus apart from theological interpretation.",
+      "correctQuestion": "What is the historical Jesus research (or quest)?",
+      "pointValue": 1000,
+      "tags": ["historical_jesus", "scholarship", "methodology"]
+    },
+    {
+      "id": "nat_adult_001",
+      "audience": "adults",
+      "clue": "Raymond Brown's 'The Birth of the Messiah' argues the infancy narratives are primarily this genre.",
+      "correctQuestion": "What is theological narrative (or midrash)?",
+      "pointValue": 200,
+      "tags": ["brown", "genre", "theology"]
+    },
+    {
+      "id": "nat_adult_002",
+      "audience": "adults",
+      "clue": "Brown distinguishes between the historical core and these theological elaborations in the nativity.",
+      "correctQuestion": "What are haggadic (or midrashic) elements?",
+      "pointValue": 200,
+      "tags": ["brown", "midrash", "haggadah"]
+    },
+    {
+      "id": "nat_adult_003",
+      "audience": "adults",
+      "clue": "The placement of Jesus' birth in a manger may symbolize this Bread of Life imagery.",
+      "correctQuestion": "What is Bethlehem ('house of bread')?",
+      "pointValue": 200,
+      "tags": ["bethlehem", "symbolism", "typology"]
+    },
+    {
+      "id": "nat_adult_004",
+      "audience": "adults",
+      "clue": "Luke's census detail serves this narrative function despite historical difficulties.",
+      "correctQuestion": "What is theological (getting Jesus to Bethlehem for prophecy)?",
+      "pointValue": 200,
+      "tags": ["census", "luke", "theology"]
+    },
+    {
+      "id": "nat_adult_005",
+      "audience": "adults",
+      "clue": "This scholar argues Luke's infancy narrative reflects early Palestinian Christian hymns.",
+      "correctQuestion": "Who is Raymond Brown?",
+      "pointValue": 200,
+      "tags": ["brown", "canticles", "hymns"]
+    },
+    {
+      "id": "nat_adult_006",
+      "audience": "adults",
+      "clue": "The Magnificat, Benedictus, and Nunc Dimittis are examples of these embedded poetic forms.",
+      "correctQuestion": "What are canticles?",
+      "pointValue": 200,
+      "tags": ["canticles", "luke", "poetry"]
+    },
+    {
+      "id": "nat_adult_007",
+      "audience": "adults",
+      "clue": "Matthew's formula citations use this phrase repeatedly to link Jesus to prophecy.",
+      "correctQuestion": "What is 'to fulfill what was spoken'?",
+      "pointValue": 200,
+      "tags": ["matthew", "formula", "prophecy"]
+    },
+    {
+      "id": "nat_adult_008",
+      "audience": "adults",
+      "clue": "Matthew's virgin birth citation from Isaiah 7:14 uses this Greek translation.",
+      "correctQuestion": "What is the Septuagint (LXX)?",
+      "pointValue": 200,
+      "tags": ["isaiah", "septuagint", "virgin"]
+    },
+    {
+      "id": "nat_adult_009",
+      "audience": "adults",
+      "clue": "The Hebrew word 'almah' in Isaiah 7:14 actually means this, not necessarily 'virgin.'",
+      "correctQuestion": "What is 'young woman'?",
+      "pointValue": 200,
+      "tags": ["isaiah", "almah", "translation"]
+    },
+    {
+      "id": "nat_adult_010",
+      "audience": "adults",
+      "clue": "The Septuagint translated 'almah' with this Greek word meaning 'virgin.'",
+      "correctQuestion": "What is 'parthenos'?",
+      "pointValue": 200,
+      "tags": ["septuagint", "parthenos", "translation"]
+    },
+    {
+      "id": "nat_adult_011",
+      "audience": "adults",
+      "clue": "This approach reads Isaiah 7:14 as having both immediate and future fulfillment.",
+      "correctQuestion": "What is sensus plenior (or fuller sense)?",
+      "pointValue": 200,
+      "tags": ["isaiah", "sensus_plenior", "hermeneutics"]
+    },
+    {
+      "id": "nat_adult_012",
+      "audience": "adults",
+      "clue": "This interpretive method sees multiple layers of meaning in prophetic texts.",
+      "correctQuestion": "What is typological interpretation?",
+      "pointValue": 200,
+      "tags": ["typology", "hermeneutics", "prophecy"]
+    },
+    {
+      "id": "nat_adult_013",
+      "audience": "adults",
+      "clue": "N.T. Wright argues the infancy narratives function as these stories about Israel's hopes.",
+      "correctQuestion": "What are symbolic narratives (or Israel's story)?",
+      "pointValue": 200,
+      "tags": ["wright", "narrative", "israel"]
+    },
+    {
+      "id": "nat_adult_014",
+      "audience": "adults",
+      "clue": "John Dominic Crossan categorizes the nativity stories as this type of theological construction.",
+      "correctQuestion": "What is parabolic (or metaphorical) narrative?",
+      "pointValue": 200,
+      "tags": ["crossan", "parable", "metaphor"]
+    },
+    {
+      "id": "nat_adult_015",
+      "audience": "adults",
+      "clue": "The Council of Chalcedon in 451 defined Christ as having two of these without mixture.",
+      "correctQuestion": "What are natures (divine and human)?",
+      "pointValue": 400,
+      "tags": ["chalcedon", "christology", "natures"]
+    },
+    {
+      "id": "nat_adult_016",
+      "audience": "adults",
+      "clue": "This technical term describes the union of divine and human natures in one person.",
+      "correctQuestion": "What is hypostatic union?",
+      "pointValue": 400,
+      "tags": ["hypostatic", "christology", "union"]
+    },
+    {
+      "id": "nat_adult_017",
+      "audience": "adults",
+      "clue": "This 5th-century heresy taught Christ had two separate persons, divine and human.",
+      "correctQuestion": "What is Nestorianism?",
+      "pointValue": 400,
+      "tags": ["nestorianism", "heresy", "christology"]
+    },
+    {
+      "id": "nat_adult_018",
+      "audience": "adults",
+      "clue": "Cyril of Alexandria argued against Nestorius using this Christological title for Mary.",
+      "correctQuestion": "What is Theotokos (God-bearer)?",
+      "pointValue": 400,
+      "tags": ["cyril", "theotokos", "nestorius"]
+    },
+    {
+      "id": "nat_adult_019",
+      "audience": "adults",
+      "clue": "This Christological heresy taught that Jesus' human nature was absorbed into His divine nature.",
+      "correctQuestion": "What is Eutychianism (or Monophysitism)?",
+      "pointValue": 400,
+      "tags": ["eutychianism", "heresy", "christology"]
+    },
+    {
+      "id": "nat_adult_020",
+      "audience": "adults",
+      "clue": "This heresy denied the reality of Christ's physical body, viewing it as illusion.",
+      "correctQuestion": "What is Docetism?",
+      "pointValue": 400,
+      "tags": ["docetism", "heresy", "incarnation"]
+    },
+    {
+      "id": "nat_adult_021",
+      "audience": "adults",
+      "clue": "The virginal conception addresses this soteriological concern about Christ's sinlessness.",
+      "correctQuestion": "What is original sin (or sin transmission)?",
+      "pointValue": 400,
+      "tags": ["virgin_birth", "soteriology", "sin"]
+    },
+    {
+      "id": "nat_adult_022",
+      "audience": "adults",
+      "clue": "This doctrine, debated in the Middle Ages, holds Mary was conceived without original sin.",
+      "correctQuestion": "What is the Immaculate Conception?",
+      "pointValue": 400,
+      "tags": ["mary", "immaculate", "doctrine"]
+    },
+    {
+      "id": "nat_adult_023",
+      "audience": "adults",
+      "clue": "This Marian doctrine, defined in 1950, teaches Mary was taken bodily into heaven.",
+      "correctQuestion": "What is the Assumption?",
+      "pointValue": 400,
+      "tags": ["mary", "assumption", "doctrine"]
+    },
+    {
+      "id": "nat_adult_024",
+      "audience": "adults",
+      "clue": "This theological position holds Mary remained virgin throughout her life.",
+      "correctQuestion": "What is perpetual virginity?",
+      "pointValue": 600,
+      "tags": ["mary", "perpetual_virginity", "doctrine"]
+    },
+    {
+      "id": "nat_adult_025",
+      "audience": "adults",
+      "clue": "The 'brothers of Jesus' mentioned in Mark 6:3 are interpreted in Catholic tradition as these.",
+      "correctQuestion": "What are cousins (or relatives)?",
+      "pointValue": 600,
+      "tags": ["brothers", "mary", "interpretation"]
+    },
+    {
+      "id": "nat_adult_026",
+      "audience": "adults",
+      "clue": "Jerome argued the 'brothers' were children of this other Mary, wife of Clopas.",
+      "correctQuestion": "Who is Mary of Clopas (or another Mary)?",
+      "pointValue": 600,
+      "tags": ["jerome", "brothers", "interpretation"]
+    },
+    {
+      "id": "nat_adult_027",
+      "audience": "adults",
+      "clue": "This Reformation position holds Mary had other children after Jesus with Joseph.",
+      "correctQuestion": "What is the Protestant view?",
+      "pointValue": 600,
+      "tags": ["protestant", "brothers", "mary"]
+    },
+    {
+      "id": "nat_adult_028",
+      "audience": "adults",
+      "clue": "Karl Barth's Christology emphasizes the virgin birth as sign of this theological reality.",
+      "correctQuestion": "What is God's sovereign initiative (or grace)?",
+      "pointValue": 600,
+      "tags": ["barth", "virgin_birth", "theology"]
+    },
+    {
+      "id": "nat_adult_029",
+      "audience": "adults",
+      "clue": "Rudolf Bultmann proposed this hermeneutical approach to demythologize the virgin birth.",
+      "correctQuestion": "What is existential interpretation (or demythologization)?",
+      "pointValue": 600,
+      "tags": ["bultmann", "demythologization", "hermeneutics"]
+    },
+    {
+      "id": "nat_adult_030",
+      "audience": "adults",
+      "clue": "This 20th-century movement emphasized the historical unreliability of miracle accounts.",
+      "correctQuestion": "What is the historical-critical method?",
+      "pointValue": 600,
+      "tags": ["historical_critical", "methodology", "miracles"]
+    },
+    {
+      "id": "nat_adult_031",
+      "audience": "adults",
+      "clue": "Gerd Theissen's work on the Jesus tradition emphasizes this sociological dimension.",
+      "correctQuestion": "What is the social context (or sociology of early Christianity)?",
+      "pointValue": 800,
+      "tags": ["theissen", "sociology", "context"]
+    },
+    {
+      "id": "nat_adult_032",
+      "audience": "adults",
+      "clue": "This scholarly criterion evaluates Gospel traditions by their fit with Jewish context.",
+      "correctQuestion": "What is the criterion of coherence (or contextual plausibility)?",
+      "pointValue": 800,
+      "tags": ["criteria", "authenticity", "methodology"]
+    },
+    {
+      "id": "nat_adult_033",
+      "audience": "adults",
+      "clue": "The criterion of embarrassment suggests this type of material is more likely historical.",
+      "correctQuestion": "What is material embarrassing to early Christians?",
+      "pointValue": 800,
+      "tags": ["criteria", "embarrassment", "methodology"]
+    },
+    {
+      "id": "nat_adult_034",
+      "audience": "adults",
+      "clue": "Jane Schaberg's controversial work argues Mary's pregnancy resulted from this.",
+      "correctQuestion": "What is rape (or illegitimacy)?",
+      "pointValue": 1000,
+      "tags": ["schaberg", "controversial", "interpretation"]
+    },
+    {
+      "id": "nat_adult_035",
+      "audience": "adults",
+      "clue": "This Jewish polemical text portrays Jesus as illegitimate, using a Roman soldier's name.",
+      "correctQuestion": "What is the Toledot Yeshu (or Pandera tradition)?",
+      "pointValue": 1000,
+      "tags": ["toledot", "polemic", "jewish"]
+    },
+    {
+      "id": "nat_adult_036",
+      "audience": "adults",
+      "clue": "The name 'Panthera' in anti-Christian polemic may be a play on this Greek word.",
+      "correctQuestion": "What is 'parthenos' (virgin)?",
+      "pointValue": 1000,
+      "tags": ["panthera", "polemic", "wordplay"]
+    },
+    {
+      "id": "nat_nohum_001",
+      "audience": "no_humanity",
+      "clue": "Where wise men bought gifts",
+      "correctQuestion": "What is Amazon?",
+      "pointValue": 200,
+      "tags": ["wise_men", "gifts", "amazon"]
+    },
+    {
+      "id": "nat_nohum_002",
+      "audience": "no_humanity",
+      "clue": "Joseph's virgin girlfriend pregnancy post location",
+      "correctQuestion": "What is Reddit?",
+      "pointValue": 200,
+      "tags": ["joseph", "social_media", "paternity"]
+    },
+    {
+      "id": "nat_nohum_003",
+      "audience": "no_humanity",
+      "clue": "Mary's I Didn't Know binge platform",
+      "correctQuestion": "What is Netflix?",
+      "pointValue": 200,
+      "tags": ["mary", "netflix", "pregnancy"]
+    },
+    {
+      "id": "nat_nohum_004",
+      "audience": "no_humanity",
+      "clue": "Shepherds' viral angel encounter app",
+      "correctQuestion": "What is TikTok?",
+      "pointValue": 200,
+      "tags": ["shepherds", "tiktok", "angels"]
+    },
+    {
+      "id": "nat_nohum_005",
+      "audience": "no_humanity",
+      "clue": "Red cups War on Christmas",
+      "correctQuestion": "What is Starbucks?",
+      "pointValue": 200,
+      "tags": ["starbucks", "controversy", "inn"]
+    },
+    {
+      "id": "nat_nohum_006",
+      "audience": "no_humanity",
+      "clue": "Wise men's GPS star replacement",
+      "correctQuestion": "What is an iPhone?",
+      "pointValue": 200,
+      "tags": ["wise_men", "iphone", "star"]
+    },
+    {
+      "id": "nat_nohum_007",
+      "audience": "no_humanity",
+      "clue": "What cancelled Bethlehem travel 2020",
+      "correctQuestion": "What is COVID-19?",
+      "pointValue": 200,
+      "tags": ["covid", "travel", "bethlehem"]
+    },
+    {
+      "id": "nat_nohum_008",
+      "audience": "no_humanity",
+      "clue": "Joseph's stable rental payment app",
+      "correctQuestion": "What is Venmo?",
+      "pointValue": 200,
+      "tags": ["venmo", "joseph", "stable"]
+    },
+    {
+      "id": "nat_nohum_009",
+      "audience": "no_humanity",
+      "clue": "Mary's virgin pregnancy explainer device",
+      "correctQuestion": "What is Alexa?",
+      "pointValue": 200,
+      "tags": ["alexa", "mary", "virgin_birth"]
+    },
+    {
+      "id": "nat_nohum_010",
+      "audience": "no_humanity",
+      "clue": "Wise men's camel rental app",
+      "correctQuestion": "What is Uber?",
+      "pointValue": 200,
+      "tags": ["wise_men", "uber", "travel"]
+    },
+    {
+      "id": "nat_nohum_011",
+      "audience": "no_humanity",
+      "clue": "Joseph's mom's comment reaction",
+      "correctQuestion": "What is 'we need to talk'?",
+      "pointValue": 200,
+      "tags": ["mary", "instagram", "announcement"]
+    },
+    {
+      "id": "nat_nohum_012",
+      "audience": "no_humanity",
+      "clue": "Joseph's Christmas Eve craving delivery",
+      "correctQuestion": "What is DoorDash?",
+      "pointValue": 200,
+      "tags": ["joseph", "doordash", "christmas"]
+    },
+    {
+      "id": "nat_nohum_013",
+      "audience": "no_humanity",
+      "clue": "Mary's complicated relationship status app",
+      "correctQuestion": "What is Tinder?",
+      "pointValue": 200,
+      "tags": ["mary", "tinder", "relationship"]
+    },
+    {
+      "id": "nat_nohum_014",
+      "audience": "no_humanity",
+      "clue": "Wise men's baby visit alternative",
+      "correctQuestion": "What is Zoom?",
+      "pointValue": 200,
+      "tags": ["wise_men", "zoom", "covid"]
+    },
+    {
+      "id": "nat_nohum_015",
+      "audience": "no_humanity",
+      "clue": "Innkeeper's $500/night stable listing",
+      "correctQuestion": "What is Airbnb?",
+      "pointValue": 400,
+      "tags": ["inn", "airbnb", "stable"]
+    },
+    {
+      "id": "nat_nohum_016",
+      "audience": "no_humanity",
+      "clue": "Shepherds' sheep-ignoring scroll app",
+      "correctQuestion": "What is Instagram?",
+      "pointValue": 400,
+      "tags": ["shepherds", "instagram", "angels"]
+    },
+    {
+      "id": "nat_nohum_017",
+      "audience": "no_humanity",
+      "clue": "Virgin birth scientifically impossible tweeter",
+      "correctQuestion": "What is Tesla?",
+      "pointValue": 400,
+      "tags": ["tesla", "elon_musk", "virgin_birth"]
+    },
+    {
+      "id": "nat_nohum_018",
+      "audience": "no_humanity",
+      "clue": "Who'd call census rigged",
+      "correctQuestion": "Who is Donald Trump?",
+      "pointValue": 400,
+      "tags": ["trump", "census", "politics"]
+    },
+    {
+      "id": "nat_nohum_019",
+      "audience": "no_humanity",
+      "clue": "Who defrosts every December",
+      "correctQuestion": "Who is Mariah Carey?",
+      "pointValue": 400,
+      "tags": ["mariah_carey", "christmas", "music"]
+    },
+    {
+      "id": "nat_nohum_020",
+      "audience": "no_humanity",
+      "clue": "Joseph's 3am virgin pregnancy forum",
+      "correctQuestion": "What is Reddit?",
+      "pointValue": 400,
+      "tags": ["joseph", "google", "search"]
+    },
+    {
+      "id": "nat_nohum_021",
+      "audience": "no_humanity",
+      "clue": "Wise men's nativity binge platform",
+      "correctQuestion": "What is Disney+?",
+      "pointValue": 400,
+      "tags": ["wise_men", "disney", "streaming"]
+    },
+    {
+      "id": "nat_nohum_022",
+      "audience": "no_humanity",
+      "clue": "Stable birth All I Want soundtrack",
+      "correctQuestion": "What is Spotify?",
+      "pointValue": 400,
+      "tags": ["spotify", "music", "birth"]
+    },
+    {
+      "id": "nat_nohum_023",
+      "audience": "no_humanity",
+      "clue": "Joseph's bulk swaddling warehouse",
+      "correctQuestion": "What is Costco?",
+      "pointValue": 400,
+      "tags": ["costco", "joseph", "swaddling"]
+    },
+    {
+      "id": "nat_nohum_024",
+      "audience": "no_humanity",
+      "clue": "Mary's Facebook status after angel",
+      "correctQuestion": "What is 'It's Complicated'?",
+      "pointValue": 600,
+      "tags": ["mary", "facebook", "relationship"]
+    },
+    {
+      "id": "nat_nohum_025",
+      "audience": "no_humanity",
+      "clue": "Mary's perfect TLC reality show",
+      "correctQuestion": "What is '16 and Pregnant'?",
+      "pointValue": 600,
+      "tags": ["mary", "reality_tv", "pregnancy"]
+    },
+    {
+      "id": "nat_nohum_026",
+      "audience": "no_humanity",
+      "clue": "Where moms spend $347 not $50",
+      "correctQuestion": "What is Target?",
+      "pointValue": 600,
+      "tags": ["target", "baby", "shopping"]
+    },
+    {
+      "id": "nat_nohum_027",
+      "audience": "no_humanity",
+      "clue": "Joseph's paternity test consideration",
+      "correctQuestion": "What is 23andMe?",
+      "pointValue": 600,
+      "tags": ["joseph", "dna", "paternity"]
+    },
+    {
+      "id": "nat_nohum_028",
+      "audience": "no_humanity",
+      "clue": "Customers also bought with myrrh",
+      "correctQuestion": "What are diapers?",
+      "pointValue": 600,
+      "tags": ["wise_men", "amazon", "gifts"]
+    },
+    {
+      "id": "nat_nohum_029",
+      "audience": "no_humanity",
+      "clue": "What ruins Christmas dinner now",
+      "correctQuestion": "What is politics?",
+      "pointValue": 600,
+      "tags": ["politics", "family", "christmas"]
+    },
+    {
+      "id": "nat_nohum_030",
+      "audience": "no_humanity",
+      "clue": "Gabriel's modern announcement format",
+      "correctQuestion": "What is a group text?",
+      "pointValue": 600,
+      "tags": ["group_chat", "angels", "modern"]
+    },
+    {
+      "id": "nat_nohum_031",
+      "audience": "no_humanity",
+      "clue": "Mom influencers' pregnancy miracle drug",
+      "correctQuestion": "What is Ozempic?",
+      "pointValue": 800,
+      "tags": ["ozempic", "pregnancy", "influencers"]
+    },
+    {
+      "id": "nat_nohum_032",
+      "audience": "no_humanity",
+      "clue": "Keith Morrison virgin birth investigation",
+      "correctQuestion": "What is Dateline?",
+      "pointValue": 800,
+      "tags": ["podcast", "true_crime", "virgin_birth"]
+    },
+    {
+      "id": "nat_nohum_033",
+      "audience": "no_humanity",
+      "clue": "Bro you're getting this",
+      "correctQuestion": "What is catfished?",
+      "pointValue": 800,
+      "tags": ["joseph", "friends", "manipulation"]
+    },
+    {
+      "id": "nat_nohum_034",
+      "audience": "no_humanity",
+      "clue": "Am I The what Reddit",
+      "correctQuestion": "What is Asshole?",
+      "pointValue": 1000,
+      "tags": ["joseph", "reddit", "aita"]
+    },
+    {
+      "id": "nat_nohum_035",
+      "audience": "no_humanity",
+      "clue": "Innkeeper's 1-star stable birth complaint",
+      "correctQuestion": "What is a bad review?",
+      "pointValue": 1000,
+      "tags": ["innkeeper", "yelp", "reviews"]
+    },
+    {
+      "id": "nat_nohum_036",
+      "audience": "no_humanity",
+      "clue": "Carpenter finds love in 90 minutes",
+      "correctQuestion": "What is a Hallmark Christmas movie?",
+      "pointValue": 1000,
+      "tags": ["hallmark", "movies", "christmas"]
+    }
+  ]
+}

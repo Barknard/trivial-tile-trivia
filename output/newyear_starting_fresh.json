@@ -1,0 +1,308 @@
+{
+  "category": "Starting Fresh & New Beginnings",
+  "description": "New Year's resolutions, clean slates, turning over a new leaf, and fresh starts",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "January 1st marks this calendar turning point for new beginnings",
+      "answer": "What is New Year's Day?"
+    },
+    {
+      "points": 200,
+      "clue": "A promise to change behavior or habits typically made on January 1st",
+      "answer": "What is a New Year's resolution?"
+    },
+    {
+      "points": 200,
+      "clue": "Wiping the slate clean by discarding old items in spring",
+      "answer": "What is spring cleaning?"
+    },
+    {
+      "points": 200,
+      "clue": "Fresh start in a new home after moving day",
+      "answer": "What is moving in?"
+    },
+    {
+      "points": 200,
+      "clue": "First day at a new school or job brings this feeling",
+      "answer": "What is a fresh start?"
+    },
+    {
+      "points": 200,
+      "clue": "Ending an old chapter and starting this",
+      "answer": "What is a new chapter?"
+    },
+    {
+      "points": 200,
+      "clue": "Cutting ties with the past by starting from scratch",
+      "answer": "What is turning over a new leaf?"
+    },
+    {
+      "points": 400,
+      "clue": "Starting a fitness routine or diet is part of this common resolution",
+      "answer": "What is getting in shape or losing weight?"
+    },
+    {
+      "points": 400,
+      "clue": "Clearing out clutter and reorganizing your space",
+      "answer": "What is decluttering?"
+    },
+    {
+      "points": 400,
+      "clue": "Beginning a new relationship after ending the previous one",
+      "answer": "What is a fresh romantic start?"
+    },
+    {
+      "points": 400,
+      "clue": "Career change symbolizes this kind of major life shift",
+      "answer": "What is starting fresh professionally?"
+    },
+    {
+      "points": 400,
+      "clue": "Blank page at the beginning of a journal for new goals",
+      "answer": "What is a clean slate?"
+    },
+    {
+      "points": 400,
+      "clue": "Closing old accounts and opening fresh financial records",
+      "answer": "What is starting fresh financially?"
+    },
+    {
+      "points": 600,
+      "clue": "Ancient Roman god associated with new beginnings and doorways",
+      "answer": "What is Janus?"
+    },
+    {
+      "points": 600,
+      "clue": "Buddhist tradition of renewal emphasizing rebirth and starting anew",
+      "answer": "What is reincarnation?"
+    },
+    {
+      "points": 600,
+      "clue": "Phoenix rising from ashes symbolizes this concept",
+      "answer": "What is rebirth or renewal?"
+    },
+    {
+      "points": 600,
+      "clue": "Fresh start often requires forgiveness and letting go of this",
+      "answer": "What is resentment or grudges?"
+    },
+    {
+      "points": 600,
+      "clue": "School year starting in September marks student life turning over this",
+      "answer": "What is a new leaf?"
+    },
+    {
+      "points": 800,
+      "clue": "This meditation practice helps reset mental patterns for new beginnings",
+      "answer": "What is mindfulness?"
+    },
+    {
+      "points": 800,
+      "clue": "Renaissance period marked this in European art and culture",
+      "answer": "What is a rebirth or new beginning?"
+    },
+    {
+      "points": 800,
+      "clue": "Therapy often focuses on helping clients achieve this psychological state",
+      "answer": "What is healing and starting fresh?"
+    },
+    {
+      "points": 800,
+      "clue": "Butterfly metamorphosis symbolizes complete transformation and this",
+      "answer": "What is starting fresh as a new creature?"
+    },
+    {
+      "points": 1000,
+      "clue": "Psychologist's concept of personality rebirth after major life events",
+      "answer": "What is resilience or post-traumatic growth?"
+    },
+    {
+      "points": 1000,
+      "clue": "Recovery program uses 12 steps leading to this kind of new start",
+      "answer": "What is sobriety or abstinence?"
+    },
+    {
+      "points": 1000,
+      "clue": "Neuroscience term for the brain's ability to rewire itself and start fresh",
+      "answer": "What is neuroplasticity?"
+    },
+    {
+      "points": 1000,
+      "clue": "This personal finance concept involves starting from zero debt",
+      "answer": "What is financial independence?"
+    },
+    {
+      "points": 1000,
+      "clue": "Startup culture embraces this business model of fresh market entry",
+      "answer": "What is disruption?"
+    },
+    {
+      "points": 1000,
+      "clue": "Japanese aesthetic principle of finding beauty in imperfection and new beginnings",
+      "answer": "What is wabi-sabi?"
+    },
+    {
+      "points": 1000,
+      "clue": "Legal process that clears financial slate for individuals or businesses",
+      "answer": "What is bankruptcy?"
+    },
+    {
+      "points": 1000,
+      "clue": "This educational concept emphasizes learning from mistakes and starting fresh",
+      "answer": "What is growth mindset?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "New Year's resolution you'll break by January 15th",
+      "answer": "What is going to the gym?"
+    },
+    {
+      "points": 200,
+      "clue": "What starts fresh at New Year but dies by February",
+      "answer": "What is motivation?"
+    },
+    {
+      "points": 200,
+      "clue": "Social media ritual of posting before and after photos",
+      "answer": "What is the weight loss transformation lie?"
+    },
+    {
+      "points": 200,
+      "clue": "Why your 2024 resolutions are already forgotten",
+      "answer": "What is zero follow-through?"
+    },
+    {
+      "points": 200,
+      "clue": "Fresh start tradition that comes with massive credit card debt",
+      "answer": "What is New Year's party planning?"
+    },
+    {
+      "points": 200,
+      "clue": "Thing your ex claims after cheating on you",
+      "answer": "What is a fresh start in life?"
+    },
+    {
+      "points": 400,
+      "clue": "Lie you tell yourself every January 1st",
+      "answer": "What is this year will be different?"
+    },
+    {
+      "points": 400,
+      "clue": "What you're supposed to give up that you'll start consuming again by lunch",
+      "answer": "What is sugar or processed food?"
+    },
+    {
+      "points": 400,
+      "clue": "Fresh start conversation that happens after 3 drinks on New Year's Eve",
+      "answer": "What is the drunk sincere heart-to-heart?"
+    },
+    {
+      "points": 400,
+      "clue": "Why your fitness influencer's January 1st post gets fake engagement",
+      "answer": "What is algorithms favoring new hashtags?"
+    },
+    {
+      "points": 400,
+      "clue": "Gym membership you'll ghost by February",
+      "answer": "What is the expensive New Year's resolution?"
+    },
+    {
+      "points": 400,
+      "clue": "What your therapist loves about January",
+      "answer": "What is full appointment schedule?"
+    },
+    {
+      "points": 600,
+      "clue": "Relationship you end with New Year's fresh start talk",
+      "answer": "What is the toxic one you stayed in all year?"
+    },
+    {
+      "points": 600,
+      "clue": "Career pivot you announce that requires zero actual effort",
+      "answer": "What is becoming an entrepreneur?"
+    },
+    {
+      "points": 600,
+      "clue": "Thing Karen claims when demanding special treatment at restaurants",
+      "answer": "What is a new year, new me energy?"
+    },
+    {
+      "points": 600,
+      "clue": "What TikTok influencers monetize by pretending to have",
+      "answer": "What is genuine life transformation?"
+    },
+    {
+      "points": 600,
+      "clue": "Fresh start you pursue that costs $500/month",
+      "answer": "What is hot yoga classes?"
+    },
+    {
+      "points": 600,
+      "clue": "Lie on your dating profile from New Year's resolution attempt",
+      "answer": "What is actually working out regularly?"
+    },
+    {
+      "points": 800,
+      "clue": "Why your new budget spreadsheet never gets looked at again",
+      "answer": "What is despair after week two?"
+    },
+    {
+      "points": 800,
+      "clue": "Fresh start hobby you buy supplies for but never touch",
+      "answer": "What is painting or journaling?"
+    },
+    {
+      "points": 800,
+      "clue": "Your parents' biggest disappointment about your life refresh",
+      "answer": "What is you didn't fix your life issues?"
+    },
+    {
+      "points": 800,
+      "clue": "Manifestation trend that requires buying overpriced crystals",
+      "answer": "What is starting fresh through spiritual healing?"
+    },
+    {
+      "points": 800,
+      "clue": "Fresh start approach that involves deleting all your apps",
+      "answer": "What is digital detox?"
+    },
+    {
+      "points": 800,
+      "clue": "Why your best friend's fresh start failed by week three",
+      "answer": "What is life got too hard again?"
+    },
+    {
+      "points": 1000,
+      "clue": "Capitalism's favorite lie about consumerism and new beginnings",
+      "answer": "What is you need new stuff for a fresh start?"
+    },
+    {
+      "points": 1000,
+      "clue": "LinkedIn post about personal rebrand nobody actually believes",
+      "answer": "What is excited for new chapter in my journey?"
+    },
+    {
+      "points": 1000,
+      "clue": "Therapy concept your therapist uses to justify charging more",
+      "answer": "What is deep psychological rebirth work?"
+    },
+    {
+      "points": 1000,
+      "clue": "Thing multilevel marketing companies prey on about fresh starts",
+      "answer": "What is people wanting to reinvent themselves?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why Instagram's algorithm loves fresh start content in January",
+      "answer": "What is maximum engagement and desperation spending?"
+    },
+    {
+      "points": 1000,
+      "clue": "The real reason people claim fresh start energy",
+      "answer": "What is extreme guilt about last year's failures?"
+    }
+  ]
+}

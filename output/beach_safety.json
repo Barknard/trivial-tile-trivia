@@ -1,0 +1,1319 @@
+{
+  "title": "Beach Safety Trivia",
+  "description": "Family-friendly questions about beach safety, water safety, and staying safe",
+  "totalQuestions": 180,
+  "levels": 6,
+  "questionsPerLevel": 30,
+  "categories": [
+    "Sun Protection",
+    "Water Safety",
+    "Beach Hazards",
+    "First Aid",
+    "Ocean Awareness",
+    "Safety Equipment"
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "Elementary",
+      "pointsPerQuestion": 100,
+      "questions": [
+        {
+          "id": 1,
+          "category": "Sun Protection",
+          "question": "What number SPF sunscreen is commonly recommended for beach protection?",
+          "answer": "30 or higher",
+          "difficulty": 1
+        },
+        {
+          "id": 2,
+          "category": "Water Safety",
+          "question": "What should you never do at the beach alone?",
+          "answer": "Swim by yourself",
+          "difficulty": 1
+        },
+        {
+          "id": 3,
+          "category": "Beach Hazards",
+          "question": "What time of day is the sun's UV rays strongest at the beach?",
+          "answer": "Midday (10 AM to 4 PM)",
+          "difficulty": 1
+        },
+        {
+          "id": 4,
+          "category": "Safety Equipment",
+          "question": "What device is used to tell swimmers when a lifeguard is on duty?",
+          "answer": "Lifeguard stand or tower",
+          "difficulty": 1
+        },
+        {
+          "id": 5,
+          "category": "Ocean Awareness",
+          "question": "What is the wet, shallow water moving back into the ocean called?",
+          "answer": "Backwash",
+          "difficulty": 1
+        },
+        {
+          "id": 6,
+          "category": "First Aid",
+          "question": "What should you do if you get a minor cut at the beach?",
+          "answer": "Wash it with fresh water and cover it",
+          "difficulty": 1
+        },
+        {
+          "id": 7,
+          "category": "Sun Protection",
+          "question": "How often should you reapply sunscreen when swimming?",
+          "answer": "Every 2 hours or after swimming",
+          "difficulty": 1
+        },
+        {
+          "id": 8,
+          "category": "Water Safety",
+          "question": "What should you wear to help you stay visible in the water?",
+          "answer": "Bright colored clothing or a swim vest",
+          "difficulty": 1
+        },
+        {
+          "id": 9,
+          "category": "Beach Hazards",
+          "question": "What should you wear on your feet at the beach to protect from sharp objects?",
+          "answer": "Shoes or sandals",
+          "difficulty": 1
+        },
+        {
+          "id": 10,
+          "category": "Safety Equipment",
+          "question": "What piece of equipment can help you float if you get tired in the water?",
+          "answer": "Floatie, raft, or life jacket",
+          "difficulty": 1
+        },
+        {
+          "id": 11,
+          "category": "Ocean Awareness",
+          "question": "What warning flag color means the water is closed to swimmers?",
+          "answer": "Red or double red",
+          "difficulty": 1
+        },
+        {
+          "id": 12,
+          "category": "First Aid",
+          "question": "What should you pour on a jellyfish sting to help with the pain?",
+          "answer": "Vinegar or fresh water",
+          "difficulty": 1
+        },
+        {
+          "id": 13,
+          "category": "Sun Protection",
+          "question": "What type of sunscreen doesn't wash off as easily in water?",
+          "answer": "Waterproof sunscreen",
+          "difficulty": 1
+        },
+        {
+          "id": 14,
+          "category": "Water Safety",
+          "question": "What should you do if you start to feel tired while swimming?",
+          "answer": "Head back to shore or grab a flotation device",
+          "difficulty": 1
+        },
+        {
+          "id": 15,
+          "category": "Beach Hazards",
+          "question": "What should you do if you step on something sharp in the ocean?",
+          "answer": "Exit the water and seek first aid",
+          "difficulty": 1
+        },
+        {
+          "id": 16,
+          "category": "Safety Equipment",
+          "question": "What is a basic swim skill everyone should learn before going to the beach?",
+          "answer": "Treading water",
+          "difficulty": 1
+        },
+        {
+          "id": 17,
+          "category": "Ocean Awareness",
+          "question": "What is the name of the dangerous current that pulls swimmers away from shore?",
+          "answer": "Rip current",
+          "difficulty": 1
+        },
+        {
+          "id": 18,
+          "category": "First Aid",
+          "question": "What should you do if someone is choking on beach sand?",
+          "answer": "Call for help and try to clear their airway",
+          "difficulty": 1
+        },
+        {
+          "id": 19,
+          "category": "Sun Protection",
+          "question": "What body parts are most commonly sunburned at the beach?",
+          "answer": "Shoulders, nose, and ears",
+          "difficulty": 1
+        },
+        {
+          "id": 20,
+          "category": "Water Safety",
+          "question": "How should you enter deep water for the first time at a beach?",
+          "answer": "Slowly, feet first, checking the depth",
+          "difficulty": 1
+        },
+        {
+          "id": 21,
+          "category": "Beach Hazards",
+          "question": "What type of protective clothing helps prevent sun damage and jellyfish stings?",
+          "answer": "Rash guard",
+          "difficulty": 1
+        },
+        {
+          "id": 22,
+          "category": "Safety Equipment",
+          "question": "What should be in a basic beach first aid kit?",
+          "answer": "Bandages, antiseptic, and pain reliever",
+          "difficulty": 1
+        },
+        {
+          "id": 23,
+          "category": "Ocean Awareness",
+          "question": "What does a yellow flag at the beach mean?",
+          "answer": "Moderate hazards or strong swimmers only",
+          "difficulty": 1
+        },
+        {
+          "id": 24,
+          "category": "First Aid",
+          "question": "What is the first step if someone has a bad cut at the beach?",
+          "answer": "Apply pressure with a clean cloth to stop bleeding",
+          "difficulty": 1
+        },
+        {
+          "id": 25,
+          "category": "Sun Protection",
+          "question": "What should you wear on your head at the beach to protect from sun?",
+          "answer": "Hat or cap",
+          "difficulty": 1
+        },
+        {
+          "id": 26,
+          "category": "Water Safety",
+          "question": "What should you always tell someone before going into the ocean?",
+          "answer": "Where you're going and when you'll be back",
+          "difficulty": 1
+        },
+        {
+          "id": 27,
+          "category": "Beach Hazards",
+          "question": "What creatures might you encounter that could sting you at the beach?",
+          "answer": "Jellyfish or sea urchins",
+          "difficulty": 1
+        },
+        {
+          "id": 28,
+          "category": "Safety Equipment",
+          "question": "What type of shoes are best for walking on rocky beaches?",
+          "answer": "Water shoes with thick soles",
+          "difficulty": 1
+        },
+        {
+          "id": 29,
+          "category": "Ocean Awareness",
+          "question": "What should you do if you see a green flag at the beach?",
+          "answer": "You can safely swim in normal conditions",
+          "difficulty": 1
+        },
+        {
+          "id": 30,
+          "category": "First Aid",
+          "question": "What's the best way to treat a minor sunburn?",
+          "answer": "Apply cool water and moisturizing lotion",
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "Middle School",
+      "pointsPerQuestion": 200,
+      "questions": [
+        {
+          "id": 31,
+          "category": "Sun Protection",
+          "question": "What does SPF stand for in sunscreen?",
+          "answer": "Sun Protection Factor",
+          "difficulty": 2
+        },
+        {
+          "id": 32,
+          "category": "Water Safety",
+          "question": "What swimming technique should you use if you get caught in a rip current?",
+          "answer": "Swim parallel to the shore",
+          "difficulty": 2
+        },
+        {
+          "id": 33,
+          "category": "Beach Hazards",
+          "question": "What condition occurs when the body temperature drops dangerously in cold water?",
+          "answer": "Hypothermia",
+          "difficulty": 2
+        },
+        {
+          "id": 34,
+          "category": "Safety Equipment",
+          "question": "What certification do lifeguards typically have?",
+          "answer": "Lifeguard certification or CPR/First Aid",
+          "difficulty": 2
+        },
+        {
+          "id": 35,
+          "category": "Ocean Awareness",
+          "question": "What creates rip currents at beaches?",
+          "answer": "Water piling up from waves that needs to escape back to the ocean",
+          "difficulty": 2
+        },
+        {
+          "id": 36,
+          "category": "First Aid",
+          "question": "What technique should you use to help a drowning person stay afloat?",
+          "answer": "Extend a pole or flotation device rather than swimming directly to them",
+          "difficulty": 2
+        },
+        {
+          "id": 37,
+          "category": "Sun Protection",
+          "question": "What mineral component in sunscreen physically blocks UV rays?",
+          "answer": "Zinc oxide or titanium dioxide",
+          "difficulty": 2
+        },
+        {
+          "id": 38,
+          "category": "Water Safety",
+          "question": "What is the 'buddy system' and why is it important at the beach?",
+          "answer": "Swimming with a partner so they can help if you get in trouble",
+          "difficulty": 2
+        },
+        {
+          "id": 39,
+          "category": "Beach Hazards",
+          "question": "What type of undertow or current should swimmers avoid?",
+          "answer": "Strong currents and rip currents",
+          "difficulty": 2
+        },
+        {
+          "id": 40,
+          "category": "Safety Equipment",
+          "question": "What color clothing is most visible to lifeguards and other swimmers?",
+          "answer": "Bright colors like neon or orange",
+          "difficulty": 2
+        },
+        {
+          "id": 41,
+          "category": "Ocean Awareness",
+          "question": "What is the safest direction to swim if caught in a rip current?",
+          "answer": "Parallel to shore (left or right)",
+          "difficulty": 2
+        },
+        {
+          "id": 42,
+          "category": "First Aid",
+          "question": "What is the recovery position for an unconscious person at the beach?",
+          "answer": "On their side with head tilted back so fluids can drain",
+          "difficulty": 2
+        },
+        {
+          "id": 43,
+          "category": "Sun Protection",
+          "question": "How much sunscreen should you apply to your entire body?",
+          "answer": "About one ounce or enough to fill a shot glass",
+          "difficulty": 2
+        },
+        {
+          "id": 44,
+          "category": "Water Safety",
+          "question": "What should you check before swimming in unfamiliar ocean water?",
+          "answer": "Beach conditions, flag warnings, and water temperature",
+          "difficulty": 2
+        },
+        {
+          "id": 45,
+          "category": "Beach Hazards",
+          "question": "What is heat exhaustion and how do you recognize it?",
+          "answer": "Dizziness, weakness, or heavy sweating from overheating",
+          "difficulty": 2
+        },
+        {
+          "id": 46,
+          "category": "Safety Equipment",
+          "question": "What is a personal flotation device (PFD)?",
+          "answer": "A life jacket, swim vest, or other device that helps keep you afloat",
+          "difficulty": 2
+        },
+        {
+          "id": 47,
+          "category": "Ocean Awareness",
+          "question": "What marine animals are generally dangerous at beaches?",
+          "answer": "Sharks, strong stingrays, and jellyfish",
+          "difficulty": 2
+        },
+        {
+          "id": 48,
+          "category": "First Aid",
+          "question": "What should you do if someone gets sand in their eyes at the beach?",
+          "answer": "Rinse with fresh water and avoid rubbing",
+          "difficulty": 2
+        },
+        {
+          "id": 49,
+          "category": "Sun Protection",
+          "question": "What are UV rays and why are they dangerous?",
+          "answer": "Ultraviolet rays that can cause skin cancer and sunburns",
+          "difficulty": 2
+        },
+        {
+          "id": 50,
+          "category": "Water Safety",
+          "question": "What is the safest approach if you can't swim well?",
+          "answer": "Stay in shallow water and wear a life jacket",
+          "difficulty": 2
+        },
+        {
+          "id": 51,
+          "category": "Beach Hazards",
+          "question": "What warning sign indicates dangerous wave or tide conditions?",
+          "answer": "Red flag or double red flag at the lifeguard station",
+          "difficulty": 2
+        },
+        {
+          "id": 52,
+          "category": "Safety Equipment",
+          "question": "What items should you bring to the beach for sun and water safety?",
+          "answer": "Sunscreen, hat, towel, water, first aid kit, and whistle",
+          "difficulty": 2
+        },
+        {
+          "id": 53,
+          "category": "Ocean Awareness",
+          "question": "What are tide pools and what should you know about them?",
+          "answer": "Shallow pools that can trap you or have sharp rocks",
+          "difficulty": 2
+        },
+        {
+          "id": 54,
+          "category": "First Aid",
+          "question": "What is the proper way to remove a sea urchin spine from your foot?",
+          "answer": "Soak in vinegar and carefully remove spines, or seek medical help",
+          "difficulty": 2
+        },
+        {
+          "id": 55,
+          "category": "Sun Protection",
+          "question": "What type of sunscreen is best for sensitive skin?",
+          "answer": "Mineral or physical sunscreen with zinc oxide",
+          "difficulty": 2
+        },
+        {
+          "id": 56,
+          "category": "Water Safety",
+          "question": "What should you avoid drinking at the beach?",
+          "answer": "Salt water or untreated ocean water",
+          "difficulty": 2
+        },
+        {
+          "id": 57,
+          "category": "Beach Hazards",
+          "question": "What are ocean swells and how do they affect swimmers?",
+          "answer": "Large waves that can knock swimmers over and pull them under",
+          "difficulty": 2
+        },
+        {
+          "id": 58,
+          "category": "Safety Equipment",
+          "question": "What does a rescue buoy or tube help with at the beach?",
+          "answer": "Helping tired swimmers or those in distress stay afloat",
+          "difficulty": 2
+        },
+        {
+          "id": 59,
+          "category": "Ocean Awareness",
+          "question": "What should you know about swimming during dawn or dusk?",
+          "answer": "It's more dangerous due to poor visibility for lifeguards",
+          "difficulty": 2
+        },
+        {
+          "id": 60,
+          "category": "First Aid",
+          "question": "What is the first thing to do if someone gets stung by a jellyfish?",
+          "answer": "Exit the water and rinse with vinegar if available",
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "High School",
+      "pointsPerQuestion": 300,
+      "questions": [
+        {
+          "id": 61,
+          "category": "Sun Protection",
+          "question": "What is the difference between UVA and UVB rays?",
+          "answer": "UVA penetrates deeper causing aging; UVB causes sunburns",
+          "difficulty": 3
+        },
+        {
+          "id": 62,
+          "category": "Water Safety",
+          "question": "What physiological response occurs when your body is suddenly immersed in cold water?",
+          "answer": "Cold water shock reflex causing involuntary gasping",
+          "difficulty": 3
+        },
+        {
+          "id": 63,
+          "category": "Beach Hazards",
+          "question": "What is longshore current and how does it affect swimmers?",
+          "answer": "Current parallel to shore that can sweep swimmers down the beach",
+          "difficulty": 3
+        },
+        {
+          "id": 64,
+          "category": "Safety Equipment",
+          "question": "What are the differences between Class I, II, and III life jackets?",
+          "answer": "Class I highest flotation (offshore); Class II moderate (nearshore); Class III (water sports)",
+          "difficulty": 3
+        },
+        {
+          "id": 65,
+          "category": "Ocean Awareness",
+          "question": "What is beach riptide and how do you distinguish it from regular water movement?",
+          "answer": "Distinct current visible as discolored water moving seaward",
+          "difficulty": 3
+        },
+        {
+          "id": 66,
+          "category": "First Aid",
+          "question": "What is the proper CPR procedure for a potential drowning victim on the beach?",
+          "answer": "Check responsiveness, call for help, perform 30 chest compressions then 2 rescue breaths",
+          "difficulty": 3
+        },
+        {
+          "id": 67,
+          "category": "Sun Protection",
+          "question": "What is the Vitamin D production window and how does it relate to beach safety?",
+          "answer": "10-30 minutes midday sun without protection; longer times require sunscreen",
+          "difficulty": 3
+        },
+        {
+          "id": 68,
+          "category": "Water Safety",
+          "question": "What is swimmer's ear and how is it prevented at the beach?",
+          "answer": "Ear infection from water; prevent by drying ears thoroughly after swimming",
+          "difficulty": 3
+        },
+        {
+          "id": 69,
+          "category": "Beach Hazards",
+          "question": "What is a shorebreak and why is it dangerous?",
+          "answer": "Waves breaking very close to shore with tremendous force",
+          "difficulty": 3
+        },
+        {
+          "id": 70,
+          "category": "Safety Equipment",
+          "question": "What are the specifications for a USCG-approved life jacket?",
+          "answer": "Minimum 15.5 lbs buoyancy for adults, proper fit, and current certification",
+          "difficulty": 3
+        },
+        {
+          "id": 71,
+          "category": "Ocean Awareness",
+          "question": "What is the undertow and how does it differ from a rip current?",
+          "answer": "Undertow is backwash return flow; rip current is narrow seaward jet",
+          "difficulty": 3
+        },
+        {
+          "id": 72,
+          "category": "First Aid",
+          "question": "What is secondary drowning and what are the symptoms?",
+          "answer": "Delayed water aspiration; symptoms include coughing, lethargy, or difficulty breathing",
+          "difficulty": 3
+        },
+        {
+          "id": 73,
+          "category": "Sun Protection",
+          "question": "How does altitude affect UV exposure at a beach?",
+          "answer": "Higher altitudes have stronger UV rays due to less atmosphere filtering",
+          "difficulty": 3
+        },
+        {
+          "id": 74,
+          "category": "Water Safety",
+          "question": "What is hyponatremia and how can it occur during extended beach activities?",
+          "answer": "Low sodium; occurs from drinking fresh water without electrolytes after sweating",
+          "difficulty": 3
+        },
+        {
+          "id": 75,
+          "category": "Beach Hazards",
+          "question": "What are sneaker waves and where are they most dangerous?",
+          "answer": "Unexpectedly large waves; most dangerous on beaches with limited warning signs",
+          "difficulty": 3
+        },
+        {
+          "id": 76,
+          "category": "Safety Equipment",
+          "question": "What training is required to properly use rescue equipment like a rescue tube?",
+          "answer": "Basic water safety and rescue training from certified instructors",
+          "difficulty": 3
+        },
+        {
+          "id": 77,
+          "category": "Ocean Awareness",
+          "question": "What is beach erosion and how can it create hazards?",
+          "answer": "Sand loss that creates steep dropoffs and unstable conditions",
+          "difficulty": 3
+        },
+        {
+          "id": 78,
+          "category": "First Aid",
+          "question": "What is the proper treatment for heat stroke versus heat exhaustion?",
+          "answer": "Heat stroke: cool body rapidly and call 911; heat exhaustion: cool and hydrate",
+          "difficulty": 3
+        },
+        {
+          "id": 79,
+          "category": "Sun Protection",
+          "question": "What are broad-spectrum sunscreens and why are they important?",
+          "answer": "They block both UVA and UVB rays for complete protection",
+          "difficulty": 3
+        },
+        {
+          "id": 80,
+          "category": "Water Safety",
+          "question": "What is water intoxication and why does it happen to swimmers?",
+          "answer": "Excessive fresh water intake causing electrolyte imbalance and seizures",
+          "difficulty": 3
+        },
+        {
+          "id": 81,
+          "category": "Beach Hazards",
+          "question": "What are harmful algal blooms and what dangers do they pose?",
+          "answer": "Toxic algae that can cause respiratory and skin irritation",
+          "difficulty": 3
+        },
+        {
+          "id": 82,
+          "category": "Safety Equipment",
+          "question": "What is a personal locator beacon and when would you use one at the beach?",
+          "answer": "Emergency device; used when far from shore or in extreme conditions",
+          "difficulty": 3
+        },
+        {
+          "id": 83,
+          "category": "Ocean Awareness",
+          "question": "What are the predictable patterns of tide and how do they affect beach safety?",
+          "answer": "Semi-diurnal or diurnal patterns; affect water depth and current strength",
+          "difficulty": 3
+        },
+        {
+          "id": 84,
+          "category": "First Aid",
+          "question": "How should you treat a stingray barb wound at the beach?",
+          "answer": "Soak in hot water (as hot as tolerable) and seek immediate medical care",
+          "difficulty": 3
+        },
+        {
+          "id": 85,
+          "category": "Sun Protection",
+          "question": "What is photosensitivity and which medications increase sun damage risk?",
+          "answer": "Increased sun sensitivity; caused by certain antibiotics, NSAIDs, and birth control",
+          "difficulty": 3
+        },
+        {
+          "id": 86,
+          "category": "Water Safety",
+          "question": "What is aquatic entrapment and what creates it at beaches?",
+          "answer": "Being trapped by currents, rocks, or undertow; caused by underwater formations",
+          "difficulty": 3
+        },
+        {
+          "id": 87,
+          "category": "Beach Hazards",
+          "question": "What are coral cuts and how are they different from other beach injuries?",
+          "answer": "Cuts from coral with risk of infection and slower healing",
+          "difficulty": 3
+        },
+        {
+          "id": 88,
+          "category": "Safety Equipment",
+          "question": "What is a safety whistle and what is the proper distress signal?",
+          "answer": "3 short blasts in continuous pattern",
+          "difficulty": 3
+        },
+        {
+          "id": 89,
+          "category": "Ocean Awareness",
+          "question": "What are wind-generated vs. swell waves and how do they affect water conditions?",
+          "answer": "Wind waves are choppy and near origin; swell is organized and travels far",
+          "difficulty": 3
+        },
+        {
+          "id": 90,
+          "category": "First Aid",
+          "question": "What is the treatment protocol for a severe laceration at the beach?",
+          "answer": "Apply direct pressure, call 911, elevate if possible, don't remove embedded objects",
+          "difficulty": 3
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "difficulty": "Advanced",
+      "pointsPerQuestion": 400,
+      "questions": [
+        {
+          "id": 91,
+          "category": "Sun Protection",
+          "question": "What is the mechanism behind photochemical sunburn protection versus photoaging prevention?",
+          "answer": "Chemical absorbers prevent photochemical damage; physical blockers prevent collagen breakdown",
+          "difficulty": 4
+        },
+        {
+          "id": 92,
+          "category": "Water Safety",
+          "question": "What is the dry drowning mechanism and what are the biological markers?",
+          "answer": "Laryngeal spasm preventing water aspiration; excess fluid in lungs post-incident",
+          "difficulty": 4
+        },
+        {
+          "id": 93,
+          "category": "Beach Hazards",
+          "question": "What creates the physics of rip current formation and the three-cell circulation pattern?",
+          "answer": "Feeder currents bring water shoreward; neck current flows seaward; head widens offshore",
+          "difficulty": 4
+        },
+        {
+          "id": 94,
+          "category": "Safety Equipment",
+          "question": "What are the differences between inherent and inflatable PFD buoyancy systems?",
+          "answer": "Inherent uses foam (always ready); inflatable uses gas (compact but requires check)",
+          "difficulty": 4
+        },
+        {
+          "id": 95,
+          "category": "Ocean Awareness",
+          "question": "What is the relationship between bathymetry and nearshore current generation?",
+          "answer": "Shallow bathymetry creates steeper pressure gradients driving stronger currents",
+          "difficulty": 4
+        },
+        {
+          "id": 96,
+          "category": "First Aid",
+          "question": "What is the pathophysiology of cold water immersion and optimal rewarming protocols?",
+          "answer": "Core temperature drops causing arrhythmia; passive external rewarming prevents afterdrop",
+          "difficulty": 4
+        },
+        {
+          "id": 97,
+          "category": "Sun Protection",
+          "question": "How do antioxidant compounds in sunscreen formulations enhance UV protection?",
+          "answer": "They neutralize free radicals generated by UV exposure before cellular damage occurs",
+          "difficulty": 4
+        },
+        {
+          "id": 98,
+          "category": "Water Safety",
+          "question": "What is the osmoregulatory challenge in marine versus freshwater immersion?",
+          "answer": "Salt water causes dehydration; fresh water causes hyponatremia and cellular edema",
+          "difficulty": 4
+        },
+        {
+          "id": 99,
+          "category": "Beach Hazards",
+          "question": "How does Coriolis effect influence beach current patterns at different latitudes?",
+          "answer": "Stronger effect at higher latitudes, curves currents; minimal at equator",
+          "difficulty": 4
+        },
+        {
+          "id": 100,
+          "category": "Safety Equipment",
+          "question": "What are the ISO standards for recreational water safety equipment certification?",
+          "answer": "ISO 12402 for PFDs; ISO 11339 for buoyancy aids; third-party testing required",
+          "difficulty": 4
+        },
+        {
+          "id": 101,
+          "category": "Ocean Awareness",
+          "question": "What is the relationship between wave period and group velocity in predicting beach hazards?",
+          "answer": "Longer period waves have higher velocity; predict larger breaker sizes and energy",
+          "difficulty": 4
+        },
+        {
+          "id": 102,
+          "category": "First Aid",
+          "question": "What are the Parkland and modified Brooke formulas for treating severe burns at the beach?",
+          "answer": "Calculate fluid needs based on body surface area; Parkland uses crystalloid solutions",
+          "difficulty": 4
+        },
+        {
+          "id": 103,
+          "category": "Sun Protection",
+          "question": "How does the reflection index of sand and water affect UV exposure calculations?",
+          "answer": "Sand reflects 15-25%; water reflects 10%; increases cumulative UV dose significantly",
+          "difficulty": 4
+        },
+        {
+          "id": 104,
+          "category": "Water Safety",
+          "question": "What is the mammalian dive response and how does it manifest in beach swimmers?",
+          "answer": "Bradycardia and peripheral vasoconstriction triggered by cold water contact",
+          "difficulty": 4
+        },
+        {
+          "id": 105,
+          "category": "Beach Hazards",
+          "question": "What mathematical models predict rip current velocity and escape strategies?",
+          "answer": "Shallow-water equations; typically 1-2 ft/s; parallel escape requires swim velocity >0.5 ft/s",
+          "difficulty": 4
+        },
+        {
+          "id": 106,
+          "category": "Safety Equipment",
+          "question": "What are the hydrostatic release mechanisms in emergency inflatable systems?",
+          "answer": "Automatically inflate when submerged due to water pressure overcoming calibrated triggers",
+          "difficulty": 4
+        },
+        {
+          "id": 107,
+          "category": "Ocean Awareness",
+          "question": "How do thermocline layers affect water temperature distribution and hazard zones?",
+          "answer": "Sharp temperature transitions create shock to nervous system and trigger cold responses",
+          "difficulty": 4
+        },
+        {
+          "id": 108,
+          "category": "First Aid",
+          "question": "What is the proper protocol for treating decompression sickness in beach divers?",
+          "answer": "Administer oxygen, treat as medical emergency, arrange hyperbaric chamber access",
+          "difficulty": 4
+        },
+        {
+          "id": 109,
+          "category": "Sun Protection",
+          "question": "What is the action spectrum of UV and how does it relate to erythemal curves?",
+          "answer": "Most damaging at 297nm (UVB); erythemal curves measure relative effectiveness",
+          "difficulty": 4
+        },
+        {
+          "id": 110,
+          "category": "Water Safety",
+          "question": "What is the cardiovascular response to prolonged beach exercise and dehydration?",
+          "answer": "Reduced plasma volume increases heart rate; heat dissipation capacity decreases",
+          "difficulty": 4
+        },
+        {
+          "id": 111,
+          "category": "Beach Hazards",
+          "question": "What is the St. Venant equations application to modeling beach water flow patterns?",
+          "answer": "Describes momentum and continuity of shallow water; predicts flow with bathymetry input",
+          "difficulty": 4
+        },
+        {
+          "id": 112,
+          "category": "Safety Equipment",
+          "question": "What are the certification requirements for rescue swimmers under NFPA 1006?",
+          "answer": "Operations level or equivalent requires 40+ hours aquatic rescue training",
+          "difficulty": 4
+        },
+        {
+          "id": 113,
+          "category": "Ocean Awareness",
+          "question": "How do nearshore bars and troughs affect wave breaking and current generation?",
+          "answer": "Bars focus wave energy; troughs dissipate it; creates complex circulation patterns",
+          "difficulty": 4
+        },
+        {
+          "id": 114,
+          "category": "First Aid",
+          "question": "What is the oxygen delivery optimization in rescue breathing for beach emergencies?",
+          "answer": "100% oxygen preferred; room air adequate if unavailable; rescue breaths every 5 seconds",
+          "difficulty": 4
+        },
+        {
+          "id": 115,
+          "category": "Sun Protection",
+          "question": "How do sunscreen particle size and formulation chemistry affect efficacy and safety?",
+          "answer": "Smaller particles better UV coverage; nanoparticles may penetrate skin (safety monitoring ongoing)",
+          "difficulty": 4
+        },
+        {
+          "id": 116,
+          "category": "Water Safety",
+          "question": "What is the immersion diuresis phenomenon and its implications for beach hydration?",
+          "answer": "Increased urine output in water due to pressure; increases dehydration risk despite water",
+          "difficulty": 4
+        },
+        {
+          "id": 117,
+          "category": "Beach Hazards",
+          "question": "What is the mechanism of hydration-induced pulmonary edema in water sports?",
+          "answer": "Immersion pressure increases intrapulmonary vascular pressures forcing fluid into alveoli",
+          "difficulty": 4
+        },
+        {
+          "id": 118,
+          "category": "Safety Equipment",
+          "question": "What are the proper maintenance intervals for rescue equipment exposure to saltwater?",
+          "answer": "Rinse immediately after use; inspect weekly; replace buoyancy materials annually",
+          "difficulty": 4
+        },
+        {
+          "id": 119,
+          "category": "Ocean Awareness",
+          "question": "How do lunar cycles affect tidal amplitude and beach water level variations?",
+          "answer": "Spring tides during full/new moon; neap tides during quarters; affects rip current strength",
+          "difficulty": 4
+        },
+        {
+          "id": 120,
+          "category": "First Aid",
+          "question": "What is the decision tree for assessing neurological status in potential drowning cases?",
+          "answer": "Glasgow Coma Scale assessment; check pupil response and motor function; arrange imaging",
+          "difficulty": 4
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "difficulty": "Expert",
+      "pointsPerQuestion": 500,
+      "questions": [
+        {
+          "id": 121,
+          "category": "Sun Protection",
+          "question": "What is the biological basis of melanin photoprotection and its limitations against DNA damage?",
+          "answer": "Melanin absorbs UVA/UVB but generates reactive oxygen species; limited against mutagenic photons",
+          "difficulty": 5
+        },
+        {
+          "id": 122,
+          "category": "Water Safety",
+          "question": "What are the molecular mechanisms of laryngeal spasm in cold water and aspiration prevention?",
+          "answer": "Trigeminal nerve activation causes reflex glottic closure; prevents water entry but risks asphyxia",
+          "difficulty": 5
+        },
+        {
+          "id": 123,
+          "category": "Beach Hazards",
+          "question": "How do Ekman spiral and geostrophic balance equations describe beach current dynamics?",
+          "answer": "Ekman spiral shows velocity rotation with depth; geostrophic balance balances Coriolis with pressure",
+          "difficulty": 5
+        },
+        {
+          "id": 124,
+          "category": "Safety Equipment",
+          "question": "What are the biomechanical principles of personal flotation device design for maximal passive stability?",
+          "answer": "Buoyancy center above center of gravity; neck support prevents face-down flotation",
+          "difficulty": 5
+        },
+        {
+          "id": 125,
+          "category": "Ocean Awareness",
+          "question": "What is the Rossby number relationship to nearshore flow regime classification?",
+          "answer": "Ro = U/(fL); high Ro indicates geostrophy failure; determines validity of current models",
+          "difficulty": 5
+        },
+        {
+          "id": 126,
+          "category": "First Aid",
+          "question": "What is the ECMO protocol for severe hypothermia cases and extracorporeal rewarming indications?",
+          "answer": "Core temp <30C with cardiac instability; ECMO provides rewarming and circulatory support",
+          "difficulty": 5
+        },
+        {
+          "id": 127,
+          "category": "Sun Protection",
+          "question": "What are the kinetics of photon-induced thymine dimer formation and nucleotide excision repair?",
+          "answer": "UV causes covalent 6-4 and CPD lesions; NER removes 25-30 nucleotides and replaces",
+          "difficulty": 5
+        },
+        {
+          "id": 128,
+          "category": "Water Safety",
+          "question": "What is the pathophysiology of immersion pulmonary edema versus traditional drowning mechanisms?",
+          "answer": "IPE from hydrostatic pressure without aspiration; different fluid dynamics in alveoli",
+          "difficulty": 5
+        },
+        {
+          "id": 129,
+          "category": "Beach Hazards",
+          "question": "How do nonlinear shallow-water equations model wave breaking and energy dissipation?",
+          "answer": "Boussinesq equations with friction terms; describe transformation from deep to shallow water",
+          "difficulty": 5
+        },
+        {
+          "id": 130,
+          "category": "Safety Equipment",
+          "question": "What are the failure mode analysis results for inflatable rescue device pressure systems?",
+          "answer": "Gas leakage most common; requires redundant seals and regular pressure checks",
+          "difficulty": 5
+        },
+        {
+          "id": 131,
+          "category": "Ocean Awareness",
+          "question": "What is the analytical solution for rip current velocity using linear wave theory?",
+          "answer": "V_rip proportional to wave amplitude and inversely to water depth; typically 0.3-2.0 m/s",
+          "difficulty": 5
+        },
+        {
+          "id": 132,
+          "category": "First Aid",
+          "question": "What is the modified Lund and Browder chart application for treating multiple beach burn victims?",
+          "answer": "Triage tool for %TBSA; determines treatment priority and fluid resuscitation rates",
+          "difficulty": 5
+        },
+        {
+          "id": 133,
+          "category": "Sun Protection",
+          "question": "What are the differential absorption characteristics of oxybenzone versus avobenzone in sunscreens?",
+          "answer": "Oxybenzone broader spectrum but potential endocrine disruption; avobenzone more UVA-specific",
+          "difficulty": 5
+        },
+        {
+          "id": 134,
+          "category": "Water Safety",
+          "question": "What is the mathematical model for estimating oxygen consumption during emergency water exertion?",
+          "answer": "VO2 = resting + activity component; increases exponentially with swim effort",
+          "difficulty": 5
+        },
+        {
+          "id": 135,
+          "category": "Beach Hazards",
+          "question": "How do caustic-dispersion models predict contaminant transport in nearshore waters?",
+          "answer": "Advection-diffusion equations with bathymetric forcing; used for pollution and algae spread",
+          "difficulty": 5
+        },
+        {
+          "id": 136,
+          "category": "Safety Equipment",
+          "question": "What are the human factors engineering principles for designing intuitive rescue equipment interfaces?",
+          "answer": "Error-proofing, standardized colors, minimal cognitive load, testability under stress",
+          "difficulty": 5
+        },
+        {
+          "id": 137,
+          "category": "Ocean Awareness",
+          "question": "What is the numerical weather prediction integration with beach hazard forecasting models?",
+          "answer": "Wind stress input to wave models; pressure gradients drive storm surge and rip currents",
+          "difficulty": 5
+        },
+        {
+          "id": 138,
+          "category": "First Aid",
+          "question": "What are the ultrasound imaging protocols for diagnosing pneumothorax in near-drowning cases?",
+          "answer": "Point-of-care ultrasound shows absent lung sliding; guides chest decompression decisions",
+          "difficulty": 5
+        },
+        {
+          "id": 139,
+          "category": "Sun Protection",
+          "question": "What is the spectroscopic analysis of UV absorption across the electromagnetic spectrum?",
+          "answer": "UVA (315-400nm) and UVB (280-315nm); measurement via spectrophotometry at 290-400nm",
+          "difficulty": 5
+        },
+        {
+          "id": 140,
+          "category": "Water Safety",
+          "question": "What is the hemodynamic cascade in sudden immersion cold shock leading to cardiac events?",
+          "answer": "Vagal stimulation → bradycardia; sympathetic rebound → hypertension; arrhythmia risk high",
+          "difficulty": 5
+        },
+        {
+          "id": 141,
+          "category": "Beach Hazards",
+          "question": "How do coupled atmosphere-ocean models simulate beach erosion and storm surge interactions?",
+          "answer": "Wave-surge coupling; pressure-induced setup; wind-driven circulation; bathymetric refraction",
+          "difficulty": 5
+        },
+        {
+          "id": 142,
+          "category": "Safety Equipment",
+          "question": "What are the reliability engineering metrics for maritime rescue buoys under dynamic testing?",
+          "answer": "Mean time between failures >5000 hours; stress-strain curves; salt-spray corrosion testing",
+          "difficulty": 5
+        },
+        {
+          "id": 143,
+          "category": "Ocean Awareness",
+          "question": "What is the three-dimensional curvilinear coordinate system modeling for nearshore circulation?",
+          "answer": "Sigma coordinates follow bathymetry; allows accurate representation of bottom boundary layers",
+          "difficulty": 5
+        },
+        {
+          "id": 144,
+          "category": "First Aid",
+          "question": "What are the biomarkers indicative of successful resuscitation in near-drowning victims?",
+          "answer": "Return of spontaneous circulation; improving lactate levels; EEG activity recovery",
+          "difficulty": 5
+        },
+        {
+          "id": 145,
+          "category": "Sun Protection",
+          "question": "What is the quantum yield of photon-induced free radical generation in different sunscreen formulations?",
+          "answer": "Varies with chemical structure; zinc oxide lower yield than organic absorbers",
+          "difficulty": 5
+        },
+        {
+          "id": 146,
+          "category": "Water Safety",
+          "question": "What are the metabolic consequences of prolonged water immersion on glucose homeostasis?",
+          "answer": "Shivering thermogenesis depletes glycogen; hyperglycemia followed by hypoglycemia risk",
+          "difficulty": 5
+        },
+        {
+          "id": 147,
+          "category": "Beach Hazards",
+          "question": "How do fractal Hurst exponent analyses characterize beach topography roughness and hazards?",
+          "answer": "H>0.5 indicates positive autocorrelation; predicts rip channel stability and erosion",
+          "difficulty": 5
+        },
+        {
+          "id": 148,
+          "category": "Safety Equipment",
+          "question": "What are the finite element analysis results for stress concentration in rescue tube attachment points?",
+          "answer": "Peak stresses at attachment; proper geometry reduces concentration factors to <2.0",
+          "difficulty": 5
+        },
+        {
+          "id": 149,
+          "category": "Ocean Awareness",
+          "question": "What is the adjoint model application to inverse problems in beach current prediction?",
+          "answer": "Determines sensitivity of output to input parameters; optimizes observation locations",
+          "difficulty": 5
+        },
+        {
+          "id": 150,
+          "category": "First Aid",
+          "question": "What is the neurocritical care protocol for assessing neurological prognosis in cold water near-drowning?",
+          "answer": "Imaging studies, biomarkers (S100B, neuron-specific enolase); prolonged observation periods",
+          "difficulty": 5
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "difficulty": "Master",
+      "pointsPerQuestion": 600,
+      "questions": [
+        {
+          "id": 151,
+          "category": "Sun Protection",
+          "question": "What is the integrated kinetic model combining singlet oxygen quenching with DNA repair efficiency in beach photoprotection strategies?",
+          "answer": "Models antioxidant capacity versus photon flux; determines optimal sunscreen reapplication intervals",
+          "difficulty": 6
+        },
+        {
+          "id": 152,
+          "category": "Water Safety",
+          "question": "What are the autonomic nervous system phase transitions during progressive cold water immersion and optimal intervention windows?",
+          "answer": "Cold shock (0-3 min), cold habituation, cold exhaustion phases; intervention critical before exhaustion",
+          "difficulty": 6
+        },
+        {
+          "id": 153,
+          "category": "Beach Hazards",
+          "question": "How do spectral energy transfer mechanisms in wave-turbulence interactions drive rip current intensification?",
+          "answer": "Forward cascade to dissipation; inverse cascade energy concentration; creates rip channel focusing",
+          "difficulty": 6
+        },
+        {
+          "id": 154,
+          "category": "Safety Equipment",
+          "question": "What are the probabilistic failure mode and effects analysis outcomes for multi-component rescue systems under extreme conditions?",
+          "answer": "Criticality analysis prioritizes components; fault trees identify common-mode failures",
+          "difficulty": 6
+        },
+        {
+          "id": 155,
+          "category": "Ocean Awareness",
+          "question": "What is the stochastic modeling of rip current occurrence using Markov chain transitions and environmental forcing?",
+          "answer": "Transition probabilities between rip/no-rip states based on wind, wave, tide; predicts emergence probability",
+          "difficulty": 6
+        },
+        {
+          "id": 156,
+          "category": "First Aid",
+          "question": "What are the multivariate predictive models for post-resuscitation myocardial dysfunction in near-drowning using echocardiography?",
+          "answer": "Speckle tracking strain, tissue Doppler; predicts recovery and mortality in first 48 hours",
+          "difficulty": 6
+        },
+        {
+          "id": 157,
+          "category": "Sun Protection",
+          "question": "What is the pharmacokinetic model for UV filter bioaccumulation and systemic absorption through beach-exposed skin?",
+          "answer": "First-order absorption kinetics; determines whether systemic levels exceed safety thresholds",
+          "difficulty": 6
+        },
+        {
+          "id": 158,
+          "category": "Water Safety",
+          "question": "What are the integrated cardiopulmonary physiological models predicting survival outcomes in deep hypothermia immersion?",
+          "answer": "Combines metabolic suppression, oxygen debt, and rewamping shock; predicts viable resuscitation duration",
+          "difficulty": 6
+        },
+        {
+          "id": 159,
+          "category": "Beach Hazards",
+          "question": "How do coupled wave-circulation-sediment models predict transient rip channel dynamics and seasonal evolution?",
+          "answer": "Morphodynamic feedback loops; predicts channel migration, erosion rates, and stability timescales",
+          "difficulty": 6
+        },
+        {
+          "id": 160,
+          "category": "Safety Equipment",
+          "question": "What are the design optimization methods using genetic algorithms for rescue equipment geometry and material selection?",
+          "answer": "Multi-objective optimization for buoyancy, drag, visibility; Pareto frontier analysis",
+          "difficulty": 6
+        },
+        {
+          "id": 161,
+          "category": "Ocean Awareness",
+          "question": "What is the ensemble Kalman filter application to assimilating real-time beach observations into circulation models?",
+          "answer": "Updates model state estimates; reduces uncertainty in current velocity and rip channel predictions",
+          "difficulty": 6
+        },
+        {
+          "id": 162,
+          "category": "First Aid",
+          "question": "What are the machine learning classification models predicting favorable neurological outcomes in pediatric near-drowning cases?",
+          "answer": "Random forests using multimodal data; identifies high-risk profiles for aggressive intervention",
+          "difficulty": 6
+        },
+        {
+          "id": 163,
+          "category": "Sun Protection",
+          "question": "What is the computational fluid dynamics analysis of sunscreen particle deposition and coverage patterns on skin?",
+          "answer": "Modeling evaporation, spreading, and particle size distribution; optimizes application techniques",
+          "difficulty": 6
+        },
+        {
+          "id": 164,
+          "category": "Water Safety",
+          "question": "What are the molecular dynamics simulations of surfactant-mediated aspiration of seawater into the lungs?",
+          "answer": "Models protein denaturation and surface tension changes; explains pulmonary edema progression",
+          "difficulty": 6
+        },
+        {
+          "id": 165,
+          "category": "Beach Hazards",
+          "question": "How do data assimilation and adjoint methods optimize beach monitoring networks for rip current prediction?",
+          "answer": "Sensitivity studies identify optimal sensor locations; minimizes observation error variance",
+          "difficulty": 6
+        },
+        {
+          "id": 166,
+          "category": "Safety Equipment",
+          "question": "What are the reliability and maintainability analysis protocols for maritime rescue systems in saline environments?",
+          "answer": "Bathtub curve analysis; preventive maintenance intervals; material selection against galvanic corrosion",
+          "difficulty": 6
+        },
+        {
+          "id": 167,
+          "category": "Ocean Awareness",
+          "question": "What is the linear stability analysis of nearshore bathymetric perturbations predicting rip channel formation?",
+          "answer": "Eigenvalue analysis determines growth rates; identifies preferred wavelengths for channel spacing",
+          "difficulty": 6
+        },
+        {
+          "id": 168,
+          "category": "First Aid",
+          "question": "What are the Bayesian network models integrating clinical features for rapid decision-making in mass beach casualty incidents?",
+          "answer": "Probabilistic inference for triage category; incorporates conditional dependencies between symptoms",
+          "difficulty": 6
+        },
+        {
+          "id": 169,
+          "category": "Sun Protection",
+          "question": "What is the transcriptomic analysis of beach UV exposure revealing novel photoprotection pathways and genetic susceptibilities?",
+          "answer": "RNA-seq identifies differentially expressed genes; reveals skin's adaptive and maladaptive responses",
+          "difficulty": 6
+        },
+        {
+          "id": 170,
+          "category": "Water Safety",
+          "question": "What are the viscoelastic fluid models describing non-Newtonian behavior of aspiration fluid in near-drowning pathophysiology?",
+          "answer": "Power-law and Herschel-Bulkley models; predicts resistance to clearance and ventilation",
+          "difficulty": 6
+        },
+        {
+          "id": 171,
+          "category": "Beach Hazards",
+          "question": "How do coupled human-environment systems models predict rip current mortality and behavioral response patterns?",
+          "answer": "Agent-based modeling of swimmer behavior with oceanographic forcing; identifies escape probability",
+          "difficulty": 6
+        },
+        {
+          "id": 172,
+          "category": "Safety Equipment",
+          "question": "What are the advanced material science approaches for creating self-cleaning, UV-stable rescue buoy coatings?",
+          "answer": "Photocatalytic nanoparticles (TiO2); oleophobic coatings; reduces biofilm formation and corrosion",
+          "difficulty": 6
+        },
+        {
+          "id": 173,
+          "category": "Ocean Awareness",
+          "question": "What is the topographic Rossby wave interaction with beach bathymetry generating chaotic rip current patterns?",
+          "answer": "Nonlinear resonance; creates complex current structures; reduces predictability over long timescales",
+          "difficulty": 6
+        },
+        {
+          "id": 174,
+          "category": "First Aid",
+          "question": "What are the advanced cytokine profiling protocols identifying immune cascade dysregulation in severe near-drowning cases?",
+          "answer": "IL-6, TNF-alpha, IL-10 levels predict multi-organ dysfunction; guides immunomodulatory therapy",
+          "difficulty": 6
+        },
+        {
+          "id": 175,
+          "category": "Sun Protection",
+          "question": "What is the proteomics analysis of collagen cross-linking pathways revealing sunscreen efficacy at the molecular level?",
+          "answer": "Mass spectrometry quantifies collagen modifications; validates UV protection at protein level",
+          "difficulty": 6
+        },
+        {
+          "id": 176,
+          "category": "Water Safety",
+          "question": "What are the finite volume methods solving multiphase flow equations for aspiration fluid dynamics in airways?",
+          "answer": "Captures liquid-gas interface dynamics; models velocity gradients and wall shear stress",
+          "difficulty": 6
+        },
+        {
+          "id": 177,
+          "category": "Beach Hazards",
+          "question": "How do machine learning algorithms trained on satellite imagery improve real-time rip current detection and forecasting?",
+          "answer": "Convolutional neural networks identify rip signatures; integrates with numerical models for prediction",
+          "difficulty": 6
+        },
+        {
+          "id": 178,
+          "category": "Safety Equipment",
+          "question": "What are the bio-inspired material designs for rescue equipment that adapt buoyancy with water temperature and salinity?",
+          "answer": "Shape-memory polymers; stimuli-responsive hydrogels; self-adjusting flotation characteristics",
+          "difficulty": 6
+        },
+        {
+          "id": 179,
+          "category": "Ocean Awareness",
+          "question": "What is the extreme value theory application to predicting rare but dangerous beach events exceeding historical records?",
+          "answer": "Generalized Pareto distribution for tail analysis; estimates probability of unprecedented rip currents",
+          "difficulty": 6
+        },
+        {
+          "id": 180,
+          "category": "First Aid",
+          "question": "What are the pharmacogenomics approaches optimizing post-resuscitation pharmaceutical interventions in near-drowning care?",
+          "answer": "CYP450 variants affect drug metabolism; personalized dosing improves neurological recovery outcomes",
+          "difficulty": 6
+        }
+      ]
+    }
+  ]
+}

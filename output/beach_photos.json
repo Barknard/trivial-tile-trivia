@@ -1,0 +1,929 @@
+{
+  "title": "Beach Photos & Vacation Memories",
+  "description": "Family-friendly trivia about taking beach photos, vacation pictures, and creating memories",
+  "categories": [
+    {
+      "name": "Photography Basics",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What time of day is called the 'Golden Hour' for taking beautiful photos?",
+          "answer": "Early morning or late afternoon/early evening"
+        },
+        {
+          "level": 2,
+          "question": "What feature on your camera or phone helps you frame a perfect beach shot using a grid?",
+          "answer": "Grid lines or rule of thirds"
+        },
+        {
+          "level": 3,
+          "question": "What is the name of the unwanted shine or reflection that sometimes appears on faces in photos?",
+          "answer": "Glare or shine"
+        },
+        {
+          "level": 4,
+          "question": "What photography technique involves positioning the sun at the edge of frame during sunset at the beach?",
+          "answer": "Backlighting"
+        },
+        {
+          "level": 5,
+          "question": "What is the term for the distance between the camera lens and the subject being photographed?",
+          "answer": "Focal length"
+        },
+        {
+          "level": 6,
+          "question": "What is the degree of brightness and darkness in a photograph called, involving proper metering?",
+          "answer": "Exposure"
+        }
+      ]
+    },
+    {
+      "name": "Beach Settings",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What white, grainy material covers most beaches?",
+          "answer": "Sand"
+        },
+        {
+          "level": 2,
+          "question": "What large body of salt water surrounds beaches?",
+          "answer": "Ocean"
+        },
+        {
+          "level": 3,
+          "question": "What are the tall structures built to break up waves and protect beaches called?",
+          "answer": "Breakwaters or jetties"
+        },
+        {
+          "level": 4,
+          "question": "What weather phenomenon creates a beautiful sky display over water at the beach?",
+          "answer": "Sunset"
+        },
+        {
+          "level": 5,
+          "question": "What is the sandy ridge that extends from the beach into shallow water called?",
+          "answer": "Sandbar"
+        },
+        {
+          "level": 6,
+          "question": "What is the narrow strip of sand connecting two larger landmasses called?",
+          "answer": "Tombolo"
+        }
+      ]
+    },
+    {
+      "name": "Vacation Memories",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do families collect in buckets and bags at the beach?",
+          "answer": "Seashells"
+        },
+        {
+          "level": 2,
+          "question": "What frozen treat do many people enjoy eating while at the beach?",
+          "answer": "Ice cream"
+        },
+        {
+          "level": 3,
+          "question": "What water sport involves riding waves on a board?",
+          "answer": "Surfing"
+        },
+        {
+          "level": 4,
+          "question": "What building structure from 1873 in Atlantic City became iconic for beach photos?",
+          "answer": "The boardwalk"
+        },
+        {
+          "level": 5,
+          "question": "What tradition involves building sculptures from sand on the beach?",
+          "answer": "Sand sculpture or sand art"
+        },
+        {
+          "level": 6,
+          "question": "What is the study of shells and mollusks collected at the beach called?",
+          "answer": "Conchology"
+        }
+      ]
+    },
+    {
+      "name": "Sun & Water Effects",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What protective lotion prevents your skin from burning at the beach?",
+          "answer": "Sunscreen or sunblock"
+        },
+        {
+          "level": 2,
+          "question": "What natural phenomenon makes the water look different colors - blue, green, or turquoise?",
+          "answer": "Light reflection or water depth"
+        },
+        {
+          "level": 3,
+          "question": "What moving ocean pattern creates an interesting visual line in beach photos?",
+          "answer": "Waves"
+        },
+        {
+          "level": 4,
+          "question": "What is the shimmering effect on water created by sunlight called?",
+          "answer": "Sun glitter or sparkle"
+        },
+        {
+          "level": 5,
+          "question": "What optical illusion appears to hover over hot sand or water on a sunny day?",
+          "answer": "Mirage"
+        },
+        {
+          "level": 6,
+          "question": "What is the rainbow-like effect seen in water droplets or ocean spray called?",
+          "answer": "Iridescence"
+        }
+      ]
+    },
+    {
+      "name": "Family Beach Activities",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What sport do families play with a net and ball at the beach?",
+          "answer": "Volleyball"
+        },
+        {
+          "level": 2,
+          "question": "What do children use to dig in the sand with a handle?",
+          "answer": "Shovel or spade"
+        },
+        {
+          "level": 3,
+          "question": "What traditional game involves throwing a horseshoe-shaped object?",
+          "answer": "Horseshoes"
+        },
+        {
+          "level": 4,
+          "question": "What activity involves lying on a lounger and getting tanned in the sun?",
+          "answer": "Sunbathing"
+        },
+        {
+          "level": 5,
+          "question": "What competitive activity involves racing in the sand or water?",
+          "answer": "Running or beach racing"
+        },
+        {
+          "level": 6,
+          "question": "What water activity involves propelling yourself through water using rhythmic arm and leg movements?",
+          "answer": "Swimming"
+        }
+      ]
+    },
+    {
+      "name": "Camera Equipment",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What device do you use to take photos of people at the beach?",
+          "answer": "Camera or phone"
+        },
+        {
+          "level": 2,
+          "question": "What portable device most people now use to take vacation photos?",
+          "answer": "Smartphone"
+        },
+        {
+          "level": 3,
+          "question": "What protective case keeps your camera safe from sand and water at the beach?",
+          "answer": "Waterproof case or housing"
+        },
+        {
+          "level": 4,
+          "question": "What camera setting protects against the bright sand and water reflections?",
+          "answer": "Exposure compensation or UV filter"
+        },
+        {
+          "level": 5,
+          "question": "What lens attachment extends your camera's ability to see distant subjects?",
+          "answer": "Telephoto lens"
+        },
+        {
+          "level": 6,
+          "question": "What technology in cameras helps capture motion without blur in action shots?",
+          "answer": "Fast shutter speed or continuous shooting mode"
+        }
+      ]
+    }
+  ],
+  "categories_extended": [
+    {
+      "name": "Composition & Framing",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What should you do before taking a photo - make sure it's straight and balanced?",
+          "answer": "Frame the shot or compose"
+        },
+        {
+          "level": 2,
+          "question": "What do photographers call the area they want to focus on in a photo?",
+          "answer": "Subject"
+        },
+        {
+          "level": 3,
+          "question": "What principle divides a photo into nine equal sections for better composition?",
+          "answer": "Rule of thirds"
+        },
+        {
+          "level": 4,
+          "question": "What compositional technique places the horizon line in the upper or lower third of the frame?",
+          "answer": "Horizon placement"
+        },
+        {
+          "level": 5,
+          "question": "What technique uses natural objects like trees to frame your subject?",
+          "answer": "Leading lines or framing"
+        },
+        {
+          "level": 6,
+          "question": "What compositional element guides the viewer's eye through the photograph?",
+          "answer": "Leading lines"
+        }
+      ]
+    },
+    {
+      "name": "Lighting & Shadows",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do you need for a photo to be visible - light or darkness?",
+          "answer": "Light"
+        },
+        {
+          "level": 2,
+          "question": "What dark area appears when the sun blocks light from reaching a surface?",
+          "answer": "Shadow"
+        },
+        {
+          "level": 3,
+          "question": "What term describes the soft, diffused light on a cloudy beach day?",
+          "answer": "Flat lighting"
+        },
+        {
+          "level": 4,
+          "question": "What lighting technique uses shadows to create depth and dimension?",
+          "answer": "Contrast lighting"
+        },
+        {
+          "level": 5,
+          "question": "What is the technique of photographing a person with light behind them called?",
+          "answer": "Backlighting"
+        },
+        {
+          "level": 6,
+          "question": "What is the transition zone between light and shadow in a photograph called?",
+          "answer": "Penumbra"
+        }
+      ]
+    },
+    {
+      "name": "Beach Portraits",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What type of photo shows a person's face and shoulders?",
+          "answer": "Portrait"
+        },
+        {
+          "level": 2,
+          "question": "What expression should people make when they're posing for happy photos?",
+          "answer": "Smile"
+        },
+        {
+          "level": 3,
+          "question": "What backdrop provides a beautiful, natural setting for beach portraits?",
+          "answer": "Ocean or sunset"
+        },
+        {
+          "level": 4,
+          "question": "What angle is flattering for most face shapes in portrait photography?",
+          "answer": "Three-quarter angle or 45 degrees"
+        },
+        {
+          "level": 5,
+          "question": "What technique removes unwanted blemishes or imperfections from portrait photos?",
+          "answer": "Retouching or editing"
+        },
+        {
+          "level": 6,
+          "question": "What is the optimal distance for taking flattering close-up portraits?",
+          "answer": "3-6 feet away"
+        }
+      ]
+    },
+    {
+      "name": "Action & Motion",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do you call it when someone is running or jumping in a photo?",
+          "answer": "Action"
+        },
+        {
+          "level": 2,
+          "question": "What unwanted effect happens when movement makes a photo blurry?",
+          "answer": "Motion blur"
+        },
+        {
+          "level": 3,
+          "question": "What sport captures exciting action moments at the beach?",
+          "answer": "Surfing or volleyball"
+        },
+        {
+          "level": 4,
+          "question": "What camera feature freezes fast-moving subjects without blur?",
+          "answer": "Fast shutter speed"
+        },
+        {
+          "level": 5,
+          "question": "What technique intentionally blurs moving water to create a dreamy effect?",
+          "answer": "Long exposure"
+        },
+        {
+          "level": 6,
+          "question": "What is the photographic technique of capturing water flow as smooth, silky streaks called?",
+          "answer": "Slow shutter or long exposure"
+        }
+      ]
+    },
+    {
+      "name": "Color & Filters",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What makes the sky blue at the beach?",
+          "answer": "The color of light"
+        },
+        {
+          "level": 2,
+          "question": "What tool in photo editing changes the colors in an image?",
+          "answer": "Filter or color adjustment"
+        },
+        {
+          "level": 3,
+          "question": "What happens to colors when you remove all the color from a photo?",
+          "answer": "It becomes black and white or grayscale"
+        },
+        {
+          "level": 4,
+          "question": "What filter creates a warm, vintage feeling in beach photos?",
+          "answer": "Sepia or warm tone filter"
+        },
+        {
+          "level": 5,
+          "question": "What color temperature makes beach photos look cooler - blue or warm?",
+          "answer": "Cooler (blue)"
+        },
+        {
+          "level": 6,
+          "question": "What is the technique of emphasizing one color while desaturating others called?",
+          "answer": "Color grading or selective color"
+        }
+      ]
+    },
+    {
+      "name": "Photo Editing",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do you do to a photo after taking it to make it look better?",
+          "answer": "Edit it"
+        },
+        {
+          "level": 2,
+          "question": "What is making a photo brighter called?",
+          "answer": "Increasing brightness or lightening"
+        },
+        {
+          "level": 3,
+          "question": "What tool removes unwanted objects or people from a photo?",
+          "answer": "Clone tool or healing brush"
+        },
+        {
+          "level": 4,
+          "question": "What adjustment increases the difference between light and dark areas in a photo?",
+          "answer": "Contrast"
+        },
+        {
+          "level": 5,
+          "question": "What technique sharpens details and makes a photo crisper?",
+          "answer": "Sharpening"
+        },
+        {
+          "level": 6,
+          "question": "What is the technique of making the edges between subject and background smoother called?",
+          "answer": "Feathering"
+        }
+      ]
+    },
+    {
+      "name": "Storing & Sharing Photos",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do you do with photos to keep them safe - save them or delete them?",
+          "answer": "Save them"
+        },
+        {
+          "level": 2,
+          "question": "What device stores thousands of photos?",
+          "answer": "Computer or phone"
+        },
+        {
+          "level": 3,
+          "question": "What online service lets you store and share photos with family?",
+          "answer": "Cloud storage or photo sharing app"
+        },
+        {
+          "level": 4,
+          "question": "What backup method creates a copy of your photos on another device?",
+          "answer": "External hard drive or cloud backup"
+        },
+        {
+          "level": 5,
+          "question": "What online platform is most popular for sharing vacation photos with friends?",
+          "answer": "Social media or Instagram"
+        },
+        {
+          "level": 6,
+          "question": "What is the process of organizing photos by date and category called?",
+          "answer": "Photo management or curation"
+        }
+      ]
+    },
+    {
+      "name": "Group Photos",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do you call a photo of the whole family together?",
+          "answer": "Family photo or group photo"
+        },
+        {
+          "level": 2,
+          "question": "How many people should be in a group photo to make a good memory?",
+          "answer": "Multiple people or the whole group"
+        },
+        {
+          "level": 3,
+          "question": "What device lets you take a selfie of a large group?",
+          "answer": "Selfie stick or wide-angle lens"
+        },
+        {
+          "level": 4,
+          "question": "What technique arranges people at different heights for a balanced group photo?",
+          "answer": "Staggered positioning or tiering"
+        },
+        {
+          "level": 5,
+          "question": "What is a photo of a person with themselves in the background or frame called?",
+          "answer": "Candid photo or self-portrait"
+        },
+        {
+          "level": 6,
+          "question": "What composition rule prevents heads from appearing on the same line in group photos?",
+          "answer": "Asymmetrical arrangement or varied heights"
+        }
+      ]
+    },
+    {
+      "name": "Special Beach Effects",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What is a detailed image of something very small and close-up called?",
+          "answer": "Macro photo or close-up"
+        },
+        {
+          "level": 2,
+          "question": "What shell or creature can you photograph up close in tide pools?",
+          "answer": "Starfish, anemone, or crab"
+        },
+        {
+          "level": 3,
+          "question": "What weather condition creates a moody atmosphere for dramatic beach photos?",
+          "answer": "Storm or cloudy sky"
+        },
+        {
+          "level": 4,
+          "question": "What is the soft, blurred background behind a sharp subject called?",
+          "answer": "Bokeh"
+        },
+        {
+          "level": 5,
+          "question": "What technique creates a transparent reflection effect in beach photos?",
+          "answer": "Double exposure"
+        },
+        {
+          "level": 6,
+          "question": "What is the artistic technique of capturing star trails over the ocean at night?",
+          "answer": "Long exposure or astrophotography"
+        }
+      ]
+    },
+    {
+      "name": "Beach Wildlife Photography",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What flying animals can you photograph on a beach?",
+          "answer": "Birds or seagulls"
+        },
+        {
+          "level": 2,
+          "question": "What marine animal sometimes appears in beach photos near the shore?",
+          "answer": "Fish or dolphins"
+        },
+        {
+          "level": 3,
+          "question": "What small creatures leave patterns in the sand that make interesting photos?",
+          "answer": "Crabs or birds"
+        },
+        {
+          "level": 4,
+          "question": "What is the specialized field of photographing animals in their natural habitat?",
+          "answer": "Wildlife photography"
+        },
+        {
+          "level": 5,
+          "question": "What lens is best for photographing distant wildlife at the beach?",
+          "answer": "Telephoto or zoom lens"
+        },
+        {
+          "level": 6,
+          "question": "What is the technique of remaining still and quiet to photograph skittish wildlife?",
+          "answer": "Stalking or stealth photography"
+        }
+      ]
+    }
+  ],
+  "categories_extended_2": [
+    {
+      "name": "Perspective & Angles",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What is it called when you take a photo from ground level looking up?",
+          "answer": "Low angle or worm's eye view"
+        },
+        {
+          "level": 2,
+          "question": "What viewpoint do you create when standing on a cliff or high spot looking down?",
+          "answer": "High angle or bird's eye view"
+        },
+        {
+          "level": 3,
+          "question": "What is a photo taken over someone's shoulder showing what they see called?",
+          "answer": "Over-the-shoulder shot"
+        },
+        {
+          "level": 4,
+          "question": "What angle is considered most natural and flattering for human subjects?",
+          "answer": "Eye level or straight on"
+        },
+        {
+          "level": 5,
+          "question": "What technique involves tilting the camera to create dynamic diagonal lines?",
+          "answer": "Dutch angle or canted frame"
+        },
+        {
+          "level": 6,
+          "question": "What is the field of view and distance relationship created by a particular lens position?",
+          "answer": "Perspective or focal length relationship"
+        }
+      ]
+    },
+    {
+      "name": "Depth of Field",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What part of a photo is in focus and clear?",
+          "answer": "The subject"
+        },
+        {
+          "level": 2,
+          "question": "What blurry area is behind a sharp subject in a photo?",
+          "answer": "Background or out of focus"
+        },
+        {
+          "level": 3,
+          "question": "What camera setting controls how sharp or blurry the background is?",
+          "answer": "Aperture or f-stop"
+        },
+        {
+          "level": 4,
+          "question": "What effect isolates the subject from the background using a shallow depth of field?",
+          "answer": "Separation or bokeh"
+        },
+        {
+          "level": 5,
+          "question": "What is the range of distance from the camera that appears in focus?",
+          "answer": "Depth of field"
+        },
+        {
+          "level": 6,
+          "question": "What technique uses hyperfocal distance to keep everything sharp from foreground to background?",
+          "answer": "Hyperfocal focusing"
+        }
+      ]
+    },
+    {
+      "name": "Selfies & Self-Portraits",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What is a photo you take of yourself called?",
+          "answer": "Selfie or self-portrait"
+        },
+        {
+          "level": 2,
+          "question": "What device extends in front of you to take a selfie?",
+          "answer": "Selfie stick"
+        },
+        {
+          "level": 3,
+          "question": "What camera setting or mirror do you use to see yourself while taking a selfie?",
+          "answer": "Front-facing camera or selfie camera"
+        },
+        {
+          "level": 4,
+          "question": "What background makes an interesting selfie at the beach - the ocean or the sand?",
+          "answer": "The ocean or sunset"
+        },
+        {
+          "level": 5,
+          "question": "What is the popular trend of taking selfies at famous locations called?",
+          "answer": "Selfie tourism or travel selfies"
+        },
+        {
+          "level": 6,
+          "question": "What is the technique of angling the camera above your head for a more flattering selfie?",
+          "answer": "High angle selfie or overhead angle"
+        }
+      ]
+    },
+    {
+      "name": "Vacation Documentation",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do you create when you take photos to remember your beach trip?",
+          "answer": "Memories or a photo collection"
+        },
+        {
+          "level": 2,
+          "question": "What physical product do you make from vacation photos to display?",
+          "answer": "Photo album or printed photo"
+        },
+        {
+          "level": 3,
+          "question": "What movie-like sequence shows your favorite vacation moments?",
+          "answer": "Photo slideshow or video montage"
+        },
+        {
+          "level": 4,
+          "question": "What is a collection of photos from a trip arranged in order called?",
+          "answer": "Photo series or photo essay"
+        },
+        {
+          "level": 5,
+          "question": "What is the practice of documenting daily vacation moments called?",
+          "answer": "Photo journaling or visual documentation"
+        },
+        {
+          "level": 6,
+          "question": "What is the technique of creating a visual narrative through carefully sequenced photos?",
+          "answer": "Storytelling through photography"
+        }
+      ]
+    },
+    {
+      "name": "Equipment Care",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What should you protect your camera from at the beach - sand or water?",
+          "answer": "Sand and water"
+        },
+        {
+          "level": 2,
+          "question": "What sticky substance should you remove from your camera after beach use?",
+          "answer": "Sand or salt residue"
+        },
+        {
+          "level": 3,
+          "question": "What solution or wipe do you use to clean your camera lens?",
+          "answer": "Lens cleaner or microfiber cloth"
+        },
+        {
+          "level": 4,
+          "question": "What device protects your camera from water and sand damage?",
+          "answer": "Waterproof case or dry bag"
+        },
+        {
+          "level": 5,
+          "question": "What is the process of removing salt deposits from electronic equipment called?",
+          "answer": "Desalination or cleaning"
+        },
+        {
+          "level": 6,
+          "question": "What professional maintenance service can restore salt water-damaged cameras?",
+          "answer": "Camera repair or professional servicing"
+        }
+      ]
+    },
+    {
+      "name": "White Balance & Color Temperature",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What appears different colors under different types of light - orange or blue?",
+          "answer": "Warmth or color temperature"
+        },
+        {
+          "level": 2,
+          "question": "What setting adjusts a photo to look natural under different lighting conditions?",
+          "answer": "White balance"
+        },
+        {
+          "level": 3,
+          "question": "What happens to beach photos taken in shade under a blue sky?",
+          "answer": "They appear too blue or cool"
+        },
+        {
+          "level": 4,
+          "question": "What preset white balance setting matches warm sunset light?",
+          "answer": "Daylight or tungsten"
+        },
+        {
+          "level": 5,
+          "question": "What is the technique of manually measuring the brightest white object for accurate white balance?",
+          "answer": "Custom white balance or gray card reference"
+        },
+        {
+          "level": 6,
+          "question": "What is the color temperature measured in Kelvin that creates that warm golden beach glow?",
+          "answer": "Around 3500-4500 Kelvin"
+        }
+      ]
+    },
+    {
+      "name": "Memory & Nostalgia",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do photos help you do - remember or forget?",
+          "answer": "Remember"
+        },
+        {
+          "level": 2,
+          "question": "What feeling do you get when looking at old beach photos?",
+          "answer": "Nostalgia or happiness"
+        },
+        {
+          "level": 3,
+          "question": "What year is often included in photos to help remember when they were taken?",
+          "answer": "The date or year"
+        },
+        {
+          "level": 4,
+          "question": "What is the practice of returning to a location to recreate an old photo called?",
+          "answer": "Photo recreation or throwback"
+        },
+        {
+          "level": 5,
+          "question": "What is the emotional connection between looking at photos and personal history?",
+          "answer": "Memory preservation or sentimental value"
+        },
+        {
+          "level": 6,
+          "question": "What is the phenomenon of remembering events differently from how they actually happened in photos?",
+          "answer": "False memory or memory reconstruction"
+        }
+      ]
+    },
+    {
+      "name": "Social Media & Digital Sharing",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do people do with beach photos online - keep them private or share them?",
+          "answer": "Share them"
+        },
+        {
+          "level": 2,
+          "question": "What is the small image that represents a photo in an online post called?",
+          "answer": "Thumbnail"
+        },
+        {
+          "level": 3,
+          "question": "What descriptive text added to social media photos helps others understand them?",
+          "answer": "Caption"
+        },
+        {
+          "level": 4,
+          "question": "What hashtag system makes beach vacation photos searchable online?",
+          "answer": "Hashtags"
+        },
+        {
+          "level": 5,
+          "question": "What metric measures how many people view and engage with your beach photos?",
+          "answer": "Engagement or likes"
+        },
+        {
+          "level": 6,
+          "question": "What is the optimal image resolution for posting photos on social media platforms?",
+          "answer": "1080x1080 or platform-specific dimensions"
+        }
+      ]
+    },
+    {
+      "name": "Seasonal Beach Photography",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What season has the warmest beach weather for vacation photos?",
+          "answer": "Summer"
+        },
+        {
+          "level": 2,
+          "question": "What season shows beautiful colors in the sky at the beach?",
+          "answer": "Sunset throughout the year, but especially spring/fall"
+        },
+        {
+          "level": 3,
+          "question": "What season has fewer tourists for uncrowded beach photos?",
+          "answer": "Winter or off-season"
+        },
+        {
+          "level": 4,
+          "question": "What seasonal event creates interesting tide pools for photography?",
+          "answer": "Low tide"
+        },
+        {
+          "level": 5,
+          "question": "What is the best time of year for calm water and clear skies at the beach?",
+          "answer": "Early fall or late spring"
+        },
+        {
+          "level": 6,
+          "question": "What bioluminescent phenomenon occurs at certain beaches during specific seasons?",
+          "answer": "Red tide or plankton bloom"
+        }
+      ]
+    },
+    {
+      "name": "Creative Concepts",
+      "clues": [
+        {
+          "level": 1,
+          "question": "What do you create when you arrange objects to tell a story in a photo?",
+          "answer": "Composition or scene"
+        },
+        {
+          "level": 2,
+          "question": "What artistic style makes photos look like they're from the past?",
+          "answer": "Retro or vintage"
+        },
+        {
+          "level": 3,
+          "question": "What fun effect makes objects appear to float in mid-air in beach photos?",
+          "answer": "Levitation photography"
+        },
+        {
+          "level": 4,
+          "question": "What is the art of creating false scenes that look real in photos called?",
+          "answer": "Composite photography or manipulation"
+        },
+        {
+          "level": 5,
+          "question": "What is the technique of blending multiple exposures to create the perfect image?",
+          "answer": "HDR or exposure blending"
+        },
+        {
+          "level": 6,
+          "question": "What is the fine art movement emphasizing surreal and dreamlike beach imagery?",
+          "answer": "Surrealism or conceptual photography"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_questions": 180,
+    "total_categories": 20,
+    "questions_per_level": 30,
+    "difficulty_levels": 6,
+    "theme": "Beach Photography and Vacation Memories",
+    "audience": "Family-Friendly",
+    "format": "Jeopardy"
+  }
+}

@@ -1,0 +1,1458 @@
+{
+  "title": "Beach Picnic Trivia",
+  "description": "Family-friendly questions about beach picnics, eating at the beach, and snacks",
+  "totalQuestions": 180,
+  "levels": 6,
+  "questionsPerLevel": 30,
+  "format": "jeopardy",
+  "categories": [
+    "Beach Snacks",
+    "Picnic Foods",
+    "Beverages",
+    "Beach Traditions",
+    "Food Safety",
+    "Seaside Cuisine"
+  ],
+  "questions": [
+    {
+      "level": 1,
+      "id": 1,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What frozen treat on a stick is a popular beach snack?",
+      "answer": "Popsicle (or ice pop)"
+    },
+    {
+      "level": 1,
+      "id": 2,
+      "category": "Picnic Foods",
+      "points": 100,
+      "question": "What sandwich meat is commonly used for beach picnic sandwiches?",
+      "answer": "Peanut butter"
+    },
+    {
+      "level": 1,
+      "id": 3,
+      "category": "Beverages",
+      "points": 100,
+      "question": "What refreshing drink is often served cold at the beach?",
+      "answer": "Lemonade"
+    },
+    {
+      "level": 1,
+      "id": 4,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What salty snack comes in flavors like salt and vinegar?",
+      "answer": "Potato chips"
+    },
+    {
+      "level": 1,
+      "id": 5,
+      "category": "Picnic Foods",
+      "points": 100,
+      "question": "What fruit is easy to pack in a beach picnic basket?",
+      "answer": "Apple"
+    },
+    {
+      "level": 1,
+      "id": 6,
+      "category": "Beach Traditions",
+      "points": 100,
+      "question": "What meal do you typically eat at the beach around noon?",
+      "answer": "Lunch"
+    },
+    {
+      "level": 1,
+      "id": 7,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What cheesy snack puffs are light and airy?",
+      "answer": "Cheese puffs"
+    },
+    {
+      "level": 1,
+      "id": 8,
+      "category": "Beverages",
+      "points": 100,
+      "question": "What drink do you use ice to keep cold at the beach?",
+      "answer": "Water"
+    },
+    {
+      "level": 1,
+      "id": 9,
+      "category": "Picnic Foods",
+      "points": 100,
+      "question": "What orange citrus fruit is refreshing and hydrating?",
+      "answer": "Orange"
+    },
+    {
+      "level": 1,
+      "id": 10,
+      "category": "Food Safety",
+      "points": 100,
+      "question": "What container keeps food cold during a beach picnic?",
+      "answer": "Cooler"
+    },
+    {
+      "level": 1,
+      "id": 11,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What crunchy snack is made from popcorn kernels?",
+      "answer": "Popcorn"
+    },
+    {
+      "level": 1,
+      "id": 12,
+      "category": "Seaside Cuisine",
+      "points": 100,
+      "question": "What type of sandwich has two slices of bread?",
+      "answer": "Sandwich"
+    },
+    {
+      "level": 1,
+      "id": 13,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What sweet candy shaped like bears is a favorite treat?",
+      "answer": "Gummy bears"
+    },
+    {
+      "level": 1,
+      "id": 14,
+      "category": "Beverages",
+      "points": 100,
+      "question": "What carbonated drink is often served at picnics?",
+      "answer": "Soda"
+    },
+    {
+      "level": 1,
+      "id": 15,
+      "category": "Picnic Foods",
+      "points": 100,
+      "question": "What vegetable is often served as sticks with dip?",
+      "answer": "Carrot"
+    },
+    {
+      "level": 1,
+      "id": 16,
+      "category": "Beach Traditions",
+      "points": 100,
+      "question": "What type of gathering at the beach involves food and friends?",
+      "answer": "Picnic"
+    },
+    {
+      "level": 1,
+      "id": 17,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What chocolate bar with caramel and nougat is a classic snack?",
+      "answer": "Candy bar"
+    },
+    {
+      "level": 1,
+      "id": 18,
+      "category": "Food Safety",
+      "points": 100,
+      "question": "What utensil do you need to eat food at a picnic?",
+      "answer": "Fork"
+    },
+    {
+      "level": 1,
+      "id": 19,
+      "category": "Seaside Cuisine",
+      "points": 100,
+      "question": "What white spread goes on bread for sandwiches?",
+      "answer": "Mayonnaise"
+    },
+    {
+      "level": 1,
+      "id": 20,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What crunchy grain bar is a healthy beach snack?",
+      "answer": "Granola bar"
+    },
+    {
+      "level": 1,
+      "id": 21,
+      "category": "Beverages",
+      "points": 100,
+      "question": "What juice is made from oranges?",
+      "answer": "Orange juice"
+    },
+    {
+      "level": 1,
+      "id": 22,
+      "category": "Picnic Foods",
+      "points": 100,
+      "question": "What bread product is often used for sandwiches?",
+      "answer": "Bread"
+    },
+    {
+      "level": 1,
+      "id": 23,
+      "category": "Beach Traditions",
+      "points": 100,
+      "question": "What outdoor meal is eaten with your toes in the sand?",
+      "answer": "Picnic"
+    },
+    {
+      "level": 1,
+      "id": 24,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What nut is often roasted and salted for snacking?",
+      "answer": "Peanut"
+    },
+    {
+      "level": 1,
+      "id": 25,
+      "category": "Food Safety",
+      "points": 100,
+      "question": "What do you need to wipe your hands after eating?",
+      "answer": "Napkin"
+    },
+    {
+      "level": 1,
+      "id": 26,
+      "category": "Seaside Cuisine",
+      "points": 100,
+      "question": "What red condiment is often added to hot dogs?",
+      "answer": "Ketchup"
+    },
+    {
+      "level": 1,
+      "id": 27,
+      "category": "Beach Snacks",
+      "points": 100,
+      "question": "What sweet baked good with chocolate chips is a classic snack?",
+      "answer": "Cookie"
+    },
+    {
+      "level": 1,
+      "id": 28,
+      "category": "Beverages",
+      "points": 100,
+      "question": "What hot drink tastes good even at the beach?",
+      "answer": "Iced tea"
+    },
+    {
+      "level": 1,
+      "id": 29,
+      "category": "Picnic Foods",
+      "points": 100,
+      "question": "What yellow fruit is easy to carry to the beach?",
+      "answer": "Banana"
+    },
+    {
+      "level": 1,
+      "id": 30,
+      "category": "Beach Traditions",
+      "points": 100,
+      "question": "What time of day is best for a beach picnic to avoid the hottest sun?",
+      "answer": "Morning or late afternoon"
+    },
+    {
+      "level": 2,
+      "id": 31,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What combination snack made from pretzels and peanuts is popular at beaches?",
+      "answer": "Snack mix"
+    },
+    {
+      "level": 2,
+      "id": 32,
+      "category": "Picnic Foods",
+      "points": 200,
+      "question": "What traditional baseball-themed picnic food is wrapped in foil?",
+      "answer": "Hot dog"
+    },
+    {
+      "level": 2,
+      "id": 33,
+      "category": "Beverages",
+      "points": 200,
+      "question": "What cold drink made from fruit juice and water is refreshing on a hot beach day?",
+      "answer": "Punch"
+    },
+    {
+      "level": 2,
+      "id": 34,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What cheesy snack made from cornmeal is often dusted with cheese powder?",
+      "answer": "Cheese crackers"
+    },
+    {
+      "level": 2,
+      "id": 35,
+      "category": "Picnic Foods",
+      "points": 200,
+      "question": "What cold pasta dish mixed with vegetables is perfect for picnics?",
+      "answer": "Pasta salad"
+    },
+    {
+      "level": 2,
+      "id": 36,
+      "category": "Beach Traditions",
+      "points": 200,
+      "question": "What activity often follows eating at a beach picnic?",
+      "answer": "Swimming"
+    },
+    {
+      "level": 2,
+      "id": 37,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What trail mix staple is a chocolate candy?",
+      "answer": "M&M"
+    },
+    {
+      "level": 2,
+      "id": 38,
+      "category": "Beverages",
+      "points": 200,
+      "question": "What tropical juice is made from coconuts and served in the shell?",
+      "answer": "Coconut water"
+    },
+    {
+      "level": 2,
+      "id": 39,
+      "category": "Picnic Foods",
+      "points": 200,
+      "question": "What leafy green vegetable is the base of many salads?",
+      "answer": "Lettuce"
+    },
+    {
+      "level": 2,
+      "id": 40,
+      "category": "Food Safety",
+      "points": 200,
+      "question": "What should you keep perishable foods in during a beach picnic to prevent spoilage?",
+      "answer": "Ice cooler"
+    },
+    {
+      "level": 2,
+      "id": 41,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What combination of oats, honey, and nuts is baked into bars?",
+      "answer": "Granola"
+    },
+    {
+      "level": 2,
+      "id": 42,
+      "category": "Seaside Cuisine",
+      "points": 200,
+      "question": "What green spread made from avocados is popular on sandwiches?",
+      "answer": "Guacamole"
+    },
+    {
+      "level": 2,
+      "id": 43,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What crispy snack made from tortillas comes in flavors like nacho cheese?",
+      "answer": "Tortilla chips"
+    },
+    {
+      "level": 2,
+      "id": 44,
+      "category": "Beverages",
+      "points": 200,
+      "question": "What drink is made by mixing juice with sparkling water?",
+      "answer": "Spritzer"
+    },
+    {
+      "level": 2,
+      "id": 45,
+      "category": "Picnic Foods",
+      "points": 200,
+      "question": "What red fruit grows on bushes and is great in jam?",
+      "answer": "Strawberry"
+    },
+    {
+      "level": 2,
+      "id": 46,
+      "category": "Beach Traditions",
+      "points": 200,
+      "question": "What dessert frozen treat is melted to make a popular beach snack?",
+      "answer": "Ice cream"
+    },
+    {
+      "level": 2,
+      "id": 47,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What sweet and salty snack is made from popcorn drizzled with chocolate?",
+      "answer": "Chocolate popcorn"
+    },
+    {
+      "level": 2,
+      "id": 48,
+      "category": "Food Safety",
+      "points": 200,
+      "question": "What should you apply to your hands before eating without utensils?",
+      "answer": "Hand sanitizer"
+    },
+    {
+      "level": 2,
+      "id": 49,
+      "category": "Seaside Cuisine",
+      "points": 200,
+      "question": "What yellow condiment pairs well with french fries?",
+      "answer": "Mustard"
+    },
+    {
+      "level": 2,
+      "id": 50,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What ring-shaped cereal snack comes in various colors?",
+      "answer": "Fruit loops"
+    },
+    {
+      "level": 2,
+      "id": 51,
+      "category": "Beverages",
+      "points": 200,
+      "question": "What alcoholic beverage is often avoided at family beach picnics?",
+      "answer": "Beer"
+    },
+    {
+      "level": 2,
+      "id": 52,
+      "category": "Picnic Foods",
+      "points": 200,
+      "question": "What sweet fruit is orange and cut into slices?",
+      "answer": "Peach"
+    },
+    {
+      "level": 2,
+      "id": 53,
+      "category": "Beach Traditions",
+      "points": 200,
+      "question": "What meal is eaten in the evening after a day at the beach?",
+      "answer": "Dinner"
+    },
+    {
+      "level": 2,
+      "id": 54,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What nuts are mixed together and roasted for a healthy snack?",
+      "answer": "Mixed nuts"
+    },
+    {
+      "level": 2,
+      "id": 55,
+      "category": "Food Safety",
+      "points": 200,
+      "question": "What should you cover your food with to keep sand off?",
+      "answer": "Plastic wrap"
+    },
+    {
+      "level": 2,
+      "id": 56,
+      "category": "Seaside Cuisine",
+      "points": 200,
+      "question": "What white spreadable cheese is often used on bagels?",
+      "answer": "Cream cheese"
+    },
+    {
+      "level": 2,
+      "id": 57,
+      "category": "Beach Snacks",
+      "points": 200,
+      "question": "What chewy candy comes in a rainbow of colors?",
+      "answer": "Skittles"
+    },
+    {
+      "level": 2,
+      "id": 58,
+      "category": "Beverages",
+      "points": 200,
+      "question": "What drink made from strawberries and cream is a dessert beverage?",
+      "answer": "Strawberry milkshake"
+    },
+    {
+      "level": 2,
+      "id": 59,
+      "category": "Picnic Foods",
+      "points": 200,
+      "question": "What sweet yellow fruit is soft and potassium-rich?",
+      "answer": "Mango"
+    },
+    {
+      "level": 2,
+      "id": 60,
+      "category": "Beach Traditions",
+      "points": 200,
+      "question": "What is the most important item to bring to a beach picnic besides food?",
+      "answer": "Sunscreen"
+    },
+    {
+      "level": 3,
+      "id": 61,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What Asian rice snack made from puffed rice is light and crispy?",
+      "answer": "Rice crackers"
+    },
+    {
+      "level": 3,
+      "id": 62,
+      "category": "Picnic Foods",
+      "points": 300,
+      "question": "What Mediterranean salad contains cucumbers, tomatoes, and feta cheese?",
+      "answer": "Greek salad"
+    },
+    {
+      "level": 3,
+      "id": 63,
+      "category": "Beverages",
+      "points": 300,
+      "question": "What electrolyte-rich sports drink is favored by athletes at the beach?",
+      "answer": "Gatorade"
+    },
+    {
+      "level": 3,
+      "id": 64,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What type of cookie from Scandinavia is wafer-thin and crispy?",
+      "answer": "Wafer cookies"
+    },
+    {
+      "level": 3,
+      "id": 65,
+      "category": "Picnic Foods",
+      "points": 300,
+      "question": "What Spanish cold soup is served at beach picnics in hot climates?",
+      "answer": "Gazpacho"
+    },
+    {
+      "level": 3,
+      "id": 66,
+      "category": "Beach Traditions",
+      "points": 300,
+      "question": "What musical instrument is sometimes played at beach picnics?",
+      "answer": "Ukulele"
+    },
+    {
+      "level": 3,
+      "id": 67,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What protein-rich legume is roasted and salted as a snack?",
+      "answer": "Chickpea"
+    },
+    {
+      "level": 3,
+      "id": 68,
+      "category": "Beverages",
+      "points": 300,
+      "question": "What fermented tea beverage contains probiotics and is served cold?",
+      "answer": "Kombucha"
+    },
+    {
+      "level": 3,
+      "id": 69,
+      "category": "Picnic Foods",
+      "points": 300,
+      "question": "What grain-based salad from the Middle East contains bulgur and parsley?",
+      "answer": "Tabbouleh"
+    },
+    {
+      "level": 3,
+      "id": 70,
+      "category": "Food Safety",
+      "points": 300,
+      "question": "What temperature should perishable foods be kept at during a beach picnic?",
+      "answer": "Below 40 degrees Fahrenheit"
+    },
+    {
+      "level": 3,
+      "id": 71,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What vegetable chip is baked instead of fried for a healthier option?",
+      "answer": "Kale chip"
+    },
+    {
+      "level": 3,
+      "id": 72,
+      "category": "Seaside Cuisine",
+      "points": 300,
+      "question": "What Mediterranean oil is drizzled over salads and bread?",
+      "answer": "Olive oil"
+    },
+    {
+      "level": 3,
+      "id": 73,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What combination of sesame seeds and chickpea paste is popular in Mediterranean cuisine?",
+      "answer": "Hummus"
+    },
+    {
+      "level": 3,
+      "id": 74,
+      "category": "Beverages",
+      "points": 300,
+      "question": "What herbal tea with mint is refreshing when served iced?",
+      "answer": "Mint tea"
+    },
+    {
+      "level": 3,
+      "id": 75,
+      "category": "Picnic Foods",
+      "points": 300,
+      "question": "What cold rice dish originated in Japan and is portable for picnics?",
+      "answer": "Sushi"
+    },
+    {
+      "level": 3,
+      "id": 76,
+      "category": "Beach Traditions",
+      "points": 300,
+      "question": "What beach picnic game involves tossing bean bags?",
+      "answer": "Cornhole"
+    },
+    {
+      "level": 3,
+      "id": 77,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What protein-rich bar contains nuts, seeds, and dates?",
+      "answer": "Energy bar"
+    },
+    {
+      "level": 3,
+      "id": 78,
+      "category": "Food Safety",
+      "points": 300,
+      "question": "What is the maximum time perishable food should sit out in direct sun?",
+      "answer": "Two hours"
+    },
+    {
+      "level": 3,
+      "id": 79,
+      "category": "Seaside Cuisine",
+      "points": 300,
+      "question": "What creamy dairy product pairs well with fresh fruit at picnics?",
+      "answer": "Yogurt"
+    },
+    {
+      "level": 3,
+      "id": 80,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What seaweed snack is roasted and salted for a salty treat?",
+      "answer": "Seaweed snacks"
+    },
+    {
+      "level": 3,
+      "id": 81,
+      "category": "Beverages",
+      "points": 300,
+      "question": "What Italian carbonated citrus beverage is refreshing at the beach?",
+      "answer": "San Pellegrino"
+    },
+    {
+      "level": 3,
+      "id": 82,
+      "category": "Picnic Foods",
+      "points": 300,
+      "question": "What Indonesian skewered meat dish is marinated and grilled?",
+      "answer": "Satay"
+    },
+    {
+      "level": 3,
+      "id": 83,
+      "category": "Beach Traditions",
+      "points": 300,
+      "question": "What word describes the meal eaten outdoors at the beach?",
+      "answer": "Al fresco"
+    },
+    {
+      "level": 3,
+      "id": 84,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What nut butter is made from ground peanuts?",
+      "answer": "Peanut butter"
+    },
+    {
+      "level": 3,
+      "id": 85,
+      "category": "Food Safety",
+      "points": 300,
+      "question": "What preservative is used to keep food fresh longer during picnics?",
+      "answer": "Salt"
+    },
+    {
+      "level": 3,
+      "id": 86,
+      "category": "Seaside Cuisine",
+      "points": 300,
+      "question": "What soft cheese spread is made from cream and herbs?",
+      "answer": "Boursin cheese"
+    },
+    {
+      "level": 3,
+      "id": 87,
+      "category": "Beach Snacks",
+      "points": 300,
+      "question": "What kernel popped in oil becomes fluffy and savory?",
+      "answer": "Popcorn kernel"
+    },
+    {
+      "level": 3,
+      "id": 88,
+      "category": "Beverages",
+      "points": 300,
+      "question": "What fermented vegetable juice is believed to have health benefits?",
+      "answer": "Vegetable juice"
+    },
+    {
+      "level": 3,
+      "id": 89,
+      "category": "Picnic Foods",
+      "points": 300,
+      "question": "What type of melon has orange flesh and is sweet?",
+      "answer": "Cantaloupe"
+    },
+    {
+      "level": 3,
+      "id": 90,
+      "category": "Beach Traditions",
+      "points": 300,
+      "question": "What is traditionally brought to a picnic to cover up a table?",
+      "answer": "Picnic blanket"
+    },
+    {
+      "level": 4,
+      "id": 91,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What Persian snack made from chickpea flour is fried and served with tea?",
+      "answer": "Falafel"
+    },
+    {
+      "level": 4,
+      "id": 92,
+      "category": "Picnic Foods",
+      "points": 400,
+      "question": "What Vietnamese sandwich contains pate, meats, and vegetables on a baguette?",
+      "answer": "Banh mi"
+    },
+    {
+      "level": 4,
+      "id": 93,
+      "category": "Beverages",
+      "points": 400,
+      "question": "What chilled alcoholic beverage made from wine and fruit is sometimes served at adult beach picnics?",
+      "answer": "Sangria"
+    },
+    {
+      "level": 4,
+      "id": 94,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What Middle Eastern flatbread with za'atar is perfect for picnics?",
+      "answer": "Manakish"
+    },
+    {
+      "level": 4,
+      "id": 95,
+      "category": "Picnic Foods",
+      "points": 400,
+      "question": "What Lebanese wrap filled with grilled meat and vegetables is portable?",
+      "answer": "Shawarma"
+    },
+    {
+      "level": 4,
+      "id": 96,
+      "category": "Beach Traditions",
+      "points": 400,
+      "question": "What activity involves collecting shells and treasures during a beach picnic?",
+      "answer": "Beachcombing"
+    },
+    {
+      "level": 4,
+      "id": 97,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What nuts are processed into a smooth butter and rich in omega-3s?",
+      "answer": "Almond butter"
+    },
+    {
+      "level": 4,
+      "id": 98,
+      "category": "Beverages",
+      "points": 400,
+      "question": "What cold-brewed tea concentrate is mixed with water or soda?",
+      "answer": "Liquid tea concentrate"
+    },
+    {
+      "level": 4,
+      "id": 99,
+      "category": "Picnic Foods",
+      "points": 400,
+      "question": "What Thai noodle dish served cold is perfect for beach picnics?",
+      "answer": "Pad thai"
+    },
+    {
+      "level": 4,
+      "id": 100,
+      "category": "Food Safety",
+      "points": 400,
+      "question": "What FDA guideline recommends discarding foods left in direct sunlight for more than this time?",
+      "answer": "Two hours (or one hour if above 90 degrees)"
+    },
+    {
+      "level": 4,
+      "id": 101,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What Spanish tapas made from fried potatoes and aioli is addictive?",
+      "answer": "Patatas bravas"
+    },
+    {
+      "level": 4,
+      "id": 102,
+      "category": "Seaside Cuisine",
+      "points": 400,
+      "question": "What type of ceviche is made from raw fish cured in citrus juice?",
+      "answer": "Peruvian ceviche"
+    },
+    {
+      "level": 4,
+      "id": 103,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What German soft pretzel with mustard is a classic beach snack?",
+      "answer": "Bretzel"
+    },
+    {
+      "level": 4,
+      "id": 104,
+      "category": "Beverages",
+      "points": 400,
+      "question": "What natural sports drink is the water inside a coconut?",
+      "answer": "Coconut water"
+    },
+    {
+      "level": 4,
+      "id": 105,
+      "category": "Picnic Foods",
+      "points": 400,
+      "question": "What Italian cold pasta with pesto sauce is served at beach picnics?",
+      "answer": "Pasta al pesto"
+    },
+    {
+      "level": 4,
+      "id": 106,
+      "category": "Beach Traditions",
+      "points": 400,
+      "question": "What sport is commonly played on the beach while eating nearby?",
+      "answer": "Volleyball"
+    },
+    {
+      "level": 4,
+      "id": 107,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What Korean fermented vegetable side dish pairs well with beach meals?",
+      "answer": "Kimchi"
+    },
+    {
+      "level": 4,
+      "id": 108,
+      "category": "Food Safety",
+      "points": 400,
+      "question": "What is the proper way to ensure food doesn't get contaminated at a beach picnic?",
+      "answer": "Use separate cutting boards and utensils"
+    },
+    {
+      "level": 4,
+      "id": 109,
+      "category": "Seaside Cuisine",
+      "points": 400,
+      "question": "What Indian sauce made from yogurt and spices pairs with grilled meats?",
+      "answer": "Raita"
+    },
+    {
+      "level": 4,
+      "id": 110,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What Middle Eastern breakfast pastry filled with cheese is baked until golden?",
+      "answer": "Borek"
+    },
+    {
+      "level": 4,
+      "id": 111,
+      "category": "Beverages",
+      "points": 400,
+      "question": "What traditional Spanish gazpacho variant is made with breadcrumbs and almonds?",
+      "answer": "Ajo blanco"
+    },
+    {
+      "level": 4,
+      "id": 112,
+      "category": "Picnic Foods",
+      "points": 400,
+      "question": "What Japanese rice ball filled with meat or fish is portable?",
+      "answer": "Onigiri"
+    },
+    {
+      "level": 4,
+      "id": 113,
+      "category": "Beach Traditions",
+      "points": 400,
+      "question": "What social media activity involves sharing photos of beach picnic food?",
+      "answer": "Food blogging"
+    },
+    {
+      "level": 4,
+      "id": 114,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What sweet treat made from honey and nuts is traditional in Middle Eastern cuisine?",
+      "answer": "Baklava"
+    },
+    {
+      "level": 4,
+      "id": 115,
+      "category": "Food Safety",
+      "points": 400,
+      "question": "What pathogenic bacteria thrives in warm, moist environments like beach picnic foods?",
+      "answer": "Salmonella"
+    },
+    {
+      "level": 4,
+      "id": 116,
+      "category": "Seaside Cuisine",
+      "points": 400,
+      "question": "What type of cold fish dish is cured with salt and sugar?",
+      "answer": "Ceviche"
+    },
+    {
+      "level": 4,
+      "id": 117,
+      "category": "Beach Snacks",
+      "points": 400,
+      "question": "What sweet Brazilian treat made from condensed milk is rolled in sprinkles?",
+      "answer": "Brigadeiro"
+    },
+    {
+      "level": 4,
+      "id": 118,
+      "category": "Beverages",
+      "points": 400,
+      "question": "What Brazilian fruit drink blended with ice is served at beach parties?",
+      "answer": "Acai bowl"
+    },
+    {
+      "level": 4,
+      "id": 119,
+      "category": "Picnic Foods",
+      "points": 400,
+      "question": "What Greek phyllo pastry filled with spinach and feta is baked until crispy?",
+      "answer": "Spanakopita"
+    },
+    {
+      "level": 4,
+      "id": 120,
+      "category": "Beach Traditions",
+      "points": 400,
+      "question": "What type of cooking method is used for beach picnics over open flames?",
+      "answer": "Grilling"
+    },
+    {
+      "level": 5,
+      "id": 121,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Turkish sweet made from chick pea flour and pistachio is cut into squares?",
+      "answer": "Manti"
+    },
+    {
+      "level": 5,
+      "id": 122,
+      "category": "Picnic Foods",
+      "points": 500,
+      "question": "What Nordic open-faced sandwich topped with smoked salmon and dill is elegant for picnics?",
+      "answer": "Smørrebrød"
+    },
+    {
+      "level": 5,
+      "id": 123,
+      "category": "Beverages",
+      "points": 500,
+      "question": "What fermented probiotic drink made from tea leaves and culture is increasingly popular at beach picnics?",
+      "answer": "Kombucha"
+    },
+    {
+      "level": 5,
+      "id": 124,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Sri Lankan chickpea flour snack is roasted with spices and formed into balls?",
+      "answer": "Laddoo"
+    },
+    {
+      "level": 5,
+      "id": 125,
+      "category": "Picnic Foods",
+      "points": 500,
+      "question": "What Moroccan preserved lemon adds a tangy flavor to beach picnic dishes?",
+      "answer": "Preserved lemon"
+    },
+    {
+      "level": 5,
+      "id": 126,
+      "category": "Beach Traditions",
+      "points": 500,
+      "question": "What romantic seaside picnic tradition involves champagne and strawberries?",
+      "answer": "Sunset dinner"
+    },
+    {
+      "level": 5,
+      "id": 127,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Portuguese custard tart with cinnamon is a beloved pastry?",
+      "answer": "Pasteis de Nata"
+    },
+    {
+      "level": 5,
+      "id": 128,
+      "category": "Beverages",
+      "points": 500,
+      "question": "What cold-pressed juice made from wheatgrass is a superfood beverage for health-conscious picnickers?",
+      "answer": "Wheatgrass juice"
+    },
+    {
+      "level": 5,
+      "id": 129,
+      "category": "Picnic Foods",
+      "points": 500,
+      "question": "What Vietnamese herb and vegetable-loaded spring roll is served cold with peanut sauce?",
+      "answer": "Fresh spring rolls"
+    },
+    {
+      "level": 5,
+      "id": 130,
+      "category": "Food Safety",
+      "points": 500,
+      "question": "What USDA guideline recommends the minimum internal temperature for grilled seafood at beach picnics?",
+      "answer": "145 degrees Fahrenheit"
+    },
+    {
+      "level": 5,
+      "id": 131,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Indian sweet made from milk solids and cardamom is rolled in pistachios?",
+      "answer": "Peda"
+    },
+    {
+      "level": 5,
+      "id": 132,
+      "category": "Seaside Cuisine",
+      "points": 500,
+      "question": "What Japanese fermented soybean paste is used in marinades for beach grilling?",
+      "answer": "Miso"
+    },
+    {
+      "level": 5,
+      "id": 133,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Indonesian spice paste made from chilies and garlic flavors grilled meats?",
+      "answer": "Sambal"
+    },
+    {
+      "level": 5,
+      "id": 134,
+      "category": "Beverages",
+      "points": 500,
+      "question": "What traditionally fermented ginger drink is carbonated and refreshing?",
+      "answer": "Ginger ale"
+    },
+    {
+      "level": 5,
+      "id": 135,
+      "category": "Picnic Foods",
+      "points": 500,
+      "question": "What Peruvian corn-based soup is hearty and nutritious for beach meals?",
+      "answer": "Chupe de camarones"
+    },
+    {
+      "level": 5,
+      "id": 136,
+      "category": "Beach Traditions",
+      "points": 500,
+      "question": "What culinary technique involves cooking food in a paper packet on the grill?",
+      "answer": "En papillote"
+    },
+    {
+      "level": 5,
+      "id": 137,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Middle Eastern soaked and boiled grain dish is served cold?",
+      "answer": "Kibbeh"
+    },
+    {
+      "level": 5,
+      "id": 138,
+      "category": "Food Safety",
+      "points": 500,
+      "question": "What is the critical control point for preventing bacterial growth in beach picnic foods?",
+      "answer": "Temperature control"
+    },
+    {
+      "level": 5,
+      "id": 139,
+      "category": "Seaside Cuisine",
+      "points": 500,
+      "question": "What Portuguese fish stew with saffron and white wine is perfect for coastal gatherings?",
+      "answer": "Caldeirada"
+    },
+    {
+      "level": 5,
+      "id": 140,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Thai dessert made from sticky rice and mango is served chilled?",
+      "answer": "Mango sticky rice"
+    },
+    {
+      "level": 5,
+      "id": 141,
+      "category": "Beverages",
+      "points": 500,
+      "question": "What French aperitif made with herbs is diluted with water and served as a social drink?",
+      "answer": "Pastis"
+    },
+    {
+      "level": 5,
+      "id": 142,
+      "category": "Picnic Foods",
+      "points": 500,
+      "question": "What Argentinian grilled meat tradition is central to beach barbecues?",
+      "answer": "Asado"
+    },
+    {
+      "level": 5,
+      "id": 143,
+      "category": "Beach Traditions",
+      "points": 500,
+      "question": "What Instagram-worthy food trend involves aesthetically arranging charcuterie boards at beach picnics?",
+      "answer": "Charcuterie board"
+    },
+    {
+      "level": 5,
+      "id": 144,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Greek sesame-seed cookie flavored with ouzo is a traditional pastry?",
+      "answer": "Kourabiedes"
+    },
+    {
+      "level": 5,
+      "id": 145,
+      "category": "Food Safety",
+      "points": 500,
+      "question": "What microorganism causes the majority of foodborne illnesses at outdoor beach events?",
+      "answer": "Staphylococcus aureus"
+    },
+    {
+      "level": 5,
+      "id": 146,
+      "category": "Seaside Cuisine",
+      "points": 500,
+      "question": "What Turkish yogurt-based sauce with cucumber and garlic complements grilled meats?",
+      "answer": "Tzatziki"
+    },
+    {
+      "level": 5,
+      "id": 147,
+      "category": "Beach Snacks",
+      "points": 500,
+      "question": "What Indian fried bread puffed up and served with chickpea curry is street food favorite?",
+      "answer": "Bhature"
+    },
+    {
+      "level": 5,
+      "id": 148,
+      "category": "Beverages",
+      "points": 500,
+      "question": "What South African rooibos tea served cold is caffeine-free and naturally sweet?",
+      "answer": "Rooibos tea"
+    },
+    {
+      "level": 5,
+      "id": 149,
+      "category": "Picnic Foods",
+      "points": 500,
+      "question": "What Filipino grilled meat skewers marinated in soy and vinegar are street food classics?",
+      "answer": "Inasal"
+    },
+    {
+      "level": 5,
+      "id": 150,
+      "category": "Beach Traditions",
+      "points": 500,
+      "question": "What type of gathering features a potluck-style beach meal where everyone brings a dish?",
+      "answer": "Potluck"
+    },
+    {
+      "level": 6,
+      "id": 151,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Korean fermented vegetable and fish side dish known as banchan is a beach picnic staple?",
+      "answer": "Kimchi jigae"
+    },
+    {
+      "level": 6,
+      "id": 152,
+      "category": "Picnic Foods",
+      "points": 600,
+      "question": "What Japanese omelet rolled with rice and topped with ketchup is called this name?",
+      "answer": "Omurice"
+    },
+    {
+      "level": 6,
+      "id": 153,
+      "category": "Beverages",
+      "points": 600,
+      "question": "What alkaline ionized water claimed to have health benefits is marketed at wellness beach events?",
+      "answer": "Alkaline water"
+    },
+    {
+      "level": 6,
+      "id": 154,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Palestinian olive oil cake with sumac is a staple in Levantine beach gatherings?",
+      "answer": "Manakish za'atar"
+    },
+    {
+      "level": 6,
+      "id": 155,
+      "category": "Picnic Foods",
+      "points": 600,
+      "question": "What Indonesian herb paste made from chili, garlic, and shrimp is called sambal terasi?",
+      "answer": "Sambal terasi"
+    },
+    {
+      "level": 6,
+      "id": 156,
+      "category": "Beach Traditions",
+      "points": 600,
+      "question": "What French culinary term describes the practice of sustainable fishing practices for beach picnics?",
+      "answer": "Terroir"
+    },
+    {
+      "level": 6,
+      "id": 157,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Spanish dessert made from tree milk and tiger nuts is called horchata?",
+      "answer": "Horchata"
+    },
+    {
+      "level": 6,
+      "id": 158,
+      "category": "Beverages",
+      "points": 600,
+      "question": "What Indian spiced yogurt drink called lassi aids in digestion during beach meals?",
+      "answer": "Lassi"
+    },
+    {
+      "level": 6,
+      "id": 159,
+      "category": "Picnic Foods",
+      "points": 600,
+      "question": "What Palestinian dish of grilled eggplant puree with tahini is called baba ghanoush?",
+      "answer": "Baba ghanoush"
+    },
+    {
+      "level": 6,
+      "id": 160,
+      "category": "Food Safety",
+      "points": 600,
+      "question": "What is the HACCP principle that ensures seafood safety in beach picnics?",
+      "answer": "Critical control points"
+    },
+    {
+      "level": 6,
+      "id": 161,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Chinese rice noodle rolls with shrimp called cheong fun are steamed and delicate?",
+      "answer": "Cheong fun"
+    },
+    {
+      "level": 6,
+      "id": 162,
+      "category": "Seaside Cuisine",
+      "points": 600,
+      "question": "What Provençal herb and vegetable tart made with anchovies is called pissaladière?",
+      "answer": "Pissaladière"
+    },
+    {
+      "level": 6,
+      "id": 163,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Lebanese layered semolina pudding with pistachios is called ma'amoul?",
+      "answer": "Ma'amoul"
+    },
+    {
+      "level": 6,
+      "id": 164,
+      "category": "Beverages",
+      "points": 600,
+      "question": "What Mexican hibiscus flower drink called agua de jamaica is served sweetened and chilled?",
+      "answer": "Agua de jamaica"
+    },
+    {
+      "level": 6,
+      "id": 165,
+      "category": "Picnic Foods",
+      "points": 600,
+      "question": "What Turkish eggplant dip made with yogurt and spices is called mutabal?",
+      "answer": "Mutabal"
+    },
+    {
+      "level": 6,
+      "id": 166,
+      "category": "Beach Traditions",
+      "points": 600,
+      "question": "What culinary methodology ensures sustainable seafood sourcing for ethical beach picnics?",
+      "answer": "Ocean wise"
+    },
+    {
+      "level": 6,
+      "id": 167,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Sicilian pasta salad with eggplant and capers is called pasta alla Norma?",
+      "answer": "Pasta alla Norma"
+    },
+    {
+      "level": 6,
+      "id": 168,
+      "category": "Food Safety",
+      "points": 600,
+      "question": "What EU food safety regulation governs the transport of perishable foods to beach events?",
+      "answer": "ATP Regulation"
+    },
+    {
+      "level": 6,
+      "id": 169,
+      "category": "Seaside Cuisine",
+      "points": 600,
+      "question": "What Basque fish stew called marmitako combines tuna and potatoes?",
+      "answer": "Marmitako"
+    },
+    {
+      "level": 6,
+      "id": 170,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Egyptian sweet made from phyllo, nuts, and honey is called basboosa?",
+      "answer": "Basboosa"
+    },
+    {
+      "level": 6,
+      "id": 171,
+      "category": "Beverages",
+      "points": 600,
+      "question": "What Caribbean coconut-based drink fermented from rice is called horchata de arroz?",
+      "answer": "Horchata de arroz"
+    },
+    {
+      "level": 6,
+      "id": 172,
+      "category": "Picnic Foods",
+      "points": 600,
+      "question": "What Spanish seafood paella with saffron rice is a festival beach dish?",
+      "answer": "Paella"
+    },
+    {
+      "level": 6,
+      "id": 173,
+      "category": "Beach Traditions",
+      "points": 600,
+      "question": "What gastronomic concept involves foraging edible plants for beach gathering ingredients?",
+      "answer": "Farm-to-table"
+    },
+    {
+      "level": 6,
+      "id": 174,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Turkish sesame seed brittle candy sweetened with honey is called helva?",
+      "answer": "Helva"
+    },
+    {
+      "level": 6,
+      "id": 175,
+      "category": "Food Safety",
+      "points": 600,
+      "question": "What temperature must frozen items remain at to prevent bacterial multiplication?",
+      "answer": "Zero degrees Fahrenheit or below"
+    },
+    {
+      "level": 6,
+      "id": 176,
+      "category": "Seaside Cuisine",
+      "points": 600,
+      "question": "What Italian seafood pasta with clams and white wine sauce is called alle vongole?",
+      "answer": "Spaghetti alle vongole"
+    },
+    {
+      "level": 6,
+      "id": 177,
+      "category": "Beach Snacks",
+      "points": 600,
+      "question": "What Vietnamese caramelized pork belly served with rice is called thit kho?",
+      "answer": "Thit kho"
+    },
+    {
+      "level": 6,
+      "id": 178,
+      "category": "Beverages",
+      "points": 600,
+      "question": "What cold Japanese barley tea called mugicha is naturally caffeine-free?",
+      "answer": "Mugicha"
+    },
+    {
+      "level": 6,
+      "id": 179,
+      "category": "Picnic Foods",
+      "points": 600,
+      "question": "What Lebanese flatbread with meat topping called lahmacun is cooked in a wood oven?",
+      "answer": "Lahmacun"
+    },
+    {
+      "level": 6,
+      "id": 180,
+      "category": "Beach Traditions",
+      "points": 600,
+      "question": "What modern culinary trend emphasizes locally-sourced ingredients for sustainable beach gatherings?",
+      "answer": "Locavorism"
+    }
+  ]
+}

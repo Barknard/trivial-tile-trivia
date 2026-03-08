@@ -1,0 +1,322 @@
+{
+  "category": "Birthday Cakes: Regular & CAH Style",
+  "theme": "birthday",
+  "category_id": "birthday_cake",
+  "research_basis": "Culinary arts, baking science, cake decorating techniques, flavor profiles, global cake traditions, modern cake culture, food chemistry",
+  "regular_clues": [
+    {
+      "clue": "This classic vanilla cake flavor is the most popular choice at birthday celebrations worldwide",
+      "correctQuestion": "What is vanilla cake?",
+      "value": 200
+    },
+    {
+      "clue": "This rich, dark cake flavor is made from ground cacao beans and cocoa powder",
+      "correctQuestion": "What is chocolate cake?",
+      "value": 200
+    },
+    {
+      "clue": "This layer between cake sections holds flavors like jam, cream, or frosting together",
+      "correctQuestion": "What is cake filling?",
+      "value": 200
+    },
+    {
+      "clue": "These small colorful spheres are sprinkled on top of frosting for texture and decoration",
+      "correctQuestion": "What are sprinkles?",
+      "value": 200
+    },
+    {
+      "clue": "This sweet topping made from butter and sugar creates the smooth coating on cakes",
+      "correctQuestion": "What is frosting (or icing)?",
+      "value": 200
+    },
+    {
+      "clue": "This spice adds warmth to carrot cakes and fall-themed birthday desserts",
+      "correctQuestion": "What is cinnamon?",
+      "value": 400
+    },
+    {
+      "clue": "This three-milk cake is a popular Latin American birthday tradition",
+      "correctQuestion": "What is tres leches cake?",
+      "value": 400
+    },
+    {
+      "clue": "This Italian cake contains candied fruits and is often served at celebrations",
+      "correctQuestion": "What is panettone?",
+      "value": 400
+    },
+    {
+      "clue": "This metal tool with a rotating base helps smooth frosting evenly on cakes",
+      "correctQuestion": "What is a cake turntable?",
+      "value": 400
+    },
+    {
+      "clue": "This ingredient makes cakes rise and become light and fluffy",
+      "correctQuestion": "What is baking powder (or baking soda)?",
+      "value": 400
+    },
+    {
+      "clue": "This layer cake has chocolate cake, chocolate frosting, and chocolate sprinkles throughout",
+      "correctQuestion": "What is a black forest cake?",
+      "value": 600
+    },
+    {
+      "clue": "This creamy Austrian cake combines hazelnuts with chocolate layers",
+      "correctQuestion": "What is a Dobostorte?",
+      "value": 600
+    },
+    {
+      "clue": "This technique creates rose shapes using a specialized piping tip and frosting",
+      "correctQuestion": "What is frosting piping?",
+      "value": 600
+    },
+    {
+      "clue": "This French pastry layer cake is made with almond flour and buttercream",
+      "correctQuestion": "What is a macaron?",
+      "value": 600
+    },
+    {
+      "clue": "This British sponge cake traditionally has jam and whipped cream between layers",
+      "correctQuestion": "What is a Victoria sponge?",
+      "value": 600
+    },
+    {
+      "clue": "These are edible flowers used to decorate premium birthday cakes with elegance",
+      "correctQuestion": "What are fondant flowers?",
+      "value": 800
+    },
+    {
+      "clue": "This temperature in Fahrenheit is ideal for baking most cake recipes",
+      "correctQuestion": "What is 350°F?",
+      "value": 800
+    },
+    {
+      "clue": "This chemical reaction in batter creates brown crust and complex flavors",
+      "correctQuestion": "What is the Maillard reaction?",
+      "value": 800
+    },
+    {
+      "clue": "This type of flour has lower protein content and creates tender, delicate cakes",
+      "correctQuestion": "What is cake flour?",
+      "value": 800
+    },
+    {
+      "clue": "This decorative icing paste is rolled flat and drapes smoothly over cakes",
+      "correctQuestion": "What is fondant?",
+      "value": 800
+    },
+    {
+      "clue": "This molecular gastronomy technique creates edible foam decorations on modern cakes",
+      "correctQuestion": "What is spherification?",
+      "value": 1000
+    },
+    {
+      "clue": "This protein in eggs enables the emulsification process in cake batters",
+      "correctQuestion": "What is lecithin?",
+      "value": 1000
+    },
+    {
+      "clue": "This chemical process occurs when sugar heats above 320°F in cake caramelization",
+      "correctQuestion": "What is sugar decomposition?",
+      "value": 1000
+    },
+    {
+      "clue": "This Russian layered cake alternates honey cake with buttercream frosting",
+      "correctQuestion": "What is medovik?",
+      "value": 1000
+    },
+    {
+      "clue": "This inverted cake becomes a decorative centerpiece when unmolded from its pan",
+      "correctQuestion": "What is an upside-down cake?",
+      "value": 1000
+    },
+    {
+      "clue": "This technique prevents crystallization in frosting by using corn syrup or honey",
+      "correctQuestion": "What is inversion?",
+      "value": 1000
+    },
+    {
+      "clue": "This water content percentage determines whether cakes stay moist or dry over time",
+      "correctQuestion": "What is 40-50% water activity?",
+      "value": 1000
+    },
+    {
+      "clue": "This polymorphic form of sugar in frosting affects its final crystalline structure",
+      "correctQuestion": "What is beta crystal formation?",
+      "value": 1000
+    },
+    {
+      "clue": "This starch retrogradation process causes cakes to stale and harden over several days",
+      "correctQuestion": "What is amylopectin recrystallization?",
+      "value": 1000
+    },
+    {
+      "clue": "This colloidal chemistry principle creates stable, creamy cake emulsions",
+      "correctQuestion": "What is foam stabilization by proteins?",
+      "value": 1000
+    }
+  ],
+  "cah_clues": [
+    {
+      "clue": "What your mom still brings to parties to prove she cares",
+      "correctQuestion": "What is a homemade birthday cake?",
+      "value": 200
+    },
+    {
+      "clue": "The thing that ruins every diet starting June through December",
+      "correctQuestion": "What is birthday cake season?",
+      "value": 200
+    },
+    {
+      "clue": "Why your kid's birthday cake looks nothing like Pinterest",
+      "correctQuestion": "What is lacking any actual baking skills?",
+      "value": 200
+    },
+    {
+      "clue": "The gas station cake alternative when you forgot someone's birthday",
+      "correctQuestion": "What is a Hostess cupcake?",
+      "value": 200
+    },
+    {
+      "clue": "What actually gets saved from the birthday cake before everyone eats it",
+      "correctQuestion": "What is a photo for Instagram?",
+      "value": 200
+    },
+    {
+      "clue": "The real reason fondant exists",
+      "correctQuestion": "What is to hide store-bought cake disasters?",
+      "value": 400
+    },
+    {
+      "clue": "Why your homemade cake turned into a leaning tower disaster",
+      "correctQuestion": "What is not checking oven temperature?",
+      "value": 400
+    },
+    {
+      "clue": "The TikTok trend that makes professional bakers weep",
+      "correctQuestion": "What is crushed Oreo and Nutella cake?",
+      "value": 400
+    },
+    {
+      "clue": "What millennials think makes them a pastry chef",
+      "correctQuestion": "What is drip frosting?",
+      "value": 400
+    },
+    {
+      "clue": "The ingredient that costs $8 and you use 1/8 teaspoon of",
+      "correctQuestion": "What is saffron (or edible gold)?",
+      "value": 400
+    },
+    {
+      "clue": "Why you're Googling 'how to fix broken cake' at 11pm",
+      "correctQuestion": "What is structural failure from too much buttercream?",
+      "value": 600
+    },
+    {
+      "clue": "The cake fail that gets three pounds of frosting slathered on top",
+      "correctQuestion": "What is collapsed middle from overmixing?",
+      "value": 600
+    },
+    {
+      "clue": "What your vegan friend expects that you're not ready to make",
+      "correctQuestion": "What is a plant-based, gluten-free, dairy-free, delicious cake?",
+      "value": 600
+    },
+    {
+      "clue": "The influencer cake hack that's actually just regular baking",
+      "correctQuestion": "What is buttermilk instead of milk?",
+      "value": 600
+    },
+    {
+      "clue": "The decorating tool that costs $200 and you use once",
+      "correctQuestion": "What is a professional cake turntable?",
+      "value": 600
+    },
+    {
+      "clue": "Why nobody remembers cake flavor but remembers the decoration disaster",
+      "correctQuestion": "What is that it collapsed and spelled 'Happy Birthay'?",
+      "value": 800
+    },
+    {
+      "clue": "The most expensive component of a homemade birthday cake at any grocery store",
+      "correctQuestion": "What is the box mix you're pretending is homemade?",
+      "value": 800
+    },
+    {
+      "clue": "What nobody tells you about making your own cake decorations",
+      "correctQuestion": "What is that it takes 6 hours for 5 minutes of eating?",
+      "value": 800
+    },
+    {
+      "clue": "The thing you spend three hours making but everyone's already on dessert",
+      "correctQuestion": "What is delicate fondant sculpture?",
+      "value": 800
+    },
+    {
+      "clue": "The professional cake tool you substitute with a butter knife",
+      "correctQuestion": "What is a cake leveler?",
+      "value": 800
+    },
+    {
+      "clue": "Why the $80 cake from Instagram is actually a $20 box mix and surgical glue",
+      "correctQuestion": "What is fake Instagram cake culture?",
+      "value": 1000
+    },
+    {
+      "clue": "The reason your buttercream tastes like a salty desk",
+      "correctQuestion": "What is accidentally using a whole pound of butter instead of one stick?",
+      "value": 1000
+    },
+    {
+      "clue": "What actually makes people cry at a birthday party",
+      "correctQuestion": "What is realizing cake has pineapple in it?",
+      "value": 1000
+    },
+    {
+      "clue": "The decorator's worst nightmare made flesh and sugar",
+      "correctQuestion": "What is warm frosting sliding off in chunks?",
+      "value": 1000
+    },
+    {
+      "clue": "Why your cake tastes like sadness and flour",
+      "correctQuestion": "What is following a recipe from someone who's never actually baked?",
+      "value": 1000
+    },
+    {
+      "clue": "The reason you're Googling 'can you bake a cake in a toaster oven'",
+      "correctQuestion": "What is desperation at 10pm?",
+      "value": 1000
+    },
+    {
+      "clue": "What makes anyone think they're a baker after one TikTok video",
+      "correctQuestion": "What is liquid nitrogen dry ice cake?",
+      "value": 1000
+    },
+    {
+      "clue": "The food coloring disaster that now looks like a surgical injury",
+      "correctQuestion": "What is adding too much red and hoping nobody notices?",
+      "value": 1000
+    },
+    {
+      "clue": "The real reason cake photos are always angled weirdly on Instagram",
+      "correctQuestion": "What is hiding the lumpy side that collapsed?",
+      "value": 1000
+    },
+    {
+      "clue": "What ends relationships faster than infidelity at a birthday party",
+      "correctQuestion": "What is using store-bought frosting and passing it off as homemade?",
+      "value": 1000
+    }
+  ],
+  "metadata": {
+    "total_questions": 60,
+    "regular_questions": 30,
+    "cah_questions": 30,
+    "research_alignment": "Culinary arts, baking science, cake decorating techniques, flavor profiles and combinations, global cake traditions, food chemistry (Maillard reaction, emulsification, crystallization), molecular gastronomy, modern food culture and social media trends",
+    "format_compliance": 1.0,
+    "coverage_details": {
+      "regular_clues": "Traditional cake flavors (vanilla, chocolate), international cake styles (tres leches, Black Forest, Victoria sponge), baking equipment and tools, decorating techniques, chemistry of baking reactions, fondant and frosting science, ingredient functions, classic cake traditions",
+      "cah_clues": "Modern baking culture, social media cake trends, homemade vs store-bought comparisons, baker failures and disasters, expensive specialty ingredients, TikTok culture, Instagram-worthy cakes, millennial baking stereotypes, budget cake hacks, relationship humor around baking expectations"
+    },
+    "style_notes": "CAH clues follow the style guide: short, punchy setups with unexpected payoffs, mainstream cultural references (Instagram, TikTok, Hostess snacks), relatable humor about baking failures and social expectations, dark comedy about food culture and effort vs. reality, avoiding obscure references and academic jargon"
+  }
+}

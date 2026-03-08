@@ -1,0 +1,1732 @@
+{
+  "category": "Modern Christmas",
+  "category_id": "christmas_tech",
+  "description": "Online shopping, streaming movies, technology, and modern trends",
+  "total_questions": 180,
+  "audiences": {
+    "teenagers": 36,
+    "adults": 36,
+    "all_ages": 108
+  },
+  "questions": [
+    {
+      "id": "cm_teen_001",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This e-commerce giant's boxes appear on millions of doorsteps during the holiday season",
+      "answer": "Amazon",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_002",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "Netflix's 2018 rom-com about a Christmas prince became a streaming holiday favorite for this royal romance",
+      "answer": "A Christmas Prince",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_003",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This video-sharing platform is where many teens watch Christmas music videos and holiday vlogs",
+      "answer": "YouTube",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_004",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This social media app with a dancing logo goes viral with Christmas challenge videos every December",
+      "answer": "TikTok",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_005",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "Apple's wireless earbuds are a popular tech gift item, known by this three-letter name",
+      "answer": "AirPods",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_006",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This streaming service features 'Stranger Things' holiday episodes and 'The Christmas Chronicles'",
+      "answer": "Netflix",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_007",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "Cyber Monday falls on this day relative to Thanksgiving",
+      "answer": "The Monday after Thanksgiving",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_008",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "This gaming console by Sony is a top holiday wish list item, now in its 5th generation",
+      "answer": "PlayStation",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_009",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "Instagram users post holiday photos with this symbol followed by words like ChristmasVibes or HolidayCheer",
+      "answer": "Hashtag (or #)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_010",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "Disney+ released this Star Wars series featuring Grogu that became a holiday streaming hit",
+      "answer": "The Mandalorian",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_011",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "This Nintendo console, available in regular or Lite versions, is a perennial Christmas bestseller",
+      "answer": "Nintendo Switch",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_012",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "Spotify users create these personalized collections of Christmas songs to share with friends",
+      "answer": "Playlists",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_013",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This payment app, owned by PayPal, is popular for sending holiday gift money to friends and family",
+      "answer": "Venmo",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_014",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "Hulu's 2019 film 'Happiest Season' became notable as the first major Christmas rom-com with this type of lead couple",
+      "answer": "LGBTQ+ (or lesbian)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_015",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This Apple product line lets you track lost Christmas gifts using a network of nearby devices",
+      "answer": "AirTag",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_016",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This K-pop group's Christmas covers and holiday content trends annually on social media",
+      "answer": "BTS (accept specific K-pop groups)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_017",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This VR headset brand by Meta is a popular gift for immersive gaming experiences",
+      "answer": "Oculus (or Meta Quest)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_018",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This streaming platform's 'Heartstopper' Christmas special won over teen audiences in 2023",
+      "answer": "Netflix",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_019",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This photo-sharing app owned by Meta lets users post holiday stories that disappear after 24 hours",
+      "answer": "Instagram",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_020",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This e-gift card type can be instantly sent via email or text for last-minute Christmas gifts",
+      "answer": "Digital gift card (or e-gift card)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_021",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "Discord users join these organized groups to participate in Christmas-themed gaming events",
+      "answer": "Servers",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_022",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This streaming music service offers a free version with ads and a premium subscription",
+      "answer": "Spotify",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_023",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "This Microsoft gaming console, now in its Series X/S generation, competes with PlayStation",
+      "answer": "Xbox",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_024",
+      "audience": "teenagers",
+      "difficulty": "easy",
+      "question": "Snapchat users send these festive decorated photos that disappear after viewing",
+      "answer": "Snaps",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_025",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "This Amazon voice assistant can play Christmas music, set timers for baking, and add items to shopping lists",
+      "answer": "Alexa",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_026",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "This popular video game features seasonal Christmas skins and events in its battle royale mode",
+      "answer": "Fortnite",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_027",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "Apple's wireless charging case for AirPods uses this charging technology also found in newer iPhones",
+      "answer": "MagSafe (or wireless charging)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_028",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "This short-form video platform was where the 'Elf on the Shelf' trend went viral with creative scenarios",
+      "answer": "TikTok",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_029",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "This feature on many streaming services lets you download Christmas movies to watch offline during travel",
+      "answer": "Download (or offline viewing)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_030",
+      "audience": "teenagers",
+      "difficulty": "medium",
+      "question": "This Google smart speaker line competes with Amazon Echo for holiday gift supremacy",
+      "answer": "Google Nest (or Google Home)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_031",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This subscription service gives gamers access to hundreds of games for a monthly fee on Xbox and PC",
+      "answer": "Xbox Game Pass",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_032",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This Chinese-owned shopping app known for ultra-low prices sees holiday shopping surges despite shipping delays",
+      "answer": "Temu (or Shein)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_033",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This Apple TV+ series starring Jason Sudeikis released a Christmas special episode in 2021",
+      "answer": "Ted Lasso",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_034",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This feature on Amazon allows customers to create public wish lists that friends and family can purchase from",
+      "answer": "Amazon Wish List (or Registry)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_035",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This smart home device brand by Philips creates customizable colored lighting for Christmas decorations",
+      "answer": "Hue (or Philips Hue)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_teen_036",
+      "audience": "teenagers",
+      "difficulty": "hard",
+      "question": "This gaming platform by Valve sees massive Christmas sales with discounts up to 90% off",
+      "answer": "Steam",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_001",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This subscription service from Amazon includes free shipping, streaming video, and music for $139 annually",
+      "answer": "Amazon Prime",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_002",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This Apple tablet is frequently purchased as a Christmas gift for reading, browsing, and entertainment",
+      "answer": "iPad",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_003",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This home security camera company owned by Amazon lets you monitor your porch for package deliveries",
+      "answer": "Ring",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_004",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This streaming device by Roku or Amazon plugs into your TV to access Netflix, Hulu, and other services",
+      "answer": "Streaming stick (or Fire Stick or Roku)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_005",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This payment service by Apple lets iPhone users make contactless purchases at stores during holiday shopping",
+      "answer": "Apple Pay",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_006",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This e-commerce site founded by Pierre Omidyar allows users to bid on Christmas gifts in online auctions",
+      "answer": "eBay",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_007",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This smart doorbell company was acquired by Amazon in 2018 for over $1 billion",
+      "answer": "Ring",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_008",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This Costco rival requires membership and offers online holiday shopping with bulk discounts",
+      "answer": "Sam's Club (or BJ's Wholesale)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_009",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This Nest product learns your heating preferences and can be controlled remotely during winter holidays",
+      "answer": "Nest Thermostat",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_010",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This streaming service costs $7.99/month with ads or $17.99 without, featuring Disney, Pixar, and Marvel content",
+      "answer": "Disney Plus (or Disney+)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_011",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This robot vacuum brand by iRobot is a popular gift that cleans floors automatically",
+      "answer": "Roomba",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_012",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This online payment platform founded by Elon Musk is commonly used for holiday purchases and money transfers",
+      "answer": "PayPal",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_013",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This smart lock brand allows keyless entry and can be controlled via smartphone app",
+      "answer": "August (or Schlage or Yale)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_014",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This meal kit delivery service offers holiday-themed recipes and is a popular gift subscription",
+      "answer": "HelloFresh (or Blue Apron)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_015",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This HBO streaming platform launched in 2020, replacing HBO Go and HBO Now",
+      "answer": "HBO Max (or Max)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_016",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This grocery delivery service owned by Instacart partners with stores like Kroger and Costco for holiday shopping",
+      "answer": "Instacart",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_017",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This Amazon delivery service guarantees orders arrive the same day in select metro areas",
+      "answer": "Amazon Same-Day Delivery",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_018",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This premium Apple subscription bundles Music, TV+, Arcade, iCloud, and News+ for one monthly price",
+      "answer": "Apple One",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_019",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This Walmart service competes with Amazon Prime, offering free shipping and streaming for $98 annually",
+      "answer": "Walmart+ (or Walmart Plus)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_020",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This wearable fitness tracker brand owned by Google monitors steps, heart rate, and sleep",
+      "answer": "Fitbit",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_021",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This e-reader by Amazon lets users purchase and read thousands of books digitally",
+      "answer": "Kindle",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_022",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This Target service offers same-day delivery for online holiday orders in select areas",
+      "answer": "Shipt (or Target same-day delivery)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_023",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This Apple smartwatch tracks fitness and health metrics, now in its Series 9",
+      "answer": "Apple Watch",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_024",
+      "audience": "adults",
+      "difficulty": "easy",
+      "question": "This video conferencing platform became essential for virtual holiday gatherings during the pandemic",
+      "answer": "Zoom",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_025",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This smart display by Amazon combines Alexa voice control with a touchscreen for video calls and recipes",
+      "answer": "Echo Show",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_026",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This subscription box service delivers curated products monthly and makes popular gift subscriptions",
+      "answer": "Birchbox (or FabFitFun or similar)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_027",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This Peloton product offers live and on-demand cycling classes at home for $1,445",
+      "answer": "Peloton Bike",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_028",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This premium credit card by Chase offers 5x points on travel booked through their portal during holiday trips",
+      "answer": "Chase Sapphire Reserve (or Preferred)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_029",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This cloud storage service by Google offers 15GB free and is used to backup Christmas photos and videos",
+      "answer": "Google Drive (or Google Photos)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_030",
+      "audience": "adults",
+      "difficulty": "medium",
+      "question": "This espresso machine brand by DeLonghi or Nespresso is a luxury holiday gift for coffee lovers",
+      "answer": "Nespresso (or DeLonghi)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_031",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This luxury mattress brand ships compressed in a box and offers a 100-night trial period",
+      "answer": "Casper (or Purple or Tuft & Needle)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_032",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This password manager service securely stores login credentials and is recommended for online shopping safety",
+      "answer": "LastPass (or 1Password or Dashlane)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_033",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This buy-now-pay-later service lets shoppers split purchases into 4 interest-free payments",
+      "answer": "Afterpay (or Klarna or Affirm)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_034",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This smart home hub by Samsung connects and controls compatible IoT devices from one app",
+      "answer": "SmartThings",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_035",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This virtual private network service protects online shopping data on public WiFi during holiday travel",
+      "answer": "VPN (accept specific brands like NordVPN, ExpressVPN)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_adult_036",
+      "audience": "adults",
+      "difficulty": "hard",
+      "question": "This premium streaming service from NBCUniversal launched in 2020 with Peacock branding",
+      "answer": "Peacock",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_001",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This shopping holiday occurs on the Friday after Thanksgiving and marks the start of Christmas shopping season",
+      "answer": "Black Friday",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_002",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This red and white streaming service logo is synonymous with binge-watching Christmas movies",
+      "answer": "Netflix",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_003",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This online marketplace founded by Jeff Bezos in 1994 dominates holiday shopping",
+      "answer": "Amazon",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_004",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This smartphone brand with a bitten fruit logo releases new models just in time for holiday shopping",
+      "answer": "Apple",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_005",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This mobile payment app lets you send Christmas gift money using just someone's username",
+      "answer": "Venmo (or Cash App or Zelle)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_006",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This Google-owned video platform hosts millions of Christmas music videos and holiday tutorials",
+      "answer": "YouTube",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_007",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This wireless internet technology must be strong enough to stream Christmas movies without buffering",
+      "answer": "WiFi",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_008",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This social media platform owned by Meta is where families share Christmas morning photos",
+      "answer": "Facebook",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_009",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This Swedish music streaming service offers millions of Christmas songs and holiday playlists",
+      "answer": "Spotify",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_010",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This QR-like square code can be scanned to quickly send someone to a Christmas wish list or website",
+      "answer": "QR code",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_011",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This Amazon smart speaker can answer questions, play music, and control smart Christmas lights",
+      "answer": "Echo (or Alexa)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_012",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This four-letter abbreviation describes TV picture quality that's sharper than standard HD",
+      "answer": "4K (or UHD)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_013",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This emoji of wrapped gift with a bow is commonly used in Christmas text messages",
+      "answer": "Gift emoji (or present emoji)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_014",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This type of camera on doorbells and porches helps catch package thieves during the holidays",
+      "answer": "Security camera (or doorbell camera)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_015",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This streaming device shaped like a stick plugs into your TV's HDMI port to watch holiday content",
+      "answer": "Streaming stick (or Fire Stick or Roku Stick)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_016",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This battery technology allows wireless charging of phones and earbuds as Christmas gifts",
+      "answer": "Lithium-ion (or wireless charging)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_017",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This type of card with a barcode or magnetic strip stores digital money for gift-giving",
+      "answer": "Gift card",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_018",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This cloud storage by Apple automatically backs up Christmas photos from iPhones",
+      "answer": "iCloud",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_019",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This online shopping term describes items that ship free without minimum purchase requirements",
+      "answer": "Free shipping",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_020",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Netflix Christmas film series stars Vanessa Hudgens playing multiple lookalike characters",
+      "answer": "The Princess Switch",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_021",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This contactless payment technology uses near-field communication to tap your phone at checkout",
+      "answer": "NFC (or tap to pay)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_022",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Disney+ holiday series features the Guardians of the Galaxy and aired in 2022",
+      "answer": "The Guardians of the Galaxy Holiday Special",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_023",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Amazon delivery option leaves packages inside your garage using smart technology",
+      "answer": "Amazon Key (or In-Garage Delivery)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_024",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Nintendo game features seasonal Christmas events and decorations for your island",
+      "answer": "Animal Crossing (or Animal Crossing: New Horizons)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_025",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This feature lets Netflix users create separate profiles for different family members during the holidays",
+      "answer": "User profiles (or profiles)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_026",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This type of online fraud involves fake emails pretending to be from retailers during Christmas shopping",
+      "answer": "Phishing",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_027",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Google Assistant device competes with Alexa and can manage smart Christmas decorations",
+      "answer": "Google Home (or Google Nest)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_028",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This format allows movies to be rented or purchased permanently through services like iTunes or Vudu",
+      "answer": "Digital download (or digital purchase)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_029",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This LED Christmas light technology can be controlled by smartphone apps to change colors",
+      "answer": "Smart lights (or smart LED lights)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_030",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Kurt Russell Netflix film about Santa Claus spawned a sequel in 2020",
+      "answer": "The Christmas Chronicles",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_031",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This e-commerce term describes the percentage of shoppers who complete their purchase without abandoning carts",
+      "answer": "Conversion rate",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_032",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This type of Christmas tree has built-in LED lights and can be controlled remotely",
+      "answer": "Smart Christmas tree (or pre-lit smart tree)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_033",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This online video chat service owned by Microsoft connects families for virtual Christmas celebrations",
+      "answer": "Skype (or Microsoft Teams)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_034",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Amazon program offers exclusive deals and early access to holiday sales for members",
+      "answer": "Prime (or Amazon Prime)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_035",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This tracking technology allows customers to see exactly where their Christmas packages are in real-time",
+      "answer": "Package tracking (or GPS tracking)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_036",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Will Ferrell Christmas comedy became a cultural phenomenon and streams annually on multiple platforms",
+      "answer": "Elf",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_037",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This 2004 animated film about a train to the North Pole uses motion-capture technology",
+      "answer": "The Polar Express",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_038",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This blockchain-based digital currency has been considered for tech-savvy Christmas gifts despite volatility",
+      "answer": "Bitcoin (or cryptocurrency)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_039",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This markup language is used to structure data in product feeds for online Christmas shopping catalogs",
+      "answer": "XML (or JSON)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_040",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This Amazon service delivers packages via autonomous flying vehicles, still in testing phase",
+      "answer": "Amazon Prime Air (or drone delivery)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_041",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This 2015 film starring Anna Kendrick features a Christmas rom-com influencer plot device",
+      "answer": "Noelle (or Last Christmas)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_042",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This augmented reality feature lets shoppers visualize furniture and decorations in their homes before purchasing",
+      "answer": "AR (or augmented reality viewing)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_043",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This algorithm type powers recommendation engines that suggest Christmas gifts based on browsing history",
+      "answer": "Machine learning (or AI recommendation algorithm)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_044",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This subscription model delivers curated Christmas gifts monthly and became popular during pandemic isolation",
+      "answer": "Subscription box",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_045",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This two-factor security method protects online shopping accounts by sending codes to your phone",
+      "answer": "Two-factor authentication (or 2FA)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_046",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This Apple holiday ad from 2018 featured a teenager making a heartwarming family video using iPhone",
+      "answer": "Share Your Gifts",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_047",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This protocol ensures secure encrypted connections when shopping online, indicated by a padlock icon",
+      "answer": "HTTPS (or SSL/TLS)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_048",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This inventory management technique ensures popular Christmas items are restocked based on real-time demand",
+      "answer": "Just-in-time inventory (or JIT)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_049",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This three-letter file format is commonly used for digital photos shared during Christmas",
+      "answer": "JPG (or JPEG)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_050",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This laptop brand by Microsoft competes with MacBook and is popular for students during holidays",
+      "answer": "Surface",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_051",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This Bluetooth speaker by JBL or Bose is a popular portable gift for music lovers",
+      "answer": "Bluetooth speaker (accept JBL or Bose)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_052",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This Samsung smartphone line competes directly with iPhone for holiday market share",
+      "answer": "Galaxy",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_053",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This video calling feature on smartphones lets grandparents see grandchildren on Christmas morning",
+      "answer": "Video call (or FaceTime or video chat)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_054",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This abbreviation describes internet service fast enough to stream 4K Christmas movies without lag",
+      "answer": "Broadband (or high-speed internet)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_055",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This smart plug device lets you control Christmas lights remotely using voice commands or apps",
+      "answer": "Smart plug",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_056",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This online marketplace owned by Facebook allows local buying and selling of Christmas items",
+      "answer": "Facebook Marketplace",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_057",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This wireless headphone brand by Apple costs $549 and is a premium Christmas gift",
+      "answer": "AirPods Max",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_058",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This streaming device by Google connects to TVs via HDMI and is shaped like a hockey puck",
+      "answer": "Chromecast",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_059",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This feature on e-commerce sites remembers items you want to purchase later during the season",
+      "answer": "Wish list (or save for later)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_060",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This film format offers higher quality than Blu-ray and is abbreviated with three letters and one number",
+      "answer": "4K UHD (or Ultra HD)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_061",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Amazon event in July offers Christmas-in-July deals exclusively for Prime members",
+      "answer": "Prime Day",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_062",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This printer technology uses heat to transfer images onto mugs and t-shirts as personalized gifts",
+      "answer": "Sublimation printing (or heat transfer)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_063",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This instant photo printer by Polaroid or Fujifilm creates physical memories from smartphone pictures",
+      "answer": "Instant camera (or Instax or Polaroid)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_064",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This wireless technology standard replaced Bluetooth 4.0 and offers better range for holiday devices",
+      "answer": "Bluetooth 5.0 (or Bluetooth LE)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_065",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Apple service lets you share app subscriptions with family members for one combined price",
+      "answer": "Family Sharing",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_066",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Google product scans and digitizes old family photos to preserve Christmas memories",
+      "answer": "PhotoScan (or Google PhotoScan)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_067",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This supply chain strategy involves fulfilling online orders from nearby retail stores during the holidays",
+      "answer": "Ship from store (or distributed inventory)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_068",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This wireless charging standard by the Wireless Power Consortium works with iPhone and Android devices",
+      "answer": "Qi charging",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_069",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This Netflix algorithm determines which holiday thumbnails are shown to different users to maximize clicks",
+      "answer": "Personalization algorithm (or A/B testing)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_070",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This fulfillment model allows third-party sellers to use Amazon warehouses for storage and shipping",
+      "answer": "FBA (or Fulfillment by Amazon)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_071",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This dynamic pricing strategy adjusts product costs in real-time based on demand during Black Friday",
+      "answer": "Algorithmic pricing (or dynamic pricing)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_072",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This Apple chip architecture switched from Intel in 2020 and powers newer MacBooks given as gifts",
+      "answer": "M1 (or Apple Silicon or M-series)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_073",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This European consumer protection regulation requires online retailers to clearly display total costs including shipping",
+      "answer": "GDPR (or consumer protection laws)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_074",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This mesh network system by Eero or Google extends WiFi coverage for large homes during holiday gatherings",
+      "answer": "Mesh WiFi (or mesh network)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_075",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This API standard allows smart home devices from different manufacturers to work together on Christmas",
+      "answer": "Matter (or Thread)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_076",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This last-mile delivery optimization uses algorithms to plan the most efficient package delivery routes",
+      "answer": "Route optimization (or logistics algorithms)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_077",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This USB cable type with reversible connector is standard for newer Android phones and tablets",
+      "answer": "USB-C",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_078",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This portable battery pack charges phones and tablets on-the-go during holiday travel",
+      "answer": "Power bank (or portable charger)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_079",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This digital assistant by Apple responds to the wake phrase 'Hey' followed by this name",
+      "answer": "Siri",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_080",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This type of online coupon code is entered at checkout to receive holiday discounts",
+      "answer": "Promo code (or coupon code)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_081",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This social media platform limits posts to 280 characters for sharing quick Christmas updates",
+      "answer": "Twitter (or X)",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_082",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This screen technology offers better contrast than LCD and is found in premium smartphones and TVs",
+      "answer": "OLED",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_083",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Adobe software is the industry standard for editing family Christmas photos and removing red-eye",
+      "answer": "Photoshop",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_084",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This video format developed by Google offers better compression than traditional MP4 files",
+      "answer": "WebM (or VP9)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_085",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Nintendo character racing game is a popular holiday family activity, abbreviated as MK",
+      "answer": "Mario Kart",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_086",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This RFID technology in credit cards allows tap-to-pay transactions under $50 without PIN entry",
+      "answer": "Contactless payment (or NFC payment)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_087",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Microsoft office suite includes Word, Excel, and PowerPoint, often purchased for students at Christmas",
+      "answer": "Microsoft Office (or Office 365 or Microsoft 365)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_088",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This tablet by Amazon costs under $100 and is an affordable gift for reading and streaming",
+      "answer": "Fire Tablet",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_089",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This online privacy mode doesn't save browsing history when shopping for secret Christmas gifts",
+      "answer": "Incognito mode (or private browsing)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_090",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This drone brand by DJI is popular for aerial photography gifts, especially during holidays",
+      "answer": "DJI (or Mavic)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_091",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This video codec abbreviated H.265 offers better compression than H.264 for streaming movies",
+      "answer": "HEVC (or H.265)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_092",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This smart home standard by Amazon, Apple, and Google launched in 2022 to unify IoT devices",
+      "answer": "Matter",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_093",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This Sonos speaker system offers multi-room audio control perfect for Christmas party music",
+      "answer": "Sonos",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_094",
+      "audience": "all_ages",
+      "difficulty": "medium",
+      "question": "This feature on Ring doorbells stores recorded video clips in the cloud for later viewing",
+      "answer": "Cloud recording (or Ring Protect)",
+      "points": 400,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_095",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This 3D printing technology creates custom ornaments and gifts by depositing melted plastic layer by layer",
+      "answer": "FDM (or Fused Deposition Modeling)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_096",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This open-source media center software turns PCs into streaming entertainment systems for holidays",
+      "answer": "Kodi (or Plex)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_097",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This cloud gaming service by Microsoft lets players stream Xbox games without a console",
+      "answer": "Xbox Cloud Gaming (or xCloud)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_098",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This photography term describes the number of pixels in a camera sensor, affecting image quality for Christmas photos",
+      "answer": "Megapixels (or resolution)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_099",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This network protocol ensures quality of service for video streaming by prioritizing certain traffic types",
+      "answer": "QoS (or Quality of Service)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_100",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This encoding format for HDR video offers better color depth than standard dynamic range content",
+      "answer": "HDR10 (or Dolby Vision)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_101",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This Amazon warehouse automation system uses robots to bring shelves to human pickers during the holidays",
+      "answer": "Amazon Robotics (or Kiva robots)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_102",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This biometric security feature scans facial features to unlock phones containing Christmas shopping apps",
+      "answer": "Face ID (or facial recognition)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_103",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This compression algorithm reduces file sizes for faster downloads of Christmas movies and music",
+      "answer": "Compression codec (or lossy compression)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_104",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This satellite internet service by SpaceX promises high-speed connectivity in rural areas for streaming holidays",
+      "answer": "Starlink",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_105",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This DAC component converts digital audio files to analog signals for high-fidelity Christmas music listening",
+      "answer": "Digital-to-Analog Converter (or DAC)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_106",
+      "audience": "all_ages",
+      "difficulty": "hard",
+      "question": "This browser extension blocks ads and trackers while shopping online for Christmas gifts",
+      "answer": "Ad blocker (or uBlock Origin or Privacy Badger)",
+      "points": 600,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_107",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This video call platform by Apple uses blue and white branding and only works between Apple devices",
+      "answer": "FaceTime",
+      "points": 200,
+      "category": "christmas_tech"
+    },
+    {
+      "id": "cm_all_108",
+      "audience": "all_ages",
+      "difficulty": "easy",
+      "question": "This online rating system uses stars to help shoppers evaluate products before purchasing Christmas gifts",
+      "answer": "Star rating (or customer reviews)",
+      "points": 200,
+      "category": "christmas_tech"
+    }
+  ],
+  "no_humanity": [
+    {"clue": "Santa's real workshop location", "correctQuestion": "What is Amazon?", "value": 200},
+    {"clue": "War on Christmas headquarters", "correctQuestion": "What is Facebook?", "value": 200},
+    {"clue": "What ruined Christmas 2020", "correctQuestion": "What is COVID-19?", "value": 200},
+    {"clue": "Where kids watch Christmas movies", "correctQuestion": "What is Netflix?", "value": 200},
+    {"clue": "The 2015 War on Christmas battleground", "correctQuestion": "What is Starbucks?", "value": 200},
+    {"clue": "Rudolph's red nose diagnosis", "correctQuestion": "What is alcoholism?", "value": 200},
+    {"clue": "Where kids send wish lists now", "correctQuestion": "What is TikTok?", "value": 200},
+    {"clue": "How Santa fits down chimneys", "correctQuestion": "What is Ozempic?", "value": 200},
+    {"clue": "Mrs. Claus's new side hustle", "correctQuestion": "What is OnlyFans?", "value": 400},
+    {"clue": "Santa's December 26th gig job", "correctQuestion": "What is Uber?", "value": 400},
+    {"clue": "The toy store Amazon murdered", "correctQuestion": "What is Toys R Us?", "value": 400},
+    {"clue": "What elves actually want", "correctQuestion": "What is an iPhone?", "value": 400},
+    {"clue": "Elf on Shelf's real employer", "correctQuestion": "What is the NSA?", "value": 400},
+    {"clue": "Where you see your ex's spending", "correctQuestion": "What is Venmo?", "value": 400},
+    {"clue": "Worst replacement for Santa's sleigh", "correctQuestion": "What is Tesla?", "value": 400},
+    {"clue": "Christmas tree spy device", "correctQuestion": "What is Alexa?", "value": 400},
+    {"clue": "What Gen Z actually wants", "correctQuestion": "What is affordable rent?", "value": 600},
+    {"clue": "Why Santa only comes once yearly", "correctQuestion": "What is erectile dysfunction?", "value": 600},
+    {"clue": "Who defrosts every December", "correctQuestion": "Who is Mariah Carey?", "value": 600},
+    {"clue": "What replaced Christmas cards", "correctQuestion": "What is a group text?", "value": 600},
+    {"clue": "Topic that ruins Christmas dinner", "correctQuestion": "What is Trump?", "value": 600},
+    {"clue": "What kids leave Santa now", "correctQuestion": "What are edibles?", "value": 600},
+    {"clue": "Santa's Christmas Eve fuel source", "correctQuestion": "What is DoorDash?", "value": 600},
+    {"clue": "What killed mall Santa industry", "correctQuestion": "What is the sex offender registry?", "value": 800},
+    {"clue": "Where Mrs. Claus caught Santa swiping", "correctQuestion": "What is FarmersOnly.com?", "value": 800},
+    {"clue": "Other topic ruining Christmas dinner", "correctQuestion": "What is the COVID vaccine?", "value": 800},
+    {"clue": "What Santa's elves are unionizing for", "correctQuestion": "What are workers' rights?", "value": 800},
+    {"clue": "Santa's Uber rating", "correctQuestion": "What is 1 star?", "value": 800},
+    {"clue": "The real millennial Christmas miracle", "correctQuestion": "What is affordable housing?", "value": 800},
+    {"clue": "What killed the Christmas spirit", "correctQuestion": "What is capitalism?", "value": 800},
+    {"clue": "Christmas song about date rape", "correctQuestion": "What is Baby It's Cold Outside?", "value": 1000},
+    {"clue": "Buddy the Elf's diagnosis", "correctQuestion": "What is ADHD?", "value": 1000},
+    {"clue": "Christmas song playing in Hell", "correctQuestion": "What is Wonderful Christmastime?", "value": 1000},
+    {"clue": "What Die Hard is really about", "correctQuestion": "What is toxic masculinity?", "value": 1000},
+    {"clue": "How Hallmark movies solve racism", "correctQuestion": "What is a Christmas party?", "value": 1000},
+    {"clue": "Where moms spend $347 mindlessly", "correctQuestion": "What is Target?", "value": 1000}
+  ],
+  "metadata": {
+    "created": "2025-12-26",
+    "format": "jeopardy",
+    "difficulty_distribution": {
+      "easy": 60,
+      "medium": 72,
+      "hard": 48
+    },
+    "points_distribution": {
+      "200": 60,
+      "400": 72,
+      "600": 48
+    },
+    "themes": [
+      "Online shopping and e-commerce",
+      "Streaming services and digital content",
+      "Smart home technology",
+      "Social media and communication",
+      "Gaming and entertainment",
+      "Modern Christmas traditions",
+      "Digital payments and security",
+      "Holiday tech trends"
+    ],
+    "no_humanity_themes": [
+      "surveillance_state",
+      "consumer_tracking",
+      "holiday_dating",
+      "fake_happiness",
+      "dancing_for_likes",
+      "zoom_christmas",
+      "avoiding_family",
+      "onlyfans_holidays",
+      "wishlist_intimacy",
+      "content_performance",
+      "influencer_marketing",
+      "behavioral_tracking",
+      "livestream_shopping",
+      "content_commodification",
+      "parental_surveillance",
+      "unboxing_culture",
+      "purchase_profiling",
+      "performative_gifting",
+      "predictive_marketing",
+      "algorithmic_trends",
+      "logistics_surveillance",
+      "viewing_surveillance",
+      "dating_commodification",
+      "comparison_anxiety",
+      "voice_surveillance",
+      "influencer_unreality",
+      "shopping_integration",
+      "payment_tracking",
+      "manufactured_desire",
+      "beauty_filters",
+      "algorithmic_curation",
+      "intimacy_commodification",
+      "metrics_validation",
+      "algorithmic_virality",
+      "email_surveillance"
+    ]
+  }
+}

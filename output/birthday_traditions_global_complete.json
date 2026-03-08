@@ -1,0 +1,1106 @@
+{
+  "category": "Birthday Traditions Around the World",
+  "category_id": "birthday_traditions_global",
+  "theme": "birthday",
+  "research_basis": [
+    "Cultural anthropology",
+    "Comparative traditions",
+    "Multicultural education",
+    "Social-emotional learning (SEL)",
+    "Cultural competence",
+    "Empathy development",
+    "Ritual theory",
+    "Cross-cultural psychology"
+  ],
+  "total_questions": 180,
+  "questions_per_level": 36,
+  "point_values": [200, 400, 600, 800, 1000],
+  "audience_levels": {
+    "kids_4_under": {
+      "level_name": "Kids 4 and Under",
+      "focus": "Simple traditions (cake, candles, singing)",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "What do people put on a birthday cake and blow out?",
+          "answer": "Candles",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "What song do people sing when it's your birthday?",
+          "answer": "Happy Birthday",
+          "difficulty": "easy",
+          "cultural_context": "English-speaking countries"
+        },
+        {
+          "point_value": 200,
+          "question": "What do you make a wish and do before eating your birthday cake?",
+          "answer": "Blow out the candles",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "What sweet treat do people eat to celebrate your birthday?",
+          "answer": "Birthday cake",
+          "difficulty": "easy",
+          "cultural_context": "Global tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "What do you open on your birthday that has presents inside?",
+          "answer": "Presents or gifts",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "How many candles go on a 5-year-old's birthday cake?",
+          "answer": "Five",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "When you blow out birthday candles, what do you get to make?",
+          "answer": "A wish",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What color is often used to decorate for birthday parties?",
+          "answer": "Balloons (any color) or multiple colors",
+          "difficulty": "easy",
+          "cultural_context": "Global tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What do you wear on your head at a birthday party?",
+          "answer": "A party hat",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What do you break open to get candy inside at some birthday parties?",
+          "answer": "Piñata",
+          "difficulty": "easy",
+          "cultural_context": "Mexican tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What number do you turn when you have a birthday?",
+          "answer": "One year older (accept age number)",
+          "difficulty": "easy",
+          "cultural_context": "Universal tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What do people say to you on your birthday?",
+          "answer": "Happy Birthday",
+          "difficulty": "easy",
+          "cultural_context": "Global tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What flavor do many birthday cakes come in?",
+          "answer": "Chocolate or vanilla",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What do you use to serve cake to guests at a birthday party?",
+          "answer": "Plates",
+          "difficulty": "easy",
+          "cultural_context": "Global tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What sweet topping goes on top of a birthday cake?",
+          "answer": "Frosting or icing",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What do you get to blow into at some birthday parties?",
+          "answer": "Party horn or noisemaker",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What month has the most birthdays?",
+          "answer": "September",
+          "difficulty": "medium",
+          "cultural_context": "Statistical fact"
+        },
+        {
+          "point_value": 600,
+          "question": "What do people bring you on your birthday?",
+          "answer": "Gifts or presents",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What do you tie around a present for a birthday?",
+          "answer": "A ribbon or bow",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What do you eat with your fingers at a birthday party?",
+          "answer": "Cupcakes, cookies, candy, or ice cream",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What cold treat is popular at birthday parties?",
+          "answer": "Ice cream",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What do you wear that makes you look fancy for a birthday?",
+          "answer": "Nice clothes or a party dress",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What do balloons sometimes have written on them at birthday parties?",
+          "answer": "Happy Birthday",
+          "difficulty": "easy",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What do you count when the candles are being lit?",
+          "answer": "The candles",
+          "difficulty": "medium",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What do friends and family do when you blow out your candles?",
+          "answer": "Clap or cheer",
+          "difficulty": "medium",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What do you say when someone gives you a present?",
+          "answer": "Thank you",
+          "difficulty": "easy",
+          "cultural_context": "Universal tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What happens to birthday cake with ice cream on top if you wait too long?",
+          "answer": "It melts",
+          "difficulty": "easy",
+          "cultural_context": "Physical property"
+        },
+        {
+          "point_value": 1000,
+          "question": "What do you look for in the birthday cake?",
+          "answer": "The cake itself or your slice",
+          "difficulty": "medium",
+          "cultural_context": "Western tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "How many times do you blow on birthday candles?",
+          "answer": "Once (or one big blow)",
+          "difficulty": "medium",
+          "cultural_context": "Western tradition"
+        }
+      ]
+    },
+    "kids_10_under": {
+      "level_name": "Kids 10 and Under",
+      "focus": "Different country traditions (Mexico's piñata, Chinese longevity noodles)",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "In Mexico, what toy do you swing a stick at to get candy?",
+          "answer": "Piñata",
+          "difficulty": "easy",
+          "cultural_context": "Mexican tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "In China, what long noodles represent a long life?",
+          "answer": "Longevity noodles",
+          "difficulty": "medium",
+          "cultural_context": "Chinese tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "What country celebrates birthdays with piñatas?",
+          "answer": "Mexico",
+          "difficulty": "easy",
+          "cultural_context": "Mexican tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "What color wrapping paper might a Japanese birthday gift have?",
+          "answer": "White, red, or gold (avoid white/black)",
+          "difficulty": "medium",
+          "cultural_context": "Japanese tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "In Brazil, what do people throw at birthday celebrations?",
+          "answer": "Confetti or flour",
+          "difficulty": "medium",
+          "cultural_context": "Brazilian tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "What country has a tradition of eating seaweed soup on birthdays?",
+          "answer": "South Korea",
+          "difficulty": "medium",
+          "cultural_context": "Korean tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What is special about a piñata at a Mexican birthday?",
+          "answer": "It's filled with candy and gifts",
+          "difficulty": "easy",
+          "cultural_context": "Mexican tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "Why do Chinese people eat longevity noodles on birthdays?",
+          "answer": "Because they symbolize a long life",
+          "difficulty": "medium",
+          "cultural_context": "Chinese tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What Hindu tradition involves putting colored powder on someone's face?",
+          "answer": "Tilaka or tilak",
+          "difficulty": "medium",
+          "cultural_context": "Indian/Hindu tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "In Greece, what do people break on the birthday cake?",
+          "answer": "A coin",
+          "difficulty": "medium",
+          "cultural_context": "Greek tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What country has a tradition of giving red envelopes on birthdays?",
+          "answer": "China",
+          "difficulty": "medium",
+          "cultural_context": "Chinese tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What do people in some Asian countries avoid giving as gifts?",
+          "answer": "Clocks or umbrellas (they sound like bad words)",
+          "difficulty": "hard",
+          "cultural_context": "Asian cultural superstition"
+        },
+        {
+          "point_value": 600,
+          "question": "What Mexican birthday tradition involves a blindfold and a stick?",
+          "answer": "Piñata breaking",
+          "difficulty": "easy",
+          "cultural_context": "Mexican tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "In what country do people eat cake with matzah bread?",
+          "answer": "Israel or any Jewish community",
+          "difficulty": "hard",
+          "cultural_context": "Jewish tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What do people in Sweden put on birthday cakes instead of candles?",
+          "answer": "A flag",
+          "difficulty": "hard",
+          "cultural_context": "Swedish tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "In Russia, what often goes on a birthday cake to represent wishes?",
+          "answer": "A sparkler or fireworks",
+          "difficulty": "hard",
+          "cultural_context": "Russian tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What traditional drink is often served at German birthday parties?",
+          "answer": "Hot chocolate or Bowle (punch)",
+          "difficulty": "hard",
+          "cultural_context": "German tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "In Italy, what word means birthday cake?",
+          "answer": "Torta",
+          "difficulty": "hard",
+          "cultural_context": "Italian tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What is the name of the traditional Mexican birthday song?",
+          "answer": "Mañanitas",
+          "difficulty": "hard",
+          "cultural_context": "Mexican tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "In France, what treat is called a 'croquembouche'?",
+          "answer": "A tower of cream puffs",
+          "difficulty": "hard",
+          "cultural_context": "French tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What South African tradition involves roasting meat outside?",
+          "answer": "Braai",
+          "difficulty": "hard",
+          "cultural_context": "South African tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "In Poland, what is eaten to celebrate a birthday?",
+          "answer": "Sernik (cheesecake) or birthday obwarzanek",
+          "difficulty": "hard",
+          "cultural_context": "Polish tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "What country has a tradition of the birthday child being 'bumped'?",
+          "answer": "Great Britain or Ireland",
+          "difficulty": "hard",
+          "cultural_context": "British/Irish tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "In Turkey, what do people do with flour on the birthday person?",
+          "answer": "Throw it on their face",
+          "difficulty": "hard",
+          "cultural_context": "Turkish tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is the significance of the number 16 in Latin American quinceañera celebrations?",
+          "answer": "Coming of age for girls (or 15 is traditional)",
+          "difficulty": "hard",
+          "cultural_context": "Latin American tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "In Jewish tradition, what milestone birthday involves a ceremony called a Bar or Bat Mitzvah?",
+          "answer": "13th birthday",
+          "difficulty": "medium",
+          "cultural_context": "Jewish tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What Asian tradition involves wearing new clothes from head to toe on birthdays?",
+          "answer": "Vietnamese Tet or Lunar New Year tradition",
+          "difficulty": "hard",
+          "cultural_context": "Vietnamese tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "In Norway, what is placed on the birthday table to represent the person's age?",
+          "answer": "A ring of candles",
+          "difficulty": "hard",
+          "cultural_context": "Norwegian tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What country's birthday tradition includes throwing water or powder at the birthday person?",
+          "answer": "Thailand (Songkran) or Turkey",
+          "difficulty": "hard",
+          "cultural_context": "Asian tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "In Egypt, what sweet pastry is traditionally served at birthday celebrations?",
+          "answer": "Baklava or kunafa",
+          "difficulty": "hard",
+          "cultural_context": "Egyptian tradition"
+        }
+      ]
+    },
+    "teenagers": {
+      "level_name": "Teenagers",
+      "focus": "Cultural significance, historical origins",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "What is the historical origin of birthday cake?",
+          "answer": "Ancient Greece - offerings to Artemis with honey cakes and candles",
+          "difficulty": "medium",
+          "cultural_context": "Historical origin"
+        },
+        {
+          "point_value": 200,
+          "question": "When did the 'Happy Birthday' song become widely popular?",
+          "answer": "Early 1900s",
+          "difficulty": "medium",
+          "cultural_context": "Music history"
+        },
+        {
+          "point_value": 200,
+          "question": "What ancient civilization first celebrated individual birthdays?",
+          "answer": "Ancient Egypt",
+          "difficulty": "medium",
+          "cultural_context": "Historical context"
+        },
+        {
+          "point_value": 200,
+          "question": "Why do some cultures avoid celebrating birthdays before age 1?",
+          "answer": "High infant mortality rates historically made early birthdays risky",
+          "difficulty": "hard",
+          "cultural_context": "Cultural anthropology"
+        },
+        {
+          "point_value": 200,
+          "question": "What is the significance of a coming-of-age birthday in most cultures?",
+          "answer": "Transition from childhood to adulthood with new responsibilities",
+          "difficulty": "medium",
+          "cultural_context": "Cultural anthropology"
+        },
+        {
+          "point_value": 200,
+          "question": "In which century did birthday celebrations become common in Europe?",
+          "answer": "16th-18th century",
+          "difficulty": "hard",
+          "cultural_context": "Historical context"
+        },
+        {
+          "point_value": 400,
+          "question": "What is the Jewish Bar/Bat Mitzvah tradition meant to symbolize?",
+          "answer": "Becoming an adult member of the Jewish community",
+          "difficulty": "medium",
+          "cultural_context": "Religious tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "Why is the quinceañera celebration important in Latin American culture?",
+          "answer": "It marks a girl's transition to womanhood and her eligibility for marriage",
+          "difficulty": "medium",
+          "cultural_context": "Cultural tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What does the tradition of blowing out candles symbolize?",
+          "answer": "Purification and sending wishes to the gods (from ancient Greece)",
+          "difficulty": "medium",
+          "cultural_context": "Symbolic meaning"
+        },
+        {
+          "point_value": 400,
+          "question": "Why do some Asian cultures consider certain numbers unlucky for birthdays?",
+          "answer": "Homophone pronunciation with words meaning death or bad luck",
+          "difficulty": "hard",
+          "cultural_context": "Linguistic superstition"
+        },
+        {
+          "point_value": 400,
+          "question": "What is the cultural significance of the piñata in Mexican birthday traditions?",
+          "answer": "Originally represented the struggle between good and evil, now just celebration",
+          "difficulty": "hard",
+          "cultural_context": "Cultural origin"
+        },
+        {
+          "point_value": 400,
+          "question": "Which culture first associated birthday cakes with fertility and life?",
+          "answer": "Ancient Greece",
+          "difficulty": "hard",
+          "cultural_context": "Ancient tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What does the tradition of giving gifts on birthdays originally symbolize?",
+          "answer": "Wishes for good luck, prosperity, and protection",
+          "difficulty": "medium",
+          "cultural_context": "Symbolic meaning"
+        },
+        {
+          "point_value": 600,
+          "question": "How does the Chinese lunar calendar affect birthday celebrations in East Asia?",
+          "answer": "Birthdays are celebrated on traditional calendar dates, affecting dates by 3-4 weeks",
+          "difficulty": "hard",
+          "cultural_context": "Cultural-astronomical influence"
+        },
+        {
+          "point_value": 600,
+          "question": "What is the anthropological purpose of coming-of-age rituals in birthday traditions?",
+          "answer": "To mark social status changes and integrate individuals into adult society",
+          "difficulty": "hard",
+          "cultural_context": "Anthropological analysis"
+        },
+        {
+          "point_value": 600,
+          "question": "In Victorian England, what made birthday celebrations change?",
+          "answer": "Increased cake decorating abilities and industrial production",
+          "difficulty": "hard",
+          "cultural_context": "Historical development"
+        },
+        {
+          "point_value": 600,
+          "question": "What religious significance do some cultures assign to specific birth dates?",
+          "answer": "Alignment with saints' days, astrological signs, or lunar phases",
+          "difficulty": "hard",
+          "cultural_context": "Religious/spiritual tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "How did the printing and mass production of birthday cards change celebrations?",
+          "answer": "Made celebrations more accessible and standardized in Western cultures",
+          "difficulty": "hard",
+          "cultural_context": "Industrial/cultural development"
+        },
+        {
+          "point_value": 800,
+          "question": "What is the historical connection between Greek moon goddesses and birthday candles?",
+          "answer": "Moon cakes were offered to Artemis with candles on her birthday",
+          "difficulty": "hard",
+          "cultural_context": "Mythological origin"
+        },
+        {
+          "point_value": 800,
+          "question": "How does Confucian philosophy influence birthday age-counting in Korea?",
+          "answer": "Koreans traditionally count one year old at birth and add a year on New Year's",
+          "difficulty": "hard",
+          "cultural_context": "Philosophical/cultural influence"
+        },
+        {
+          "point_value": 800,
+          "question": "What is the significance of white-colored items being taboo in Japanese gift-giving?",
+          "answer": "White is associated with death and funerals in Japanese culture",
+          "difficulty": "hard",
+          "cultural_context": "Color symbolism"
+        },
+        {
+          "point_value": 800,
+          "question": "Why do some cultures traditionally avoid celebrating birthdays of infants?",
+          "answer": "Historical fear of evil spirits and curses on young children",
+          "difficulty": "hard",
+          "cultural_context": "Spiritual belief"
+        },
+        {
+          "point_value": 800,
+          "question": "What role did the Industrial Revolution play in standardizing birthday celebrations?",
+          "answer": "Enabled mass production of cakes, decorations, and goods for celebrations",
+          "difficulty": "hard",
+          "cultural_context": "Historical development"
+        },
+        {
+          "point_value": 800,
+          "question": "How do Islamic cultures approach birthday celebrations traditionally?",
+          "answer": "Some consider it un-Islamic, others celebrate Muhammad's birth (Mawlid)",
+          "difficulty": "hard",
+          "cultural_context": "Religious tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What anthropological theory explains the universal human need for age-marking rituals?",
+          "answer": "Rites of passage theory - marking transitions in social status and identity",
+          "difficulty": "hard",
+          "cultural_context": "Anthropological theory"
+        },
+        {
+          "point_value": 1000,
+          "question": "How does the concept of individualism affect birthday celebration patterns in Western vs. Eastern cultures?",
+          "answer": "Western cultures emphasize individual celebration; Eastern cultures focus on family/community",
+          "difficulty": "hard",
+          "cultural_context": "Cultural psychology"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is the relationship between birthday customs and fertility rituals in ancient cultures?",
+          "answer": "Celebrations connected to agricultural cycles, moon phases, and renewal of life",
+          "difficulty": "hard",
+          "cultural_context": "Ritualistic anthropology"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do secular societies redefine the spiritual significance of birthday rituals?",
+          "answer": "Transform them into secular coming-of-age markers and family/social bonding",
+          "difficulty": "hard",
+          "cultural_context": "Sociology/anthropology"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is the significance of numerology in birthday traditions across cultures?",
+          "answer": "Certain numbers associated with luck, destiny, and spiritual meaning",
+          "difficulty": "hard",
+          "cultural_context": "Belief system analysis"
+        },
+        {
+          "point_value": 1000,
+          "question": "How have globalization and modernization changed traditional birthday practices?",
+          "answer": "Blend of Western commercial practices with local traditions creating hybrid celebrations",
+          "difficulty": "hard",
+          "cultural_context": "Cultural globalization"
+        }
+      ]
+    },
+    "adults": {
+      "level_name": "Adults",
+      "focus": "Anthropological analysis, comparative cultural studies",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "What does Victor Turner's liminality concept explain about coming-of-age birthday rituals?",
+          "answer": "The threshold state between childhood and adulthood identities during transition rituals",
+          "difficulty": "hard",
+          "cultural_context": "Anthropological theory"
+        },
+        {
+          "point_value": 200,
+          "question": "How do birthday traditions function as mechanisms for social integration in Durkheim's theory?",
+          "answer": "They reinforce collective consciousness and group solidarity through shared ritual",
+          "difficulty": "hard",
+          "cultural_context": "Sociological theory"
+        },
+        {
+          "point_value": 200,
+          "question": "What anthropological concept describes the 'gift economy' aspect of birthday celebrations?",
+          "answer": "Reciprocal exchange and social obligation theory",
+          "difficulty": "hard",
+          "cultural_context": "Economic anthropology"
+        },
+        {
+          "point_value": 200,
+          "question": "How do evolutionary psychologists explain the human tendency to mark birthdays?",
+          "answer": "Age recognition aids in social hierarchy establishment and reproductive mate selection",
+          "difficulty": "hard",
+          "cultural_context": "Evolutionary psychology"
+        },
+        {
+          "point_value": 200,
+          "question": "What is the relationship between birthday rituals and cultural identity maintenance?",
+          "answer": "Rituals transmit cultural values and reinforce ethnic/religious group identity across generations",
+          "difficulty": "hard",
+          "cultural_context": "Cultural anthropology"
+        },
+        {
+          "point_value": 200,
+          "question": "How does Mary Douglas's 'purity and danger' framework apply to birthday gift-giving taboos?",
+          "answer": "Certain gifts considered 'polluting' or dangerous violate cultural boundaries",
+          "difficulty": "hard",
+          "cultural_context": "Symbolic anthropology"
+        },
+        {
+          "point_value": 400,
+          "question": "What does Arnold van Gennep's three-phase model explain about quinceañera ceremonies?",
+          "answer": "Separation (from childhood), liminality (ritual space), and incorporation (into adult society)",
+          "difficulty": "hard",
+          "cultural_context": "Ritual theory"
+        },
+        {
+          "point_value": 400,
+          "question": "How do Bourdieu's habitus concepts illuminate differential birthday celebration practices across class?",
+          "answer": "Class-based socialization produces distinct gift-giving, celebration scale, and consumption patterns",
+          "difficulty": "hard",
+          "cultural_context": "Sociological theory"
+        },
+        {
+          "point_value": 400,
+          "question": "What cross-cultural anthropological pattern explains the prevalence of food in birthday rituals?",
+          "answer": "Food represents abundance, fertility, and communal bonding across all cultures",
+          "difficulty": "hard",
+          "cultural_context": "Food anthropology"
+        },
+        {
+          "point_value": 400,
+          "question": "How does Geertz's 'thick description' methodology apply to analyzing birthday cake symbolism?",
+          "answer": "Examining multiple layers of meaning - nutrition, aesthetics, social status, and spirituality",
+          "difficulty": "hard",
+          "cultural_context": "Ethnographic methodology"
+        },
+        {
+          "point_value": 400,
+          "question": "What does the anthropological concept of 'code-switching' explain about hybrid birthday practices?",
+          "answer": "Individuals shift between cultural frameworks based on context in diaspora communities",
+          "difficulty": "hard",
+          "cultural_context": "Linguistic/cultural anthropology"
+        },
+        {
+          "point_value": 400,
+          "question": "How does cognitive anthropology explain number-based superstitions in Asian birthday traditions?",
+          "answer": "Phonetic homonyms create categorical associations linking numbers to destiny concepts",
+          "difficulty": "hard",
+          "cultural_context": "Cognitive anthropology"
+        },
+        {
+          "point_value": 600,
+          "question": "What does Lévi-Strauss's structuralism reveal about universal birthday ritual structures?",
+          "answer": "Binary oppositions (young/old, individual/group, sacred/profane) organize meaning",
+          "difficulty": "hard",
+          "cultural_context": "Structural anthropology"
+        },
+        {
+          "point_value": 600,
+          "question": "How does Nancy Munn's temporal anthropology illuminate age-counting variations across cultures?",
+          "answer": "Different cultures construct biographical time differently (lunar, astronomical, social)",
+          "difficulty": "hard",
+          "cultural_context": "Temporal anthropology"
+        },
+        {
+          "point_value": 600,
+          "question": "What comparative analysis explains why candles appear in unrelated European and Asian traditions?",
+          "answer": "Convergent cultural evolution - both associate flames with spirituality and life force",
+          "difficulty": "hard",
+          "cultural_context": "Comparative anthropology"
+        },
+        {
+          "point_value": 600,
+          "question": "How does Maurice Bloch's ritual theory explain why birthday ceremonies involve role reversals?",
+          "answer": "Ritual creates liminal space allowing temporary status inversion before social reintegration",
+          "difficulty": "hard",
+          "cultural_context": "Ritual theory"
+        },
+        {
+          "point_value": 600,
+          "question": "What does ethnographic research reveal about the commodification of birthday traditions globally?",
+          "answer": "Western commercial practices infiltrate local traditions while communities actively resist/adapt",
+          "difficulty": "hard",
+          "cultural_context": "Economic anthropology"
+        },
+        {
+          "point_value": 600,
+          "question": "How do practice theories (Ortner, Sahlins) explain cultural variation in birthday celebration intensity?",
+          "answer": "Human agency and historical contingency produce locally-specific interpretations of traditions",
+          "difficulty": "hard",
+          "cultural_context": "Practice theory"
+        },
+        {
+          "point_value": 800,
+          "question": "What does Erving Goffman's dramaturgy framework reveal about birthday party 'front stage/back stage' dynamics?",
+          "answer": "Performances differ between family/intimate groups versus public celebration contexts",
+          "difficulty": "hard",
+          "cultural_context": "Sociological theory"
+        },
+        {
+          "point_value": 800,
+          "question": "How does Pierre Bourdieu's cultural capital theory explain class-based differences in gift sophistication?",
+          "answer": "Higher cultural capital enables recognition of subtle status signals in gift choices",
+          "difficulty": "hard",
+          "cultural_context": "Sociological theory"
+        },
+        {
+          "point_value": 800,
+          "question": "What does phenomenological analysis reveal about the embodied experience of age milestone transitions?",
+          "answer": "Birthday rituals create embodied awareness of temporal passage and identity transformation",
+          "difficulty": "hard",
+          "cultural_context": "Phenomenological anthropology"
+        },
+        {
+          "point_value": 800,
+          "question": "How do biocultural anthropologists explain the intersection of biological development and birthday rituals?",
+          "answer": "Rituals mark neurological/physiological maturation thresholds with cultural significance",
+          "difficulty": "hard",
+          "cultural_context": "Biocultural anthropology"
+        },
+        {
+          "point_value": 800,
+          "question": "What comparative semiotics analysis explains the decoding of color symbolism in gift wrapping?",
+          "answer": "Colors function as sign systems with culture-specific meaning (white=death vs. purity)",
+          "difficulty": "hard",
+          "cultural_context": "Semiotic analysis"
+        },
+        {
+          "point_value": 800,
+          "question": "How do postcolonial theory frameworks explain Western-centric globalization of birthday practices?",
+          "answer": "Colonial legacies perpetuate Western celebration models as hegemonic norms",
+          "difficulty": "hard",
+          "cultural_context": "Postcolonial theory"
+        },
+        {
+          "point_value": 1000,
+          "question": "What multi-sited ethnography reveals about diasporic communities' birthday tradition negotiation?",
+          "answer": "Communities maintain heritage traditions while strategically adopting host culture practices",
+          "difficulty": "hard",
+          "cultural_context": "Contemporary ethnography"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do evolutionary mismatch theories explain anxiety around aging in societies with youth-celebrating birthdays?",
+          "answer": "Modern celebration of age conflicts with evolved preferences for youth indicators of fertility/status",
+          "difficulty": "hard",
+          "cultural_context": "Evolutionary anthropology"
+        },
+        {
+          "point_value": 1000,
+          "question": "What does institutional ethnography reveal about birthday traditions in bureaucratic age documentation?",
+          "answer": "Legal/administrative age determines resource allocation and social status independent of cultural age",
+          "difficulty": "hard",
+          "cultural_context": "Institutional ethnography"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do digital anthropologists analyze the transformation of birthday rituals through social media documentation?",
+          "answer": "Birthday celebrations become performative identity work for digital audiences with curated authenticity",
+          "difficulty": "hard",
+          "cultural_context": "Digital anthropology"
+        },
+        {
+          "point_value": 1000,
+          "question": "What comparative analysis shows about universal human vulnerability around aging and mortality?",
+          "answer": "Birthday rituals universally attempt to transcend temporal anxiety through community affirmation",
+          "difficulty": "hard",
+          "cultural_context": "Existential anthropology"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do biosocial frameworks integrate biology, culture, and individual agency in birthday tradition formation?",
+          "answer": "Traditions emerge from interaction of biological development, cultural meanings, and personal choices",
+          "difficulty": "hard",
+          "cultural_context": "Biosocial anthropology"
+        }
+      ]
+    },
+    "no_humanity": {
+      "level_name": "Research & Theory Level",
+      "focus": "Cross-cultural psychology research, ritual theory",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "What does meta-analysis of 47 cross-cultural studies reveal about universal age-marking practices?",
+          "answer": "All cultures mark age transitions but through culturally specific symbols and meanings",
+          "difficulty": "hard",
+          "cultural_context": "Meta-analytic research"
+        },
+        {
+          "point_value": 200,
+          "question": "How do neuro-imaging studies explain the psychological impact of birthday rituals on temporal consciousness?",
+          "answer": "Rituals activate memory consolidation and self-referential neural networks",
+          "difficulty": "hard",
+          "cultural_context": "Neuroscience research"
+        },
+        {
+          "point_value": 200,
+          "question": "What does longitudinal research show about the relationship between birthday celebrations and self-esteem development?",
+          "answer": "Public acknowledgment correlates with improved self-worth, mediated by cultural context",
+          "difficulty": "hard",
+          "cultural_context": "Developmental psychology"
+        },
+        {
+          "point_value": 200,
+          "question": "What cross-cultural psychology framework explains individualism-collectivism differences in birthday celebration scale?",
+          "answer": "Hofstede's dimensional framework predicts individual-focused vs. group-focused celebration patterns",
+          "difficulty": "hard",
+          "cultural_context": "Cross-cultural psychology"
+        },
+        {
+          "point_value": 200,
+          "question": "How do cognitive appraisal theories explain cultural variation in aging anxiety during birthdays?",
+          "answer": "Different cultures cognitively evaluate aging as either decline or maturation based on values",
+          "difficulty": "hard",
+          "cultural_context": "Cognitive psychology"
+        },
+        {
+          "point_value": 200,
+          "question": "What psychological mechanisms does terror management theory identify in age-milestone anxiety?",
+          "answer": "Mortality salience triggers defense mechanisms, with cultural practices mitigating existential dread",
+          "difficulty": "hard",
+          "cultural_context": "Existential psychology"
+        },
+        {
+          "point_value": 400,
+          "question": "How do attachment theory frameworks explain emotional significance of birthday family gatherings?",
+          "answer": "Secure attachment strengthened through predictable, emotionally-affirming ritual interactions",
+          "difficulty": "hard",
+          "cultural_context": "Attachment psychology"
+        },
+        {
+          "point_value": 400,
+          "question": "What does behavioral economics research reveal about gift-giving paradoxes in birthday contexts?",
+          "answer": "Givers often select gifts recipients would not choose, reducing utility despite good intentions",
+          "difficulty": "hard",
+          "cultural_context": "Behavioral economics"
+        },
+        {
+          "point_value": 400,
+          "question": "How do social network analysis studies map the relationship between birthday celebrations and social integration?",
+          "answer": "Network centrality correlates with celebration scale, reciprocal obligation networks",
+          "difficulty": "hard",
+          "cultural_context": "Social network research"
+        },
+        {
+          "point_value": 400,
+          "question": "What does cultural consensus analysis reveal about core vs. peripheral birthday tradition elements?",
+          "answer": "Cake and candles show 85%+ consensus; other elements vary by 30-50% across populations",
+          "difficulty": "hard",
+          "cultural_context": "Ethnographic consensus"
+        },
+        {
+          "point_value": 400,
+          "question": "How do psycholinguistic studies explain metaphorical language in birthday card discourse analysis?",
+          "answer": "Life-journey metaphors dominant; time treated as commodity in Western card language",
+          "difficulty": "hard",
+          "cultural_context": "Psycholinguistics"
+        },
+        {
+          "point_value": 400,
+          "question": "What experimental psychology research shows about ritual's effect on emotional wellbeing post-disruption?",
+          "answer": "Brief ritual participation restores psychological equilibrium after uncertainty or loss",
+          "difficulty": "hard",
+          "cultural_context": "Experimental psychology"
+        },
+        {
+          "point_value": 600,
+          "question": "How does temporal psychology research explain cyclical vs. linear birthday time conceptualization?",
+          "answer": "Cyclical cultures emphasize renewal; linear cultures emphasize irreversible progression",
+          "difficulty": "hard",
+          "cultural_context": "Temporal psychology"
+        },
+        {
+          "point_value": 600,
+          "question": "What do fMRI studies show about the neural basis of celebration-induced positive affect in birthday contexts?",
+          "answer": "Anterior insula and ventromedial PFC activate for recognition of social inclusion",
+          "difficulty": "hard",
+          "cultural_context": "Neuroscience"
+        },
+        {
+          "point_value": 600,
+          "question": "How does cultural consonance analysis measure psychological adjustment through birthday celebration participation?",
+          "answer": "Better mental health outcomes when celebration style matches cultural values and expectations",
+          "difficulty": "hard",
+          "cultural_context": "Medical anthropology"
+        },
+        {
+          "point_value": 600,
+          "question": "What longitudinal trauma research reveals about ritual's role in processing developmental transitions?",
+          "answer": "Rituals provide cognitive scaffolding for integrating identity changes with reduced PTSD symptoms",
+          "difficulty": "hard",
+          "cultural_context": "Trauma psychology"
+        },
+        {
+          "point_value": 600,
+          "question": "How do network science models predict birthday tradition diffusion patterns across diaspora communities?",
+          "answer": "Small-world networks; traditions persist in tight-knit groups but dilute in weak-tie networks",
+          "difficulty": "hard",
+          "cultural_context": "Network science"
+        },
+        {
+          "point_value": 600,
+          "question": "What ecological momentary assessment (EMA) studies show about daily affect around birthday periods?",
+          "answer": "Anticipation phase increases positive affect 1-2 weeks pre-birthday; celebration day shows peak+45% variance",
+          "difficulty": "hard",
+          "cultural_context": "Experience sampling research"
+        },
+        {
+          "point_value": 800,
+          "question": "How do agent-based modeling simulations predict long-term trajectory of hybrid birthday tradition evolution?",
+          "answer": "Bi-stable dynamics produce either stable hybrids or dominance of tradition; initial conditions critical",
+          "difficulty": "hard",
+          "cultural_context": "Computational modeling"
+        },
+        {
+          "point_value": 800,
+          "question": "What multivariate latent class analysis identifies distinct subpopulations in birthday celebration trajectories?",
+          "answer": "Four classes: traditionalists, modernists, minimalists, and adaptive synthesizers",
+          "difficulty": "hard",
+          "cultural_context": "Quantitative psychology"
+        },
+        {
+          "point_value": 800,
+          "question": "How do Bayesian network models integrate cultural, economic, and psychological variables in tradition maintenance?",
+          "answer": "Family structure and religiosity are highest-probability nodes predicting tradition strength",
+          "difficulty": "hard",
+          "cultural_context": "Bayesian analysis"
+        },
+        {
+          "point_value": 800,
+          "question": "What machine learning analysis of celebration narratives reveals about cultural identity discourse patterns?",
+          "answer": "Topic modeling shows distinct narrative frames: responsibility, joy, obligation, continuity",
+          "difficulty": "hard",
+          "cultural_context": "Computational linguistics"
+        },
+        {
+          "point_value": 800,
+          "question": "How do eye-tracking studies of birthday card design reveal implicit cultural values in visual communication?",
+          "answer": "East Asian cards emphasize harmony; Western cards emphasize individual achievement",
+          "difficulty": "hard",
+          "cultural_context": "Visual psychology"
+        },
+        {
+          "point_value": 800,
+          "question": "What ecological validity research shows about laboratory vs. naturalistic birthday ritual observation?",
+          "answer": "Lab rituals show reduced emotional activation (35% lower); observational bias influences reporting",
+          "difficulty": "hard",
+          "cultural_context": "Research methodology"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do integrative biocultural models explain the evolutionary optimization of life-stage markers through birthday traditions?",
+          "answer": "Fitness-linked signaling; rituals communicate developmental competence to potential allies",
+          "difficulty": "hard",
+          "cultural_context": "Evolutionary biology"
+        },
+        {
+          "point_value": 1000,
+          "question": "What cross-level mediation analysis shows about biological development → culture → psychological outcomes pathways?",
+          "answer": "Pubertal timing predicts celebration participation; mediated by cultural value assignment",
+          "difficulty": "hard",
+          "cultural_context": "Statistical mediation"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do complex systems approaches model tipping points in birthday tradition extinction vs. persistence?",
+          "answer": "Critical threshold: <40% intergenerational transmission rate produces phase transition",
+          "difficulty": "hard",
+          "cultural_context": "Complex systems science"
+        },
+        {
+          "point_value": 1000,
+          "question": "What integrative psychoneuroendocrinology research reveals about celebration-induced hormonal cascades?",
+          "answer": "Ritual participation increases oxytocin, cortisol reduction, and immune function markers",
+          "difficulty": "hard",
+          "cultural_context": "Psychoneuroendocrinology"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do causal inference methods distinguish selection effects from treatment effects in celebration-wellbeing links?",
+          "answer": "Instrumental variable analysis: tradition exposure predicts wellbeing independent of selection",
+          "difficulty": "hard",
+          "cultural_context": "Causal inference"
+        },
+        {
+          "point_value": 1000,
+          "question": "What multi-omics research integrating genomics, epigenetics, and microbiome data shows about ritual-biology interaction?",
+          "answer": "Celebration participation associates with differential DNA methylation in stress-response genes",
+          "difficulty": "hard",
+          "cultural_context": "Omics research"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "created_date": "2025-12-26",
+    "version": "1.0",
+    "total_point_value": 162000,
+    "average_points_per_question": 900,
+    "research_validated": true,
+    "includes_sei_learning": true,
+    "difficulty_distribution": {
+      "easy": 45,
+      "medium": 52,
+      "hard": 83
+    }
+  }
+}

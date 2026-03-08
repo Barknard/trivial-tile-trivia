@@ -1,0 +1,308 @@
+{
+  "category": "New Year's Resolutions",
+  "description": "Promises to change, self-improvement goals, and New Year's resolutions",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "Common resolution to shed extra weight and get healthier",
+      "answer": "What is losing weight?"
+    },
+    {
+      "points": 200,
+      "clue": "Promise to exercise more at this place",
+      "answer": "What is the gym?"
+    },
+    {
+      "points": 200,
+      "clue": "Tradition of making promises for change on January 1st",
+      "answer": "What is a New Year's resolution?"
+    },
+    {
+      "points": 200,
+      "clue": "Resolution to improve relationships and connections",
+      "answer": "What is spending more time with family?"
+    },
+    {
+      "points": 200,
+      "clue": "Promise to quit this addictive substance",
+      "answer": "What is smoking?"
+    },
+    {
+      "points": 200,
+      "clue": "Goal to improve finances by spending less of this",
+      "answer": "What is money?"
+    },
+    {
+      "points": 400,
+      "clue": "Resolution to read more of these",
+      "answer": "What are books?"
+    },
+    {
+      "points": 400,
+      "clue": "Promise to organize and declutter your living space",
+      "answer": "What is spring cleaning?"
+    },
+    {
+      "points": 400,
+      "clue": "Goal to learn a new skill or hobby for self-improvement",
+      "answer": "What is taking classes?"
+    },
+    {
+      "points": 400,
+      "clue": "Resolution to improve mental health through stress relief",
+      "answer": "What is meditation?"
+    },
+    {
+      "points": 400,
+      "clue": "Promise to be kinder and more compassionate to this group",
+      "answer": "What are others?"
+    },
+    {
+      "points": 400,
+      "clue": "Goal to establish better sleep and wake schedules",
+      "answer": "What is sleep hygiene?"
+    },
+    {
+      "points": 600,
+      "clue": "Ancient practice of making vows for change at year's start",
+      "answer": "What is making resolutions?"
+    },
+    {
+      "points": 600,
+      "clue": "Resolution that involves working toward career advancement",
+      "answer": "What is getting a promotion?"
+    },
+    {
+      "points": 600,
+      "clue": "Goal to improve financial health by doing this regularly",
+      "answer": "What is saving money?"
+    },
+    {
+      "points": 600,
+      "clue": "Promise to strengthen bonds through honest and clear communication",
+      "answer": "What is listening better?"
+    },
+    {
+      "points": 600,
+      "clue": "Resolution to reduce screen time and social media use",
+      "answer": "What is digital detox?"
+    },
+    {
+      "points": 600,
+      "clue": "Goal to improve diet by cutting out this type of food",
+      "answer": "What is junk food or sugar?"
+    },
+    {
+      "points": 800,
+      "clue": "Resolution tracking method using checkmarks on a calendar",
+      "answer": "What is habit tracking?"
+    },
+    {
+      "points": 800,
+      "clue": "Promise to achieve this type of financial goal",
+      "answer": "What is becoming debt-free?"
+    },
+    {
+      "points": 800,
+      "clue": "Resolution to improve physical health through this activity",
+      "answer": "What is running or jogging?"
+    },
+    {
+      "points": 800,
+      "clue": "Goal to develop this quality through practice and patience",
+      "answer": "What is discipline or willpower?"
+    },
+    {
+      "points": 800,
+      "clue": "Promise to travel to new places and explore cultures",
+      "answer": "What is taking a vacation?"
+    },
+    {
+      "points": 800,
+      "clue": "Resolution supported by apps that track progress and goals",
+      "answer": "What is habit formation?"
+    },
+    {
+      "points": 1000,
+      "clue": "Research shows most resolutions fail by this time",
+      "answer": "What is February?"
+    },
+    {
+      "points": 1000,
+      "clue": "Psychological principle explaining why we make New Year's resolutions",
+      "answer": "What is fresh start effect?"
+    },
+    {
+      "points": 1000,
+      "clue": "Resolution approach using specific, measurable, achievable goals",
+      "answer": "What is SMART goals?"
+    },
+    {
+      "points": 1000,
+      "clue": "Promise to volunteer and give back to communities",
+      "answer": "What is charity or community service?"
+    },
+    {
+      "points": 1000,
+      "clue": "Goal to improve work-life balance by setting these limits",
+      "answer": "What are boundaries?"
+    },
+    {
+      "points": 1000,
+      "clue": "Resolution rooted in this ancient Roman god of beginnings",
+      "answer": "What is Janus?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "Resolution nobody keeps after January 5th",
+      "answer": "What is going to the gym?"
+    },
+    {
+      "points": 200,
+      "clue": "What 90% of resolutions get replaced with by mid-month",
+      "answer": "What is giving up?"
+    },
+    {
+      "points": 200,
+      "clue": "Your actual New Year's resolution written in December",
+      "answer": "What is nothing, I'm fine?"
+    },
+    {
+      "points": 200,
+      "clue": "What you announce loudly but forget by January 8th",
+      "answer": "What is drinking less?"
+    },
+    {
+      "points": 200,
+      "clue": "Resolution that lasts exactly as long as your free trial",
+      "answer": "What is using a fitness app?"
+    },
+    {
+      "points": 200,
+      "clue": "What your resolution really means: 'I promise to...'",
+      "answer": "What is lie to myself?"
+    },
+    {
+      "points": 400,
+      "clue": "The lie you tell your friend about your resolution progress in March",
+      "answer": "What is 'I've been so dedicated'?"
+    },
+    {
+      "points": 400,
+      "clue": "What this drinking you're cutting out is called by January 2nd",
+      "answer": "What is a special occasion?"
+    },
+    {
+      "points": 400,
+      "clue": "Resolution that dies when you remember how much gym memberships cost",
+      "answer": "What is getting fit?"
+    },
+    {
+      "points": 400,
+      "clue": "Your resolution after realizing the world is on fire anyway",
+      "answer": "What is eat, drink, and be merry?"
+    },
+    {
+      "points": 400,
+      "clue": "Thing you swear off on January 1st you're back to by January 2nd",
+      "answer": "What is fast food?"
+    },
+    {
+      "points": 400,
+      "clue": "The gym on January 2nd vs. the gym in March",
+      "answer": "What is impossibly crowded vs. empty?"
+    },
+    {
+      "points": 600,
+      "clue": "What your resolution journal becomes after one week",
+      "answer": "What is fancy decoration?"
+    },
+    {
+      "points": 600,
+      "clue": "Reason you're breaking your diet resolution tonight",
+      "answer": "What is emotional eating?"
+    },
+    {
+      "points": 600,
+      "clue": "What you text your friend when asking about their resolution",
+      "answer": "What is 'how's that going'?"
+    },
+    {
+      "points": 600,
+      "clue": "Your resolution when you realize adulting is exhausting",
+      "answer": "What is just surviving?"
+    },
+    {
+      "points": 600,
+      "clue": "What breaks faster: your resolution or your willpower?",
+      "answer": "What is your willpower (day one)?"
+    },
+    {
+      "points": 600,
+      "clue": "This month is when gyms offer refunds for resolution quitters",
+      "answer": "What is February?"
+    },
+    {
+      "points": 800,
+      "clue": "Resolution you make to impress someone who'll forget about it",
+      "answer": "What is being more organized?"
+    },
+    {
+      "points": 800,
+      "clue": "What your 'lose weight' resolution requires you to give up",
+      "answer": "What is happiness and joy?"
+    },
+    {
+      "points": 800,
+      "clue": "The excuse for why you're breaking your sleep schedule resolution",
+      "answer": "What is Netflix has good content right now?"
+    },
+    {
+      "points": 800,
+      "clue": "What this 'save more money' resolution really means",
+      "answer": "What is pretend I don't have a credit card?"
+    },
+    {
+      "points": 800,
+      "clue": "Your resolution to be a better person until this happens",
+      "answer": "What is someone annoys you?"
+    },
+    {
+      "points": 800,
+      "clue": "Why your 'be nicer to family' resolution lasted 48 hours",
+      "answer": "What is they're still annoying?"
+    },
+    {
+      "points": 1000,
+      "clue": "What your 'spend less time on social media' resolution became",
+      "answer": "What is a lie I tell myself?"
+    },
+    {
+      "points": 1000,
+      "clue": "The app you downloaded to track resolutions that now mocks you",
+      "answer": "What is a motivation killer?"
+    },
+    {
+      "points": 1000,
+      "clue": "What this 'be more productive' resolution actually requires",
+      "answer": "What is accepting I'm lazy?"
+    },
+    {
+      "points": 1000,
+      "clue": "Your resolution after two weeks of no progress whatsoever",
+      "answer": "What is 'I'm changing my goal to be realistic'?"
+    },
+    {
+      "points": 1000,
+      "clue": "What person you swear you'll become but definitely won't",
+      "answer": "What is a morning person?"
+    },
+    {
+      "points": 1000,
+      "clue": "The reason your best friend's resolution will fail like yours",
+      "answer": "What is we enable each other's bad habits?"
+    }
+  ]
+}

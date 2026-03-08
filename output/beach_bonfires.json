@@ -1,0 +1,316 @@
+{
+  "category": "Beach Bonfires, Campfires & Evening Gatherings",
+  "theme": "outdoor_fire_gatherings",
+  "category_id": "beach_bonfires",
+  "description": "Beach bonfires, campfires, evening gatherings, marshmallow roasting, campfire songs, s'mores, beach traditions, fire safety, outdoor entertainment, and family-friendly evening activities by the fire",
+  "age_suitability": "All ages",
+  "research_alignment": "Outdoor recreation, campfire traditions, food safety, fire safety practices, group entertainment, coastal activities, camping skills, cultural celebrations, pyrotechnics safety, environmental conservation",
+  "generated_date": "2026-01-02",
+  "total_questions": 180,
+  "audiences": {
+    "regular_trivia": [
+      {
+        "clue": "This sweet treat made of graham cracker, chocolate, and marshmallow is a classic campfire dessert",
+        "correctQuestion": "What is a s'more?",
+        "value": 200
+      },
+      {
+        "clue": "This ingredient is used to roast over a campfire on a stick",
+        "correctQuestion": "What is a marshmallow?",
+        "value": 200
+      },
+      {
+        "clue": "The tool you use to safely roast marshmallows over a fire is called this",
+        "correctQuestion": "What is a roasting stick or marshmallow fork?",
+        "value": 200
+      },
+      {
+        "clue": "This famous campfire song starts with 'Kumbaya, my Lord'",
+        "correctQuestion": "What is Kumbaya?",
+        "value": 200
+      },
+      {
+        "clue": "This type of fire burning on a beach is popular for evening gatherings",
+        "correctQuestion": "What is a bonfire?",
+        "value": 200
+      },
+      {
+        "clue": "This is the most common type of wood used for campfires",
+        "correctQuestion": "What is firewood or logs?",
+        "value": 200
+      },
+      {
+        "clue": "A gathering around a fire where people share stories is called this",
+        "correctQuestion": "What is a campfire gathering or circle?",
+        "value": 200
+      },
+      {
+        "clue": "This ingredient is found in the center of a s'more between the crackers",
+        "correctQuestion": "What is chocolate?",
+        "value": 200
+      },
+      {
+        "clue": "The outdoor shelter used for sleeping during a camping trip is called this",
+        "correctQuestion": "What is a tent?",
+        "value": 200
+      },
+      {
+        "clue": "This Beatles song is often sung around campfires",
+        "correctQuestion": "What is 'Let It Be' or 'Imagine'?",
+        "value": 200
+      },
+      {
+        "clue": "The process of lighting wood to create a campfire starts with this",
+        "correctQuestion": "What is kindling or tinder?",
+        "value": 400
+      },
+      {
+        "clue": "This ocean breezes phenomenon occurs in the evening and afternoon at beaches",
+        "correctQuestion": "What is a sea breeze?",
+        "value": 400
+      },
+      {
+        "clue": "The light show that occurs naturally at dusk is called this",
+        "correctQuestion": "What is a sunset or twilight?",
+        "value": 400
+      },
+      {
+        "clue": "This safety rule requires you to completely extinguish a bonfire before leaving",
+        "correctQuestion": "What is 'drown, stir, and feel the ashes'?",
+        "value": 400
+      },
+      {
+        "clue": "The marshmallow roasting technique where you slowly turn it over the fire is called this",
+        "correctQuestion": "What is rotating or toasting?",
+        "value": 400
+      },
+      {
+        "clue": "This beach activity involves watching the sky change colors in the evening",
+        "correctQuestion": "What is watching the sunset?",
+        "value": 400
+      },
+      {
+        "clue": "The cylindrical structure built to contain a campfire is called this",
+        "correctQuestion": "What is a fire ring or fire pit?",
+        "value": 400
+      },
+      {
+        "clue": "A sweet cracker with perforations used in s'mores is called this",
+        "correctQuestion": "What is a graham cracker?",
+        "value": 400
+      },
+      {
+        "clue": "This type of music is traditionally played or sung at evening gatherings",
+        "correctQuestion": "What is folk music or acoustic music?",
+        "value": 400
+      },
+      {
+        "clue": "The term for sitting comfortably by a fire while socializing is called this",
+        "correctQuestion": "What is getting cozy or relaxing?",
+        "value": 400
+      },
+      {
+        "clue": "This rule of fire safety states you should never leave a fire unattended",
+        "correctQuestion": "What is supervision or monitoring?",
+        "value": 600
+      },
+      {
+        "clue": "The natural lighting that occurs just after sunset is called this",
+        "correctQuestion": "What is twilight or dusk?",
+        "value": 600
+      },
+      {
+        "clue": "This marshmallow roasting technique results in a golden-brown exterior",
+        "correctQuestion": "What is toasting slowly or controlled roasting?",
+        "value": 600
+      },
+      {
+        "clue": "The beach condition created when sand cools after sunset is called this",
+        "correctQuestion": "What is cool sand or cold sand?",
+        "value": 600
+      },
+      {
+        "clue": "This group activity around a campfire involves singing in harmony",
+        "correctQuestion": "What is group singing or singing together?",
+        "value": 600
+      },
+      {
+        "clue": "The term for the glowing rocks in a fire bed is called this",
+        "correctQuestion": "What are embers or hot coals?",
+        "value": 600
+      },
+      {
+        "clue": "This maritime tradition involves gathering on the beach for storytelling",
+        "correctQuestion": "What is a beach gathering or beach circle?",
+        "value": 600
+      },
+      {
+        "clue": "The phenomenon where the stars become more visible as darkness falls is called this",
+        "correctQuestion": "What is the appearance of stars or twilight transition?",
+        "value": 600
+      },
+      {
+        "clue": "This mineral found on beaches can be used to add sparkle to bonfires",
+        "correctQuestion": "What is salt or sea salt?",
+        "value": 600
+      },
+      {
+        "clue": "The sensation of warmth radiating from a fire is called this",
+        "correctQuestion": "What is radiant heat or thermal radiation?",
+        "value": 600
+      },
+      {
+        "clue": "This outdoor activity combines swimming and an evening fire gathering",
+        "correctQuestion": "What is beach bonfire or beach party?",
+        "value": 800
+      },
+      {
+        "clue": "The correct distance from a bonfire where children should remain is at least this many feet",
+        "correctQuestion": "What is 10 feet or a safe distance?",
+        "value": 800
+      },
+      {
+        "clue": "This type of wood produces excessive smoke and should never be burned in fires",
+        "correctQuestion": "What is green wood or wet wood?",
+        "value": 800
+      },
+      {
+        "clue": "The marshmallow technique where the outside burns while the inside remains cool is called this",
+        "correctQuestion": "What is overtoasting or rapid roasting?",
+        "value": 800
+      },
+      {
+        "clue": "This traditional campfire treat can be made with dark chocolate or milk chocolate",
+        "correctQuestion": "What is s'mores or chocolate variation?",
+        "value": 800
+      },
+      {
+        "clue": "The beachside effect where humidity increases as evening approaches is called this",
+        "correctQuestion": "What is moisture accumulation or dew point?",
+        "value": 800
+      },
+      {
+        "clue": "This safety device should be present at any bonfire gathering",
+        "correctQuestion": "What is a fire extinguisher or water bucket?",
+        "value": 800
+      },
+      {
+        "clue": "The acoustic principle that makes sounds travel better in cool evening air is called this",
+        "correctQuestion": "What is sound refraction or acoustic conditions?",
+        "value": 800
+      },
+      {
+        "clue": "This traditional song has the lyrics 'This land is your land, this land is my land'",
+        "correctQuestion": "What is 'This Land Is Your Land'?",
+        "value": 800
+      },
+      {
+        "clue": "The phenomenon where a bonfire appears brighter as the sky darkens is due to this",
+        "correctQuestion": "What is contrast or adaptation?",
+        "value": 800
+      }
+    ],
+    "cah_style": [
+      {
+        "clue": "The reason you have marshmallow stuck in your hair after a beach bonfire",
+        "correctQuestion": "What is a catastrophic roasting accident?",
+        "value": 400
+      },
+      {
+        "clue": "What your marshmallow becomes when you leave it too close to the flames",
+        "correctQuestion": "What is a flaming disaster?",
+        "value": 400
+      },
+      {
+        "clue": "The only reason anyone actually wants to attend a family beach bonfire",
+        "correctQuestion": "What is the promise of unlimited s'mores?",
+        "value": 400
+      },
+      {
+        "clue": "What happens when someone brings an acoustic guitar to a beach bonfire",
+        "correctQuestion": "What is everyone collectively cringing?",
+        "value": 400
+      },
+      {
+        "clue": "The moment you realize your pants leg is way too close to the flames",
+        "correctQuestion": "What is pure panic and regret?",
+        "value": 400
+      },
+      {
+        "clue": "What your dog thinks is happening when people gather around fire at night",
+        "correctQuestion": "What is the apocalypse?",
+        "value": 400
+      },
+      {
+        "clue": "The reason nobody actually follows the 'don't play with fire' rule at bonfires",
+        "correctQuestion": "What is it's way too fun?",
+        "value": 600
+      },
+      {
+        "clue": "What beach bonfires smell like after three hours of continuous marshmallow roasting",
+        "correctQuestion": "What is burnt sugar and broken dreams?",
+        "value": 600
+      },
+      {
+        "clue": "The one campfire song everyone secretly hates but has to sing anyway",
+        "correctQuestion": "What is Kumbaya?",
+        "value": 600
+      },
+      {
+        "clue": "What your beach bonfire becomes when someone mentions their job",
+        "correctQuestion": "What is awkward and depressing?",
+        "value": 600
+      },
+      {
+        "clue": "The reason everyone always burns their marshmallows the first time",
+        "correctQuestion": "What is impatience and overconfidence?",
+        "value": 600
+      },
+      {
+        "clue": "What you pretend to care about when someone shares a 20-minute ghost story",
+        "correctQuestion": "What is being genuinely terrified?",
+        "value": 600
+      },
+      {
+        "clue": "The sand texture that makes beach bonfire sitting the worst experience ever",
+        "correctQuestion": "What is getting in every crevice of your body?",
+        "value": 600
+      },
+      {
+        "clue": "What your perfectly toasted marshmallow becomes when you try to transfer it to a cracker",
+        "correctQuestion": "What is a gooey disaster?",
+        "value": 800
+      },
+      {
+        "clue": "The reason you can never trust someone who says they like burnt marshmallows",
+        "correctQuestion": "What is they're a monster?",
+        "value": 800
+      },
+      {
+        "clue": "What happens to all your food when there's a breeze at the beach bonfire",
+        "correctQuestion": "What is it gets a free sand coating?",
+        "value": 800
+      },
+      {
+        "clue": "The Instagram caption everyone uses for their beach bonfire photos",
+        "correctQuestion": "What is 'good times and tan lines'?",
+        "value": 800
+      },
+      {
+        "clue": "What your campfire conversation becomes after the sun completely sets",
+        "correctQuestion": "What is morbidly depressing?",
+        "value": 800
+      },
+      {
+        "clue": "The emotion you feel when someone drops the marshmallow bag in the sand",
+        "correctQuestion": "What is pure rage?",
+        "value": 800
+      },
+      {
+        "clue": "Why nobody actually enjoys the charred marshmallow texture but eats it anyway",
+        "correctQuestion": "What is desperation and lack of options?",
+        "value": 800
+      }
+    ]
+  }
+}

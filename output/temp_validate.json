@@ -1,0 +1,3088 @@
+{
+    "category": "Christmas Books",
+    "category_id": "christmas_literature",
+    "description": "Classic and modern Christmas literature, themes, authors, and beloved holiday classics",
+    "total_questions": 180,
+    "audiences": {
+        "teenagers": {
+            "count": 36,
+            "difficulty_distribution": {
+                "easy": 12,
+                "medium": 12,
+                "hard": 12
+            }
+        },
+        "adults": {
+            "count": 144,
+            "difficulty_distribution": {
+                "easy": 36,
+                "medium": 54,
+                "hard": 54
+            }
+        }
+    },
+    "questions": [
+        {
+            "id": "cb_teen_easy_001",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "This Charles Dickens novella tells the story of Ebenezer Scrooge and his ghostly Christmas Eve visitors.",
+            "answer": "What is A Christmas Carol?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "classic",
+                "Dickens",
+                "Scrooge"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_002",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "Dr. Seuss wrote this story about a green creature who tries to steal Christmas from the Whos.",
+            "answer": "What is How the Grinch Stole Christmas?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dr. Seuss",
+                "Grinch",
+                "children's literature"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_003",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "This reindeer with a red nose is the title character of a popular Christmas story first published in 1939.",
+            "answer": "Who is Rudolph?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Rudolph",
+                "reindeer",
+                "classic"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_004",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "Chris Van Allsburg wrote this book about a magical train journey to the North Pole.",
+            "answer": "What is The Polar Express?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "modern classic",
+                "train"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_005",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "In 'A Christmas Carol,' this is the name of Scrooge's underpaid clerk.",
+            "answer": "Who is Bob Cratchit?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "characters",
+                "Cratchit"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_006",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "This is the number of ghosts that visit Scrooge in 'A Christmas Carol,' including Marley.",
+            "answer": "What is four?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "ghosts",
+                "counting"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_007",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "O. Henry's short story 'The Gift of the Magi' features a couple who sell their most prized possessions to buy gifts; these are the items they sell.",
+            "answer": "What are hair and a watch?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "sacrifice",
+                "irony"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_008",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "This classic ballet and book features a girl named Clara who receives a special gift on Christmas Eve.",
+            "answer": "What is The Nutcracker?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "ballet",
+                "Clara"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_009",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "In 'How the Grinch Stole Christmas,' the Grinch's heart grows this many sizes.",
+            "answer": "What is three?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "heart",
+                "transformation"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_010",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "This poem beginning 'Twas the night before Christmas' was originally titled 'A Visit from' this person.",
+            "answer": "Who is St. Nicholas?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "St. Nicholas",
+                "classic"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_011",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "Louisa May Alcott's 'Little Women' features memorable Christmas scenes; this is the number of March sisters.",
+            "answer": "What is four?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Little Women",
+                "sisters",
+                "classic"
+            ]
+        },
+        {
+            "id": "cb_teen_easy_012",
+            "audience": "teenagers",
+            "difficulty": "easy",
+            "question": "In 'The Polar Express,' the conductor punches this word into the main character's ticket.",
+            "answer": "What is BELIEVE?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "belief",
+                "ticket"
+            ]
+        },
+        {
+            "id": "cb_teen_med_001",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "This author of 'A Christmas Carol' published the novella on December 19, 1843.",
+            "answer": "Who is Charles Dickens?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "author",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_teen_med_002",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "Bob Cratchit's ill son in 'A Christmas Carol' uses this phrase as his hopeful Christmas blessing.",
+            "answer": "What is 'God bless us, every one'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Tiny Tim",
+                "quote",
+                "Dickens"
+            ]
+        },
+        {
+            "id": "cb_teen_med_003",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "In 'The Gift of the Magi,' Della buys this gift for her husband Jim.",
+            "answer": "What is a watch chain (or fob)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "irony",
+                "gifts"
+            ]
+        },
+        {
+            "id": "cb_teen_med_004",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "This is the name of the Grinch's loyal dog in Dr. Seuss's classic tale.",
+            "answer": "Who is Max?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "dog",
+                "sidekick"
+            ]
+        },
+        {
+            "id": "cb_teen_med_005",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "Clement Clarke Moore is often credited with writing this famous Christmas poem in 1823.",
+            "answer": "What is 'A Visit from St. Nicholas' (or 'Twas the Night Before Christmas')?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "Moore",
+                "authorship"
+            ]
+        },
+        {
+            "id": "cb_teen_med_006",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "In 'The Nutcracker,' Clara's nutcracker transforms into this figure.",
+            "answer": "What is a prince?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "transformation",
+                "fantasy"
+            ]
+        },
+        {
+            "id": "cb_teen_med_007",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "This American poet wrote the famous Christmas poem 'Christmas Bells' during the Civil War.",
+            "answer": "Who is Henry Wadsworth Longfellow?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "Longfellow",
+                "Civil War"
+            ]
+        },
+        {
+            "id": "cb_teen_med_008",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "In 'A Christmas Carol,' this is the name of Scrooge's former business partner whose ghost warns him.",
+            "answer": "Who is Jacob Marley?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Marley",
+                "ghost",
+                "warning"
+            ]
+        },
+        {
+            "id": "cb_teen_med_009",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "John Grisham wrote this bestselling Christmas novel about a family skipping Christmas to go on a cruise.",
+            "answer": "What is Skipping Christmas (or Christmas with the Kranks)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Grisham",
+                "modern",
+                "comedy"
+            ]
+        },
+        {
+            "id": "cb_teen_med_010",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "This Russian author wrote the story that inspired 'The Nutcracker' ballet.",
+            "answer": "Who is E.T.A. Hoffmann?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Hoffmann",
+                "Nutcracker",
+                "German"
+            ]
+        },
+        {
+            "id": "cb_teen_med_011",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "In 'The Polar Express,' the first gift of Christmas is this object.",
+            "answer": "What is a silver bell (from Santa's sleigh)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "bell",
+                "belief"
+            ]
+        },
+        {
+            "id": "cb_teen_med_012",
+            "audience": "teenagers",
+            "difficulty": "medium",
+            "question": "This town is where the Whos live in 'How the Grinch Stole Christmas.'",
+            "answer": "What is Whoville?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "setting",
+                "Whoville"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_001",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' Scrooge's neglected fiancee who breaks their engagement is named this.",
+            "answer": "Who is Belle?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "Belle",
+                "romance"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_002",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "This is the profession of Jim, Della's husband, in 'The Gift of the Magi.'",
+            "answer": "What is unclear/unspecified (he's a young man making $20 a week)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "character",
+                "details"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_003",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "Truman Capote wrote this semi-autobiographical Christmas story featuring a character named Sook.",
+            "answer": "What is 'A Christmas Memory'?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Capote",
+                "memoir",
+                "Southern"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_004",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "This is the year that Robert L. May created Rudolph the Red-Nosed Reindeer for Montgomery Ward.",
+            "answer": "What is 1939?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Rudolph",
+                "history",
+                "advertising"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_005",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "In 'The Gift of the Magi,' the three wise men are also called by this name, which gives the story its title.",
+            "answer": "What are the Magi?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "biblical",
+                "title",
+                "meaning"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_006",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "This poet, known for 'The Raven,' wrote the lesser-known Christmas poem 'Christmas Presence.'",
+            "answer": "Who is Edgar Allan Poe?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Poe",
+                "poetry",
+                "obscure"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_007",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "Chris Van Allsburg won the Caldecott Medal in this year for 'The Polar Express.'",
+            "answer": "What is 1986?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "award",
+                "Caldecott",
+                "date"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_008",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "In Dickens's 'A Christmas Carol,' this is Scrooge's first name.",
+            "answer": "What is Ebenezer?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Scrooge",
+                "name",
+                "character"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_009",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "This mountain overlooks Whoville in Dr. Seuss's Grinch story.",
+            "answer": "What is Mount Crumpit?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "geography",
+                "Grinch",
+                "setting"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_010",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "Washington Irving's 'Old Christmas' describes Christmas celebrations in this English manor.",
+            "answer": "What is Bracebridge Hall?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Irving",
+                "English",
+                "manor"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_011",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "This author wrote 'The Life and Adventures of Santa Claus' in 1902, the same author who created Oz.",
+            "answer": "Who is L. Frank Baum?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Baum",
+                "Santa",
+                "origin story"
+            ]
+        },
+        {
+            "id": "cb_teen_hard_012",
+            "audience": "teenagers",
+            "difficulty": "hard",
+            "question": "In 'The Nutcracker and the Mouse King,' the evil Mouse King has this many heads.",
+            "answer": "What is seven?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "villain",
+                "details"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_001",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This miserly character is visited by three spirits on Christmas Eve in Dickens's most famous Christmas tale.",
+            "answer": "Who is Ebenezer Scrooge?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "Scrooge",
+                "classic"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_002",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "Dr. Seuss's green character who lives on Mount Crumpit and despises Christmas.",
+            "answer": "Who is the Grinch?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dr. Seuss",
+                "Grinch",
+                "villain"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_003",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "O. Henry's ironic Christmas short story about a young couple who sacrifice their most precious possessions.",
+            "answer": "What is 'The Gift of the Magi'?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "irony",
+                "short story"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_004",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This Victorian author wrote 'A Christmas Carol' in just six weeks in 1843.",
+            "answer": "Who is Charles Dickens?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "Victorian",
+                "author"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_005",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The magical train in Chris Van Allsburg's beloved Christmas picture book.",
+            "answer": "What is The Polar Express?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "Van Allsburg",
+                "train"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_006",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "Bob Cratchit's sickly son who famously says 'God bless us, every one.'",
+            "answer": "Who is Tiny Tim?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Tiny Tim",
+                "Dickens",
+                "quote"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_007",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This poem begins with ''Twas the night before Christmas, when all through the house.'",
+            "answer": "What is 'A Visit from St. Nicholas'?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "classic",
+                "St. Nicholas"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_008",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "In 'A Christmas Carol,' this is the first ghost to visit Scrooge after Marley.",
+            "answer": "Who is the Ghost of Christmas Past?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "ghosts",
+                "Dickens",
+                "sequence"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_009",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The reindeer with the glowing red nose, created as a Montgomery Ward marketing campaign.",
+            "answer": "Who is Rudolph?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Rudolph",
+                "reindeer",
+                "advertising"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_010",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This E.T.A. Hoffmann story inspired Tchaikovsky's famous Christmas ballet.",
+            "answer": "What is 'The Nutcracker and the Mouse King'?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "Hoffmann",
+                "ballet"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_011",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "In 'The Gift of the Magi,' Della sells this to buy Jim a Christmas present.",
+            "answer": "What is her hair?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "sacrifice",
+                "hair"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_012",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The Ghost of Christmas Yet to Come shows Scrooge visions of this event.",
+            "answer": "What is his own death?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "future",
+                "death"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_013",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This author created the character of Scrooge, whose name became synonymous with miserliness.",
+            "answer": "Who is Charles Dickens?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "Scrooge",
+                "legacy"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_014",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The Grinch's heart grows this many sizes at the end of the story.",
+            "answer": "What is three?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "heart",
+                "redemption"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_015",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This classic ballet features Clara, the Sugar Plum Fairy, and the Mouse King.",
+            "answer": "What is The Nutcracker?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "ballet",
+                "Nutcracker",
+                "characters"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_016",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "In 'A Visit from St. Nicholas,' Santa's belly shakes like this dessert.",
+            "answer": "What is a bowl full of jelly?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "description",
+                "Santa"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_017",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This is the name of Scrooge's deceased business partner who appears in chains.",
+            "answer": "Who is Jacob Marley?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Marley",
+                "ghost",
+                "chains"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_018",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "Louisa May Alcott's novel featuring the March sisters includes memorable Christmas scenes.",
+            "answer": "What is Little Women?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Alcott",
+                "March sisters",
+                "classic"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_019",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The conductor in 'The Polar Express' punches this word into the boy's ticket.",
+            "answer": "What is BELIEVE?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "belief",
+                "theme"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_020",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This is what Jim sells to buy combs for Della's hair in 'The Gift of the Magi.'",
+            "answer": "What is his gold watch?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "irony",
+                "watch"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_021",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "Dr. Seuss's Grinch has a dog with this simple one-syllable name.",
+            "answer": "Who is Max?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "Max",
+                "dog"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_022",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This is the number of ghosts that visit Scrooge in total, including Marley.",
+            "answer": "What is four?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "ghosts",
+                "counting"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_023",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "In 'A Christmas Carol,' this is Bob Cratchit's job for Scrooge.",
+            "answer": "What is a clerk (or bookkeeper)?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Cratchit",
+                "employment",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_024",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The town where the Whos live in the Grinch story.",
+            "answer": "What is Whoville?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Whoville",
+                "setting",
+                "Grinch"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_025",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This object that only believers can hear is the first gift of Christmas in 'The Polar Express.'",
+            "answer": "What is a silver bell?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "bell",
+                "faith"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_026",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This poet is traditionally credited with writing 'A Visit from St. Nicholas' in 1823.",
+            "answer": "Who is Clement Clarke Moore?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Moore",
+                "poetry",
+                "authorship"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_027",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "In 'The Nutcracker,' Clara receives this gift that comes to life.",
+            "answer": "What is a nutcracker?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "gift",
+                "Clara"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_028",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This phrase, spoken by Tiny Tim, has become one of literature's most famous Christmas blessings.",
+            "answer": "What is 'God bless us, every one'?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Tiny Tim",
+                "blessing",
+                "quote"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_029",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The Ghost of Christmas Present shows Scrooge these two allegorical children hidden under his robe.",
+            "answer": "What are Ignorance and Want?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "allegory",
+                "social criticism"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_030",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This American author wrote 'The Gift of the Magi' as part of his collection of short stories.",
+            "answer": "Who is O. Henry (William Sydney Porter)?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "short story",
+                "author"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_031",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "The year 'A Christmas Carol' was first published.",
+            "answer": "What is 1843?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "publication",
+                "history"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_032",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This is how many reindeer are named in 'A Visit from St. Nicholas.'",
+            "answer": "What is eight?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "reindeer",
+                "poetry",
+                "counting"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_033",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "Dr. Seuss published 'How the Grinch Stole Christmas' in this decade.",
+            "answer": "What is the 1950s (1957)?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "publication",
+                "history"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_034",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "In 'Little Women,' the March sisters perform this play at Christmas.",
+            "answer": "What is a theatrical production (they perform plays/theatricals)?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Little Women",
+                "theater",
+                "sisters"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_035",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "This word completes Scrooge's famous dismissal of Christmas: 'Bah, ___!'",
+            "answer": "What is Humbug?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Scrooge",
+                "quote",
+                "cynicism"
+            ]
+        },
+        {
+            "id": "cb_adult_easy_036",
+            "audience": "adults",
+            "difficulty": "easy",
+            "question": "Truman Capote wrote this semi-autobiographical Christmas story about making fruitcakes.",
+            "answer": "What is 'A Christmas Memory'?",
+            "points": 200,
+            "category": "christmas_literature",
+            "tags": [
+                "Capote",
+                "memoir",
+                "fruitcake"
+            ]
+        },
+        {
+            "id": "cb_adult_med_001",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'A Christmas Carol,' this is the name of Scrooge's sister who dies young.",
+            "answer": "Who is Fan (or Fran)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "family",
+                "backstory"
+            ]
+        },
+        {
+            "id": "cb_adult_med_002",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This is the amount of money Della has saved to buy Jim's Christmas present in 'The Gift of the Magi.'",
+            "answer": "What is $1.87?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "money",
+                "details"
+            ]
+        },
+        {
+            "id": "cb_adult_med_003",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Scrooge's former fiancee who releases him from their engagement is named this.",
+            "answer": "Who is Belle?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "romance",
+                "past"
+            ]
+        },
+        {
+            "id": "cb_adult_med_004",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author wrote 'The Life and Adventures of Santa Claus' in 1902, also famous for creating Oz.",
+            "answer": "Who is L. Frank Baum?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Baum",
+                "Santa",
+                "origin"
+            ]
+        },
+        {
+            "id": "cb_adult_med_005",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Henry Wadsworth Longfellow wrote this poem during the Civil War, which became the carol 'I Heard the Bells on Christmas Day.'",
+            "answer": "What is 'Christmas Bells'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Longfellow",
+                "poetry",
+                "Civil War"
+            ]
+        },
+        {
+            "id": "cb_adult_med_006",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In the original Hoffmann story, the Nutcracker battles this multi-headed villain.",
+            "answer": "What is the seven-headed Mouse King?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "villain",
+                "original"
+            ]
+        },
+        {
+            "id": "cb_adult_med_007",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This is the setting (city) where 'A Christmas Carol' takes place.",
+            "answer": "What is London?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "London",
+                "setting"
+            ]
+        },
+        {
+            "id": "cb_adult_med_008",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Robert L. May created Rudolph for this department store chain in 1939.",
+            "answer": "What is Montgomery Ward?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Rudolph",
+                "advertising",
+                "retail"
+            ]
+        },
+        {
+            "id": "cb_adult_med_009",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Chris Van Allsburg won this prestigious children's literature award for 'The Polar Express.'",
+            "answer": "What is the Caldecott Medal?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "award",
+                "Polar Express",
+                "Caldecott"
+            ]
+        },
+        {
+            "id": "cb_adult_med_010",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'A Christmas Carol,' Scrooge's nephew who invites him to Christmas dinner is named this.",
+            "answer": "Who is Fred?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "Fred",
+                "family"
+            ]
+        },
+        {
+            "id": "cb_adult_med_011",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This illness afflicts Tiny Tim in 'A Christmas Carol,' though Dickens never explicitly names it.",
+            "answer": "What is rickets (or tuberculosis/unspecified)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Tiny Tim",
+                "illness",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_adult_med_012",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "John Grisham wrote this humorous novel about a family skipping Christmas.",
+            "answer": "What is Skipping Christmas (or Christmas with the Kranks)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Grisham",
+                "contemporary",
+                "humor"
+            ]
+        },
+        {
+            "id": "cb_adult_med_013",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'The Gift of the Magi,' this is what Jim buys for Della with the money from his watch.",
+            "answer": "What are combs (tortoiseshell combs with jewels)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "gifts",
+                "irony"
+            ]
+        },
+        {
+            "id": "cb_adult_med_014",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This mountain overlooks Whoville in Dr. Seuss's tale of the Grinch.",
+            "answer": "What is Mount Crumpit?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "geography",
+                "setting"
+            ]
+        },
+        {
+            "id": "cb_adult_med_015",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Washington Irving wrote about traditional English Christmas celebrations in this collection.",
+            "answer": "What is 'The Sketch Book of Geoffrey Crayon' (or 'Old Christmas')?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Irving",
+                "tradition",
+                "English"
+            ]
+        },
+        {
+            "id": "cb_adult_med_016",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This is the first name of Scrooge's clerk, Bob Cratchit.",
+            "answer": "What is Robert (Bob)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Cratchit",
+                "name",
+                "character"
+            ]
+        },
+        {
+            "id": "cb_adult_med_017",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "The Ghost of Christmas Yet to Come is also called by this more ominous name.",
+            "answer": "What is the Phantom?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "ghost",
+                "Dickens",
+                "death"
+            ]
+        },
+        {
+            "id": "cb_adult_med_018",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author wrote 'The Christmas Box,' a bestselling novella about family and memory.",
+            "answer": "Who is Richard Paul Evans?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Evans",
+                "contemporary",
+                "bestseller"
+            ]
+        },
+        {
+            "id": "cb_adult_med_019",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In Truman Capote's 'A Christmas Memory,' the narrator and his elderly cousin make these for Christmas gifts.",
+            "answer": "What are fruitcakes?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Capote",
+                "fruitcake",
+                "tradition"
+            ]
+        },
+        {
+            "id": "cb_adult_med_020",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This is the year Chris Van Allsburg published 'The Polar Express.'",
+            "answer": "What is 1985?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "publication",
+                "date"
+            ]
+        },
+        {
+            "id": "cb_adult_med_021",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Dylan Thomas wrote this poetic memoir about Christmas in Wales.",
+            "answer": "What is 'A Child's Christmas in Wales'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dylan Thomas",
+                "Wales",
+                "memoir"
+            ]
+        },
+        {
+            "id": "cb_adult_med_022",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'A Christmas Carol,' this is the day of the week when the story begins.",
+            "answer": "What is Christmas Eve (December 24)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "timeline",
+                "setting"
+            ]
+        },
+        {
+            "id": "cb_adult_med_023",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "The original title of 'A Visit from St. Nicholas' attributed to Clement Clarke Moore.",
+            "answer": "What is 'A Visit from St. Nicholas'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "title",
+                "Moore"
+            ]
+        },
+        {
+            "id": "cb_adult_med_024",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author wrote 'Hercule Poirot's Christmas,' featuring the famous Belgian detective.",
+            "answer": "Who is Agatha Christie?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Christie",
+                "mystery",
+                "Poirot"
+            ]
+        },
+        {
+            "id": "cb_adult_med_025",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'The Nutcracker,' Clara's nutcracker transforms into this royal figure.",
+            "answer": "What is a prince?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "transformation",
+                "prince"
+            ]
+        },
+        {
+            "id": "cb_adult_med_026",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This is the business that Scrooge and Marley ran together.",
+            "answer": "What is a counting house (money lending/finance)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "business",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_adult_med_027",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Anne Perry writes Victorian Christmas mysteries featuring this character named Thomas.",
+            "answer": "Who is Thomas Pitt?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Perry",
+                "mystery",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_adult_med_028",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'How the Grinch Stole Christmas,' the Grinch carves this roast for dinner at the end.",
+            "answer": "What is the roast beast?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Grinch",
+                "feast",
+                "redemption"
+            ]
+        },
+        {
+            "id": "cb_adult_med_029",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author wrote 'Letters from Father Christmas' for his children over 20 years.",
+            "answer": "Who is J.R.R. Tolkien?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Tolkien",
+                "letters",
+                "Father Christmas"
+            ]
+        },
+        {
+            "id": "cb_adult_med_030",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "The Ghost of Christmas Present sits upon this throne in Scrooge's own room.",
+            "answer": "What is a throne of food (turkey, geese, game, poultry)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "ghost",
+                "abundance"
+            ]
+        },
+        {
+            "id": "cb_adult_med_031",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This P.D. James novel features detective Adam Dalgliesh investigating a murder during Christmas.",
+            "answer": "What is 'The Mistletoe Murder and Other Stories'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "James",
+                "mystery",
+                "detective"
+            ]
+        },
+        {
+            "id": "cb_adult_med_032",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'A Christmas Carol,' this is the number of years Marley has been dead when the story begins.",
+            "answer": "What is seven?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Marley",
+                "timeline",
+                "details"
+            ]
+        },
+        {
+            "id": "cb_adult_med_033",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author wrote 'The Chimes,' another Christmas story, immediately after 'A Christmas Carol.'",
+            "answer": "Who is Charles Dickens?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "The Chimes",
+                "series"
+            ]
+        },
+        {
+            "id": "cb_adult_med_034",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "The young girl Clara in 'The Nutcracker' is sometimes called by this other name.",
+            "answer": "What is Marie (or Masha)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "Clara",
+                "variations"
+            ]
+        },
+        {
+            "id": "cb_adult_med_035",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This beloved children's author wrote 'The Father Christmas Letters' featuring the North Polar Bear.",
+            "answer": "Who is J.R.R. Tolkien?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Tolkien",
+                "letters",
+                "children"
+            ]
+        },
+        {
+            "id": "cb_adult_med_036",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'The Gift of the Magi,' Della and Jim live in this type of modest dwelling.",
+            "answer": "What is a furnished flat (apartment)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "setting",
+                "poverty"
+            ]
+        },
+        {
+            "id": "cb_adult_med_037",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author's 'Christmas Books' series includes five novellas, including 'A Christmas Carol.'",
+            "answer": "Who is Charles Dickens?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "series",
+                "collection"
+            ]
+        },
+        {
+            "id": "cb_adult_med_038",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Willa Cather wrote about Christmas in this short story set in Nebraska.",
+            "answer": "What is 'The Burglar's Christmas'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Cather",
+                "Nebraska",
+                "short story"
+            ]
+        },
+        {
+            "id": "cb_adult_med_039",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "The oldest of Bob Cratchit's children who helps her mother in 'A Christmas Carol.'",
+            "answer": "Who is Martha Cratchit?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Cratchit",
+                "family",
+                "children"
+            ]
+        },
+        {
+            "id": "cb_adult_med_040",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This bestselling author wrote 'The Christmas Train' about a cross-country journey.",
+            "answer": "Who is David Baldacci?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Baldacci",
+                "train",
+                "contemporary"
+            ]
+        },
+        {
+            "id": "cb_adult_med_041",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'A Visit from St. Nicholas,' St. Nick is described as this type of old elf.",
+            "answer": "What is a right jolly old elf?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "description",
+                "elf"
+            ]
+        },
+        {
+            "id": "cb_adult_med_042",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This Nancy Mitford novel features the eccentric Radlett family at Christmas.",
+            "answer": "What is 'The Pursuit of Love'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Mitford",
+                "British",
+                "family"
+            ]
+        },
+        {
+            "id": "cb_adult_med_043",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "Dickens wrote this many Christmas books in his series following 'A Christmas Carol.'",
+            "answer": "What is five?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "series",
+                "counting"
+            ]
+        },
+        {
+            "id": "cb_adult_med_044",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'The Polar Express,' the boy receives this as the first gift of Christmas.",
+            "answer": "What is a silver bell from Santa's sleigh?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Polar Express",
+                "gift",
+                "bell"
+            ]
+        },
+        {
+            "id": "cb_adult_med_045",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This Daphne du Maurier story collection includes 'The Birds' and Christmas-themed tales.",
+            "answer": "What is 'The Birds and Other Stories'?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "du Maurier",
+                "collection",
+                "British"
+            ]
+        },
+        {
+            "id": "cb_adult_med_046",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "The prize goose in 'A Christmas Carol' that Scrooge sends to the Cratchits is compared to this mythical bird.",
+            "answer": "What is a prize turkey (described as big as a young ostrich)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "turkey",
+                "generosity"
+            ]
+        },
+        {
+            "id": "cb_adult_med_047",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This Edith Wharton ghost story is traditionally read at Christmas, though it's quite dark.",
+            "answer": "What is 'Afterward' (or various ghost stories)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Wharton",
+                "ghost story",
+                "Gothic"
+            ]
+        },
+        {
+            "id": "cb_adult_med_048",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In Capote's 'A Christmas Memory,' Sook is this relation to the young narrator.",
+            "answer": "What is a distant cousin (elderly female cousin)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Capote",
+                "relationship",
+                "memoir"
+            ]
+        },
+        {
+            "id": "cb_adult_med_049",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author wrote 'Holidays on Ice,' a darkly comic collection of Christmas essays.",
+            "answer": "Who is David Sedaris?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Sedaris",
+                "humor",
+                "satire"
+            ]
+        },
+        {
+            "id": "cb_adult_med_050",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "The Ghost of Christmas Past appears to Scrooge carrying this symbolic object.",
+            "answer": "What is a cap (or extinguisher)?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "ghost",
+                "symbolism",
+                "Dickens"
+            ]
+        },
+        {
+            "id": "cb_adult_med_051",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This author wrote 'The Adventure of the Blue Carbuncle,' a Sherlock Holmes Christmas mystery.",
+            "answer": "Who is Arthur Conan Doyle?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Doyle",
+                "Holmes",
+                "mystery"
+            ]
+        },
+        {
+            "id": "cb_adult_med_052",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'Little Women,' the March sisters give their Christmas breakfast to this poor family.",
+            "answer": "Who are the Hummels?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Alcott",
+                "charity",
+                "sacrifice"
+            ]
+        },
+        {
+            "id": "cb_adult_med_053",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "This contemporary author wrote 'The Stupidest Angel: A Heartwarming Tale of Christmas Terror.'",
+            "answer": "Who is Christopher Moore?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Moore",
+                "comedy",
+                "horror"
+            ]
+        },
+        {
+            "id": "cb_adult_med_054",
+            "audience": "adults",
+            "difficulty": "medium",
+            "question": "In 'A Christmas Carol,' this is the amount Scrooge initially offers to donate to charity.",
+            "answer": "What is nothing?",
+            "points": 400,
+            "category": "christmas_literature",
+            "tags": [
+                "Scrooge",
+                "miserliness",
+                "charity"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_001",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This scholar has argued that Henry Livingston Jr., not Clement Clarke Moore, wrote 'A Visit from St. Nicholas.'",
+            "answer": "Who is Don Foster?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "authorship",
+                "controversy",
+                "scholarship"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_002",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In the original German, E.T.A. Hoffmann's nutcracker story is titled this.",
+            "answer": "What is 'Nussknacker und Mausek\u00f6nig'?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "German",
+                "Hoffmann",
+                "original title"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_003",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the exact date when 'A Christmas Carol' was first published in 1843.",
+            "answer": "What is December 19, 1843?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "publication",
+                "date"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_004",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "The first print run of 'A Christmas Carol' sold out by this date.",
+            "answer": "What is Christmas Eve, 1843?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "bestseller",
+                "history"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_005",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' Fan tells young Scrooge that their father has become this, allowing Scrooge to come home.",
+            "answer": "What is much kinder (or so much kinder)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "backstory",
+                "family"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_006",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the name of the man to whom Scrooge was apprenticed as a young man.",
+            "answer": "Who is Mr. Fezziwig?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Fezziwig",
+                "apprentice",
+                "past"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_007",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "Dylan Thomas's 'A Child's Christmas in Wales' was first broadcast on this BBC radio program.",
+            "answer": "What is Children's Hour?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dylan Thomas",
+                "BBC",
+                "radio"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_008",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the illustrator of the original edition of 'A Christmas Carol.'",
+            "answer": "Who is John Leech?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "illustration",
+                "Leech",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_009",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In the original Hoffmann tale, this is Drosselmeyer's profession.",
+            "answer": "What is a clockmaker (or toymaker)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "Hoffmann",
+                "character"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_010",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the subtitle of Dickens's 'A Christmas Carol.'",
+            "answer": "What is 'A Ghost Story of Christmas'?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "subtitle",
+                "genre"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_011",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "Washington Irving's 'Bracebridge Hall' features Christmas traditions at this Yorkshire estate.",
+            "answer": "What is Bracebridge Hall?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Irving",
+                "Yorkshire",
+                "tradition"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_012",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' this is the first name of Mrs. Cratchit.",
+            "answer": "What is Emily (though rarely mentioned)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Cratchit",
+                "obscure",
+                "character"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_013",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the name of Scrooge's laundress who steals his belongings after his death in the vision.",
+            "answer": "Who is Mrs. Dilber?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "minor character",
+                "future"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_014",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "Tolkien's Father Christmas letters featured this character, the North Polar Bear, who often caused chaos.",
+            "answer": "Who is Karhu (the North Polar Bear)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Tolkien",
+                "bear",
+                "letters"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_015",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the publisher of the first edition of 'A Christmas Carol.'",
+            "answer": "Who is Chapman & Hall?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "publishing",
+                "Victorian",
+                "history"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_016",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In Capote's 'A Christmas Memory,' Sook's full name is this.",
+            "answer": "What is never fully revealed (she's called Sook)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Capote",
+                "character",
+                "mystery"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_017",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the total number of Christmas books Dickens wrote after 'A Christmas Carol.'",
+            "answer": "What is four ('The Chimes,' 'The Cricket on the Hearth,' 'The Battle of Life,' 'The Haunted Man')?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "series",
+                "complete"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_018",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This philosopher and writer penned 'The Other Wise Man,' about a fourth Magus.",
+            "answer": "Who is Henry van Dyke?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "van Dyke",
+                "Magi",
+                "religious"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_019",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Visit from St. Nicholas,' St. Nick fills the stockings and then goes up the chimney with this specific gesture.",
+            "answer": "What is laying his finger aside of his nose?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "poetry",
+                "gesture",
+                "details"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_020",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the year E.T.A. Hoffmann first published 'The Nutcracker and the Mouse King.'",
+            "answer": "What is 1816?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Hoffmann",
+                "publication",
+                "history"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_021",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' the Ghost of Christmas Present has this many brothers.",
+            "answer": "What is more than 1,800 (one for each Christmas)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "ghost",
+                "symbolism"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_022",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This poet wrote 'In the Bleak Midwinter,' which became a famous Christmas carol.",
+            "answer": "Who is Christina Rossetti?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Rossetti",
+                "poetry",
+                "carol"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_023",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "Dickens performed public readings of 'A Christmas Carol' this many times before his death.",
+            "answer": "What is 127 times?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "performance",
+                "history"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_024",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'The Gift of the Magi,' this is the exact amount Jim earns per week.",
+            "answer": "What is $20?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "wages",
+                "details"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_025",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the name of the pawnbroker to whom Della sells her hair in 'The Gift of the Magi.'",
+            "answer": "Who is Madame Sofronie?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "character",
+                "transaction"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_026",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This Charles Dickens Christmas story features Trotty Veck and is set on New Year's Eve.",
+            "answer": "What is 'The Chimes'?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "The Chimes",
+                "sequel"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_027",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' Scrooge's former partner has been dead for exactly this many years.",
+            "answer": "What is seven years?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Marley",
+                "timeline",
+                "precision"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_028",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This Pre-Raphaelite poet wrote 'A Christmas Carol' beginning 'In the bleak mid-winter.'",
+            "answer": "Who is Christina Rossetti?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Rossetti",
+                "Pre-Raphaelite",
+                "poetry"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_029",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the French composer who adapted Hoffmann's tale into the ballet 'The Nutcracker.'",
+            "answer": "Who is Pyotr Ilyich Tchaikovsky?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Tchaikovsky",
+                "ballet",
+                "adaptation"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_030",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This author wrote 'The Man Who Invented Christmas,' a fictionalized account of Dickens writing 'A Christmas Carol.'",
+            "answer": "Who is Les Standiford?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Standiford",
+                "biography",
+                "meta-literature"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_031",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In Longfellow's 'Christmas Bells,' he wrote the poem after this personal tragedy.",
+            "answer": "What is his wife's death (and his son's Civil War injury)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Longfellow",
+                "tragedy",
+                "context"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_032",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the year Robert L. May's brother-in-law Johnny Marks turned Rudolph into a song.",
+            "answer": "What is 1949?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Rudolph",
+                "song",
+                "adaptation"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_033",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This Russian choreographer created the original 'Nutcracker' ballet in 1892.",
+            "answer": "Who is Marius Petipa (and Lev Ivanov)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "ballet",
+                "choreographer",
+                "Russian"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_034",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' this is the street where Scrooge's business is located.",
+            "answer": "What is never specified (just 'the City' of London)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "setting",
+                "London"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_035",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This modernist poet wrote 'Journey of the Magi,' a darker take on the Nativity story.",
+            "answer": "Who is T.S. Eliot?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Eliot",
+                "modernism",
+                "Magi"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_036",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the weekly wage that Scrooge pays Bob Cratchit in 'A Christmas Carol.'",
+            "answer": "What is 15 shillings?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "wages",
+                "Victorian",
+                "economics"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_037",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "Anthony Trollope set this novel partly during Christmas at a grand English estate.",
+            "answer": "What is 'The Duke's Children' (or various Barsetshire novels)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Trollope",
+                "Victorian",
+                "Christmas"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_038",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In the original 1823 publication, 'A Visit from St. Nicholas' appeared anonymously in this newspaper.",
+            "answer": "What is the Troy Sentinel?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "publication",
+                "newspaper",
+                "history"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_039",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This amount is what Dickens earned from the first edition of 'A Christmas Carol' due to production costs.",
+            "answer": "What is \u00a3137 (a disappointment given the book's success)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "economics",
+                "publishing"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_040",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This Victorian writer created the character of Christopher Robin and wrote Christmas stories before Winnie-the-Pooh.",
+            "answer": "Who is A.A. Milne?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Milne",
+                "Victorian",
+                "children's lit"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_041",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'The Nutcracker,' the Land of Sweets is ruled by this character.",
+            "answer": "Who is the Sugar Plum Fairy?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "ballet",
+                "character"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_042",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the year Truman Capote's 'A Christmas Memory' was first published.",
+            "answer": "What is 1956?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Capote",
+                "publication",
+                "date"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_043",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' Scrooge's housekeeper is named this.",
+            "answer": "Who is never named (she's just 'his housekeeper')?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Dickens",
+                "servants",
+                "minor characters"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_044",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This medieval English poem about Sir Gawain is set during Christmas at Camelot.",
+            "answer": "What is 'Sir Gawain and the Green Knight'?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "medieval",
+                "Arthurian",
+                "Christmas setting"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_045",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "L. Frank Baum's Santa Claus origin story was published in this year.",
+            "answer": "What is 1902?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Baum",
+                "Santa",
+                "publication"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_046",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the number of staves (chapters) in 'A Christmas Carol.'",
+            "answer": "What is five?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "structure",
+                "Dickens",
+                "format"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_047",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This Victorian ghost story tradition influenced Dickens's decision to make 'A Christmas Carol' supernatural.",
+            "answer": "What is the English tradition of telling ghost stories at Christmas?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "tradition",
+                "ghost stories",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_048",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'The Gift of the Magi,' this is the exact price Madame Sofronie pays for Della's hair.",
+            "answer": "What is $20?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "transaction",
+                "economics"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_049",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This author wrote 'The Tailor of Gloucester,' a Christmas tale featuring mice.",
+            "answer": "Who is Beatrix Potter?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Potter",
+                "animals",
+                "children's lit"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_050",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "In 'A Christmas Carol,' the Ghost of Christmas Past's light shines from this part of its body.",
+            "answer": "What is the head (or crown)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "ghost",
+                "symbolism",
+                "description"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_051",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This is the full title of O. Henry's collection containing 'The Gift of the Magi.'",
+            "answer": "What is 'The Four Million'?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "O. Henry",
+                "collection",
+                "title"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_052",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This Gothic novelist wrote 'The Haunted Hotel,' which includes Christmas scenes.",
+            "answer": "Who is Wilkie Collins?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Collins",
+                "Gothic",
+                "Victorian"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_053",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "The transformation of the Nutcracker in Hoffmann's tale is the result of this curse.",
+            "answer": "What is the Mouse Queen's curse (after he killed her son)?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Nutcracker",
+                "curse",
+                "backstory"
+            ]
+        },
+        {
+            "id": "cb_adult_hard_054",
+            "audience": "adults",
+            "difficulty": "hard",
+            "question": "This Irish author wrote 'The Dead,' a story set during the Feast of the Epiphany in Dublin.",
+            "answer": "Who is James Joyce?",
+            "points": 600,
+            "category": "christmas_literature",
+            "tags": [
+                "Joyce",
+                "Dubliners",
+                "Epiphany"
+            ]
+        }
+    ],
+    "no_humanity": {
+        "audience": "adults",
+        "count": 36,
+        "description": "Dark humor takes on Christmas books and stories with mainstream cultural references",
+        "difficulty_distribution": {
+            "easy": 12,
+            "medium": 12,
+            "hard": 12
+        },
+        "questions": [
+            {
+                "id": "cb_nh_easy_001",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Where Scrooge buys Cratchit's goose now",
+                "answer": "What is Amazon?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Amazon",
+                    "capitalism",
+                    "Dickens"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_002",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Where millennials watch Christmas Carol instead",
+                "answer": "What is Netflix?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Netflix",
+                    "streaming",
+                    "millennials"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_003",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "What the Grinch's heart needed",
+                "answer": "What is Ozempic?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Grinch",
+                    "Ozempic",
+                    "health"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_004",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Gen Z's Christmas Carol reading app",
+                "answer": "What is TikTok?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "TikTok",
+                    "Gen Z",
+                    "social media"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_005",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Gift of Magi's 2020 sacrifice",
+                "answer": "What is toilet paper?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "COVID",
+                    "pandemic",
+                    "2020"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_006",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Red cup War on Christmas HQ",
+                "answer": "What is Starbucks?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Starbucks",
+                    "culture wars",
+                    "Facebook"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_007",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "What Tiny Tim actually needed",
+                "answer": "What is health insurance?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "healthcare",
+                    "affordability",
+                    "millennials"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_008",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Modern Christmas list essential: $1,200",
+                "answer": "What is an iPhone?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "iPhone",
+                    "Apple",
+                    "consumerism"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_009",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Drunk uncle's Christmas Carol rant platform",
+                "answer": "What is Facebook?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Facebook",
+                    "politics",
+                    "family drama"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_010",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Where you spend $347 on wrapping",
+                "answer": "What is Target?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Target",
+                    "retail",
+                    "overspending"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_011",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Electric cars burning like Yule logs",
+                "answer": "What is Tesla?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Tesla",
+                    "Elon Musk",
+                    "technology"
+                ]
+            },
+            {
+                "id": "cb_nh_easy_012",
+                "audience": "adults",
+                "difficulty": "easy",
+                "question": "Night Before Christmas surveillance device",
+                "answer": "What is Alexa?",
+                "points": 200,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Alexa",
+                    "Amazon",
+                    "privacy"
+                ]
+            },
+            {
+                "id": "cb_nh_med_001",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Bob Cratchit's 2am side hustle",
+                "answer": "What is Uber?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Uber",
+                    "gig economy",
+                    "Dickens"
+                ]
+            },
+            {
+                "id": "cb_nh_med_002",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Little Women's new Christmas dinner argument",
+                "answer": "What is the COVID vaccine?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "COVID",
+                    "vaccines",
+                    "family conflict"
+                ]
+            },
+            {
+                "id": "cb_nh_med_003",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Where you stalk your ex's Christmas",
+                "answer": "What is Venmo?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Venmo",
+                    "relationships",
+                    "social media"
+                ]
+            },
+            {
+                "id": "cb_nh_med_004",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Scrooge's 2025 therapy diagnosis",
+                "answer": "What is narcissistic personality disorder?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "mental health",
+                    "psychology",
+                    "Dickens"
+                ]
+            },
+            {
+                "id": "cb_nh_med_005",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Cratchit's Christmas Eve McDonald's delivery app",
+                "answer": "What is DoorDash?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "DoorDash",
+                    "gig economy",
+                    "fast food"
+                ]
+            },
+            {
+                "id": "cb_nh_med_006",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Little Women's real Christmas miracle wish",
+                "answer": "What is a house?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "housing",
+                    "affordability",
+                    "millennials"
+                ]
+            },
+            {
+                "id": "cb_nh_med_007",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Millennials' Ghost of Christmas Future shows",
+                "answer": "What are student loans?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "student loans",
+                    "debt",
+                    "millennials"
+                ]
+            },
+            {
+                "id": "cb_nh_med_008",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Christmas dinner fight starter",
+                "answer": "Who is Trump?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Trump",
+                    "politics",
+                    "family conflict"
+                ]
+            },
+            {
+                "id": "cb_nh_med_009",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "What replaced reading to kids",
+                "answer": "What is a family group chat?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "technology",
+                    "texting",
+                    "family"
+                ]
+            },
+            {
+                "id": "cb_nh_med_010",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Who defrosts for $3 million yearly",
+                "answer": "Who is Mariah Carey?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Mariah Carey",
+                    "music",
+                    "pop culture"
+                ]
+            },
+            {
+                "id": "cb_nh_med_011",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "Toy store Amazon murdered",
+                "answer": "What is Toys R Us?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Toys R Us",
+                    "Amazon",
+                    "retail"
+                ]
+            },
+            {
+                "id": "cb_nh_med_012",
+                "audience": "adults",
+                "difficulty": "medium",
+                "question": "The Grinch's actual diagnosis",
+                "answer": "What is antisocial personality disorder?",
+                "points": 400,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "psychology",
+                    "Grinch",
+                    "mental health"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_001",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "What killed Christmas spirit in Dickens",
+                "answer": "What is capitalism?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "capitalism",
+                    "economics",
+                    "Dickens"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_002",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Modern Gift of Magi sacrifice",
+                "answer": "What is the housing crisis?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "housing",
+                    "affordability",
+                    "O. Henry"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_003",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "What Dickens criticized we still lack",
+                "answer": "What is universal healthcare?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "healthcare",
+                    "politics",
+                    "social justice"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_004",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "What killed Christmas book reading",
+                "answer": "What is TikTok?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "TikTok",
+                    "attention span",
+                    "reading decline"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_005",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Gen Z's White Christmas replacement",
+                "answer": "What is a green Christmas?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "climate change",
+                    "environment",
+                    "future"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_006",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Scrooge's 2025 redemption arc",
+                "answer": "What is a living wage?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "labor rights",
+                    "wages",
+                    "social justice"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_007",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Twitter Marxists' Christmas Carol reading",
+                "answer": "What is anti-capitalism?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "Marxism",
+                    "politics",
+                    "literary analysis"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_008",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Why Little Women resonates today",
+                "answer": "What is the gig economy?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "gig economy",
+                    "labor",
+                    "Alcott"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_009",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Night Before Christmas trains surveillance acceptance",
+                "answer": "What is the NSA?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "surveillance",
+                    "privacy",
+                    "government"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_010",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Why Scrooge hoarded while Cratchit starved",
+                "answer": "What is capitalism?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "economics",
+                    "capitalism",
+                    "theory"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_011",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Polar Express's dark authoritarian message",
+                "answer": "What is blind obedience to authority?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "film theory",
+                    "authority",
+                    "analysis"
+                ]
+            },
+            {
+                "id": "cb_nh_hard_012",
+                "audience": "adults",
+                "difficulty": "hard",
+                "question": "Who earns Gift of Magi faster",
+                "answer": "Who is Jeff Bezos?",
+                "points": 600,
+                "category": "christmas_literature_no_humanity",
+                "tags": [
+                    "wealth inequality",
+                    "billionaires",
+                    "Amazon"
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "created_date": "2025-12-26",
+        "format": "jeopardy",
+        "themes": [
+            "classic_literature",
+            "Victorian_Christmas",
+            "modern_Christmas_books",
+            "Christmas_poetry",
+            "children's_classics",
+            "short_stories",
+            "Christmas_mysteries",
+            "authors_and_history",
+            "no_humanity_parodies",
+            "dark_humor_retellings"
+        ],
+        "difficulty_notes": {
+            "easy": "Well-known titles, famous characters, basic plot points",
+            "medium": "Author names, supporting characters, publication details, lesser-known works",
+            "hard": "Obscure details, publication history, minor characters, scholarly debates, precise dates"
+        },
+        "no_humanity_notes": {
+            "theme": "Dark, irreverent, and adult-oriented parodies of beloved Christmas classics",
+            "audience": "adults",
+            "content_warning": "Contains references to sexual content, drug use, alcohol abuse, and subversive humor"
+        }
+    }
+}

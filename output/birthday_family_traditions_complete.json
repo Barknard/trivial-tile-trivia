@@ -1,0 +1,1318 @@
+{
+  "category": "Birthday Family Traditions",
+  "category_id": "birthday_family_traditions",
+  "theme": "birthday",
+  "research_basis": [
+    "Family systems theory",
+    "Intergenerational transmission of traditions",
+    "Family psychology and dynamics",
+    "Anthropology of family rituals",
+    "Developmental psychology",
+    "Family bonding and attachment theory",
+    "Cultural transmission in families",
+    "Social-emotional learning",
+    "Family communication patterns",
+    "Generational studies and legacy"
+  ],
+  "total_questions": 180,
+  "questions_per_level": 36,
+  "point_values": [
+    200,
+    400,
+    600,
+    800,
+    1000
+  ],
+  "audience_levels": {
+    "kids_4_under": {
+      "level_name": "Kids 4 and Under",
+      "focus": "Simple family celebration concepts, immediate family, basic party activities",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "Who is your mom's mom called?",
+          "answer": "Grandmother or Grandma",
+          "difficulty": "easy",
+          "family_context": "Extended family relationships"
+        },
+        {
+          "point_value": 200,
+          "question": "What do family members sing to you on your birthday?",
+          "answer": "Happy Birthday",
+          "difficulty": "easy",
+          "family_context": "Family celebration rituals"
+        },
+        {
+          "point_value": 200,
+          "question": "Who is your dad's brother?",
+          "answer": "Uncle",
+          "difficulty": "easy",
+          "family_context": "Extended family relationships"
+        },
+        {
+          "point_value": 200,
+          "question": "What do family members give you on your birthday?",
+          "answer": "Presents or gifts",
+          "difficulty": "easy",
+          "family_context": "Birthday gift-giving tradition"
+        },
+        {
+          "point_value": 200,
+          "question": "Who is your mom's sister?",
+          "answer": "Aunt",
+          "difficulty": "easy",
+          "family_context": "Extended family relationships"
+        },
+        {
+          "point_value": 200,
+          "question": "What sweet thing do families bring out to celebrate?",
+          "answer": "Birthday cake",
+          "difficulty": "easy",
+          "family_context": "Birthday cake tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "What do you make on your birthday that family members listen to?",
+          "answer": "A wish",
+          "difficulty": "easy",
+          "family_context": "Candle-blowing tradition"
+        },
+        {
+          "point_value": 400,
+          "question": "Which family member helps plan your birthday party?",
+          "answer": "Parent or family member (parents, mom, dad, etc.)",
+          "difficulty": "easy",
+          "family_context": "Family planning and involvement"
+        },
+        {
+          "point_value": 400,
+          "question": "What do grandparents often bring when they visit for your birthday?",
+          "answer": "Gifts, cake, or presents",
+          "difficulty": "easy",
+          "family_context": "Grandparent participation"
+        },
+        {
+          "point_value": 400,
+          "question": "Who is your brother's sister?",
+          "answer": "You or your sister",
+          "difficulty": "easy",
+          "family_context": "Sibling relationships"
+        },
+        {
+          "point_value": 400,
+          "question": "What color balloons does your family use at birthday parties?",
+          "answer": "Any color or your favorite color",
+          "difficulty": "easy",
+          "family_context": "Family party decorating"
+        },
+        {
+          "point_value": 400,
+          "question": "Where do families often go to celebrate a birthday?",
+          "answer": "Home, restaurant, or park",
+          "difficulty": "easy",
+          "family_context": "Birthday celebration locations"
+        },
+        {
+          "point_value": 600,
+          "question": "What do your relatives shout when you enter your birthday party?",
+          "answer": "Surprise or Happy Birthday",
+          "difficulty": "medium",
+          "family_context": "Surprise party tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "How many candles does your family put on a birthday cake for someone turning 3?",
+          "answer": "Three",
+          "difficulty": "medium",
+          "family_context": "Age-based cake tradition"
+        },
+        {
+          "point_value": 600,
+          "question": "What do you and your siblings do together at family birthday parties?",
+          "answer": "Play games, eat cake, or dance",
+          "difficulty": "medium",
+          "family_context": "Sibling bonding at celebrations"
+        },
+        {
+          "point_value": 600,
+          "question": "Who does your family call to tell them it's your birthday?",
+          "answer": "Grandparents, aunts, uncles, or cousins",
+          "difficulty": "medium",
+          "family_context": "Extended family communication"
+        },
+        {
+          "point_value": 600,
+          "question": "What special thing does your family cook for your birthday dinner?",
+          "answer": "Your favorite meal or special food",
+          "difficulty": "medium",
+          "family_context": "Family food traditions"
+        },
+        {
+          "point_value": 600,
+          "question": "What does your family do with the birthday candles after you blow them out?",
+          "answer": "Take them off or throw them away",
+          "difficulty": "medium",
+          "family_context": "Birthday ritual cleanup"
+        },
+        {
+          "point_value": 800,
+          "question": "What birthday tradition does your family repeat every year?",
+          "answer": "Cake, candles, singing, or party (any family tradition)",
+          "difficulty": "medium",
+          "family_context": "Annual family traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "What do grandparents and family members write in your birthday card?",
+          "answer": "Happy Birthday or a nice message",
+          "difficulty": "medium",
+          "family_context": "Birthday card tradition"
+        },
+        {
+          "point_value": 800,
+          "question": "Who in your family teaches you how to cut the birthday cake?",
+          "answer": "Parent, mom, or dad",
+          "difficulty": "medium",
+          "family_context": "Teaching and tradition transmission"
+        },
+        {
+          "point_value": 800,
+          "question": "What does your family do after singing Happy Birthday?",
+          "answer": "Eat cake or blow out candles",
+          "difficulty": "medium",
+          "family_context": "Party sequence and traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "What family member is your dad's father?",
+          "answer": "Grandfather or Grandpa",
+          "difficulty": "medium",
+          "family_context": "Grandparent terminology"
+        },
+        {
+          "point_value": 800,
+          "question": "How does your family help make your birthday special?",
+          "answer": "Planning, decorating, cooking, or spending time together",
+          "difficulty": "medium",
+          "family_context": "Family participation and bonding"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is a family tradition that gets passed down from grandparents?",
+          "answer": "Special recipes, games, songs, or customs",
+          "difficulty": "hard",
+          "family_context": "Intergenerational traditions"
+        },
+        {
+          "point_value": 1000,
+          "question": "What does your family promise to do every year for your birthday?",
+          "answer": "Celebrate, gather together, or have a tradition",
+          "difficulty": "hard",
+          "family_context": "Family commitment to traditions"
+        },
+        {
+          "point_value": 1000,
+          "question": "Which family member tells stories about your birth on your birthday?",
+          "answer": "Mom, dad, or grandparent",
+          "difficulty": "hard",
+          "family_context": "Birth story tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What makes your family's birthday celebration different from other families?",
+          "answer": "Special traditions, recipes, or customs unique to your family",
+          "difficulty": "hard",
+          "family_context": "Unique family identity"
+        },
+        {
+          "point_value": 1000,
+          "question": "Why does your family come together for birthdays?",
+          "answer": "To celebrate, bond, show love, or create memories",
+          "difficulty": "hard",
+          "family_context": "Purpose of family traditions"
+        },
+        {
+          "point_value": 1000,
+          "question": "What do all your family members do at the birthday party?",
+          "answer": "Sing, eat, give gifts, play games, or celebrate together",
+          "difficulty": "hard",
+          "family_context": "Family participation and togetherness"
+        },
+        {
+          "point_value": 600,
+          "question": "What is the name of your dad's or mom's mom's mom?",
+          "answer": "Great-grandmother or great-grandma",
+          "difficulty": "medium",
+          "family_context": "Extended family generations"
+        },
+        {
+          "point_value": 600,
+          "question": "What do you do with your family to celebrate someone else's birthday?",
+          "answer": "Sing, eat cake, dance, play games, or give gifts",
+          "difficulty": "medium",
+          "family_context": "Family participation in others' celebrations"
+        },
+        {
+          "point_value": 800,
+          "question": "What year was your grandma born?",
+          "answer": "Any reasonable year for a grandparent (accept approximate answers)",
+          "difficulty": "medium",
+          "family_context": "Generational timeline awareness"
+        },
+        {
+          "point_value": 800,
+          "question": "How many cousins do you have at your birthday parties?",
+          "answer": "Number of cousins (any number is acceptable as open-ended)",
+          "difficulty": "medium",
+          "family_context": "Extended family size awareness"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is the most special thing about your family's birthday?",
+          "answer": "Family together, special food, love, traditions, or memories",
+          "difficulty": "hard",
+          "family_context": "Personal family values"
+        },
+        {
+          "point_value": 1000,
+          "question": "What does your family do that makes your birthday different from your friends' birthdays?",
+          "answer": "Unique traditions, special food, games, or family customs",
+          "difficulty": "hard",
+          "family_context": "Family uniqueness recognition"
+        }
+      ]
+    },
+    "kids_5_9": {
+      "level_name": "Kids 5-9",
+      "focus": "Family roles in celebrations, tradition meanings, family bonding activities, generational stories",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "What tradition does your family repeat every single birthday?",
+          "answer": "Singing Happy Birthday, eating cake, or specific family ritual",
+          "difficulty": "easy",
+          "family_context": "Recurring family traditions"
+        },
+        {
+          "point_value": 200,
+          "question": "Who in your family makes or bakes your birthday cake?",
+          "answer": "Mom, dad, grandparent, or family member",
+          "difficulty": "easy",
+          "family_context": "Family member roles"
+        },
+        {
+          "point_value": 200,
+          "question": "What does your family do to make your birthday feel special?",
+          "answer": "Decorate, cook special food, give gifts, or spend time together",
+          "difficulty": "easy",
+          "family_context": "Family celebration practices"
+        },
+        {
+          "point_value": 200,
+          "question": "How many generations of family members usually come to your birthday?",
+          "answer": "Multiple generations or grandparents, parents, kids",
+          "difficulty": "easy",
+          "family_context": "Multigenerational gatherings"
+        },
+        {
+          "point_value": 200,
+          "question": "What is passed down in your family about birthday celebrations?",
+          "answer": "Traditions, recipes, stories, or customs",
+          "difficulty": "easy",
+          "family_context": "Intergenerational transmission"
+        },
+        {
+          "point_value": 200,
+          "question": "Which relatives do you most look forward to seeing on your birthday?",
+          "answer": "Grandparents, cousins, aunts, uncles, or family members",
+          "difficulty": "easy",
+          "family_context": "Family bond preferences"
+        },
+        {
+          "point_value": 400,
+          "question": "What story do your parents or grandparents tell about your birthday?",
+          "answer": "Birth story, early birthday celebration, or family memory",
+          "difficulty": "easy",
+          "family_context": "Family storytelling traditions"
+        },
+        {
+          "point_value": 400,
+          "question": "What special food does your family make that's unique to your birthday?",
+          "answer": "Family recipe, favorite dish, or cultural food",
+          "difficulty": "easy",
+          "family_context": "Family food traditions"
+        },
+        {
+          "point_value": 400,
+          "question": "How does your grandparent participate in your birthday celebration?",
+          "answer": "Gives gifts, cooks, attends party, or tells stories",
+          "difficulty": "easy",
+          "family_context": "Grandparent involvement"
+        },
+        {
+          "point_value": 400,
+          "question": "What role does your oldest sibling or family member play in birthdays?",
+          "answer": "Helps plan, gives gifts, leads singing, or organizes games",
+          "difficulty": "easy",
+          "family_context": "Family member roles"
+        },
+        {
+          "point_value": 400,
+          "question": "What family member is usually in charge of planning your party?",
+          "answer": "Parent, mom, or dad",
+          "difficulty": "easy",
+          "family_context": "Family leadership in planning"
+        },
+        {
+          "point_value": 400,
+          "question": "How do your relatives show they care about your birthday?",
+          "answer": "Gifts, calls, cards, visiting, or spending time with you",
+          "difficulty": "easy",
+          "family_context": "Family expressions of care"
+        },
+        {
+          "point_value": 600,
+          "question": "What tradition from your grandparent's generation is still done at your birthday?",
+          "answer": "Specific recipe, song, game, or ritual",
+          "difficulty": "medium",
+          "family_context": "Multigenerational traditions"
+        },
+        {
+          "point_value": 600,
+          "question": "Who in your family helps you prepare for your birthday celebration?",
+          "answer": "Parents, siblings, grandparents, or family members",
+          "difficulty": "medium",
+          "family_context": "Family collaboration"
+        },
+        {
+          "point_value": 600,
+          "question": "What do you learn about your family through birthday celebrations?",
+          "answer": "Values, history, who you are, family bonds, or culture",
+          "difficulty": "medium",
+          "family_context": "Family identity formation"
+        },
+        {
+          "point_value": 600,
+          "question": "How does your family's birthday tradition show love and connection?",
+          "answer": "Gathering together, special attention, gifts, time, or care",
+          "difficulty": "medium",
+          "family_context": "Family bonding through traditions"
+        },
+        {
+          "point_value": 600,
+          "question": "What responsibility do you have during a family member's birthday?",
+          "answer": "Help with party, sing, give gift, or participate",
+          "difficulty": "medium",
+          "family_context": "Family member contributions"
+        },
+        {
+          "point_value": 600,
+          "question": "What stories does your family tell about past birthdays?",
+          "answer": "Funny moments, traditions, memorable celebrations, or family history",
+          "difficulty": "medium",
+          "family_context": "Family memory and storytelling"
+        },
+        {
+          "point_value": 800,
+          "question": "How have your family's birthday traditions changed over time?",
+          "answer": "Different locations, foods, guests, size, or style",
+          "difficulty": "medium",
+          "family_context": "Evolution of family traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "What does it mean to your family to celebrate birthdays together?",
+          "answer": "Love, connection, family importance, creating memories, or togetherness",
+          "difficulty": "medium",
+          "family_context": "Family values and meaning-making"
+        },
+        {
+          "point_value": 800,
+          "question": "How do you help keep your family's traditions alive?",
+          "answer": "Learn them, do them, teach younger siblings, pass them down",
+          "difficulty": "medium",
+          "family_context": "Tradition transmission and responsibility"
+        },
+        {
+          "point_value": 800,
+          "question": "What family member carries on traditions from your great-grandparents?",
+          "answer": "Grandparent, parent, or family elder",
+          "difficulty": "medium",
+          "family_context": "Intergenerational leadership"
+        },
+        {
+          "point_value": 800,
+          "question": "What does your family do differently at birthdays than other families?",
+          "answer": "Special traditions, cultural customs, family recipes, or unique rituals",
+          "difficulty": "medium",
+          "family_context": "Unique family identity"
+        },
+        {
+          "point_value": 800,
+          "question": "How do distant family members participate in your birthday?",
+          "answer": "Calls, video chats, cards, gifts, or visit when possible",
+          "difficulty": "medium",
+          "family_context": "Extended family connection"
+        },
+        {
+          "point_value": 1000,
+          "question": "What life lessons do you learn from your family's birthday traditions?",
+          "answer": "Family values, love, heritage, identity, commitment, or belonging",
+          "difficulty": "hard",
+          "family_context": "Educational value of traditions"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do your family's birthday traditions connect you to your heritage?",
+          "answer": "Cultural practices, family history, ancestral customs, or values",
+          "difficulty": "hard",
+          "family_context": "Cultural and ancestral connection"
+        },
+        {
+          "point_value": 1000,
+          "question": "What family tradition will you pass down when you grow up?",
+          "answer": "Family birthday rituals, recipes, stories, or customs",
+          "difficulty": "hard",
+          "family_context": "Future tradition transmission"
+        },
+        {
+          "point_value": 1000,
+          "question": "How does your family's celebration bring everyone closer together?",
+          "answer": "Shared experiences, creating memories, expressing love, bonding",
+          "difficulty": "hard",
+          "family_context": "Family cohesion through celebration"
+        },
+        {
+          "point_value": 1000,
+          "question": "What would birthdays feel like without your family's traditions?",
+          "answer": "Less special, empty, lonely, or not the same",
+          "difficulty": "hard",
+          "family_context": "Importance of traditions to family"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do your siblings feel about your family's birthday traditions?",
+          "answer": "Happy, excited, connected, or bonded (positive feelings)",
+          "difficulty": "hard",
+          "family_context": "Sibling relationships and shared traditions"
+        },
+        {
+          "point_value": 200,
+          "question": "What city or place was your parent born in?",
+          "answer": "Name of city or location (varies by family)",
+          "difficulty": "easy",
+          "family_context": "Family origin stories"
+        },
+        {
+          "point_value": 400,
+          "question": "What is your family's favorite birthday food that's not cake?",
+          "answer": "Family-specific food or meal preference",
+          "difficulty": "easy",
+          "family_context": "Food traditions"
+        },
+        {
+          "point_value": 600,
+          "question": "How many generations of your family usually celebrate together?",
+          "answer": "Number of generations (children, parents, grandparents, etc.)",
+          "difficulty": "medium",
+          "family_context": "Multigenerational participation"
+        },
+        {
+          "point_value": 800,
+          "question": "What family member tells the best birthday stories?",
+          "answer": "Grandparent, parent, aunt, uncle, or older sibling",
+          "difficulty": "medium",
+          "family_context": "Family storyteller roles"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is something you learned about your family from their birthday traditions?",
+          "answer": "Values, history, where they came from, what's important, or who they are",
+          "difficulty": "hard",
+          "family_context": "Family learning through traditions"
+        },
+        {
+          "point_value": 1000,
+          "question": "If you could change one thing about your family's birthday traditions, what would it be?",
+          "answer": "Any answer reflecting personal preference or family input",
+          "difficulty": "hard",
+          "family_context": "Personal agency in traditions"
+        }
+      ]
+    },
+    "kids_10_14": {
+      "level_name": "Kids 10-14",
+      "focus": "Complex family dynamics, cultural heritage, family psychology, adolescent perspective on traditions, generational differences",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "What cultural influences shape your family's birthday traditions?",
+          "answer": "Heritage, ethnicity, religion, family background, or ancestors",
+          "difficulty": "easy",
+          "family_context": "Cultural foundation of traditions"
+        },
+        {
+          "point_value": 200,
+          "question": "How have your family's birthday practices changed from your parents' childhood?",
+          "answer": "Different activities, foods, locations, technology, or size",
+          "difficulty": "easy",
+          "family_context": "Generational evolution"
+        },
+        {
+          "point_value": 200,
+          "question": "What role do siblings play in maintaining family birthday traditions?",
+          "answer": "Help plan, participate, support, carry on customs, or create memories",
+          "difficulty": "easy",
+          "family_context": "Sibling collaboration"
+        },
+        {
+          "point_value": 200,
+          "question": "How does your family keep relationships strong through birthday celebrations?",
+          "answer": "Gathering together, quality time, shared experiences, or connecting",
+          "difficulty": "easy",
+          "family_context": "Relationship maintenance through traditions"
+        },
+        {
+          "point_value": 200,
+          "question": "What family member is the keeper of family stories and traditions?",
+          "answer": "Grandparent, parent, elder, or family historian",
+          "difficulty": "easy",
+          "family_context": "Family role specialization"
+        },
+        {
+          "point_value": 200,
+          "question": "How have modern technology changed how your family celebrates birthdays?",
+          "answer": "Video calls, social media, digital invitations, or long-distance connections",
+          "difficulty": "easy",
+          "family_context": "Modern tradition adaptation"
+        },
+        {
+          "point_value": 400,
+          "question": "What ancestral traditions does your family deliberately preserve?",
+          "answer": "Recipes, rituals, stories, languages, or customs from ancestors",
+          "difficulty": "easy",
+          "family_context": "Intentional heritage preservation"
+        },
+        {
+          "point_value": 400,
+          "question": "How does your family define what makes a birthday meaningful?",
+          "answer": "Togetherness, love, tradition, creating memories, or connection",
+          "difficulty": "easy",
+          "family_context": "Family values definition"
+        },
+        {
+          "point_value": 400,
+          "question": "What unwritten rules exist in your family's birthday celebrations?",
+          "answer": "Specific traditions, expectations, timing, or customs",
+          "difficulty": "easy",
+          "family_context": "Family norms and expectations"
+        },
+        {
+          "point_value": 400,
+          "question": "How do your parents explain the importance of family traditions to you?",
+          "answer": "Family bonds, identity, continuity, heritage, or history",
+          "difficulty": "easy",
+          "family_context": "Parental perspective on traditions"
+        },
+        {
+          "point_value": 400,
+          "question": "What challenges does your family face in maintaining traditions?",
+          "answer": "Distance, busy schedules, changing interests, or modern life",
+          "difficulty": "easy",
+          "family_context": "Obstacles to tradition maintenance"
+        },
+        {
+          "point_value": 400,
+          "question": "How do adopted or blended family members participate in traditions?",
+          "answer": "Integration, creating new combined traditions, or acceptance",
+          "difficulty": "easy",
+          "family_context": "Inclusive family dynamics"
+        },
+        {
+          "point_value": 600,
+          "question": "What psychological impact do family birthday traditions have on your identity?",
+          "answer": "Sense of belonging, self-worth, cultural pride, or family connection",
+          "difficulty": "medium",
+          "family_context": "Identity formation through traditions"
+        },
+        {
+          "point_value": 600,
+          "question": "How do your family's traditions help you understand your ancestors?",
+          "answer": "Values, history, who you come from, cultural background, or heritage",
+          "difficulty": "medium",
+          "family_context": "Ancestral understanding"
+        },
+        {
+          "point_value": 600,
+          "question": "What tension exists between keeping old traditions and creating new ones?",
+          "answer": "Generational differences, changing values, or balancing past and present",
+          "difficulty": "medium",
+          "family_context": "Tradition evolution dynamics"
+        },
+        {
+          "point_value": 600,
+          "question": "How do you feel about participating in family traditions as you get older?",
+          "answer": "Changing perspectives, independence, tradition importance, or growing appreciation",
+          "difficulty": "medium",
+          "family_context": "Adolescent relationship with traditions"
+        },
+        {
+          "point_value": 600,
+          "question": "What family member role model shows you how to honor traditions?",
+          "answer": "Parent, grandparent, aunt, uncle, or family elder",
+          "difficulty": "medium",
+          "family_context": "Role models in tradition transmission"
+        },
+        {
+          "point_value": 600,
+          "question": "How do your family's birthday practices connect to larger family systems?",
+          "answer": "Extended family, cultural groups, religious communities, or networks",
+          "difficulty": "medium",
+          "family_context": "Family systems perspective"
+        },
+        {
+          "point_value": 800,
+          "question": "What does research show about why families maintain traditions like birthday celebrations?",
+          "answer": "Bonding, identity, belonging, continuity, security, or cultural transmission",
+          "difficulty": "medium",
+          "family_context": "Research on family traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "How do family birthday traditions help siblings develop closer bonds?",
+          "answer": "Shared experiences, cooperation, inside jokes, memories, or teamwork",
+          "difficulty": "medium",
+          "family_context": "Sibling relationship development"
+        },
+        {
+          "point_value": 800,
+          "question": "What intergenerational knowledge is transmitted through your family's traditions?",
+          "answer": "Skills, values, recipes, stories, language, or cultural practices",
+          "difficulty": "medium",
+          "family_context": "Knowledge transmission"
+        },
+        {
+          "point_value": 800,
+          "question": "How do your family's expectations about birthdays shape your behavior?",
+          "answer": "Participation, cooperation, gratitude, family loyalty, or values",
+          "difficulty": "medium",
+          "family_context": "Behavioral influence of traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "What distinguishes your family's traditions from popular culture versions?",
+          "answer": "Authenticity, personal meaning, family-specific customs, or deeper significance",
+          "difficulty": "medium",
+          "family_context": "Authentic vs. commercial traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "How does your family navigate disagreements about tradition practices?",
+          "answer": "Discussion, compromise, respect, adaptation, or family meetings",
+          "difficulty": "medium",
+          "family_context": "Family communication about traditions"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do family birthday traditions serve as a continuity mechanism across generations?",
+          "answer": "Link past to present, provide stability, transmit values, or maintain family identity",
+          "difficulty": "hard",
+          "family_context": "Generational continuity"
+        },
+        {
+          "point_value": 1000,
+          "question": "What role do family traditions play in creating secure attachment between family members?",
+          "answer": "Predictability, togetherness, trust, safety, or emotional bonds",
+          "difficulty": "hard",
+          "family_context": "Attachment theory and traditions"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do your family's birthday practices reflect broader family values and systems?",
+          "answer": "Priorities, relationships, cultural identity, generosity, or togetherness",
+          "difficulty": "hard",
+          "family_context": "Family systems alignment"
+        },
+        {
+          "point_value": 1000,
+          "question": "What responsibility do you feel to preserve and pass on family traditions?",
+          "answer": "Duty, love, identity, heritage preservation, or family legacy",
+          "difficulty": "hard",
+          "family_context": "Tradition stewardship"
+        },
+        {
+          "point_value": 1000,
+          "question": "How might your family's traditions evolve based on your generation's values?",
+          "answer": "Adaptation, new customs, blending old and new, or innovation",
+          "difficulty": "hard",
+          "family_context": "Future tradition evolution"
+        },
+        {
+          "point_value": 1000,
+          "question": "What would losing your family's traditions mean for your sense of identity and belonging?",
+          "answer": "Loss of continuity, identity confusion, disconnection, or cultural loss",
+          "difficulty": "hard",
+          "family_context": "Importance of traditions to identity"
+        },
+        {
+          "point_value": 200,
+          "question": "How do your parents' birthday traditions compare to their parents' traditions?",
+          "answer": "Similarities, differences, or evolution over generations",
+          "difficulty": "easy",
+          "family_context": "Generational comparison"
+        },
+        {
+          "point_value": 400,
+          "question": "What part of your family's birthday tradition do you want to keep as an adult?",
+          "answer": "Specific tradition or practice they value",
+          "difficulty": "easy",
+          "family_context": "Future tradition intentions"
+        },
+        {
+          "point_value": 600,
+          "question": "How have your family's birthday celebrations changed as you've gotten older?",
+          "answer": "Different activities, responsibilities, or feelings",
+          "difficulty": "medium",
+          "family_context": "Developmental changes in traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "What would your family do if someone couldn't make it to a birthday celebration?",
+          "answer": "Reschedule, include them remotely, celebrate anyway, or adapt",
+          "difficulty": "medium",
+          "family_context": "Family flexibility and adaptation"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do you balance enjoying family traditions with wanting to do things differently?",
+          "answer": "Compromise, negotiate, respect both perspectives, or thoughtful choice",
+          "difficulty": "hard",
+          "family_context": "Autonomy and connection balance"
+        },
+        {
+          "point_value": 1000,
+          "question": "What does your family's approach to birthdays reveal about what they value most?",
+          "answer": "Togetherness, celebration, food, memories, individual recognition, or love",
+          "difficulty": "hard",
+          "family_context": "Family values reflection"
+        }
+      ]
+    },
+    "teens_adults": {
+      "level_name": "Teens & Adults",
+      "focus": "Psychological frameworks, generational transmission, conscious tradition creation, family systems theory, nostalgia and meaning-making, conscious parenting",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "What does attachment theory tell us about family birthday traditions?",
+          "answer": "Create security, strengthen bonds, provide predictability, build trust, or enhance belonging",
+          "difficulty": "easy",
+          "family_context": "Psychological framework"
+        },
+        {
+          "point_value": 200,
+          "question": "How do family traditions serve as a mechanism for cultural transmission?",
+          "answer": "Pass values, heritage, skills, identity, or worldview between generations",
+          "difficulty": "easy",
+          "family_context": "Cultural transmission theory"
+        },
+        {
+          "point_value": 200,
+          "question": "What role do family narratives play in birthday celebrations?",
+          "answer": "Create meaning, establish identity, connect to history, or reinforce family bonds",
+          "difficulty": "easy",
+          "family_context": "Narrative family therapy"
+        },
+        {
+          "point_value": 200,
+          "question": "How do generational differences influence birthday celebration styles?",
+          "answer": "Values, technology, economics, social norms, or life experiences",
+          "difficulty": "easy",
+          "family_context": "Generational theory"
+        },
+        {
+          "point_value": 200,
+          "question": "What psychological needs do family traditions fulfill?",
+          "answer": "Belonging, identity, safety, continuity, meaning, or connection",
+          "difficulty": "easy",
+          "family_context": "Psychological need theory"
+        },
+        {
+          "point_value": 200,
+          "question": "How do family systems theory explain the importance of rituals like birthday celebrations?",
+          "answer": "Maintain family equilibrium, define roles, establish communication patterns, or strengthen bonds",
+          "difficulty": "easy",
+          "family_context": "Family systems theory"
+        },
+        {
+          "point_value": 400,
+          "question": "What is the relationship between family traditions and intergenerational resilience?",
+          "answer": "Provide stability, create connection, transmit coping skills, or build strength",
+          "difficulty": "easy",
+          "family_context": "Resilience theory"
+        },
+        {
+          "point_value": 400,
+          "question": "How do conscious parents intentionally design birthday traditions?",
+          "answer": "Align with values, consider child's needs, create meaning, or establish culture",
+          "difficulty": "easy",
+          "family_context": "Conscious parenting"
+        },
+        {
+          "point_value": 400,
+          "question": "What distinguishes inherited traditions from newly created family customs?",
+          "answer": "Origins, intentionality, meaning, authenticity, or family choice",
+          "difficulty": "easy",
+          "family_context": "Tradition types"
+        },
+        {
+          "point_value": 400,
+          "question": "How do family traditions contribute to the development of family identity?",
+          "answer": "Define values, create unity, establish uniqueness, or build shared meaning",
+          "difficulty": "easy",
+          "family_context": "Family identity formation"
+        },
+        {
+          "point_value": 400,
+          "question": "What role does nostalgia play in how adults remember family birthdays?",
+          "answer": "Emotional significance, selective memory, meaning-making, or identity formation",
+          "difficulty": "easy",
+          "family_context": "Nostalgia psychology"
+        },
+        {
+          "point_value": 400,
+          "question": "How do blended families negotiate and create unified birthday traditions?",
+          "answer": "Compromise, respect, integration, creating new combined customs, or flexibility",
+          "difficulty": "easy",
+          "family_context": "Blended family dynamics"
+        },
+        {
+          "point_value": 600,
+          "question": "What does research reveal about the correlation between family traditions and mental health outcomes?",
+          "answer": "Lower anxiety, stronger identity, better family relationships, increased resilience, or sense of belonging",
+          "difficulty": "medium",
+          "family_context": "Mental health research"
+        },
+        {
+          "point_value": 600,
+          "question": "How do family birthday rituals function as communication systems within family structures?",
+          "answer": "Express love, establish roles, transmit values, create predictability, or strengthen bonds",
+          "difficulty": "medium",
+          "family_context": "Communication and rituals"
+        },
+        {
+          "point_value": 600,
+          "question": "What is the relationship between family traditions and the development of social-emotional competencies?",
+          "answer": "Empathy, belonging, communication skills, emotional regulation, or social awareness",
+          "difficulty": "medium",
+          "family_context": "Social-emotional development"
+        },
+        {
+          "point_value": 600,
+          "question": "How do adults negotiate the tension between honoring inherited traditions and creating modern families?",
+          "answer": "Selective adaptation, respectful innovation, blending old and new, or conscious choice",
+          "difficulty": "medium",
+          "family_context": "Tradition evolution and adult agency"
+        },
+        {
+          "point_value": 600,
+          "question": "What anthropological perspective explains why birthday celebrations are nearly universal?",
+          "answer": "Life transition marking, community bonding, individual recognition, or ritual necessity",
+          "difficulty": "medium",
+          "family_context": "Anthropological perspective"
+        },
+        {
+          "point_value": 600,
+          "question": "How do family traditions serve as anchors during major life transitions?",
+          "answer": "Provide continuity, stability, identity, connection, or meaning",
+          "difficulty": "medium",
+          "family_context": "Transitions and anchors"
+        },
+        {
+          "point_value": 800,
+          "question": "What does systems theory suggest about how one family member's preferences affect birthday tradition practice?",
+          "answer": "Ripple effects through system, negotiation, balance, adaptation, or family equilibrium",
+          "difficulty": "medium",
+          "family_context": "Systems feedback loops"
+        },
+        {
+          "point_value": 800,
+          "question": "How do family traditions transmit implicit versus explicit values?",
+          "answer": "Explicit: stated values; Implicit: modeled behaviors, priorities, relationships, or culture",
+          "difficulty": "medium",
+          "family_context": "Values transmission methods"
+        },
+        {
+          "point_value": 800,
+          "question": "What role does reciprocity play in maintaining family birthday traditions across generations?",
+          "answer": "Mutual obligation, fairness, equal participation, continuing cycle, or fair exchange",
+          "difficulty": "medium",
+          "family_context": "Reciprocity and exchange theory"
+        },
+        {
+          "point_value": 800,
+          "question": "How do family traditions buffer against stress and contribute to family cohesion?",
+          "answer": "Provide stability, create routine, express care, build connection, or create safe spaces",
+          "difficulty": "medium",
+          "family_context": "Stress buffering and cohesion"
+        },
+        {
+          "point_value": 800,
+          "question": "What is the significance of birthday traditions in constructing family mythology and narrative?",
+          "answer": "Define identity, create shared story, establish values, connect to history, or meaning-making",
+          "difficulty": "medium",
+          "family_context": "Family mythology construction"
+        },
+        {
+          "point_value": 800,
+          "question": "How do parents' own childhood experiences influence their birthday celebration practices?",
+          "answer": "Replication, improvement, rejection, adaptation, or conscious choice",
+          "difficulty": "medium",
+          "family_context": "Intergenerational patterns"
+        },
+        {
+          "point_value": 1000,
+          "question": "What does contemporary family systems theory suggest about the role of traditions in maintaining intergenerational boundaries and connections?",
+          "answer": "Balance autonomy with connection, respect differences, maintain family identity, or support development",
+          "difficulty": "hard",
+          "family_context": "Systems theory application"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do family birthday traditions serve as both markers of continuity and opportunities for adaptive change?",
+          "answer": "Honor past while allowing growth, maintain identity while evolving, balance stability with flexibility",
+          "difficulty": "hard",
+          "family_context": "Continuity and change"
+        },
+        {
+          "point_value": 1000,
+          "question": "What psychological construct explains why individuals feel obligated to maintain family traditions even when they no longer fit their current identity?",
+          "answer": "Introjected values, family loyalty, guilt, identity fusion, internalization, or family enmeshment",
+          "difficulty": "hard",
+          "family_context": "Identity and obligation psychology"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do family traditions function as a form of cultural capital and class reproduction?",
+          "answer": "Status signaling, cultural knowledge transfer, economic practices, social positioning, or identity markers",
+          "difficulty": "hard",
+          "family_context": "Cultural capital theory"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is the relationship between family tradition transmission and the development of secure vs. insecure attachment patterns across generations?",
+          "answer": "Secure: consistent care and connection; Insecure: inconsistency, emotional unavailability, or disconnection",
+          "difficulty": "hard",
+          "family_context": "Attachment transmission patterns"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do family traditions interact with cultural narratives about individualism versus collectivism in shaping family relationships?",
+          "answer": "Reflect cultural values, shape participation patterns, influence communication styles, or define family roles",
+          "difficulty": "hard",
+          "family_context": "Cultural-value interaction"
+        },
+        {
+          "point_value": 200,
+          "question": "How do adult responsibilities change how you experience family birthday traditions?",
+          "answer": "Less time, new roles, different expectations, or shifting perspective",
+          "difficulty": "easy",
+          "family_context": "Adult role transitions"
+        },
+        {
+          "point_value": 400,
+          "question": "What economic factors influence how your family celebrates birthdays?",
+          "answer": "Budget, resources, location, employment, or financial capacity",
+          "difficulty": "easy",
+          "family_context": "Socioeconomic influences"
+        },
+        {
+          "point_value": 600,
+          "question": "How do you create a sense of tradition when your family is geographically dispersed?",
+          "answer": "Technology, coordination, long-distance efforts, or creative adaptations",
+          "difficulty": "medium",
+          "family_context": "Modern distance navigation"
+        },
+        {
+          "point_value": 800,
+          "question": "What unspoken rules about gift-giving exist in your family's traditions?",
+          "answer": "Budget limits, reciprocity, types of gifts, or expectations",
+          "difficulty": "medium",
+          "family_context": "Gift-giving norms"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do you navigate maintaining family traditions while establishing boundaries?",
+          "answer": "Communication, negotiation, selective participation, or respectful autonomy",
+          "difficulty": "hard",
+          "family_context": "Boundaries in family relationships"
+        },
+        {
+          "point_value": 1000,
+          "question": "What is your philosophy about which family traditions are worth preserving in your future family?",
+          "answer": "Thoughtful selection based on personal values, meaningful traditions, or conscious choice",
+          "difficulty": "hard",
+          "family_context": "Legacy intentionality"
+        }
+      ]
+    },
+    "adults_seniors": {
+      "level_name": "Adults & Seniors",
+      "focus": "Philosophical meaning-making, legacy and mortality, complex family dynamics, cultural heritage preservation, intergenerational stewardship, reflective practice, family historians' perspectives",
+      "questions": [
+        {
+          "point_value": 200,
+          "question": "How do family birthday traditions become repositories of family memory and identity?",
+          "answer": "Store experiences, preserve relationships, transmit values, maintain connection, or create continuity",
+          "difficulty": "easy",
+          "family_context": "Memory and identity preservation"
+        },
+        {
+          "point_value": 200,
+          "question": "What role does legacy play in how adults and seniors approach family birthday traditions?",
+          "answer": "Ensure continuity, pass on values, create lasting impact, transmit heritage, or influence future generations",
+          "difficulty": "easy",
+          "family_context": "Legacy consciousness"
+        },
+        {
+          "point_value": 200,
+          "question": "How do traditions help older adults maintain connection to younger family members?",
+          "answer": "Create shared experiences, provide roles, demonstrate love, bridge generations, or stay involved",
+          "difficulty": "easy",
+          "family_context": "Intergenerational connection"
+        },
+        {
+          "point_value": 200,
+          "question": "What changes occur in how families celebrate birthdays as demographics shift?",
+          "answer": "Geographic distance, aging parents, empty nests, blended families, or redefined roles",
+          "difficulty": "easy",
+          "family_context": "Life stage adaptations"
+        },
+        {
+          "point_value": 200,
+          "question": "How do family historians serve as keepers of tradition and storytelling?",
+          "answer": "Preserve memories, tell stories, research genealogy, document practices, or maintain cultural knowledge",
+          "difficulty": "easy",
+          "family_context": "Family historian roles"
+        },
+        {
+          "point_value": 200,
+          "question": "What wisdom do elders transmit through their approach to birthday celebrations?",
+          "answer": "Values, perspectives on aging, importance of connection, life lessons, or reflections",
+          "difficulty": "easy",
+          "family_context": "Elder wisdom transmission"
+        },
+        {
+          "point_value": 400,
+          "question": "How do adults consciously evaluate which family traditions to maintain and which to release?",
+          "answer": "Assess fit with values, consider practicality, respect family input, or make intentional choices",
+          "difficulty": "easy",
+          "family_context": "Conscious tradition curation"
+        },
+        {
+          "point_value": 400,
+          "question": "What is the relationship between family traditions and existential meaning-making in later adulthood?",
+          "answer": "Create purpose, provide continuity, mark time, connect to legacy, or find meaning in life",
+          "difficulty": "easy",
+          "family_context": "Existential psychology"
+        },
+        {
+          "point_value": 400,
+          "question": "How do cultural heritage traditions influence how families navigate birthday celebrations?",
+          "answer": "Determine practices, shape values, guide expectations, maintain identity, or honor ancestors",
+          "difficulty": "easy",
+          "family_context": "Cultural heritage influence"
+        },
+        {
+          "point_value": 400,
+          "question": "What happens to family traditions when key family members pass away?",
+          "answer": "Adaptation, continuity with change, new leadership, memory keeping, or evolution",
+          "difficulty": "easy",
+          "family_context": "Grief and tradition adaptation"
+        },
+        {
+          "point_value": 400,
+          "question": "How do adults navigate the gap between the family traditions they experienced and those they want for their children?",
+          "answer": "Selective continuation, innovation, integration, conscious choice, or respectful revision",
+          "difficulty": "easy",
+          "family_context": "Tradition choices"
+        },
+        {
+          "point_value": 400,
+          "question": "What role does forgiveness and healing play in renewing family birthday traditions?",
+          "answer": "Repair relationships, create safety, rebuild trust, enable participation, or allow reconciliation",
+          "difficulty": "easy",
+          "family_context": "Healing and reconciliation"
+        },
+        {
+          "point_value": 600,
+          "question": "How does the awareness of mortality influence how adults and seniors approach family celebrations?",
+          "answer": "Increase appreciation, prioritize relationships, create memories, value time, or deepen meaning",
+          "difficulty": "medium",
+          "family_context": "Mortality awareness"
+        },
+        {
+          "point_value": 600,
+          "question": "What intergenerational conflicts arise around maintaining versus modernizing family traditions?",
+          "answer": "Generational values, technology, logistics, expectations, respect, or change management",
+          "difficulty": "medium",
+          "family_context": "Intergenerational conflict"
+        },
+        {
+          "point_value": 600,
+          "question": "How do family traditions serve as psychological anchors for adults navigating major life transitions?",
+          "answer": "Provide stability, continuity, identity, meaning, or connection during uncertainty",
+          "difficulty": "medium",
+          "family_context": "Transition support"
+        },
+        {
+          "point_value": 600,
+          "question": "What role does documentation (photos, videos, writing) play in preserving family traditions?",
+          "answer": "Create records, transmit knowledge, preserve memories, honor heritage, or enable future access",
+          "difficulty": "medium",
+          "family_context": "Documentation and preservation"
+        },
+        {
+          "point_value": 600,
+          "question": "How do adults balance honoring parents' traditions while creating authenticity in their own families?",
+          "answer": "Respectful selection, blend approaches, communicate values, or make conscious adult choices",
+          "difficulty": "medium",
+          "family_context": "Autonomy and respect balance"
+        },
+        {
+          "point_value": 600,
+          "question": "What is the significance of birthdays as markers of biological and social time for aging families?",
+          "answer": "Life progress, aging awareness, generational transitions, family changes, or life review",
+          "difficulty": "medium",
+          "family_context": "Time marking and aging"
+        },
+        {
+          "point_value": 800,
+          "question": "How do family traditions reflect and reproduce social structures, power dynamics, and family hierarchies?",
+          "answer": "Decision-making roles, leadership, resource allocation, who is centered, or whose needs are prioritized",
+          "difficulty": "medium",
+          "family_context": "Power and social structure"
+        },
+        {
+          "point_value": 800,
+          "question": "What psychological processes allow adults to transform painful family histories into positive traditions?",
+          "answer": "Healing, reframing, conscious choice, breaking cycles, creating new narratives, or redemption",
+          "difficulty": "medium",
+          "family_context": "Transformation and healing"
+        },
+        {
+          "point_value": 800,
+          "question": "How do geographic dispersal and technological change alter the transmission of family traditions?",
+          "answer": "Virtual celebrations, selective continuation, adaptation, new communication modes, or innovation",
+          "difficulty": "medium",
+          "family_context": "Modern adaptation challenges"
+        },
+        {
+          "point_value": 800,
+          "question": "What role do family reunions and milestone celebrations play in maintaining dispersed family bonds?",
+          "answer": "Create connection, renew relationships, transmit culture, build identity, or maintain continuity",
+          "difficulty": "medium",
+          "family_context": "Large gatherings and bonding"
+        },
+        {
+          "point_value": 800,
+          "question": "How do adults navigate traditions from multiple cultural backgrounds when creating family practices?",
+          "answer": "Integration, respect, selection, blending, or creating new syncretic traditions",
+          "difficulty": "medium",
+          "family_context": "Multicultural family traditions"
+        },
+        {
+          "point_value": 800,
+          "question": "What is the relationship between family traditions and the development of resilience in children growing up with family instability?",
+          "answer": "Create predictability, provide anchor, build identity, ensure consistency, or maintain hope",
+          "difficulty": "medium",
+          "family_context": "Resilience building"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do family traditions serve as a form of biological and cultural continuity in the face of human mortality?",
+          "answer": "Connect generations, ensure legacy, maintain identity, transmit values, transcend death, or create meaning",
+          "difficulty": "hard",
+          "family_context": "Philosophical continuity"
+        },
+        {
+          "point_value": 1000,
+          "question": "What does critical family scholarship reveal about how traditions can reproduce inequality or enable social change?",
+          "answer": "Reinforce hierarchy or challenge it, maintain status quo or transform, include or exclude",
+          "difficulty": "hard",
+          "family_context": "Critical perspectives"
+        },
+        {
+          "point_value": 1000,
+          "question": "How do adults reconcile the competing values of honoring ancestral traditions while creating inclusive, equitable family practices?",
+          "answer": "Thoughtful selection, respectful critique, evolution, honoring spirit while changing form",
+          "difficulty": "hard",
+          "family_context": "Values integration"
+        },
+        {
+          "point_value": 1000,
+          "question": "What role do family birthday traditions play in constructing a coherent life narrative across the lifespan?",
+          "answer": "Create continuity, organize memory, establish identity, demonstrate growth, or integrate life experiences",
+          "difficulty": "hard",
+          "family_context": "Life narrative coherence"
+        },
+        {
+          "point_value": 1000,
+          "question": "How might family traditions be reimagined to support psychological wellbeing, equity, and authentic connection in multigenerational families?",
+          "answer": "Inclusive design, consent-based participation, flexibility, authentic expression, or intentional values alignment",
+          "difficulty": "hard",
+          "family_context": "Future family practice"
+        },
+        {
+          "point_value": 1000,
+          "question": "What philosophical questions emerge when considering the balance between individual autonomy and family obligation in tradition-keeping?",
+          "answer": "Identity, freedom, connection, responsibility, authenticity, belonging, or ethical obligation",
+          "difficulty": "hard",
+          "family_context": "Philosophical dilemmas"
+        },
+        {
+          "point_value": 200,
+          "question": "How has your role in family birthday celebrations changed over your lifetime?",
+          "answer": "From guest to organizer, elder to leader, or various role shifts",
+          "difficulty": "easy",
+          "family_context": "Lifetime role evolution"
+        },
+        {
+          "point_value": 400,
+          "question": "What traditions have you deliberately chosen to pass on to younger generations?",
+          "answer": "Specific practices, recipes, values, or customs",
+          "difficulty": "easy",
+          "family_context": "Conscious legacy creation"
+        },
+        {
+          "point_value": 600,
+          "question": "How do you balance maintaining long-standing traditions with respecting evolving family needs?",
+          "answer": "Flexibility, dialogue, adaptation, honoring both continuity and change",
+          "difficulty": "medium",
+          "family_context": "Generational leadership"
+        },
+        {
+          "point_value": 800,
+          "question": "What meaning does celebrating family birthdays hold as you reflect on your life journey?",
+          "answer": "Connection, legacy, relationships, continuity, memory, or life review",
+          "difficulty": "medium",
+          "family_context": "Existential meaning-making"
+        },
+        {
+          "point_value": 1000,
+          "question": "How have your family's birthday traditions served as anchors through major life transitions and losses?",
+          "answer": "Continuity during change, connection during hardship, meaning-making, or resilience",
+          "difficulty": "hard",
+          "family_context": "Transformation through tradition"
+        },
+        {
+          "point_value": 1000,
+          "question": "What would you want future generations to understand about the traditions you've nurtured?",
+          "answer": "Values, love, sacrifice, history, meaning, or what matters most",
+          "difficulty": "hard",
+          "family_context": "Intergenerational wisdom"
+        }
+      ]
+    }
+  }
+}

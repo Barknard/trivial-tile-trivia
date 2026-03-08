@@ -1,0 +1,1304 @@
+{
+  "category": "Birthday Friend Celebrations",
+  "description": "Celebrating with friends, friendship bonding, peer relationships, and friend parties",
+  "total_questions": 180,
+  "audiences": 5,
+  "questions_per_audience": 36,
+  "research_sources": [
+    "Friendship development psychology and peer relationships (2025)",
+    "Birthday celebrations and social bonding research",
+    "Social psychology of friendship bonding activities"
+  ],
+  "audiences_data": {
+    "kids": {
+      "level": "Elementary School (Ages 6-11)",
+      "description": "Simple, fun questions about birthday parties and making friends",
+      "questions": [
+        {
+          "id": "kids_001",
+          "question": "What flavor of cake is often served at birthday parties?",
+          "answer": "Chocolate or vanilla",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_002",
+          "question": "How many candles are typically on a birthday cake?",
+          "answer": "One for each year of age",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_003",
+          "question": "What do you do before eating birthday cake at a party?",
+          "answer": "Sing happy birthday and blow out the candles",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_004",
+          "question": "What do you give to a friend on their birthday?",
+          "answer": "A gift or present",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_005",
+          "question": "What is a group of friends called?",
+          "answer": "A friend group or circle of friends",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_006",
+          "question": "What game is often played at birthday parties with a blindfold?",
+          "answer": "Pin the tail on the donkey",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_007",
+          "question": "What colorful things do you hang up to decorate for a party?",
+          "answer": "Balloons, streamers, or banners",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_008",
+          "question": "What is a person who goes to your party called?",
+          "answer": "A guest or party guest",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_009",
+          "question": "What activity do you do with friends to have fun together?",
+          "answer": "Play games, talk, or spend time together",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_010",
+          "question": "What do you say when you're happy about your friend's birthday?",
+          "answer": "Happy birthday",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_011",
+          "question": "What kind of treats do you eat at a party besides cake?",
+          "answer": "Cookies, cupcakes, candy, or ice cream",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_012",
+          "question": "What do you need to have a party at your house?",
+          "answer": "Friends, decorations, food, drinks, and games",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_013",
+          "question": "What is it called when you celebrate the day you were born?",
+          "answer": "Your birthday",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_014",
+          "question": "What special number do you turn on your birthday?",
+          "answer": "Your age",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_015",
+          "question": "What do you wear that makes you feel special at a party?",
+          "answer": "A party hat or special clothes",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_016",
+          "question": "What is a good friend someone who is...",
+          "answer": "Kind, nice, helpful, and fun to be around",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_017",
+          "question": "What do you give to a friend to show you care?",
+          "answer": "A hug, a compliment, or help when they need it",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_018",
+          "question": "What do you do when your friend is sad?",
+          "answer": "Comfort them or cheer them up",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_019",
+          "question": "How do you make new friends?",
+          "answer": "Talk to them, be nice, and find things you have in common",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_020",
+          "question": "What do you do together with friends to have fun?",
+          "answer": "Play, laugh, talk, or do activities together",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_021",
+          "question": "What is something you should never do to a friend?",
+          "answer": "Be mean, ignore them, or break their trust",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_022",
+          "question": "What color balloons are often at birthday parties?",
+          "answer": "Red, blue, yellow, green, purple, or any bright colors",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_023",
+          "question": "What do you do before opening presents at a party?",
+          "answer": "Thank your friends for coming",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_024",
+          "question": "What is the main reason to have a birthday party?",
+          "answer": "To celebrate your birthday with friends and family",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_025",
+          "question": "What do friends do together at recess or playtime?",
+          "answer": "Play games, talk, or do activities",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_026",
+          "question": "What is a sleepover party?",
+          "answer": "A party where friends sleep at your house overnight",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_027",
+          "question": "What should you do when a friend makes a mistake?",
+          "answer": "Forgive them and help them do better",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_028",
+          "question": "What do you call it when you share your toys with friends?",
+          "answer": "Being generous or sharing",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_029",
+          "question": "What is the opposite of having a friend?",
+          "answer": "Being alone or having an enemy",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_030",
+          "question": "What do you feel when you're with your best friend?",
+          "answer": "Happy, safe, comfortable, and loved",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_031",
+          "question": "What is a good way to start a friendship with someone new?",
+          "answer": "Say hello, introduce yourself, and find common interests",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_032",
+          "question": "What do party decorations like confetti and ribbons do?",
+          "answer": "Make the party look fun and festive",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_033",
+          "question": "What should you say when someone gives you a gift?",
+          "answer": "Thank you",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_034",
+          "question": "What is the best part about having friends?",
+          "answer": "Having fun, feeling loved, and never being alone",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_035",
+          "question": "What do you need to listen to when a friend talks to you?",
+          "answer": "Really pay attention and care about what they say",
+          "difficulty": "Easy",
+          "value": 100
+        },
+        {
+          "id": "kids_036",
+          "question": "What is something special you can do for a friend's birthday?",
+          "answer": "Make them a card, bake them something, or throw them a party",
+          "difficulty": "Easy",
+          "value": 100
+        }
+      ]
+    },
+    "middle_school": {
+      "level": "Middle School (Ages 12-14)",
+      "description": "Questions about friendship dynamics, party planning, and social relationships",
+      "questions": [
+        {
+          "id": "ms_001",
+          "question": "What psychological term describes the feeling of being part of a friend group?",
+          "answer": "Sense of belonging",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_002",
+          "question": "How many hours of time together does research suggest are needed to form a casual friendship?",
+          "answer": "About 30 hours",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_003",
+          "question": "What is the main element that strengthens friendships during shared birthday celebrations?",
+          "answer": "Creating shared memories and bonding experiences",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_004",
+          "question": "What type of party game helps break the ice and get people talking?",
+          "answer": "Icebreaker games or conversation games",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_005",
+          "question": "What is a circle of friends?",
+          "answer": "A close-knit group of friends who spend time together regularly",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_006",
+          "question": "What social skill is most important when planning a party with friends?",
+          "answer": "Communication and cooperation",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_007",
+          "question": "What is peer pressure in the context of friendships?",
+          "answer": "When friends influence your behavior or decisions",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_008",
+          "question": "What does self-disclosure mean in building friendships?",
+          "answer": "Sharing personal thoughts, feelings, and experiences with a friend",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_009",
+          "question": "What is a clique?",
+          "answer": "A small group of friends who spend most of their time together",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_010",
+          "question": "What is an important part of being a good friend during someone's birthday?",
+          "answer": "Showing up, being supportive, and making them feel valued",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_011",
+          "question": "What party theme requires planning around specific colors and decorations?",
+          "answer": "A themed party",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_012",
+          "question": "What is the psychological benefit of celebrating milestones with friends?",
+          "answer": "It strengthens social bonds and creates positive memories",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_013",
+          "question": "What activity at a party helps people get to know each other better?",
+          "answer": "Conversation games, question games, or group activities",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_014",
+          "question": "What is a best friend?",
+          "answer": "A friend you're closest to and trust the most",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_015",
+          "question": "What makes a friendship different from just knowing someone?",
+          "answer": "Trust, mutual care, and regular interaction",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_016",
+          "question": "What is conflict in a friendship and how should it be handled?",
+          "answer": "Disagreement; it should be resolved through communication and understanding",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_017",
+          "question": "What social skill helps you make friends in a new group?",
+          "answer": "Good communication, listening, and finding common interests",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_018",
+          "question": "What is a virtual birthday celebration?",
+          "answer": "A birthday party held online through video calls or social media",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_019",
+          "question": "What type of parties build the strongest friendships?",
+          "answer": "Intimate parties where friends can talk and bond deeply",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_020",
+          "question": "What should you do if you're not invited to a friend's party?",
+          "answer": "Talk to your friend about it and not jump to conclusions",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_021",
+          "question": "What is the purpose of a gift at a birthday party?",
+          "answer": "To show appreciation and celebrate the person",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_022",
+          "question": "What is social bonding?",
+          "answer": "The process of building closer emotional connections with others",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_023",
+          "question": "What hormone is released when you have fun with friends?",
+          "answer": "Oxytocin (the bonding hormone), dopamine, and serotonin",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_024",
+          "question": "What is a sleepover in terms of friendship building?",
+          "answer": "An extended time to bond and create deeper friendships",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_025",
+          "question": "What trait is most valued in a friend by adolescents?",
+          "answer": "Kindness, trustworthiness, and supportiveness",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_026",
+          "question": "What should you never do when celebrating a friend's birthday?",
+          "answer": "Be fake, ignore them, or make them feel left out",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_027",
+          "question": "What is an inside joke between friends?",
+          "answer": "Something funny that only your friend group understands",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_028",
+          "question": "What is the difference between a friend and an acquaintance?",
+          "answer": "Friends know each other well and care about each other; acquaintances don't have that depth",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_029",
+          "question": "What party planning element shows you care about your guests?",
+          "answer": "Thoughtful decorations, good food, and fun activities they'll enjoy",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_030",
+          "question": "What role does loyalty play in friendship?",
+          "answer": "It's essential; friends should support each other through good and bad times",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_031",
+          "question": "What is a friendship milestone?",
+          "answer": "A special moment or achievement in a friendship you celebrate",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_032",
+          "question": "What is gossiping and why is it bad for friendships?",
+          "answer": "Talking about someone behind their back; it breaks trust",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_033",
+          "question": "What social groups do middle school students typically form?",
+          "answer": "Friend groups based on interests, sports, or class",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_034",
+          "question": "What is empathy in the context of friendship?",
+          "answer": "Understanding and sharing your friend's feelings",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_035",
+          "question": "What makes a birthday party memorable for friends?",
+          "answer": "Fun activities, feeling valued, and creating lasting memories together",
+          "difficulty": "Medium",
+          "value": 200
+        },
+        {
+          "id": "ms_036",
+          "question": "What is the importance of inclusivity at a birthday party?",
+          "answer": "Making sure everyone feels welcome, valued, and part of the celebration",
+          "difficulty": "Medium",
+          "value": 200
+        }
+      ]
+    },
+    "high_school": {
+      "level": "High School (Ages 15-18)",
+      "description": "Complex questions about friendship psychology, social dynamics, and relationship development",
+      "questions": [
+        {
+          "id": "hs_001",
+          "question": "According to research, how many hours of time together are required to develop a good friendship?",
+          "answer": "Approximately 140 hours",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_002",
+          "question": "What psychologist studied the three-stage friendship development model starting with physical proximity and superficial rewards?",
+          "answer": "Bigelow (and colleagues)",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_003",
+          "question": "What is the difference between normative pressure and friendship influence in peer relationships?",
+          "answer": "Normative pressure is conforming to group norms; friendship influence is personal influence from individual friends",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_004",
+          "question": "What psychological term describes the quality of being close in friendship, especially in adolescence?",
+          "answer": "Closeness (achieved through self-disclosure, trust, emotional support, loyalty, and shared activities)",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_005",
+          "question": "How does shared vulnerability contribute to friendship bonding?",
+          "answer": "It builds emotional trust and deepens the connection through mutual support during challenging experiences",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_006",
+          "question": "What is the role of reciprocity in social bonding at celebrations?",
+          "answer": "Reciprocity is the psychological principle that helping someone makes them more likely to help you in return",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_007",
+          "question": "What six key characteristics do early adolescents value in their peers according to research?",
+          "answer": "Safety, supportiveness, conflict management, avoiding negative behavior, spending time, and both offline and online communication",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_008",
+          "question": "What is the psychological concept of 'hidden grief' in friendship loss?",
+          "answer": "The unrecognized emotional impact of losing a close friendship that can disrupt emotional stability and academics",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_009",
+          "question": "How does oxytocin influence friendship bonding during celebrations?",
+          "answer": "It's a neurochemical released during enjoyable shared experiences that strengthens emotional bonds",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_010",
+          "question": "What is the relationship between friendship quality and mental health in adolescence?",
+          "answer": "High-quality friendships are protective factors that reduce stress and enhance well-being",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_011",
+          "question": "How many hours approximately are needed to become best friends with someone?",
+          "answer": "Around 300 hours of quality time together",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_012",
+          "question": "What psychological term describes the mutual, interactive process of developing close relationships?",
+          "answer": "Human bonding (different from simple liking)",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_013",
+          "question": "What neurotransmitters are released when sharing enjoyable experiences with friends?",
+          "answer": "Oxytocin (bonding), dopamine (reward), and serotonin (calm)",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_014",
+          "question": "What is the significance of progressive self-disclosure in friendship development?",
+          "answer": "It builds trust gradually and allows friends to develop deeper emotional intimacy over time",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_015",
+          "question": "How do regular rituals and repeated meetings strengthen friendships?",
+          "answer": "They serve as emotional anchors in busy life and create consistency and reliability in the relationship",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_016",
+          "question": "What does research show about the relationship between friendship variety and physical health?",
+          "answer": "Having diverse social relationships can reduce stress and heart-related health risks",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_017",
+          "question": "What is social contagion in the context of friendship influence?",
+          "answer": "The tendency to adopt behaviors, attitudes, or emotions of close friends through exposure",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_018",
+          "question": "How does the 'proximity effect' contribute to friendship formation?",
+          "answer": "Physical closeness and regular interaction increase the likelihood of friendship development",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_019",
+          "question": "What is the role of homophily in friend group composition?",
+          "answer": "The tendency to associate with people who are similar to us in characteristics, values, or interests",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_020",
+          "question": "How do challenge-based activities contribute to friendship strengthening?",
+          "answer": "They create shared vulnerability and overcome obstacles together, deepening emotional bonds",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_021",
+          "question": "What is the psychological impact of feeling excluded from peer celebrations?",
+          "answer": "It can cause emotional distress, reduced sense of belonging, and negative mental health outcomes",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_022",
+          "question": "How does perspective-taking influence friendship quality?",
+          "answer": "It allows friends to understand each other's viewpoints and respond with greater empathy and care",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_023",
+          "question": "What is the difference between intrinsic and extrinsic motivation in celebrating a friend's birthday?",
+          "answer": "Intrinsic: you celebrate because you genuinely care; Extrinsic: you celebrate for social obligations or external rewards",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_024",
+          "question": "How does social comparison affect friendship dynamics in adolescence?",
+          "answer": "Adolescents compare themselves to peers, which can influence self-esteem and friendship satisfaction",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_025",
+          "question": "What role does authenticity play in developing meaningful friendships?",
+          "answer": "Authenticity builds trust and allows for deeper connection as friends see each other's true selves",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_026",
+          "question": "How do 'staged conversations' in celebrations help build friendships?",
+          "answer": "They gradually increase in intimacy and depth, allowing people to bond progressively",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_027",
+          "question": "What is the psychological concept of 'friend loyalty' and how is it demonstrated?",
+          "answer": "Commitment to standing by friends through challenges and supporting their well-being consistently",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_028",
+          "question": "How does personality compatibility influence long-term friendship stability?",
+          "answer": "Compatible personalities experience fewer conflicts and greater satisfaction, promoting lasting friendships",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_029",
+          "question": "What is the impact of digital communication on modern friendship celebrations?",
+          "answer": "It allows long-distance celebrations and strengthens connections through constant contact and shared digital experiences",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_030",
+          "question": "How does the concept of 'emotional scaffolding' apply to peer support during celebrations?",
+          "answer": "Friends provide emotional support and validation that helps individuals feel secure and confident",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_031",
+          "question": "What is the relationship between attachment styles and friendship quality?",
+          "answer": "Secure attachment promotes healthy friendships while insecure attachment can lead to relational challenges",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_032",
+          "question": "How do adversity and conflict resolution strengthen friendships?",
+          "answer": "Successfully navigating conflicts together builds trust, communication skills, and demonstrates commitment",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_033",
+          "question": "What is the psychological concept of 'behavioral synchrony' in bonding?",
+          "answer": "The unconscious mirroring of body language and behavior that creates rapport and closeness",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_034",
+          "question": "How does the transition to high school impact existing peer relationships?",
+          "answer": "It can strengthen some friendships while creating opportunities for new friend group formation",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_035",
+          "question": "What role do shared values play in determining friendship longevity?",
+          "answer": "Aligned values create foundation for long-term compatibility and mutual respect in friendships",
+          "difficulty": "Hard",
+          "value": 300
+        },
+        {
+          "id": "hs_036",
+          "question": "How does social identity theory explain friend group formation and celebration participation?",
+          "answer": "People form groups around shared social identities and celebrate together to reinforce group belonging",
+          "difficulty": "Hard",
+          "value": 300
+        }
+      ]
+    },
+    "college": {
+      "level": "College/University (Ages 18-22)",
+      "description": "Advanced questions about relationship psychology, adult friendships, and social structures",
+      "questions": [
+        {
+          "id": "col_001",
+          "question": "How do psychologists differentiate between kin-based relationships and voluntary friendships in adult social structures?",
+          "answer": "Kin relationships are obligatory family bonds while voluntary friendships are chosen and based on mutual benefit and attraction",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_002",
+          "question": "What does research on friendship formation suggest about the role of self-esteem in peer relationships?",
+          "answer": "Self-esteem influences who individuals select as friends and the quality of relationships they form",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_003",
+          "question": "How do attachment theory and bonding psychology explain adult friendship patterns?",
+          "answer": "Early attachment styles predict how individuals approach adult friendships, intimacy levels, and conflict resolution",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_004",
+          "question": "What is the concept of 'friendship turbulence' and when does it typically occur in college friendships?",
+          "answer": "Periods of instability and uncertainty in friendships that occur during major life transitions and adjustments",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_005",
+          "question": "How does the social penetration theory explain the deepening of friendships through self-disclosure?",
+          "answer": "Relationships develop as people gradually reveal more intimate personal information in a reciprocal pattern",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_006",
+          "question": "What role does cognitive dissonance play when college students navigate competing social groups?",
+          "answer": "Internal conflict arises when holding contradictory beliefs about different friend groups or social identities",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_007",
+          "question": "How do psychologists measure 'friendship strength' quantitatively in research settings?",
+          "answer": "Through measures including time investment, emotional intimacy, frequency of contact, and mutual support",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_008",
+          "question": "What is the relationship between mirror neurons and empathy in friendship celebrations?",
+          "answer": "Mirror neurons enable automatic mimicry of emotions and behaviors, facilitating deeper empathetic connection",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_009",
+          "question": "How does the Dunbar number relate to managing multiple friendships in college?",
+          "answer": "It suggests humans can maintain stable relationships with approximately 150 people due to cognitive limitations",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_010",
+          "question": "What are the implications of exchange theory on birthday gift-giving and reciprocal celebrations?",
+          "answer": "People calculate costs and rewards of relationships; unbalanced exchanges can create dissatisfaction",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_011",
+          "question": "How does social stratification influence peer group formation in college settings?",
+          "answer": "Socioeconomic status, ethnicity, and other factors affect who students befriend and celebrate with",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_012",
+          "question": "What is the role of institutional belonging in affecting friendship quality during college?",
+          "answer": "Strong institutional belonging increases sense of community and facilitates deeper friendships",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_013",
+          "question": "How do parasocial relationships (one-sided perceived relationships) differ from genuine friendships?",
+          "answer": "Parasocial relationships lack reciprocity and mutual investment that characterize genuine friendships",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_014",
+          "question": "What does research show about the gender differences in friendship expression and celebration styles?",
+          "answer": "Women often emphasize emotional intimacy while men may emphasize shared activities, though this varies individually",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_015",
+          "question": "How does the concept of 'friendship maintenance' differ from 'friendship formation' in established relationships?",
+          "answer": "Formation involves building initial connections while maintenance requires intentional effort to sustain existing bonds",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_016",
+          "question": "What psychological mechanisms enable long-distance friendships to persist despite reduced contact?",
+          "answer": "Secure attachment, trust, intentional communication, and shared history maintain bonds across distance",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_017",
+          "question": "How does the Invest Model explain commitment to friendships when alternative options exist?",
+          "answer": "Commitment depends on satisfaction, quality of alternatives, and investment already made in the relationship",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_018",
+          "question": "What role does cultural context play in how birthday celebrations and friendship expression manifest?",
+          "answer": "Cultural norms influence celebration styles, gift-giving practices, communication patterns, and relationship expectations",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_019",
+          "question": "How does social anxiety disorder potentially affect peer relationship formation in college?",
+          "answer": "It can inhibit approach behaviors and social engagement that are necessary for forming and maintaining friendships",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_020",
+          "question": "What is the psychological concept of 'friendship scripts' and how do they guide celebration planning?",
+          "answer": "Mental frameworks of expected friendship behaviors that influence how people plan and execute celebrations",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_021",
+          "question": "How do neurotransmitter imbalances potentially affect social bonding and friend group participation?",
+          "answer": "Imbalances in dopamine, serotonin, and oxytocin can affect motivation to engage socially and form bonds",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_022",
+          "question": "What does research on the 'friendship dissolution process' reveal about ending college friendships?",
+          "answer": "Dissolutions typically occur gradually through reduced contact, changing circumstances, and unresolved conflicts",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_023",
+          "question": "How does the theory of planned behavior predict college students' celebration participation decisions?",
+          "answer": "It predicts behavior based on attitudes toward celebrations, subjective norms, and perceived behavioral control",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_024",
+          "question": "What is the relationship between friendship diversity and cognitive development in college?",
+          "answer": "Diverse friendships expose students to varied perspectives that enhance critical thinking and reduce cognitive bias",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_025",
+          "question": "How does the concept of 'impression management' affect authentic celebration and friendship expression?",
+          "answer": "Students may present curated versions of themselves, potentially creating distance from authentic peer connections",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_026",
+          "question": "What role does interdependence theory play in explaining friendship commitment during college transitions?",
+          "answer": "Commitment depends on the degree of interdependence between friends and mutual reliance on each other",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_027",
+          "question": "How do psychologists explain the phenomenon of friendship 'webs' in online college social networks?",
+          "answer": "Complex, overlapping networks where individuals maintain multiple relationship tiers with varying intimacy levels",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_028",
+          "question": "What does social network analysis reveal about influence patterns in college friend groups?",
+          "answer": "It shows how information, norms, and behaviors spread through networks and who serves as influence nodes",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_029",
+          "question": "How does the construct of 'belongingness' relate to both friendship formation and mental health outcomes?",
+          "answer": "Strong sense of belonging through friendships predicts better mental health, academic success, and retention",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_030",
+          "question": "What psychological mechanisms underlie the 'chosen family' concept in college friend groups?",
+          "answer": "Friends provide familial functions including support, identity affirmation, and unconditional acceptance",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_031",
+          "question": "How do individual differences in personality traits predict friendship selection and celebration styles?",
+          "answer": "Extroversion, openness, conscientiousness, and other traits influence who people befriend and how they celebrate",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_032",
+          "question": "What is the role of institutional programs and clubs in facilitating friendship formation in college?",
+          "answer": "They provide contexts for repeated interaction and shared activities that are essential for friendship development",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_033",
+          "question": "How does the concept of 'social facilitation' affect how college students behave in friendship celebrations?",
+          "answer": "Performance of well-learned behaviors improves in the presence of others while unfamiliar tasks may suffer",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_034",
+          "question": "What does evolutionary psychology suggest about the biological basis of friendship and bonding?",
+          "answer": "Friendships evolved as adaptive mechanisms for survival, cooperation, and mutual protection in ancestral environments",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_035",
+          "question": "How do emerging adulthood developmental tasks affect the nature and celebration of friendships?",
+          "answer": "Increased independence and changing life trajectories mean friendships require intentional maintenance and adaptation",
+          "difficulty": "Very Hard",
+          "value": 400
+        },
+        {
+          "id": "col_036",
+          "question": "What is the role of 'network closure' in determining whether a friend group celebrates together cohesively?",
+          "answer": "Higher closure (more mutual connections) increases likelihood of cohesive group celebrations and stronger group identity",
+          "difficulty": "Very Hard",
+          "value": 400
+        }
+      ]
+    },
+    "adults": {
+      "level": "Adults (Ages 23+)",
+      "description": "Expert-level questions about adult friendship dynamics, life transitions, and complex social relationships",
+      "questions": [
+        {
+          "id": "adult_001",
+          "question": "How does the lifespan development perspective explain changes in friendship patterns across adulthood?",
+          "answer": "Friendships become more selective with age; quality supersedes quantity as time constraints increase",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_002",
+          "question": "What role does social capital play in adult career development and how are friendships instrumentalized?",
+          "answer": "Social capital includes resources from relationships; friendships may provide networking, support, and opportunities",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_003",
+          "question": "How do major life transitions (marriage, parenthood, relocation) alter existing adult friendships?",
+          "answer": "Transitions often reduce time availability and shift priorities, requiring conscious maintenance effort to preserve friendships",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_004",
+          "question": "What psychological mechanisms explain why some adult friendships become 'dormant' yet can be reactivated?",
+          "answer": "Strong foundational bonds and shared history allow friendships to remain psychologically present despite inactivity",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_005",
+          "question": "How does Erikson's psychosocial development theory frame the importance of friendship in generativity vs. stagnation stages?",
+          "answer": "Adults must balance self-focused goals with contributing to others; friendships provide mutual support during this tension",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_006",
+          "question": "What are the psychological implications of 'friendship burnout' in high-stress adult life phases?",
+          "answer": "When adults cannot invest emotionally in friendships, it can result in guilt, isolation, and relationship deterioration",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_007",
+          "question": "How does the concept of 'emotional labor' apply to adults maintaining multiple friendship circles?",
+          "answer": "Emotional labor refers to managing feelings to maintain relationships; multiplicity can create exhaustion and authenticity challenges",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_008",
+          "question": "What research reveals about gender differences in adult friendship patterns and maintenance strategies?",
+          "answer": "Women tend to emphasize emotional intimacy while men emphasize shared activities; strategies differ in celebration approaches",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_009",
+          "question": "How does the biopsychosocial model explain the health benefits of strong adult friendships?",
+          "answer": "Friendships affect biological stress response, psychological well-being, and social support networks that promote health",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_010",
+          "question": "What is the psychological impact of long-term friendship loss in adulthood through death or distance?",
+          "answer": "It can trigger grief responses, identity disruption, and loss of historical continuity that adult development relies upon",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_011",
+          "question": "How do attachment-based models predict which adults maintain close friendships versus maintain distant relationships?",
+          "answer": "Secure attachment predicts maintenance of close friendships while anxious or avoidant styles predict distance or dependency",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_012",
+          "question": "What does research on friendship homogamy reveal about assortative matching in adult social circles?",
+          "answer": "Adults select friends similar in age, education, values, and life stage; this homophily increases relationship stability",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_013",
+          "question": "How do retirement, empty nest, and other life stage transitions affect friendship celebration patterns?",
+          "answer": "These transitions provide more time for friendships but may reduce geographic proximity and change celebration contexts",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_014",
+          "question": "What is the role of 'friendship efficacy' in adult resilience and how does it relate to birthday celebrations?",
+          "answer": "Belief in ability to form and maintain friendships predicts help-seeking behavior and willingness to celebrate together",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_015",
+          "question": "How does the theory of psychological reactance apply to adults resisting pressure to celebrate in prescribed ways?",
+          "answer": "Adults may resist obligatory celebrations, asserting autonomy by choosing authentic forms of friendship expression",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_016",
+          "question": "What neuroscience research shows about how long-term friendships shape brain development in adulthood?",
+          "answer": "Stable friendships affect neural plasticity, create protective patterns against cognitive decline, and strengthen emotional processing",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_017",
+          "question": "How does the concept of 'chosen kinship' function psychologically for adults without biological family proximity?",
+          "answer": "Friend groups serve kinship functions providing unconditional support, identity validation, and family-like rituals",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_018",
+          "question": "What psychological mechanisms enable cross-generational friendships to form and flourish in adulthood?",
+          "answer": "Shared interests, values, and life experiences transcend age; they provide diverse perspectives and mutual mentorship",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_019",
+          "question": "How do identity fusion theory and group identity affect adult celebration participation with friend communities?",
+          "answer": "Adults with high identity fusion with friend groups show greater willingness to sacrifice for celebrations and group well-being",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_020",
+          "question": "What does longitudinal research reveal about friendship stability across the adult lifespan?",
+          "answer": "Most close friendships last 7-10 years; those lasting longer show distinct characteristics of trust, compatibility, and intentional maintenance",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_021",
+          "question": "How does the construct of 'narrative identity' help adults make sense of their friendships through celebrations?",
+          "answer": "Stories adults tell about friendships shape meaning-making and influence how they commemorate and celebrate together",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_022",
+          "question": "What role does 'authentic happiness' theory play in explaining why intimate birthday celebrations matter to adults?",
+          "answer": "Authentic happiness comes from meaningful social connections; intimate celebrations affirm this fundamental need",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_023",
+          "question": "How does economic inequality affect adult friendship formation and celebration participation?",
+          "answer": "Disparities in resources can create barriers to equal celebration participation and potential relationship strain",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_024",
+          "question": "What psychological factors predict whether adults maintain 'work friendships' versus 'close friendships' with colleagues?",
+          "answer": "Boundary permeability, trust level, shared values beyond work, and availability outside work determine friendship depth",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_025",
+          "question": "How does the concept of 'social well-being' encompass both friendship quality and community belonging in adulthood?",
+          "answer": "Social well-being includes both intimate relationships and feeling part of larger communities; celebrations affirm both",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_026",
+          "question": "What does research on adult friendship within marginalized communities reveal about celebration as resistance and affirmation?",
+          "answer": "Celebrations serve as spaces of safety, affirmation, and community resilience in response to systemic marginalization",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_027",
+          "question": "How do technology and social media fundamentally change the maintenance and celebration of adult long-distance friendships?",
+          "answer": "Digital tools enable constant low-intensity contact but may reduce depth compared to in-person celebrations and intimacy",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_028",
+          "question": "What psychological theory best explains why adults create elaborate, carefully-planned friendship celebration rituals?",
+          "answer": "Ritual theory explains that structured celebrations create meaning, reinforce identity, and mark important social milestones",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_029",
+          "question": "How does adult attachment style influence whether someone experiences birthday celebrations as affirming or obligatory?",
+          "answer": "Securely attached adults experience celebrations as affirming; anxious or avoidant styles may experience them as pressure or indifference",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_030",
+          "question": "What does neurocognitive research reveal about memory consolidation in adult friendships through shared celebration experiences?",
+          "answer": "Emotionally significant celebrations create stronger memories through enhanced hippocampal activation and emotional tagging",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_031",
+          "question": "How does the concept of 'relational dialectics' explain contradictions adults navigate in friendship celebrations?",
+          "answer": "Adults balance needs for autonomy and togetherness, openness and privacy, and sameness and change in celebration expression",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_032",
+          "question": "What psychological mechanisms enable 'rebound friendships' where adults form new close friendships after previous loss?",
+          "answer": "Secure attachment patterns, readiness to re-engage, and openness to vulnerability allow new friendship formation after loss",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_033",
+          "question": "How does organizational psychology explain workplace friend group celebrations and their effects on team cohesion?",
+          "answer": "Celebrations strengthen psychological safety, increase trust, and improve collaboration through informal bonding experiences",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_034",
+          "question": "What does research on adult grief reveal about mourning lost friendships and how celebrations can be spaces of healing?",
+          "answer": "Grief is legitimate; celebrations can honor lost relationships and create continuity through memory and shared remembrance",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_035",
+          "question": "How do environmental factors (climate, geography, urban vs. rural) shape adult friendship celebration practices?",
+          "answer": "Environment influences frequency of in-person gatherings, celebration types, seasonal patterns, and accessibility for diverse participation",
+          "difficulty": "Very Hard",
+          "value": 500
+        },
+        {
+          "id": "adult_036",
+          "question": "What does positive psychology research reveal about the optimal characteristics of adult friendship celebrations for well-being?",
+          "answer": "Authenticity, inclusivity, meaningful connection, shared laughter, vulnerability, and genuine appreciation are key well-being factors",
+          "difficulty": "Very Hard",
+          "value": 500
+        }
+      ]
+    }
+  }
+}

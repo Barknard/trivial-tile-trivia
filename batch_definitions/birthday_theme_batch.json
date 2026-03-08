@@ -1,0 +1,335 @@
+{
+  "batch_id": "birthday_complete_v1",
+  "theme": "birthday",
+  "total_categories": 36,
+  "generation_mode": "parallel_max",
+  "target_parallel": 100,
+  "estimated_time_minutes": 12,
+  "total_questions": 6480,
+  "categories": [
+    {
+      "id": "birthday_party_games",
+      "name": "Birthday Party Games",
+      "description": "Classic and modern party games, activities, and entertainment",
+      "research_basis": "Play development, social skills, cooperative learning, competition psychology",
+      "sel_focus": ["social_awareness", "relationship_skills", "self_management"],
+      "cognitive_templates": ["concrete_operational", "formal_operational"],
+      "cultural_scope": "global"
+    },
+    {
+      "id": "birthday_traditions_global",
+      "name": "Birthday Traditions Around the World",
+      "description": "Cultural birthday celebrations from different countries and cultures",
+      "research_basis": "Cultural anthropology, comparative traditions, multicultural education",
+      "sel_focus": ["social_awareness", "cultural_competence", "empathy"],
+      "cognitive_templates": ["cultural_development"],
+      "cultural_scope": "multicultural"
+    },
+    {
+      "id": "birthday_cakes_treats",
+      "name": "Birthday Cakes & Treats",
+      "description": "Birthday desserts, baking traditions, cake decoration",
+      "research_basis": "Culinary arts, chemistry of baking, sensory development, nutrition",
+      "sel_focus": ["creativity", "sharing", "gratitude"],
+      "cognitive_templates": ["sensory_learning", "practical_life"],
+      "cultural_scope": "global"
+    },
+    {
+      "id": "birthday_songs_music",
+      "name": "Birthday Songs & Music",
+      "description": "Birthday songs, musical traditions, celebratory music",
+      "research_basis": "Music education, auditory development, cultural musicology",
+      "sel_focus": ["emotional_expression", "cultural_awareness", "joy"],
+      "cognitive_templates": ["auditory_processing"],
+      "cultural_scope": "global"
+    },
+    {
+      "id": "birthday_decorations",
+      "name": "Birthday Decorations",
+      "description": "Party decorations, themes, colors, and visual design",
+      "research_basis": "Visual arts, color psychology, spatial awareness, aesthetics",
+      "sel_focus": ["creativity", "aesthetic_appreciation", "planning"],
+      "cognitive_templates": ["visual_spatial"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_gifts_giving",
+      "name": "Birthday Gifts & Giving",
+      "description": "Gift traditions, wrapping, giving and receiving etiquette",
+      "research_basis": "Social psychology, gift economy, gratitude research, empathy development",
+      "sel_focus": ["gratitude", "empathy", "generosity", "relationship_skills"],
+      "cognitive_templates": ["social_emotional"],
+      "cultural_scope": "global"
+    },
+    {
+      "id": "birthday_history",
+      "name": "Birthday Celebrations Through History",
+      "description": "Historical origins of birthday traditions, ancient to modern",
+      "research_basis": "Historical analysis, cultural evolution, anthropology",
+      "sel_focus": ["historical_thinking", "cultural_awareness"],
+      "cognitive_templates": ["historical_reasoning"],
+      "cultural_scope": "historical"
+    },
+    {
+      "id": "birthday_numbers_ages",
+      "name": "Birthday Numbers & Ages",
+      "description": "Age milestones, counting, number concepts, mathematics of birthdays",
+      "research_basis": "Number sense development, mathematical reasoning, time concepts",
+      "sel_focus": ["mathematical_thinking", "self_awareness"],
+      "cognitive_templates": ["numerical_cognition"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_wishes_dreams",
+      "name": "Birthday Wishes & Dreams",
+      "description": "Making wishes, goal-setting, hopes and aspirations",
+      "research_basis": "Positive psychology, goal-setting theory, imagination development",
+      "sel_focus": ["self_awareness", "future_orientation", "optimism"],
+      "cognitive_templates": ["metacognition"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_candles_lights",
+      "name": "Birthday Candles & Lights",
+      "description": "Candle traditions, symbolism of light, fire safety",
+      "research_basis": "Symbolism, fire science, sensory experience, safety education",
+      "sel_focus": ["symbolism_understanding", "safety_awareness"],
+      "cognitive_templates": ["symbolic_thinking"],
+      "cultural_scope": "global"
+    },
+    {
+      "id": "birthday_invitations_cards",
+      "name": "Birthday Invitations & Cards",
+      "description": "Invitation etiquette, card-making, written communication",
+      "research_basis": "Literacy development, social communication, graphic design",
+      "sel_focus": ["communication_skills", "creativity", "relationship_skills"],
+      "cognitive_templates": ["literacy_communication"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_activities_fun",
+      "name": "Birthday Activities & Fun",
+      "description": "Party activities, entertainment, group dynamics",
+      "research_basis": "Recreation science, group dynamics, engagement theory",
+      "sel_focus": ["social_skills", "joy", "cooperation"],
+      "cognitive_templates": ["play_development"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_milestone_ages",
+      "name": "Birthday Milestone Ages",
+      "description": "Special ages (1st, 13th, 16th, 18th, 21st), coming of age",
+      "research_basis": "Developmental milestones, rites of passage, cultural transitions",
+      "sel_focus": ["self_identity", "responsibility", "maturity"],
+      "cognitive_templates": ["identity_development"],
+      "cultural_scope": "cultural_comparative"
+    },
+    {
+      "id": "birthday_zodiac_astrology",
+      "name": "Birthday Zodiac & Astrology",
+      "description": "Zodiac signs, birthstones, personality associations",
+      "research_basis": "Cultural belief systems, symbolism, astronomy basics",
+      "sel_focus": ["self_concept", "cultural_literacy"],
+      "cognitive_templates": ["symbolic_systems"],
+      "cultural_scope": "global"
+    },
+    {
+      "id": "birthday_symbols_icons",
+      "name": "Birthday Symbols & Icons",
+      "description": "Balloons, hats, streamers, birthday imagery",
+      "research_basis": "Visual literacy, symbolism, semiotics, marketing",
+      "sel_focus": ["visual_literacy", "cultural_literacy"],
+      "cognitive_templates": ["symbol_recognition"],
+      "cultural_scope": "modern_western"
+    },
+    {
+      "id": "birthday_party_planning",
+      "name": "Birthday Party Planning",
+      "description": "Event planning, organization, budgeting, logistics",
+      "research_basis": "Executive function, planning skills, practical mathematics",
+      "sel_focus": ["planning", "organization", "responsibility"],
+      "cognitive_templates": ["executive_function"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_memories_photos",
+      "name": "Birthday Memories & Photos",
+      "description": "Photography, memory-making, documentation, nostalgia",
+      "research_basis": "Memory formation, autobiographical memory, photography",
+      "sel_focus": ["reflection", "gratitude", "memory"],
+      "cognitive_templates": ["autobiographical_memory"],
+      "cultural_scope": "modern"
+    },
+    {
+      "id": "birthday_surprises",
+      "name": "Birthday Surprises",
+      "description": "Surprise parties, unexpected gifts, plot and reveal",
+      "research_basis": "Emotional psychology, theory of mind, social planning",
+      "sel_focus": ["empathy", "perspective_taking", "excitement"],
+      "cognitive_templates": ["theory_of_mind"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_themed_parties",
+      "name": "Birthday Themed Parties",
+      "description": "Party themes, costume parties, immersive experiences",
+      "research_basis": "Imaginative play, themed learning, narrative engagement",
+      "sel_focus": ["creativity", "imagination", "narrative_thinking"],
+      "cognitive_templates": ["imaginative_play"],
+      "cultural_scope": "modern"
+    },
+    {
+      "id": "birthday_through_seasons",
+      "name": "Birthday Across the Seasons",
+      "description": "Seasonal birthdays, weather considerations, seasonal activities",
+      "research_basis": "Environmental science, seasonal cycles, nature awareness",
+      "sel_focus": ["nature_connection", "time_awareness"],
+      "cognitive_templates": ["temporal_reasoning"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_food_feasts",
+      "name": "Birthday Food & Feasts",
+      "description": "Birthday meals, favorite foods, celebratory dining",
+      "research_basis": "Nutrition, culinary traditions, food science",
+      "sel_focus": ["cultural_awareness", "health", "enjoyment"],
+      "cognitive_templates": ["sensory_learning"],
+      "cultural_scope": "global"
+    },
+    {
+      "id": "birthday_entertainment",
+      "name": "Birthday Entertainment",
+      "description": "Performers, magicians, clowns, entertainment options",
+      "research_basis": "Performing arts, entertainment psychology, audience engagement",
+      "sel_focus": ["appreciation", "joy", "aesthetic_experience"],
+      "cognitive_templates": ["aesthetic_appreciation"],
+      "cultural_scope": "modern"
+    },
+    {
+      "id": "birthday_family_traditions",
+      "name": "Birthday Family Traditions",
+      "description": "Family-specific birthday customs, generational traditions",
+      "research_basis": "Family systems, tradition transmission, family bonds",
+      "sel_focus": ["family_identity", "belonging", "tradition"],
+      "cognitive_templates": ["family_systems"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_friend_celebrations",
+      "name": "Birthday Friend Celebrations",
+      "description": "Celebrating with friends, friendship bonding, peer relationships",
+      "research_basis": "Peer relationships, friendship development, social psychology",
+      "sel_focus": ["friendship", "social_bonds", "belonging"],
+      "cognitive_templates": ["peer_relationships"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_cultural_differences",
+      "name": "Birthday Cultural Differences",
+      "description": "Comparative birthday traditions across cultures",
+      "research_basis": "Comparative anthropology, cross-cultural psychology",
+      "sel_focus": ["cultural_competence", "diversity_appreciation"],
+      "cognitive_templates": ["cross_cultural"],
+      "cultural_scope": "multicultural"
+    },
+    {
+      "id": "birthday_special_birthdays",
+      "name": "Special Birthday Occasions",
+      "description": "Leap year birthdays, shared birthdays, famous birthdays",
+      "research_basis": "Calendar systems, probability, statistical thinking",
+      "sel_focus": ["uniqueness", "mathematical_thinking"],
+      "cognitive_templates": ["statistical_reasoning"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_party_etiquette",
+      "name": "Birthday Party Etiquette",
+      "description": "Guest behavior, host responsibilities, social norms",
+      "research_basis": "Social norms, etiquette education, prosocial behavior",
+      "sel_focus": ["social_skills", "respect", "responsibility"],
+      "cognitive_templates": ["social_norms"],
+      "cultural_scope": "cultural_specific"
+    },
+    {
+      "id": "birthday_time_dates",
+      "name": "Birthday Time & Dates",
+      "description": "Calendar understanding, dates, time concepts, age calculation",
+      "research_basis": "Temporal cognition, calendar systems, mathematics",
+      "sel_focus": ["time_awareness", "mathematical_thinking"],
+      "cognitive_templates": ["temporal_cognition"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_age_development",
+      "name": "Birthday & Growing Older",
+      "description": "Aging, development, growth milestones",
+      "research_basis": "Developmental psychology, lifespan development, biology",
+      "sel_focus": ["self_awareness", "growth_mindset", "identity"],
+      "cognitive_templates": ["developmental_awareness"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_modern_trends",
+      "name": "Modern Birthday Trends",
+      "description": "Contemporary birthday celebrations, social media, modern customs",
+      "research_basis": "Digital culture, contemporary sociology, media literacy",
+      "sel_focus": ["media_literacy", "contemporary_awareness"],
+      "cognitive_templates": ["contemporary_culture"],
+      "cultural_scope": "modern_global"
+    },
+    {
+      "id": "birthday_science_math",
+      "name": "Birthday Science & Math",
+      "description": "Birthday paradox, probability, statistics, mathematics",
+      "research_basis": "Probability theory, statistics, mathematical reasoning",
+      "sel_focus": ["mathematical_thinking", "logical_reasoning"],
+      "cognitive_templates": ["mathematical_cognition"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_famous_birthdays",
+      "name": "Famous People's Birthdays",
+      "description": "Historical figures, celebrities, shared birthdays",
+      "research_basis": "Biography, historical literacy, cultural knowledge",
+      "sel_focus": ["historical_awareness", "inspiration"],
+      "cognitive_templates": ["biographical_learning"],
+      "cultural_scope": "global_historical"
+    },
+    {
+      "id": "birthday_kindness_sharing",
+      "name": "Birthday Kindness & Sharing",
+      "description": "Generosity on birthdays, charity, giving back",
+      "research_basis": "Prosocial behavior, altruism, moral development",
+      "sel_focus": ["generosity", "empathy", "moral_reasoning"],
+      "cognitive_templates": ["moral_development"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_growth_reflection",
+      "name": "Birthday Growth & Reflection",
+      "description": "Personal growth, reflection, self-assessment",
+      "research_basis": "Metacognition, self-reflection, personal development",
+      "sel_focus": ["self_awareness", "reflection", "growth_mindset"],
+      "cognitive_templates": ["metacognitive_awareness"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_emotions_feelings",
+      "name": "Birthday Emotions & Feelings",
+      "description": "Joy, excitement, sometimes sadness, emotional literacy",
+      "research_basis": "Emotional development, emotional intelligence, affective science",
+      "sel_focus": ["emotional_literacy", "self_awareness", "regulation"],
+      "cognitive_templates": ["emotional_intelligence"],
+      "cultural_scope": "universal"
+    },
+    {
+      "id": "birthday_gratitude_appreciation",
+      "name": "Birthday Gratitude & Thanks",
+      "description": "Expressing thanks, appreciation, gratitude practices",
+      "research_basis": "Gratitude research, positive psychology, prosocial behavior",
+      "sel_focus": ["gratitude", "appreciation", "positive_emotions"],
+      "cognitive_templates": ["gratitude_practice"],
+      "cultural_scope": "universal"
+    }
+  ]
+}

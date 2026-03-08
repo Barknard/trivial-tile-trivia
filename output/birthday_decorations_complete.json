@@ -1,0 +1,1002 @@
+{
+  "category": "Birthday Decorations",
+  "theme": "celebrations",
+  "category_id": "birthday_decorations",
+  "description": "Party decorations, balloons, streamers, themes, colors, and party design elements",
+  "age_suitability": "All ages",
+  "research_alignment": "Visual arts, color psychology, spatial awareness, design principles, cultural celebrations",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "These colorful objects float in the air at birthday parties",
+        "correctQuestion": "What are balloons?",
+        "value": 200
+      },
+      {
+        "clue": "You blow this up to make it bigger before tying it",
+        "correctQuestion": "What is a balloon?",
+        "value": 200
+      },
+      {
+        "clue": "These long, twisty, colorful things hang from the ceiling",
+        "correctQuestion": "What are streamers?",
+        "value": 200
+      },
+      {
+        "clue": "This goes around the room to make it look festive",
+        "correctQuestion": "What is a streamer?",
+        "value": 200
+      },
+      {
+        "clue": "This white or colorful stuff goes on top of the birthday cake",
+        "correctQuestion": "What is frosting?",
+        "value": 200
+      },
+      {
+        "clue": "You wear this pointy paper hat at a birthday party",
+        "correctQuestion": "What is a party hat?",
+        "value": 200
+      },
+      {
+        "clue": "These make noise and have colorful paper inside them",
+        "correctQuestion": "What are party poppers?",
+        "value": 200
+      },
+      {
+        "clue": "This decorates the table where you eat at a party",
+        "correctQuestion": "What is a tablecloth?",
+        "value": 200
+      },
+      {
+        "clue": "Happy birthday is written on this decoration",
+        "correctQuestion": "What is a banner?",
+        "value": 200
+      },
+      {
+        "clue": "You hang this decoration on the wall at a party",
+        "correctQuestion": "What is a banner or poster?",
+        "value": 200
+      },
+      {
+        "clue": "These numbers show how old you are on your birthday",
+        "correctQuestion": "What are birthday candles?",
+        "value": 400
+      },
+      {
+        "clue": "You light these on the birthday cake and make a wish",
+        "correctQuestion": "What are candles?",
+        "value": 400
+      },
+      {
+        "clue": "This shiny stringy decoration hangs on balloons and walls",
+        "correctQuestion": "What is tinsel?",
+        "value": 400
+      },
+      {
+        "clue": "Balloons can be shaped like animals or letters with this gas inside",
+        "correctQuestion": "What is helium?",
+        "value": 400
+      },
+      {
+        "clue": "This decoration looks like big circles of tissue paper",
+        "correctQuestion": "What are paper pom-poms or tissue pom-poms?",
+        "value": 400
+      },
+      {
+        "clue": "You wrap presents with this colorful paper and this shiny bow",
+        "correctQuestion": "What is wrapping paper and ribbon?",
+        "value": 400
+      },
+      {
+        "clue": "These shiny round or star-shaped decorations hang around the room",
+        "correctQuestion": "What are balloons or ornaments?",
+        "value": 400
+      },
+      {
+        "clue": "This is the special seat for the birthday person",
+        "correctQuestion": "What is the birthday chair?",
+        "value": 400
+      },
+      {
+        "clue": "This decoration shows the date of your birthday",
+        "correctQuestion": "What is a calendar or date decoration?",
+        "value": 400
+      },
+      {
+        "clue": "These hang down from the ceiling and look like chains",
+        "correctQuestion": "What are paper chains?",
+        "value": 400
+      },
+      {
+        "clue": "This round decoration with a face hangs at parties",
+        "correctQuestion": "What is a balloon character?",
+        "value": 200
+      },
+      {
+        "clue": "You blow air into this and it flies around the room",
+        "correctQuestion": "What is a balloon?",
+        "value": 200
+      },
+      {
+        "clue": "This catches balloons and streamers that float down",
+        "correctQuestion": "What is the ceiling or air?",
+        "value": 200
+      },
+      {
+        "clue": "Birthdays have these with pictures and words on them",
+        "correctQuestion": "What are decorations?",
+        "value": 200
+      },
+      {
+        "clue": "This makes the party look happy and colorful",
+        "correctQuestion": "What are decorations?",
+        "value": 200
+      },
+      {
+        "clue": "You eat this sweet treat at a birthday party",
+        "correctQuestion": "What is cake?",
+        "value": 200
+      },
+      {
+        "clue": "This comes down when you pull a party popper",
+        "correctQuestion": "What is confetti?",
+        "value": 200
+      },
+      {
+        "clue": "You wear this on your head and it has a chin strap",
+        "correctQuestion": "What is a party hat?",
+        "value": 200
+      },
+      {
+        "clue": "This word says Happy Birthday on it",
+        "correctQuestion": "What is a banner?",
+        "value": 200
+      },
+      {
+        "clue": "This is blown up with air and ties to chairs",
+        "correctQuestion": "What is a balloon?",
+        "value": 200
+      },
+      {
+        "clue": "This shiny paper covers presents at a birthday party",
+        "correctQuestion": "What is wrapping paper?",
+        "value": 200
+      },
+      {
+        "clue": "These colored loops hang on walls",
+        "correctQuestion": "What are streamers?",
+        "value": 200
+      },
+      {
+        "clue": "This goes boom and shoots confetti everywhere",
+        "correctQuestion": "What is a party popper?",
+        "value": 400
+      },
+      {
+        "clue": "This shiny stuff hangs from decorations and glitters",
+        "correctQuestion": "What is tinsel or garland?",
+        "value": 400
+      },
+      {
+        "clue": "This round paper decoration looks like a flower",
+        "correctQuestion": "What is a pom-pom?",
+        "value": 400
+      },
+      {
+        "clue": "This pops with a bang and surprises everyone",
+        "correctQuestion": "What is a party popper?",
+        "value": 200
+      }
+    ],
+    "kids_5_8": [
+      {
+        "clue": "A common balloon shape made by twisting rubber in different sections",
+        "correctQuestion": "What is a balloon animal?",
+        "value": 200
+      },
+      {
+        "clue": "The gas used to make balloons float in the air",
+        "correctQuestion": "What is helium?",
+        "value": 200
+      },
+      {
+        "clue": "Long, curled paper decoration that gets sprayed into the air",
+        "correctQuestion": "What are streamers or party streamers?",
+        "value": 200
+      },
+      {
+        "clue": "Paper circles made from tissue paper that look fluffy and round",
+        "correctQuestion": "What are tissue pom-poms?",
+        "value": 200
+      },
+      {
+        "clue": "This rainbow-colored paper hangs down and looks like an arch",
+        "correctQuestion": "What is a rainbow streamer?",
+        "value": 200
+      },
+      {
+        "clue": "The special colored paper you use to cover the birthday cake",
+        "correctQuestion": "What is frosting or icing?",
+        "value": 200
+      },
+      {
+        "clue": "This makes a loud noise and confetti comes out",
+        "correctQuestion": "What is a party popper?",
+        "value": 200
+      },
+      {
+        "clue": "This tall decoration made of cups stacked forms a tower",
+        "correctQuestion": "What is a cup tower or cup stack?",
+        "value": 200
+      },
+      {
+        "clue": "These numbers spell out the person's age",
+        "correctQuestion": "What are number balloons or age balloons?",
+        "value": 200
+      },
+      {
+        "clue": "This decoration covers the wall behind the birthday table",
+        "correctQuestion": "What is a balloon backdrop?",
+        "value": 200
+      },
+      {
+        "clue": "The art of arranging flowers, balloons, and decorations into beautiful displays",
+        "correctQuestion": "What is floral design or arrangement?",
+        "value": 400
+      },
+      {
+        "clue": "These come in metallic gold or silver and make decorations shine",
+        "correctQuestion": "What are metallic balloons?",
+        "value": 400
+      },
+      {
+        "clue": "The primary color often used for a girl's birthday party",
+        "correctQuestion": "What is pink?",
+        "value": 400
+      },
+      {
+        "clue": "The primary color often used for a boy's birthday party",
+        "correctQuestion": "What is blue?",
+        "value": 400
+      },
+      {
+        "clue": "This decoration is made by weaving strips of colored paper through each other",
+        "correctQuestion": "What is a paper chain?",
+        "value": 400
+      },
+      {
+        "clue": "This creates a focal point in a room and is usually placed behind the cake",
+        "correctQuestion": "What is a backdrop or backdrop decoration?",
+        "value": 400
+      },
+      {
+        "clue": "These themed decorations feature characters from movies or cartoons",
+        "correctQuestion": "What are character balloons or theme balloons?",
+        "value": 400
+      },
+      {
+        "clue": "The technique of arranging balloons in columns or clusters",
+        "correctQuestion": "What is balloon stacking or balloon clustering?",
+        "value": 400
+      },
+      {
+        "clue": "These shiny decorations look like stars or spheres and hang from strings",
+        "correctQuestion": "What are hanging ornaments or hanging decorations?",
+        "value": 400
+      },
+      {
+        "clue": "This covers tables and can have the birthday theme printed on it",
+        "correctQuestion": "What is a themed tablecloth?",
+        "value": 400
+      },
+      {
+        "clue": "These balloons shaped like letters spell out happy birthday",
+        "correctQuestion": "What are letter balloons?",
+        "value": 200
+      },
+      {
+        "clue": "This glitter spray makes decorations shine and sparkle",
+        "correctQuestion": "What is glitter spray?",
+        "value": 200
+      },
+      {
+        "clue": "This string holds balloons and decorations in place",
+        "correctQuestion": "What is fishing line or string?",
+        "value": 200
+      },
+      {
+        "clue": "These sticky pieces help decorations stay on walls",
+        "correctQuestion": "What is tape or sticky tack?",
+        "value": 200
+      },
+      {
+        "clue": "This centerpiece sits in the middle of the birthday table",
+        "correctQuestion": "What is a flower arrangement or decoration?",
+        "value": 200
+      },
+      {
+        "clue": "This decorative item looks like a donkey for parties",
+        "correctQuestion": "What is a pinata?",
+        "value": 200
+      },
+      {
+        "clue": "This technique makes balloon decorations look professional",
+        "correctQuestion": "What is balloon twisting?",
+        "value": 200
+      },
+      {
+        "clue": "This round decoration in a corner frames the party room",
+        "correctQuestion": "What is a balloon cluster?",
+        "value": 200
+      },
+      {
+        "clue": "This shiny decoration hangs on walls and reflects light",
+        "correctQuestion": "What is garland?",
+        "value": 200
+      },
+      {
+        "clue": "This long decoration can be shaped into balloon animals",
+        "correctQuestion": "What is a twisting balloon?",
+        "value": 200
+      },
+      {
+        "clue": "This multi-colored paper decoration hangs in coils",
+        "correctQuestion": "What is a streamer?",
+        "value": 200
+      },
+      {
+        "clue": "This background decoration is made of many balloons",
+        "correctQuestion": "What is a balloon wall?",
+        "value": 200
+      },
+      {
+        "clue": "This technique creates patterns with balloons and string",
+        "correctQuestion": "What is balloon garland?",
+        "value": 200
+      },
+      {
+        "clue": "These numbers help count down to the birthday",
+        "correctQuestion": "What are countdown numbers?",
+        "value": 400
+      },
+      {
+        "clue": "This shiny sphere hangs and reflects light everywhere",
+        "correctQuestion": "What is a disco ball?",
+        "value": 400
+      },
+      {
+        "clue": "These hang from the ceiling and sway in the breeze",
+        "correctQuestion": "What are hanging decorations?",
+        "value": 200
+      }
+    ],
+    "kids_9_12": [
+      {
+        "clue": "The color combination of red and yellow is known as this warm color temperature in color psychology",
+        "correctQuestion": "What are warm colors?",
+        "value": 200
+      },
+      {
+        "clue": "Blue and purple are considered these types of colors in design",
+        "correctQuestion": "What are cool colors?",
+        "value": 200
+      },
+      {
+        "clue": "This principle of design refers to using different decorations in equal proportions",
+        "correctQuestion": "What is balance?",
+        "value": 200
+      },
+      {
+        "clue": "The arrangement of decorations from smallest to largest creates this design element",
+        "correctQuestion": "What is scale or proportion?",
+        "value": 200
+      },
+      {
+        "clue": "This is the main decoration that draws your eye in a room",
+        "correctQuestion": "What is a focal point?",
+        "value": 200
+      },
+      {
+        "clue": "These mylar balloons are filled with this gas to make them float",
+        "correctQuestion": "What is helium?",
+        "value": 200
+      },
+      {
+        "clue": "This type of party uses decorations based on a specific concept or movie",
+        "correctQuestion": "What is a themed party?",
+        "value": 200
+      },
+      {
+        "clue": "The space between decorations is called this in design",
+        "correctQuestion": "What is negative space or white space?",
+        "value": 200
+      },
+      {
+        "clue": "This technique creates visual interest by placing contrasting colors next to each other",
+        "correctQuestion": "What is contrast?",
+        "value": 200
+      },
+      {
+        "clue": "This arrangement of decorations creates movement and guides the eye",
+        "correctQuestion": "What is a line or directional flow?",
+        "value": 200
+      },
+      {
+        "clue": "In color psychology, red conveys this emotion or state",
+        "correctQuestion": "What is excitement, energy, or passion?",
+        "value": 400
+      },
+      {
+        "clue": "Blue is often associated with this calming emotion",
+        "correctQuestion": "What is peace or tranquility?",
+        "value": 400
+      },
+      {
+        "clue": "Yellow is known for conveying this uplifting feeling",
+        "correctQuestion": "What is happiness or joy?",
+        "value": 400
+      },
+      {
+        "clue": "Green is associated with nature and this calming sensation",
+        "correctQuestion": "What is relaxation or harmony?",
+        "value": 400
+      },
+      {
+        "clue": "This color combination uses opposite colors on the color wheel",
+        "correctQuestion": "What is complementary colors?",
+        "value": 400
+      },
+      {
+        "clue": "This design principle refers to the repetition of similar elements",
+        "correctQuestion": "What is pattern or rhythm?",
+        "value": 400
+      },
+      {
+        "clue": "This principle ensures that larger areas balance smaller decorative accents",
+        "correctQuestion": "What is proportion?",
+        "value": 400
+      },
+      {
+        "clue": "The rule of thirds divides your space into this many sections",
+        "correctQuestion": "What is nine?",
+        "value": 400
+      },
+      {
+        "clue": "These large-scale balloons have become trendy for creating impressive backdrops",
+        "correctQuestion": "What are giant balloons or oversized balloons?",
+        "value": 400
+      },
+      {
+        "clue": "This geometric pattern is made by arranging balloons in perfect rows and columns",
+        "correctQuestion": "What is a balloon wall or balloon grid?",
+        "value": 400
+      },
+      {
+        "clue": "These come in metallic finishes and create luxury party aesthetics",
+        "correctQuestion": "What are metallic or chrome balloons?",
+        "value": 200
+      },
+      {
+        "clue": "This theme uses pastels, floral elements, and delicate decorations",
+        "correctQuestion": "What is a garden or spring theme?",
+        "value": 200
+      },
+      {
+        "clue": "Balloons that have pictures or characters printed on them are called this",
+        "correctQuestion": "What are custom or printed balloons?",
+        "value": 200
+      },
+      {
+        "clue": "This technique involves arranging balloons to look like an archway",
+        "correctQuestion": "What is a balloon arch?",
+        "value": 200
+      },
+      {
+        "clue": "These long, twisted balloons are used to create crowns and wands",
+        "correctQuestion": "What are modeling balloons or twisting balloons?",
+        "value": 200
+      },
+      {
+        "clue": "This color is opposite red on the traditional color wheel",
+        "correctQuestion": "What is cyan?",
+        "value": 200
+      },
+      {
+        "clue": "This technique places decorations using the rule of thirds",
+        "correctQuestion": "What is compositional placement?",
+        "value": 200
+      },
+      {
+        "clue": "These balloons create a shimmering effect with metallic finishes",
+        "correctQuestion": "What are chrome balloons?",
+        "value": 200
+      },
+      {
+        "clue": "This theme uses black, white, and bright neon colors",
+        "correctQuestion": "What is a neon theme?",
+        "value": 200
+      },
+      {
+        "clue": "This principle of design uses repeating shapes and colors",
+        "correctQuestion": "What is pattern?",
+        "value": 200
+      },
+      {
+        "clue": "These large decorations create a dramatic focal point",
+        "correctQuestion": "What are oversized props?",
+        "value": 200
+      },
+      {
+        "clue": "This technique suspends decorations from ceiling to create depth",
+        "correctQuestion": "What is hanging decoration?",
+        "value": 200
+      },
+      {
+        "clue": "This color combination creates visual harmony and balance",
+        "correctQuestion": "What is analogous colors?",
+        "value": 200
+      },
+      {
+        "clue": "This geometric pattern is created by arranging balloons in a grid",
+        "correctQuestion": "What is a balloon grid?",
+        "value": 200
+      },
+      {
+        "clue": "These decorations use the color wheel to create visual impact",
+        "correctQuestion": "What is color harmony?",
+        "value": 200
+      },
+      {
+        "clue": "This visual element combines shapes, lines, and colors to create interest",
+        "correctQuestion": "What is composition?",
+        "value": 400
+      }
+    ],
+    "teens_adults": [
+      {
+        "clue": "This design principle creates visual coherence across all decorative elements",
+        "correctQuestion": "What is unity or cohesion?",
+        "value": 200
+      },
+      {
+        "clue": "The psychological principle that warm colors appear to advance while cool colors recede",
+        "correctQuestion": "What is color temperature and atmospheric perspective?",
+        "value": 200
+      },
+      {
+        "clue": "This is the dominant sensory experience created by color in a space",
+        "correctQuestion": "What is mood or ambiance?",
+        "value": 200
+      },
+      {
+        "clue": "The technical term for the brightness or darkness of a color",
+        "correctQuestion": "What is value?",
+        "value": 200
+      },
+      {
+        "clue": "This element refers to the purity or intensity of a color",
+        "correctQuestion": "What is saturation or chroma?",
+        "value": 200
+      },
+      {
+        "clue": "The spatial concept of arranging objects to create depth perception",
+        "correctQuestion": "What is perspective or depth?",
+        "value": 200
+      },
+      {
+        "clue": "The mathematical ratio found in nature often used in design composition",
+        "correctQuestion": "What is the golden ratio or Fibonacci sequence?",
+        "value": 200
+      },
+      {
+        "clue": "This asymmetrical design principle creates balance through visual weight distribution",
+        "correctQuestion": "What is dynamic balance?",
+        "value": 200
+      },
+      {
+        "clue": "The principle of guiding viewer attention through spatial arrangement",
+        "correctQuestion": "What is compositional flow or visual hierarchy?",
+        "value": 200
+      },
+      {
+        "clue": "This color harmony technique uses three colors equally spaced on the color wheel",
+        "correctQuestion": "What is triadic color harmony?",
+        "value": 200
+      },
+      {
+        "clue": "In color psychology, this color association promotes appetite and celebration",
+        "correctQuestion": "What is red or orange?",
+        "value": 400
+      },
+      {
+        "clue": "Balloon decorators use this technique to measure proportions and spacing accurately",
+        "correctQuestion": "What is mathematical calculation or golden ratio application?",
+        "value": 400
+      },
+      {
+        "clue": "The strategic placement of decorations to maximize visual impact in a given space",
+        "correctQuestion": "What is spatial optimization or space planning?",
+        "value": 400
+      },
+      {
+        "clue": "This color scheme uses tints and shades of a single color",
+        "correctQuestion": "What is monochromatic color scheme?",
+        "value": 400
+      },
+      {
+        "clue": "The psychological effect of using high saturation colors for excitement and energy",
+        "correctQuestion": "What is color saturation impact?",
+        "value": 400
+      },
+      {
+        "clue": "This design movement influenced modern minimalist party decorations",
+        "correctQuestion": "What is modernism or minimalism?",
+        "value": 400
+      },
+      {
+        "clue": "The principle of creating interest through unexpected color or design choices",
+        "correctQuestion": "What is visual tension or contrast?",
+        "value": 400
+      },
+      {
+        "clue": "This spatial awareness concept involves understanding how decorations interact in three dimensions",
+        "correctQuestion": "What is volumetric design or sculptural thinking?",
+        "value": 400
+      },
+      {
+        "clue": "The technique of layering decorations to create visual depth and complexity",
+        "correctQuestion": "What is layering or visual depth creation?",
+        "value": 400
+      },
+      {
+        "clue": "This principle uses repeated elements at different scales for visual interest",
+        "correctQuestion": "What is scale variation or fractal-like repetition?",
+        "value": 400
+      },
+      {
+        "clue": "The concept of using negative space to emphasize primary decorative elements",
+        "correctQuestion": "What is minimalist design or spatial breathing room?",
+        "value": 200
+      },
+      {
+        "clue": "This lighting technique enhances the visual impact of balloon and decoration arrangements",
+        "correctQuestion": "What is accent lighting or uplighting?",
+        "value": 200
+      },
+      {
+        "clue": "The process of selecting colors based on emotional and psychological responses",
+        "correctQuestion": "What is color psychology application or chromatic selection?",
+        "value": 200
+      },
+      {
+        "clue": "This principle involves creating visual movement through diagonal or curved decorative lines",
+        "correctQuestion": "What is directional flow or visual movement?",
+        "value": 200
+      },
+      {
+        "clue": "The concept of using varying texture types in decorations for tactile and visual interest",
+        "correctQuestion": "What is texture variation or tactile contrast?",
+        "value": 200
+      },
+      {
+        "clue": "This design principle creates visual interest without symmetry",
+        "correctQuestion": "What is asymmetrical balance?",
+        "value": 200
+      },
+      {
+        "clue": "These color relationships follow mathematical proportions",
+        "correctQuestion": "What is color harmony?",
+        "value": 200
+      },
+      {
+        "clue": "This spatial design principle uses empty space intentionally",
+        "correctQuestion": "What is negative space?",
+        "value": 200
+      },
+      {
+        "clue": "This technique creates visual movement through diagonal lines",
+        "correctQuestion": "What is directional flow?",
+        "value": 200
+      },
+      {
+        "clue": "These materials are chosen for sustainability and reusability",
+        "correctQuestion": "What is eco-friendly decoration?",
+        "value": 200
+      },
+      {
+        "clue": "This principle of design creates emphasis through isolation",
+        "correctQuestion": "What is emphasis?",
+        "value": 200
+      },
+      {
+        "clue": "This technique uses color saturation to guide viewer attention",
+        "correctQuestion": "What is saturation hierarchy?",
+        "value": 200
+      },
+      {
+        "clue": "This principle explains how humans perceive arrangements",
+        "correctQuestion": "What is visual perception?",
+        "value": 200
+      },
+      {
+        "clue": "This design strategy uses repetition for visual unity",
+        "correctQuestion": "What is rhythm?",
+        "value": 200
+      },
+      {
+        "clue": "This technique arranges decorations to optimize sightlines",
+        "correctQuestion": "What is spatial optimization?",
+        "value": 200
+      },
+      {
+        "clue": "This principle guides the viewer's eye throughout the decorated space",
+        "correctQuestion": "What is visual flow?",
+        "value": 400
+      }
+    ],
+    "seniors": [
+      {
+        "clue": "This artistic movement influenced the geometric balloon decoration styles popular today",
+        "correctQuestion": "What is constructivism or geometric abstraction?",
+        "value": 200
+      },
+      {
+        "clue": "The German art school that revolutionized spatial awareness and color theory applications",
+        "correctQuestion": "What is the Bauhaus?",
+        "value": 200
+      },
+      {
+        "clue": "This color theorist's work on complementary colors is fundamental to modern party design",
+        "correctQuestion": "Who is Johann Wolfgang von Goethe or Michel Eug\u00c3\u00a8ne Chevreul?",
+        "value": 200
+      },
+      {
+        "clue": "The Renaissance artist who pioneered linear perspective, influencing spatial arrangement",
+        "correctQuestion": "Who is Filippo Brunelleschi or Paolo Uccello?",
+        "value": 200
+      },
+      {
+        "clue": "This psychologist's research on color perception established modern color psychology",
+        "correctQuestion": "Who is Wassily Kandinsky or Johann Wolfgang von Goethe?",
+        "value": 200
+      },
+      {
+        "clue": "The Japanese design principle of empty space that modern minimalist decorators employ",
+        "correctQuestion": "What is ma?",
+        "value": 200
+      },
+      {
+        "clue": "This Chinese philosophy of balance influenced yin-yang color combinations in celebrations",
+        "correctQuestion": "What is the concept of balance in feng shui or Taoism?",
+        "value": 200
+      },
+      {
+        "clue": "The principle of visual weight distribution without symmetry, pioneered in modern art",
+        "correctQuestion": "What is asymmetrical balance or dynamic equilibrium?",
+        "value": 200
+      },
+      {
+        "clue": "This psychophysical principle explains why certain color combinations feel harmonious",
+        "correctQuestion": "What is perceptual grouping or Gestalt principles?",
+        "value": 200
+      },
+      {
+        "clue": "The spatial concept of how objects relate to their surroundings and observers",
+        "correctQuestion": "What is proxemics or spatial relationships?",
+        "value": 200
+      },
+      {
+        "clue": "This branch of psychology studies the emotional and physiological effects of color",
+        "correctQuestion": "What is chromotherapy or color psychology?",
+        "value": 400
+      },
+      {
+        "clue": "The artistic technique used in abstract expressionism to create visual dynamism",
+        "correctQuestion": "What is gestural abstraction or color field painting?",
+        "value": 400
+      },
+      {
+        "clue": "This principle from neuroscience explains why the brain prefers certain spatial ratios",
+        "correctQuestion": "What is the golden ratio or phi perception?",
+        "value": 400
+      },
+      {
+        "clue": "The concept of how light and shadow create visual hierarchy and depth perception",
+        "correctQuestion": "What is chiaroscuro?",
+        "value": 400
+      },
+      {
+        "clue": "This cultural anthropology concept shows why certain colors have universal meanings",
+        "correctQuestion": "What is cultural semiotics or color symbolism?",
+        "value": 400
+      },
+      {
+        "clue": "The art historical movement that challenged traditional perspective and spatial representation",
+        "correctQuestion": "What is cubism or modernism?",
+        "value": 400
+      },
+      {
+        "clue": "This optical phenomenon explains why certain color combinations vibrate visually",
+        "correctQuestion": "What is optical mixing or simultaneous contrast?",
+        "value": 400
+      },
+      {
+        "clue": "The principle of visual perception that explains how humans organize complex compositions",
+        "correctQuestion": "What are Gestalt principles?",
+        "value": 400
+      },
+      {
+        "clue": "This sociological concept explains how party themes reflect cultural values and identity",
+        "correctQuestion": "What is cultural expression or semiotics?",
+        "value": 400
+      },
+      {
+        "clue": "The interdisciplinary study combining neuroscience and art to understand color perception",
+        "correctQuestion": "What is neuroaesthetics?",
+        "value": 400
+      },
+      {
+        "clue": "This artist's study of simultaneous contrast in color theory revolutionized decorative aesthetics",
+        "correctQuestion": "Who is Michel Eug\u00c3\u00a8ne Chevreul?",
+        "value": 200
+      },
+      {
+        "clue": "The theoretical framework explaining how color harmony follows mathematical ratios",
+        "correctQuestion": "What is proportional color theory?",
+        "value": 200
+      },
+      {
+        "clue": "This neurobiological concept explains how the brain processes spatial relationships in decorated environments",
+        "correctQuestion": "What is spatial cognition?",
+        "value": 200
+      },
+      {
+        "clue": "The aesthetic principle that governs how human perception organizes visual chaos into coherent patterns",
+        "correctQuestion": "What is the law of gestalt or perceptual organization?",
+        "value": 200
+      },
+      {
+        "clue": "This evolutionary psychology concept explains innate human preferences for certain color combinations",
+        "correctQuestion": "What is color preference evolution or biological color preference?",
+        "value": 200
+      },
+      {
+        "clue": "This artist's color wheel theory is still fundamental",
+        "correctQuestion": "Who is Johannes Itten?",
+        "value": 200
+      },
+      {
+        "clue": "This aesthetic principle governs visual proportion",
+        "correctQuestion": "What is the golden mean?",
+        "value": 200
+      },
+      {
+        "clue": "This neuroscience field studies how the brain perceives decorations",
+        "correctQuestion": "What is neuroaesthetics?",
+        "value": 200
+      },
+      {
+        "clue": "This principle of perception explains color harmony",
+        "correctQuestion": "What are Gestalt laws?",
+        "value": 200
+      },
+      {
+        "clue": "This cultural studies concept explains symbolic color meaning",
+        "correctQuestion": "What is semiotics?",
+        "value": 200
+      },
+      {
+        "clue": "This philosophy of space emphasizes emptiness and absence",
+        "correctQuestion": "What is ma?",
+        "value": 200
+      },
+      {
+        "clue": "This artistic movement revolutionized spatial representation",
+        "correctQuestion": "What is abstract expressionism?",
+        "value": 200
+      },
+      {
+        "clue": "This anthropological concept explains universal color preferences",
+        "correctQuestion": "What is evolutionary psychology?",
+        "value": 200
+      },
+      {
+        "clue": "This principle from optics explains vibrating color combinations",
+        "correctQuestion": "What is optical mixture?",
+        "value": 200
+      },
+      {
+        "clue": "This theoretical framework connects biology to aesthetic preference",
+        "correctQuestion": "What is biophilia?",
+        "value": 200
+      },
+      {
+        "clue": "This philosopher's ideas about perception influenced modern design theory",
+        "correctQuestion": "Who is Maurice Merleau-Ponty?",
+        "value": 400
+      }
+    ]
+  },
+  "research_notes": {
+    "color_psychology": [
+      "Red: Conveys energy, passion, excitement, and celebration (warm color with advancing property). Activates parasympathetic nervous system response. Used prominently in festive contexts across cultures.",
+      "Blue: Associated with calm, tranquility, trust, and stability (cool color that recedes). Creates sense of security and peace. Slows perceived time passage.",
+      "Yellow: Represents happiness, optimism, and joy (high visibility color used in celebrations). Stimulates mental activity and optimism. Most visible color to human eye.",
+      "Green: Symbolizes nature, harmony, and relaxation (balanced color in color wheel). Associated with growth and renewal. Creates restful visual experience.",
+      "Purple: Associated with royalty, creativity, and celebration (complementary to yellow). Combines calming blue with stimulating red. Historically precious and valuable.",
+      "Orange: Conveys warmth, enthusiasm, and energy (between red and yellow on color wheel). Combines excitement of red with joy of yellow.",
+      "Pink: Associated with playfulness, fun, and youthfulness (tint of red). Creates gentle, approachable aesthetic. Popular for younger celebrations.",
+      "White: Represents purity, cleanliness, and elegance (reflects all light). Creates sense of space and simplicity. Enhances visibility of other colors.",
+      "Black: Provides contrast and sophistication (absorbs all light). Creates dramatic emphasis. Used for formal and elegant party themes.",
+      "Silver/Gold: Metallic shades convey luxury, celebration, and special occasions. Reflect light creating festive sparkle. Associated with wealth and prestige."
+    ],
+    "visual_arts_principles": [
+      "Balance: Symmetrical (mirror) vs. asymmetrical (dynamic) distribution of visual weight. Creates sense of stability and intentionality in decoration layout.",
+      "Contrast: Placing opposing colors or shapes to create visual interest and emphasis. Prevents monotony and guides viewer attention.",
+      "Emphasis: Drawing attention to specific areas through size, color, or placement. Creates focal point hierarchy in decorated space.",
+      "Proportion: Relationship between sizes of different elements in a composition. Governs how decorations relate to each other and space.",
+      "Pattern: Repetition of decorative elements to create rhythm and visual flow. Creates visual unity through repeated design elements.",
+      "Scale: Overall size of decorations in relation to their environment. Ensures decorations appropriate to space and create impact.",
+      "Unity: Creating cohesion through consistent use of colors, shapes, and styles. Makes space feel intentionally designed rather than chaotic.",
+      "Movement: Directing viewer's eye through compositional arrangement. Creates visual journey through decorated space.",
+      "Focal Point: Primary area of attention in a decorated space. Usually cake table or main backdrop in birthday celebrations.",
+      "Depth: Creating illusion of three-dimensional space in flat or linear arrangements. Makes 2D decorations appear dimensional."
+    ],
+    "spatial_awareness": [
+      "Golden Ratio (1.618): Mathematical proportion found in nature and aesthetically pleasing arrangements. Applied to decoration placement and sizing.",
+      "Rule of Thirds: Dividing space into nine equal parts for compositional balance. Creates naturally pleasing visual composition.",
+      "Proxemics: Study of how physical distance and proximity affect perception and comfort. Determines spacing between decorative elements.",
+      "Volumetric Design: Considering decoration arrangements in three-dimensional space. Essential for balloon walls and suspended decorations.",
+      "Layering: Creating visual depth through overlapping and stacking decorative elements. Creates dimensional appearance in flat spaces.",
+      "Vertical Space: Utilizing ceiling height for hanging decorations and balloons. Draws eye upward and makes space appear larger.",
+      "Horizontal Space: Arranging decorations across table surfaces and walls. Creates visual base and supporting elements.",
+      "Circulation Space: Maintaining clear pathways for guests to move through decorated areas. Ensures safety and functionality.",
+      "Focal Distance: Optimizing decoration placement for optimal viewing from different angles. Considers multiple viewpoints in space.",
+      "Atmospheric Perspective: Using color and value changes to create depth illusion. Lighter cooler colors appear farther away."
+    ],
+    "celebration_design_concepts": [
+      "Themed Cohesion: Consistent color palette, style, and decorative elements throughout space. Creates unified, intentional aesthetic.",
+      "Visual Hierarchy: Primary decorations (backdrop, centerpiece) vs. secondary elements. Guides viewer attention through space deliberately.",
+      "Sensory Experience: Combining visual decorations with other sensory elements (lighting, music). Creates immersive celebration environment.",
+      "Temporal Design: Decorations that can be revealed or changed throughout the celebration. Creates dynamic, evolving visual experience.",
+      "Sustainability: Environmentally conscious decoration choices and reusable materials. Reduces environmental impact of celebrations.",
+      "Cultural Sensitivity: Respecting cultural traditions and meanings in decoration choices. Honors cultural significance of celebration practices.",
+      "Budget Optimization: Achieving high-impact visual effect with limited resources. Demonstrates resourcefulness in design.",
+      "Safety Considerations: Ensuring decorations don't obstruct views or create hazards. Maintains guest safety and comfort.",
+      "Photography Appeal: Designing decorated areas with photo opportunities in mind. Creates shareable moments for social media.",
+      "Flexibility: Adaptable decoration systems that work in various venue sizes. Allows decoration reuse across different spaces."
+    ]
+  },
+  "source_references": {
+    "visual_arts": [
+      "Kandinsky, W. (1977). Concerning the Spiritual in Art. Dover Publications. - Foundational work on color theory and visual expression.",
+      "Johannes Itten's Color Theory - Bauhaus systematic approach to color relationships and harmony.",
+      "Josef Albers' Interaction of Color - optical and perceptual color effects and simultaneous contrast.",
+      "Color & Light by James Gurney - comprehensive guide to color use in visual composition and perception.",
+      "Ellen Lupton - Thinking with Type, explores visual hierarchy and spatial organization principles."
+    ],
+    "color_psychology": [
+      "Faber Birren's research on psychological effects of colors - foundational work in color psychology.",
+      "David McCandless's 'Colours Chart' - mapping psychological color associations and cultural meanings.",
+      "Eva Heller's 'Psychologie der Farbe' - comprehensive color psychology study across cultures.",
+      "Angela Wright's studies on color effects on mood and productivity - workplace and home environment applications.",
+      "Pantone Color Institute annual reports - contemporary color trend analysis and cultural color preferences."
+    ],
+    "spatial_design": [
+      "Stephen R. Kellert's Biophilic Design - natural spatial arrangement principles and environmental psychology.",
+      "Alain de Botton's Architecture of Happiness - space and emotional well-being connections.",
+      "Christopher Alexander's Pattern Language - repeating spatial design elements and environmental harmony.",
+      "Feng Shui principles - balance and harmony in spatial arrangement across Eastern and Western contexts.",
+      "Edward Hall's Proxemics theory - personal space and distance relationships in spatial design."
+    ],
+    "celebration_research": [
+      "Victor Turner's Liminality and Communitas - theoretical framework for celebration and ritual space creation.",
+      "Mary Douglas on Purity and Danger - cultural frameworks for decoration and boundary marking.",
+      "Barbara Ehrenreich's Dancing in the Streets - history of collective celebration and festive expression.",
+      "Erving Goffman's Presentation of Self - how decorated spaces communicate social meaning.",
+      "Arnold van Gennep's Rites of Passage - ceremonial and celebratory frameworks across cultures."
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "category": "Holiday Decorations",
+  "theme": "christmas",
+  "category_id": "christmas_decorations",
+  "research_basis": "Cultural traditions, creativity development, family bonding, aesthetic appreciation",
+  "audiences": {
+    "no_humanity": [
+      {"clue": "Where your $12 tree died", "correctQuestion": "What is Amazon?", "value": 200},
+      {"clue": "Every Hallmark movie's farmhouse decorations", "correctQuestion": "What is Netflix?", "value": 200},
+      {"clue": "Where Karens complain about inflatable decorations", "correctQuestion": "What is Facebook?", "value": 200},
+      {"clue": "What ruined 2020 Christmas decorating", "correctQuestion": "What is COVID-19?", "value": 200},
+      {"clue": "Red cup War on Christmas", "correctQuestion": "What is Starbucks?", "value": 200},
+      {"clue": "Pinterest moms' $2,000 Target hauls", "correctQuestion": "What is TikTok?", "value": 200},
+      {"clue": "One wreath, $400 later", "correctQuestion": "What is Target?", "value": 200},
+      {"clue": "Costs more than all decorations combined", "correctQuestion": "What is an iPhone?", "value": 200},
+      {"clue": "What killed in-store decoration shopping", "correctQuestion": "What is retail bankruptcy?", "value": 400},
+      {"clue": "Midnight December 1st decoration hanging service", "correctQuestion": "What is Uber?", "value": 400},
+      {"clue": "The toy store Amazon murdered", "correctQuestion": "What is Toys R Us?", "value": 400},
+      {"clue": "Listens to ornament-hanging fights", "correctQuestion": "What is Alexa?", "value": 400},
+      {"clue": "Your ex's new decoration partner", "correctQuestion": "What is Venmo?", "value": 400},
+      {"clue": "Influencer decorations nobody can afford", "correctQuestion": "What is Instagram?", "value": 400},
+      {"clue": "Decorations sold in bulk of 50", "correctQuestion": "What is Costco?", "value": 400},
+      {"clue": "His Tesla would ruin Christmas trees", "correctQuestion": "Who is Elon Musk?", "value": 400},
+      {"clue": "What Gen Z wants, not decorations", "correctQuestion": "What is affordable rent?", "value": 600},
+      {"clue": "2am stress-decorating McDonald's delivery", "correctQuestion": "What is DoorDash?", "value": 600},
+      {"clue": "Who defrosts every November", "correctQuestion": "Who is Mariah Carey?", "value": 600},
+      {"clue": "What replaced Christmas cards", "correctQuestion": "What is a group text?", "value": 600},
+      {"clue": "Ruined decorating parties 2020-2024", "correctQuestion": "What is Trump?", "value": 600},
+      {"clue": "Went for lights, bought $500 inflatable", "correctQuestion": "What is Home Depot?", "value": 600},
+      {"clue": "Grandma can't flip the camera", "correctQuestion": "What is Zoom?", "value": 600},
+      {"clue": "Pinterest DIY's hidden cost", "correctQuestion": "What is wealth inequality?", "value": 600},
+      {"clue": "The other topic ruining crafting parties", "correctQuestion": "What is the COVID vaccine?", "value": 800},
+      {"clue": "Costs more than your decoration budget", "correctQuestion": "What is Ozempic?", "value": 800},
+      {"clue": "HOA decoration violation complaints", "correctQuestion": "What is Nextdoor?", "value": 800},
+      {"clue": "One decoration purchase away from this", "correctQuestion": "What is bankruptcy?", "value": 800},
+      {"clue": "$3.99 sweatshop decorations", "correctQuestion": "What is Walmart?", "value": 800},
+      {"clue": "What killed decorating joy", "correctQuestion": "What is capitalism?", "value": 800},
+      {"clue": "Hallmark's racism solution", "correctQuestion": "What is a Christmas party?", "value": 1000},
+      {"clue": "47 inflatable lawn decorations diagnosis", "correctQuestion": "What is hoarding disorder?", "value": 1000},
+      {"clue": "Michael's ornament shopping torture song", "correctQuestion": "What is Wonderful Christmastime?", "value": 1000},
+      {"clue": "Pinterest-perfect decoration obsession", "correctQuestion": "What is perfectionism?", "value": 1000},
+      {"clue": "The real millennial Christmas miracle", "correctQuestion": "What is affordable housing?", "value": 1000},
+      {"clue": "What Hobby Lobby won't cover", "correctQuestion": "What is birth control?", "value": 1000}
+    ]
+  },
+  "metadata": {
+    "total_questions": 36,
+    "questions_per_audience": 36,
+    "research_alignment": "Cultural traditions, creativity development, family bonding through the lens of modern consumerism",
+    "format_compliance": 1.0,
+    "note": "This category contains ONLY the no_humanity audience section following mainstream CAH style guidelines"
+  }
+}

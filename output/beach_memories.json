@@ -1,0 +1,1300 @@
+{
+  "title": "Beach Memories & Family Vacations",
+  "description": "180 family-friendly questions about beach memories, family vacations, and summer fun",
+  "format": "jeopardy",
+  "totalQuestions": 180,
+  "categories": 30,
+  "levelsPerCategory": 6,
+  "categories_data": [
+    {
+      "id": 1,
+      "name": "Sandcastle Architecture",
+      "description": "Building sandy masterpieces",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What is the most common tool for digging in the sand?",
+          "answer": "A shovel or spade"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What do most families use to keep sand castles intact?",
+          "answer": "Water to pack the sand"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What architectural structure is commonly added to sandcastles with a bucket?",
+          "answer": "A tower or turret"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What term describes the technique of moating a sandcastle for defense?",
+          "answer": "Digging a moat or trench"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What type of sand creates the best sandcastles due to moisture content?",
+          "answer": "Wet sand (closer to the water)"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the engineering principle called that allows sand to hold its shape?",
+          "answer": "Capillary action or cohesion"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Beach Sports & Games",
+      "description": "Fun activities by the shore",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What two-person sport uses a net and is played on the beach?",
+          "answer": "Beach volleyball"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What swimming game involves diving for objects on the bottom?",
+          "answer": "Marco Polo or diving for coins"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What beach game involves throwing a ring on a bottle or stick?",
+          "answer": "Ring toss"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What water sport involves standing on a board and using a paddle?",
+          "answer": "Paddleboarding or standup paddle boarding"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What competitive beach sport involves hitting a birdie with rackets?",
+          "answer": "Beach badminton or paddleball"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What extreme beach sport involves riding waves on a specially shaped board?",
+          "answer": "Surfing or bodyboarding"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Summer Snacks & Treats",
+      "description": "Delicious beachside eats",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What frozen treat on a stick is popular at the beach?",
+          "answer": "Popsicles or ice cream on a stick"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What sandwich made with peanut butter and jelly is a beach picnic staple?",
+          "answer": "PB&J sandwich"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What salty snack comes in bags and is commonly eaten at the beach?",
+          "answer": "Chips or popcorn"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What dessert made of graham crackers, chocolate, and marshmallows originated at camp?",
+          "answer": "S'mores"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What refreshing drink made from citrus fruit is perfect for beach hydration?",
+          "answer": "Lemonade or fresh-squeezed orange juice"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What tropical fruit, split in half, serves as a natural bowl for ice cream?",
+          "answer": "A coconut"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Beach Safety",
+      "description": "Staying safe in the sun and water",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What number SPF sunscreen provides strong protection?",
+          "answer": "SPF 30 or higher"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What should you apply before going to the beach to prevent sunburn?",
+          "answer": "Sunscreen"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What time of day has the strongest UV rays at the beach?",
+          "answer": "Midday or noon (10 AM to 4 PM)"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is a dangerous water condition where a current pulls away from shore?",
+          "answer": "A rip current or undertow"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What designated person or service watches swimmers to prevent drowning?",
+          "answer": "A lifeguard"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the buddy system and why is it important at the beach?",
+          "answer": "Swimming with a partner to ensure mutual safety and quick assistance"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Seashells & Marine Collectibles",
+      "description": "Treasures from the ocean",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What colorful, spiral-shaped shell is often found on the beach?",
+          "answer": "A seashell (like a conch)"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What flat shell that opens and closes is a favorite beach collectible?",
+          "answer": "A clam or scallop shell"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What black or dark glass-like beach treasure is actually volcanic rock?",
+          "answer": "Sea glass or beach glass"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What bioluminescent organism glows in the sand at night?",
+          "answer": "A glowworm or bioluminescent plankton"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What spiky spherical creature leaves its shell behind as a collector's prize?",
+          "answer": "A sea urchin"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What cream-colored shell resembles a fan and is called a 'scallop'?",
+          "answer": "A scallop shell (Pectinidae family)"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Beach Bonfire Memories",
+      "description": "Evening entertainment on the sand",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What cooking method is used to cook hot dogs and marshmallows at a beach bonfire?",
+          "answer": "Roasting over a fire"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What group activity involves singing together around a bonfire?",
+          "answer": "Singing songs or singing campfire songs"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What family-friendly activity involves telling scary stories by firelight?",
+          "answer": "Storytelling or telling ghost stories"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What dessert is made by toasting marshmallows over hot coals?",
+          "answer": "S'mores (with graham crackers and chocolate)"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is the circular seating arrangement families form around a bonfire?",
+          "answer": "A circle or ring"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What safety measure should be taken before leaving a beach bonfire unattended?",
+          "answer": "Fully extinguishing the fire with water and sand"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sunset & Sunrise Moments",
+      "description": "Golden hour beach experiences",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What time of day produces the most beautiful light at the beach?",
+          "answer": "Sunset or sunrise (golden hour)"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What color does the sky turn just after sunset?",
+          "answer": "Pink, orange, or purple"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What phenomenon occurs when the sun appears larger and redder at the horizon?",
+          "answer": "The sun illusion or optical illusion"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What romantic activity do many couples do while watching the sunset?",
+          "answer": "Walking on the beach or holding hands"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is the period between sunset and complete darkness called?",
+          "answer": "Twilight or dusk"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What type of photography is popular during the golden hour due to natural lighting?",
+          "answer": "Portrait or landscape photography"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Vacation Photo Ops",
+      "description": "Picture-perfect beach moments",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What do families use to capture memories at the beach?",
+          "answer": "A camera or phone"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What pose involves all family members standing close together for a photo?",
+          "answer": "A family photo or group photo"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What famous pose involves holding the leaning tower of Pisa in a photo?",
+          "answer": "A perspective or forced perspective photo"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What type of photo shows only your silhouette against the sunset?",
+          "answer": "A silhouette photo or backlit photo"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What camera technique captures movement with a blurred background?",
+          "answer": "Motion blur or panning"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What aerial photography method is popular for capturing beach landscapes from above?",
+          "answer": "Drone photography or a drone shot"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Beach Accessories",
+      "description": "Items you need for the shore",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What item protects your head from the sun at the beach?",
+          "answer": "A hat or cap"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What goes over your eyes to protect from bright sunlight?",
+          "answer": "Sunglasses"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What colorful mat is used to dry off after swimming?",
+          "answer": "A beach towel"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What lightweight shelter provides shade on the beach?",
+          "answer": "An umbrella or beach tent"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What waterproof bag is used to protect valuables from sand and water?",
+          "answer": "A dry bag or waterproof case"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What woven bag is traditionally used to carry beach items and items?",
+          "answer": "A tote bag or beach bag"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Swimming & Water Skills",
+      "description": "Mastering water activities",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What basic water skill allows you to stay afloat without moving?",
+          "answer": "Floating"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What swimming stroke involves moving both arms in a circular motion?",
+          "answer": "The breaststroke or freestyle"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What emergency floating technique is called 'dead man's float'?",
+          "answer": "Survival floating or treading water"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What swimming style uses alternating arm movements and flutter kicks?",
+          "answer": "Freestyle or front crawl"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What water safety certification teaches children how to swim?",
+          "answer": "A swim class or water safety course"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the technique for turning your body sideways to breathe while swimming?",
+          "answer": "Bilateral breathing or sighting"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Coastal Wildlife",
+      "description": "Creatures of the beach",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What bird with long legs walks along the shore looking for food?",
+          "answer": "A sandpiper or seagull"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What sea creature has ten arms and can change color?",
+          "answer": "An octopus"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What crustacean walks sideways on the beach?",
+          "answer": "A crab"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What marine mammal is known for its playful behavior near beaches?",
+          "answer": "A dolphin or sea lion"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What jellyfish-like creature has a painful sting but glows at night?",
+          "answer": "A sea nettle or bioluminescent jellyfish"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What endangered sea creature comes ashore to lay eggs in sand?",
+          "answer": "A sea turtle"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Summer Weather",
+      "description": "Beach climate and conditions",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What is the average temperature that makes beach weather enjoyable?",
+          "answer": "Warm or above 70 degrees Fahrenheit"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What weather condition is bad for beach days?",
+          "answer": "Rain or stormy weather"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What moisture in the air makes the beach feel sticky?",
+          "answer": "Humidity"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is the term for extreme hot and humid weather?",
+          "answer": "A heat wave or muggy weather"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What weather phenomenon creates cooling breezes near the ocean?",
+          "answer": "Sea breeze or coastal wind"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the weather pattern where warm air rises and cool air sinks near water?",
+          "answer": "Convection or thermal circulation"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Beach Traditions",
+      "description": "Time-honored seaside customs",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What family tradition involves visiting the beach every summer?",
+          "answer": "A beach vacation or annual beach trip"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What tradition involves collecting seashells and storing them as memories?",
+          "answer": "Shell collecting"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What is the tradition of releasing lanterns into the sky over the ocean?",
+          "answer": "A sky lantern release or floating lantern ceremony"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What tradition involves staying up to watch the sunrise together?",
+          "answer": "A sunrise viewing or dawn watch"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What beach tradition involves burying yourself in sand up to your neck?",
+          "answer": "Being buried in the sand"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What ceremony involves writing messages in sand or stones on the beach?",
+          "answer": "Beach graffiti or sand art messaging"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Ocean Waves & Tide",
+      "description": "Understanding the water's movements",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What is the high and low of water level called?",
+          "answer": "Tide or tidal cycle"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What causes the tides in the ocean?",
+          "answer": "The moon's gravitational pull"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What is the crest and trough movement of the ocean's surface?",
+          "answer": "A wave"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is the measurement of how tall an ocean wave is?",
+          "answer": "Wave height or amplitude"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What type of wave causes a sudden wall of water on shore?",
+          "answer": "A tsunami or tidal wave"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the scientific study of ocean waves and tides?",
+          "answer": "Oceanography or hydrodynamics"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Beach Picnics",
+      "description": "Meals by the seaside",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What meal is typically eaten at the beach during midday?",
+          "answer": "Lunch or a picnic lunch"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What container keeps food cool at the beach?",
+          "answer": "A cooler or insulated bag"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What utensils are needed for a beach picnic meal?",
+          "answer": "Plates, cups, utensils, and napkins"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What fruit is watermelon and why is it perfect for beach picnics?",
+          "answer": "A refreshing fruit with high water content"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What sandwiches are typically made for easy beach eating?",
+          "answer": "Cold sandwiches or submarine sandwiches"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the proper way to pack perishable foods for a safe beach picnic?",
+          "answer": "Keep them cold in an insulated cooler with ice packs"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Beach Fashion",
+      "description": "Summer style by the shore",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What one-piece or two-piece garment is worn for swimming?",
+          "answer": "A swimsuit or bathing suit"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What light, loose clothing protects skin from the sun?",
+          "answer": "A cover-up or light shirt"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What type of sandals are worn to avoid burning feet on hot sand?",
+          "answer": "Flip-flops or beach sandals"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What protective garment looks like a shirt and shorts combined for water sports?",
+          "answer": "A rash guard or swim shirt"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What full-body suit is worn for sun protection in water?",
+          "answer": "A wetsuit or UV-protective swimsuit"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What modern beach fashion trend protects against sun damage while staying stylish?",
+          "answer": "UPF clothing or sun-protective fashion"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Beach Games & Activities",
+      "description": "Fun things to do on sand and sea",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What game involves drawing lines and tossing a stone?",
+          "answer": "Hopscotch"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What ball game played with a racket over a net?",
+          "answer": "Beach tennis or paddle tennis"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What outdoor game involves hitting a ball with a mallet through wickets?",
+          "answer": "Croquet"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What water sport involves riding waves on a board?",
+          "answer": "Surfing or bodyboarding"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What beach activity involves drawing large pictures in the sand?",
+          "answer": "Sand art or beach art"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What extreme beach sport involves launching and performing tricks on a board?",
+          "answer": "Kiteboarding or kitesurfing"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Vacation Planning",
+      "description": "Preparing for beach getaways",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What documents do you need for an international beach vacation?",
+          "answer": "A passport or travel documents"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What should you pack for a week-long beach trip?",
+          "answer": "Clothes, toiletries, sunscreen, and a swimsuit"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What is the best time of year to plan a beach vacation?",
+          "answer": "Summer or during good weather"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What should you arrange before traveling to a faraway beach destination?",
+          "answer": "Accommodations, transportation, and activities"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is travel insurance and why is it important for beach vacations?",
+          "answer": "Coverage for unexpected cancellations, medical emergencies, or lost luggage"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the advantage of booking accommodations early for popular beach destinations?",
+          "answer": "Better prices, more options, and guaranteed availability"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Beach Cleanup & Ecology",
+      "description": "Protecting our shores",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What should you do with trash at the beach?",
+          "answer": "Throw it in trash cans or recycle it"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What common beach pollution item harms marine animals?",
+          "answer": "Plastic bags or plastic bottles"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What environmental movement encourages people to clean beaches?",
+          "answer": "Beach cleanup or ocean conservation"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What fragile ecosystem near beaches needs protection?",
+          "answer": "Coral reefs or tide pools"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is the Great Pacific Garbage Patch and where is it?",
+          "answer": "A large collection of plastic debris in the Pacific Ocean"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What sustainable practice reduces pollution from sunscreen at beaches?",
+          "answer": "Using reef-safe sunscreen or mineral sunscreen"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Seaside Romance",
+      "description": "Romantic beach moments",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What romantic activity occurs at sunset on the beach?",
+          "answer": "A walk or watching the sunset together"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What romantic gesture involves writing in the sand?",
+          "answer": "Leaving a love message or declaration of love"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What does the phrase 'walking hand in hand on the beach' signify?",
+          "answer": "Closeness, affection, or togetherness"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is a romantic beach proposal typically accompanied by?",
+          "answer": "A ring, champagne, or candles"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What do couples often do while sitting under the stars at the beach?",
+          "answer": "Talk, share dreams, or stargazing"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the significance of a honeymoon beach destination?",
+          "answer": "A romantic getaway to celebrate a new marriage"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Family Bonding",
+      "description": "Creating lasting memories together",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What is the main purpose of a family beach vacation?",
+          "answer": "To spend time together and make memories"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What activity brings families closer together at the beach?",
+          "answer": "Building sandcastles, playing games, or swimming together"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What multi-generational activity can grandparents and grandchildren enjoy at the beach?",
+          "answer": "Walking, collecting shells, or building sandcastles"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is the benefit of putting phones away during beach time?",
+          "answer": "Being fully present and creating meaningful connections"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is a tradition many families start to mark their beach trips?",
+          "answer": "Taking an annual family photo or a specific ritual"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "How do beach vacations strengthen family relationships long-term?",
+          "answer": "Creating shared memories, inside jokes, and strengthening bonds through quality time"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Beach Reading",
+      "description": "Books and stories for seaside relaxation",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What types of books are popular to read at the beach?",
+          "answer": "Novels, mysteries, or adventure stories"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What do many people do while sitting under an umbrella at the beach?",
+          "answer": "Read books or magazines"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What is a 'beach read' or 'summer read'?",
+          "answer": "A light, engaging book meant for relaxation"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What literary genre often features beaches and tropical settings?",
+          "answer": "Romance or adventure novels"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What modern device allows reading without carrying multiple books to the beach?",
+          "answer": "An e-reader or tablet"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the appeal of reading fiction set in beach locations?",
+          "answer": "Escapism, relaxation, and transporting oneself to a peaceful setting"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Beach Music & Entertainment",
+      "description": "Sounds of the seaside",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What type of music is associated with beach parties?",
+          "answer": "Reggae, tropical, or upbeat pop music"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What musical instrument sounds like it belongs on the beach?",
+          "answer": "A ukulele or steel drum"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What is the natural sound that provides ambient music at the beach?",
+          "answer": "The ocean waves or sea sounds"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is a beach concert or outdoor seaside music festival?",
+          "answer": "Live music performed on the beach or nearby venue"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What famous music genre originated in coastal Caribbean communities?",
+          "answer": "Reggae or calypso"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the psychological effect of ocean sounds and music on relaxation?",
+          "answer": "Reduced stress, improved mood, and better sleep (nature's white noise)"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Beach Lodging",
+      "description": "Where to stay near the shore",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What type of accommodation offers a view of the ocean?",
+          "answer": "A beach house, resort, or beachfront hotel"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What is a vacation rental where families stay for the week?",
+          "answer": "A vacation house or beach cottage"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What beachfront structure provides temporary camping accommodations?",
+          "answer": "A beach cabin or glamping tent"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What amenity is highly desired in beachfront accommodations?",
+          "answer": "A private beach access or balcony with ocean views"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is the difference between a hotel and a resort for beach vacations?",
+          "answer": "A resort offers more facilities and activities on-site"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the best time to book beach accommodations for budget savings?",
+          "answer": "Off-season or in advance during promotional periods"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Beach Cuisine Around the World",
+      "description": "International seaside dishes",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What seafood is commonly eaten fresh at beach restaurants?",
+          "answer": "Fish, shrimp, or lobster"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What cold salad with seafood is popular in Mediterranean beach towns?",
+          "answer": "Seafood salad or ceviche"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What Asian noodle dish is commonly served cold at beach restaurants?",
+          "answer": "Pad Thai or Vietnamese pho"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What Spanish beach paella dish features seafood and rice?",
+          "answer": "Paella"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What South American cured fish dish is a beach delicacy?",
+          "answer": "Ceviche"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the cultural significance of fresh fish prepared at the beach?",
+          "answer": "Tradition, sustainability, and celebration of local catch"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Beach Photography Tips",
+      "description": "Capturing perfect seaside shots",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What is the best time of day for beach photography?",
+          "answer": "Golden hour (sunrise or sunset)"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What should you protect your camera from at the beach?",
+          "answer": "Sand and saltwater"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What composition technique uses the horizon to divide the photo?",
+          "answer": "Rule of thirds"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What filter helps reduce glare from water in beach photos?",
+          "answer": "A polarizing filter"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is backlighting and why is it effective for beach photos?",
+          "answer": "Shooting toward the light source for dramatic silhouettes"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What post-processing technique enhances beach colors in photos?",
+          "answer": "Increasing saturation, vibrance, or using filters"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Beach Health & Wellness",
+      "description": "Benefits of seaside relaxation",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What mineral in saltwater is beneficial for the skin?",
+          "answer": "Salt or minerals like magnesium"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What is the calming effect of listening to ocean waves?",
+          "answer": "Stress reduction or relaxation"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What exercise is easy and healthy to do on the beach?",
+          "answer": "Walking or jogging in the sand"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is the health benefit of beach activities for children?",
+          "answer": "Physical activity, vitamin D absorption, and mental health"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is 'blue space therapy' and where does it occur?",
+          "answer": "The therapeutic benefits of being near water or the ocean"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the scientific basis for the mood-boosting effects of beach vacations?",
+          "answer": "Vitamin D, negative ions, exercise, and environmental psychology"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Beach Etiquette & Rules",
+      "description": "Being respectful at the shore",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What should you do when someone is swimming to avoid disrupting them?",
+          "answer": "Stay clear of the swimming area or watch them closely"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What is prohibited on most beaches to keep them clean?",
+          "answer": "Smoking, loud music, or leaving trash"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What time are most beaches quiet and peaceful?",
+          "answer": "Early morning or late evening"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What are designated areas called where dogs are allowed on beaches?",
+          "answer": "Dog-friendly beaches or off-leash zones"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What permits are often required for large beach gatherings or events?",
+          "answer": "Beach permits or special use permits"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What is the principle of 'leave no trace' when visiting beaches?",
+          "answer": "Take all trash and belongings, protect wildlife and natural resources"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Childhood Beach Memories",
+      "description": "Nostalgic seaside experiences",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What do most children remember most about beach days?",
+          "answer": "Playing in the sand or swimming"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What toy does every child bring to the beach?",
+          "answer": "A bucket and shovel or beach pail"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What is the feeling children get when their toes first touch the sand?",
+          "answer": "Excitement or joy"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What is a cherished childhood memory of getting ice cream at the beach?",
+          "answer": "The vendor cart, the melting cone, or beach treats"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What is the significance of the first time a child swims in the ocean?",
+          "answer": "A milestone moment of courage and adventure"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "How do childhood beach memories influence adult travel preferences?",
+          "answer": "Nostalgia drives choices to revisit beaches and create similar experiences for their own children"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Exotic Beach Destinations",
+      "description": "Dream beach locations worldwide",
+      "questions": [
+        {
+          "level": 1,
+          "points": 100,
+          "question": "What tropical island destination is known for white sand beaches?",
+          "answer": "Hawaii, Maldives, or Fiji"
+        },
+        {
+          "level": 2,
+          "points": 200,
+          "question": "What Caribbean island is famous for its turquoise waters?",
+          "answer": "Bermuda, St. Lucia, or the Bahamas"
+        },
+        {
+          "level": 3,
+          "points": 300,
+          "question": "What European beach destination offers Mediterranean charm?",
+          "answer": "Greece, Italy, or the French Riviera"
+        },
+        {
+          "level": 4,
+          "points": 400,
+          "question": "What Australian beach destination is known for surfing?",
+          "answer": "Byron Bay or Gold Coast"
+        },
+        {
+          "level": 5,
+          "points": 500,
+          "question": "What Southeast Asian destination features pristine island beaches?",
+          "answer": "Thailand, Indonesia, or the Philippines"
+        },
+        {
+          "level": 6,
+          "points": 600,
+          "question": "What makes a beach destination considered 'exotic' versus ordinary?",
+          "answer": "Unique wildlife, pristine conditions, cultural significance, and limited accessibility"
+        }
+      ]
+    }
+  ]
+}

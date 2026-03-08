@@ -1,0 +1,316 @@
+{
+  "category": "Birthday Gift Wrapping, Bows, Ribbons & Paper",
+  "theme": "party_gifts",
+  "category_id": "birthday_wrapping",
+  "description": "Gift wrapping techniques, wrapping paper materials, bows, ribbons, tape, folding methods, decorative elements, regional gift presentation styles, environmental considerations, and professional wrapping skills",
+  "age_suitability": "All ages",
+  "research_alignment": "Paper production, craft skills, material science, decorative arts, cultural gift-giving traditions, sustainable packaging, origami principles, color theory, spatial design, retail commerce",
+  "generated_date": "2025-12-27",
+  "total_questions": 60,
+  "audiences": {
+    "regular_trivia": [
+      {
+        "clue": "This material is the most common type used to wrap gifts",
+        "correctQuestion": "What is wrapping paper?",
+        "value": 200
+      },
+      {
+        "clue": "The decorative knot made from fabric or paper often placed on top of gifts is called this",
+        "correctQuestion": "What is a bow?",
+        "value": 200
+      },
+      {
+        "clue": "This thin strip of material used for decoration comes in satin, silk, and grosgrain varieties",
+        "correctQuestion": "What is ribbon?",
+        "value": 200
+      },
+      {
+        "clue": "This adhesive is typically used to hold wrapping paper together",
+        "correctQuestion": "What is tape or scotch tape?",
+        "value": 200
+      },
+      {
+        "clue": "The process of covering a gift completely with paper is called this",
+        "correctQuestion": "What is wrapping or gift wrapping?",
+        "value": 200
+      },
+      {
+        "clue": "Wrapping paper is traditionally made from this material",
+        "correctQuestion": "What is paper or wood pulp?",
+        "value": 200
+      },
+      {
+        "clue": "This tool is used to cut wrapping paper straight",
+        "correctQuestion": "What is scissors or a paper cutter?",
+        "value": 200
+      },
+      {
+        "clue": "Metallic wrapping papers are often coated with this reflective material",
+        "correctQuestion": "What is foil or aluminum?",
+        "value": 200
+      },
+      {
+        "clue": "The folding technique to create neat corners on a wrapped gift is called this",
+        "correctQuestion": "What is hospital corners or the envelope method?",
+        "value": 200
+      },
+      {
+        "clue": "This Japanese art form is sometimes used as an alternative to wrapping paper",
+        "correctQuestion": "What is furoshiki or the wrapping cloth method?",
+        "value": 200
+      },
+      {
+        "clue": "The average roll of wrapping paper covers approximately this many square feet",
+        "correctQuestion": "What is 15-20 square feet?",
+        "value": 400
+      },
+      {
+        "clue": "Wrapping paper with raised patterns or textured surfaces is called this",
+        "correctQuestion": "What is embossed paper?",
+        "value": 400
+      },
+      {
+        "clue": "This type of ribbon creates a tight curl when pulled against scissors",
+        "correctQuestion": "What is curling ribbon?",
+        "value": 400
+      },
+      {
+        "clue": "Two-sided tape used for seamless gift wrapping is called this",
+        "correctQuestion": "What is double-sided tape or gift tape?",
+        "value": 400
+      },
+      {
+        "clue": "This material can be used as an eco-friendly alternative to plastic-coated wrapping paper",
+        "correctQuestion": "What is kraft paper or recycled paper?",
+        "value": 400
+      },
+      {
+        "clue": "Gift wrap with a surface that feels fuzzy is made with this technique",
+        "correctQuestion": "What is flocking or velveting?",
+        "value": 400
+      },
+      {
+        "clue": "This decorative element is sometimes attached to bows for extra flair",
+        "correctQuestion": "What is a pick, ornament, or feather?",
+        "value": 400
+      },
+      {
+        "clue": "The average cost of gift wrapping per present at a retail store is this amount",
+        "correctQuestion": "What is $1-3?",
+        "value": 400
+      },
+      {
+        "clue": "This type of paper is water-resistant and often used for outdoor gifts",
+        "correctQuestion": "What is laminated paper or wax paper?",
+        "value": 400
+      },
+      {
+        "clue": "The origin of decorative gift bows dates back to this century",
+        "correctQuestion": "What is the Victorian era or 1800s?",
+        "value": 400
+      },
+      {
+        "clue": "Wrapping paper patterns depicting this holiday figure are bestsellers in November",
+        "correctQuestion": "What is Santa Claus or Christmas imagery?",
+        "value": 600
+      },
+      {
+        "clue": "This industrial process applies patterns and designs to plain paper rolls",
+        "correctQuestion": "What is printing or lithography?",
+        "value": 600
+      },
+      {
+        "clue": "Recycled wrapping paper can contain up to this percentage of post-consumer waste",
+        "correctQuestion": "What is 30-100 percent?",
+        "value": 600
+      },
+      {
+        "clue": "This adhesive is preferred for gift wrapping because it doesn't leave residue",
+        "correctQuestion": "What is removable tape or low-tack tape?",
+        "value": 600
+      },
+      {
+        "clue": "The term for using newspaper, fabric scraps, or unconventional materials as gift wrap",
+        "correctQuestion": "What is creative wrapping or upcycling?",
+        "value": 600
+      },
+      {
+        "clue": "High-end luxury brands often use this premium wrapping material instead of traditional paper",
+        "correctQuestion": "What is silk, linen, or specialty fabric?",
+        "value": 600
+      },
+      {
+        "clue": "This technique involves using tissue paper in layers for a delicate, decorative effect",
+        "correctQuestion": "What is pom-pom wrapping or tissue paper ruching?",
+        "value": 600
+      },
+      {
+        "clue": "The pattern of having small repeated images across wrapping paper is called this",
+        "correctQuestion": "What is an all-over or tiled pattern?",
+        "value": 600
+      },
+      {
+        "clue": "Professional gift wrappers at department stores complete an average gift in this timeframe",
+        "correctQuestion": "What is 3-5 minutes?",
+        "value": 800
+      },
+      {
+        "clue": "This eco-conscious gift wrapping movement promotes reusable cloth wrapping products",
+        "correctQuestion": "What is the zero-waste or sustainable gift-giving movement?",
+        "value": 800
+      }
+    ],
+    "cah_style": [
+      {
+        "clue": "What you spend more time doing than the actual gift costs",
+        "correctQuestion": "What is trying to wrap a box perfectly?",
+        "value": 400
+      },
+      {
+        "clue": "The reason why your 'quick wrapping job' looks like a toddler did it",
+        "correctQuestion": "What is refusing to re-do it for the third time?",
+        "value": 400
+      },
+      {
+        "clue": "Why wrapping paper is technically just expensive tissue paper with daddy issues",
+        "correctQuestion": "What is it tears if you look at it wrong?",
+        "value": 400
+      },
+      {
+        "clue": "The thing you run out of when wrapping your last three gifts",
+        "correctQuestion": "What is tape?",
+        "value": 400
+      },
+      {
+        "clue": "What you're really doing when you 'make a bow from scratch'",
+        "correctQuestion": "What is pretending you're an interior decorator?",
+        "value": 400
+      },
+      {
+        "clue": "The exact moment your gift wrapping skills completely fail",
+        "correctQuestion": "What is when the paper is too short by one inch?",
+        "value": 400
+      },
+      {
+        "clue": "Why luxury wrapping paper costs more than the gift inside",
+        "correctQuestion": "What is because people are idiots with disposable income?",
+        "value": 600
+      },
+      {
+        "clue": "The waste product that proves gift wrapping is pointless",
+        "correctQuestion": "What is torn paper everywhere after five seconds?",
+        "value": 600
+      },
+      {
+        "clue": "What scissors under wrapping paper really mean at department stores",
+        "correctQuestion": "What is 'your wrapping is about to cost extra'?",
+        "value": 600
+      },
+      {
+        "clue": "Why 'tissue paper stuffing' is just an excuse to use less wrapping paper",
+        "correctQuestion": "What is fooling nobody about the actual gift size?",
+        "value": 600
+      },
+      {
+        "clue": "The gift wrap pattern that screams 'I bought this last minute'",
+        "correctQuestion": "What is generic metallic or solid red?",
+        "value": 600
+      },
+      {
+        "clue": "What you're attempting when you say you'll 'wrap it when I get home'",
+        "correctQuestion": "What is forgetting about it until the day of?",
+        "value": 600
+      },
+      {
+        "clue": "Why decorative bows exist: to hide the fact that",
+        "correctQuestion": "What is your wrapping job looks amateur hour?",
+        "value": 600
+      },
+      {
+        "clue": "The sound that proves your gift wrapping will never look store-bought",
+        "correctQuestion": "What is ripping tape off the dispenser loudly?",
+        "value": 600
+      },
+      {
+        "clue": "What happens when you try to cut wrapping paper with dull scissors",
+        "correctQuestion": "What is creating jagged edges that reveal your shame?",
+        "value": 600
+      },
+      {
+        "clue": "The experience of watching a professional gift wrapper work versus doing it yourself",
+        "correctQuestion": "What is magic versus a crime scene?",
+        "value": 800
+      },
+      {
+        "clue": "Why YouTube's 'professional wrapping tutorials' make you feel worse about yourself",
+        "correctQuestion": "What is because nobody's hands are that steady?",
+        "value": 800
+      },
+      {
+        "clue": "The Pinterest aesthetic that requires three hours, ten YouTube tutorials, and professional equipment",
+        "correctQuestion": "What is a 'simple bow made from ribbon'?",
+        "value": 800
+      },
+      {
+        "clue": "What eco-friendly wrapping paper users are really saying to landfill advocates",
+        "correctQuestion": "What is 'I'm better than you and this planet matters'?",
+        "value": 800
+      },
+      {
+        "clue": "The reason wrapping paper manufacturers love oddly-shaped boxes",
+        "correctQuestion": "What is they literally guarantee you'll fail?",
+        "value": 800
+      },
+      {
+        "clue": "Why curling ribbon has no purpose except psychological torment",
+        "correctQuestion": "What is looking good for exactly two seconds before falling flat?",
+        "value": 800
+      },
+      {
+        "clue": "The thing that separates 'professional wrapping' from 'my toddler did this'",
+        "correctQuestion": "What is hospital corners and actual measuring?",
+        "value": 800
+      },
+      {
+        "clue": "What you're actually celebrating when you buy premium wrapping paper",
+        "correctQuestion": "What is your own optimism about gift-giving?",
+        "value": 800
+      },
+      {
+        "clue": "The existential crisis that hits when your perfectly wrapped gift gets destroyed in five seconds",
+        "correctQuestion": "What is wondering why you even tried?",
+        "value": 1000
+      },
+      {
+        "clue": "Why department store gift wrapping feels like a luxury service",
+        "correctQuestion": "What is because doing it yourself is psychological warfare?",
+        "value": 1000
+      },
+      {
+        "clue": "What tape dispensers are designed to do: make your wrapping paper stick to everything except itself",
+        "correctQuestion": "What is betray you at the exact moment you need them?",
+        "value": 1000
+      },
+      {
+        "clue": "The gift wrap philosophy that explains why people pay for wrapping services",
+        "correctQuestion": "What is 'my time is worth more than my dignity'?",
+        "value": 1000
+      },
+      {
+        "clue": "Why bows exist at all when everyone knows the gift is what matters",
+        "correctQuestion": "What is because we're all trying to make garbage look fancy?",
+        "value": 1000
+      },
+      {
+        "clue": "The moment you realize wrapping paper is just consensual lying",
+        "correctQuestion": "What is when the receiver tears through it in two seconds?",
+        "value": 1000
+      },
+      {
+        "clue": "What the gift wrapping industry is really selling you besides paper",
+        "correctQuestion": "What is false hope that your presentation matters?",
+        "value": 1000
+      }
+    ]
+  }
+}

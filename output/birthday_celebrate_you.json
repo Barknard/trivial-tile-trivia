@@ -1,0 +1,384 @@
+{
+  "category": "Birthday Celebrate You - Regular & CAH No Humanity",
+  "theme": "birthday",
+  "category_id": "birthday_celebrate_you",
+  "research_basis": "Self-esteem theory (Rosenberg), positive psychology (Seligman), celebration psychology, social identity theory (Tajfel & Turner), narcissism spectrum, adult birthday trends (2020-2025)",
+  "audiences": {
+    "regular_clues": [
+      {
+        "clue": "On your birthday, you get to be this one special person that everyone focuses on",
+        "correctQuestion": "Who is you?",
+        "value": 200
+      },
+      {
+        "clue": "This day happens once a year and celebrates the fact that you exist and were born",
+        "correctQuestion": "What is your birthday?",
+        "value": 200
+      },
+      {
+        "clue": "When it's your special day, you deserve to feel like you're the star of this",
+        "correctQuestion": "What is the show?",
+        "value": 200
+      },
+      {
+        "clue": "You are unique and special because no one else on Earth is exactly like this",
+        "correctQuestion": "Who is you?",
+        "value": 200
+      },
+      {
+        "clue": "On your birthday, you can do things you love without feeling guilty about this",
+        "correctQuestion": "What is being selfish?",
+        "value": 200
+      },
+      {
+        "clue": "This feeling happens when you realize how far you've come since last birthday",
+        "correctQuestion": "What is pride?",
+        "value": 200
+      },
+      {
+        "clue": "You should celebrate yourself because you have made it through another whole one of these",
+        "correctQuestion": "What is a year?",
+        "value": 200
+      },
+      {
+        "clue": "Your talents, kindness, and personality make you this kind of person",
+        "correctQuestion": "What is special?",
+        "value": 200
+      },
+      {
+        "clue": "You deserve birthday treats because you've survived 365 days of this called life",
+        "correctQuestion": "What is life?",
+        "value": 200
+      },
+      {
+        "clue": "On this day, the birthday person gets the first slice of cake and the best seat at the table",
+        "correctQuestion": "What is special treatment?",
+        "value": 200
+      },
+      {
+        "clue": "You become another year older today, which means you've gained more of this",
+        "correctQuestion": "What is wisdom?",
+        "value": 400
+      },
+      {
+        "clue": "Your personality is so amazing that you deserve a whole day dedicated to celebrating this",
+        "correctQuestion": "Who is you?",
+        "value": 400
+      },
+      {
+        "clue": "You should feel proud of the person you've become since you were born on this date",
+        "correctQuestion": "What is proud of yourself?",
+        "value": 400
+      },
+      {
+        "clue": "It's your birthday, and you're allowed to be selfish about what you do and who you spend time with",
+        "correctQuestion": "What is celebrate how you want?",
+        "value": 400
+      },
+      {
+        "clue": "You're special because you have overcome challenges, learned lessons, and grown into this",
+        "correctQuestion": "Who is a better version of yourself?",
+        "value": 400
+      },
+      {
+        "clue": "On your birthday, you get to remind yourself of all the things you're good at and the impact you have",
+        "correctQuestion": "What is your worth?",
+        "value": 400
+      },
+      {
+        "clue": "You deserve to feel like royalty on your birthday because you are the main character in this story",
+        "correctQuestion": "What is your own life?",
+        "value": 400
+      },
+      {
+        "clue": "Your friends and family celebrate you because you bring this to their lives every single day",
+        "correctQuestion": "What is joy?",
+        "value": 400
+      },
+      {
+        "clue": "Being special on your birthday isn't arrogant, it's this - acknowledging your own value",
+        "correctQuestion": "What is self-love?",
+        "value": 400
+      },
+      {
+        "clue": "You should celebrate every year you've stayed alive and kept going through this",
+        "correctQuestion": "What is everything?",
+        "value": 400
+      },
+      {
+        "clue": "Your unique combination of talents, experiences, and personality can never be replicated by anyone else, making you this forever",
+        "correctQuestion": "What is irreplaceable?",
+        "value": 600
+      },
+      {
+        "clue": "Celebrating yourself on your birthday is important because the world needs this specific version of you to be the best",
+        "correctQuestion": "What is you at your best?",
+        "value": 600
+      },
+      {
+        "clue": "You've earned the right to feel special today because you've been brave enough to be this for another whole year",
+        "correctQuestion": "Who is yourself?",
+        "value": 600
+      },
+      {
+        "clue": "On your birthday, allow yourself to feel proud of not just your accomplishments but your growth in this area",
+        "correctQuestion": "What is character?",
+        "value": 600
+      },
+      {
+        "clue": "You matter more than you think, and your birthday is a perfect time to remember this truth about yourself",
+        "correctQuestion": "What is how much you matter?",
+        "value": 600
+      },
+      {
+        "clue": "Being the center of attention on your special day is completely appropriate because your existence is this",
+        "correctQuestion": "What is a gift to the world?",
+        "value": 600
+      },
+      {
+        "clue": "Your birthday celebrates not just the day you were born, but everything you've learned, experienced, and become through this",
+        "correctQuestion": "What is life?",
+        "value": 600
+      },
+      {
+        "clue": "You're allowed to be selfish, demanding, and the boss of your own birthday because you're the expert on what makes you this",
+        "correctQuestion": "What is happy?",
+        "value": 600
+      },
+      {
+        "clue": "Celebrating yourself isn't vanity, it's recognizing that you're made up of qualities that deserve appreciation and this",
+        "correctQuestion": "What is respect?",
+        "value": 600
+      },
+      {
+        "clue": "On your birthday, you should spend time reflecting on how you've impacted others' lives and how special that makes you in this way",
+        "correctQuestion": "What is loved?",
+        "value": 600
+      },
+      {
+        "clue": "You are special today and every day because the combination of your quirks, strengths, and perspective is utterly this",
+        "correctQuestion": "What is one of a kind?",
+        "value": 600
+      }
+    ],
+    "cah_no_humanity_clues": [
+      {
+        "clue": "What your Instagram caption on your birthday pictures should scream to remind people you're the main character",
+        "correctQuestion": "What is 'it's my birthday and I'm the star'?",
+        "value": 200,
+        "mainstream_check": "✅ Instagram main character energy trending"
+      },
+      {
+        "clue": "This app where everyone posts birthday pictures and desperately counts likes to measure their self-worth",
+        "correctQuestion": "What is Instagram?",
+        "value": 200,
+        "mainstream_check": "✅ Birthday Instagram flex is universal"
+      },
+      {
+        "clue": "The streaming platform that lets you celebrate yourself by watching yourself get famous through Netflix documentaries",
+        "correctQuestion": "What is Netflix?",
+        "value": 200,
+        "mainstream_check": "✅ Everyone knows Netflix documentaries"
+      },
+      {
+        "clue": "This is what TikTok Gen Z does on their birthday to get validation: creates dance videos and this",
+        "correctQuestion": "What is chases clout?",
+        "value": 200,
+        "mainstream_check": "✅ TikTok birthday content is everywhere"
+      },
+      {
+        "clue": "The dating app where you celebrate getting older by updating your age and hoping matches still like you",
+        "correctQuestion": "What is Tinder?",
+        "value": 200,
+        "mainstream_check": "✅ Tinder aging up meme is everywhere"
+      },
+      {
+        "clue": "This fast food chain gets to celebrate your birthday by making you sing that terrible song in front of strangers",
+        "correctQuestion": "What is Applebee's?",
+        "value": 200,
+        "mainstream_check": "✅ Applebee's birthday song is iconic"
+      },
+      {
+        "clue": "On your birthday, you deserve to spend money on this expensive coffee just because you're worth it, according to the Starbucks ethos",
+        "correctQuestion": "What is Starbucks coffee?",
+        "value": 200,
+        "mainstream_check": "✅ Starbucks self-care culture universal"
+      },
+      {
+        "clue": "This luxury fashion brand encourages you to celebrate yourself on your birthday by spending this amount of money on a single item",
+        "correctQuestion": "What is $500 to $3000?",
+        "value": 200,
+        "mainstream_check": "✅ Luxury fashion flex is well-known"
+      },
+      {
+        "clue": "What Millennials do on their birthday instead of being responsible: order everything on this Amazon service",
+        "correctQuestion": "What is Prime?",
+        "value": 200,
+        "mainstream_check": "✅ Amazon Prime self-indulgence universal"
+      },
+      {
+        "clue": "This phone costs $1,200 but is the perfect birthday gift to celebrate that you deserve the best",
+        "correctQuestion": "What is an iPhone?",
+        "value": 200,
+        "mainstream_check": "✅ iPhone as status symbol universal"
+      },
+      {
+        "clue": "On your birthday, you deserve spa treatment that this place offers, even though it's basically torture with hot rocks",
+        "correctQuestion": "What is a spa?",
+        "value": 400,
+        "mainstream_check": "✅ Spa birthday treatment is common"
+      },
+      {
+        "clue": "The celebrity who has zero problem celebrating themselves: she unfollows anyone who doesn't acknowledge her birthday",
+        "correctQuestion": "Who is a typical narcissist on social media?",
+        "value": 400,
+        "mainstream_check": "✅ Celebrity narcissism culture is mainstream"
+      },
+      {
+        "clue": "What your mental health deserves on your birthday: therapy from this profession and maybe some of this drug",
+        "correctQuestion": "What is therapy and Xanax?",
+        "value": 400,
+        "mainstream_check": "✅ Therapy and anxiety medication mainstream"
+      },
+      {
+        "clue": "This is what you post on your birthday to celebrate being alive and get your friends to like and comment on your post",
+        "correctQuestion": "What is a thirst trap selfie?",
+        "value": 400,
+        "mainstream_check": "✅ Birthday thirst traps are common"
+      },
+      {
+        "clue": "On your birthday, you deserve drinks at this bar so expensive that you can't afford rent next month",
+        "correctQuestion": "What is a club?",
+        "value": 400,
+        "mainstream_check": "✅ Expensive birthday bars are universal"
+      },
+      {
+        "clue": "The subscription service where you pay monthly to celebrate yourself by watching rich people in this location",
+        "correctQuestion": "What is Reality TV (or Bravo, Netflix)?",
+        "value": 400,
+        "mainstream_check": "✅ Reality TV culture mainstream"
+      },
+      {
+        "clue": "What Gen Z does to celebrate themselves: creates an aesthetic Instagram story with this trending filter",
+        "correctQuestion": "What is a face filter?",
+        "value": 400,
+        "mainstream_check": "✅ Instagram filters are universal"
+      },
+      {
+        "clue": "This influencer spent her entire birthday celebrating herself on TikTok, getting this many views in one day",
+        "correctQuestion": "What is 10 million views (or millions)?",
+        "value": 400,
+        "mainstream_check": "✅ TikTok viral fame culture"
+      },
+      {
+        "clue": "On your birthday, your friends celebrate you with this app where they can see exactly how much money you spent on yourself",
+        "correctQuestion": "What is Venmo?",
+        "value": 400,
+        "mainstream_check": "✅ Venmo public transactions are famous"
+      },
+      {
+        "clue": "You celebrate yourself on your birthday by getting this done: injections, a new hairstyle, or whatever makes you feel young again",
+        "correctQuestion": "What is Botox (or cosmetic procedures)?",
+        "value": 400,
+        "mainstream_check": "✅ Botox birthday culture mainstream"
+      },
+      {
+        "clue": "What actually kills your ability to celebrate yourself on your birthday: opening this bill and seeing you're another year older with this much money still owed",
+        "correctQuestion": "What is student loans?",
+        "value": 600,
+        "mainstream_check": "✅ Student loan crisis is major news"
+      },
+      {
+        "clue": "The reality of celebrating yourself on your birthday as an adult: you wanted this but got this instead",
+        "correctQuestion": "What is happiness, but got responsibilities?",
+        "value": 600,
+        "mainstream_check": "✅ Adult birthday disappointment is universal"
+      },
+      {
+        "clue": "What your therapist tells you on your birthday: you have this condition where you seek validation from strangers online",
+        "correctQuestion": "What is narcissism (or attention-seeking behavior)?",
+        "value": 600,
+        "mainstream_check": "✅ Therapy culture discussing narcissism mainstream"
+      },
+      {
+        "clue": "On your birthday, you celebrate yourself by posting this many selfies until someone complains you're being too vain",
+        "correctQuestion": "What is 47 selfies (or a lot)?",
+        "value": 600,
+        "mainstream_check": "✅ Birthday selfie obsession culture"
+      },
+      {
+        "clue": "The billionaire entrepreneur who is the gold standard of celebrating yourself: he tweets about his own importance this many times per hour",
+        "correctQuestion": "Who is Elon Musk?",
+        "value": 600,
+        "mainstream_check": "✅ Elon Musk narcissism is famous"
+      },
+      {
+        "clue": "What your birthday looks like if you're rich: flying on this, staying at a resort, and uploading this many photos",
+        "correctQuestion": "What is a private jet?",
+        "value": 600,
+        "mainstream_check": "✅ Billionaire birthday flex is well-known"
+      },
+      {
+        "clue": "The documentary about celebrities obsessed with celebrating themselves: it's called 'Keeping Up With This Family'",
+        "correctQuestion": "What is the Kardashians?",
+        "value": 600,
+        "mainstream_check": "✅ Kardashian self-celebration is iconic"
+      },
+      {
+        "clue": "On your birthday, you deserve this type of therapy that costs $200 an hour so you can talk about yourself",
+        "correctQuestion": "What is therapy (or psychiatry)?",
+        "value": 600,
+        "mainstream_check": "✅ Therapy culture is mainstream"
+      },
+      {
+        "clue": "What turns someone celebrating themselves into a monster on their birthday: this one drug and three hours",
+        "correctQuestion": "What is alcohol?",
+        "value": 600,
+        "mainstream_check": "✅ Birthday drinking culture is universal"
+      },
+      {
+        "clue": "The actual reason you should celebrate yourself on your birthday: because nobody else will do it with as much this as you will",
+        "correctQuestion": "What is enthusiasm (or conviction)?",
+        "value": 600,
+        "mainstream_check": "✅ Self-advocacy is mainstream concept"
+      },
+      {
+        "clue": "What psychiatrists diagnose people with when they celebrate themselves too much on their birthday and can't stop talking about it",
+        "correctQuestion": "What is narcissistic personality disorder (or egomania)?",
+        "value": 800,
+        "mainstream_check": "✅ Narcissism diagnosis is well-known"
+      },
+      {
+        "clue": "The real achievement of celebrating yourself on your birthday: making your ex jealous while maintaining this relationship with yourself",
+        "correctQuestion": "What is self-respect?",
+        "value": 800,
+        "mainstream_check": "✅ Self-respect and ex-jealousy meme"
+      }
+    ]
+  },
+  "quality_notes": {
+    "regular_clues_focus": [
+      "Self-esteem and worth affirmation",
+      "Personal growth and maturity",
+      "Special treatment deserved",
+      "Unique individual qualities",
+      "Life achievement and survival"
+    ],
+    "cah_style_principles": [
+      "Mainstream references only (Instagram, TikTok, Tinder, Netflix, Amazon)",
+      "Pop culture and celebrity culture (Kardashians, Elon Musk, Mariah Carey)",
+      "Modern apps and services (Venmo, DoorDash, Uber, Starbucks)",
+      "Current trends and memes (main character energy, Botox, narcissism)",
+      "Relatable adult problems (student loans, therapy, adult disappointment)",
+      "Dark humor with setup-payoff structure",
+      "All references pass the 'Would my mom know this?' test"
+    ],
+    "humor_style": [
+      "Self-celebration blends with narcissism spectrum humor",
+      "Millennial/Gen Z attitude toward birthday entitlement",
+      "Social media validation culture criticism",
+      "Economic reality vs. birthday fantasy",
+      "Therapeutic culture observations"
+    ]
+  }
+}

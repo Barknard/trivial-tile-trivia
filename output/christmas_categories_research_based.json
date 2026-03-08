@@ -1,0 +1,267 @@
+{
+  "theme": "christmas",
+  "version": "2.0.0",
+  "generated_date": "2025-12-26",
+  "research_basis": "Based on Edugist Academic Christmas Activities, Teach Starter Classroom Games, and SEL Power Pack Holiday Games research",
+  "total_categories": 36,
+  "design_principles": [
+    "Academic integration - Christmas learning without stagnation",
+    "SEL integration - Social-emotional learning with holiday themes",
+    "Collaborative learning - Teamwork and communication",
+    "Cultural appreciation - Inclusive of diverse traditions"
+  ],
+  "categories": [
+    {
+      "id": "santa_basics",
+      "name": "Santa & His Friends",
+      "description": "Santa Claus, reindeer, and North Pole basics",
+      "age_suitability": "All ages",
+      "sel_focus": "Tradition, belief, imagination"
+    },
+    {
+      "id": "christmas_colors",
+      "name": "Christmas Colors",
+      "description": "Red, green, white, and holiday color meanings",
+      "age_suitability": "kids_4_under primary",
+      "cognitive_focus": "Color recognition, symbolic thinking"
+    },
+    {
+      "id": "reindeer_names",
+      "name": "Reindeer Team",
+      "description": "Dasher, Dancer, Rudolph and the crew",
+      "age_suitability": "kids_4_under, kids_10_under",
+      "memory_skill": "Name recall, sequencing"
+    },
+    {
+      "id": "holiday_movies",
+      "name": "Christmas Movies",
+      "description": "Classic and modern Christmas films",
+      "age_suitability": "All ages",
+      "pop_culture": "Elf, Home Alone, The Grinch"
+    },
+    {
+      "id": "christmas_songs",
+      "name": "Holiday Music",
+      "description": "Christmas carols and popular songs",
+      "age_suitability": "All ages",
+      "auditory_learning": "Music memory, lyrics"
+    },
+    {
+      "id": "holiday_foods",
+      "name": "Festive Foods",
+      "description": "Gingerbread, hot cocoa, candy canes",
+      "age_suitability": "All ages",
+      "sensory_learning": "Taste, smell, tradition"
+    },
+    {
+      "id": "christmas_decorations",
+      "name": "Holiday Decorations",
+      "description": "Trees, lights, ornaments, stockings",
+      "age_suitability": "All ages",
+      "visual_learning": "Spatial awareness, aesthetics"
+    },
+    {
+      "id": "winter_animals",
+      "name": "Winter Animals",
+      "description": "Polar bears, penguins, Arctic creatures",
+      "age_suitability": "kids_4_under, kids_10_under",
+      "science_connection": "Habitats, adaptation"
+    },
+    {
+      "id": "christmas_stories",
+      "name": "Holiday Stories",
+      "description": "The Nutcracker, A Christmas Carol, Nativity",
+      "age_suitability": "kids_10_under, teenagers, adults",
+      "literacy_connection": "Narrative comprehension"
+    },
+    {
+      "id": "gift_giving",
+      "name": "Gifts & Giving",
+      "description": "Presents, wrapping, gift traditions",
+      "age_suitability": "All ages",
+      "sel_focus": "Generosity, gratitude, kindness"
+    },
+    {
+      "id": "christmas_around_world",
+      "name": "Global Christmas",
+      "description": "How different countries celebrate",
+      "age_suitability": "kids_10_under, teenagers, adults",
+      "cultural_learning": "Diversity, traditions"
+    },
+    {
+      "id": "winter_weather",
+      "name": "Winter Wonderland",
+      "description": "Snow, ice, cold weather phenomena",
+      "age_suitability": "All ages",
+      "science_connection": "Weather, states of matter"
+    },
+    {
+      "id": "christmas_symbols",
+      "name": "Holiday Symbols",
+      "description": "Stars, bells, angels, wreaths",
+      "age_suitability": "All ages",
+      "symbolic_thinking": "Meaning, representation"
+    },
+    {
+      "id": "nativity_story",
+      "name": "The Nativity",
+      "description": "Birth of Jesus, manger scene",
+      "age_suitability": "kids_10_under, teenagers, adults",
+      "religious_education": "Christian tradition (respectful)"
+    },
+    {
+      "id": "christmas_history",
+      "name": "Christmas Through Time",
+      "description": "Origins and historical traditions",
+      "age_suitability": "teenagers, adults",
+      "historical_thinking": "Timeline, evolution of traditions"
+    },
+    {
+      "id": "santa_workshop",
+      "name": "Santa's Workshop",
+      "description": "Toy-making, elves, North Pole operations",
+      "age_suitability": "kids_4_under, kids_10_under",
+      "imagination": "Pretend play, creativity"
+    },
+    {
+      "id": "christmas_baking",
+      "name": "Holiday Baking",
+      "description": "Cookies, gingerbread houses, treats",
+      "age_suitability": "All ages",
+      "practical_skills": "Cooking, measurements"
+    },
+    {
+      "id": "christmas_lights",
+      "name": "Lights & Sparkles",
+      "description": "Christmas lights, candles, luminarias",
+      "age_suitability": "All ages",
+      "science_connection": "Light, electricity, safety"
+    },
+    {
+      "id": "christmas_crafts",
+      "name": "Holiday Crafts",
+      "description": "Ornaments, cards, DIY decorations",
+      "age_suitability": "kids_4_under, kids_10_under",
+      "fine_motor_skills": "Cutting, gluing, creating"
+    },
+    {
+      "id": "christmas_countdown",
+      "name": "Counting to Christmas",
+      "description": "Advent calendars, days until Christmas",
+      "age_suitability": "kids_4_under, kids_10_under",
+      "math_connection": "Counting, calendar, time"
+    },
+    {
+      "id": "christmas_magic",
+      "name": "Christmas Magic",
+      "description": "Belief, wonder, holiday spirit",
+      "age_suitability": "kids_4_under, kids_10_under",
+      "sel_focus": "Imagination, joy, wonder"
+    },
+    {
+      "id": "christmas_eve",
+      "name": "Christmas Eve Traditions",
+      "description": "Stockings, cookies for Santa, bedtime",
+      "age_suitability": "All ages",
+      "cultural_tradition": "Anticipation, family rituals"
+    },
+    {
+      "id": "christmas_morning",
+      "name": "Christmas Morning",
+      "description": "Opening presents, family time",
+      "age_suitability": "All ages",
+      "sel_focus": "Excitement, gratitude, sharing"
+    },
+    {
+      "id": "christmas_kindness",
+      "name": "Spreading Cheer",
+      "description": "Acts of kindness, charity, helping others",
+      "age_suitability": "All ages",
+      "sel_focus": "Compassion, empathy, generosity"
+    },
+    {
+      "id": "christmas_nature",
+      "name": "Holiday Nature",
+      "description": "Evergreen trees, holly, mistletoe, poinsettias",
+      "age_suitability": "kids_10_under, teenagers, adults",
+      "science_connection": "Botany, symbolism"
+    },
+    {
+      "id": "christmas_sounds",
+      "name": "Sounds of Christmas",
+      "description": "Jingle bells, carolers, sleigh bells",
+      "age_suitability": "kids_4_under, kids_10_under",
+      "auditory_processing": "Sound identification"
+    },
+    {
+      "id": "christmas_smells",
+      "name": "Holiday Scents",
+      "description": "Cinnamon, pine, peppermint",
+      "age_suitability": "All ages",
+      "sensory_learning": "Smell, association, memory"
+    },
+    {
+      "id": "christmas_family",
+      "name": "Family Traditions",
+      "description": "Gathering, celebrations, togetherness",
+      "age_suitability": "All ages",
+      "sel_focus": "Belonging, love, connection"
+    },
+    {
+      "id": "christmas_games",
+      "name": "Holiday Games",
+      "description": "Christmas party games and activities",
+      "age_suitability": "All ages",
+      "social_skills": "Teamwork, fun, competition"
+    },
+    {
+      "id": "christmas_tech",
+      "name": "Modern Christmas",
+      "description": "Online shopping, streaming Christmas movies",
+      "age_suitability": "teenagers, adults",
+      "contemporary_culture": "Technology, modern trends"
+    },
+    {
+      "id": "christmas_literature",
+      "name": "Christmas Books",
+      "description": "Classic and modern Christmas literature",
+      "age_suitability": "teenagers, adults",
+      "literary_analysis": "Themes, authors, classics"
+    },
+    {
+      "id": "christmas_economics",
+      "name": "Holiday Shopping",
+      "description": "Black Friday, retail, spending",
+      "age_suitability": "teenagers, adults",
+      "real_world_skills": "Economics, budgeting"
+    },
+    {
+      "id": "christmas_environmental",
+      "name": "Eco-Friendly Holidays",
+      "description": "Sustainable Christmas, recycling",
+      "age_suitability": "teenagers, adults",
+      "environmental_awareness": "Sustainability, responsibility"
+    },
+    {
+      "id": "christmas_diversity",
+      "name": "Winter Holidays",
+      "description": "Hanukkah, Kwanzaa, Diwali timing",
+      "age_suitability": "kids_10_under, teenagers, adults",
+      "cultural_appreciation": "Inclusivity, diversity"
+    },
+    {
+      "id": "christmas_science",
+      "name": "Science of Christmas",
+      "description": "Snowflakes, reindeer flight physics (humor)",
+      "age_suitability": "kids_10_under, teenagers, adults",
+      "stem_connection": "Scientific thinking, humor"
+    },
+    {
+      "id": "christmas_wordplay",
+      "name": "Holiday Word Fun",
+      "description": "Christmas vocabulary, word games",
+      "age_suitability": "kids_10_under, teenagers",
+      "language_arts": "Vocabulary, spelling, wordplay"
+    }
+  ]
+}

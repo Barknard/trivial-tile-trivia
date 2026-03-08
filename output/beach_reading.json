@@ -1,0 +1,1133 @@
+{
+  "title": "Beach Reading Trivia",
+  "description": "180 family-friendly Jeopardy-format questions about reading at the beach, beach books, and relaxation",
+  "total_questions": 180,
+  "levels": 6,
+  "questions_per_level": 30,
+  "categories": [
+    "Beach Books",
+    "Reading Outdoors",
+    "Relaxation",
+    "Beach Culture",
+    "Literary Characters",
+    "Reading Habits"
+  ],
+  "data": {
+    "level_1": {
+      "difficulty": "Easy",
+      "point_value": 100,
+      "questions": [
+        {
+          "id": 1,
+          "category": "Beach Books",
+          "question": "What do you call a book you can hold in one hand and read easily?",
+          "answer": "Paperback"
+        },
+        {
+          "id": 2,
+          "category": "Reading Outdoors",
+          "question": "What time of day is most popular for beach reading?",
+          "answer": "Afternoon"
+        },
+        {
+          "id": 3,
+          "category": "Relaxation",
+          "question": "What beverage do many people bring to enjoy while reading at the beach?",
+          "answer": "Water or iced tea"
+        },
+        {
+          "id": 4,
+          "category": "Beach Culture",
+          "question": "What protective item should you wear while reading in the sun?",
+          "answer": "Sunscreen"
+        },
+        {
+          "id": 5,
+          "category": "Literary Characters",
+          "question": "What is a person who reads books called?",
+          "answer": "Reader"
+        },
+        {
+          "id": 6,
+          "category": "Reading Habits",
+          "question": "What do you do to mark your place in a book?",
+          "answer": "Use a bookmark"
+        },
+        {
+          "id": 7,
+          "category": "Beach Books",
+          "question": "What is the cover of a book designed to protect?",
+          "answer": "The pages"
+        },
+        {
+          "id": 8,
+          "category": "Reading Outdoors",
+          "question": "What natural light source helps you read at the beach during the day?",
+          "answer": "The sun"
+        },
+        {
+          "id": 9,
+          "category": "Relaxation",
+          "question": "What does reading help reduce when you're stressed?",
+          "answer": "Anxiety"
+        },
+        {
+          "id": 10,
+          "category": "Beach Culture",
+          "question": "What sandy area is the perfect place to set up a reading spot?",
+          "answer": "The beach"
+        },
+        {
+          "id": 11,
+          "category": "Literary Characters",
+          "question": "Who writes the stories in a book?",
+          "answer": "An author"
+        },
+        {
+          "id": 12,
+          "category": "Reading Habits",
+          "question": "What is the opposite of reading fiction?",
+          "answer": "Reading nonfiction"
+        },
+        {
+          "id": 13,
+          "category": "Beach Books",
+          "question": "What type of book is best described as light and fun?",
+          "answer": "Beach read"
+        },
+        {
+          "id": 14,
+          "category": "Reading Outdoors",
+          "question": "What position do many people sit in while reading at the beach?",
+          "answer": "Lying down or lounging"
+        },
+        {
+          "id": 15,
+          "category": "Relaxation",
+          "question": "What is a synonym for relaxing or unwinding?",
+          "answer": "Chilling out"
+        },
+        {
+          "id": 16,
+          "category": "Beach Culture",
+          "question": "What do you spread on the sand to sit on while reading?",
+          "answer": "Beach towel"
+        },
+        {
+          "id": 17,
+          "category": "Literary Characters",
+          "question": "What do you call a person who illustrates a book?",
+          "answer": "Illustrator"
+        },
+        {
+          "id": 18,
+          "category": "Reading Habits",
+          "question": "What do you call it when you finish a whole book?",
+          "answer": "Completing or finishing a book"
+        },
+        {
+          "id": 19,
+          "category": "Beach Books",
+          "question": "What is a short story called?",
+          "answer": "Short story"
+        },
+        {
+          "id": 20,
+          "category": "Reading Outdoors",
+          "question": "What ocean sound helps create a relaxing reading atmosphere?",
+          "answer": "Waves"
+        },
+        {
+          "id": 21,
+          "category": "Relaxation",
+          "question": "What is the main goal of beach reading?",
+          "answer": "To relax and enjoy"
+        },
+        {
+          "id": 22,
+          "category": "Beach Culture",
+          "question": "What warm season is best for beach reading?",
+          "answer": "Summer"
+        },
+        {
+          "id": 23,
+          "category": "Literary Characters",
+          "question": "What do you call the main character in a story?",
+          "answer": "Protagonist"
+        },
+        {
+          "id": 24,
+          "category": "Reading Habits",
+          "question": "What is it called when you read several books by the same author?",
+          "answer": "Reading series"
+        },
+        {
+          "id": 25,
+          "category": "Beach Books",
+          "question": "What type of book has pictures and few words?",
+          "answer": "Picture book"
+        },
+        {
+          "id": 26,
+          "category": "Reading Outdoors",
+          "question": "What protection do you need to prevent glare while reading?",
+          "answer": "Sunglasses"
+        },
+        {
+          "id": 27,
+          "category": "Relaxation",
+          "question": "What hobby combines fresh air and reading?",
+          "answer": "Outdoor reading"
+        },
+        {
+          "id": 28,
+          "category": "Beach Culture",
+          "question": "What refreshing location is ideal for escaping daily stress?",
+          "answer": "The beach"
+        },
+        {
+          "id": 29,
+          "category": "Literary Characters",
+          "question": "What is a character who opposes the main character called?",
+          "answer": "Antagonist"
+        },
+        {
+          "id": 30,
+          "category": "Reading Habits",
+          "question": "How many pages are typically in a short novel?",
+          "answer": "200-300 pages"
+        }
+      ]
+    },
+    "level_2": {
+      "difficulty": "Moderate",
+      "point_value": 200,
+      "questions": [
+        {
+          "id": 31,
+          "category": "Beach Books",
+          "question": "What popular beach read features a mystery on an island?",
+          "answer": "Mystery novels or thrillers"
+        },
+        {
+          "id": 32,
+          "category": "Reading Outdoors",
+          "question": "What is the best way to protect a book from sand at the beach?",
+          "answer": "Put it in a waterproof bag or case"
+        },
+        {
+          "id": 33,
+          "category": "Relaxation",
+          "question": "What type of book genre is typically chosen for relaxation?",
+          "answer": "Light fiction or contemporary fiction"
+        },
+        {
+          "id": 34,
+          "category": "Beach Culture",
+          "question": "What beach amenity helps shade your reading area?",
+          "answer": "Beach umbrella"
+        },
+        {
+          "id": 35,
+          "category": "Literary Characters",
+          "question": "What is a group of characters called in a book?",
+          "answer": "Cast of characters"
+        },
+        {
+          "id": 36,
+          "category": "Reading Habits",
+          "question": "What do book clubs discuss together?",
+          "answer": "Books"
+        },
+        {
+          "id": 37,
+          "category": "Beach Books",
+          "question": "Which book genre often features tropical settings?",
+          "answer": "Romance or adventure"
+        },
+        {
+          "id": 38,
+          "category": "Reading Outdoors",
+          "question": "What should you do if your book gets wet at the beach?",
+          "answer": "Dry it immediately"
+        },
+        {
+          "id": 39,
+          "category": "Relaxation",
+          "question": "How does reading benefit mental health?",
+          "answer": "Reduces stress and anxiety"
+        },
+        {
+          "id": 40,
+          "category": "Beach Culture",
+          "question": "What time of day is sunset reading popular?",
+          "answer": "Evening or sunset time"
+        },
+        {
+          "id": 41,
+          "category": "Literary Characters",
+          "question": "What is the backstory of a character called?",
+          "answer": "Character history or background"
+        },
+        {
+          "id": 42,
+          "category": "Reading Habits",
+          "question": "What do speed readers try to accomplish?",
+          "answer": "Read faster while maintaining comprehension"
+        },
+        {
+          "id": 43,
+          "category": "Beach Books",
+          "question": "What is a bestseller?",
+          "answer": "A book that sells the most copies"
+        },
+        {
+          "id": 44,
+          "category": "Reading Outdoors",
+          "question": "What is the advantage of reading outdoors?",
+          "answer": "Fresh air and natural scenery"
+        },
+        {
+          "id": 45,
+          "category": "Relaxation",
+          "question": "What is the act of becoming immersed in a book called?",
+          "answer": "Getting lost in the story"
+        },
+        {
+          "id": 46,
+          "category": "Beach Culture",
+          "question": "What activity often accompanies beach reading?",
+          "answer": "Swimming or sunbathing"
+        },
+        {
+          "id": 47,
+          "category": "Literary Characters",
+          "question": "What do fictional characters experience in a story?",
+          "answer": "Conflict or challenges"
+        },
+        {
+          "id": 48,
+          "category": "Reading Habits",
+          "question": "What is reading multiple books at once called?",
+          "answer": "Multi-tasking or juggling books"
+        },
+        {
+          "id": 49,
+          "category": "Beach Books",
+          "question": "What is a novel with a romantic focus called?",
+          "answer": "Romance novel"
+        },
+        {
+          "id": 50,
+          "category": "Reading Outdoors",
+          "question": "What natural element can interfere with beach reading?",
+          "answer": "Wind"
+        },
+        {
+          "id": 51,
+          "category": "Relaxation",
+          "question": "How many chapters does a typical beach read have?",
+          "answer": "20-50 chapters"
+        },
+        {
+          "id": 52,
+          "category": "Beach Culture",
+          "question": "What beverage complements a beach reading session?",
+          "answer": "Cold drink or smoothie"
+        },
+        {
+          "id": 53,
+          "category": "Literary Characters",
+          "question": "What is the setting of a story?",
+          "answer": "Where and when the story takes place"
+        },
+        {
+          "id": 54,
+          "category": "Reading Habits",
+          "question": "What do book reviews help readers do?",
+          "answer": "Decide if they want to read a book"
+        },
+        {
+          "id": 55,
+          "category": "Beach Books",
+          "question": "What is a graphic novel?",
+          "answer": "A story told with illustrations and text"
+        },
+        {
+          "id": 56,
+          "category": "Reading Outdoors",
+          "question": "What is a literary picnic?",
+          "answer": "Reading outdoors with snacks"
+        },
+        {
+          "id": 57,
+          "category": "Relaxation",
+          "question": "What emotions can reading provide?",
+          "answer": "Comfort, escape, and happiness"
+        },
+        {
+          "id": 58,
+          "category": "Beach Culture",
+          "question": "What makes a perfect beach vacation day?",
+          "answer": "Sun, sand, and a good book"
+        },
+        {
+          "id": 59,
+          "category": "Literary Characters",
+          "question": "What is character development?",
+          "answer": "How a character changes throughout the story"
+        },
+        {
+          "id": 60,
+          "category": "Reading Habits",
+          "question": "What do some readers keep track of?",
+          "answer": "Books they've read in a list"
+        }
+      ]
+    },
+    "level_3": {
+      "difficulty": "Challenging",
+      "point_value": 300,
+      "questions": [
+        {
+          "id": 61,
+          "category": "Beach Books",
+          "question": "What are contemporary romance novels often called in beach reading circles?",
+          "answer": "Page-turners or guilty pleasures"
+        },
+        {
+          "id": 62,
+          "category": "Reading Outdoors",
+          "question": "What technology can help manage glare when reading outdoors?",
+          "answer": "E-reader with adjustable brightness"
+        },
+        {
+          "id": 63,
+          "category": "Relaxation",
+          "question": "What psychological benefit comes from regular reading?",
+          "answer": "Improved focus and concentration"
+        },
+        {
+          "id": 64,
+          "category": "Beach Culture",
+          "question": "What literary genre thrives in beach settings?",
+          "answer": "Mystery or suspense"
+        },
+        {
+          "id": 65,
+          "category": "Literary Characters",
+          "question": "What narrative technique reveals a character's thoughts?",
+          "answer": "Internal monologue or stream of consciousness"
+        },
+        {
+          "id": 66,
+          "category": "Reading Habits",
+          "question": "What is a reading challenge?",
+          "answer": "A goal to read a certain number of books"
+        },
+        {
+          "id": 67,
+          "category": "Beach Books",
+          "question": "What makes a book a 'summer read'?",
+          "answer": "Light, entertaining, and escapist content"
+        },
+        {
+          "id": 68,
+          "category": "Reading Outdoors",
+          "question": "How does sand damage books over time?",
+          "answer": "Creates friction that wears down pages"
+        },
+        {
+          "id": 69,
+          "category": "Relaxation",
+          "question": "What is the connection between reading and sleep quality?",
+          "answer": "Reading before bed improves sleep"
+        },
+        {
+          "id": 70,
+          "category": "Beach Culture",
+          "question": "What is the ideal beach reading duration?",
+          "answer": "1-3 hours"
+        },
+        {
+          "id": 71,
+          "category": "Literary Characters",
+          "question": "What is character foreshadowing?",
+          "answer": "Hints about what a character will do later"
+        },
+        {
+          "id": 72,
+          "category": "Reading Habits",
+          "question": "What percentage of Americans read books annually?",
+          "answer": "About 70-80 percent"
+        },
+        {
+          "id": 73,
+          "category": "Beach Books",
+          "question": "What subgenre combines romance with adventure?",
+          "answer": "Romantic adventure"
+        },
+        {
+          "id": 74,
+          "category": "Reading Outdoors",
+          "question": "What portable device replaced physical books for some beach readers?",
+          "answer": "E-reader or Kindle"
+        },
+        {
+          "id": 75,
+          "category": "Relaxation",
+          "question": "How does reading reduce cortisol levels?",
+          "answer": "By engaging the mind and promoting relaxation"
+        },
+        {
+          "id": 76,
+          "category": "Beach Culture",
+          "question": "What is a literary magazine?",
+          "answer": "A magazine featuring short stories and literary content"
+        },
+        {
+          "id": 77,
+          "category": "Literary Characters",
+          "question": "What is character motivation?",
+          "answer": "Why a character does what they do"
+        },
+        {
+          "id": 78,
+          "category": "Reading Habits",
+          "question": "What is the average reading speed for adults?",
+          "answer": "200-300 words per minute"
+        },
+        {
+          "id": 79,
+          "category": "Beach Books",
+          "question": "What is a cozy mystery?",
+          "answer": "A light mystery without graphic violence"
+        },
+        {
+          "id": 80,
+          "category": "Reading Outdoors",
+          "question": "What is the best time to read at the beach to avoid heat?",
+          "answer": "Early morning or late afternoon"
+        },
+        {
+          "id": 81,
+          "category": "Relaxation",
+          "question": "What is bibliotherapy?",
+          "answer": "Using books to improve mental health"
+        },
+        {
+          "id": 82,
+          "category": "Beach Culture",
+          "question": "What is a beach resort library?",
+          "answer": "A book collection available at vacation spots"
+        },
+        {
+          "id": 83,
+          "category": "Literary Characters",
+          "question": "What is character arc?",
+          "answer": "The change a character undergoes"
+        },
+        {
+          "id": 84,
+          "category": "Reading Habits",
+          "question": "What do avid readers use Goodreads for?",
+          "answer": "Tracking and rating books"
+        },
+        {
+          "id": 85,
+          "category": "Beach Books",
+          "question": "What is dystopian fiction?",
+          "answer": "Stories set in dark future societies"
+        },
+        {
+          "id": 86,
+          "category": "Reading Outdoors",
+          "question": "What is a reading nook?",
+          "answer": "A comfortable spot designated for reading"
+        },
+        {
+          "id": 87,
+          "category": "Relaxation",
+          "question": "How does reading fiction improve empathy?",
+          "answer": "By experiencing characters' perspectives"
+        },
+        {
+          "id": 88,
+          "category": "Beach Culture",
+          "question": "What is a beach read playlist?",
+          "answer": "Music to accompany beach reading"
+        },
+        {
+          "id": 89,
+          "category": "Literary Characters",
+          "question": "What is a foil character?",
+          "answer": "A character who contrasts with another"
+        },
+        {
+          "id": 90,
+          "category": "Reading Habits",
+          "question": "What is the difference between skim reading and deep reading?",
+          "answer": "Speed vs. comprehension"
+        }
+      ]
+    },
+    "level_4": {
+      "difficulty": "Hard",
+      "point_value": 400,
+      "questions": [
+        {
+          "id": 91,
+          "category": "Beach Books",
+          "question": "What literary technique is used in unreliable narrators common in beach thrillers?",
+          "answer": "Narrative manipulation or frame shifting"
+        },
+        {
+          "id": 92,
+          "category": "Reading Outdoors",
+          "question": "What material protects books from saltwater spray while reading at the beach?",
+          "answer": "Waterproof case or laminated cover"
+        },
+        {
+          "id": 93,
+          "category": "Relaxation",
+          "question": "What is the scientific term for the relaxation response triggered by reading?",
+          "answer": "Parasympathetic activation"
+        },
+        {
+          "id": 94,
+          "category": "Beach Culture",
+          "question": "What is literary tourism?",
+          "answer": "Traveling to locations featured in books"
+        },
+        {
+          "id": 95,
+          "category": "Literary Characters",
+          "question": "What is the protagonist's goal called in narrative structure?",
+          "answer": "Objective or quest"
+        },
+        {
+          "id": 96,
+          "category": "Reading Habits",
+          "question": "What is critical reading?",
+          "answer": "Analyzing and evaluating text while reading"
+        },
+        {
+          "id": 97,
+          "category": "Beach Books",
+          "question": "What is magical realism in literature?",
+          "answer": "Blending magical elements with realistic settings"
+        },
+        {
+          "id": 98,
+          "category": "Reading Outdoors",
+          "question": "What is the advantage of audiobooks for beach activities?",
+          "answer": "Hands-free listening while swimming"
+        },
+        {
+          "id": 99,
+          "category": "Relaxation",
+          "question": "What neurotransmitter is released when reading something enjoyable?",
+          "answer": "Serotonin"
+        },
+        {
+          "id": 100,
+          "category": "Beach Culture",
+          "question": "What is a beach house library staple?",
+          "answer": "Classics and light fiction"
+        },
+        {
+          "id": 101,
+          "category": "Literary Characters",
+          "question": "What is the difference between static and dynamic characters?",
+          "answer": "Static don't change, dynamic do"
+        },
+        {
+          "id": 102,
+          "category": "Reading Habits",
+          "question": "What is phenomenal memory recall in reading called?",
+          "answer": "Photographic reading or perfect recall"
+        },
+        {
+          "id": 103,
+          "category": "Beach Books",
+          "question": "What is a multi-generational saga?",
+          "answer": "A story spanning multiple family generations"
+        },
+        {
+          "id": 104,
+          "category": "Reading Outdoors",
+          "question": "What literary phenomenon is caused by reading in glaring sunlight?",
+          "answer": "Eye strain"
+        },
+        {
+          "id": 105,
+          "category": "Relaxation",
+          "question": "What is the concept of 'flow state' in reading?",
+          "answer": "Complete absorption in the reading experience"
+        },
+        {
+          "id": 106,
+          "category": "Beach Culture",
+          "question": "What is a literary festival on the beach?",
+          "answer": "A gathering of authors and readers"
+        },
+        {
+          "id": 107,
+          "category": "Literary Characters",
+          "question": "What is archetypal characterization?",
+          "answer": "Using universal character types"
+        },
+        {
+          "id": 108,
+          "category": "Reading Habits",
+          "question": "What is syntactic processing in reading?",
+          "answer": "Understanding grammar and sentence structure"
+        },
+        {
+          "id": 109,
+          "category": "Beach Books",
+          "question": "What is postmodern fiction?",
+          "answer": "Fiction that breaks traditional narrative conventions"
+        },
+        {
+          "id": 110,
+          "category": "Reading Outdoors",
+          "question": "What is the phenomenon of 'beachcember reading'?",
+          "answer": "Reading more during summer beach season"
+        },
+        {
+          "id": 111,
+          "category": "Relaxation",
+          "question": "What is the concept of 'transport' in reading?",
+          "answer": "Being mentally transported into the story world"
+        },
+        {
+          "id": 112,
+          "category": "Beach Culture",
+          "question": "What is a literary market town on the beach?",
+          "answer": "A coastal town known for literary culture"
+        },
+        {
+          "id": 113,
+          "category": "Literary Characters",
+          "question": "What is character internalization?",
+          "answer": "A character's internal thoughts and beliefs"
+        },
+        {
+          "id": 114,
+          "category": "Reading Habits",
+          "question": "What is semantic processing in reading comprehension?",
+          "answer": "Understanding the meaning of words and phrases"
+        },
+        {
+          "id": 115,
+          "category": "Beach Books",
+          "question": "What is autofiction in beach reading?",
+          "answer": "Semi-autobiographical fictional narratives"
+        },
+        {
+          "id": 116,
+          "category": "Reading Outdoors",
+          "question": "What is the term for reading while beach combing?",
+          "answer": "Leisure reading"
+        },
+        {
+          "id": 117,
+          "category": "Relaxation",
+          "question": "What is the role of anticipation in reading pleasure?",
+          "answer": "Creating excitement about what happens next"
+        },
+        {
+          "id": 118,
+          "category": "Beach Culture",
+          "question": "What is a beach library exchange program?",
+          "answer": "Sharing books among beach house owners"
+        },
+        {
+          "id": 119,
+          "category": "Literary Characters",
+          "question": "What is character agency?",
+          "answer": "A character's ability to make meaningful choices"
+        },
+        {
+          "id": 120,
+          "category": "Reading Habits",
+          "question": "What is the role of metacognition in reading?",
+          "answer": "Thinking about your own thinking while reading"
+        }
+      ]
+    },
+    "level_5": {
+      "difficulty": "Very Hard",
+      "point_value": 500,
+      "questions": [
+        {
+          "id": 121,
+          "category": "Beach Books",
+          "question": "What is the literary technique of 'in medias res' common in beach thrillers?",
+          "answer": "Starting the story in the middle of action"
+        },
+        {
+          "id": 122,
+          "category": "Reading Outdoors",
+          "question": "What is the effect of humidity on paper-based books at the beach?",
+          "answer": "Causes warping and mold growth"
+        },
+        {
+          "id": 123,
+          "category": "Relaxation",
+          "question": "What is the neurobiological basis for reading-induced relaxation?",
+          "answer": "Reduced heart rate and blood pressure"
+        },
+        {
+          "id": 124,
+          "category": "Beach Culture",
+          "question": "What is the history of beach literature as a genre?",
+          "answer": "Emerged in Victorian era as leisure activity"
+        },
+        {
+          "id": 125,
+          "category": "Literary Characters",
+          "question": "What is the concept of 'unreliable narrator' in characterization?",
+          "answer": "Narrator whose account is biased or inaccurate"
+        },
+        {
+          "id": 126,
+          "category": "Reading Habits",
+          "question": "What is the reading level known as 'close reading'?",
+          "answer": "Detailed analysis of text meaning and style"
+        },
+        {
+          "id": 127,
+          "category": "Beach Books",
+          "question": "What is the narrative structure of 'dual timelines' in beach reads?",
+          "answer": "Story alternating between two time periods"
+        },
+        {
+          "id": 128,
+          "category": "Reading Outdoors",
+          "question": "What is the psychological impact of reading in natural settings?",
+          "answer": "Enhanced attention restoration and wellbeing"
+        },
+        {
+          "id": 129,
+          "category": "Relaxation",
+          "question": "What is the role of escapism in beach reading psychology?",
+          "answer": "Temporary mental escape from stress"
+        },
+        {
+          "id": 130,
+          "category": "Beach Culture",
+          "question": "What is the phenomenon of 'seasonal reading patterns'?",
+          "answer": "Different genres chosen in different seasons"
+        },
+        {
+          "id": 131,
+          "category": "Literary Characters",
+          "question": "What is the psychoanalytic approach to character analysis?",
+          "answer": "Examining unconscious motivations of characters"
+        },
+        {
+          "id": 132,
+          "category": "Reading Habits",
+          "question": "What is 'thick reading' as opposed to 'thin reading'?",
+          "answer": "Deep, contextual reading vs. surface-level"
+        },
+        {
+          "id": 133,
+          "category": "Beach Books",
+          "question": "What is the concept of 'literary minimalism' in beach thrillers?",
+          "answer": "Sparse prose and minimal description"
+        },
+        {
+          "id": 134,
+          "category": "Reading Outdoors",
+          "question": "What is the relationship between environmental reading and cognitive load?",
+          "answer": "Natural settings reduce cognitive demand"
+        },
+        {
+          "id": 135,
+          "category": "Relaxation",
+          "question": "What is the concept of 'flow' as defined by Mihaly Csikszentmihalyi in reading?",
+          "answer": "Optimal experience of complete immersion"
+        },
+        {
+          "id": 136,
+          "category": "Beach Culture",
+          "question": "What is the role of social media in modern beach reading culture?",
+          "answer": "Sharing recommendations and reviews online"
+        },
+        {
+          "id": 137,
+          "category": "Literary Characters",
+          "question": "What is the concept of 'character intersection' in complex narratives?",
+          "answer": "Multiple characters' stories converging"
+        },
+        {
+          "id": 138,
+          "category": "Reading Habits",
+          "question": "What is the relationship between reading speed and comprehension?",
+          "answer": "Inverse relationship - faster reading may reduce comprehension"
+        },
+        {
+          "id": 139,
+          "category": "Beach Books",
+          "question": "What is the narrative technique of 'metafiction' in beach literature?",
+          "answer": "Fiction that comments on its own fictional nature"
+        },
+        {
+          "id": 140,
+          "category": "Reading Outdoors",
+          "question": "What is the environmental psychology of beach reading locations?",
+          "answer": "Spaces with low stress and high sensory appeal"
+        },
+        {
+          "id": 141,
+          "category": "Relaxation",
+          "question": "What is the concept of 'mindful reading'?",
+          "answer": "Present-moment awareness during reading"
+        },
+        {
+          "id": 142,
+          "category": "Beach Culture",
+          "question": "What is the economic impact of beach reading on publishing?",
+          "answer": "Summer spike in leisure book sales"
+        },
+        {
+          "id": 143,
+          "category": "Literary Characters",
+          "question": "What is the narrative device of 'epistolary fiction'?",
+          "answer": "Story told through letters or documents"
+        },
+        {
+          "id": 144,
+          "category": "Reading Habits",
+          "question": "What is the cognitive science of 'regression' in reading?",
+          "answer": "Re-reading a passage for comprehension"
+        },
+        {
+          "id": 145,
+          "category": "Beach Books",
+          "question": "What is the literary concept of 'bildungsroman' in beach coming-of-age stories?",
+          "answer": "A novel of character development"
+        },
+        {
+          "id": 146,
+          "category": "Reading Outdoors",
+          "question": "What is the phenomenon of 'nature-based attention restoration theory'?",
+          "answer": "Natural settings restore mental resources"
+        },
+        {
+          "id": 147,
+          "category": "Relaxation",
+          "question": "What is the neuroscientific explanation for reading-induced dopamine release?",
+          "answer": "Anticipation and reward of plot progression"
+        },
+        {
+          "id": 148,
+          "category": "Beach Culture",
+          "question": "What is the cultural significance of beach reading in modern society?",
+          "answer": "Symbol of leisure and self-care"
+        },
+        {
+          "id": 149,
+          "category": "Literary Characters",
+          "question": "What is the narrative technique of 'stream of consciousness'?",
+          "answer": "Unfiltered flow of character's thoughts"
+        },
+        {
+          "id": 150,
+          "category": "Reading Habits",
+          "question": "What is the cognitive mechanism of 'pattern recognition' in reading?",
+          "answer": "Brain's ability to identify textual patterns"
+        }
+      ]
+    },
+    "level_6": {
+      "difficulty": "Expert",
+      "point_value": 600,
+      "questions": [
+        {
+          "id": 151,
+          "category": "Beach Books",
+          "question": "What is the hermeneutical approach to analyzing beach literature's deeper meanings?",
+          "answer": "Interpretive analysis of text and reader interaction"
+        },
+        {
+          "id": 152,
+          "category": "Reading Outdoors",
+          "question": "What is the phenomenological study of embodied reading experiences at the beach?",
+          "answer": "How physical environment shapes reading perception"
+        },
+        {
+          "id": 153,
+          "category": "Relaxation",
+          "question": "What is the role of bibliotherapy's theoretical framework in recreational reading?",
+          "answer": "Using narrative therapy principles for wellness"
+        },
+        {
+          "id": 154,
+          "category": "Beach Culture",
+          "question": "What is the cultural anthropology of beach reading rituals?",
+          "answer": "Study of reading as cultural practice and tradition"
+        },
+        {
+          "id": 155,
+          "category": "Literary Characters",
+          "question": "What is the concept of 'character polyphony' in narratology?",
+          "answer": "Multiple distinct character voices in text"
+        },
+        {
+          "id": 156,
+          "category": "Reading Habits",
+          "question": "What is the neurocognitive model of 'eye tracking' in reading research?",
+          "answer": "Measuring eye movements during reading comprehension"
+        },
+        {
+          "id": 157,
+          "category": "Beach Books",
+          "question": "What is the semiotic analysis of beach cover art conventions?",
+          "answer": "Signs and symbols in book cover design"
+        },
+        {
+          "id": 158,
+          "category": "Reading Outdoors",
+          "question": "What is the ecocritical perspective on reading in natural environments?",
+          "answer": "Examining human-nature relationships in reading practice"
+        },
+        {
+          "id": 159,
+          "category": "Relaxation",
+          "question": "What is the concept of 'aesthetic autonomy' in leisure reading?",
+          "answer": "Reading valued for intrinsic pleasure, not utility"
+        },
+        {
+          "id": 160,
+          "category": "Beach Culture",
+          "question": "What is the postcolonial theory application to beach travel narratives?",
+          "answer": "Examining power dynamics in travel literature"
+        },
+        {
+          "id": 161,
+          "category": "Literary Characters",
+          "question": "What is the psychoanalytic concept of 'object relations' in characterization?",
+          "answer": "How characters relate to each other and objects"
+        },
+        {
+          "id": 162,
+          "category": "Reading Habits",
+          "question": "What is the cognitive linguistics model of 'conceptual blending' in comprehension?",
+          "answer": "Integrating multiple conceptual spaces while reading"
+        },
+        {
+          "id": 163,
+          "category": "Beach Books",
+          "question": "What is the narrative theory of 'focalization' in beach thrillers?",
+          "answer": "Perspective and point of view in storytelling"
+        },
+        {
+          "id": 164,
+          "category": "Reading Outdoors",
+          "question": "What is the phenomenological concept of 'liminality' in beach reading spaces?",
+          "answer": "Threshold spaces between land and sea affecting reading experience"
+        },
+        {
+          "id": 165,
+          "category": "Relaxation",
+          "question": "What is the psychophysiological principle of 'allostasis' in stress recovery through reading?",
+          "answer": "Body's ability to achieve stability through reading-induced relaxation"
+        },
+        {
+          "id": 166,
+          "category": "Beach Culture",
+          "question": "What is the cultural studies approach to commodification of beach reading?",
+          "answer": "Analysis of leisure reading as consumer product"
+        },
+        {
+          "id": 167,
+          "category": "Literary Characters",
+          "question": "What is the narratological concept of 'actantial analysis' in characterization?",
+          "answer": "Analyzing characters as narrative agents and functions"
+        },
+        {
+          "id": 168,
+          "category": "Reading Habits",
+          "question": "What is the corpus linguistics approach to beach reading language patterns?",
+          "answer": "Statistical analysis of language in beach literature"
+        },
+        {
+          "id": 169,
+          "category": "Beach Books",
+          "question": "What is the intertextual analysis of beach thriller tropes and references?",
+          "answer": "Examining how texts reference and build on other texts"
+        },
+        {
+          "id": 170,
+          "category": "Reading Outdoors",
+          "question": "What is the environmental psychology theory of 'biophilia' in nature reading?",
+          "answer": "Humans' innate affinity for natural settings enhances reading"
+        },
+        {
+          "id": 171,
+          "category": "Relaxation",
+          "question": "What is the neurotransmitter cascade underlying reading-induced relaxation?",
+          "answer": "Serotonin, dopamine, and oxytocin release"
+        },
+        {
+          "id": 172,
+          "category": "Beach Culture",
+          "question": "What is the sociological theory of 'habitus' in reading community formation?",
+          "answer": "Internalized social structures shaping reading practices"
+        },
+        {
+          "id": 173,
+          "category": "Literary Characters",
+          "question": "What is the structuralist concept of 'narrative functions' in character actions?",
+          "answer": "Character actions as functional units in narrative structure"
+        },
+        {
+          "id": 174,
+          "category": "Reading Habits",
+          "question": "What is the information processing theory of 'cognitive load' in reading?",
+          "answer": "Mental resources required for text comprehension"
+        },
+        {
+          "id": 175,
+          "category": "Beach Books",
+          "question": "What is the deconstructionist reading of binary oppositions in beach narratives?",
+          "answer": "Analyzing unstable meaning in oppositional concepts"
+        },
+        {
+          "id": 176,
+          "category": "Reading Outdoors",
+          "question": "What is the material culture approach to physicality of beach reading objects?",
+          "answer": "Study of how books as objects shape reading experience"
+        },
+        {
+          "id": 177,
+          "category": "Relaxation",
+          "question": "What is the concept of 'parasympathetic dominance' achieved through reading?",
+          "answer": "Rest-and-digest mode activation during relaxation"
+        },
+        {
+          "id": 178,
+          "category": "Beach Culture",
+          "question": "What is the critical discourse analysis of beach reading marketing?",
+          "answer": "Examining language and ideology in leisure industry promotion"
+        },
+        {
+          "id": 179,
+          "category": "Literary Characters",
+          "question": "What is the feminist narratology perspective on gendered characterization?",
+          "answer": "Analyzing how gender shapes character representation"
+        },
+        {
+          "id": 180,
+          "category": "Reading Habits",
+          "question": "What is the transactional theory of reading that emphasizes reader-text relationship?",
+          "answer": "Louise Rosenblatt's theory of dynamic meaning-making during reading"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "category": "Birthday Party Games & Entertainment",
+  "description": "30 regular trivia clues + 30 Cards Against Humanity style clues about birthday party games, activities, and entertainment",
+  "version": "1.0",
+  "generated_date": "2026-01-01",
+  "regular_clues": [
+    {
+      "id": "bpg_001",
+      "question": "This classic party game involves eliminating players through evasive dance moves when the music stops",
+      "answer": "Musical Chairs",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_002",
+      "question": "Children are blindfolded and try to pin a paper tail on an image of this animal",
+      "answer": "Donkey",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_003",
+      "question": "This outdoor game involves children racing to fill buckets with water while other kids stop them",
+      "answer": "Water Balloon Fight",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_004",
+      "question": "In this game, one person is 'it' and must chase and tag other players in a designated area",
+      "answer": "Tag",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_005",
+      "question": "Players pass an object in a circle and must eliminate it when the music stops",
+      "answer": "Hot Potato",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_006",
+      "question": "This party game features a spinner and involves removing body parts from a mat",
+      "answer": "Twister",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_007",
+      "question": "Children hunt for hidden objects or containers in a game that shares its name with a bunny",
+      "answer": "Easter Egg Hunt",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_008",
+      "question": "This game involves guessing an answer while a partner acts it out without speaking",
+      "answer": "Charades",
+      "difficulty": "medium"
+    },
+    {
+      "id": "bpg_009",
+      "question": "In this game, one player leaves the room while others pick a subject for them to guess through yes/no questions",
+      "answer": "20 Questions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "bpg_010",
+      "question": "This party game involves whispering a message from person to person; the last person says it aloud",
+      "answer": "Telephone",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_011",
+      "question": "A pirate-themed scavenger hunt popular at birthday celebrations",
+      "answer": "Treasure Hunt",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_012",
+      "question": "This outdoor relay race involves carrying an egg on a spoon without dropping it",
+      "answer": "Egg and Spoon Race",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_013",
+      "question": "Children line up for races where they hop forward with ankles tied together",
+      "answer": "Three-Legged Race",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_014",
+      "question": "This game involves blindfolding players and having them guess who is speaking",
+      "answer": "Marco Polo (or Blind Man's Bluff)",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_015",
+      "question": "A party game where guests write phrases and hilarity ensues as stories are read aloud",
+      "answer": "Mad Libs",
+      "difficulty": "medium"
+    },
+    {
+      "id": "bpg_016",
+      "question": "This card game involves matching cards by symbol, color, or number",
+      "answer": "UNO",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_017",
+      "question": "A board game where players move pieces around a board, buying properties and collecting rent",
+      "answer": "Monopoly",
+      "difficulty": "medium"
+    },
+    {
+      "id": "bpg_018",
+      "question": "This word-building board game awards points based on letter values and board positions",
+      "answer": "Scrabble",
+      "difficulty": "medium"
+    },
+    {
+      "id": "bpg_019",
+      "question": "A party game involving creative drawing where teams guess quick sketches",
+      "answer": "Pictionary",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_020",
+      "question": "This game involves spotting small hidden objects within detailed illustrations",
+      "answer": "Where's Waldo",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_021",
+      "question": "A trivia-based board game where players answer questions to move around the board",
+      "answer": "Trivia Pursuit",
+      "difficulty": "medium"
+    },
+    {
+      "id": "bpg_022",
+      "question": "This outdoor game involves throwing beanbags toward holes in a wooden platform",
+      "answer": "Cornhole",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_023",
+      "question": "A game involving rolling balls toward a target in lawn bowling style",
+      "answer": "Bocce Ball",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_024",
+      "question": "This party entertainment involves a DJ or playlist and structured social interaction",
+      "answer": "Dancing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_025",
+      "question": "A performance where musicians play instruments together for party entertainment",
+      "answer": "Live Band/Music Performance",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_026",
+      "question": "This entertainment involves a professional performing magic tricks and illusions",
+      "answer": "Magician",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_027",
+      "question": "A party professional who makes balloon animals and shapes for entertainment",
+      "answer": "Balloon Artist",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_028",
+      "question": "This entertainment features performers who paint faces with artistic designs",
+      "answer": "Face Painting",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_029",
+      "question": "A video game competition party where guests compete in console or computer games",
+      "answer": "Gaming Tournament",
+      "difficulty": "easy"
+    },
+    {
+      "id": "bpg_030",
+      "question": "This party activity involves creating craft projects or doing hands-on activities",
+      "answer": "Arts and Crafts Station",
+      "difficulty": "easy"
+    }
+  ],
+  "cah_clues": [
+    {
+      "id": "cah_bpg_001",
+      "clue": "What the birthday kid pretends to enjoy when Aunt Linda suggests playing charades for 45 minutes straight",
+      "answer": "Internal screaming",
+      "tone": "dark",
+      "hint_technique": "generational humor about party games"
+    },
+    {
+      "id": "cah_bpg_002",
+      "clue": "The main event after the DJ quits because someone requested 'Wonderwall' for the 9th time",
+      "answer": "A mass shooting on TikTok",
+      "tone": "dark",
+      "hint_technique": "context setup"
+    },
+    {
+      "id": "cah_bpg_003",
+      "clue": "What's currently happening in the group chat while everyone's forced to play Twister",
+      "answer": "Planning to leave early",
+      "tone": "relatable",
+      "hint_technique": "modern communication reference"
+    },
+    {
+      "id": "cah_bpg_004",
+      "clue": "The unwritten rule that makes musical chairs actually just a way to reveal which friend is most competitive",
+      "answer": "Eliminating friendship",
+      "tone": "dark",
+      "hint_technique": "social commentary"
+    },
+    {
+      "id": "cah_bpg_005",
+      "clue": "What Instagram Reels taught kids to expect from birthday party games instead of actually having fun",
+      "answer": "Viral content requirements",
+      "tone": "modern",
+      "hint_technique": "social media context"
+    },
+    {
+      "id": "cah_bpg_006",
+      "clue": "The real reason parents hire a magician: to distract kids so they can",
+      "answer": "Drink wine in the backyard uninterrupted",
+      "tone": "dark",
+      "hint_technique": "parent perspective"
+    },
+    {
+      "id": "cah_bpg_007",
+      "clue": "What your niece is Googling when face painting turns into an anxiety attack at the party",
+      "answer": "Facial reconstruction surgeons near me",
+      "tone": "dark",
+      "hint_technique": "exaggeration for humor"
+    },
+    {
+      "id": "cah_bpg_008",
+      "clue": "The moment everyone realizes the 'professional' balloon artist from Craigslist might be on a list",
+      "answer": "When he asks if you want to see the funny animals he makes in the back of his van",
+      "tone": "very dark",
+      "hint_technique": "setup and payoff"
+    },
+    {
+      "id": "cah_bpg_009",
+      "clue": "What the birthday kid actually wants instead of being forced to play Pictionary with distant relatives",
+      "answer": "Air pods and to be left alone",
+      "tone": "relatable",
+      "hint_technique": "generational truth"
+    },
+    {
+      "id": "cah_bpg_010",
+      "clue": "The tragic moment you realize your Gen Z cousins are recording the three-legged race for TikTok clout",
+      "answer": "When you trip and go viral",
+      "tone": "dark",
+      "hint_technique": "social media anxiety"
+    },
+    {
+      "id": "cah_bpg_011",
+      "clue": "What started as a wholesome scavenger hunt but ended with someone's house ransacked and the cops called",
+      "answer": "This is actually my neighbor's house",
+      "tone": "dark",
+      "hint_technique": "dark comedic setup"
+    },
+    {
+      "id": "cah_bpg_012",
+      "clue": "The exact moment the egg and spoon race became a metaphor for your parent's marriage",
+      "answer": "When it cracked and made a mess everywhere",
+      "tone": "dark",
+      "hint_technique": "twisted metaphor"
+    },
+    {
+      "id": "cah_bpg_013",
+      "clue": "What the party planner promised on Pinterest versus what actually happens during Twister",
+      "answer": "Contact tracing for a COVID outbreak",
+      "tone": "dark",
+      "hint_technique": "expectations vs reality"
+    },
+    {
+      "id": "cah_bpg_014",
+      "clue": "The one game that guarantees someone will cry and it won't be the kids",
+      "answer": "Monopoly",
+      "tone": "dark",
+      "hint_technique": "universal truth about the game"
+    },
+    {
+      "id": "cah_bpg_015",
+      "clue": "What playing musical chairs teaches kids about capitalism and social hierarchy",
+      "answer": "Survival of the fittest and no safety net",
+      "tone": "dark",
+      "hint_technique": "sociological commentary"
+    },
+    {
+      "id": "cah_bpg_016",
+      "clue": "The streaming service your birthday party entertainment is actually just showing on repeat",
+      "answer": "Netflix while the DJ checks their phone",
+      "tone": "modern",
+      "hint_technique": "modern entertainment reality"
+    },
+    {
+      "id": "cah_bpg_017",
+      "clue": "Why the birthday girl's face painting looks like a character from a horror movie at the end of the party",
+      "answer": "Hot tears and regret",
+      "tone": "dark",
+      "hint_technique": "descriptive imagery"
+    },
+    {
+      "id": "cah_bpg_018",
+      "clue": "The prize you'd actually want to win from all these party games",
+      "answer": "Permission to go home",
+      "tone": "relatable",
+      "hint_technique": "honest emotion"
+    },
+    {
+      "id": "cah_bpg_019",
+      "clue": "What the pirate treasure hunt is actually teaching your kids about suburban real estate",
+      "answer": "How to trespass on neighbors' property in a fun way",
+      "tone": "dark",
+      "hint_technique": "ironic lesson"
+    },
+    {
+      "id": "cah_bpg_020",
+      "clue": "The real treasure you find at the end of the birthday party scavenger hunt",
+      "answer": "Divorce papers in Dad's desk drawer",
+      "tone": "very dark",
+      "hint_technique": "subversion of innocent game"
+    },
+    {
+      "id": "cah_bpg_021",
+      "clue": "Why your drunk uncle keeps winning at beer pong during the party",
+      "answer": "He's been training since college failed him",
+      "tone": "dark",
+      "hint_technique": "sad life truth"
+    },
+    {
+      "id": "cah_bpg_022",
+      "clue": "What the birthday cake actually tastes like after a DJ has been playing 'Cupid Shuffle' on repeat for 3 hours",
+      "answer": "Despair and regret",
+      "tone": "dark",
+      "hint_technique": "sensory exaggeration"
+    },
+    {
+      "id": "cah_bpg_023",
+      "clue": "The streaming platform that the 'premium' party entertainment package really just means",
+      "answer": "YouTube kids on a projector",
+      "tone": "modern",
+      "hint_technique": "modern party reality"
+    },
+    {
+      "id": "cah_bpg_024",
+      "clue": "What the balloon artist is actually making when he says he's making animals",
+      "answer": "Terrible decisions and potential weapons",
+      "tone": "dark",
+      "hint_technique": "ironic truth"
+    },
+    {
+      "id": "cah_bpg_025",
+      "clue": "Why Grandma insists on teaching everyone the Macarena",
+      "answer": "She's trying to prove she's still fun at 73",
+      "tone": "relatable",
+      "hint_technique": "generational humor"
+    },
+    {
+      "id": "cah_bpg_026",
+      "clue": "The actual skill you develop winning at Pictionary competitively",
+      "answer": "How to lie convincingly to your family",
+      "tone": "dark",
+      "hint_technique": "unexpected skill transfer"
+    },
+    {
+      "id": "cah_bpg_027",
+      "clue": "What the party organizer's Pinterest board forgot to mention about outdoor games",
+      "answer": "Allergies, bee stings, and heat stroke",
+      "tone": "dark",
+      "hint_technique": "realistic problems"
+    },
+    {
+      "id": "cah_bpg_028",
+      "clue": "The real reason nobody wants to be 'it' in any chasing game",
+      "answer": "Student loan debt has made everyone out of shape",
+      "tone": "modern",
+      "hint_technique": "millennial/Gen Z reality"
+    },
+    {
+      "id": "cah_bpg_029",
+      "clue": "What the birthday cake had in it according to Grandma's conspiracy theories about the DJ",
+      "answer": "5G microchips and government surveillance",
+      "tone": "very dark",
+      "hint_technique": "conspiracy humor"
+    },
+    {
+      "id": "cah_bpg_030",
+      "clue": "Why the birthday party games on TikTok look nothing like yours",
+      "answer": "Editing, lighting, filters, and a complete fabrication of happiness",
+      "tone": "modern",
+      "hint_technique": "social media vs reality"
+    }
+  ],
+  "notes": {
+    "style_compliance": "All CAH clues follow the CAH_STYLE_GUIDE_2025.md hinting technique with setup→payoff structure",
+    "cultural_relevance": "References mainstream items (TikTok, Instagram, Netflix, Monopoly, etc.) that USA audiences 2000-2025 would recognize",
+    "tone_distribution": "Mix of relatable (observational humor), dark (edgy/cynical), and modern (tech/social media centered)",
+    "target_difficulty": "Regular clues span easy-medium; CAH clues assume adult audience comfortable with dark humor",
+    "geographical_scope": "USA-focused references including suburban party culture, American family dynamics, current events"
+  }
+}

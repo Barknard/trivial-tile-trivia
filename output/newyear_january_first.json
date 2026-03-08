@@ -1,0 +1,308 @@
+{
+  "category": "New Year's Day - January 1st",
+  "description": "Celebrate January 1st with trivia about New Year's traditions, resolutions, fireworks, and global celebrations",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "The ball that drops in Times Square at midnight to ring in the new year",
+      "answer": "What is the New Year's Eve Ball?"
+    },
+    {
+      "points": 200,
+      "clue": "Traditional drink served to celebrate the arrival of the new year",
+      "answer": "What is champagne?"
+    },
+    {
+      "points": 200,
+      "clue": "The act of making promises to improve yourself in the coming year",
+      "answer": "What is making a New Year's resolution?"
+    },
+    {
+      "points": 200,
+      "clue": "Explosives that light up the sky at midnight on New Year's Eve",
+      "answer": "What are fireworks?"
+    },
+    {
+      "points": 200,
+      "clue": "The number that changes on January 1st every 365 days",
+      "answer": "What is the year?"
+    },
+    {
+      "points": 200,
+      "clue": "Famous procession in California known for elaborate floats on January 1st",
+      "answer": "What is the Rose Parade?"
+    },
+    {
+      "points": 400,
+      "clue": "This countdown happens exactly at midnight to mark the new year",
+      "answer": "What is counting down from 10 (or New Year's countdown)?"
+    },
+    {
+      "points": 400,
+      "clue": "New Year's Day college football game played in Southern California since 1902",
+      "answer": "What is the Rose Bowl?"
+    },
+    {
+      "points": 400,
+      "clue": "The Scottish tradition of visiting friends and family after midnight on New Year's",
+      "answer": "What is First Footing?"
+    },
+    {
+      "points": 400,
+      "clue": "The most common New Year's resolution involving diet and exercise",
+      "answer": "What is losing weight or getting fit?"
+    },
+    {
+      "points": 400,
+      "clue": "City known for hosting the largest New Year's Eve celebration in the USA",
+      "answer": "What is New York City?"
+    },
+    {
+      "points": 400,
+      "clue": "The Roman goddess of new beginnings, for whom January is named",
+      "answer": "What is Janus?"
+    },
+    {
+      "points": 600,
+      "clue": "Tradition of writing resolutions on paper to display or keep private",
+      "answer": "What is making New Year's resolutions?"
+    },
+    {
+      "points": 600,
+      "clue": "Federal holiday in the United States celebrating the start of the new year",
+      "answer": "What is New Year's Day?"
+    },
+    {
+      "points": 600,
+      "clue": "This South American tradition involves wearing colored underwear for luck",
+      "answer": "What is an Old Year's Night ritual?"
+    },
+    {
+      "points": 600,
+      "clue": "Chinese New Year custom of giving money in red envelopes",
+      "answer": "What is hongbao (or red envelope)?"
+    },
+    {
+      "points": 600,
+      "clue": "The annual worldwide celebration marking the change from 2024 to 2025",
+      "answer": "What is New Year's Eve and New Year's Day?"
+    },
+    {
+      "points": 600,
+      "clue": "This grapes tradition originated in Spain and occurs at midnight",
+      "answer": "What is eating 12 grapes?"
+    },
+    {
+      "points": 800,
+      "clue": "The oldest continuously-held New Year's Eve celebration in the USA",
+      "answer": "What is the Times Square Ball Drop in New York City?"
+    },
+    {
+      "points": 800,
+      "clue": "This Greek tradition involves breaking a pomegranate for good luck",
+      "answer": "What is pomegranate breaking?"
+    },
+    {
+      "points": 800,
+      "clue": "Japanese tradition of eating soba noodles on New Year's for longevity",
+      "answer": "What is eating toshikoshi soba?"
+    },
+    {
+      "points": 800,
+      "clue": "The number of times you should ring bells in Japanese Buddhist tradition",
+      "answer": "What is 108 times?"
+    },
+    {
+      "points": 800,
+      "clue": "This superstition says you should not do this on New Year's Day for good luck",
+      "answer": "What is washing or cleaning (or doing laundry)?"
+    },
+    {
+      "points": 800,
+      "clue": "Holiday football games on New Year's Day: the Rose Bowl and this other game",
+      "answer": "What is the Sugar Bowl (or Orange Bowl/Cotton Bowl)?"
+    },
+    {
+      "points": 1000,
+      "clue": "This Roman month was originally the tenth, named after the two-faced god",
+      "answer": "What is January?"
+    },
+    {
+      "points": 1000,
+      "clue": "Ancient Romans believed Janus watched over this during the transition",
+      "answer": "What are beginnings and endings (or transitions)?"
+    },
+    {
+      "points": 1000,
+      "clue": "This Scottish New Year tradition involves fire to purify homes",
+      "answer": "What is burning juniper or torches?"
+    },
+    {
+      "points": 1000,
+      "clue": "The Julian calendar was replaced by this calendar system",
+      "answer": "What is the Gregorian calendar?"
+    },
+    {
+      "points": 1000,
+      "clue": "The date when New Year's Day is celebrated in the Orthodox Christian calendar",
+      "answer": "What is January 13 (or 14)?"
+    },
+    {
+      "points": 1000,
+      "clue": "This animal is considered lucky if it's the first person you see on New Year's Day",
+      "answer": "What is a white dove (or certain birds)?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "What you'll break by January 15th",
+      "answer": "What is your New Year's resolution?"
+    },
+    {
+      "points": 200,
+      "clue": "The gym membership that nobody uses after January",
+      "answer": "What is your 'get fit' fantasy?"
+    },
+    {
+      "points": 200,
+      "clue": "What kills your hangover on January 1st",
+      "answer": "What is regret?"
+    },
+    {
+      "points": 200,
+      "clue": "Thing you swear you'll give up on January 1st",
+      "answer": "What is social media (or alcohol or junk food)?"
+    },
+    {
+      "points": 200,
+      "clue": "What drunk you promised sober you would accomplish",
+      "answer": "What is impossible lifestyle changes?"
+    },
+    {
+      "points": 200,
+      "clue": "The app you download January 1st but uninstall by January 8th",
+      "answer": "What is a fitness tracker?"
+    },
+    {
+      "points": 400,
+      "clue": "Why New Year's resolutions fail before February",
+      "answer": "What is reality?"
+    },
+    {
+      "points": 400,
+      "clue": "The real January 1st tradition nobody admits to",
+      "answer": "What is crying about last year?"
+    },
+    {
+      "points": 400,
+      "clue": "What's in your body on January 1st at 8am",
+      "answer": "What is regret and champagne?"
+    },
+    {
+      "points": 400,
+      "clue": "The lie you tell yourself every New Year",
+      "answer": "What is 'this year will be different'?"
+    },
+    {
+      "points": 400,
+      "clue": "Thing you deleted from your phone during New Year's reflection",
+      "answer": "What is your ex's number?"
+    },
+    {
+      "points": 400,
+      "clue": "What actually changes on January 1st",
+      "answer": "What is the calendar?"
+    },
+    {
+      "points": 600,
+      "clue": "Why Karen called the gym on January 1st",
+      "answer": "What is to demand a refund on her membership?"
+    },
+    {
+      "points": 600,
+      "clue": "The fitness motivation that dies after three days",
+      "answer": "What is New Year's resolution energy?"
+    },
+    {
+      "points": 600,
+      "clue": "What you're definitely not doing on January 1st despite promises",
+      "answer": "What is going to the gym?"
+    },
+    {
+      "points": 600,
+      "clue": "The app that profits most from January's guilt",
+      "answer": "What is Peloton (or DoorDash)?"
+    },
+    {
+      "points": 600,
+      "clue": "What you bought at 11:59pm on New Year's Eve",
+      "answer": "What is champagne and regret?"
+    },
+    {
+      "points": 600,
+      "clue": "The TikTok trend where people film their failing resolutions",
+      "answer": "What is posting their gym fails?"
+    },
+    {
+      "points": 800,
+      "clue": "Why the drunk uncle thinks he's going to finally get his life together",
+      "answer": "What is because it's a new year?"
+    },
+    {
+      "points": 800,
+      "clue": "The most delusional belief Americans have annually",
+      "answer": "What is that January 1st changes anything?"
+    },
+    {
+      "points": 800,
+      "clue": "What Elon Musk tweeted he'd accomplish by January 2nd",
+      "answer": "What is completely unrealistic goals?"
+    },
+    {
+      "points": 800,
+      "clue": "The Instagram post everyone makes January 1st at 6am",
+      "answer": "What is 'new year, new me'?"
+    },
+    {
+      "points": 800,
+      "clue": "What your group chat promised to do together in 2025",
+      "answer": "What is actually hangout (they won't)?"
+    },
+    {
+      "points": 800,
+      "clue": "The video everyone's parents send after midnight",
+      "answer": "What is a blurry video of fireworks?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why the gym has a five-week cancellation surge",
+      "answer": "What is because nobody keeps resolutions?"
+    },
+    {
+      "points": 1000,
+      "clue": "The real reason you drank that much last night",
+      "answer": "What is escaping 2024?"
+    },
+    {
+      "points": 1000,
+      "clue": "What LinkedIn influencers claim they're doing January 1st",
+      "answer": "What is manifesting abundance or reflecting on growth?"
+    },
+    {
+      "points": 1000,
+      "clue": "The wealth coach's explanation for why your 2024 goals failed",
+      "answer": "What is your limiting beliefs?"
+    },
+    {
+      "points": 1000,
+      "clue": "What Taylor Swift's lyrics are currently helping you through",
+      "answer": "What is your New Year's existential crisis?"
+    },
+    {
+      "points": 1000,
+      "clue": "The person who actually keeps their New Year's resolution",
+      "answer": "What is literally nobody?"
+    }
+  ]
+}

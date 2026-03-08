@@ -1,0 +1,308 @@
+{
+  "category": "Birthday Fun",
+  "description": "Birthday fun, excitement, celebration joy, and party vibes",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "Explosive sound of confetti cannons at the party moment everyone cheers",
+      "answer": "What is a BANG?"
+    },
+    {
+      "points": 200,
+      "clue": "Decorated space where the birthday person gets surprised",
+      "answer": "What is a party room?"
+    },
+    {
+      "points": 200,
+      "clue": "Joyful reaction when the cake comes out with lit candles",
+      "answer": "What is applause?"
+    },
+    {
+      "points": 200,
+      "clue": "Colorful paper bits that fall from the sky during celebrations",
+      "answer": "What is confetti?"
+    },
+    {
+      "points": 200,
+      "clue": "Music and dancing activity that makes birthday parties fun",
+      "answer": "What is a dance party?"
+    },
+    {
+      "points": 200,
+      "clue": "Treasure hunt game played at children's birthday parties",
+      "answer": "What is a scavenger hunt?"
+    },
+    {
+      "points": 200,
+      "clue": "The moment someone yells 'Surprise!' unexpectedly",
+      "answer": "What is a surprise party?"
+    },
+    {
+      "points": 400,
+      "clue": "Infectious happiness that spreads when friends gather to celebrate",
+      "answer": "What is excitement?"
+    },
+    {
+      "points": 400,
+      "clue": "Group activity where everyone wears silly costumes and games",
+      "answer": "What is a themed party?"
+    },
+    {
+      "points": 400,
+      "clue": "Tradition of hitting a bat-shaped stick to crack open candy",
+      "answer": "What is a pinata?"
+    },
+    {
+      "points": 400,
+      "clue": "Glow sticks and neon decorations used in nighttime celebrations",
+      "answer": "What is a glow party?"
+    },
+    {
+      "points": 400,
+      "clue": "Feeling of pure joy that makes you smile uncontrollably",
+      "answer": "What is happiness?"
+    },
+    {
+      "points": 400,
+      "clue": "Circle of people clapping and cheering loudly in unison",
+      "answer": "What is a group celebration?"
+    },
+    {
+      "points": 400,
+      "clue": "Racing game where guests compete for the fastest finish line",
+      "answer": "What is a relay race?"
+    },
+    {
+      "points": 600,
+      "clue": "Tickled sensation of anticipation before unwrapping presents",
+      "answer": "What is excitement or suspense?"
+    },
+    {
+      "points": 600,
+      "clue": "Moment when everyone sings loudly in the same room together",
+      "answer": "What is a group sing-along?"
+    },
+    {
+      "points": 600,
+      "clue": "Feeling that makes your heart race and butterflies flutter",
+      "answer": "What is adrenaline or anticipation?"
+    },
+    {
+      "points": 600,
+      "clue": "Competition where the winner gets bragging rights for a year",
+      "answer": "What is a party game tournament?"
+    },
+    {
+      "points": 600,
+      "clue": "Moment right before the candles are blown out and wish is made",
+      "answer": "What is the magic moment?"
+    },
+    {
+      "points": 600,
+      "clue": "Infectious feeling that spreads through the crowd like wildfire",
+      "answer": "What is celebration or joy?"
+    },
+    {
+      "points": 800,
+      "clue": "Ancient practice of gathering to celebrate a person's birth date",
+      "answer": "What is a birthday tradition?"
+    },
+    {
+      "points": 800,
+      "clue": "Psychological state where time seems to move faster because you're having fun",
+      "answer": "What is flow state or being in the moment?"
+    },
+    {
+      "points": 800,
+      "clue": "Phenomenon where one person's excitement triggers it in everyone around them",
+      "answer": "What is emotional contagion?"
+    },
+    {
+      "points": 800,
+      "clue": "Euphoric rush when you accomplish something the birthday person wanted",
+      "answer": "What is the satisfaction of making someone happy?"
+    },
+    {
+      "points": 800,
+      "clue": "Bonding experience that strengthens friendships and family ties",
+      "answer": "What is shared celebration?"
+    },
+    {
+      "points": 1000,
+      "clue": "Neurochemical cocktail released when experiencing extreme joy and celebration",
+      "answer": "What are endorphins?"
+    },
+    {
+      "points": 1000,
+      "clue": "Ancient Rome held this festival for gods, later adapted for birthdays",
+      "answer": "What is a religious celebration ceremony?"
+    },
+    {
+      "points": 1000,
+      "clue": "Sociological phenomenon where groups create memorable moments through rituals",
+      "answer": "What is communal bonding through ritual?"
+    },
+    {
+      "points": 1000,
+      "clue": "Therapeutic effect that celebratory events have on mental health and well-being",
+      "answer": "What is joy and emotional elevation?"
+    },
+    {
+      "points": 1000,
+      "clue": "Universal human need fulfilled by gathering together with loved ones",
+      "answer": "What is social connection?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "Thing you fake excitement about when uncle brings the wrong flavor cake",
+      "answer": "What is 'Oh wow, this looks great'?"
+    },
+    {
+      "points": 200,
+      "clue": "What you scroll through instead of actually having fun at the party",
+      "answer": "What is Instagram?"
+    },
+    {
+      "points": 200,
+      "clue": "Birthday party essential that's now outsourced to DoorDash",
+      "answer": "What is the cake?"
+    },
+    {
+      "points": 200,
+      "clue": "Zoom feature people use during pandemic birthday celebrations",
+      "answer": "What is a virtual background?"
+    },
+    {
+      "points": 200,
+      "clue": "What grandma calls birthday parties now instead of going",
+      "answer": "What is a group video call?"
+    },
+    {
+      "points": 200,
+      "clue": "The thing people check instead of looking at the actual birthday person",
+      "answer": "What is their phones?"
+    },
+    {
+      "points": 200,
+      "clue": "Budget-friendly decoration that millennials use for every party",
+      "answer": "What is a string of LED lights?"
+    },
+    {
+      "points": 400,
+      "clue": "What the birthday person posts to prove they had friends there",
+      "answer": "What is a group selfie?"
+    },
+    {
+      "points": 400,
+      "clue": "Influencer response to your invitation they can't make",
+      "answer": "What is a shoutout post?"
+    },
+    {
+      "points": 400,
+      "clue": "Thing that makes everyone scream at exactly the wrong moment",
+      "answer": "What is someone's phone going off?"
+    },
+    {
+      "points": 400,
+      "clue": "Modern tradition that costs more than the actual party",
+      "answer": "What is the Instagram-worthy cake?"
+    },
+    {
+      "points": 400,
+      "clue": "What Karen demanded when they served store-bought cake",
+      "answer": "What is a refund?"
+    },
+    {
+      "points": 400,
+      "clue": "TikTok trend that replaced actual birthday games",
+      "answer": "What is the dance challenge?"
+    },
+    {
+      "points": 400,
+      "clue": "The real prize everyone fights over at the pinata",
+      "answer": "What is the candy or money inside?"
+    },
+    {
+      "points": 600,
+      "clue": "What boomers think happens at Gen Z birthday parties",
+      "answer": "What is drugs and chaos?"
+    },
+    {
+      "points": 600,
+      "clue": "Thing that ruins the surprise birthday party everyone else planned",
+      "answer": "What is the birthday person seeing the Facebook invite?"
+    },
+    {
+      "points": 600,
+      "clue": "App that automatically reminds everyone of your birthday now",
+      "answer": "What is Facebook?"
+    },
+    {
+      "points": 600,
+      "clue": "Reason the drunk uncle made everyone uncomfortable at the party",
+      "answer": "What is his conspiracy theories?"
+    },
+    {
+      "points": 600,
+      "clue": "What the group text says after you leave the party",
+      "answer": "What is should we actually invite them next time?"
+    },
+    {
+      "points": 600,
+      "clue": "Metric used to measure party success at influencer gatherings",
+      "answer": "What is Instagram likes and followers?"
+    },
+    {
+      "points": 800,
+      "clue": "Modern party activity that's basically just standing around talking",
+      "answer": "What is networking at an adult party?"
+    },
+    {
+      "points": 800,
+      "clue": "Why the coworker bought the cheapest gift card possible",
+      "answer": "What is corporate budget cuts?"
+    },
+    {
+      "points": 800,
+      "clue": "Tech company that makes party planner software people don't use",
+      "answer": "What is every startup ever?"
+    },
+    {
+      "points": 800,
+      "clue": "What everyone actually wants instead of party games",
+      "answer": "What is free drinks and good snacks?"
+    },
+    {
+      "points": 800,
+      "clue": "Reason the influencer secretly hated their own birthday party",
+      "answer": "What is having to smile for twelve hours straight?"
+    },
+    {
+      "points": 1000,
+      "clue": "Thing the birthday person fantasizes about instead of enjoying the party",
+      "answer": "What is going home and sleeping?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why the family group chat went silent after the party planning began",
+      "answer": "What is everyone avoiding responsibility?"
+    },
+    {
+      "points": 1000,
+      "clue": "Real emotion most people feel when they turn another year older",
+      "answer": "What is existential dread?"
+    },
+    {
+      "points": 1000,
+      "clue": "What happened to the glitter confetti the day after the party",
+      "answer": "What is it ended up everywhere for six months?"
+    },
+    {
+      "points": 1000,
+      "clue": "Modern celebration that costs more to set up than to actually attend",
+      "answer": "What is a luxury birthday bash?"
+    }
+  ]
+}

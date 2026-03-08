@@ -1,0 +1,70 @@
+{
+  "category": {
+    "id": "christmas_eve",
+    "name": "Christmas Eve Traditions",
+    "description": "Questions about Christmas Eve customs including stockings, cookies for Santa, and bedtime traditions",
+    "difficulty_range": "all_ages",
+    "topics": [
+      "stockings",
+      "cookies_for_santa",
+      "bedtime_traditions",
+      "christmas_eve_customs",
+      "santa_preparations"
+    ]
+  },
+  "metadata": {
+    "total_questions": 216,
+    "questions_per_audience": 36,
+    "format": "jeopardy",
+    "audiences": [
+      "kids_6_9",
+      "tweens_10_12",
+      "teens_13_17",
+      "adults_18_plus",
+      "seniors_65_plus",
+      "no_humanity"
+    ],
+    "generated_date": "2025-12-29",
+    "version": "2.0"
+  },
+  "audiences": {
+    "no_humanity": [
+      {"clue": "Santa's real workshop location", "correctQuestion": "What is Amazon?", "value": 200},
+      {"clue": "Kids' real Christmas Eve activity", "correctQuestion": "What is TikTok?", "value": 200},
+      {"clue": "What ruined Christmas 2020", "correctQuestion": "What is COVID-19?", "value": 200},
+      {"clue": "What replaced family time", "correctQuestion": "What is Netflix?", "value": 200},
+      {"clue": "What kids check instead of stockings", "correctQuestion": "What is Instagram?", "value": 200},
+      {"clue": "The 2015 War on Christmas battleground", "correctQuestion": "What is Starbucks?", "value": 200},
+      {"clue": "2am Christmas Eve surge pricing app", "correctQuestion": "What is Uber?", "value": 400},
+      {"clue": "Burned turkey emergency salvation", "correctQuestion": "What is DoorDash?", "value": 400},
+      {"clue": "The toy store Amazon murdered", "correctQuestion": "What is Toys R Us?", "value": 400},
+      {"clue": "Every kid's $1,200 Christmas demand", "correctQuestion": "What is an iPhone?", "value": 400},
+      {"clue": "Where you stalk friends' Christmas spending", "correctQuestion": "What is Venmo?", "value": 400},
+      {"clue": "Military tracking Santa with missile radar", "correctQuestion": "What is NORAD?", "value": 400},
+      {"clue": "What Millennials actually want for Christmas", "correctQuestion": "What is affordable housing (or a house they can buy)?", "value": 600},
+      {"clue": "The topic that ruins Christmas dinner", "correctQuestion": "Who is Trump (or what is politics)?", "value": 600},
+      {"clue": "Who defrosts every December for $3M", "correctQuestion": "Who is Mariah Carey?", "value": 600},
+      {"clue": "What replaced Christmas cards", "correctQuestion": "What is a group text?", "value": 600},
+      {"clue": "The other topic ruining Christmas dinner", "correctQuestion": "What is the COVID vaccine?", "value": 600},
+      {"clue": "Christmas tree surveillance device", "correctQuestion": "What is Alexa?", "value": 600},
+      {"clue": "What Gen Z actually wants", "correctQuestion": "What is affordable rent?", "value": 800},
+      {"clue": "Elon's car catching fire Christmas Eve", "correctQuestion": "What is Tesla?", "value": 800},
+      {"clue": "What killed Christmas spirit", "correctQuestion": "What are student loans?", "value": 800},
+      {"clue": "How rich people fit down chimneys", "correctQuestion": "What is Ozempic?", "value": 800},
+      {"clue": "What killed the mall Santa industry", "correctQuestion": "What is the sex offender registry?", "value": 800},
+      {"clue": "Where 'handmade' toys really come from", "correctQuestion": "What is a Chinese sweatshop (or Chinese factory)?", "value": 800},
+      {"clue": "Parents' secret post-bedtime activity", "correctQuestion": "What is their phone (or social media)?", "value": 1000},
+      {"clue": "The Christmas song playing in Hell", "correctQuestion": "What is Wonderful Christmastime?", "value": 1000},
+      {"clue": "The Christmas date rape song", "correctQuestion": "What is Baby It's Cold Outside?", "value": 1000},
+      {"clue": "Buddy the Elf's diagnosis", "correctQuestion": "What is ADHD (or unmedicated ADHD)?", "value": 1000},
+      {"clue": "What Die Hard is really about", "correctQuestion": "What is Die Hard?", "value": 1000},
+      {"clue": "How Hallmark movies solve racism", "correctQuestion": "What is a Christmas party (or baking cookies together)?", "value": 1000},
+      {"clue": "Where moms spend $347 buying wrapping paper", "correctQuestion": "What is Target?", "value": 1000},
+      {"clue": "What kids leave Santa in legal states", "correctQuestion": "What are weed edibles (or cannabis edibles)?", "value": 1000},
+      {"clue": "Christmas Eve panic shopping destination", "correctQuestion": "What is Costco?", "value": 1000},
+      {"clue": "What made Christmas 2020 depressing", "correctQuestion": "What is Zoom?", "value": 1000},
+      {"clue": "Elf on Shelf's real employer", "correctQuestion": "What is the NSA?", "value": 1000},
+      {"clue": "The real Christmas miracle parents want", "correctQuestion": "What is having enough PTO (or paid time off)?", "value": 1000}
+    ]
+  }
+}

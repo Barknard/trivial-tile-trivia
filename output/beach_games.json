@@ -1,0 +1,1133 @@
+{
+  "title": "Beach Games Trivia",
+  "description": "Family-friendly questions about beach games, frisbee, paddleball, and beach activities",
+  "category": "Beach Games",
+  "total_questions": 180,
+  "difficulty_levels": 6,
+  "questions_per_level": 30,
+  "format": "Jeopardy",
+  "levels": [
+    {
+      "level": 1,
+      "name": "Beginner",
+      "value": 100,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What sport is played on the beach with a net between two teams?",
+          "answer": "Volleyball",
+          "difficulty": 1
+        },
+        {
+          "id": 2,
+          "question": "Which floating toy is commonly used at the beach for fun?",
+          "answer": "Beach ball",
+          "difficulty": 1
+        },
+        {
+          "id": 3,
+          "question": "What is a frisbee also called?",
+          "answer": "Disc or flying disc",
+          "difficulty": 1
+        },
+        {
+          "id": 4,
+          "question": "How many players does a paddleball game typically have?",
+          "answer": "Two",
+          "difficulty": 1
+        },
+        {
+          "id": 5,
+          "question": "What do you wear to protect your eyes from sun at the beach?",
+          "answer": "Sunglasses",
+          "difficulty": 1
+        },
+        {
+          "id": 6,
+          "question": "What is a common water safety device shaped like a ring?",
+          "answer": "Life preserver or life ring",
+          "difficulty": 1
+        },
+        {
+          "id": 7,
+          "question": "What sport uses a paddle and a small rubber ball?",
+          "answer": "Paddleball or paddle ball",
+          "difficulty": 1
+        },
+        {
+          "id": 8,
+          "question": "Which beach game involves making castles out of sand?",
+          "answer": "Sandcastle building",
+          "difficulty": 1
+        },
+        {
+          "id": 9,
+          "question": "What color flag typically warns swimmers of dangerous conditions?",
+          "answer": "Red",
+          "difficulty": 1
+        },
+        {
+          "id": 10,
+          "question": "What is the sandy area at the beach where people sit called?",
+          "answer": "The beach or shoreline",
+          "difficulty": 1
+        },
+        {
+          "id": 11,
+          "question": "What water sport involves riding waves on a board?",
+          "answer": "Surfing",
+          "difficulty": 1
+        },
+        {
+          "id": 12,
+          "question": "How many sides does a standard frisbee have?",
+          "answer": "Two",
+          "difficulty": 1
+        },
+        {
+          "id": 13,
+          "question": "What do you use to dig in the sand at the beach?",
+          "answer": "Shovel or bucket",
+          "difficulty": 1
+        },
+        {
+          "id": 14,
+          "question": "Which beach game involves throwing a football?",
+          "answer": "Football or catch",
+          "difficulty": 1
+        },
+        {
+          "id": 15,
+          "question": "What protects your skin from sunburn at the beach?",
+          "answer": "Sunscreen or sunblock",
+          "difficulty": 1
+        },
+        {
+          "id": 16,
+          "question": "In beach volleyball, how many players are on the court per side?",
+          "answer": "Two",
+          "difficulty": 1
+        },
+        {
+          "id": 17,
+          "question": "What do you wear on your feet to protect them at the beach?",
+          "answer": "Sandals or flip-flops",
+          "difficulty": 1
+        },
+        {
+          "id": 18,
+          "question": "What popular beach game involves a bat and ball?",
+          "answer": "Baseball or paddleball",
+          "difficulty": 1
+        },
+        {
+          "id": 19,
+          "question": "How many people can play frisbee golf?",
+          "answer": "One or more",
+          "difficulty": 1
+        },
+        {
+          "id": 20,
+          "question": "What is the material used to make paddleball paddles?",
+          "answer": "Wood or plastic",
+          "difficulty": 1
+        },
+        {
+          "id": 21,
+          "question": "What floats on water and is used for beach recreation?",
+          "answer": "Raft or inner tube",
+          "difficulty": 1
+        },
+        {
+          "id": 22,
+          "question": "In beach volleyball, what happens when the ball goes out of bounds?",
+          "answer": "The other team gets a point",
+          "difficulty": 1
+        },
+        {
+          "id": 23,
+          "question": "What is the primary purpose of a lifeguard at the beach?",
+          "answer": "Safety and rescue",
+          "difficulty": 1
+        },
+        {
+          "id": 24,
+          "question": "Which summer sport is most commonly played on a beach?",
+          "answer": "Volleyball",
+          "difficulty": 1
+        },
+        {
+          "id": 25,
+          "question": "What type of shoes are recommended for water sports?",
+          "answer": "Water shoes",
+          "difficulty": 1
+        },
+        {
+          "id": 26,
+          "question": "In paddleball, what is the small rubber ball called?",
+          "answer": "A paddle ball",
+          "difficulty": 1
+        },
+        {
+          "id": 27,
+          "question": "What is the most common color for a beach ball?",
+          "answer": "Multi-colored or bright colors",
+          "difficulty": 1
+        },
+        {
+          "id": 28,
+          "question": "How many points are typically needed to win a game of paddleball?",
+          "answer": "21 or 11",
+          "difficulty": 1
+        },
+        {
+          "id": 29,
+          "question": "What activity involves splashing in shallow beach water?",
+          "answer": "Wading or swimming",
+          "difficulty": 1
+        },
+        {
+          "id": 30,
+          "question": "Which beach game can be played with a stick and a stone?",
+          "answer": "Bocce ball or cornhole",
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Easy",
+      "value": 200,
+      "questions": [
+        {
+          "id": 31,
+          "question": "In what year was beach volleyball first played as a competitive sport?",
+          "answer": "1915 or 1920s",
+          "difficulty": 2
+        },
+        {
+          "id": 32,
+          "question": "What is the official size of a beach volleyball court?",
+          "answer": "8 meters by 16 meters",
+          "difficulty": 2
+        },
+        {
+          "id": 33,
+          "question": "How many times can a team touch the ball before it crosses the net in volleyball?",
+          "answer": "Three",
+          "difficulty": 2
+        },
+        {
+          "id": 34,
+          "question": "What was the original purpose of the frisbee before it became a sport?",
+          "answer": "A pie tin from Frisbie Pie Company",
+          "difficulty": 2
+        },
+        {
+          "id": 35,
+          "question": "In Ultimate Frisbee, what is the objective?",
+          "answer": "Score touchdowns by catching the disc in the end zone",
+          "difficulty": 2
+        },
+        {
+          "id": 36,
+          "question": "What is the diameter of a standard regulation frisbee?",
+          "answer": "About 10 inches or 27 centimeters",
+          "difficulty": 2
+        },
+        {
+          "id": 37,
+          "question": "In paddleball, what type of racket is used?",
+          "answer": "A wooden paddle with holes",
+          "difficulty": 2
+        },
+        {
+          "id": 38,
+          "question": "How many innings are played in beach baseball?",
+          "answer": "Varies, typically 5 or 7",
+          "difficulty": 2
+        },
+        {
+          "id": 39,
+          "question": "What game is similar to handball but played with a paddle on the beach?",
+          "answer": "Paddleball or paddle tennis",
+          "difficulty": 2
+        },
+        {
+          "id": 40,
+          "question": "In beach volleyball, what is the height of the net for men?",
+          "answer": "2.43 meters or 8 feet",
+          "difficulty": 2
+        },
+        {
+          "id": 41,
+          "question": "What is the weight of a regulation beach volleyball?",
+          "answer": "200-260 grams",
+          "difficulty": 2
+        },
+        {
+          "id": 42,
+          "question": "In Frisbee golf, what is the target called?",
+          "answer": "A basket or pole hole",
+          "difficulty": 2
+        },
+        {
+          "id": 43,
+          "question": "How many players participate in beach tennis?",
+          "answer": "Two or four",
+          "difficulty": 2
+        },
+        {
+          "id": 44,
+          "question": "What is cornhole and where is it commonly played?",
+          "answer": "A bean bag toss game played on the beach",
+          "difficulty": 2
+        },
+        {
+          "id": 45,
+          "question": "In beach volleyball, what is a 'bump' also called?",
+          "answer": "A pass or forearm pass",
+          "difficulty": 2
+        },
+        {
+          "id": 46,
+          "question": "What is the regulation weight of a frisbee?",
+          "answer": "175 grams or about 6.2 ounces",
+          "difficulty": 2
+        },
+        {
+          "id": 47,
+          "question": "In paddleball, how many walls are involved in play?",
+          "answer": "One or two",
+          "difficulty": 2
+        },
+        {
+          "id": 48,
+          "question": "What is the purpose of sunscreen with SPF rating?",
+          "answer": "To block ultraviolet rays and prevent sunburn",
+          "difficulty": 2
+        },
+        {
+          "id": 49,
+          "question": "In beach volleyball, what does it mean when the ball is set?",
+          "answer": "Positioned for a spike",
+          "difficulty": 2
+        },
+        {
+          "id": 50,
+          "question": "What are the holes in a paddleball paddle designed to do?",
+          "answer": "Reduce air resistance and improve speed",
+          "difficulty": 2
+        },
+        {
+          "id": 51,
+          "question": "In Frisbee, what is a 'slam dunk' equivalent called?",
+          "answer": "A spike or hammer throw",
+          "difficulty": 2
+        },
+        {
+          "id": 52,
+          "question": "What beach game involves a small ball and shallow holes in sand?",
+          "answer": "Bocce ball",
+          "difficulty": 2
+        },
+        {
+          "id": 53,
+          "question": "In beach volleyball, what is a 'block'?",
+          "answer": "Using your hands to stop the ball at the net",
+          "difficulty": 2
+        },
+        {
+          "id": 54,
+          "question": "How many times can you throw a frisbee in Ultimate before scoring?",
+          "answer": "As many as needed without running",
+          "difficulty": 2
+        },
+        {
+          "id": 55,
+          "question": "What is the name of the beach sport that combines tennis and paddleball?",
+          "answer": "Paddle tennis or pop tennis",
+          "difficulty": 2
+        },
+        {
+          "id": 56,
+          "question": "In beach volleyball, what is a 'spike'?",
+          "answer": "A forceful downward hit of the ball",
+          "difficulty": 2
+        },
+        {
+          "id": 57,
+          "question": "What material were early frisbees made from?",
+          "answer": "Plastic",
+          "difficulty": 2
+        },
+        {
+          "id": 58,
+          "question": "In paddleball, what is the size of the playing area typically?",
+          "answer": "30 feet long",
+          "difficulty": 2
+        },
+        {
+          "id": 59,
+          "question": "What is the beach sport where players throw rings at stakes?",
+          "answer": "Horseshoes",
+          "difficulty": 2
+        },
+        {
+          "id": 60,
+          "question": "In beach volleyball, how long is a timeout?",
+          "answer": "30 seconds",
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "name": "Intermediate",
+      "value": 300,
+      "questions": [
+        {
+          "id": 61,
+          "question": "What is the official sport governing body for beach volleyball called?",
+          "answer": "FIVB or International Volleyball Federation",
+          "difficulty": 3
+        },
+        {
+          "id": 62,
+          "question": "In what Olympics did beach volleyball first become an official sport?",
+          "answer": "1996 in Atlanta",
+          "difficulty": 3
+        },
+        {
+          "id": 63,
+          "question": "What is the technique called when a player sets a frisbee with two hands on their chest?",
+          "answer": "A chest set or trap",
+          "difficulty": 3
+        },
+        {
+          "id": 64,
+          "question": "In Ultimate Frisbee, what happens if the disc hits the ground?",
+          "answer": "Possession changes to the other team",
+          "difficulty": 3
+        },
+        {
+          "id": 65,
+          "question": "What is the proper grip for throwing a forehand disc shot?",
+          "answer": "Pinching the disc with thumb underneath and fingers on top",
+          "difficulty": 3
+        },
+        {
+          "id": 66,
+          "question": "In beach volleyball, what is the name of the rotating serving position?",
+          "answer": "The right back or back right position",
+          "difficulty": 3
+        },
+        {
+          "id": 67,
+          "question": "What is the penalty for a double touch in beach volleyball?",
+          "answer": "Loss of the rally or point to opposing team",
+          "difficulty": 3
+        },
+        {
+          "id": 68,
+          "question": "In paddleball, what serves as the boundary line?",
+          "answer": "A line on the beach or a marked area",
+          "difficulty": 3
+        },
+        {
+          "id": 69,
+          "question": "What is the backhand throw technique in frisbee called?",
+          "answer": "A backhand or flick throw",
+          "difficulty": 3
+        },
+        {
+          "id": 70,
+          "question": "In beach volleyball, what is the 'libero' position?",
+          "answer": "A defensive specialist who can substitute freely",
+          "difficulty": 3
+        },
+        {
+          "id": 71,
+          "question": "What is the recommended daily limit for sun exposure at the beach?",
+          "answer": "15 minutes without sunscreen",
+          "difficulty": 3
+        },
+        {
+          "id": 72,
+          "question": "In Ultimate Frisbee, how many points make up a match?",
+          "answer": "15 or 17 depending on tournament",
+          "difficulty": 3
+        },
+        {
+          "id": 73,
+          "question": "What is the proper stance for hitting a paddleball?",
+          "answer": "Feet shoulder-width apart, paddle up and ready",
+          "difficulty": 3
+        },
+        {
+          "id": 74,
+          "question": "In beach volleyball, what is the minimum number of rotations in a match?",
+          "answer": "At least two",
+          "difficulty": 3
+        },
+        {
+          "id": 75,
+          "question": "What technique allows a frisbee to curve or turn mid-flight?",
+          "answer": "Adjusting the angle of attack or spin",
+          "difficulty": 3
+        },
+        {
+          "id": 76,
+          "question": "In paddleball, what is the service area called?",
+          "answer": "The service box",
+          "difficulty": 3
+        },
+        {
+          "id": 77,
+          "question": "What is the rule in Ultimate Frisbee when a stall is called?",
+          "answer": "The thrower must release within 10 seconds",
+          "difficulty": 3
+        },
+        {
+          "id": 78,
+          "question": "In beach volleyball, what is a 'side-out'?",
+          "answer": "When the receiving team wins the rally and gets to serve",
+          "difficulty": 3
+        },
+        {
+          "id": 79,
+          "question": "What is the proper technique for a backhand frisbee throw?",
+          "answer": "Flicking the wrist with the disc held at chest level",
+          "difficulty": 3
+        },
+        {
+          "id": 80,
+          "question": "In paddleball scoring, what score comes after 15?",
+          "answer": "20",
+          "difficulty": 3
+        },
+        {
+          "id": 81,
+          "question": "What is the minimum SPF level recommended for beach sunscreen?",
+          "answer": "30",
+          "difficulty": 3
+        },
+        {
+          "id": 82,
+          "question": "In beach volleyball, what is the depth of the attack line?",
+          "answer": "3 meters from the net",
+          "difficulty": 3
+        },
+        {
+          "id": 83,
+          "question": "What causes a frisbee to hover or float in the air?",
+          "answer": "The angle of release and spin",
+          "difficulty": 3
+        },
+        {
+          "id": 84,
+          "question": "In Ultimate Frisbee, what is the 'end zone'?",
+          "answer": "The scoring area at each end of the field",
+          "difficulty": 3
+        },
+        {
+          "id": 85,
+          "question": "What is the official regulation size of a paddleball court?",
+          "answer": "30 feet by 20 feet",
+          "difficulty": 3
+        },
+        {
+          "id": 86,
+          "question": "In beach volleyball, what does the term 'kill' mean?",
+          "answer": "An unreturnable attack shot",
+          "difficulty": 3
+        },
+        {
+          "id": 87,
+          "question": "What is the technique called when catching a frisbee with one hand?",
+          "answer": "A one-handed catch or grab",
+          "difficulty": 3
+        },
+        {
+          "id": 88,
+          "question": "In paddleball, what is a 'fault'?",
+          "answer": "An invalid serve",
+          "difficulty": 3
+        },
+        {
+          "id": 89,
+          "question": "What is the ideal wind condition for frisbee flight?",
+          "answer": "Light wind from 0-10 mph",
+          "difficulty": 3
+        },
+        {
+          "id": 90,
+          "question": "In beach volleyball, what is the height of the net for women?",
+          "answer": "2.24 meters or 7 feet 4 inches",
+          "difficulty": 3
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "name": "Challenging",
+      "value": 400,
+      "questions": [
+        {
+          "id": 91,
+          "question": "What is the aerodynamic principle that keeps a frisbee stable in flight?",
+          "answer": "Gyroscopic precession",
+          "difficulty": 4
+        },
+        {
+          "id": 92,
+          "question": "In beach volleyball, what is the FIVB tournament format called?",
+          "answer": "World Tour or Pro Circuit",
+          "difficulty": 4
+        },
+        {
+          "id": 93,
+          "question": "What is the regulation air pressure for a beach volleyball?",
+          "answer": "0.30-0.325 kg/cm2",
+          "difficulty": 4
+        },
+        {
+          "id": 94,
+          "question": "In Ultimate Frisbee strategy, what is 'zone defense'?",
+          "answer": "Players defend an area rather than individual opponents",
+          "difficulty": 4
+        },
+        {
+          "id": 95,
+          "question": "What biomechanical factor is most critical in paddleball accuracy?",
+          "answer": "Shoulder rotation and follow-through",
+          "difficulty": 4
+        },
+        {
+          "id": 96,
+          "question": "In beach volleyball, what is the maximum allowable net height variance?",
+          "answer": "2 centimeters",
+          "difficulty": 4
+        },
+        {
+          "id": 97,
+          "question": "What is the technical term for the curved path of a frisbee influenced by spin?",
+          "answer": "Magnus effect",
+          "difficulty": 4
+        },
+        {
+          "id": 98,
+          "question": "In paddleball, what is the proper technique for a defensive drop shot?",
+          "answer": "Soft touch with shortened swing near the net",
+          "difficulty": 4
+        },
+        {
+          "id": 99,
+          "question": "In beach volleyball, what is the rule for simultaneous contact with the ball?",
+          "answer": "One point each, simultaneous rally continues",
+          "difficulty": 4
+        },
+        {
+          "id": 100,
+          "question": "What conditioning exercise is most beneficial for beach volleyball players?",
+          "answer": "Plyometric training and sand running",
+          "difficulty": 4
+        },
+        {
+          "id": 101,
+          "question": "In Ultimate Frisbee, what is the 'mark' position in defense?",
+          "answer": "The defensive player covering the thrower",
+          "difficulty": 4
+        },
+        {
+          "id": 102,
+          "question": "What is the coefficient of restitution for a regulation frisbee?",
+          "answer": "Approximately 0.5-0.7",
+          "difficulty": 4
+        },
+        {
+          "id": 103,
+          "question": "In beach volleyball, what is 'pace of play' in professional matches?",
+          "answer": "25 seconds between serves",
+          "difficulty": 4
+        },
+        {
+          "id": 104,
+          "question": "What psychological technique helps athletes focus during beach games?",
+          "answer": "Visualization or mental imagery",
+          "difficulty": 4
+        },
+        {
+          "id": 105,
+          "question": "In paddleball, what is the optimal paddle material for power?",
+          "answer": "Composite or modern materials",
+          "difficulty": 4
+        },
+        {
+          "id": 106,
+          "question": "In beach volleyball, what is the term for a solo block attempt?",
+          "answer": "A single block",
+          "difficulty": 4
+        },
+        {
+          "id": 107,
+          "question": "What is the optimal release angle for a maximum distance frisbee throw?",
+          "answer": "Approximately 35-45 degrees",
+          "difficulty": 4
+        },
+        {
+          "id": 108,
+          "question": "In beach volleyball, what is the 'digging' technique?",
+          "answer": "A low pass made close to the ground",
+          "difficulty": 4
+        },
+        {
+          "id": 109,
+          "question": "In Ultimate Frisbee, what is 'hanging' a disc?",
+          "answer": "Throwing high and soft for a receiver to run under",
+          "difficulty": 4
+        },
+        {
+          "id": 110,
+          "question": "What muscle groups are primarily engaged in paddleball serving?",
+          "answer": "Shoulders, core, and legs",
+          "difficulty": 4
+        },
+        {
+          "id": 111,
+          "question": "In beach volleyball, what is the rule for touching the net?",
+          "answer": "Constitutes a fault on that team",
+          "difficulty": 4
+        },
+        {
+          "id": 112,
+          "question": "What aerodynamic property determines frisbee flight distance?",
+          "answer": "Lift-to-drag ratio",
+          "difficulty": 4
+        },
+        {
+          "id": 113,
+          "question": "In paddleball, what is the strategy of hitting to the opponent's weaker side called?",
+          "answer": "Targeting or playing to weakness",
+          "difficulty": 4
+        },
+        {
+          "id": 114,
+          "question": "In beach volleyball, what is the minimum court length for official tournaments?",
+          "answer": "16 meters",
+          "difficulty": 4
+        },
+        {
+          "id": 115,
+          "question": "What is the relationship between frisbee weight and stability?",
+          "answer": "Lighter discs are more affected by wind",
+          "difficulty": 4
+        },
+        {
+          "id": 116,
+          "question": "In Ultimate Frisbee, what is the 'reset' throw?",
+          "answer": "A pass back toward the end zone to maintain possession",
+          "difficulty": 4
+        },
+        {
+          "id": 117,
+          "question": "In beach volleyball, what is the technical term for a 'dink'?",
+          "answer": "A soft touch net shot",
+          "difficulty": 4
+        },
+        {
+          "id": 118,
+          "question": "What physiological benefit does beach sand provide compared to hard courts?",
+          "answer": "Better shock absorption and reduced joint impact",
+          "difficulty": 4
+        },
+        {
+          "id": 119,
+          "question": "In paddleball, what is the 'cutthroat' variation?",
+          "answer": "Three-player rotation where losers rotate out",
+          "difficulty": 4
+        },
+        {
+          "id": 120,
+          "question": "In beach volleyball, what is the maximum number of timeouts per set?",
+          "answer": "Two",
+          "difficulty": 4
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "name": "Expert",
+      "value": 500,
+      "questions": [
+        {
+          "id": 121,
+          "question": "What is the specific angular velocity required for optimal frisbee flight?",
+          "answer": "Approximately 1400-1800 RPM",
+          "difficulty": 5
+        },
+        {
+          "id": 122,
+          "question": "In beach volleyball, what is the Bernoulli principle's effect on play?",
+          "answer": "It affects ball trajectory and movement patterns",
+          "difficulty": 5
+        },
+        {
+          "id": 123,
+          "question": "What is the historical origin of modern frisbee disc design?",
+          "answer": "Wham-O company 1957 based on Frisbie Pie Tin shape",
+          "difficulty": 5
+        },
+        {
+          "id": 124,
+          "question": "In paddleball, what is the mechanical advantage of the perforated paddle design?",
+          "answer": "Reduced air resistance and increased rotational acceleration",
+          "difficulty": 5
+        },
+        {
+          "id": 125,
+          "question": "In beach volleyball, what is the physiology of sand resistance training?",
+          "answer": "Increased muscle recruitment and proprioceptive demand",
+          "difficulty": 5
+        },
+        {
+          "id": 126,
+          "question": "What is the critical angle of attack for frisbee stability?",
+          "answer": "Between 5-15 degrees for stable flight",
+          "difficulty": 5
+        },
+        {
+          "id": 127,
+          "question": "In Ultimate Frisbee, what is the 'point' as defined by official rules?",
+          "answer": "A goal scored when a team member catches the disc in the end zone",
+          "difficulty": 5
+        },
+        {
+          "id": 128,
+          "question": "In beach volleyball, what is the biomechanical advantage of two-person play?",
+          "answer": "Reduced court coverage requiring more vertical jumping power",
+          "difficulty": 5
+        },
+        {
+          "id": 129,
+          "question": "What material composition is used in professional-grade frisbees?",
+          "answer": "Polycarbonate or specialized polymer compounds",
+          "difficulty": 5
+        },
+        {
+          "id": 130,
+          "question": "In paddleball serve technique, what is the critical moment called?",
+          "answer": "Point of contact or impact zone",
+          "difficulty": 5
+        },
+        {
+          "id": 131,
+          "question": "In beach volleyball, what is the energy expenditure compared to indoor volleyball?",
+          "answer": "Approximately 1.5-2 times higher due to sand resistance",
+          "difficulty": 5
+        },
+        {
+          "id": 132,
+          "question": "What is the relationship between frisbee disc diameter and flight stability?",
+          "answer": "Larger diameter increases stability but reduces distance",
+          "difficulty": 5
+        },
+        {
+          "id": 133,
+          "question": "In Ultimate Frisbee strategy, what is the 'trap' formation?",
+          "answer": "A defensive alignment to contain the offensive threat",
+          "difficulty": 5
+        },
+        {
+          "id": 134,
+          "question": "In beach volleyball, what is the mechanical efficiency of jump height?",
+          "answer": "Affected by sand decompression and energy absorption",
+          "difficulty": 5
+        },
+        {
+          "id": 135,
+          "question": "What is the laminar flow characteristic of professional frisbees?",
+          "answer": "Maintains smooth air boundary layer for extended flight",
+          "difficulty": 5
+        },
+        {
+          "id": 136,
+          "question": "In paddleball, what is the kinetic energy transfer in power shots?",
+          "answer": "Generated through legs, core, and shoulder sequencing",
+          "difficulty": 5
+        },
+        {
+          "id": 137,
+          "question": "In beach volleyball, what is the sand impact force on joints?",
+          "answer": "Reduced compared to hard courts due to cushioning effect",
+          "difficulty": 5
+        },
+        {
+          "id": 138,
+          "question": "What is the precision tolerance for frisbee disc manufacturing?",
+          "answer": "Within 1-2 millimeter tolerances",
+          "difficulty": 5
+        },
+        {
+          "id": 139,
+          "question": "In Ultimate Frisbee, what is the technical aspect of 'pivoting'?",
+          "answer": "Moving one foot while keeping the other planted",
+          "difficulty": 5
+        },
+        {
+          "id": 140,
+          "question": "In beach volleyball, what is the deceleration rate of the ball in sand?",
+          "answer": "Approximately 3-5 times faster than hard courts",
+          "difficulty": 5
+        },
+        {
+          "id": 141,
+          "question": "What is the center of pressure location on an optimized frisbee?",
+          "answer": "Slightly behind the center of gravity for stability",
+          "difficulty": 5
+        },
+        {
+          "id": 142,
+          "question": "In paddleball, what is the advantage of early paddle preparation?",
+          "answer": "Increased reaction time and better shot selection",
+          "difficulty": 5
+        },
+        {
+          "id": 143,
+          "question": "In beach volleyball, what is the correlation between sand depth and injury risk?",
+          "answer": "Deeper sand provides more cushioning and reduces injury",
+          "difficulty": 5
+        },
+        {
+          "id": 144,
+          "question": "What is the drag coefficient for a standard regulation frisbee?",
+          "answer": "Approximately 0.08-0.12",
+          "difficulty": 5
+        },
+        {
+          "id": 145,
+          "question": "In Ultimate Frisbee offense, what is the 'horizontal stack'?",
+          "answer": "Players aligned in a line perpendicular to the sideline",
+          "difficulty": 5
+        },
+        {
+          "id": 146,
+          "question": "In beach volleyball, what is the anaerobic power requirement per rally?",
+          "answer": "High intensity efforts lasting 5-30 seconds",
+          "difficulty": 5
+        },
+        {
+          "id": 147,
+          "question": "What is the lift coefficient of a properly thrown frisbee?",
+          "answer": "Between 0.5-1.0 depending on angle of attack",
+          "difficulty": 5
+        },
+        {
+          "id": 148,
+          "question": "In paddleball, what is the role of wrist snap in accuracy?",
+          "answer": "Provides final velocity adjustment and spin control",
+          "difficulty": 5
+        },
+        {
+          "id": 149,
+          "question": "In beach volleyball, what is the metabolic demand classification?",
+          "answer": "High intermittent intensity sport with power demands",
+          "difficulty": 5
+        },
+        {
+          "id": 150,
+          "question": "What is the relationship between frisbee spin rate and flight distance?",
+          "answer": "Optimal range exists; too much or too little reduces distance",
+          "difficulty": 5
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "Master",
+      "value": 600,
+      "questions": [
+        {
+          "id": 151,
+          "question": "What is the mathematical formula for calculating frisbee trajectory including Magnus force?",
+          "answer": "Six-degree-of-freedom equations with lift, drag, and Magnus components",
+          "difficulty": 6
+        },
+        {
+          "id": 152,
+          "question": "In beach volleyball, what is the quantitative analysis of court positioning variance?",
+          "answer": "Players average 2-3 meters from net depending on phase",
+          "difficulty": 6
+        },
+        {
+          "id": 153,
+          "question": "What is the comprehensive physics model for frisbee aerodynamics?",
+          "answer": "Computational fluid dynamics with boundary layer separation analysis",
+          "difficulty": 6
+        },
+        {
+          "id": 154,
+          "question": "In paddleball, what is the mathematical relationship between spin and trajectory curvature?",
+          "answer": "Spin rate correlates inversely with trajectory radius",
+          "difficulty": 6
+        },
+        {
+          "id": 155,
+          "question": "In beach volleyball, what is the biomechanical efficiency of explosive vertical loading?",
+          "answer": "Peak force generation occurs at 40% of ground contact time",
+          "difficulty": 6
+        },
+        {
+          "id": 156,
+          "question": "What is the advanced control mechanism for frisbee flight at different Reynolds numbers?",
+          "answer": "Shift from form drag dominance to friction drag as velocity changes",
+          "difficulty": 6
+        },
+        {
+          "id": 157,
+          "question": "In Ultimate Frisbee, what is the game theory optimization of spacing and movement?",
+          "answer": "Mixed strategy equilibrium maximizing offensive options while minimizing defense",
+          "difficulty": 6
+        },
+        {
+          "id": 158,
+          "question": "In beach volleyball, what is the neuromuscular coordination for sand-specific balance?",
+          "answer": "Enhanced proprioceptive feedback with increased ankle stabilizer activation",
+          "difficulty": 6
+        },
+        {
+          "id": 159,
+          "question": "What is the advanced metallurgical consideration for paddleball paddle construction?",
+          "answer": "Carbon fiber reinforced polymers with specific stiffness ratings",
+          "difficulty": 6
+        },
+        {
+          "id": 160,
+          "question": "In beach volleyball, what is the statistical model for rally length distribution?",
+          "answer": "Exponential decay pattern with mean rally duration of 8-12 seconds",
+          "difficulty": 6
+        },
+        {
+          "id": 161,
+          "question": "What is the computational modeling of frisbee wake effects in formation flying?",
+          "answer": "Vortex interaction analysis demonstrating energy conservation",
+          "difficulty": 6
+        },
+        {
+          "id": 162,
+          "question": "In paddleball, what is the kinematic analysis of optimal swing mechanics?",
+          "answer": "Sequential proximal-to-distal energy transfer with 65-70% contribution from legs",
+          "difficulty": 6
+        },
+        {
+          "id": 163,
+          "question": "In beach volleyball, what is the multivariate analysis of winning correlations?",
+          "answer": "Block success and service efficiency show strongest predictive value",
+          "difficulty": 6
+        },
+        {
+          "id": 164,
+          "question": "What is the advanced polymer science of modern frisbee disc materials?",
+          "answer": "Viscoelastic polymers with temperature-dependent mechanical properties",
+          "difficulty": 6
+        },
+        {
+          "id": 165,
+          "question": "In Ultimate Frisbee, what is the advanced tactical geometry of field positioning?",
+          "answer": "Voronoi diagram analysis for optimal spacing and coverage",
+          "difficulty": 6
+        },
+        {
+          "id": 166,
+          "question": "In beach volleyball, what is the biomechanical analysis of net approach footwork?",
+          "answer": "Two-step vs three-step approach with timing coordination to setter",
+          "difficulty": 6
+        },
+        {
+          "id": 167,
+          "question": "What is the high-speed video analysis frame rate needed for frisbee flight study?",
+          "answer": "Minimum 1000 fps for accurate spin and trajectory capture",
+          "difficulty": 6
+        },
+        {
+          "id": 168,
+          "question": "In paddleball, what is the mechanical energy efficiency calculation for power generation?",
+          "answer": "Approximately 60-70% of muscle potential energy transfers to ball",
+          "difficulty": 6
+        },
+        {
+          "id": 169,
+          "question": "In beach volleyball, what is the advanced sand mechanics of impact absorption?",
+          "answer": "Shear stress distribution reduces ground reaction forces by 20-30%",
+          "difficulty": 6
+        },
+        {
+          "id": 170,
+          "question": "What is the turbulence modeling approach for frisbee air flow prediction?",
+          "answer": "k-epsilon or k-omega RANS models with wall functions",
+          "difficulty": 6
+        },
+        {
+          "id": 171,
+          "question": "In Ultimate Frisbee, what is the advanced statistical analysis of turnover probability?",
+          "answer": "Decreases 3% per successful completion in sequence chain",
+          "difficulty": 6
+        },
+        {
+          "id": 172,
+          "question": "In beach volleyball, what is the multivariate equation for power prediction?",
+          "answer": "Function of leg strength, shoulder flexibility, and sand resistance",
+          "difficulty": 6
+        },
+        {
+          "id": 173,
+          "question": "What is the materials science approach to temperature effects on frisbee performance?",
+          "answer": "Glass transition temperature affects elasticity and flight characteristics",
+          "difficulty": 6
+        },
+        {
+          "id": 174,
+          "question": "In paddleball, what is the quantitative measurement of sweet spot size?",
+          "answer": "Approximately 4-6 square inches of center area",
+          "difficulty": 6
+        },
+        {
+          "id": 175,
+          "question": "In beach volleyball, what is the network analysis of player positioning patterns?",
+          "answer": "Cluster analysis reveals 3-4 distinct court zones with specific roles",
+          "difficulty": 6
+        },
+        {
+          "id": 176,
+          "question": "What is the advanced aerodynamic analysis of frisbee edge shape effects?",
+          "answer": "Beveled edges alter boundary layer separation and reduce drag",
+          "difficulty": 6
+        },
+        {
+          "id": 177,
+          "question": "In Ultimate Frisbee, what is the probabilistic game model for optimal throwing strategy?",
+          "answer": "Markov chain analysis of possession state transitions",
+          "difficulty": 6
+        },
+        {
+          "id": 178,
+          "question": "In beach volleyball, what is the physiological model of muscular adaptation to sand?",
+          "answer": "Increased type II fiber recruitment and enhanced neural drive",
+          "difficulty": 6
+        },
+        {
+          "id": 179,
+          "question": "What is the finite element analysis of paddleball paddle flex dynamics?",
+          "answer": "Validates strain distribution and identifies optimal thickness ratios",
+          "difficulty": 6
+        },
+        {
+          "id": 180,
+          "question": "In beach volleyball, what is the comprehensive injury epidemiology across professional levels?",
+          "answer": "Ankle and shoulder injuries represent 60% of total; sand reduces anterior knee injuries",
+          "difficulty": 6
+        }
+      ]
+    }
+  ]
+}

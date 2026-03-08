@@ -1,0 +1,1664 @@
+{
+  "category": "Birthday Milestone Ages",
+  "description": "Jeopardy questions about special ages (1st, 13th, 16th, 18th, 21st), coming of age traditions, rites of passage, and cultural transitions",
+  "total_questions": 180,
+  "difficulty_levels": 5,
+  "questions_per_level": 36,
+  "audiences": ["kids", "teens", "adults", "seniors", "expert"],
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "First Birthday",
+      "question": "At what age does a baby typically celebrate their first birthday milestone?",
+      "answer": "One year old",
+      "explanation": "The first birthday marks 12 months of life and is celebrated as a major family milestone."
+    },
+    {
+      "id": 2,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Traditions",
+      "question": "What is commonly placed on a birthday cake for someone turning 1?",
+      "answer": "A single candle",
+      "explanation": "A single candle represents the child's first year of life and is a traditional birthday cake decoration."
+    },
+    {
+      "id": 3,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Developmental Milestones",
+      "question": "At their first birthday, many babies can do what with solid foods?",
+      "answer": "Eat them / Start eating solid foods",
+      "explanation": "Around one year old, infants typically begin eating solid foods and can use finger foods to feed themselves."
+    },
+    {
+      "id": 4,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "First Birthday",
+      "question": "What event is often celebrated for children at ages 3, 5, and 7 in Japan?",
+      "answer": "Shichi-go-san (Seven-Five-Three)",
+      "explanation": "Shichi-go-san is a Japanese celebration held on November 15 for children reaching these milestone ages."
+    },
+    {
+      "id": 5,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age Traditions",
+      "question": "In many cultures, a child's first birthday is celebrated with what type of gathering?",
+      "answer": "A party / A family celebration",
+      "explanation": "First birthdays are traditionally celebrated with parties, family gatherings, and special food."
+    },
+    {
+      "id": 6,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Developmental Milestones",
+      "question": "By their first birthday, most children can typically do what with their legs?",
+      "answer": "Stand / Walk or try to walk",
+      "explanation": "Around one year old, many children begin walking or attempting to walk as a major developmental milestone."
+    },
+    {
+      "id": 7,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "First Birthday",
+      "question": "What type of photo shoot is popular for celebrating a baby's first year?",
+      "answer": "A milestone photo shoot / Monthly photos",
+      "explanation": "Many families take monthly photos to document a baby's growth during their first year of life."
+    },
+    {
+      "id": 8,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Traditions",
+      "question": "In Nigeria, a child's first birthday is celebrated with how many guests?",
+      "answer": "Dozens or hundreds / Many guests",
+      "explanation": "In Nigerian culture, a child's first birthday is celebrated almost like a wedding with extensive guest lists."
+    },
+    {
+      "id": 9,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Developmental Milestones",
+      "question": "At their first birthday, what major speech development milestone do many babies achieve?",
+      "answer": "Speaking their first words / Saying words",
+      "explanation": "Around one year old, babies typically begin speaking their first words as a language development milestone."
+    },
+    {
+      "id": 10,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "First Birthday",
+      "question": "What is the traditional name for the Japanese celebration of children aged 3, 5, and 7?",
+      "answer": "Shichi-go-san",
+      "explanation": "This translates to 'seven-five-three' and celebrates these important ages in Japanese culture."
+    },
+    {
+      "id": 11,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Milestones",
+      "question": "In many Western cultures, how old is a teenager when they reach their 13th birthday?",
+      "answer": "Thirteen years old",
+      "explanation": "The 13th birthday marks the beginning of the teenage years in many cultures."
+    },
+    {
+      "id": 12,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age Traditions",
+      "question": "What Jewish coming-of-age ceremony happens at age 13 for boys?",
+      "answer": "Bar Mitzvah",
+      "explanation": "Bar Mitzvah is a Jewish religious ceremony marking when a boy becomes responsible for following Jewish law."
+    },
+    {
+      "id": 13,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age Traditions",
+      "question": "What is the equivalent Bar Mitzvah ceremony called for girls?",
+      "answer": "Bat Mitzvah",
+      "explanation": "Bat Mitzvah is the female equivalent of Bar Mitzvah, celebrated when girls reach age 12 or 13."
+    },
+    {
+      "id": 14,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Milestones",
+      "question": "At age 13, a Bar or Bat Mitzvah student must prepare to read from what religious text?",
+      "answer": "The Torah",
+      "explanation": "Bar and Bat Mitzvah students spend months preparing to read from the Torah during their ceremony."
+    },
+    {
+      "id": 15,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Developmental Milestones",
+      "question": "What major physical change typically occurs around age 13 in teenagers?",
+      "answer": "Puberty",
+      "explanation": "Age 13 is typically when teenagers begin or are in the midst of puberty and physical development."
+    },
+    {
+      "id": 16,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age Traditions",
+      "question": "What is celebrated in Latin America for a girl turning 15 years old?",
+      "answer": "Quinceañera",
+      "explanation": "The Quinceañera is a major coming-of-age celebration in Latin America marking a girl's 15th birthday."
+    },
+    {
+      "id": 17,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Milestones",
+      "question": "What age traditionally marks the transition from childhood to the teenage years?",
+      "answer": "13 years old",
+      "explanation": "The 13th birthday is commonly recognized as when childhood transitions to the teenage years."
+    },
+    {
+      "id": 18,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Developmental Milestones",
+      "question": "What major social development happens around age 13 as teenagers become more peer-focused?",
+      "answer": "Friendships become more important / Increased social awareness",
+      "explanation": "Around age 13, teenagers typically become more focused on their peer relationships and friendships."
+    },
+    {
+      "id": 19,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age Traditions",
+      "question": "In what country is the coming-of-age ceremony called Seijin Shiki celebrated at age 20?",
+      "answer": "Japan",
+      "explanation": "Seijin Shiki, held on the second Monday of January, celebrates young people who turn 20 in Japan."
+    },
+    {
+      "id": 20,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Milestones",
+      "question": "What is a popular party theme for a girl's 13th birthday celebration?",
+      "answer": "Teen party / Sweet thirteen",
+      "explanation": "13th birthday parties often celebrate the transition to teenage years with themed parties."
+    },
+    {
+      "id": 21,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Sweet 16 Traditions",
+      "question": "What major coming-of-age celebration is traditionally held for an American girl turning 16?",
+      "answer": "Sweet Sixteen party",
+      "explanation": "A Sweet Sixteen party symbolizes a move toward more freedom and responsibility for teenage girls."
+    },
+    {
+      "id": 22,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Legal Milestones",
+      "question": "At age 16, what major privilege is typically granted in most U.S. states?",
+      "answer": "Getting a driver's license / Driving",
+      "explanation": "Age 16 is typically when teenagers can obtain a driver's license in most U.S. states."
+    },
+    {
+      "id": 23,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Developmental Milestones",
+      "question": "What major cognitive development occurs in teenagers around age 15-17?",
+      "answer": "Abstract thinking / Higher-order thinking skills",
+      "explanation": "Teenagers develop more sophisticated abstract thinking and reasoning abilities during this period."
+    },
+    {
+      "id": 24,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Sweet 16 Traditions",
+      "question": "What Victorian-era tradition evolved into the modern-day Sweet Sixteen party?",
+      "answer": "Debutante ball / Debutante presentation",
+      "explanation": "Debutante balls were Victorian society events where young women were presented to society, evolving into Sweet 16 parties."
+    },
+    {
+      "id": 25,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Coming of Age Traditions",
+      "question": "In what country is the 15th birthday of a girl celebrated with the Quinceañera tradition?",
+      "answer": "Latin America (or specific countries like Mexico, Puerto Rico, etc.)",
+      "explanation": "The Quinceañera is celebrated throughout Latin America and among Latin American communities."
+    },
+    {
+      "id": 26,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Quinceañera Traditions",
+      "question": "What symbolic ritual takes place during a Quinceañera where the girl changes her footwear?",
+      "answer": "The Changing of the Shoes / Shoe exchange",
+      "explanation": "The father traditionally removes the girl's flat shoes and replaces them with high heels, symbolizing maturity."
+    },
+    {
+      "id": 27,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Sweet 16 Traditions",
+      "question": "What type of formal gown is typically worn at a Sweet Sixteen party?",
+      "answer": "A ball gown / Formal dress",
+      "explanation": "Sweet Sixteen parties often feature formal ball gowns similar to prom attire."
+    },
+    {
+      "id": 28,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Legal Milestones",
+      "question": "In most U.S. states, what is the age of consent (legal age for certain decisions)?",
+      "answer": "16 or 18 years old (depending on state)",
+      "explanation": "Age of consent varies by state but is typically between 16 and 18 years old."
+    },
+    {
+      "id": 29,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Developmental Milestones",
+      "question": "What major identity development challenge do teenagers face around ages 15-17?",
+      "answer": "Identity formation / Finding their sense of self",
+      "explanation": "Teenagers develop a clearer sense of identity and personal values during these formative years."
+    },
+    {
+      "id": 30,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Quinceañera Traditions",
+      "question": "What religious component traditionally begins a Quinceañera celebration?",
+      "answer": "A Catholic Mass / Renewal of baptismal vows",
+      "explanation": "A Quinceañera traditionally begins with a Catholic Mass where the girl renews her baptismal vows."
+    },
+    {
+      "id": 31,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Sweet 16 Traditions",
+      "question": "What famous tradition involves receiving a key at age 16 in some cultures?",
+      "answer": "Turning 21 / South African tradition",
+      "explanation": "In South Africa, the 21st birthday key symbolizes freedom and adulthood, though sometimes given earlier."
+    },
+    {
+      "id": 32,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Coming of Age",
+      "question": "What major life decision often coincides with turning 16-17 for many teenagers?",
+      "answer": "Choosing a career path / Educational decisions / Considering future plans",
+      "explanation": "Teenagers around 16-17 typically begin making important decisions about their future education and careers."
+    },
+    {
+      "id": 33,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Developmental Milestones",
+      "question": "What type of social awareness increases significantly in teenagers age 15-17?",
+      "answer": "Self-consciousness / Social awareness / Peer comparison",
+      "explanation": "Teenagers become increasingly aware of how they're perceived by peers and society."
+    },
+    {
+      "id": 34,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Legal Milestones",
+      "question": "In most developed countries, at what age can teenagers legally work?",
+      "answer": "14-16 years old (varies by country)",
+      "explanation": "Most countries allow limited work at ages 14-16 with restrictions on hours and type of work."
+    },
+    {
+      "id": 35,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Birthday Traditions",
+      "question": "What is typically the focal point decoration at a Sweet Sixteen party?",
+      "answer": "A tiered cake / Elaborate cake",
+      "explanation": "Sweet Sixteen parties typically feature an elaborate, multi-tiered birthday cake as a centerpiece."
+    },
+    {
+      "id": 36,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Coming of Age",
+      "question": "What major social milestone is often celebrated around age 16-17 in many cultures?",
+      "answer": "Prom / School dances",
+      "explanation": "Prom and other formal school dances are major social milestones for teenagers age 16-17."
+    },
+    {
+      "id": 37,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "18th Birthday Milestones",
+      "question": "At what age does someone legally become an adult in most U.S. states?",
+      "answer": "18 years old",
+      "explanation": "The 18th birthday marks legal adulthood in most U.S. states and many countries worldwide."
+    },
+    {
+      "id": 38,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Legal Milestones",
+      "question": "What major legal right is granted to U.S. citizens when they turn 18?",
+      "answer": "The right to vote",
+      "explanation": "The Twenty-sixth Amendment granted voting rights to citizens age 18 and older in 1971."
+    },
+    {
+      "id": 39,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "18th Birthday Traditions",
+      "question": "In the UK and many countries, what age represents the transition to legal adulthood?",
+      "answer": "18 years old",
+      "explanation": "The 18th birthday is recognized as legal adulthood in the UK, Australia, and most countries."
+    },
+    {
+      "id": 40,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Legal Milestones",
+      "question": "At age 18, what legal document can young adults sign without parental consent?",
+      "answer": "Contracts / Legal documents / Leases",
+      "explanation": "18-year-olds can legally enter into contracts, sign leases, and make binding legal agreements."
+    },
+    {
+      "id": 41,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Developmental Milestones",
+      "question": "What major life transition often occurs around age 18?",
+      "answer": "Going to college / Leaving home / Starting a career",
+      "explanation": "Age 18 is when many young adults transition to college, work, or independent living."
+    },
+    {
+      "id": 42,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "18th Birthday Traditions",
+      "question": "What popular celebratory event often marks an American teenager's 18th birthday?",
+      "answer": "An 18th birthday party / Graduation party",
+      "explanation": "The 18th birthday is often celebrated with special parties marking the transition to adulthood."
+    },
+    {
+      "id": 43,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Legal Milestones",
+      "question": "At age 18, what financial responsibility can young adults now assume?",
+      "answer": "Taking out loans / Credit cards / Financial obligations",
+      "explanation": "18-year-olds can apply for credit cards, take out loans, and assume financial responsibilities."
+    },
+    {
+      "id": 44,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Developmental Milestones",
+      "question": "What major educational milestone do many 18-year-olds reach?",
+      "answer": "High school graduation",
+      "explanation": "Most 18-year-olds complete high school and graduate, marking an important educational milestone."
+    },
+    {
+      "id": 45,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Legal Milestones",
+      "question": "In what year did the voting age in the U.S. change from 21 to 18?",
+      "answer": "1971",
+      "explanation": "The Twenty-sixth Amendment was ratified in 1971, lowering the voting age to 18."
+    },
+    {
+      "id": 46,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "18th Birthday Traditions",
+      "question": "What rite of passage is often associated with turning 18 in many Western cultures?",
+      "answer": "Becoming an adult / Gaining independence",
+      "explanation": "The 18th birthday represents a major rite of passage marking the beginning of adulthood."
+    },
+    {
+      "id": 47,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Developmental Milestones",
+      "question": "What level of brain development is typically complete by age 18?",
+      "answer": "Prefrontal cortex development continues / Most physical development is complete",
+      "explanation": "While most physical development is complete, the prefrontal cortex continues developing into the mid-20s."
+    },
+    {
+      "id": 48,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Legal Milestones",
+      "question": "At age 18, what legal document can someone obtain without parental permission?",
+      "answer": "A driver's license renewal / Passport / Legal ID",
+      "explanation": "18-year-olds can independently renew licenses and obtain legal documents without parental consent."
+    },
+    {
+      "id": 49,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "18th Birthday Traditions",
+      "question": "In many countries, what age is considered the official start of adulthood?",
+      "answer": "18 years old",
+      "explanation": "The 18th birthday is recognized as the official start of legal adulthood in most countries."
+    },
+    {
+      "id": 50,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Developmental Milestones",
+      "question": "What major responsibility often accompanies turning 18 in democratic societies?",
+      "answer": "Jury duty / Military service eligibility",
+      "explanation": "18-year-olds become eligible for jury duty and military service in many democratic countries."
+    },
+    {
+      "id": 51,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "21st Birthday Milestones",
+      "question": "In the United States, what major legal milestone is reached at age 21?",
+      "answer": "The legal drinking age",
+      "explanation": "21 is the legal minimum drinking age in all U.S. states as of 1988."
+    },
+    {
+      "id": 52,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Legal Milestones",
+      "question": "In what year did all U.S. states raise the legal drinking age to 21?",
+      "answer": "1988",
+      "explanation": "By mid-1988, all 50 states and D.C. had raised the purchase age to 21 due to the National Minimum Drinking Age Act."
+    },
+    {
+      "id": 53,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "21st Birthday Traditions",
+      "question": "What federal law in 1984 incentivized states to raise the drinking age to 21?",
+      "answer": "The National Minimum Drinking Age Act",
+      "explanation": "This law required states to raise drinking ages or lose 10% of federal highway funding."
+    },
+    {
+      "id": 54,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Coming of Age Traditions",
+      "question": "In South Africa, what symbolic gift is traditionally given at age 21?",
+      "answer": "A key",
+      "explanation": "The key symbolizes freedom, autonomy, and unlocking the door to adulthood in South African tradition."
+    },
+    {
+      "id": 55,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "21st Birthday Traditions",
+      "question": "What major social celebration often accompanies a 21st birthday in Western cultures?",
+      "answer": "A large party / Going out to bars or clubs",
+      "explanation": "The 21st birthday is often celebrated with significant parties and nightlife activities."
+    },
+    {
+      "id": 56,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Legal Milestones",
+      "question": "At age 21, what age-restricted activity becomes legal for the first time in the U.S.?",
+      "answer": "Purchasing and consuming alcohol",
+      "explanation": "The 21st birthday marks when Americans can legally purchase and consume alcoholic beverages."
+    },
+    {
+      "id": 57,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Developmental Milestones",
+      "question": "What major cognitive development is typically complete by age 21?",
+      "answer": "Prefrontal cortex development / Decision-making abilities",
+      "explanation": "Brain development, particularly the prefrontal cortex responsible for judgment, is largely complete by 21."
+    },
+    {
+      "id": 58,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "21st Birthday Traditions",
+      "question": "What is the age of legal adulthood in Mississippi, differentiating it from most other U.S. states?",
+      "answer": "21 years old",
+      "explanation": "Mississippi is unique in setting the age of majority at 21 instead of 18."
+    },
+    {
+      "id": 59,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Legal Milestones",
+      "question": "At what age could Americans legally drink before 1971?",
+      "answer": "18-21 years old (varied by state)",
+      "explanation": "Before federal standardization, drinking ages varied by state, typically between 18-21."
+    },
+    {
+      "id": 60,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Coming of Age Traditions",
+      "question": "In Japan, what ceremony celebrates the transition to adulthood at age 20?",
+      "answer": "Seijin Shiki (Coming of Age Day)",
+      "explanation": "Seijin Shiki is celebrated on the second Monday of January in Japan for those turning 20."
+    },
+    {
+      "id": 61,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "21st Birthday Traditions",
+      "question": "What major life independence is often symbolized by turning 21?",
+      "answer": "Complete adult autonomy / Full legal independence",
+      "explanation": "The 21st birthday marks complete legal independence and full adult responsibilities."
+    },
+    {
+      "id": 62,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Legal Milestones",
+      "question": "In states like Alabama and Nebraska, at what age is the age of majority set?",
+      "answer": "19 years old",
+      "explanation": "Alabama and Nebraska are unusual in setting the age of majority at 19 instead of 18."
+    },
+    {
+      "id": 63,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Coming of Age Traditions",
+      "question": "What color is traditionally worn at Seijin Shiki celebrations in Japan?",
+      "answer": "Bright colors / Colorful traditional dress",
+      "explanation": "Young people wear vibrant traditional clothing, often kimonos or hakama, at Seijin Shiki."
+    },
+    {
+      "id": 64,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "21st Birthday Traditions",
+      "question": "What major health concern prompted the push for a unified 21-year-old drinking age in the U.S.?",
+      "answer": "Traffic fatalities / Underage driving accidents",
+      "explanation": "Rising traffic death rates involving young drinkers led to the National Minimum Drinking Age Act."
+    },
+    {
+      "id": 65,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Legal Milestones",
+      "question": "What was the original legal drinking age established by the National Minimum Drinking Age Act?",
+      "answer": "21 years old",
+      "explanation": "The act standardized the drinking age at 21 across all U.S. states."
+    },
+    {
+      "id": 66,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Developmental Milestones",
+      "question": "What aspect of adult responsibility is fully assumed by age 21?",
+      "answer": "Complete legal accountability / Full criminal responsibility",
+      "explanation": "By 21, individuals are fully legally accountable for their actions without juvenile protections."
+    },
+    {
+      "id": 67,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Historical Coming of Age",
+      "question": "In ancient Rome, what ceremony marked a boy's transition to manhood around age 14-16?",
+      "answer": "Toga Virilis ceremony",
+      "explanation": "Roman boys received the toga virilis (manly toga) to mark their transition to adulthood."
+    },
+    {
+      "id": 68,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Cultural Traditions",
+      "question": "What anthropological concept describes ceremonies marking transitions from one life stage to another?",
+      "answer": "Rites of passage",
+      "explanation": "Rites of passage are ceremonial events marking transitions between social roles or life stages."
+    },
+    {
+      "id": 69,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Research",
+      "question": "According to anthropological research, what is a primary function of coming-of-age rituals?",
+      "answer": "To mark transitions and integrate individuals into society",
+      "explanation": "Coming-of-age rituals serve social and psychological functions in marking life transitions."
+    },
+    {
+      "id": 70,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Historical Coming of Age",
+      "question": "In medieval Europe, what age-based ceremony involved a young noble receiving knighthood?",
+      "answer": "Dubbing ceremony / Accolade ceremony",
+      "explanation": "Young nobles received their knighthood through a formal ceremony called dubbing."
+    },
+    {
+      "id": 71,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Bar/Bat Mitzvah Research",
+      "question": "What does 'Bar Mitzvah' literally translate to in Hebrew?",
+      "answer": "Son of the commandment",
+      "explanation": "Bar Mitzvah means 'son of the commandment,' referring to becoming responsible for Jewish law."
+    },
+    {
+      "id": 72,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Bar/Bat Mitzvah Research",
+      "question": "What does 'Bat Mitzvah' literally translate to in Hebrew?",
+      "answer": "Daughter of the commandment",
+      "explanation": "Bat Mitzvah means 'daughter of the commandment,' the female equivalent of Bar Mitzvah."
+    },
+    {
+      "id": 73,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Quinceañera Research",
+      "question": "What historical cultures influenced the development of the Quinceañera tradition?",
+      "answer": "Spanish and indigenous (Aztec/Maya) cultures",
+      "explanation": "The Quinceañera blends Spanish colonial traditions with indigenous Mesoamerican customs."
+    },
+    {
+      "id": 74,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Research",
+      "question": "In how many countries is the Quinceañera celebrated?",
+      "answer": "Throughout Latin America and among Latin American diaspora communities",
+      "explanation": "The Quinceañera is celebrated across Latin America and in Latin American communities worldwide."
+    },
+    {
+      "id": 75,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Developmental Psychology",
+      "question": "What psychological milestone does coming-of-age typically mark in adolescent development?",
+      "answer": "Identity formation and social role integration",
+      "explanation": "Coming-of-age rituals mark the psychological integration into adult social roles and identity development."
+    },
+    {
+      "id": 76,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Historical Coming of Age",
+      "question": "In ancient Jewish tradition, at what age did boys traditionally begin studying Torah in earnest?",
+      "answer": "Age 5 or 6",
+      "explanation": "Traditional Jewish education began at young ages, with Bar Mitzvah at 13 representing full responsibility."
+    },
+    {
+      "id": 77,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Sweet 16 History",
+      "question": "What Victorian-era tradition preceded the modern American Sweet 16?",
+      "answer": "Debutante balls",
+      "explanation": "Debutante balls were formal society events where young women were presented to eligible society."
+    },
+    {
+      "id": 78,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Research",
+      "question": "What role does community participation play in traditional coming-of-age ceremonies?",
+      "answer": "Community witnesses and validates the transition",
+      "explanation": "In traditional societies, community involvement in coming-of-age ceremonies affirms the individual's new status."
+    },
+    {
+      "id": 79,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Developmental Milestones",
+      "question": "What neurobiological milestone occurs during adolescence that impacts decision-making?",
+      "answer": "Prefrontal cortex development",
+      "explanation": "The prefrontal cortex, responsible for judgment and decision-making, develops throughout adolescence and into the early 20s."
+    },
+    {
+      "id": 80,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Research",
+      "question": "What is the anthropological significance of age-based transition ceremonies?",
+      "answer": "They provide social structure and mark status changes",
+      "explanation": "Age-based ceremonies provide society with clear markers for status transitions and social expectations."
+    },
+    {
+      "id": 81,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Legal History",
+      "question": "When was the Twenty-sixth Amendment to the U.S. Constitution, lowering voting age to 18, ratified?",
+      "answer": "1971",
+      "explanation": "The amendment lowering the voting age from 21 to 18 was ratified in 1971."
+    },
+    {
+      "id": 82,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Research",
+      "question": "What psychological benefit do researchers attribute to formal coming-of-age rituals?",
+      "answer": "Increased self-esteem and sense of belonging",
+      "explanation": "Research shows that formal rites of passage boost self-esteem and provide individuals with a sense of achievement and social belonging."
+    },
+    {
+      "id": 83,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Gender and Coming of Age",
+      "question": "Historically, how have coming-of-age rituals for girls differed from those for boys?",
+      "answer": "Girl rituals emphasize fertility/beauty; boy rituals emphasize strength/warrior skills",
+      "explanation": "Anthropological research shows gender-differentiated coming-of-age rituals reflecting different cultural expectations."
+    },
+    {
+      "id": 84,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Research",
+      "question": "What does research suggest about secular societies lacking formal coming-of-age rituals?",
+      "answer": "They may lack clear markers for life transitions",
+      "explanation": "Some research suggests secular societies with fewer formal rites of passage may lack clear markers for developmental transitions."
+    },
+    {
+      "id": 85,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Cultural Anthropology",
+      "question": "What term describes the universal pattern of coming-of-age rituals across cultures?",
+      "answer": "Universals in human culture",
+      "explanation": "Coming-of-age rituals appear in virtually all human societies, suggesting deep cultural universals."
+    },
+    {
+      "id": 86,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Developmental Psychology",
+      "question": "What is the primary age range for most major coming-of-age ceremonies across cultures?",
+      "answer": "Ages 10-21",
+      "explanation": "Most significant coming-of-age rituals occur between ages 10 and 21, marking the transition from childhood to adulthood."
+    },
+    {
+      "id": 87,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Developmental Psychology",
+      "question": "What neurobiological theory explains why many cultures mark coming-of-age at puberty?",
+      "answer": "Biological clock / Evolutionary timing theory",
+      "explanation": "Coming-of-age rituals often coincide with pubertal development, reflecting biologically-timed developmental transitions."
+    },
+    {
+      "id": 88,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Coming of Age Studies",
+      "question": "According to Victor Turner's anthropological theory, what are the three phases of a rite of passage?",
+      "answer": "Separation, liminality, and reincorporation",
+      "explanation": "Turner's classic model describes rites of passage as having three distinct phases: removal from society, a transitional state, and reintegration."
+    },
+    {
+      "id": 89,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Coming of Age Studies",
+      "question": "What does the 'liminal' phase of a rite of passage represent?",
+      "answer": "The threshold or in-between state",
+      "explanation": "The liminal phase (from Latin 'limen,' threshold) represents the ambiguous transitional state between statuses."
+    },
+    {
+      "id": 90,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Legal Studies",
+      "question": "What is the age of majority in most Western legal systems?",
+      "answer": "18 years old",
+      "explanation": "The age of majority is 18 in most Western legal systems, though some exceptions exist (Mississippi at 21, Alabama and Nebraska at 19)."
+    },
+    {
+      "id": 91,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Developmental Psychology",
+      "question": "What cognitive development theory explains the significance of age 13 in coming-of-age traditions?",
+      "answer": "Formal operational stage / Piaget's cognitive development theory",
+      "explanation": "Age 13 marks the onset of Piaget's formal operational stage, enabling abstract thinking crucial to adult cognition."
+    },
+    {
+      "id": 92,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Bar/Bat Mitzvah Studies",
+      "question": "What Talmudic principle establishes the age of Bar/Bat Mitzvah responsibility in Jewish law?",
+      "answer": "The age when cognitive development enables legal responsibility",
+      "explanation": "Halakha (Jewish law) establishes ages 12-13 as when individuals achieve sufficient cognitive maturity for legal responsibility."
+    },
+    {
+      "id": 93,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Quinceañera Studies",
+      "question": "What is the historical origin of the number 15 in the Quinceañera tradition?",
+      "answer": "Cultural and historical convention from Spanish tradition",
+      "explanation": "The Quinceañera tradition of celebrating age 15 has deep roots in Spanish colonial and indigenous traditions."
+    },
+    {
+      "id": 94,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Coming of Age Research",
+      "question": "What does neuroscience research reveal about brain development completing around age 25?",
+      "answer": "Prefrontal cortex maturation / Executive function development",
+      "explanation": "Modern neuroscience shows that the prefrontal cortex, responsible for executive function, continues developing into the mid-20s."
+    },
+    {
+      "id": 95,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Developmental Milestones",
+      "question": "What developmental milestone is marked by the ability to engage in abstract reasoning?",
+      "answer": "Formal operational stage / Age 11-15 and beyond",
+      "explanation": "Abstract reasoning, essential for adult cognition, typically develops between ages 11-15, marking a critical cognitive transition."
+    },
+    {
+      "id": 96,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Legal Studies",
+      "question": "What are the policy rationales behind setting the minimum drinking age at 21 in the U.S.?",
+      "answer": "Public health and traffic safety",
+      "explanation": "The 21-year drinking age was established based on public health data showing reduced traffic fatalities among youth."
+    },
+    {
+      "id": 97,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Coming of Age Research",
+      "question": "How do anthropologists distinguish between rites of passage and other ceremonial events?",
+      "answer": "By the presence of status change and liminality",
+      "explanation": "Rites of passage are distinguished by involving a change in social status and a liminal transition phase."
+    },
+    {
+      "id": 98,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Cultural Studies",
+      "question": "What is the relationship between coming-of-age rituals and social cohesion in traditional societies?",
+      "answer": "Rituals reinforce shared values and social bonds",
+      "explanation": "Coming-of-age rituals serve to strengthen social cohesion by reinforcing shared cultural values and community bonds."
+    },
+    {
+      "id": 99,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Developmental Psychology",
+      "question": "What does research on secular coming-of-age transitions reveal about modern society?",
+      "answer": "Many lack formalized markers for life transitions",
+      "explanation": "Research suggests that modern secular societies often lack clearly defined, formalized coming-of-age rituals compared to traditional societies."
+    },
+    {
+      "id": 100,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Legal History",
+      "question": "What was the original minimum drinking age before the 1984 federal law standardized it?",
+      "answer": "Varied by state, typically 18-21",
+      "explanation": "Before the National Minimum Drinking Age Act of 1984, states set their own drinking ages, ranging from 18-21."
+    },
+    {
+      "id": 101,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Celebrations",
+      "question": "What number candle represents turning 1 year old?",
+      "answer": "One / A single candle",
+      "explanation": "One candle on a birthday cake represents the child's first year of life."
+    },
+    {
+      "id": 102,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Developmental Growth",
+      "question": "At their first birthday, how many teeth do many babies typically have?",
+      "answer": "Several / 1-8 teeth",
+      "explanation": "By age one, most babies have begun teething and have several teeth starting to emerge."
+    },
+    {
+      "id": 103,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Traditions",
+      "question": "In Japan, what numbers are celebrated in the Shichi-go-san tradition?",
+      "answer": "Three, five, and seven",
+      "explanation": "Shichi-go-san celebrates children turning 3, 5, and 7 years old on November 15."
+    },
+    {
+      "id": 104,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age",
+      "question": "What word describes a boy becoming a man in the Jewish faith at age 13?",
+      "answer": "Bar Mitzvah",
+      "explanation": "Bar Mitzvah marks when Jewish boys become religiously responsible adults at age 13."
+    },
+    {
+      "id": 105,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age",
+      "question": "What is a girl called when she has her Bat Mitzvah?",
+      "answer": "A woman / Bat Mitzvah girl",
+      "explanation": "Bat Mitzvah marks when Jewish girls become religiously responsible women at age 12 or 13."
+    },
+    {
+      "id": 106,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Latin American Traditions",
+      "question": "At what age is a Quinceañera celebration held?",
+      "answer": "15 years old",
+      "explanation": "The Quinceañera marks a girl's 15th birthday and transition into womanhood in Latin American cultures."
+    },
+    {
+      "id": 107,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Birthday Milestones",
+      "question": "What comes after turning 12 or 13 when a Jewish girl has her Bat Mitzvah?",
+      "answer": "A party / Celebration",
+      "explanation": "After the religious ceremony, Bat Mitzvahs are typically followed by a party or reception."
+    },
+    {
+      "id": 108,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Growth and Development",
+      "question": "What major milestone typically happens by age 3 that is celebrated in Japan?",
+      "answer": "Walking and speaking / Development milestones",
+      "explanation": "Age 3 represents major developmental milestones in language and motor development."
+    },
+    {
+      "id": 109,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Cultural Celebrations",
+      "question": "In which month is Japan's Shichi-go-san celebration held?",
+      "answer": "November",
+      "explanation": "Shichi-go-san is celebrated on November 15 each year in Japan."
+    },
+    {
+      "id": 110,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age",
+      "question": "What word describes becoming an adult?",
+      "answer": "Maturation / Growing up / Adulthood",
+      "explanation": "Becoming an adult is the process of maturation, marked by various coming-of-age milestones."
+    },
+    {
+      "id": 111,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Teenage Identity",
+      "question": "What major social group becomes most important to teenagers around age 13-16?",
+      "answer": "Their peers / Friends",
+      "explanation": "Peer relationships become central to teenage identity and social development during these years."
+    },
+    {
+      "id": 112,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Physical Changes",
+      "question": "What major physical change is called 'going through puberty' starts around ages 13-15?",
+      "answer": "Bodily and hormonal changes",
+      "explanation": "Puberty involves physical, hormonal, and emotional changes that typically begin in early adolescence."
+    },
+    {
+      "id": 113,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Driving Privileges",
+      "question": "At age 16, what vehicle privilege do most U.S. teenagers gain?",
+      "answer": "A driver's license",
+      "explanation": "Most U.S. states allow 16-year-olds to obtain a driver's license, increasing independence and responsibility."
+    },
+    {
+      "id": 114,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Celebration Planning",
+      "question": "What type of party is traditionally thrown for a girl turning 16 in America?",
+      "answer": "A Sweet Sixteen party",
+      "explanation": "Sweet Sixteen parties are formal celebrations marking a girl's 16th birthday."
+    },
+    {
+      "id": 115,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Latin American Culture",
+      "question": "What dress does a girl typically wear at her Quinceañera?",
+      "answer": "A white or colorful ball gown / Formal dress",
+      "explanation": "Quinceañeras typically wear elaborate formal gowns, often white or pastel-colored, similar to wedding dresses."
+    },
+    {
+      "id": 116,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Religious Traditions",
+      "question": "What Torah portion might a Bar Mitzvah boy read during his ceremony?",
+      "answer": "A Torah passage / Weekly Torah portion",
+      "explanation": "Bar Mitzvah boys read from the Torah, typically the weekly portion assigned to their birth date."
+    },
+    {
+      "id": 117,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Future Planning",
+      "question": "What major life decision often occurs around ages 15-17?",
+      "answer": "Choosing a career path / College planning",
+      "explanation": "Teenagers typically begin considering their future education and career paths during mid-adolescence."
+    },
+    {
+      "id": 118,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Social Development",
+      "question": "What type of dance is a major milestone event for teenagers ages 16-17?",
+      "answer": "Prom / School dances",
+      "explanation": "Prom and other formal dances are significant social milestones during mid-to-late adolescence."
+    },
+    {
+      "id": 119,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Personal Growth",
+      "question": "What aspect of self-awareness increases significantly between ages 13-17?",
+      "answer": "Self-consciousness / Concern about appearance",
+      "explanation": "Teenagers become increasingly self-aware and concerned with how others perceive them."
+    },
+    {
+      "id": 120,
+      "difficulty": "teens",
+      "points": 200,
+      "category": "Milestone Celebrations",
+      "question": "What is often given as a key gift to celebrate age 21 in South African tradition?",
+      "answer": "A symbolic key",
+      "explanation": "In South African culture, a key is traditionally gifted at age 21 to symbolize freedom and adulthood."
+    },
+    {
+      "id": 121,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Legal Adulthood",
+      "question": "What age marks legal adulthood for most governmental purposes in the U.S.?",
+      "answer": "18 years old",
+      "explanation": "18 is the age of majority in most U.S. states, conferring full legal adult status."
+    },
+    {
+      "id": 122,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Voting Rights",
+      "question": "Since what year have all U.S. citizens aged 18 and older had the right to vote?",
+      "answer": "1971",
+      "explanation": "The Twenty-sixth Amendment granted voting rights to 18-year-olds starting in 1971."
+    },
+    {
+      "id": 123,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Financial Responsibility",
+      "question": "At age 18, what type of financial commitment can someone legally make?",
+      "answer": "Signing contracts / Taking out loans / Using credit",
+      "explanation": "18-year-olds can legally enter into binding financial agreements and contracts."
+    },
+    {
+      "id": 124,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Educational Transitions",
+      "question": "What major educational milestone do most 18-year-olds reach?",
+      "answer": "High school graduation",
+      "explanation": "Most 18-year-olds complete their high school education and graduate."
+    },
+    {
+      "id": 125,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Independent Living",
+      "question": "What major life transition often happens at age 18?",
+      "answer": "Moving away from home / College or career start",
+      "explanation": "Age 18 typically marks when young adults begin independent living or college education."
+    },
+    {
+      "id": 126,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Legal Agreements",
+      "question": "At age 18, what legal document can someone sign to obtain housing?",
+      "answer": "A lease / Rental agreement",
+      "explanation": "18-year-olds can legally sign leases and other housing agreements without parental consent."
+    },
+    {
+      "id": 127,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Brain Development",
+      "question": "At what age is the human brain considered fully mature in terms of major development?",
+      "answer": "Mid-20s / 25 years old",
+      "explanation": "While most development is complete by 18, full brain maturation continues into the mid-20s."
+    },
+    {
+      "id": 128,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Civic Responsibilities",
+      "question": "What civic duty can someone be called to serve at age 18?",
+      "answer": "Jury duty / Military service",
+      "explanation": "18-year-olds become eligible for jury duty and can voluntarily enlist in military service."
+    },
+    {
+      "id": 129,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Coming of Age",
+      "question": "In which country is age 20 marked as the official coming-of-age celebration?",
+      "answer": "Japan",
+      "explanation": "Japan's Seijin Shiki ceremony celebrates the coming of age at age 20, not 18 or 21."
+    },
+    {
+      "id": 130,
+      "difficulty": "adults",
+      "points": 300,
+      "category": "Identity Formation",
+      "question": "What major aspect of development completes around age 18-21?",
+      "answer": "Identity formation / Sense of self",
+      "explanation": "Identity formation, a key developmental task of adolescence, largely completes by early adulthood."
+    },
+    {
+      "id": 131,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Alcohol Laws",
+      "question": "In the United States, what is the legal minimum drinking age?",
+      "answer": "21 years old",
+      "explanation": "The National Minimum Drinking Age Act of 1984 standardized the drinking age at 21 across all states."
+    },
+    {
+      "id": 132,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Legal History",
+      "question": "Before 1988, what was the range of legal drinking ages across U.S. states?",
+      "answer": "18-21 years old",
+      "explanation": "States had varying drinking ages before federal standardization, typically ranging from 18-21."
+    },
+    {
+      "id": 133,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Celebration Milestones",
+      "question": "What is traditionally considered the biggest adult birthday party in Western culture?",
+      "answer": "The 21st birthday",
+      "explanation": "The 21st birthday is widely considered the most significant adult milestone celebration in Western culture."
+    },
+    {
+      "id": 134,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Coming of Age Traditions",
+      "question": "What symbolic item represents freedom at age 21 in South African culture?",
+      "answer": "A key",
+      "explanation": "In South Africa, receiving a key at age 21 symbolizes freedom and the 'unlocking' of adulthood."
+    },
+    {
+      "id": 135,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Legal Adulthood",
+      "question": "In what U.S. states is the age of majority set at 21 instead of 18?",
+      "answer": "Mississippi",
+      "explanation": "Mississippi is unique in setting the age of majority at 21, not 18."
+    },
+    {
+      "id": 136,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Federal Legislation",
+      "question": "What consequence did states face if they didn't raise the drinking age to 21?",
+      "answer": "Loss of federal highway funding / 10% reduction in federal funds",
+      "explanation": "States that didn't raise drinking ages to 21 faced loss of federal highway construction funding."
+    },
+    {
+      "id": 137,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Coming of Age",
+      "question": "At what age does Japan celebrate Seijin Shiki, its official coming-of-age day?",
+      "answer": "20 years old",
+      "explanation": "Seijin Shiki celebrates those turning 20 in Japan, observed on the second Monday of January."
+    },
+    {
+      "id": 138,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Brain Development",
+      "question": "What part of the brain responsible for judgment continues developing past age 21?",
+      "answer": "The prefrontal cortex",
+      "explanation": "The prefrontal cortex, responsible for decision-making and judgment, develops through the mid-20s."
+    },
+    {
+      "id": 139,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Public Health",
+      "question": "What public health issue prompted the National Minimum Drinking Age Act?",
+      "answer": "Traffic fatalities / Drunk driving deaths",
+      "explanation": "Rising traffic deaths involving young drivers led to the federal minimum drinking age law."
+    },
+    {
+      "id": 140,
+      "difficulty": "adults",
+      "points": 400,
+      "category": "Life Transitions",
+      "question": "What significant life responsibility is fully assumed by age 21?",
+      "answer": "Complete adult legal responsibility",
+      "explanation": "By age 21, individuals bear full legal responsibility for all actions without juvenile protections."
+    },
+    {
+      "id": 141,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Anthropological Theory",
+      "question": "What anthropologist developed the three-phase model of rites of passage?",
+      "answer": "Victor Turner",
+      "explanation": "Victor Turner's influential theory describes rites of passage as having separation, liminality, and reincorporation phases."
+    },
+    {
+      "id": 142,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Historical Traditions",
+      "question": "What ancient Roman ceremony marked the transition to manhood?",
+      "answer": "Toga Virilis / Toga ceremony",
+      "explanation": "Roman boys received the toga virilis, the adult male toga, to mark their transition to adulthood."
+    },
+    {
+      "id": 143,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Religious Traditions",
+      "question": "What religious text is central to Bar and Bat Mitzvah ceremonies?",
+      "answer": "The Torah",
+      "explanation": "Bar and Bat Mitzvah students read from the Torah to demonstrate their religious maturity."
+    },
+    {
+      "id": 144,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Cultural Anthropology",
+      "question": "What is the primary psychological function of coming-of-age rituals?",
+      "answer": "To mark transitions and integrate individuals into society",
+      "explanation": "Coming-of-age rituals serve to psychologically and socially integrate individuals into new adult roles."
+    },
+    {
+      "id": 145,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Historical Coming of Age",
+      "question": "What was the original purpose of debutante balls in Victorian society?",
+      "answer": "To present young women to potential suitors",
+      "explanation": "Debutante balls were formal Victorian society events where young women were presented as eligible for marriage."
+    },
+    {
+      "id": 146,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Research",
+      "question": "According to research, what percentage of cultures worldwide have formalized coming-of-age rituals?",
+      "answer": "Nearly all / Almost universally present",
+      "explanation": "Coming-of-age rituals are near-universal features of human societies, suggesting deep cultural roots."
+    },
+    {
+      "id": 147,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Developmental Psychology",
+      "question": "What cognitive milestone is typically achieved around ages 11-15?",
+      "answer": "Formal operational thinking / Abstract reasoning",
+      "explanation": "Piaget identified the formal operational stage (ages 11+) as when abstract reasoning develops."
+    },
+    {
+      "id": 148,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Cultural Transitions",
+      "question": "What role does the community play in traditional coming-of-age ceremonies?",
+      "answer": "Witnesses and validates the transition",
+      "explanation": "Community participation in coming-of-age rituals validates the individual's new social status."
+    },
+    {
+      "id": 149,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Quinceañera Studies",
+      "question": "What religious component begins many Quinceañera celebrations?",
+      "answer": "A Catholic Mass",
+      "explanation": "Many Quinceañeras begin with a Catholic Mass where the girl renews her baptismal vows."
+    },
+    {
+      "id": 150,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Legal History",
+      "question": "What was the historical drinking age in most Western countries before the 20th century?",
+      "answer": "Varied / No universal legal minimum age",
+      "explanation": "Before modern legislation, drinking ages were not universally regulated by law."
+    },
+    {
+      "id": 151,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Neuroscience of Development",
+      "question": "When does the prefrontal cortex, responsible for judgment, fully mature?",
+      "answer": "Mid-20s / Around age 25",
+      "explanation": "Modern neuroscience shows the prefrontal cortex continues developing into the mid-20s."
+    },
+    {
+      "id": 152,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Coming of Age Theory",
+      "question": "What does the liminal phase in Turner's rite-of-passage model represent?",
+      "answer": "The transitional, in-between state",
+      "explanation": "The liminal phase represents the ambiguous state between the old and new identity."
+    },
+    {
+      "id": 153,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Religious Studies",
+      "question": "What does the Bar Mitzvah represent in Jewish tradition beyond a religious milestone?",
+      "answer": "A transition to adult religious responsibility",
+      "explanation": "Bar Mitzvah marks when a boy becomes responsible for following all Jewish commandments."
+    },
+    {
+      "id": 154,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Comparative Traditions",
+      "question": "How does the Seijin Shiki ceremony in Japan differ from Western coming-of-age celebrations?",
+      "answer": "It occurs at age 20; often government-sponsored; involves traditional dress",
+      "explanation": "Japan's Seijin Shiki is unique in timing (age 20), government involvement, and emphasis on traditional cultural participation."
+    },
+    {
+      "id": 155,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Gender and Development",
+      "question": "How have gender roles historically influenced coming-of-age ritual design?",
+      "answer": "Boys' rituals emphasize strength; girls' rituals emphasize fertility/beauty",
+      "explanation": "Anthropological analysis shows gender-differentiated rituals reflecting cultural expectations of adult roles."
+    },
+    {
+      "id": 156,
+      "difficulty": "seniors",
+      "points": 500,
+      "category": "Modern Secular Society",
+      "question": "What does research suggest about the absence of formalized coming-of-age rituals in secular societies?",
+      "answer": "Individuals may lack clear markers for life transitions",
+      "explanation": "Some research suggests secular societies without formal rituals may leave individuals without clear life transition markers."
+    },
+    {
+      "id": 157,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Developmental Neuroscience",
+      "question": "What neuroimaging research has revealed about adolescent brain development?",
+      "answer": "Significant synaptic pruning and myelination occurs",
+      "explanation": "Modern neuroscience shows adolescence involves extensive synaptic pruning and myelination of neural pathways."
+    },
+    {
+      "id": 158,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Rite of Passage Studies",
+      "question": "What structural characteristics distinguish rites of passage from other ceremonial events?",
+      "answer": "Status change, liminality, and community recognition",
+      "explanation": "Key structural features include a change in social status, a liminal transition, and community acknowledgment."
+    },
+    {
+      "id": 159,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Developmental Theory",
+      "question": "How does Erikson's theory of psychosocial development explain coming-of-age milestones?",
+      "answer": "As critical stages of identity development and role consolidation",
+      "explanation": "Erikson's theory identifies adolescence as a critical stage of identity versus role confusion."
+    },
+    {
+      "id": 160,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Legal Policy",
+      "question": "What evidence-based approach was used to justify the National Minimum Drinking Age Act?",
+      "answer": "Epidemiological data on traffic fatalities",
+      "explanation": "The law was based on statistical evidence showing reduced traffic deaths when drinking age was raised to 21."
+    },
+    {
+      "id": 161,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Coming of Age Research",
+      "question": "What is the theoretical significance of the 'rite of passage' concept in anthropology?",
+      "answer": "It provides a framework for understanding universal cultural patterns",
+      "explanation": "Rite of passage theory helps explain near-universal patterns in how cultures mark life transitions."
+    },
+    {
+      "id": 162,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Bar/Bat Mitzvah Studies",
+      "question": "What Halakhic (Jewish legal) principle establishes the minimum age for Bar Mitzvah?",
+      "answer": "The age when one can reasonably understand Torah obligations",
+      "explanation": "Halakha establishes age 13 for boys as when they achieve sufficient understanding of legal obligations."
+    },
+    {
+      "id": 163,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Quinceañera Studies",
+      "question": "What syncretistic elements are present in the Quinceañera tradition?",
+      "answer": "Blend of Catholic, Spanish, and indigenous Mesoamerican traditions",
+      "explanation": "The Quinceañera represents a synthesis of Catholic religious practice, Spanish colonial tradition, and indigenous customs."
+    },
+    {
+      "id": 164,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Brain Development",
+      "question": "What is the 'second wave' of brain development that occurs during adolescence?",
+      "answer": "Reorganization of neural connections and white matter development",
+      "explanation": "Adolescence involves a second wave of developmental reorganization focused on white matter and connectivity."
+    },
+    {
+      "id": 165,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Comparative Studies",
+      "question": "How do gender expectations manifest differently in coming-of-age rituals across cultures?",
+      "answer": "Through different symbolic actions, clothing, and emphasized virtues",
+      "explanation": "Gender-differentiated rituals employ distinct symbolism, clothing, and virtues appropriate to cultural gender roles."
+    },
+    {
+      "id": 166,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Legal Studies",
+      "question": "What constitutional framework allowed the federal government to mandate a 21-year drinking age?",
+      "answer": "The spending clause and conditional federal funding",
+      "explanation": "The federal government used its power over spending and highway funding to effectively mandate state compliance."
+    },
+    {
+      "id": 167,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Coming of Age Research",
+      "question": "What psychological construct does coming-of-age ceremony participation strengthen?",
+      "answer": "Self-efficacy and social belonging",
+      "explanation": "Research shows formal coming-of-age ceremonies strengthen self-efficacy beliefs and sense of social belonging."
+    },
+    {
+      "id": 168,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Anthropological Theory",
+      "question": "How does performance theory explain the function of coming-of-age rituals?",
+      "answer": "As performative acts that socially construct identity",
+      "explanation": "Performance theory views coming-of-age rituals as performative acts that create and validate new social identities."
+    },
+    {
+      "id": 169,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Developmental Psychology",
+      "question": "What is the relationship between pubertal timing and coming-of-age ritual scheduling?",
+      "answer": "Rituals often coincide with pubertal onset for biological alignment",
+      "explanation": "Many coming-of-age rituals are scheduled to coincide with or shortly after pubertal development."
+    },
+    {
+      "id": 170,
+      "difficulty": "expert",
+      "points": 600,
+      "category": "Advanced Legal History",
+      "question": "What were the major arguments against raising the minimum drinking age to 21?",
+      "answer": "Concerns about individual liberty and consistency with voting age",
+      "explanation": "Critics argued that the 18-year-old voting age should correspond with drinking age for consistency."
+    },
+    {
+      "id": 171,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Age and Achievement",
+      "question": "At what age do children typically start school in most countries?",
+      "answer": "Around 5-6 years old",
+      "explanation": "Most countries begin formal education around ages 5-6, marking a major developmental milestone."
+    },
+    {
+      "id": 172,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Traditions",
+      "question": "What is the main purpose of a birthday cake at any milestone birthday?",
+      "answer": "To celebrate the person's life / A festive tradition",
+      "explanation": "Birthday cakes are a universal tradition to celebrate and mark a person's aging."
+    },
+    {
+      "id": 173,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age",
+      "question": "What Hebrew word comes before 'Mitzvah' for boys?",
+      "answer": "Bar",
+      "explanation": "Bar Mitzvah uses the Hebrew word 'Bar,' meaning 'son.'"
+    },
+    {
+      "id": 174,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Coming of Age",
+      "question": "What Hebrew word comes before 'Mitzvah' for girls?",
+      "answer": "Bat",
+      "explanation": "Bat Mitzvah uses the Hebrew word 'Bat,' meaning 'daughter.'"
+    },
+    {
+      "id": 175,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Party Planning",
+      "question": "What type of music and dancing is typical at a Quinceañera celebration?",
+      "answer": "Latin music and traditional dances",
+      "explanation": "Quinceañeras feature traditional Latin music, waltzes, and celebratory dancing."
+    },
+    {
+      "id": 176,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Growing Up",
+      "question": "What word describes the process of becoming older?",
+      "answer": "Aging / Getting older",
+      "explanation": "Aging is the natural process of growing older that results in milestone birthdays."
+    },
+    {
+      "id": 177,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Celebration",
+      "question": "What is blown out on a birthday cake at milestone celebrations?",
+      "answer": "Candles",
+      "explanation": "Candles on birthday cakes are traditionally blown out to make a wish."
+    },
+    {
+      "id": 178,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Family Time",
+      "question": "Who typically attends birthday milestone celebrations?",
+      "answer": "Family and friends",
+      "explanation": "Birthday milestone celebrations are typically attended by family members and close friends."
+    },
+    {
+      "id": 179,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Special Days",
+      "question": "What do we call the day someone was born?",
+      "answer": "Their birthday",
+      "explanation": "A birthday is the anniversary of the day someone was born."
+    },
+    {
+      "id": 180,
+      "difficulty": "kids",
+      "points": 100,
+      "category": "Traditions",
+      "question": "What gift is traditionally given at milestone birthday celebrations?",
+      "answer": "Presents / Gifts",
+      "explanation": "Gift-giving is a universal tradition at birthday celebrations across cultures."
+    }
+  ],
+  "sources": [
+    "CDC's Developmental Milestones - https://www.cdc.gov/act-early/milestones/index.html",
+    "Coming of Age Rituals: Rites of Passage - https://rusticpathways.com/inside-rustic/online-magazine/rites-of-passage-how-our-ancestors-handled-the-teen-years",
+    "Coming of Age Traditions Around The World - https://beelinguapp.com/blog/7-coming-of-age-traditions-around-the-world",
+    "Bar Mitzvah and Bat Mitzvah Information - https://jwa.org/blog/quinceanera",
+    "Quinceañera Tradition - https://www.imperialpalacebanquethall.com/coming-of-age-traditions-from-around-the-world/",
+    "Legal Age Milestones - https://www.cga.ct.gov/PS96/rpt/olr/htm/96-R-1334.htm",
+    "National Minimum Drinking Age Act - https://en.wikipedia.org/wiki/National_Minimum_drinking_age_act",
+    "Milestone Birthdays Across Cultures - https://journeys.dartmouth.edu/folklorearchive/15622-2/milestone-birthdays-across-cultures/",
+    "Birthday Traditions Around the World - https://blog.duolingo.com/happy-birthday-around-the-world/",
+    "Seijin Shiki and Japanese Coming of Age - https://www.littlepassports.com/blog/world-community/12-birthday-celebrations-around-the-world/"
+  ],
+  "metadata": {
+    "created_date": "2025-12-26",
+    "category_name": "Birthday Milestone Ages",
+    "topics_covered": [
+      "Developmental milestones by age",
+      "Coming of age traditions and rites of passage",
+      "Bar Mitzvah and Bat Mitzvah traditions",
+      "Quinceañera celebrations",
+      "Sweet 16 traditions",
+      "Legal milestones (voting, driving, drinking)",
+      "Cultural transitions across civilizations",
+      "Seijin Shiki (Japan)",
+      "Shichi-go-san (Japan)",
+      "Debutante balls and history",
+      "Brain development and cognitive milestones",
+      "Identity formation",
+      "Rites of passage theory",
+      "Gender-differentiated coming-of-age rituals",
+      "Modern vs. traditional ceremonies"
+    ],
+    "research_summary": "This question set comprehensively covers developmental milestones, rites of passage, and cultural traditions surrounding birthday milestone ages. Research included neurobiological development, legal and voting age history, world coming-of-age traditions (Bar/Bat Mitzvah, Quinceañera, Seijin Shiki, Sweet 16, debutante balls), and anthropological frameworks for understanding rites of passage. Questions span from simple factual recall for children to complex analytical questions about developmental psychology and comparative cultural traditions for expert audiences."
+  }
+}

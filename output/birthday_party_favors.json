@@ -1,0 +1,312 @@
+{
+  "category": "Birthday Party Favors",
+  "theme": "birthday",
+  "category_id": "birthday_party_favors",
+  "research_basis": "Party planning, gift-giving etiquette, consumer psychology, packaging design, budget management, guest appreciation traditions, cultural gift-giving practices",
+  "audiences": {
+    "regular_clues": [
+      {
+        "clue": "Small toys and treats given to guests as they leave a birthday party",
+        "correctQuestion": "What is a goodie bag?",
+        "value": 200
+      },
+      {
+        "clue": "Plastic bags or decorative containers used to hold party favors",
+        "correctQuestion": "What is a party bag?",
+        "value": 200
+      },
+      {
+        "clue": "Candy and chocolate often found in birthday party takeaway bags",
+        "correctQuestion": "What is chocolate?",
+        "value": 200
+      },
+      {
+        "clue": "Small puzzle toys that fit in a goodie bag without taking much space",
+        "correctQuestion": "What is a brain teaser?",
+        "value": 200
+      },
+      {
+        "clue": "Party favor that glows in the dark and kids wear on wrists or fingers",
+        "correctQuestion": "What is a glow stick?",
+        "value": 200
+      },
+      {
+        "clue": "Colorful paper tubes that make noise when you pull the string",
+        "correctQuestion": "What is a party cracker?",
+        "value": 400
+      },
+      {
+        "clue": "Small containers of bubbles that guests can take home from the party",
+        "correctQuestion": "What is bubble solution?",
+        "value": 400
+      },
+      {
+        "clue": "Stretchy toy that bounces around and comes in neon colors",
+        "correctQuestion": "What is a bouncy ball?",
+        "value": 400
+      },
+      {
+        "clue": "Small mirrors or keychains personalized with the party theme or date",
+        "correctQuestion": "What is a personalized keepsake?",
+        "value": 400
+      },
+      {
+        "clue": "Temporary skin decoration applied during or after the party as a memento",
+        "correctQuestion": "What is a temporary tattoo?",
+        "value": 400
+      },
+      {
+        "clue": "Sticky shapes or designs used for decorating notebooks or walls",
+        "correctQuestion": "What are stickers?",
+        "value": 600
+      },
+      {
+        "clue": "Card games or dice games small enough to fit in a goodie bag",
+        "correctQuestion": "What is a mini card game?",
+        "value": 600
+      },
+      {
+        "clue": "Colored pencils or markers packaged as party favor sets",
+        "correctQuestion": "What is an art supply set?",
+        "value": 600
+      },
+      {
+        "clue": "Metal or plastic prize given as recognition during party games",
+        "correctQuestion": "What is a medal or trophy?",
+        "value": 600
+      },
+      {
+        "clue": "Stretchy material worn on hands shaped like an animal or character",
+        "correctQuestion": "What are finger puppets?",
+        "value": 600
+      },
+      {
+        "clue": "Small rubber figurines of popular movie or TV characters",
+        "correctQuestion": "What are action figures?",
+        "value": 800
+      },
+      {
+        "clue": "Hair clips, headbands, or elastic bands decorated with fun patterns",
+        "correctQuestion": "What are hair accessories?",
+        "value": 800
+      },
+      {
+        "clue": "Coiled metal toys that walk down stairs step by step",
+        "correctQuestion": "What is a slinky?",
+        "value": 800
+      },
+      {
+        "clue": "Transparent dome containing a miniature landscape or character",
+        "correctQuestion": "What is a snow globe?",
+        "value": 800
+      },
+      {
+        "clue": "Wooden or plastic block sets designed to build structures",
+        "correctQuestion": "What are building blocks?",
+        "value": 800
+      },
+      {
+        "clue": "Flavored powder mixed with water to make a sweet drink at home",
+        "correctQuestion": "What is a drink packet or drink mix?",
+        "value": 1000
+      },
+      {
+        "clue": "Pen with scents that kids scratch and sniff for different smells",
+        "correctQuestion": "What is a scratch and sniff pen?",
+        "value": 1000
+      },
+      {
+        "clue": "Card that unfolds to play music when opened as a special memento",
+        "correctQuestion": "What is a musical greeting card?",
+        "value": 1000
+      },
+      {
+        "clue": "Notebook decorated with the party theme for writing and drawing",
+        "correctQuestion": "What is a themed journal or notebook?",
+        "value": 1000
+      },
+      {
+        "clue": "Customized candy bar with wrapper showing party details and date",
+        "correctQuestion": "What is a personalized chocolate bar?",
+        "value": 1000
+      },
+      {
+        "clue": "Bracelet made of colorful beads that spell out words or initials",
+        "correctQuestion": "What is a beaded bracelet?",
+        "value": 1000
+      },
+      {
+        "clue": "Plant seedling or small succulent given as eco-friendly party favor",
+        "correctQuestion": "What is a plant favors or seed packet?",
+        "value": 1000
+      },
+      {
+        "clue": "Miniature games or puzzles shaped like popular characters",
+        "correctQuestion": "What is a character puzzle?",
+        "value": 1000
+      },
+      {
+        "clue": "Container of colorful liquid that moves around when tilted or shaken",
+        "correctQuestion": "What is a lava lamp novelty?",
+        "value": 1000
+      },
+      {
+        "clue": "Eraser shaped like animals, food, or other fun objects",
+        "correctQuestion": "What is a novelty eraser?",
+        "value": 1000
+      }
+    ],
+    "cah_style_clues": [
+      {
+        "clue": "The goodie bag filler that represents a parent's attempt to create memories while quietly destroying the birthday kid's room",
+        "correctQuestion": "What are glitter pens?",
+        "value": 400
+      },
+      {
+        "clue": "What parents secretly regret putting in goodie bags after finding it melted in their child's backpack for two weeks",
+        "correctQuestion": "What is chocolate?",
+        "value": 400
+      },
+      {
+        "clue": "The item in every goodie bag that ends up in the trash within 48 hours because nobody knows what it is",
+        "correctQuestion": "What is a fidget toy?",
+        "value": 400
+      },
+      {
+        "clue": "The reason pediatricians are overbooked the Monday after the birthday party",
+        "correctQuestion": "What is high-fructose corn syrup in goodie bags?",
+        "value": 600
+      },
+      {
+        "clue": "What costs $0.47 to make but the birthday parent paid $2.50 for because it's 'personalized'",
+        "correctQuestion": "What is a goodie bag filler with the date on it?",
+        "value": 600
+      },
+      {
+        "clue": "The goodie bag staple that makes pet owners hate birthday parties almost as much as they hate the actual birthday kid",
+        "correctQuestion": "What is a squeaky toy?",
+        "value": 600
+      },
+      {
+        "clue": "What the Pinterest mom spent 6 hours assembling that got tossed in a dumpster by the taxi ride home",
+        "correctQuestion": "What is a carefully curated goodie bag?",
+        "value": 600
+      },
+      {
+        "clue": "The party favor that teaches kids about disappointment and broken promises by age 7",
+        "correctQuestion": "What is a temporary tattoo?",
+        "value": 800
+      },
+      {
+        "clue": "What parents argue about at 11pm the night before the party because someone forgot to fill these things",
+        "correctQuestion": "What are goodie bags?",
+        "value": 800
+      },
+      {
+        "clue": "The item purchased in bulk from a dollar store that will appear in landfills nationwide by next month",
+        "correctQuestion": "What are plastic party favors?",
+        "value": 800
+      },
+      {
+        "clue": "What makes a guest kid say 'thanks' with the enthusiasm of someone who just received a colonoscopy",
+        "correctQuestion": "What is a terrible goodie bag?",
+        "value": 800
+      },
+      {
+        "clue": "The only gift that manages to be both too cheap and too expensive at the same time",
+        "correctQuestion": "What is a goodie bag?",
+        "value": 800
+      },
+      {
+        "clue": "What proves that 30 plastic toys cost less to buy than the parent's mental health to assemble",
+        "correctQuestion": "What is a goodie bag?",
+        "value": 1000
+      },
+      {
+        "clue": "The thing kids fight over more intensely than at the actual party because it's in limited supply",
+        "correctQuestion": "What is the goodie bag?",
+        "value": 1000
+      },
+      {
+        "clue": "What gets left at the birthday party because kids forgot it while fighting over actual goodie bags in the driveway",
+        "correctQuestion": "What is a jacket or backpack?",
+        "value": 1000
+      },
+      {
+        "clue": "The gift that every parent pretends to love before immediately selling it on Facebook Marketplace",
+        "correctQuestion": "What is a goodie bag item?",
+        "value": 1000
+      },
+      {
+        "clue": "What costs $8 in supplies and $47 in wrapping materials because it has to 'look nice'",
+        "correctQuestion": "What is a goodie bag?",
+        "value": 1000
+      },
+      {
+        "clue": "The party favor that proves Americans will buy literally anything if it's shaped like a character or glows",
+        "correctQuestion": "What is a novelty light-up toy?",
+        "value": 1000
+      },
+      {
+        "clue": "What single parents bond over by texting photos of what their kids got at birthday parties with the caption 'seriously?'",
+        "correctQuestion": "What are terrible goodie bag fillers?",
+        "value": 1000
+      },
+      {
+        "clue": "The goodie bag item that survives longer in a child's possession than their actual birthday gift from relatives",
+        "correctQuestion": "What are stickers or temporary tattoos?",
+        "value": 1000
+      },
+      {
+        "clue": "What single moms discuss in group chats as proof that the birthday parent 'tried their best with the budget they had'",
+        "correctQuestion": "What is a thoughtful goodie bag?",
+        "value": 200
+      },
+      {
+        "clue": "The item in the goodie bag that makes parents ask their kid 'who invited this weird thing into our home?'",
+        "correctQuestion": "What is a strange novelty toy?",
+        "value": 200
+      },
+      {
+        "clue": "What Instagram moms curate carefully with artisanal candles that the actual birthday kids find 'boring'",
+        "correctQuestion": "What is a fancy goodie bag?",
+        "value": 400
+      },
+      {
+        "clue": "The party favor that costs exactly $1.99 and somehow still feels overpriced",
+        "correctQuestion": "What is a plastic toy from a dollar store?",
+        "value": 400
+      },
+      {
+        "clue": "What proves that if you put anything in a net bag with a ribbon, parents will pay $3 for it at a party store",
+        "correctQuestion": "What is a goodie bag?",
+        "value": 600
+      },
+      {
+        "clue": "The goodie bag filler that gets lost within 48 hours but somehow appears in the couch for 3 months",
+        "correctQuestion": "What is a small toy?",
+        "value": 600
+      },
+      {
+        "clue": "What makes a child's birthday 'special' but makes the parents' credit card statement 'concerning'",
+        "correctQuestion": "What are expensive goodie bags?",
+        "value": 800
+      },
+      {
+        "clue": "The thing kids argue about in the car more passionately than they thanked the birthday parent at the party",
+        "correctQuestion": "What is who got the better goodie bag?",
+        "value": 800
+      },
+      {
+        "clue": "What proves that 15 random plastic items stuffed in a bag somehow cost more than the actual birthday present budget",
+        "correctQuestion": "What is a goodie bag?",
+        "value": 1000
+      },
+      {
+        "clue": "The party favor that arrives at school the next day and immediately starts a black market trade economy among kids",
+        "correctQuestion": "What is a popular small toy or collectible?",
+        "value": 1000
+      }
+    ]
+  }
+}

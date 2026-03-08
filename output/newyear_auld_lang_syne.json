@@ -1,0 +1,308 @@
+{
+  "category": "Auld Lang Syne & New Year's Eve",
+  "description": "Classic song about remembering old friends, sung at midnight on New Year's Eve",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "Scottish poem this song is based on, written in 1788",
+      "answer": "What is 'Auld Lang Syne'?"
+    },
+    {
+      "points": 200,
+      "clue": "Scottish poet who wrote the original poem in 1788",
+      "answer": "Who is Robert Burns?"
+    },
+    {
+      "points": 200,
+      "clue": "English translation of 'auld lang syne'",
+      "answer": "What is 'old long since' or 'days gone by'?"
+    },
+    {
+      "points": 200,
+      "clue": "What people do at midnight on New Year's Eve",
+      "answer": "What is sing Auld Lang Syne?"
+    },
+    {
+      "points": 200,
+      "clue": "Hand-holding gesture commonly performed during this song",
+      "answer": "What is arm-crossing?"
+    },
+    {
+      "points": 200,
+      "clue": "First line of the chorus mentions this measurement",
+      "answer": "What is days or years?"
+    },
+    {
+      "points": 400,
+      "clue": "Beverage toasted with while singing at New Year's",
+      "answer": "What is champagne?"
+    },
+    {
+      "points": 400,
+      "clue": "Season when this Scottish song is traditionally sung in the US",
+      "answer": "What is winter or New Year's season?"
+    },
+    {
+      "points": 400,
+      "clue": "Tradition of doing this 'for old time's sake' according to the song",
+      "answer": "What is taking a cup of kindness?"
+    },
+    {
+      "points": 400,
+      "clue": "Theme of the song: remembering these people",
+      "answer": "What are old friends?"
+    },
+    {
+      "points": 400,
+      "clue": "Country where this tradition originated",
+      "answer": "What is Scotland?"
+    },
+    {
+      "points": 400,
+      "clue": "In the song, this separates friends over time",
+      "answer": "What is a 'brae' or distance?"
+    },
+    {
+      "points": 600,
+      "clue": "The song emphasizes this emotion when reuniting",
+      "answer": "What is joy or nostalgia?"
+    },
+    {
+      "points": 600,
+      "clue": "Year the modern melody was set to this poem",
+      "answer": "What is 1907?"
+    },
+    {
+      "points": 600,
+      "clue": "Global cities that celebrate New Year's with this song",
+      "answer": "What are London, New York, and Times Square locations?"
+    },
+    {
+      "points": 600,
+      "clue": "Type of gathering where Auld Lang Syne is traditionally sung",
+      "answer": "What is a New Year's Eve party or celebration?"
+    },
+    {
+      "points": 600,
+      "clue": "In Burns' poem, this represents bonds of friendship",
+      "answer": "What is a golden thread or a hand-clasp?"
+    },
+    {
+      "points": 600,
+      "clue": "The song structure includes this repeated section",
+      "answer": "What is a chorus?"
+    },
+    {
+      "points": 800,
+      "clue": "Robert Burns used this Scots dialect in his original poem",
+      "answer": "What is Scottish English or Doric Scots?"
+    },
+    {
+      "points": 800,
+      "clue": "Concert halls often feature orchestras playing this on New Year's Eve",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 800,
+      "clue": "The song's emphasis on this value reflects Scottish heritage",
+      "answer": "What is loyalty or friendship?"
+    },
+    {
+      "points": 800,
+      "clue": "The Hogmanay celebration in Scotland features this tradition",
+      "answer": "What is singing Auld Lang Syne?"
+    },
+    {
+      "points": 800,
+      "clue": "Composers who have arranged this Scottish tune include this famous one",
+      "answer": "What is Guy Lombardo or other orchestral arrangers?"
+    },
+    {
+      "points": 800,
+      "clue": "The song has been recorded in this many major languages",
+      "answer": "What is over 100?"
+    },
+    {
+      "points": 1000,
+      "clue": "Burns wrote Auld Lang Syne reflecting on this aspect of human existence",
+      "answer": "What is the passage of time or mortality?"
+    },
+    {
+      "points": 1000,
+      "clue": "The metaphor of 'running water' in the poem represents this",
+      "answer": "What is the passage of time or change?"
+    },
+    {
+      "points": 1000,
+      "clue": "The song's central message is about cherishing this through time",
+      "answer": "What are memories and friendships?"
+    },
+    {
+      "points": 1000,
+      "clue": "This symbolic gesture at the song's end unites all singers",
+      "answer": "What is hand-holding or arm-linking?"
+    },
+    {
+      "points": 1000,
+      "clue": "The song represents this Scottish cultural export to the world",
+      "answer": "What is literature, tradition, or national heritage?"
+    },
+    {
+      "points": 1000,
+      "clue": "Despite being written centuries ago, this song remains timeless due to this universal theme",
+      "answer": "What is friendship and the passage of time?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "What you scream while drunk at midnight",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 200,
+      "clue": "Song nobody knows words to but sings anyway",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 200,
+      "clue": "Excuse to grab random people's hands at 11:59pm",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 200,
+      "clue": "Song that plays when your bad decisions become official",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 200,
+      "clue": "Three minutes of collective drunk mumbling",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 200,
+      "clue": "Scottish tune that masks people crying about their regrets",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 400,
+      "clue": "Why you fake-hug people you haven't talked to in years",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 400,
+      "clue": "Emotional song nobody questions why they're sad during",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 400,
+      "clue": "What plays while you realize nothing changed since last year",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 400,
+      "clue": "Tradition that forces you to acknowledge friendships ending",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 400,
+      "clue": "Backup plan when the party dies at 11:59pm",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 400,
+      "clue": "Song that makes drunk people think they're emotional",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 600,
+      "clue": "Why your friends act like you're best friends for 3 minutes",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 600,
+      "clue": "The moment everyone pretends they're not alone",
+      "answer": "What is Auld Lang Syne midnight?"
+    },
+    {
+      "points": 600,
+      "clue": "Scottish way to say 'I miss people I ghosted'",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 600,
+      "clue": "Guilt trip disguised as a wholesome tradition",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 600,
+      "clue": "What makes people nostalgic for relationships that were toxic",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 600,
+      "clue": "Three-minute reminder that everyone leaves eventually",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 800,
+      "clue": "What proves nobody actually has the lyrics memorized",
+      "answer": "What is Auld Lang Syne midnight?"
+    },
+    {
+      "points": 800,
+      "clue": "The song that makes your social anxiety peak",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 800,
+      "clue": "Why you panic about who to stand next to",
+      "answer": "What is Auld Lang Syne arm-linking?"
+    },
+    {
+      "points": 800,
+      "clue": "Excuse to cry about time passing faster than expected",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 800,
+      "clue": "What your trauma attaches itself to at midnight",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 800,
+      "clue": "Song that forces you to acknowledge your disappointing year",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why you suddenly feel 'deep' after three shots",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 1000,
+      "clue": "Collective delusion that makes strangers feel like family",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 1000,
+      "clue": "What your therapist will bring up when discussing unresolved grief",
+      "answer": "What is Auld Lang Syne nostalgia?"
+    },
+    {
+      "points": 1000,
+      "clue": "The moment resolutions seem pointless anyway",
+      "answer": "What is singing Auld Lang Syne?"
+    },
+    {
+      "points": 1000,
+      "clue": "Scottish torture device disguised as heartwarming tradition",
+      "answer": "What is Auld Lang Syne?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why everyone's Instagram story gets sad at midnight",
+      "answer": "What is Auld Lang Syne making you emotional?"
+    }
+  ]
+}

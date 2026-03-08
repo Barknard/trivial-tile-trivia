@@ -1,0 +1,349 @@
+{
+  "categoryId": "christmas_around_world",
+  "categoryName": "Global Christmas - NO HUMANITY (Rewritten: Short & Punchy)",
+  "categoryDescription": "How different countries celebrate",
+  "metadata": {
+    "ageGroups": ["kids_4_under", "kids_10_under", "teenagers", "adults", "no_humanity"],
+    "researchAlignment": "Cultural learning - diversity, traditions",
+    "totalQuestions": 180,
+    "questionsPerAudience": 36,
+    "generatedDate": "2025-12-29",
+    "revision": "NO_HUMANITY_SHORT_PUNCHY"
+  },
+  "questions": [
+    {
+      "id": "caw_nh_001",
+      "audience": "no_humanity",
+      "clue": "Japan's romantic Christmas dinner tradition",
+      "correctQuestion": "What is KFC?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Marketing Wins"
+    },
+    {
+      "id": "caw_nh_002",
+      "audience": "no_humanity",
+      "clue": "Australia's solo beach Christmas companion",
+      "correctQuestion": "What is Netflix?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Modern Traditions"
+    },
+    {
+      "id": "caw_nh_003",
+      "audience": "no_humanity",
+      "clue": "47 ugly sweater photos nobody requested",
+      "correctQuestion": "What is Facebook?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Social Media"
+    },
+    {
+      "id": "caw_nh_004",
+      "audience": "no_humanity",
+      "clue": "Where lonely Japanese spend Christmas Eve",
+      "correctQuestion": "What is Tinder?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Modern Dating"
+    },
+    {
+      "id": "caw_nh_005",
+      "audience": "no_humanity",
+      "clue": "German workers lacking Christmas spirit",
+      "correctQuestion": "What is Amazon?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Capitalism"
+    },
+    {
+      "id": "caw_nh_006",
+      "audience": "no_humanity",
+      "clue": "What murdered Main Street Christmas shopping",
+      "correctQuestion": "What is Amazon?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Retail Death"
+    },
+    {
+      "id": "caw_nh_007",
+      "audience": "no_humanity",
+      "clue": "The 2015 War on Christmas",
+      "correctQuestion": "What is Starbucks?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Manufactured Outrage"
+    },
+    {
+      "id": "caw_nh_008",
+      "audience": "no_humanity",
+      "clue": "UK Boxing Day sales become this",
+      "correctQuestion": "What is a riot?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Consumer Madness"
+    },
+    {
+      "id": "caw_nh_009",
+      "audience": "no_humanity",
+      "clue": "Where teens flex Christmas haul videos",
+      "correctQuestion": "What is TikTok?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Flexing Culture"
+    },
+    {
+      "id": "caw_nh_010",
+      "audience": "no_humanity",
+      "clue": "What global kids actually want",
+      "correctQuestion": "What is an iPhone?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Consumer Demands"
+    },
+    {
+      "id": "caw_nh_011",
+      "audience": "no_humanity",
+      "clue": "What ruined Christmas 2020 worldwide",
+      "correctQuestion": "What is COVID-19?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Pandemic Life"
+    },
+    {
+      "id": "caw_nh_012",
+      "audience": "no_humanity",
+      "clue": "Christmas 2020's depressing tech support call",
+      "correctQuestion": "What is Zoom?",
+      "category": "Global Christmas",
+      "value": 200,
+      "subcategory": "Pandemic Tech"
+    },
+    {
+      "id": "caw_nh_013",
+      "audience": "no_humanity",
+      "clue": "What Millennials want instead of socks",
+      "correctQuestion": "What is affordable rent?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Economic Reality"
+    },
+    {
+      "id": "caw_nh_014",
+      "audience": "no_humanity",
+      "clue": "Where you stalk friends' Christmas spending",
+      "correctQuestion": "What is Venmo?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Digital Payment"
+    },
+    {
+      "id": "caw_nh_015",
+      "audience": "no_humanity",
+      "clue": "Rich people's 2024 Christmas wish",
+      "correctQuestion": "What is Ozempic?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Celebrity Trends"
+    },
+    {
+      "id": "caw_nh_016",
+      "audience": "no_humanity",
+      "clue": "Hungover Aussies' 3am Boxing Day savior",
+      "correctQuestion": "What is Uber Eats?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Gig Economy"
+    },
+    {
+      "id": "caw_nh_017",
+      "audience": "no_humanity",
+      "clue": "What replaced Christmas cards globally",
+      "correctQuestion": "What is a group text?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Digital Communication"
+    },
+    {
+      "id": "caw_nh_018",
+      "audience": "no_humanity",
+      "clue": "Alternative to traditional Yule logs",
+      "correctQuestion": "What is Tesla?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Tech Disasters"
+    },
+    {
+      "id": "caw_nh_019",
+      "audience": "no_humanity",
+      "clue": "Christmas tree surveillance device",
+      "correctQuestion": "What is Alexa?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Privacy Invasion"
+    },
+    {
+      "id": "caw_nh_020",
+      "audience": "no_humanity",
+      "clue": "Who defrosts every November globally",
+      "correctQuestion": "Who is Mariah Carey?",
+      "category": "Global Christmas",
+      "value": 400,
+      "subcategory": "Christmas Monopoly"
+    },
+    {
+      "id": "caw_nh_021",
+      "audience": "no_humanity",
+      "clue": "What killed the Christmas spirit",
+      "correctQuestion": "What is capitalism?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Generational Despair"
+    },
+    {
+      "id": "caw_nh_022",
+      "audience": "no_humanity",
+      "clue": "The topic ruining Christmas dinner",
+      "correctQuestion": "What is Trump?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Political Division"
+    },
+    {
+      "id": "caw_nh_023",
+      "audience": "no_humanity",
+      "clue": "The other topic ruining Christmas dinner",
+      "correctQuestion": "What is the COVID vaccine?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Pandemic Politics"
+    },
+    {
+      "id": "caw_nh_024",
+      "audience": "no_humanity",
+      "clue": "Where moms spend $347 on paper",
+      "correctQuestion": "What is Target?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Retail Therapy"
+    },
+    {
+      "id": "caw_nh_025",
+      "audience": "no_humanity",
+      "clue": "What actually killed Christmas spirit globally",
+      "correctQuestion": "What is climate change?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Existential Dread"
+    },
+    {
+      "id": "caw_nh_026",
+      "audience": "no_humanity",
+      "clue": "The real Millennial Christmas miracle",
+      "correctQuestion": "What is affordable housing?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Housing Crisis"
+    },
+    {
+      "id": "caw_nh_027",
+      "audience": "no_humanity",
+      "clue": "What Korean couples do on Christmas",
+      "correctQuestion": "What is PDA?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Cultural Norms"
+    },
+    {
+      "id": "caw_nh_028",
+      "audience": "no_humanity",
+      "clue": "What killed Christmas TV specials",
+      "correctQuestion": "What is Netflix?",
+      "category": "Global Christmas",
+      "value": 600,
+      "subcategory": "Streaming Wars"
+    },
+    {
+      "id": "caw_nh_029",
+      "audience": "no_humanity",
+      "clue": "How Hallmark movies solve racism",
+      "correctQuestion": "What is a Christmas party?",
+      "category": "Global Christmas",
+      "value": 800,
+      "subcategory": "Hallmark Formula"
+    },
+    {
+      "id": "caw_nh_030",
+      "audience": "no_humanity",
+      "clue": "The Christmas song playing in Hell",
+      "correctQuestion": "What is Wonderful Christmastime?",
+      "category": "Global Christmas",
+      "value": 800,
+      "subcategory": "Musical Torture"
+    },
+    {
+      "id": "caw_nh_031",
+      "audience": "no_humanity",
+      "clue": "What Die Hard is really about",
+      "correctQuestion": "What is toxic masculinity?",
+      "category": "Global Christmas",
+      "value": 800,
+      "subcategory": "Film Theory"
+    },
+    {
+      "id": "caw_nh_032",
+      "audience": "no_humanity",
+      "clue": "The Christmas song about date rape",
+      "correctQuestion": "What is Baby It's Cold Outside?",
+      "category": "Global Christmas",
+      "value": 800,
+      "subcategory": "Cancel Culture"
+    },
+    {
+      "id": "caw_nh_033",
+      "audience": "no_humanity",
+      "clue": "Buddy the Elf's diagnosis",
+      "correctQuestion": "What is ADHD?",
+      "category": "Global Christmas",
+      "value": 1000,
+      "subcategory": "Armchair Diagnosis"
+    },
+    {
+      "id": "caw_nh_034",
+      "audience": "no_humanity",
+      "clue": "What makes Christmas feel hollow globally",
+      "correctQuestion": "What is late-stage capitalism?",
+      "category": "Global Christmas",
+      "value": 1000,
+      "subcategory": "Economic Theory"
+    },
+    {
+      "id": "caw_nh_035",
+      "audience": "no_humanity",
+      "clue": "What warehouse workers ruining Christmas demand",
+      "correctQuestion": "What are union rights?",
+      "category": "Global Christmas",
+      "value": 1000,
+      "subcategory": "Labor Rights"
+    },
+    {
+      "id": "caw_nh_036",
+      "audience": "no_humanity",
+      "clue": "Why Dutch Sinterklaas got cancelled",
+      "correctQuestion": "What is blackface?",
+      "category": "Global Christmas",
+      "value": 1000,
+      "subcategory": "Racial Controversy"
+    }
+  ],
+  "improvements": {
+    "before_avg_words": "22 words per clue",
+    "after_avg_words": "5 words per clue",
+    "key_changes": [
+      "Cut all unnecessary explanation",
+      "Let the dark juxtaposition be the joke",
+      "Punchy and concise like actual Jeopardy",
+      "Humor through brevity and surprise"
+    ]
+  }
+}

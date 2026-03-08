@@ -1,0 +1,323 @@
+{
+  "category": "Fresh Start & New Chapter - Regular + CAH Style",
+  "regular": [
+    {
+      "clue": "The first day of the calendar year",
+      "correctQuestion": "What is January 1st?",
+      "value": 200
+    },
+    {
+      "clue": "A new beginning or start from zero",
+      "correctQuestion": "What is a fresh start?",
+      "value": 200
+    },
+    {
+      "clue": "The beginning of the school year for students",
+      "correctQuestion": "What is September?",
+      "value": 200
+    },
+    {
+      "clue": "Starting a job at a new company",
+      "correctQuestion": "What is the first day of work?",
+      "value": 200
+    },
+    {
+      "clue": "Moving to a new home or apartment",
+      "correctQuestion": "What is moving day?",
+      "value": 200
+    },
+    {
+      "clue": "Breaking old habits and forming new ones",
+      "correctQuestion": "What is a lifestyle change?",
+      "value": 200
+    },
+    {
+      "clue": "The month most people make resolutions",
+      "correctQuestion": "What is January?",
+      "value": 200
+    },
+    {
+      "clue": "A blank page waiting to be written on",
+      "correctQuestion": "What is a fresh slate?",
+      "value": 200
+    },
+    {
+      "clue": "Starting over after a major life event",
+      "correctQuestion": "What is a clean break?",
+      "value": 200
+    },
+    {
+      "clue": "The first chapter of a new story",
+      "correctQuestion": "What is chapter one?",
+      "value": 200
+    },
+    {
+      "clue": "Deciding to pursue a different career path",
+      "correctQuestion": "What is a career change?",
+      "value": 400
+    },
+    {
+      "clue": "Ending a relationship and starting solo",
+      "correctQuestion": "What is being single?",
+      "value": 400
+    },
+    {
+      "clue": "Planting seeds in spring for a new garden",
+      "correctQuestion": "What is gardening?",
+      "value": 400
+    },
+    {
+      "clue": "The moment someone makes a New Year's resolution",
+      "correctQuestion": "What is December 31st at midnight?",
+      "value": 400
+    },
+    {
+      "clue": "Redecorating a room with a new style",
+      "correctQuestion": "What is redecorating?",
+      "value": 400
+    },
+    {
+      "clue": "Graduating and starting adult life",
+      "correctQuestion": "What is graduation?",
+      "value": 400
+    },
+    {
+      "clue": "Hitting the reset button on technology",
+      "correctQuestion": "What is a factory reset?",
+      "value": 400
+    },
+    {
+      "clue": "The butterfly's transformation from caterpillar",
+      "correctQuestion": "What is metamorphosis?",
+      "value": 400
+    },
+    {
+      "clue": "Learning a completely new skill or language",
+      "correctQuestion": "What is education?",
+      "value": 400
+    },
+    {
+      "clue": "Spring cleaning and organizing your space",
+      "correctQuestion": "What is decluttering?",
+      "value": 400
+    },
+    {
+      "clue": "The dawn of a new era in history",
+      "correctQuestion": "What is a new age?",
+      "value": 600
+    },
+    {
+      "clue": "A second chance at getting things right",
+      "correctQuestion": "What is redemption?",
+      "value": 600
+    },
+    {
+      "clue": "Erasing the past and starting new in a different place",
+      "correctQuestion": "What is reinvention?",
+      "value": 600
+    },
+    {
+      "clue": "The turning point where everything changes",
+      "correctQuestion": "What is a watershed moment?",
+      "value": 600
+    },
+    {
+      "clue": "Removing tattoos to forget the past",
+      "correctQuestion": "What is laser removal?",
+      "value": 600
+    },
+    {
+      "clue": "The day someone commits to sobriety",
+      "correctQuestion": "What is day one?",
+      "value": 600
+    },
+    {
+      "clue": "Sunrise after the longest night of the year",
+      "correctQuestion": "What is the winter solstice?",
+      "value": 600
+    },
+    {
+      "clue": "A phoenix rising from ashes symbolizing rebirth",
+      "correctQuestion": "What is renewal?",
+      "value": 600
+    },
+    {
+      "clue": "The moment a butterfly leaves its chrysalis",
+      "correctQuestion": "What is emergence?",
+      "value": 800
+    },
+    {
+      "clue": "The symbol of hope and new beginnings in literature",
+      "correctQuestion": "What is dawn?",
+      "value": 800
+    }
+  ],
+  "no_humanity": [
+    {
+      "clue": "What people actually stick to from their New Year's resolutions",
+      "correctQuestion": "What is nothing?",
+      "value": 200
+    },
+    {
+      "clue": "The dating app people download after a breakup",
+      "correctQuestion": "What is Tinder?",
+      "value": 200
+    },
+    {
+      "clue": "What killed your plan to hit the gym in January",
+      "correctQuestion": "What is Netflix?",
+      "value": 200
+    },
+    {
+      "clue": "The platform where people announce their fresh start reinvention",
+      "correctQuestion": "What is Instagram?",
+      "value": 200
+    },
+    {
+      "clue": "What you hire to help you forget your old life",
+      "correctQuestion": "What is a therapist?",
+      "value": 200
+    },
+    {
+      "clue": "The book everyone reads about starting over",
+      "correctQuestion": "What is Marie Kondo's organizing method?",
+      "value": 200
+    },
+    {
+      "clue": "Where millennials go for a fresh start after giving up on life",
+      "correctQuestion": "What is their parents' house?",
+      "value": 200
+    },
+    {
+      "clue": "The drug influencers call a 'spiritual cleanse'",
+      "correctQuestion": "What is a juice cleanse?",
+      "value": 200
+    },
+    {
+      "clue": "What Gen Z does to signal a personality rebrand",
+      "correctQuestion": "What is changing their TikTok username?",
+      "value": 200
+    },
+    {
+      "clue": "The month people give up on their fresh start",
+      "correctQuestion": "What is January 15th?",
+      "value": 200
+    },
+    {
+      "clue": "The investment that promises a 'new you'",
+      "correctQuestion": "What is Ozempic?",
+      "value": 400
+    },
+    {
+      "clue": "The surgery people call a 'fresh start' for their confidence",
+      "correctQuestion": "What is cosmetic surgery?",
+      "value": 400
+    },
+    {
+      "clue": "What people delete when pretending their past never happened",
+      "correctQuestion": "What is their browser history?",
+      "value": 400
+    },
+    {
+      "clue": "The debt people ignore when starting fresh",
+      "correctQuestion": "What are student loans?",
+      "value": 400
+    },
+    {
+      "clue": "Where people move to escape their mistakes",
+      "correctQuestion": "What is California?",
+      "value": 400
+    },
+    {
+      "clue": "The sobriety app that tracks your days clean",
+      "correctQuestion": "What is This Naked Mind?",
+      "value": 400
+    },
+    {
+      "clue": "What you change your last name to after a messy divorce",
+      "correctQuestion": "What is your maiden name?",
+      "value": 400
+    },
+    {
+      "clue": "The city people move to for that 'fresh start' vibe",
+      "correctQuestion": "What is Austin, Texas?",
+      "value": 400
+    },
+    {
+      "clue": "The cryptocurrency people buy thinking it's a fresh start",
+      "correctQuestion": "What is Bitcoin?",
+      "value": 400
+    },
+    {
+      "clue": "What influencers call moving somewhere for 'energy'",
+      "correctQuestion": "What is chasing clout?",
+      "value": 400
+    },
+    {
+      "clue": "The app that promises to reorganize your life",
+      "correctQuestion": "What is Notion?",
+      "value": 600
+    },
+    {
+      "clue": "What killed your productivity after day two of your fresh start",
+      "correctQuestion": "What is depression?",
+      "value": 600
+    },
+    {
+      "clue": "The hobby people pick up to appear more interesting",
+      "correctQuestion": "What is pottery?",
+      "value": 600
+    },
+    {
+      "clue": "What you do after every bad date to reset your standards",
+      "correctQuestion": "What is nothing—repeat with same type?",
+      "value": 600
+    },
+    {
+      "clue": "The Instagram aesthetic of someone pretending their life changed",
+      "correctQuestion": "What is cottage core?",
+      "value": 600
+    },
+    {
+      "clue": "What Gen Z dropped for their fresh start personality",
+      "correctQuestion": "What is being funny?",
+      "value": 600
+    },
+    {
+      "clue": "The most common lie people tell at midnight on New Year's",
+      "correctQuestion": "What is 'this year will be different'?",
+      "value": 600
+    },
+    {
+      "clue": "What kills every fresh start for adults",
+      "correctQuestion": "What is having bills?",
+      "value": 600
+    },
+    {
+      "clue": "The expensive course people buy thinking it's a life reset button",
+      "correctQuestion": "What is a Tony Robbins seminar?",
+      "value": 800
+    },
+    {
+      "clue": "Why your fresh start fails every single time",
+      "correctQuestion": "What is you?",
+      "value": 800
+    }
+  ],
+  "notes": {
+    "style": "CAH_STYLE_GUIDE_2025.md compliant",
+    "regular_count": 30,
+    "cah_count": 30,
+    "tone": "SHORT & PUNCHY",
+    "themes": [
+      "Fresh starts",
+      "Clean slate",
+      "New chapter",
+      "Resolutions",
+      "Reinvention",
+      "New Year",
+      "Second chances",
+      "Beginning again"
+    ]
+  }
+}

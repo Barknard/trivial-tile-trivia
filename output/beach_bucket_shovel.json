@@ -1,0 +1,1289 @@
+{
+  "title": "Beach Buckets, Shovels & Digging Tools",
+  "description": "Family-friendly Jeopardy-style questions about beach buckets, shovels, digging tools, and sandy beach fun",
+  "difficulty_levels": 6,
+  "questions_per_level": 30,
+  "total_questions": 180,
+  "categories": [
+    "Bucket Basics",
+    "Shovel Science",
+    "Digging & Scooping",
+    "Beach Tools",
+    "Sand & Shells",
+    "Summer Fun"
+  ],
+  "data": {
+    "level_1_beginner": [
+      {
+        "id": 1,
+        "category": "Bucket Basics",
+        "difficulty": 1,
+        "question": "What is a container you use at the beach to carry sand and water called?",
+        "answer": "A bucket"
+      },
+      {
+        "id": 2,
+        "category": "Shovel Science",
+        "difficulty": 1,
+        "question": "What tool has a long handle and a flat or curved blade used for digging?",
+        "answer": "A shovel"
+      },
+      {
+        "id": 3,
+        "category": "Beach Tools",
+        "difficulty": 1,
+        "question": "Which color bucket is most commonly seen on the beach?",
+        "answer": "Red or yellow"
+      },
+      {
+        "id": 4,
+        "category": "Digging & Scooping",
+        "difficulty": 1,
+        "question": "What do you use a shovel for at the beach?",
+        "answer": "Digging in the sand"
+      },
+      {
+        "id": 5,
+        "category": "Sand & Shells",
+        "difficulty": 1,
+        "question": "What do you find at the beach that you might collect in a bucket?",
+        "answer": "Shells, sand, or rocks"
+      },
+      {
+        "id": 6,
+        "category": "Summer Fun",
+        "difficulty": 1,
+        "question": "What can you build with a bucket and shovel at the beach?",
+        "answer": "A sand castle"
+      },
+      {
+        "id": 7,
+        "category": "Bucket Basics",
+        "difficulty": 1,
+        "question": "How many handles does a typical beach bucket have?",
+        "answer": "One or two"
+      },
+      {
+        "id": 8,
+        "category": "Shovel Science",
+        "difficulty": 1,
+        "question": "Is a shovel's blade usually pointed or flat?",
+        "answer": "Flat"
+      },
+      {
+        "id": 9,
+        "category": "Beach Tools",
+        "difficulty": 1,
+        "question": "What material is a beach bucket usually made of?",
+        "answer": "Plastic"
+      },
+      {
+        "id": 10,
+        "category": "Digging & Scooping",
+        "difficulty": 1,
+        "question": "What is the part of the shovel you grip called?",
+        "answer": "The handle"
+      },
+      {
+        "id": 11,
+        "category": "Sand & Shells",
+        "difficulty": 1,
+        "question": "What does a bucket hold that you dig up with a shovel?",
+        "answer": "Sand"
+      },
+      {
+        "id": 12,
+        "category": "Summer Fun",
+        "difficulty": 1,
+        "question": "What do kids make at the beach using molds and buckets?",
+        "answer": "Sand castles"
+      },
+      {
+        "id": 13,
+        "category": "Bucket Basics",
+        "difficulty": 1,
+        "question": "Can a bucket hold water?",
+        "answer": "Yes"
+      },
+      {
+        "id": 14,
+        "category": "Shovel Science",
+        "difficulty": 1,
+        "question": "What shape is a beach shovel's blade?",
+        "answer": "Rectangular or square"
+      },
+      {
+        "id": 15,
+        "category": "Beach Tools",
+        "difficulty": 1,
+        "question": "Is a beach bucket waterproof?",
+        "answer": "Yes"
+      },
+      {
+        "id": 16,
+        "category": "Digging & Scooping",
+        "difficulty": 1,
+        "question": "What material is most common for a shovel's handle?",
+        "answer": "Plastic or wood"
+      },
+      {
+        "id": 17,
+        "category": "Sand & Shells",
+        "difficulty": 1,
+        "question": "What sandy area do you visit with a bucket and shovel?",
+        "answer": "The beach"
+      },
+      {
+        "id": 18,
+        "category": "Summer Fun",
+        "difficulty": 1,
+        "question": "What is it called when you dig a large hole in the sand?",
+        "answer": "A sandpit or pit"
+      },
+      {
+        "id": 19,
+        "category": "Bucket Basics",
+        "difficulty": 1,
+        "question": "What do you fill a bucket with at the beach?",
+        "answer": "Sand or water"
+      },
+      {
+        "id": 20,
+        "category": "Shovel Science",
+        "difficulty": 1,
+        "question": "What is the bottom part of the shovel called?",
+        "answer": "The blade or scoop"
+      },
+      {
+        "id": 21,
+        "category": "Beach Tools",
+        "difficulty": 1,
+        "question": "How heavy is a typical beach bucket?",
+        "answer": "Very light or lightweight"
+      },
+      {
+        "id": 22,
+        "category": "Digging & Scooping",
+        "difficulty": 1,
+        "question": "What motion do you use with a shovel to dig?",
+        "answer": "Push and scoop"
+      },
+      {
+        "id": 23,
+        "category": "Sand & Shells",
+        "difficulty": 1,
+        "question": "What type of decorations do people add to sand castles from buckets?",
+        "answer": "Flags, shells, or seaweed"
+      },
+      {
+        "id": 24,
+        "category": "Summer Fun",
+        "difficulty": 1,
+        "question": "What is another name for a sand castle?",
+        "answer": "A sandcastle or sand fort"
+      },
+      {
+        "id": 25,
+        "category": "Bucket Basics",
+        "difficulty": 1,
+        "question": "What shape is most common for a beach bucket?",
+        "answer": "Cylindrical or round"
+      },
+      {
+        "id": 26,
+        "category": "Shovel Science",
+        "difficulty": 1,
+        "question": "How many inches long is a typical beach shovel?",
+        "answer": "About 6 to 12 inches"
+      },
+      {
+        "id": 27,
+        "category": "Beach Tools",
+        "difficulty": 1,
+        "question": "What is a small version of a shovel called?",
+        "answer": "A spade or shovelette"
+      },
+      {
+        "id": 28,
+        "category": "Digging & Scooping",
+        "difficulty": 1,
+        "question": "Where at the beach is sand easiest to dig?",
+        "answer": "Near the water or wet sand"
+      },
+      {
+        "id": 29,
+        "category": "Sand & Shells",
+        "difficulty": 1,
+        "question": "What activity involves using a bucket to collect shells?",
+        "answer": "Shell collecting or beachcombing"
+      },
+      {
+        "id": 30,
+        "category": "Summer Fun",
+        "difficulty": 1,
+        "question": "What season is best for bucket and shovel activities?",
+        "answer": "Summer"
+      }
+    ],
+    "level_2_easy": [
+      {
+        "id": 31,
+        "category": "Bucket Basics",
+        "difficulty": 2,
+        "question": "What is the capacity of a standard beach bucket in liters?",
+        "answer": "About 5 to 10 liters"
+      },
+      {
+        "id": 32,
+        "category": "Shovel Science",
+        "difficulty": 2,
+        "question": "Why is a shovel's blade curved or angled?",
+        "answer": "To scoop sand more efficiently"
+      },
+      {
+        "id": 33,
+        "category": "Beach Tools",
+        "difficulty": 2,
+        "question": "What brand is famous for colorful plastic beach buckets?",
+        "answer": "Tupperware or LEGO"
+      },
+      {
+        "id": 34,
+        "category": "Digging & Scooping",
+        "difficulty": 2,
+        "question": "What is the ergonomic advantage of a shovel's long handle?",
+        "answer": "It reduces strain on the back and arms"
+      },
+      {
+        "id": 35,
+        "category": "Sand & Shells",
+        "difficulty": 2,
+        "question": "What type of sand is easier to shape for castles?",
+        "answer": "Wet sand"
+      },
+      {
+        "id": 36,
+        "category": "Summer Fun",
+        "difficulty": 2,
+        "question": "What is the process of turning a bucket of sand into a castle called?",
+        "answer": "Molding or shaping"
+      },
+      {
+        "id": 37,
+        "category": "Bucket Basics",
+        "difficulty": 2,
+        "question": "What holes are sometimes found in beach buckets?",
+        "answer": "Drainage holes"
+      },
+      {
+        "id": 38,
+        "category": "Shovel Science",
+        "difficulty": 2,
+        "question": "What is the difference between a shovel and a spade?",
+        "answer": "A shovel has a curved blade, a spade has a flat blade"
+      },
+      {
+        "id": 39,
+        "category": "Beach Tools",
+        "difficulty": 2,
+        "question": "What comes in a typical beach bucket and shovel set?",
+        "answer": "A bucket, shovel, and sometimes molds"
+      },
+      {
+        "id": 40,
+        "category": "Digging & Scooping",
+        "difficulty": 2,
+        "question": "How deep can you typically dig with a beach shovel?",
+        "answer": "About 6 to 12 inches"
+      },
+      {
+        "id": 41,
+        "category": "Sand & Shells",
+        "difficulty": 2,
+        "question": "What sea creatures might you find while digging with a shovel?",
+        "answer": "Crabs, clams, or worms"
+      },
+      {
+        "id": 42,
+        "category": "Summer Fun",
+        "difficulty": 2,
+        "question": "What supplies do you need to build a sand castle?",
+        "answer": "Bucket, shovel, sand, and water"
+      },
+      {
+        "id": 43,
+        "category": "Bucket Basics",
+        "difficulty": 2,
+        "question": "What is the purpose of a bucket's handle in beach activities?",
+        "answer": "To carry sand and water easily"
+      },
+      {
+        "id": 44,
+        "category": "Shovel Science",
+        "difficulty": 2,
+        "question": "What angle should you hold a shovel for maximum digging efficiency?",
+        "answer": "About 45 degrees"
+      },
+      {
+        "id": 45,
+        "category": "Beach Tools",
+        "difficulty": 2,
+        "question": "Why are beach buckets often transparent or translucent?",
+        "answer": "To see what's inside and make them fun and visible"
+      },
+      {
+        "id": 46,
+        "category": "Digging & Scooping",
+        "difficulty": 2,
+        "question": "What is the best technique for scooping sand with a shovel?",
+        "answer": "Push forward and lift up"
+      },
+      {
+        "id": 47,
+        "category": "Sand & Shells",
+        "difficulty": 2,
+        "question": "What is sand composed of?",
+        "answer": "Tiny grains of rock and shells"
+      },
+      {
+        "id": 48,
+        "category": "Summer Fun",
+        "difficulty": 2,
+        "question": "What decorative molds come with beach bucket sets?",
+        "answer": "Castle towers, animal shapes, or shells"
+      },
+      {
+        "id": 49,
+        "category": "Bucket Basics",
+        "difficulty": 2,
+        "question": "What size bucket is best for young children?",
+        "answer": "A small to medium-sized bucket"
+      },
+      {
+        "id": 50,
+        "category": "Shovel Science",
+        "difficulty": 2,
+        "question": "What material makes shovels resistant to rust at the beach?",
+        "answer": "Plastic or treated metal"
+      },
+      {
+        "id": 51,
+        "category": "Beach Tools",
+        "difficulty": 2,
+        "question": "What is a miniature shovel for beach use called?",
+        "answer": "A shovelette or toy shovel"
+      },
+      {
+        "id": 52,
+        "category": "Digging & Scooping",
+        "difficulty": 2,
+        "question": "How many shovels do you need to fill a bucket?",
+        "answer": "About 10 to 20 shovels depending on size"
+      },
+      {
+        "id": 53,
+        "category": "Sand & Shells",
+        "difficulty": 2,
+        "question": "What causes sand to harden when mixed with water?",
+        "answer": "The water fills the spaces between sand grains"
+      },
+      {
+        "id": 54,
+        "category": "Summer Fun",
+        "difficulty": 2,
+        "question": "What is the main challenge when building a tall sand castle?",
+        "answer": "Keeping it stable and preventing collapse"
+      },
+      {
+        "id": 55,
+        "category": "Bucket Basics",
+        "difficulty": 2,
+        "question": "What safety feature do modern beach buckets include?",
+        "answer": "Non-toxic plastic material"
+      },
+      {
+        "id": 56,
+        "category": "Shovel Science",
+        "difficulty": 2,
+        "question": "What is the weight limit for a typical plastic beach shovel?",
+        "answer": "About 50 to 100 pounds of sand"
+      },
+      {
+        "id": 57,
+        "category": "Beach Tools",
+        "difficulty": 2,
+        "question": "What alternative tool can be used instead of a shovel?",
+        "answer": "A hand scoop, rake, or spade"
+      },
+      {
+        "id": 58,
+        "category": "Digging & Scooping",
+        "difficulty": 2,
+        "question": "What happens to dry sand versus wet sand when digging?",
+        "answer": "Dry sand falls apart, wet sand holds together"
+      },
+      {
+        "id": 59,
+        "category": "Sand & Shells",
+        "difficulty": 2,
+        "question": "What is the difference between sand and shells?",
+        "answer": "Sand is eroded rock, shells are animal homes"
+      },
+      {
+        "id": 60,
+        "category": "Summer Fun",
+        "difficulty": 2,
+        "question": "How long does a sand castle typically last?",
+        "answer": "A few hours to a day"
+      }
+    ],
+    "level_3_medium": [
+      {
+        "id": 61,
+        "category": "Bucket Basics",
+        "difficulty": 3,
+        "question": "What is the volumetric difference between a 5-quart and 10-quart bucket?",
+        "answer": "Five quarts or about 4.7 liters"
+      },
+      {
+        "id": 62,
+        "category": "Shovel Science",
+        "difficulty": 3,
+        "question": "How does sand particle size affect shoveling difficulty?",
+        "answer": "Finer sand requires more effort, coarser sand is easier"
+      },
+      {
+        "id": 63,
+        "category": "Beach Tools",
+        "difficulty": 3,
+        "question": "What is the historical origin of the beach bucket toy?",
+        "answer": "Early 1900s as a sand play tool for children"
+      },
+      {
+        "id": 64,
+        "category": "Digging & Scooping",
+        "difficulty": 3,
+        "question": "What is the mechanical advantage of a shovel's lever action?",
+        "answer": "It multiplies force to lift heavier loads with less effort"
+      },
+      {
+        "id": 65,
+        "category": "Sand & Shells",
+        "difficulty": 3,
+        "question": "What geological process creates beach sand over thousands of years?",
+        "answer": "Erosion and weathering of rocks"
+      },
+      {
+        "id": 66,
+        "category": "Summer Fun",
+        "difficulty": 3,
+        "question": "What engineering principle is used in competitive sand castle building?",
+        "answer": "Structural stability, weight distribution, and design"
+      },
+      {
+        "id": 67,
+        "category": "Bucket Basics",
+        "difficulty": 3,
+        "question": "What is the optimal bucket size for sand castle efficiency?",
+        "answer": "5 to 7 quarts for best handling and quick filling"
+      },
+      {
+        "id": 68,
+        "category": "Shovel Science",
+        "difficulty": 3,
+        "question": "What is the material composition of beach shovel blades?",
+        "answer": "Typically polypropylene or high-density polyethylene"
+      },
+      {
+        "id": 69,
+        "category": "Beach Tools",
+        "difficulty": 3,
+        "question": "What design innovation improved bucket ergonomics for children?",
+        "answer": "Contoured handles and lightweight material"
+      },
+      {
+        "id": 70,
+        "category": "Digging & Scooping",
+        "difficulty": 3,
+        "question": "What is the relationship between sand moisture and shoveling ease?",
+        "answer": "Slightly moist sand is easiest to shovel and shape"
+      },
+      {
+        "id": 71,
+        "category": "Sand & Shells",
+        "difficulty": 3,
+        "question": "What shells are commonly found in beach sand?",
+        "answer": "Clam, mussel, snail, and sea urchin shells"
+      },
+      {
+        "id": 72,
+        "category": "Summer Fun",
+        "difficulty": 3,
+        "question": "What is the world record height for a sand castle?",
+        "answer": "Over 50 feet tall"
+      },
+      {
+        "id": 73,
+        "category": "Bucket Basics",
+        "difficulty": 3,
+        "question": "What degradation process affects plastic buckets in sunlight?",
+        "answer": "UV degradation causing brittleness and color fading"
+      },
+      {
+        "id": 74,
+        "category": "Shovel Science",
+        "difficulty": 3,
+        "question": "What is the ideal shovel blade-to-handle ratio for beach use?",
+        "answer": "About 1:3 for optimal balance and control"
+      },
+      {
+        "id": 75,
+        "category": "Beach Tools",
+        "difficulty": 3,
+        "question": "What additional tools complement bucket and shovel sets?",
+        "answer": "Molds, rakes, rollers, and decorative picks"
+      },
+      {
+        "id": 76,
+        "category": "Digging & Scooping",
+        "difficulty": 3,
+        "question": "How does sand compaction affect structural integrity of sand castles?",
+        "answer": "Properly compacted sand provides better stability and strength"
+      },
+      {
+        "id": 77,
+        "category": "Sand & Shells",
+        "difficulty": 3,
+        "question": "What is the Mohs hardness scale value of sand grains?",
+        "answer": "About 7 for quartz sand"
+      },
+      {
+        "id": 78,
+        "category": "Summer Fun",
+        "difficulty": 3,
+        "question": "What architectural features appear in professional sand sculptures?",
+        "answer": "Towers, arches, drawbridges, and detailed carvings"
+      },
+      {
+        "id": 79,
+        "category": "Bucket Basics",
+        "difficulty": 3,
+        "question": "What measurement system measures bucket capacity?",
+        "answer": "Liters, quarts, or gallons"
+      },
+      {
+        "id": 80,
+        "category": "Shovel Science",
+        "difficulty": 3,
+        "question": "What is the center of gravity consideration for shovel balance?",
+        "answer": "It should be near the blade for efficient digging"
+      },
+      {
+        "id": 81,
+        "category": "Beach Tools",
+        "difficulty": 3,
+        "question": "What manufacturing process creates seamless plastic buckets?",
+        "answer": "Injection molding"
+      },
+      {
+        "id": 82,
+        "category": "Digging & Scooping",
+        "difficulty": 3,
+        "question": "What stride and rhythm optimize shoveling efficiency?",
+        "answer": "Consistent, rhythmic motions with proper body mechanics"
+      },
+      {
+        "id": 83,
+        "category": "Sand & Shells",
+        "difficulty": 3,
+        "question": "What is the primary mineral composition of most beach sand?",
+        "answer": "Silicon dioxide or quartz"
+      },
+      {
+        "id": 84,
+        "category": "Summer Fun",
+        "difficulty": 3,
+        "question": "What is the typical duration of an organized sand castle building competition?",
+        "answer": "3 to 5 hours"
+      },
+      {
+        "id": 85,
+        "category": "Bucket Basics",
+        "difficulty": 3,
+        "question": "What environmental factor causes bucket color fading?",
+        "answer": "UV exposure and saltwater corrosion"
+      },
+      {
+        "id": 86,
+        "category": "Shovel Science",
+        "difficulty": 3,
+        "question": "What is the tensile strength of typical plastic shovel materials?",
+        "answer": "About 40 to 70 megapascals"
+      },
+      {
+        "id": 87,
+        "category": "Beach Tools",
+        "difficulty": 3,
+        "question": "What is the difference between a castle mold and a decorative mold?",
+        "answer": "Castle molds create structure, decorative molds add details"
+      },
+      {
+        "id": 88,
+        "category": "Digging & Scooping",
+        "difficulty": 3,
+        "question": "What soil density classification applies to beach sand?",
+        "answer": "Loose to medium loose"
+      },
+      {
+        "id": 89,
+        "category": "Sand & Shells",
+        "difficulty": 3,
+        "question": "What biological process produces shells found on beaches?",
+        "answer": "Mollusk and crustacean shell secretion over years"
+      },
+      {
+        "id": 90,
+        "category": "Summer Fun",
+        "difficulty": 3,
+        "question": "What cultural event celebrates sand sculpture artistry worldwide?",
+        "answer": "International Sand Sculpture Festivals"
+      }
+    ],
+    "level_4_challenging": [
+      {
+        "id": 91,
+        "category": "Bucket Basics",
+        "difficulty": 4,
+        "question": "What is the precise relationship between bucket surface area and evaporation rate?",
+        "answer": "Larger surface area increases evaporation rate exponentially"
+      },
+      {
+        "id": 92,
+        "category": "Shovel Science",
+        "difficulty": 4,
+        "question": "How does blade surface friction coefficient affect sand adhesion and movement?",
+        "answer": "Lower friction coefficients reduce sand sticking and improve flow"
+      },
+      {
+        "id": 93,
+        "category": "Beach Tools",
+        "difficulty": 4,
+        "question": "What polymer chemistry advances improved bucket durability over 50 years?",
+        "answer": "Development of UV-stabilized high-density polyethylene"
+      },
+      {
+        "id": 94,
+        "category": "Digging & Scooping",
+        "difficulty": 4,
+        "question": "What is the biomechanics principle governing optimal shovel blade angle?",
+        "answer": "Angle of repose matching soil slope stability"
+      },
+      {
+        "id": 95,
+        "category": "Sand & Shells",
+        "difficulty": 4,
+        "question": "What sedimentological classification applies to beach sand grain distribution?",
+        "answer": "Well-sorted to moderately-sorted sediments"
+      },
+      {
+        "id": 96,
+        "category": "Summer Fun",
+        "difficulty": 4,
+        "question": "What structural engineering principle prevents sand castle collapse under moisture loss?",
+        "answer": "Capillary adhesion and cohesion between grain particles"
+      },
+      {
+        "id": 97,
+        "category": "Bucket Basics",
+        "difficulty": 4,
+        "question": "What is the thermal conductivity of polypropylene bucket material?",
+        "answer": "Approximately 0.1 to 0.2 watts per meter-Kelvin"
+      },
+      {
+        "id": 98,
+        "category": "Shovel Science",
+        "difficulty": 4,
+        "question": "What hydrodynamic principle governs sand flow from shovel to bucket?",
+        "answer": "Bernoulli's principle and particle momentum conservation"
+      },
+      {
+        "id": 99,
+        "category": "Beach Tools",
+        "difficulty": 4,
+        "question": "What injection molding parameters optimize bucket wall thickness uniformity?",
+        "answer": "Precise temperature, pressure, and cooling time control"
+      },
+      {
+        "id": 100,
+        "category": "Digging & Scooping",
+        "difficulty": 4,
+        "question": "What is the relationship between sand grain size and shear strength?",
+        "answer": "Finer grains produce higher shear strength when moist"
+      },
+      {
+        "id": 101,
+        "category": "Sand & Shells",
+        "difficulty": 4,
+        "question": "What are the primary aragonite and calcite percentages in shell composition?",
+        "answer": "Typically 95-98 percent calcium carbonate compounds"
+      },
+      {
+        "id": 102,
+        "category": "Summer Fun",
+        "difficulty": 4,
+        "question": "What is the relationship between sand moisture content and compressive strength?",
+        "answer": "Maximum strength at approximately 10-15 percent moisture"
+      },
+      {
+        "id": 103,
+        "category": "Bucket Basics",
+        "difficulty": 4,
+        "question": "What is the buckling resistance of plastic bucket sidewalls under lateral pressure?",
+        "answer": "Dependent on wall thickness and material grade"
+      },
+      {
+        "id": 104,
+        "category": "Shovel Science",
+        "difficulty": 4,
+        "question": "What is the stress concentration factor at shovel blade-handle junction?",
+        "answer": "Typically 2 to 3 times the nominal stress"
+      },
+      {
+        "id": 105,
+        "category": "Beach Tools",
+        "difficulty": 4,
+        "question": "What surface treatment prevents static charge buildup in beach buckets?",
+        "answer": "Conductive additive incorporation into plastic polymer"
+      },
+      {
+        "id": 106,
+        "category": "Digging & Scooping",
+        "difficulty": 4,
+        "question": "What is the critical angle of repose for wet sand shoveling?",
+        "answer": "Approximately 30 to 35 degrees from horizontal"
+      },
+      {
+        "id": 107,
+        "category": "Sand & Shells",
+        "difficulty": 4,
+        "question": "What paleontological significance do shells have in geological dating?",
+        "answer": "They serve as index fossils for stratigraphic correlation"
+      },
+      {
+        "id": 108,
+        "category": "Summer Fun",
+        "difficulty": 4,
+        "question": "What fractal geometry principles appear in complex sand sculpture designs?",
+        "answer": "Self-similarity at different scales in architectural elements"
+      },
+      {
+        "id": 109,
+        "category": "Bucket Basics",
+        "difficulty": 4,
+        "question": "What is the coefficient of thermal expansion for polypropylene buckets?",
+        "answer": "Approximately 70 to 100 micrometers per meter-Kelvin"
+      },
+      {
+        "id": 110,
+        "category": "Shovel Science",
+        "difficulty": 4,
+        "question": "What is the impact resistance rating of plastic shovels in Izod impact tests?",
+        "answer": "Typically 1.5 to 3.5 foot-pounds per inch"
+      },
+      {
+        "id": 111,
+        "category": "Beach Tools",
+        "difficulty": 4,
+        "question": "What mold release agent prevents sand from sticking to castle molds?",
+        "answer": "Mineral oil or silicone-based lubricants"
+      },
+      {
+        "id": 112,
+        "category": "Digging & Scooping",
+        "difficulty": 4,
+        "question": "What tribological properties reduce friction between shovel blade and sand?",
+        "answer": "Smooth surface finish and hydrophobic material properties"
+      },
+      {
+        "id": 113,
+        "category": "Sand & Shells",
+        "difficulty": 4,
+        "question": "What ionic bonding mechanism gives shells their crystal structure?",
+        "answer": "Calcium and carbonate ions forming calcium carbonate lattice"
+      },
+      {
+        "id": 114,
+        "category": "Summer Fun",
+        "difficulty": 4,
+        "question": "What is the load-bearing capacity of a sand castle tower base per linear inch?",
+        "answer": "Approximately 5 to 10 pounds depending on sand moisture"
+      },
+      {
+        "id": 115,
+        "category": "Bucket Basics",
+        "difficulty": 4,
+        "question": "What is the optical transmittance percentage of translucent bucket plastic?",
+        "answer": "Typically 70 to 85 percent light transmission"
+      },
+      {
+        "id": 116,
+        "category": "Shovel Science",
+        "difficulty": 4,
+        "question": "What is the fatigue crack propagation rate in repeated shovel blade flexing?",
+        "answer": "Dependent on material grade and cyclic stress amplitude"
+      },
+      {
+        "id": 117,
+        "category": "Beach Tools",
+        "difficulty": 4,
+        "question": "What dimensional tolerance is maintained in injection molded buckets?",
+        "answer": "Typically plus or minus 0.5 to 1 percent of nominal dimensions"
+      },
+      {
+        "id": 118,
+        "category": "Digging & Scooping",
+        "difficulty": 4,
+        "question": "What is the relationship between shovel weight and user fatigue factor?",
+        "answer": "Heavier shovels increase fatigue exponentially with use duration"
+      },
+      {
+        "id": 119,
+        "category": "Sand & Shells",
+        "difficulty": 4,
+        "question": "What is the Vickers hardness rating of molluskan shell material?",
+        "answer": "Approximately 300 to 500 Vickers hardness units"
+      },
+      {
+        "id": 120,
+        "category": "Summer Fun",
+        "difficulty": 4,
+        "question": "What aerodynamic consideration affects sand castle wind resistance?",
+        "answer": "Surface texture and form factor influence drag coefficient"
+      }
+    ],
+    "level_5_hard": [
+      {
+        "id": 121,
+        "category": "Bucket Basics",
+        "difficulty": 5,
+        "question": "What is the viscoelastic behavior of plastic buckets under prolonged compression loading?",
+        "answer": "Stress relaxation and creep deformation over time periods"
+      },
+      {
+        "id": 122,
+        "category": "Shovel Science",
+        "difficulty": 5,
+        "question": "How does viscoelasticity in shovel handles affect stress distribution under dynamic loading?",
+        "answer": "Material damping properties reduce peak stress concentrations"
+      },
+      {
+        "id": 123,
+        "category": "Beach Tools",
+        "difficulty": 5,
+        "question": "What is the molecular weight distribution of high-density polyethylene bucket material?",
+        "answer": "Polydisperse distribution with weight-average molecular weight 50,000-100,000"
+      },
+      {
+        "id": 124,
+        "category": "Digging & Scooping",
+        "difficulty": 5,
+        "question": "What is the complex modulus relationship between shovel material properties and frequency?",
+        "answer": "Modulus increases with frequency following power law dependence"
+      },
+      {
+        "id": 125,
+        "category": "Sand & Shells",
+        "difficulty": 5,
+        "question": "What is the grain size distribution classification using Wentworth scale for beach sand?",
+        "answer": "Medium to fine sand with phi values between 1 and 3"
+      },
+      {
+        "id": 126,
+        "category": "Summer Fun",
+        "difficulty": 5,
+        "question": "What is the relationship between capillary pressure and sand castle stability thresholds?",
+        "answer": "Optimal stability at saturation equivalent to suction of 100-200 pascals"
+      },
+      {
+        "id": 127,
+        "category": "Bucket Basics",
+        "difficulty": 5,
+        "question": "What is the water vapor transmission rate of polypropylene bucket walls?",
+        "answer": "Approximately 0.5 to 2 grams per square meter per day"
+      },
+      {
+        "id": 128,
+        "category": "Shovel Science",
+        "difficulty": 5,
+        "question": "What is the microstructural effect of annealing on shovel blade crystallinity?",
+        "answer": "Increases crystalline phase proportion, improving stiffness and brittleness"
+      },
+      {
+        "id": 129,
+        "category": "Beach Tools",
+        "difficulty": 5,
+        "question": "What is the glass transition temperature of polypropylene bucket polymer?",
+        "answer": "Approximately 10 to 20 degrees Celsius"
+      },
+      {
+        "id": 130,
+        "category": "Digging & Scooping",
+        "difficulty": 5,
+        "question": "What is the constitutive relationship between strain rate and sand shear resistance?",
+        "answer": "Non-linear increase in strength with higher strain rates"
+      },
+      {
+        "id": 131,
+        "category": "Sand & Shells",
+        "difficulty": 5,
+        "question": "What is the microporosity percentage in typical gastropod shell structures?",
+        "answer": "Between 1 and 5 percent of total shell volume"
+      },
+      {
+        "id": 132,
+        "category": "Summer Fun",
+        "difficulty": 5,
+        "question": "What is the fracture toughness relationship in sand castle structural failure modes?",
+        "answer": "Brittle fracture dominates as moisture content approaches critical threshold"
+      },
+      {
+        "id": 133,
+        "category": "Bucket Basics",
+        "difficulty": 5,
+        "question": "What is the environmental stress cracking sensitivity of bucket polymers to surfactants?",
+        "answer": "Higher in linear polyethylene, lower in high-density polyethylene"
+      },
+      {
+        "id": 134,
+        "category": "Shovel Science",
+        "difficulty": 5,
+        "question": "What is the strain hardening exponent for plastic shovel blade material?",
+        "answer": "Typically between 0.1 and 0.3 for polyethylene materials"
+      },
+      {
+        "id": 135,
+        "category": "Beach Tools",
+        "difficulty": 5,
+        "question": "What is the coefficient of friction between polypropylene and wet sand?",
+        "answer": "Approximately 0.3 to 0.5 depending on surface roughness"
+      },
+      {
+        "id": 136,
+        "category": "Digging & Scooping",
+        "difficulty": 5,
+        "question": "What is the relationship between dilatancy and sand shear strength development?",
+        "answer": "Volume expansion during shear increases effective normal stress"
+      },
+      {
+        "id": 137,
+        "category": "Sand & Shells",
+        "difficulty": 5,
+        "question": "What is the birefringence index of calcium carbonate crystal structures in shells?",
+        "answer": "Approximately 0.17 to 0.21 depending on aragonite versus calcite"
+      },
+      {
+        "id": 138,
+        "category": "Summer Fun",
+        "difficulty": 5,
+        "question": "What is the relationship between relative humidity and sand castle cohesive strength?",
+        "answer": "Strength decreases linearly as relative humidity approaches saturation"
+      },
+      {
+        "id": 139,
+        "category": "Bucket Basics",
+        "difficulty": 5,
+        "question": "What is the barrier property relationship between bucket material and oxygen permeability?",
+        "answer": "Polypropylene has oxygen permeability of 30-50 cubic centimeters per square meter per day"
+      },
+      {
+        "id": 140,
+        "category": "Shovel Science",
+        "difficulty": 5,
+        "question": "What is the yield point phenomenon in plastic shovel materials under tensile loading?",
+        "answer": "Upper yield point followed by Luders band propagation in polyethylene"
+      },
+      {
+        "id": 141,
+        "category": "Beach Tools",
+        "difficulty": 5,
+        "question": "What is the peroxide cross-linking mechanism used in advanced bucket materials?",
+        "answer": "Free radical abstraction creating covalent bonds between polymer chains"
+      },
+      {
+        "id": 142,
+        "category": "Digging & Scooping",
+        "difficulty": 5,
+        "question": "What is the critical state soil mechanics concept applied to sand behavior?",
+        "answer": "Unique relationship between void ratio and effective stress at failure"
+      },
+      {
+        "id": 143,
+        "category": "Sand & Shells",
+        "difficulty": 5,
+        "question": "What is the nano-scale lamellar structure of nacre that provides shell toughness?",
+        "answer": "Alternating layers of aragonite platelets and protein matrix"
+      },
+      {
+        "id": 144,
+        "category": "Summer Fun",
+        "difficulty": 5,
+        "question": "What is the cohesion loss rate in sand castles due to evaporative drying?",
+        "answer": "Approximately 1 to 2 percent cohesion loss per hour depending on conditions"
+      },
+      {
+        "id": 145,
+        "category": "Bucket Basics",
+        "difficulty": 5,
+        "question": "What is the surface energy interaction between water and polypropylene bucket material?",
+        "answer": "Low surface energy creates hydrophobic interface with contact angle near 100 degrees"
+      },
+      {
+        "id": 146,
+        "category": "Shovel Science",
+        "difficulty": 5,
+        "question": "What is the impact-modified polypropylene composition for enhanced shovel toughness?",
+        "answer": "Typically 5 to 10 percent elastomeric rubber phase dispersed in matrix"
+      },
+      {
+        "id": 147,
+        "category": "Beach Tools",
+        "difficulty": 5,
+        "question": "What is the nucleation control mechanism in injection molded bucket crystallization?",
+        "answer": "Nucleating agent particles promote heterogeneous crystal nucleation sites"
+      },
+      {
+        "id": 148,
+        "category": "Digging & Scooping",
+        "difficulty": 5,
+        "question": "What is the principle of effective stress in explaining sand dilation during shearing?",
+        "answer": "Increase in mean effective stress due to volume expansion of sand skeleton"
+      },
+      {
+        "id": 149,
+        "category": "Sand & Shells",
+        "difficulty": 5,
+        "question": "What is the ionic substitution mechanism in mollusk shell aragonite formation?",
+        "answer": "Magnesium and strontium ions substitute for calcium in crystal lattice"
+      },
+      {
+        "id": 150,
+        "category": "Summer Fun",
+        "difficulty": 5,
+        "question": "What is the time-dependent mechanical behavior degradation in sand castle structures?",
+        "answer": "Stress-induced crack propagation and micro-fracture coalescence acceleration"
+      }
+    ],
+    "level_6_expert": [
+      {
+        "id": 151,
+        "category": "Bucket Basics",
+        "difficulty": 6,
+        "question": "What is the relationship between polymer chain entanglement density and bucket stress-strain nonlinearity?",
+        "answer": "Higher entanglement density increases strain-hardening coefficient and reduces necking strain"
+      },
+      {
+        "id": 152,
+        "category": "Shovel Science",
+        "difficulty": 6,
+        "question": "What is the mechanism of stress whitening in polypropylene shovel materials under deformation?",
+        "answer": "Voiding formation from cavitation at particle interfaces during plastic deformation"
+      },
+      {
+        "id": 153,
+        "category": "Beach Tools",
+        "difficulty": 6,
+        "question": "What is the relationship between bucket injection molding shear rate and molecular orientation?",
+        "answer": "Higher shear rates induce preferential chain alignment along flow direction"
+      },
+      {
+        "id": 154,
+        "category": "Digging & Scooping",
+        "difficulty": 6,
+        "question": "What is the hypoplasticity framework application to sand behavior under cyclic shovel loading?",
+        "answer": "Captures ratcheting and non-coaxiality effects using fourth-order tensors"
+      },
+      {
+        "id": 155,
+        "category": "Sand & Shells",
+        "difficulty": 6,
+        "question": "What is the hierarchical structure in nacre that relates to its fracture toughness mechanisms?",
+        "answer": "Multi-scale organization from nanometer to micrometer scales providing damage tolerance"
+      },
+      {
+        "id": 156,
+        "category": "Summer Fun",
+        "difficulty": 6,
+        "question": "What is the capillary-grain interaction theory explaining sand castle cohesion maintenance?",
+        "answer": "Meniscus curvature at grain contacts creates capillary suction pressure"
+      },
+      {
+        "id": 157,
+        "category": "Bucket Basics",
+        "difficulty": 6,
+        "question": "What is the reptation dynamics model for polymer chain motion in bucket material at temperature transitions?",
+        "answer": "Chain must reptate through surrounding entanglements in exponential time-dependent process"
+      },
+      {
+        "id": 158,
+        "category": "Shovel Science",
+        "difficulty": 6,
+        "question": "What is the Dugdale-Barenblatt cohesive zone model application to shovel blade crack growth?",
+        "answer": "Predicts stress singularity modification and plastic zone formation ahead of crack tip"
+      },
+      {
+        "id": 159,
+        "category": "Beach Tools",
+        "difficulty": 6,
+        "question": "What is the kinetic Monte Carlo simulation approach to polymer crystallization in bucket injection molding?",
+        "answer": "Models crystal nucleation and growth at molecular scale with Boltzmann statistics"
+      },
+      {
+        "id": 160,
+        "category": "Digging & Scooping",
+        "difficulty": 6,
+        "question": "What is the discrete element method framework for simulating individual sand grain interactions?",
+        "answer": "Tracks contact forces, friction, and rolling resistance between spherical elements"
+      },
+      {
+        "id": 161,
+        "category": "Sand & Shells",
+        "difficulty": 6,
+        "question": "What is the biomineralization pathway involving organic matrix proteins in shell formation?",
+        "answer": "Aspartic acid-rich proteins regulate calcium carbonate nucleation and orientation"
+      },
+      {
+        "id": 162,
+        "category": "Summer Fun",
+        "difficulty": 6,
+        "question": "What is the diffusion-limited kinetic model describing sand castle drying and strength loss?",
+        "answer": "Moisture diffusion rate controls drying profile and capillary pressure gradient"
+      },
+      {
+        "id": 163,
+        "category": "Bucket Basics",
+        "difficulty": 6,
+        "question": "What is the dynamic mechanical analysis application to frequency and temperature dependence?",
+        "answer": "Loss and storage moduli follow time-temperature superposition with WLF equation"
+      },
+      {
+        "id": 164,
+        "category": "Shovel Science",
+        "difficulty": 6,
+        "question": "What is the slip system analysis in plastic deformation of polypropylene crystals?",
+        "answer": "Alpha and beta slip systems in monoclinic lattice accommodate deformation"
+      },
+      {
+        "id": 165,
+        "category": "Beach Tools",
+        "difficulty": 6,
+        "question": "What is the flow-induced crystallization phenomenon in injection-molded bucket polymer?",
+        "answer": "Stretched chains template heterogeneous nucleation perpendicular to flow direction"
+      },
+      {
+        "id": 166,
+        "category": "Digging & Scooping",
+        "difficulty": 6,
+        "question": "What is the Cambridge p-q effective stress space representation in sand mechanics analysis?",
+        "answer": "Relates mean and deviatoric stress to critical state line for failure envelope"
+      },
+      {
+        "id": 167,
+        "category": "Sand & Shells",
+        "difficulty": 6,
+        "question": "What is the X-ray crystallography determination of calcium carbonate polymorphism in shells?",
+        "answer": "Identifies trigonal calcite versus orthorhombic aragonite crystal systems"
+      },
+      {
+        "id": 168,
+        "category": "Summer Fun",
+        "difficulty": 6,
+        "question": "What is the poromechanics framework for unsaturated sand castle behavior?",
+        "answer": "Couples skeleton stress with water pressure using effective stress principle"
+      },
+      {
+        "id": 169,
+        "category": "Bucket Basics",
+        "difficulty": 6,
+        "question": "What is the nonequilibrium thermodynamics application to plastic bucket aging processes?",
+        "answer": "Entropy production and free energy minimization drive molecular reorganization"
+      },
+      {
+        "id": 170,
+        "category": "Shovel Science",
+        "difficulty": 6,
+        "question": "What is the Eshelby inclusion theory for stress concentration around embedded particles?",
+        "answer": "Predicts eigenstrains and stress fields around inclusions in polymer matrix"
+      },
+      {
+        "id": 171,
+        "category": "Beach Tools",
+        "difficulty": 6,
+        "question": "What is the shear-induced crystallization kinetics in polypropylene under processing?",
+        "answer": "Ornstein-Zernike correlation function describes polymer segment organization"
+      },
+      {
+        "id": 172,
+        "category": "Digging & Scooping",
+        "difficulty": 6,
+        "question": "What is the incremental nonlinearity framework for cyclic sand loading response?",
+        "answer": "Stiffness degradation and energy dissipation track internal variable evolution"
+      },
+      {
+        "id": 173,
+        "category": "Sand & Shells",
+        "difficulty": 6,
+        "question": "What is the EXAFS spectroscopy analysis of local coordination environment in shell minerals?",
+        "answer": "Reveals short-range ordering of calcium and carbonate ions beyond Bragg diffraction"
+      },
+      {
+        "id": 174,
+        "category": "Summer Fun",
+        "difficulty": 6,
+        "question": "What is the coupled flow-deformation analysis for sand castle failure under wave action?",
+        "answer": "Links pore pressure generation with skeleton deformation using u-p formulation"
+      },
+      {
+        "id": 175,
+        "category": "Bucket Basics",
+        "difficulty": 6,
+        "question": "What is the Brownian dynamics simulation of entanglement formation in polymer chains?",
+        "answer": "Stochastic integration tracks chain configuration evolution with excluded volume effects"
+      },
+      {
+        "id": 176,
+        "category": "Shovel Science",
+        "difficulty": 6,
+        "question": "What is the orientation distribution function method for measuring polymer anisotropy?",
+        "answer": "Fourier expansion coefficients describe directional dependence of mechanical properties"
+      },
+      {
+        "id": 177,
+        "category": "Beach Tools",
+        "difficulty": 6,
+        "question": "What is the phase-field model for crystal growth and dendritic structure formation?",
+        "answer": "Couples heat and solute diffusion with crystallographic interface kinetics"
+      },
+      {
+        "id": 178,
+        "category": "Digging & Scooping",
+        "difficulty": 6,
+        "question": "What is the lattice Boltzmann method application to fluid-particle coupling in sand?",
+        "answer": "Simulates pore-scale fluid flow and particle interactions on computational lattice"
+      },
+      {
+        "id": 179,
+        "category": "Sand & Shells",
+        "difficulty": 6,
+        "question": "What is the density functional theory calculation of mineral surface energy?",
+        "answer": "First-principles computation of calcium carbonate crystal face stability"
+      },
+      {
+        "id": 180,
+        "category": "Summer Fun",
+        "difficulty": 6,
+        "question": "What is the multiscale modeling framework bridging atomistic to continuum mechanics?",
+        "answer": "Homogenization and upscaling techniques transfer nanoscale properties to macroscopic predictions"
+      }
+    ]
+  }
+}

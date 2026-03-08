@@ -1,0 +1,922 @@
+{
+  "category": "Family Traditions",
+  "theme": "christmas",
+  "category_id": "christmas_family",
+  "description": "Gathering, celebrations, togetherness",
+  "age_suitability": "All ages",
+  "research_alignment": "SEL focus - belonging, love, connection, family bonds",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Families gather around this decorated tree on Christmas morning",
+        "correctQuestion": "What is a Christmas tree?",
+        "value": 200
+      },
+      {
+        "clue": "You open these wrapped surprises with your family",
+        "correctQuestion": "What are presents?",
+        "value": 200
+      },
+      {
+        "clue": "Many families go to this special place to celebrate Christmas",
+        "correctQuestion": "What is church?",
+        "value": 200
+      },
+      {
+        "clue": "Families eat this special big meal together on Christmas",
+        "correctQuestion": "What is dinner?",
+        "value": 200
+      },
+      {
+        "clue": "You might visit these older family members at Christmas",
+        "correctQuestion": "Who are grandparents?",
+        "value": 200
+      },
+      {
+        "clue": "Families sing these happy Christmas tunes together",
+        "correctQuestion": "What are carols?",
+        "value": 200
+      },
+      {
+        "clue": "Some families bake and decorate these sweet treats together",
+        "correctQuestion": "What are cookies?",
+        "value": 200
+      },
+      {
+        "clue": "Many families read this story about Jesus being born",
+        "correctQuestion": "What is the Christmas story?",
+        "value": 200
+      },
+      {
+        "clue": "Families hang these on the tree together",
+        "correctQuestion": "What are ornaments?",
+        "value": 200
+      },
+      {
+        "clue": "You might wear these matching clothes with your family",
+        "correctQuestion": "What are pajamas?",
+        "value": 200
+      },
+      {
+        "clue": "Families make this sweet house with candy decorations",
+        "correctQuestion": "What is a gingerbread house?",
+        "value": 400
+      },
+      {
+        "clue": "Some families light this special candle holder for eight nights",
+        "correctQuestion": "What is a menorah?",
+        "value": 400
+      },
+      {
+        "clue": "You might take this special photo with your whole family",
+        "correctQuestion": "What is a Christmas picture?",
+        "value": 400
+      },
+      {
+        "clue": "Families watch this type of show about Christmas together",
+        "correctQuestion": "What is a movie?",
+        "value": 400
+      },
+      {
+        "clue": "Some families drive around to see these bright displays on houses",
+        "correctQuestion": "What are Christmas lights?",
+        "value": 400
+      },
+      {
+        "clue": "You help hang these long shiny strands on the tree",
+        "correctQuestion": "What is tinsel?",
+        "value": 400
+      },
+      {
+        "clue": "Families say this prayer before eating Christmas dinner",
+        "correctQuestion": "What is grace?",
+        "value": 400
+      },
+      {
+        "clue": "You might make this cold person outside with your family",
+        "correctQuestion": "What is a snowman?",
+        "value": 400
+      },
+      {
+        "clue": "Some families open one present on this night before Christmas",
+        "correctQuestion": "What is Christmas Eve?",
+        "value": 400
+      },
+      {
+        "clue": "Families might play these fun activities together after dinner",
+        "correctQuestion": "What are games?",
+        "value": 400
+      },
+      {
+        "clue": "Many families attend this special service at midnight",
+        "correctQuestion": "What is midnight mass?",
+        "value": 600
+      },
+      {
+        "clue": "You help put this shiny decoration on top of the tree",
+        "correctQuestion": "What is a star?",
+        "value": 600
+      },
+      {
+        "clue": "Families tell these stories about past Christmases",
+        "correctQuestion": "What are memories?",
+        "value": 600
+      },
+      {
+        "clue": "Some families go to see this ballet about a nutcracker",
+        "correctQuestion": "What is The Nutcracker?",
+        "value": 600
+      },
+      {
+        "clue": "You might help make this special breakfast on Christmas morning",
+        "correctQuestion": "What is a feast?",
+        "value": 600
+      },
+      {
+        "clue": "Families volunteer together at this place to help people",
+        "correctQuestion": "What is a shelter?",
+        "value": 600
+      },
+      {
+        "clue": "You write these cards to send to family far away",
+        "correctQuestion": "What are Christmas cards?",
+        "value": 600
+      },
+      {
+        "clue": "Some families go to pick out their tree at this place",
+        "correctQuestion": "What is a tree farm?",
+        "value": 600
+      },
+      {
+        "clue": "Many families have this special chair where you sit on Santa's lap",
+        "correctQuestion": "What is Santa's lap?",
+        "value": 800
+      },
+      {
+        "clue": "Families might travel in this vehicle to visit relatives",
+        "correctQuestion": "What is a car?",
+        "value": 800
+      },
+      {
+        "clue": "You help set this for Christmas dinner with special plates",
+        "correctQuestion": "What is the table?",
+        "value": 800
+      },
+      {
+        "clue": "Some families make this snowy activity with sleds",
+        "correctQuestion": "What is sledding?",
+        "value": 800
+      },
+      {
+        "clue": "Being together with family makes you feel this emotion",
+        "correctQuestion": "What is love?",
+        "value": 1000
+      },
+      {
+        "clue": "Family traditions help you feel like you do this action",
+        "correctQuestion": "What is belong?",
+        "value": 1000
+      },
+      {
+        "clue": "The best part of Christmas is being with these people",
+        "correctQuestion": "Who is family?",
+        "value": 1000
+      },
+      {
+        "clue": "Families create these special moments that last forever",
+        "correctQuestion": "What are memories?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "Many families have this special breakfast tradition on Christmas morning",
+        "correctQuestion": "What is cinnamon rolls?",
+        "value": 200
+      },
+      {
+        "clue": "Some families attend this candlelight service on Christmas Eve",
+        "correctQuestion": "What is candlelight service?",
+        "value": 200
+      },
+      {
+        "clue": "Families often take turns reading this book The Night Before Christmas",
+        "correctQuestion": "What is The Night Before Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "Many families display this nativity scene showing Jesus' birth",
+        "correctQuestion": "What is a nativity scene?",
+        "value": 200
+      },
+      {
+        "clue": "Some families pick out matching these to wear for photos",
+        "correctQuestion": "What are Christmas sweaters?",
+        "value": 200
+      },
+      {
+        "clue": "Families go caroling by singing door-to-door in this group",
+        "correctQuestion": "What is the neighborhood?",
+        "value": 200
+      },
+      {
+        "clue": "Many families watch this movie about a boy left home alone",
+        "correctQuestion": "What is Home Alone?",
+        "value": 200
+      },
+      {
+        "clue": "Some families hang this wreath decoration on their front door",
+        "correctQuestion": "What is a wreath?",
+        "value": 200
+      },
+      {
+        "clue": "Families might attend this holiday performance of Handel's Messiah",
+        "correctQuestion": "What is The Messiah?",
+        "value": 200
+      },
+      {
+        "clue": "Many families have this tradition of hiding a pickle ornament",
+        "correctQuestion": "What is the Christmas pickle?",
+        "value": 200
+      },
+      {
+        "clue": "Some families make this advent calendar to count down the days",
+        "correctQuestion": "What is an advent calendar?",
+        "value": 400
+      },
+      {
+        "clue": "Families often string and eat this popcorn garland together",
+        "correctQuestion": "What is popcorn garland?",
+        "value": 400
+      },
+      {
+        "clue": "Many families attend this Christmas pageant at church",
+        "correctQuestion": "What is a Christmas pageant?",
+        "value": 400
+      },
+      {
+        "clue": "Some families have this tradition of opening one gift on December 24th",
+        "correctQuestion": "What is Christmas Eve gift?",
+        "value": 400
+      },
+      {
+        "clue": "Families gather to watch this parade on Thanksgiving morning",
+        "correctQuestion": "What is Macy's Thanksgiving Day Parade?",
+        "value": 400
+      },
+      {
+        "clue": "Many families visit this festive Christmas village display",
+        "correctQuestion": "What is a Christmas village?",
+        "value": 400
+      },
+      {
+        "clue": "Some families participate in this Las Posadas Mexican tradition",
+        "correctQuestion": "What is Las Posadas?",
+        "value": 400
+      },
+      {
+        "clue": "Families make this Swedish tradition of St. Lucia bread",
+        "correctQuestion": "What is St. Lucia bread?",
+        "value": 400
+      },
+      {
+        "clue": "Many families leave out cookies and this beverage for Santa",
+        "correctQuestion": "What is milk?",
+        "value": 400
+      },
+      {
+        "clue": "Some families volunteer together at this soup kitchen tradition",
+        "correctQuestion": "What is serving dinner?",
+        "value": 400
+      },
+      {
+        "clue": "Families celebrate this Italian feast of seven fishes on Christmas Eve",
+        "correctQuestion": "What is Feast of Seven Fishes?",
+        "value": 600
+      },
+      {
+        "clue": "Many families light this kinara during Kwanzaa celebrations",
+        "correctQuestion": "What is a kinara?",
+        "value": 600
+      },
+      {
+        "clue": "Some families attend this tradition of Christmas Eve midnight mass",
+        "correctQuestion": "What is midnight mass?",
+        "value": 600
+      },
+      {
+        "clue": "Families read this poem by Clement Clarke Moore annually",
+        "correctQuestion": "What is A Visit from St. Nicholas?",
+        "value": 600
+      },
+      {
+        "clue": "Many families make this Norwegian tradition of lefse bread",
+        "correctQuestion": "What is lefse?",
+        "value": 600
+      },
+      {
+        "clue": "Some families celebrate this twelve days period after Christmas",
+        "correctQuestion": "What is the Twelve Days of Christmas?",
+        "value": 600
+      },
+      {
+        "clue": "Families hang this German tradition of pickle ornament for luck",
+        "correctQuestion": "What is the Christmas pickle?",
+        "value": 600
+      },
+      {
+        "clue": "Many families make this Polish tradition of oplatek wafer sharing",
+        "correctQuestion": "What is oplatek?",
+        "value": 600
+      },
+      {
+        "clue": "Some families celebrate this feast day of St. Nicholas on December 6th",
+        "correctQuestion": "What is St. Nicholas Day?",
+        "value": 800
+      },
+      {
+        "clue": "Families attend this tradition of watching The Nutcracker ballet",
+        "correctQuestion": "What is The Nutcracker?",
+        "value": 800
+      },
+      {
+        "clue": "Many families make this Filipino tradition of parol star lanterns",
+        "correctQuestion": "What is parol?",
+        "value": 800
+      },
+      {
+        "clue": "Some families celebrate this Spanish Three Kings Day on January 6th",
+        "correctQuestion": "What is Three Kings Day?",
+        "value": 800
+      },
+      {
+        "clue": "Family traditions create this psychological sense of belonging",
+        "correctQuestion": "What is identity?",
+        "value": 1000
+      },
+      {
+        "clue": "Celebrating together strengthens these emotional family bonds",
+        "correctQuestion": "What are connections?",
+        "value": 1000
+      },
+      {
+        "clue": "Family gatherings provide this sense of security and love",
+        "correctQuestion": "What is belonging?",
+        "value": 1000
+      },
+      {
+        "clue": "Traditions pass down these cultural values across generations",
+        "correctQuestion": "What is heritage?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This family tradition of matching ugly sweaters has become a social media trend",
+        "correctQuestion": "What are ugly Christmas sweaters?",
+        "value": 200
+      },
+      {
+        "clue": "Many families participate in this angel tree gift program at malls",
+        "correctQuestion": "What is Angel Tree?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of advent calendars now includes beauty products and toys",
+        "correctQuestion": "What are advent calendars?",
+        "value": 200
+      },
+      {
+        "clue": "Families post these coordinated Christmas card photos on Instagram",
+        "correctQuestion": "What are Christmas card photos?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of Elf on the Shelf creates daily photo opportunities",
+        "correctQuestion": "What is Elf on the Shelf?",
+        "value": 200
+      },
+      {
+        "clue": "Many families stream this Christmas movie marathon on Netflix",
+        "correctQuestion": "What is Christmas movie marathon?",
+        "value": 200
+      },
+      {
+        "clue": "This viral trend involves elaborate Christmas light displays synced to music",
+        "correctQuestion": "What are synchronized light shows?",
+        "value": 200
+      },
+      {
+        "clue": "Families create these TikTok videos of gift reactions",
+        "correctQuestion": "What are reaction videos?",
+        "value": 200
+      },
+      {
+        "clue": "This tradition of Secret Santa now uses apps for name drawing",
+        "correctQuestion": "What is Secret Santa?",
+        "value": 200
+      },
+      {
+        "clue": "Many families participate in this virtual Zoom Christmas gathering",
+        "correctQuestion": "What are virtual gatherings?",
+        "value": 200
+      },
+      {
+        "clue": "This family tradition of cookie decorating contests goes viral on social media",
+        "correctQuestion": "What are cookie decorating contests?",
+        "value": 400
+      },
+      {
+        "clue": "Families document this annual growth photo tradition by the Christmas tree",
+        "correctQuestion": "What are height comparison photos?",
+        "value": 400
+      },
+      {
+        "clue": "This minimalist tradition focuses on four gifts: want, need, wear, read",
+        "correctQuestion": "What is the four gift rule?",
+        "value": 400
+      },
+      {
+        "clue": "Many families adopt this giving back tradition of volunteering together",
+        "correctQuestion": "What is community service?",
+        "value": 400
+      },
+      {
+        "clue": "This tradition of Christmas Eve boxes contains pajamas and activities",
+        "correctQuestion": "What are Christmas Eve boxes?",
+        "value": 400
+      },
+      {
+        "clue": "Families create these personalized ornaments as annual keepsakes",
+        "correctQuestion": "What are dated ornaments?",
+        "value": 400
+      },
+      {
+        "clue": "This trend of experience gifts prioritizes memories over material items",
+        "correctQuestion": "What are experience gifts?",
+        "value": 400
+      },
+      {
+        "clue": "Many families stream this tradition of reading The Night Before Christmas",
+        "correctQuestion": "What is reading aloud?",
+        "value": 400
+      },
+      {
+        "clue": "This sustainable tradition involves making DIY gifts instead of buying",
+        "correctQuestion": "What are handmade gifts?",
+        "value": 400
+      },
+      {
+        "clue": "Families participate in this adopt-a-family charitable tradition",
+        "correctQuestion": "What is adopting a family?",
+        "value": 400
+      },
+      {
+        "clue": "This family tradition research shows it increases adolescent wellbeing",
+        "correctQuestion": "What are family rituals?",
+        "value": 600
+      },
+      {
+        "clue": "Studies show family meals during holidays strengthen this attachment",
+        "correctQuestion": "What is family bonding?",
+        "value": 600
+      },
+      {
+        "clue": "This psychological benefit of traditions provides sense of continuity",
+        "correctQuestion": "What is stability?",
+        "value": 600
+      },
+      {
+        "clue": "Family traditions activate this brain reward system creating positive associations",
+        "correctQuestion": "What is dopamine release?",
+        "value": 600
+      },
+      {
+        "clue": "This cultural practice of intergenerational storytelling preserves family history",
+        "correctQuestion": "What is oral tradition?",
+        "value": 600
+      },
+      {
+        "clue": "Research shows this optimal number of family traditions for child development",
+        "correctQuestion": "What is 3-5 traditions?",
+        "value": 600
+      },
+      {
+        "clue": "This family systems theory explains how traditions maintain family identity",
+        "correctQuestion": "What is family identity theory?",
+        "value": 600
+      },
+      {
+        "clue": "The tradition of family dinners correlates with this academic outcome",
+        "correctQuestion": "What is better grades?",
+        "value": 600
+      },
+      {
+        "clue": "This mental health benefit results from consistent family traditions",
+        "correctQuestion": "What is reduced anxiety?",
+        "value": 800
+      },
+      {
+        "clue": "Neuroscience shows traditions create this type of memory formation",
+        "correctQuestion": "What is episodic memory?",
+        "value": 800
+      },
+      {
+        "clue": "This attachment theory concept explains why traditions provide security",
+        "correctQuestion": "What is secure base?",
+        "value": 800
+      },
+      {
+        "clue": "Family traditions strengthen this social capital within communities",
+        "correctQuestion": "What is bonding capital?",
+        "value": 800
+      },
+      {
+        "clue": "The psychology of belonging shows traditions fulfill this hierarchy need",
+        "correctQuestion": "What is love and belonging?",
+        "value": 1000
+      },
+      {
+        "clue": "Research indicates family rituals buffer against this mental health issue",
+        "correctQuestion": "What is depression?",
+        "value": 1000
+      },
+      {
+        "clue": "This developmental benefit of traditions includes identity formation",
+        "correctQuestion": "What is sense of self?",
+        "value": 1000
+      },
+      {
+        "clue": "Family celebrations activate this oxytocin bonding mechanism",
+        "correctQuestion": "What is social bonding?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The Victorian revival of Christmas emphasized this family-centered celebration",
+        "correctQuestion": "What is domestic Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "This 19th-century tradition of Christmas trees was popularized by Queen Victoria",
+        "correctQuestion": "What is the Christmas tree tradition?",
+        "value": 200
+      },
+      {
+        "clue": "The medieval wassailing tradition involved visiting this location",
+        "correctQuestion": "What is neighbors' homes?",
+        "value": 200
+      },
+      {
+        "clue": "This Roman Saturnalia festival influenced modern family gift-giving traditions",
+        "correctQuestion": "What is Saturnalia?",
+        "value": 200
+      },
+      {
+        "clue": "The Puritan ban on Christmas in 1644 prohibited these family gatherings",
+        "correctQuestion": "What are Christmas celebrations?",
+        "value": 200
+      },
+      {
+        "clue": "Charles Dickens' A Christmas Carol popularized this family reunion theme",
+        "correctQuestion": "What is family togetherness?",
+        "value": 200
+      },
+      {
+        "clue": "This Germanic tradition of advent wreaths represents four weeks before Christmas",
+        "correctQuestion": "What is the advent wreath?",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of Christmas stockings originated from this saint's legend",
+        "correctQuestion": "Who is St. Nicholas?",
+        "value": 200
+      },
+      {
+        "clue": "This medieval feast of Christmas lasted these many days",
+        "correctQuestion": "What is twelve days?",
+        "value": 200
+      },
+      {
+        "clue": "The modern family Christmas dinner evolved from this Victorian feast",
+        "correctQuestion": "What is Christmas dinner?",
+        "value": 200
+      },
+      {
+        "clue": "This anthropologist Marcel Mauss studied gift exchange as social bonding",
+        "correctQuestion": "Who is Marcel Mauss?",
+        "value": 400
+      },
+      {
+        "clue": "The tradition of Christmas cards was invented in this year in England",
+        "correctQuestion": "What is 1843?",
+        "value": 400
+      },
+      {
+        "clue": "This cultural practice of Las Posadas reenacts Mary and Joseph's journey",
+        "correctQuestion": "What is Las Posadas?",
+        "value": 400
+      },
+      {
+        "clue": "The Feast of Seven Fishes tradition comes from this Italian region",
+        "correctQuestion": "What is Southern Italy?",
+        "value": 400
+      },
+      {
+        "clue": "This Norwegian tradition of julebord is a Christmas table feast",
+        "correctQuestion": "What is julebord?",
+        "value": 400
+      },
+      {
+        "clue": "The Germanic tradition of Christkind gift-bringer influenced this practice",
+        "correctQuestion": "What is gift-giving by children?",
+        "value": 400
+      },
+      {
+        "clue": "This Polish tradition of oplatek wafer sharing symbolizes reconciliation",
+        "correctQuestion": "What is oplatek?",
+        "value": 400
+      },
+      {
+        "clue": "The Dutch tradition of Sinterklaas evolved into this American figure",
+        "correctQuestion": "Who is Santa Claus?",
+        "value": 400
+      },
+      {
+        "clue": "This Filipino tradition of Simbang Gabi involves nine dawn masses",
+        "correctQuestion": "What is Simbang Gabi?",
+        "value": 400
+      },
+      {
+        "clue": "The Spanish tradition of Nochebuena emphasizes this late-night meal",
+        "correctQuestion": "What is Christmas Eve dinner?",
+        "value": 400
+      },
+      {
+        "clue": "This sociological theory explains how traditions create collective memory",
+        "correctQuestion": "What is collective memory theory?",
+        "value": 600
+      },
+      {
+        "clue": "Family systems theory identifies traditions as this type of boundary maintenance",
+        "correctQuestion": "What is ritual boundary?",
+        "value": 600
+      },
+      {
+        "clue": "This anthropological concept of liminality applies to Christmas celebrations",
+        "correctQuestion": "What is liminal space?",
+        "value": 600
+      },
+      {
+        "clue": "Émile Durkheim's theory of collective effervescence explains this gathering phenomenon",
+        "correctQuestion": "What is social solidarity?",
+        "value": 600
+      },
+      {
+        "clue": "This cultural transmission theory explains how traditions pass between generations",
+        "correctQuestion": "What is intergenerational transmission?",
+        "value": 600
+      },
+      {
+        "clue": "The symbolic interactionist perspective views traditions as this type of meaning-making",
+        "correctQuestion": "What is symbolic interaction?",
+        "value": 600
+      },
+      {
+        "clue": "This attachment theory concept explains traditions as secure base behavior",
+        "correctQuestion": "What is attachment security?",
+        "value": 600
+      },
+      {
+        "clue": "Family resilience theory identifies traditions as this protective factor",
+        "correctQuestion": "What is resilience buffer?",
+        "value": 600
+      },
+      {
+        "clue": "This Ethiopian Orthodox tradition celebrates Christmas on January 7th as Ganna",
+        "correctQuestion": "What is Ganna?",
+        "value": 800
+      },
+      {
+        "clue": "The Russian Orthodox tradition of Holy Supper includes these twelve dishes",
+        "correctQuestion": "What is Holy Supper?",
+        "value": 800
+      },
+      {
+        "clue": "This social capital theory explains how traditions build bonding capital",
+        "correctQuestion": "What is bonding social capital?",
+        "value": 800
+      },
+      {
+        "clue": "The developmental psychology of traditions supports this Eriksonian stage",
+        "correctQuestion": "What is identity formation?",
+        "value": 800
+      },
+      {
+        "clue": "This Bowen family systems concept of differentiation relates to tradition formation",
+        "correctQuestion": "What is differentiation of self?",
+        "value": 1000
+      },
+      {
+        "clue": "The neuroscience of family bonding shows oxytocin release during these rituals",
+        "correctQuestion": "What are family rituals?",
+        "value": 1000
+      },
+      {
+        "clue": "This cultural psychology framework explains traditions as meaning systems",
+        "correctQuestion": "What is cultural meaning system?",
+        "value": 1000
+      },
+      {
+        "clue": "Family narrative theory identifies traditions as this identity construction",
+        "correctQuestion": "What is narrative identity?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Mom's crying hideout during family gatherings",
+        "correctQuestion": "What is the bathroom?",
+        "value": 200
+      },
+      {
+        "clue": "Perfect Instagram photo hiding screaming match",
+        "correctQuestion": "What are family photos?",
+        "value": 200
+      },
+      {
+        "clue": "Where families avoid actual conversation",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "Boomer War on Christmas battleground",
+        "correctQuestion": "What is Facebook?",
+        "value": 200
+      },
+      {
+        "clue": "Aunt Karen's 10am coffee mug contents",
+        "correctQuestion": "What is wine?",
+        "value": 200
+      },
+      {
+        "clue": "Your 'homemade' gift delivery service",
+        "correctQuestion": "What is Amazon?",
+        "value": 200
+      },
+      {
+        "clue": "Topic that ruins Christmas dinner",
+        "correctQuestion": "What is Trump?",
+        "value": 200
+      },
+      {
+        "clue": "Teens' vaping and TikTok hideout",
+        "correctQuestion": "What is the basement?",
+        "value": 200
+      },
+      {
+        "clue": "2015 War on Christmas red cups",
+        "correctQuestion": "What is Starbucks?",
+        "value": 200
+      },
+      {
+        "clue": "Gen Z posting instead of being present",
+        "correctQuestion": "What is TikTok?",
+        "value": 400
+      },
+      {
+        "clue": "Divorced aunt's church service activity",
+        "correctQuestion": "What is Tinder?",
+        "value": 400
+      },
+      {
+        "clue": "Uncle Jerry's exposed Christmas Eve payment",
+        "correctQuestion": "What is Venmo?",
+        "value": 400
+      },
+      {
+        "clue": "Parents' garage escape smoke session",
+        "correctQuestion": "What is weed?",
+        "value": 400
+      },
+      {
+        "clue": "What ruined Christmas 2020",
+        "correctQuestion": "What is COVID-19?",
+        "value": 400
+      },
+      {
+        "clue": "Dad's browser history discovery",
+        "correctQuestion": "What is OnlyFans?",
+        "value": 400
+      },
+      {
+        "clue": "Kids want this over human interaction",
+        "correctQuestion": "What is an iPhone?",
+        "value": 400
+      },
+      {
+        "clue": "Dad's 2am in-law escape plan",
+        "correctQuestion": "What is DoorDash?",
+        "value": 400
+      },
+      {
+        "clue": "Grandma's purse mystery disappearance",
+        "correctQuestion": "What are prescription pills?",
+        "value": 400
+      },
+      {
+        "clue": "Why three relatives look different",
+        "correctQuestion": "What is Ozempic?",
+        "value": 600
+      },
+      {
+        "clue": "Mother-in-law's passive-aggressive gift with receipt",
+        "correctQuestion": "What is a gym membership?",
+        "value": 600
+      },
+      {
+        "clue": "Millennial Christmas miracle wish",
+        "correctQuestion": "What is affordable housing?",
+        "value": 600
+      },
+      {
+        "clue": "DNA test that destroyed Christmas",
+        "correctQuestion": "What is 23andMe?",
+        "value": 600
+      },
+      {
+        "clue": "Who defrosts for $3 million annually",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 600
+      },
+      {
+        "clue": "Caught uncle's Christmas Eve kiss",
+        "correctQuestion": "What is Ring?",
+        "value": 600
+      },
+      {
+        "clue": "Group text screenshot accident exposure",
+        "correctQuestion": "What are family secrets?",
+        "value": 600
+      },
+      {
+        "clue": "Brother-in-law's 2am family escape gig",
+        "correctQuestion": "What is Uber?",
+        "value": 600
+      },
+      {
+        "clue": "Other topic ruining Christmas dinner",
+        "correctQuestion": "What is the COVID vaccine?",
+        "value": 800
+      },
+      {
+        "clue": "What replaced Christmas cards",
+        "correctQuestion": "What is a group chat?",
+        "value": 800
+      },
+      {
+        "clue": "Worst possible Christmas gift car",
+        "correctQuestion": "What is Tesla?",
+        "value": 800
+      },
+      {
+        "clue": "Mom's $347 wrapping paper destination",
+        "correctQuestion": "What is Target?",
+        "value": 800
+      },
+      {
+        "clue": "Toy store Amazon murdered",
+        "correctQuestion": "What is Toys R Us?",
+        "value": 800
+      },
+      {
+        "clue": "Christmas tree surveillance device",
+        "correctQuestion": "What is Alexa?",
+        "value": 800
+      },
+      {
+        "clue": "Wine-fueled post-grace announcement",
+        "correctQuestion": "What is coming out?",
+        "value": 1000
+      },
+      {
+        "clue": "Sister's holiday planning meltdown announcement",
+        "correctQuestion": "What is a divorce?",
+        "value": 1000
+      },
+      {
+        "clue": "Uncle Dave's Wonderful Christmastime battleground",
+        "correctQuestion": "What is Spotify?",
+        "value": 1000
+      },
+      {
+        "clue": "Mom buys for 40, feeds 12",
+        "correctQuestion": "What is Costco?",
+        "value": 1000
+      }
+    ]
+  }
+}

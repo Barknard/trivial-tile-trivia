@@ -1,0 +1,922 @@
+{
+  "category": "Holiday Crafts",
+  "theme": "christmas",
+  "category_id": "christmas_crafts",
+  "description": "Ornaments, cards, DIY decorations, fine motor skills",
+  "age_suitability": "All ages, especially kids",
+  "research_alignment": "Fine motor skills, creativity, sensory development, STEAM learning",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "You can make ornaments by cutting out shapes from this colorful stiff material",
+        "correctQuestion": "What is construction paper?",
+        "value": 200
+      },
+      {
+        "clue": "These sticky round things help you decorate Christmas cards",
+        "correctQuestion": "What are stickers?",
+        "value": 200
+      },
+      {
+        "clue": "This white sticky stuff helps you glue things together for crafts",
+        "correctQuestion": "What is glue?",
+        "value": 200
+      },
+      {
+        "clue": "You use these to color and draw on your Christmas cards",
+        "correctQuestion": "What are crayons?",
+        "value": 200
+      },
+      {
+        "clue": "This shiny stuff makes your ornaments sparkle",
+        "correctQuestion": "What is glitter?",
+        "value": 200
+      },
+      {
+        "clue": "You can string these colorful round things to make a garland",
+        "correctQuestion": "What are beads?",
+        "value": 200
+      },
+      {
+        "clue": "This is the shape of a Christmas tree you can cut out",
+        "correctQuestion": "What is a triangle?",
+        "value": 200
+      },
+      {
+        "clue": "These fluffy white balls look like snowballs for crafts",
+        "correctQuestion": "What are cotton balls?",
+        "value": 200
+      },
+      {
+        "clue": "You cut paper with these special tools",
+        "correctQuestion": "What are scissors?",
+        "value": 200
+      },
+      {
+        "clue": "This red and green paper is used for Christmas crafts",
+        "correctQuestion": "What is Christmas paper?",
+        "value": 200
+      },
+      {
+        "clue": "You can make snowflakes by folding this and cutting it",
+        "correctQuestion": "What is paper?",
+        "value": 400
+      },
+      {
+        "clue": "This sticky tape helps you attach things without glue",
+        "correctQuestion": "What is tape?",
+        "value": 400
+      },
+      {
+        "clue": "You can paint with these soft tools that have bristles",
+        "correctQuestion": "What are paintbrushes?",
+        "value": 400
+      },
+      {
+        "clue": "These wooden sticks are good for making craft frames",
+        "correctQuestion": "What are popsicle sticks?",
+        "value": 400
+      },
+      {
+        "clue": "You can make handprint art using this colorful liquid",
+        "correctQuestion": "What is paint?",
+        "value": 400
+      },
+      {
+        "clue": "This bendy wire with fuzz on it is good for making shapes",
+        "correctQuestion": "What are pipe cleaners?",
+        "value": 400
+      },
+      {
+        "clue": "You can glue these wiggly plastic eyes on your crafts",
+        "correctQuestion": "What are googly eyes?",
+        "value": 400
+      },
+      {
+        "clue": "This squishy colorful stuff you can mold and shape",
+        "correctQuestion": "What is playdough?",
+        "value": 400
+      },
+      {
+        "clue": "You use this tool to poke holes in paper for hanging ornaments",
+        "correctQuestion": "What is a hole punch?",
+        "value": 400
+      },
+      {
+        "clue": "These colorful strips of paper curl when you run scissors on them",
+        "correctQuestion": "What is ribbon?",
+        "value": 400
+      },
+      {
+        "clue": "You can make ornaments from this dough made with flour, salt, and water",
+        "correctQuestion": "What is salt dough?",
+        "value": 600
+      },
+      {
+        "clue": "These foam shapes stick to paper and are easy to peel",
+        "correctQuestion": "What are foam stickers?",
+        "value": 600
+      },
+      {
+        "clue": "You can stamp holiday shapes using this ink pad and these tools",
+        "correctQuestion": "What are stamps?",
+        "value": 600
+      },
+      {
+        "clue": "This clear liquid glue dries shiny and clear",
+        "correctQuestion": "What is white glue?",
+        "value": 600
+      },
+      {
+        "clue": "You trace around these plastic shapes to make perfect circles and stars",
+        "correctQuestion": "What are stencils?",
+        "value": 600
+      },
+      {
+        "clue": "These colorful squares of tissue paper make pretty decorations when scrunched up",
+        "correctQuestion": "What is tissue paper?",
+        "value": 600
+      },
+      {
+        "clue": "You can use this thick paper to make sturdy cards",
+        "correctQuestion": "What is cardstock?",
+        "value": 600
+      },
+      {
+        "clue": "These small shiny circle things make decorations sparkle",
+        "correctQuestion": "What are sequins?",
+        "value": 600
+      },
+      {
+        "clue": "You can make snow globes using this clear jar",
+        "correctQuestion": "What is a mason jar?",
+        "value": 800
+      },
+      {
+        "clue": "This string or yarn helps you hang your ornaments",
+        "correctQuestion": "What is string?",
+        "value": 800
+      },
+      {
+        "clue": "You can decorate pinecones with this and glitter",
+        "correctQuestion": "What is glue?",
+        "value": 800
+      },
+      {
+        "clue": "These colorful markers make bright designs on cards",
+        "correctQuestion": "What are markers?",
+        "value": 800
+      },
+      {
+        "clue": "You can make wreaths from this circular shape",
+        "correctQuestion": "What is a paper plate?",
+        "value": 1000
+      },
+      {
+        "clue": "This puffy paint comes in bottles and makes 3D decorations",
+        "correctQuestion": "What is puffy paint?",
+        "value": 1000
+      },
+      {
+        "clue": "You can make angels from these cone-shaped paper cups",
+        "correctQuestion": "What are paper cups?",
+        "value": 1000
+      },
+      {
+        "clue": "This colorful sticky paper peels off and sticks to cards",
+        "correctQuestion": "What is contact paper?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This technique involves folding paper multiple times before cutting to create symmetrical snowflakes",
+        "correctQuestion": "What is paper folding?",
+        "value": 200
+      },
+      {
+        "clue": "You bake this homemade dough at 200 degrees to make hard ornaments",
+        "correctQuestion": "What is salt dough?",
+        "value": 200
+      },
+      {
+        "clue": "This Japanese paper folding art can create Christmas stars and trees",
+        "correctQuestion": "What is origami?",
+        "value": 200
+      },
+      {
+        "clue": "You thread this thin string through beads to make garlands",
+        "correctQuestion": "What is fishing line?",
+        "value": 200
+      },
+      {
+        "clue": "This clear plastic sheet protects your table while crafting",
+        "correctQuestion": "What is a craft mat?",
+        "value": 200
+      },
+      {
+        "clue": "You can create textured prints using this technique with paint and objects",
+        "correctQuestion": "What is stamping?",
+        "value": 200
+      },
+      {
+        "clue": "These wooden shapes can be painted and turned into ornaments",
+        "correctQuestion": "What are wood cutouts?",
+        "value": 200
+      },
+      {
+        "clue": "This hot tool melts wax crayons onto paper for colorful designs",
+        "correctQuestion": "What is a hairdryer?",
+        "value": 200
+      },
+      {
+        "clue": "You use this tool to cut precise shapes in paper or cardstock",
+        "correctQuestion": "What is a craft knife?",
+        "value": 200
+      },
+      {
+        "clue": "This adhesive square has sticky on both sides for attaching layers",
+        "correctQuestion": "What is double-sided tape?",
+        "value": 200
+      },
+      {
+        "clue": "This technique layers different colors of paper to create 3D effects",
+        "correctQuestion": "What is paper layering?",
+        "value": 400
+      },
+      {
+        "clue": "You can make ornaments by gluing fabric onto this stiff material",
+        "correctQuestion": "What is felt?",
+        "value": 400
+      },
+      {
+        "clue": "This metallic paper adds a shiny finish to cards and decorations",
+        "correctQuestion": "What is foil paper?",
+        "value": 400
+      },
+      {
+        "clue": "You use this liquid to seal and protect painted ornaments",
+        "correctQuestion": "What is varnish or Mod Podge?",
+        "value": 400
+      },
+      {
+        "clue": "This technique uses small pieces of colored paper to create mosaic designs",
+        "correctQuestion": "What is collage?",
+        "value": 400
+      },
+      {
+        "clue": "These battery-powered mini lights can be added to craft projects",
+        "correctQuestion": "What are fairy lights?",
+        "value": 400
+      },
+      {
+        "clue": "You punch holes in paper and weave this material through for decoration",
+        "correctQuestion": "What is ribbon or yarn?",
+        "value": 400
+      },
+      {
+        "clue": "This clear coating makes ornaments shiny and waterproof",
+        "correctQuestion": "What is clear glaze?",
+        "value": 400
+      },
+      {
+        "clue": "You can create window decorations using this translucent colored paper",
+        "correctQuestion": "What is tissue paper?",
+        "value": 400
+      },
+      {
+        "clue": "This technique involves rolling paper strips to create decorative shapes",
+        "correctQuestion": "What is quilling?",
+        "value": 400
+      },
+      {
+        "clue": "You can make personalized ornaments by pressing objects into this moldable clay",
+        "correctQuestion": "What is polymer clay?",
+        "value": 600
+      },
+      {
+        "clue": "This craft uses melted wax and string to create colorful candles",
+        "correctQuestion": "What is candle making?",
+        "value": 600
+      },
+      {
+        "clue": "You transfer images to fabric using this hot pressing tool",
+        "correctQuestion": "What is an iron?",
+        "value": 600
+      },
+      {
+        "clue": "This technique involves dipping items in this clear liquid to preserve them",
+        "correctQuestion": "What is resin?",
+        "value": 600
+      },
+      {
+        "clue": "You can create stained glass effects using this black outline and paint",
+        "correctQuestion": "What is faux stained glass?",
+        "value": 600
+      },
+      {
+        "clue": "This machine cuts precise shapes from paper, vinyl, and fabric",
+        "correctQuestion": "What is a Cricut?",
+        "value": 600
+      },
+      {
+        "clue": "You dry and press these natural materials to use in ornaments",
+        "correctQuestion": "What are flowers?",
+        "value": 600
+      },
+      {
+        "clue": "This technique uses wax to resist watercolor paint on paper",
+        "correctQuestion": "What is wax resist?",
+        "value": 600
+      },
+      {
+        "clue": "You can embroider designs onto fabric using this threaded needle technique",
+        "correctQuestion": "What is cross-stitch?",
+        "value": 800
+      },
+      {
+        "clue": "This clear dimensional paint creates raised designs on ornaments",
+        "correctQuestion": "What is dimensional paint?",
+        "value": 800
+      },
+      {
+        "clue": "You can make ornaments by cutting shapes from this recyclable metal",
+        "correctQuestion": "What are aluminum cans?",
+        "value": 800
+      },
+      {
+        "clue": "This technique involves burning designs into wood using a hot tool",
+        "correctQuestion": "What is wood burning?",
+        "value": 800
+      },
+      {
+        "clue": "You can create textured backgrounds using this raised stamp technique",
+        "correctQuestion": "What is embossing?",
+        "value": 1000
+      },
+      {
+        "clue": "This wet felting technique uses soap and water to bond wool fibers",
+        "correctQuestion": "What is felting?",
+        "value": 1000
+      },
+      {
+        "clue": "You can cast ornaments using plaster poured into these flexible forms",
+        "correctQuestion": "What are silicone molds?",
+        "value": 1000
+      },
+      {
+        "clue": "This Japanese art of wrapping gifts with fabric is called this",
+        "correctQuestion": "What is furoshiki?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This DIY trend involves making resin ornaments with these preserved plants",
+        "correctQuestion": "What are dried flowers?",
+        "value": 200
+      },
+      {
+        "clue": "This cutting machine brand is popular for making custom vinyl decals",
+        "correctQuestion": "What is Cricut?",
+        "value": 200
+      },
+      {
+        "clue": "This aesthetic craft trend features these muted earth tones",
+        "correctQuestion": "What is cottagecore?",
+        "value": 200
+      },
+      {
+        "clue": "You can make aesthetic cards using this type of vintage scrapbooking",
+        "correctQuestion": "What is junk journaling?",
+        "value": 200
+      },
+      {
+        "clue": "This TikTok trend uses UV light to cure these clear ornament coatings",
+        "correctQuestion": "What is UV resin?",
+        "value": 200
+      },
+      {
+        "clue": "These battery-powered LED strips can be added to DIY decorations",
+        "correctQuestion": "What are LED strips?",
+        "value": 200
+      },
+      {
+        "clue": "This Pinterest trend involves painting ornaments with this marbling technique",
+        "correctQuestion": "What is acrylic pouring?",
+        "value": 200
+      },
+      {
+        "clue": "You can personalize cards with this hand-drawn decorative lettering style",
+        "correctQuestion": "What is hand lettering or calligraphy?",
+        "value": 200
+      },
+      {
+        "clue": "This craft involves shrinking plastic designs in the oven to make charms",
+        "correctQuestion": "What is Shrinky Dinks?",
+        "value": 200
+      },
+      {
+        "clue": "This sustainable craft trend uses recycled materials from this waste stream",
+        "correctQuestion": "What is upcycling?",
+        "value": 200
+      },
+      {
+        "clue": "This viral craft uses these colorful alcohol-based markers on ceramic",
+        "correctQuestion": "What are Sharpies?",
+        "value": 400
+      },
+      {
+        "clue": "You can make aesthetic ornaments using this two-part epoxy coating",
+        "correctQuestion": "What is resin?",
+        "value": 400
+      },
+      {
+        "clue": "This embroidery trend features designs stitched on this dark background",
+        "correctQuestion": "What is black fabric?",
+        "value": 400
+      },
+      {
+        "clue": "This craft app helps you design digital cards before printing",
+        "correctQuestion": "What is Canva?",
+        "value": 400
+      },
+      {
+        "clue": "This minimalist wrapping technique uses brown paper and this natural material",
+        "correctQuestion": "What is twine?",
+        "value": 400
+      },
+      {
+        "clue": "You can create custom stamps using this carved material",
+        "correctQuestion": "What are rubber stamps?",
+        "value": 400
+      },
+      {
+        "clue": "This trendy craft involves threading beads on wire to make these decorations",
+        "correctQuestion": "What are beaded ornaments?",
+        "value": 400
+      },
+      {
+        "clue": "This technique uses heat to transfer images onto fabric or wood",
+        "correctQuestion": "What is heat transfer?",
+        "value": 400
+      },
+      {
+        "clue": "This viral hack uses cookie cutters to create shaped crayons",
+        "correctQuestion": "What are melted crayons?",
+        "value": 400
+      },
+      {
+        "clue": "This eco-friendly alternative to glitter is made from plant cellulose",
+        "correctQuestion": "What is biodegradable glitter?",
+        "value": 400
+      },
+      {
+        "clue": "This 3D craft technique stacks these cut layers to create depth",
+        "correctQuestion": "What is shadow box?",
+        "value": 600
+      },
+      {
+        "clue": "You can make aesthetic ornaments by pouring this into silicone molds",
+        "correctQuestion": "What is jesmonite?",
+        "value": 600
+      },
+      {
+        "clue": "This trendy card-making technique uses this clear adhesive sheet for foiling",
+        "correctQuestion": "What is laminating?",
+        "value": 600
+      },
+      {
+        "clue": "This DIY technique preserves flowers in this clear gel medium",
+        "correctQuestion": "What is silica gel?",
+        "value": 600
+      },
+      {
+        "clue": "You can create custom ornaments using this 3D printing material",
+        "correctQuestion": "What is PLA filament?",
+        "value": 600
+      },
+      {
+        "clue": "This viral trend involves making ornaments from these sliced citrus fruits",
+        "correctQuestion": "What are dried oranges?",
+        "value": 600
+      },
+      {
+        "clue": "This technique uses this tool to burn designs into leather",
+        "correctQuestion": "What is a wood burner?",
+        "value": 600
+      },
+      {
+        "clue": "You can make boho ornaments using this knotting technique",
+        "correctQuestion": "What is macrame?",
+        "value": 600
+      },
+      {
+        "clue": "This aesthetic trend uses these wax seal stamps on cards",
+        "correctQuestion": "What are wax seals?",
+        "value": 800
+      },
+      {
+        "clue": "This advanced technique uses this hot tool to join metal for jewelry",
+        "correctQuestion": "What is a soldering iron?",
+        "value": 800
+      },
+      {
+        "clue": "You can create gradient effects using this airbrush technique",
+        "correctQuestion": "What is spray painting?",
+        "value": 800
+      },
+      {
+        "clue": "This trendy ornament style uses these natural elements encased in resin",
+        "correctQuestion": "What are botanicals?",
+        "value": 800
+      },
+      {
+        "clue": "This digital art technique projects designs onto wood for tracing",
+        "correctQuestion": "What is projection mapping?",
+        "value": 1000
+      },
+      {
+        "clue": "You can make aesthetic cards using this vintage printing technique",
+        "correctQuestion": "What is letterpress?",
+        "value": 1000
+      },
+      {
+        "clue": "This advanced technique uses electroplating to coat leaves in this metal",
+        "correctQuestion": "What is copper?",
+        "value": 1000
+      },
+      {
+        "clue": "This trendy craft involves carving these rubber blocks for custom stamps",
+        "correctQuestion": "What are lino blocks?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This Victorian craft tradition involves pressing flowers between these for preservation",
+        "correctQuestion": "What are book pages?",
+        "value": 200
+      },
+      {
+        "clue": "This traditional German Christmas craft uses these thin wood shavings",
+        "correctQuestion": "What are wood curls?",
+        "value": 200
+      },
+      {
+        "clue": "This historic ornament-making technique involves blowing molten glass",
+        "correctQuestion": "What is glass blowing?",
+        "value": 200
+      },
+      {
+        "clue": "This 19th-century craft involves cutting intricate designs from black paper",
+        "correctQuestion": "What is silhouette cutting?",
+        "value": 200
+      },
+      {
+        "clue": "This traditional Scandinavian craft uses straw to make these decorations",
+        "correctQuestion": "What are straw ornaments?",
+        "value": 200
+      },
+      {
+        "clue": "This Victorian card-making technique layers paper to create 3D scenes",
+        "correctQuestion": "What is decoupage?",
+        "value": 200
+      },
+      {
+        "clue": "This traditional craft uses beeswax sheets rolled around this to make candles",
+        "correctQuestion": "What is a wick?",
+        "value": 200
+      },
+      {
+        "clue": "This historic technique uses metal leaf applied with this adhesive",
+        "correctQuestion": "What is gold sizing?",
+        "value": 200
+      },
+      {
+        "clue": "This traditional Polish craft cuts intricate designs from this colorful paper",
+        "correctQuestion": "What is wycinanki?",
+        "value": 200
+      },
+      {
+        "clue": "This Colonial American craft strings these dried fruits for garlands",
+        "correctQuestion": "What are cranberries?",
+        "value": 200
+      },
+      {
+        "clue": "This medieval technique illuminates cards with this precious metal leaf",
+        "correctQuestion": "What is gold leaf?",
+        "value": 400
+      },
+      {
+        "clue": "This traditional craft preserves botanicals in this glycerin solution",
+        "correctQuestion": "What is glycerin and water?",
+        "value": 400
+      },
+      {
+        "clue": "This Victorian parlor craft uses this burned tool to create designs on wood",
+        "correctQuestion": "What is a pyrography pen?",
+        "value": 400
+      },
+      {
+        "clue": "This traditional technique uses this plant fiber paper from Japan",
+        "correctQuestion": "What is washi paper?",
+        "value": 400
+      },
+      {
+        "clue": "This historic craft technique uses shellac as this protective coating",
+        "correctQuestion": "What is a sealant?",
+        "value": 400
+      },
+      {
+        "clue": "This Renaissance technique applies this thin metal sheet for decoration",
+        "correctQuestion": "What is silver leaf?",
+        "value": 400
+      },
+      {
+        "clue": "This traditional craft uses this natural fiber for basket-weaving ornaments",
+        "correctQuestion": "What is willow?",
+        "value": 400
+      },
+      {
+        "clue": "This historic preservation method uses this chemical to dry flowers",
+        "correctQuestion": "What is borax?",
+        "value": 400
+      },
+      {
+        "clue": "This Colonial craft strings popcorn using this type of needle",
+        "correctQuestion": "What is a tapestry needle?",
+        "value": 400
+      },
+      {
+        "clue": "This traditional German technique carves these wooden nutcracker figures",
+        "correctQuestion": "What are wood carvings?",
+        "value": 400
+      },
+      {
+        "clue": "This Victorian craft technique uses this acid-based solution to etch glass",
+        "correctQuestion": "What is hydrofluoric acid?",
+        "value": 600
+      },
+      {
+        "clue": "This traditional Ukrainian craft decorates eggs using this wax-resist method",
+        "correctQuestion": "What is pysanky?",
+        "value": 600
+      },
+      {
+        "clue": "This medieval technique applies this precious powder mixed with gum arabic",
+        "correctQuestion": "What is gold dust?",
+        "value": 600
+      },
+      {
+        "clue": "This historic papermaking technique uses this plant material for pulp",
+        "correctQuestion": "What is cotton rag?",
+        "value": 600
+      },
+      {
+        "clue": "This traditional craft uses this heated sand method to bend glass",
+        "correctQuestion": "What is kiln forming?",
+        "value": 600
+      },
+      {
+        "clue": "This Victorian technique uses this copper plate for printing cards",
+        "correctQuestion": "What is engraving?",
+        "value": 600
+      },
+      {
+        "clue": "This traditional craft preserves leaves using this paraffin method",
+        "correctQuestion": "What is wax dipping?",
+        "value": 600
+      },
+      {
+        "clue": "This historic technique uses this hide glue for woodworking",
+        "correctQuestion": "What is rabbit skin glue?",
+        "value": 600
+      },
+      {
+        "clue": "This medieval craft illuminates manuscripts with this natural pigment binder",
+        "correctQuestion": "What is egg tempera?",
+        "value": 800
+      },
+      {
+        "clue": "This traditional Japanese technique uses this lacquer for decorative finish",
+        "correctQuestion": "What is urushi?",
+        "value": 800
+      },
+      {
+        "clue": "This historic glasswork technique uses this soda-lime composition",
+        "correctQuestion": "What is traditional glass formula?",
+        "value": 800
+      },
+      {
+        "clue": "This Victorian craft uses this gum tragacanth paste for flower making",
+        "correctQuestion": "What is gum paste?",
+        "value": 800
+      },
+      {
+        "clue": "This Renaissance technique applies this ground glass powder for enameling",
+        "correctQuestion": "What is enamel frit?",
+        "value": 1000
+      },
+      {
+        "clue": "This traditional metalwork uses this flux for soldering precious metals",
+        "correctQuestion": "What is borax flux?",
+        "value": 1000
+      },
+      {
+        "clue": "This historic technique uses this oak gall ink for calligraphy",
+        "correctQuestion": "What is iron gall ink?",
+        "value": 1000
+      },
+      {
+        "clue": "This medieval illumination technique burnishes this precious metal with this stone",
+        "correctQuestion": "What is an agate?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Where moms pin crafts they'll never make",
+        "correctQuestion": "What is Pinterest?",
+        "value": 200
+      },
+      {
+        "clue": "Where you spend $247 on wrapping paper",
+        "correctQuestion": "What is Michaels?",
+        "value": 200
+      },
+      {
+        "clue": "What your Pinterest craft actually looks like",
+        "correctQuestion": "What is a Pinterest fail?",
+        "value": 200
+      },
+      {
+        "clue": "Where drunk crafts become rustic farmhouse decor",
+        "correctQuestion": "What is Etsy?",
+        "value": 200
+      },
+      {
+        "clue": "Craft store Amazon is slowly murdering",
+        "correctQuestion": "What is Hobby Lobby?",
+        "value": 200
+      },
+      {
+        "clue": "Where Gen Z crafts impossible ornaments",
+        "correctQuestion": "What is TikTok?",
+        "value": 200
+      },
+      {
+        "clue": "What elementary school has smelled like since 1968",
+        "correctQuestion": "What is Elmer's Glue?",
+        "value": 200
+      },
+      {
+        "clue": "Where you save money but spend $200",
+        "correctQuestion": "What is Dollar Tree?",
+        "value": 200
+      },
+      {
+        "clue": "$400 machine that replaced your will to live",
+        "correctQuestion": "What is Cricut?",
+        "value": 400
+      },
+      {
+        "clue": "Craft night's real secret ingredient",
+        "correctQuestion": "What is boxed wine?",
+        "value": 400
+      },
+      {
+        "clue": "Background noise while hot gluing your fingers",
+        "correctQuestion": "What is Netflix?",
+        "value": 400
+      },
+      {
+        "clue": "One glue stick becomes $180 of supplies",
+        "correctQuestion": "What is Target?",
+        "value": 400
+      },
+      {
+        "clue": "Pinterest mom's marriage sealant",
+        "correctQuestion": "What is Mod Podge?",
+        "value": 400
+      },
+      {
+        "clue": "Where you buy 500 popsicle sticks minimum",
+        "correctQuestion": "What is Costco?",
+        "value": 400
+      },
+      {
+        "clue": "What makes everyone a graphic designer",
+        "correctQuestion": "What is Canva?",
+        "value": 400
+      },
+      {
+        "clue": "Where craft planning becomes just complaining",
+        "correctQuestion": "What is Starbucks?",
+        "value": 400
+      },
+      {
+        "clue": "What killed homemade Christmas cards",
+        "correctQuestion": "What is Amazon Prime shipping?",
+        "value": 600
+      },
+      {
+        "clue": "What replaced having actual artistic talent",
+        "correctQuestion": "What is Canva?",
+        "value": 600
+      },
+      {
+        "clue": "5-minute craft hacks that take 5 hours",
+        "correctQuestion": "What is YouTube?",
+        "value": 600
+      },
+      {
+        "clue": "Where you see 2am craft wine purchases",
+        "correctQuestion": "What is Venmo?",
+        "value": 600
+      },
+      {
+        "clue": "AI that heard your failed ornament rant",
+        "correctQuestion": "What is Alexa?",
+        "value": 600
+      },
+      {
+        "clue": "Pinterest's real name",
+        "correctQuestion": "What is Procrastination Board?",
+        "value": 600
+      },
+      {
+        "clue": "What made everyone DIY experts for 6 weeks",
+        "correctQuestion": "What is COVID-19?",
+        "value": 600
+      },
+      {
+        "clue": "Where aunts post glitter and political memes",
+        "correctQuestion": "What is Facebook?",
+        "value": 600
+      },
+      {
+        "clue": "What your Cricut becomes after 3 projects",
+        "correctQuestion": "What is an expensive mistake?",
+        "value": 800
+      },
+      {
+        "clue": "Why Michaels emails you daily coupons",
+        "correctQuestion": "What is craft supply addiction?",
+        "value": 800
+      },
+      {
+        "clue": "Topic that ruined craft nights 2020-2024",
+        "correctQuestion": "What is Trump and politics?",
+        "value": 800
+      },
+      {
+        "clue": "What millennials want instead of ornaments",
+        "correctQuestion": "What is student loan forgiveness?",
+        "value": 800
+      },
+      {
+        "clue": "Gen Z's real Christmas miracle",
+        "correctQuestion": "What is affordable rent?",
+        "value": 800
+      },
+      {
+        "clue": "$60 of supplies you'll never use monthly",
+        "correctQuestion": "What is a craft subscription box?",
+        "value": 800
+      },
+      {
+        "clue": "What ruined your Etsy shop name",
+        "correctQuestion": "What is autocorrect?",
+        "value": 1000
+      },
+      {
+        "clue": "What killed craft stores worse than Amazon",
+        "correctQuestion": "What is common sense?",
+        "value": 1000
+      },
+      {
+        "clue": "Midnight McDonald's after craft night",
+        "correctQuestion": "What is DoorDash?",
+        "value": 1000
+      },
+      {
+        "clue": "Post-wine craft night ride home",
+        "correctQuestion": "What is Uber?",
+        "value": 1000
+      },
+      {
+        "clue": "What makes terrible crafts look Etsy-worthy",
+        "correctQuestion": "What is lying with technology?",
+        "value": 1000
+      },
+      {
+        "clue": "What hid your craft room disaster",
+        "correctQuestion": "What is the virtual background?",
+        "value": 1000
+      }
+    ]
+  }
+}

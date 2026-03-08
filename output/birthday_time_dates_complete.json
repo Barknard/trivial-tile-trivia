@@ -1,0 +1,873 @@
+{
+  "category": "Birthday Time and Dates",
+  "theme": "birthdays",
+  "category_id": "birthday_time_dates",
+  "research_basis": "Temporal cognition and calendar understanding in developmental psychology (Friedman, 2008), mathematical understanding of time intervals and age calculation (Piaget's cognitive development theory), calendrical systems and date mathematics (ISO 8601 international standards), leap year calculations and astronomical principles (Meeus, 1991), chronological reasoning in cross-cultural contexts (Hutchins, 1995), time perception across lifespan development (Block & Zakay, 2008), mathematical age calculations and birthday paradoxes (probability theory - Diaconis & Mosteller, 1989), historical calendar reforms and date standardization (Richards, 1998), cross-cultural birthday traditions and temporal markers (Foley & Robbins, 2005), neurocognitive development of temporal understanding (Wittmann, 2009)",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This is the special day when you were born",
+        "correctQuestion": "What is your birthday?",
+        "value": 200
+      },
+      {
+        "clue": "You get one of these on your birthday",
+        "correctQuestion": "What is a birthday?",
+        "value": 200
+      },
+      {
+        "clue": "This is what we eat at birthday parties",
+        "correctQuestion": "What is cake?",
+        "value": 200
+      },
+      {
+        "clue": "This is how many candles go on a one-year-old's cake",
+        "correctQuestion": "What is one?",
+        "value": 200
+      },
+      {
+        "clue": "This is what you blow out on your birthday",
+        "correctQuestion": "What are candles?",
+        "value": 200
+      },
+      {
+        "clue": "This is how many birthdays you get every year",
+        "correctQuestion": "What is one?",
+        "value": 200
+      },
+      {
+        "clue": "We sing this song at birthday parties",
+        "correctQuestion": "What is Happy Birthday?",
+        "value": 200
+      },
+      {
+        "clue": "This is how many days are in a week",
+        "correctQuestion": "What is seven?",
+        "value": 400
+      },
+      {
+        "clue": "This is how many months are in a year",
+        "correctQuestion": "What is twelve?",
+        "value": 400
+      },
+      {
+        "clue": "This is how old you are when you've had your first birthday",
+        "correctQuestion": "What is one?",
+        "value": 400
+      },
+      {
+        "clue": "This is how many hours are in a day",
+        "correctQuestion": "What is twenty-four?",
+        "value": 400
+      },
+      {
+        "clue": "This is what gets older on your birthday",
+        "correctQuestion": "What is you (or age)?",
+        "value": 400
+      },
+      {
+        "clue": "This is how many candles are on a two-year-old's cake",
+        "correctQuestion": "What is two?",
+        "value": 400
+      },
+      {
+        "clue": "This is how many candles are on a three-year-old's cake",
+        "correctQuestion": "What is three?",
+        "value": 400
+      },
+      {
+        "clue": "This is how many candles are on a four-year-old's cake",
+        "correctQuestion": "What is four?",
+        "value": 400
+      },
+      {
+        "clue": "You turn this many years old on your fourth birthday",
+        "correctQuestion": "What is four?",
+        "value": 600
+      },
+      {
+        "clue": "This is how many months old a one-year-old is",
+        "correctQuestion": "What is twelve?",
+        "value": 600
+      },
+      {
+        "clue": "This is the number of days in the week when most kids have school",
+        "correctQuestion": "What is five?",
+        "value": 600
+      },
+      {
+        "clue": "This is how many minutes are in one hour",
+        "correctQuestion": "What is sixty?",
+        "value": 600
+      },
+      {
+        "clue": "This is the name of the month when you might be born if your birthday is in winter",
+        "correctQuestion": "What is December, January, or February?",
+        "value": 600
+      },
+      {
+        "clue": "This is how many weeks are in a year",
+        "correctQuestion": "What is fifty-two?",
+        "value": 800
+      },
+      {
+        "clue": "This is how many days are in a month, approximately",
+        "correctQuestion": "What is thirty?",
+        "value": 800
+      },
+      {
+        "clue": "This is how many seconds are in one minute",
+        "correctQuestion": "What is sixty?",
+        "value": 800
+      },
+      {
+        "clue": "This is what you count to mark the time between birthdays",
+        "correctQuestion": "What is days (or months)?",
+        "value": 800
+      },
+      {
+        "clue": "After your birthday, you are this many years older than you were before",
+        "correctQuestion": "What is one?",
+        "value": 800
+      },
+      {
+        "clue": "This is how many months old a two-year-old is",
+        "correctQuestion": "What is twenty-four?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many weeks old a baby is after one month of life",
+        "correctQuestion": "What is four?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the measure of time from one birthday to the next",
+        "correctQuestion": "What is one year?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many times the calendar repeats during a decade",
+        "correctQuestion": "What is ten?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the part of the date that stays the same every year on your birthday",
+        "correctQuestion": "What is the month and day?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the day of the week when you were born, if your birthday is today",
+        "correctQuestion": "What is today?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many seconds are in a full year",
+        "correctQuestion": "What is thirty-one million five hundred thirty-six thousand?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many minutes old you are when you've had your first birthday",
+        "correctQuestion": "What is five hundred twenty-five thousand six hundred?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many days old your baby brother is after one week",
+        "correctQuestion": "What is seven?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many hours old a baby is after three days of life",
+        "correctQuestion": "What is seventy-two?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "If you're seven years old, you'll be this age next year on your birthday",
+        "correctQuestion": "What is eight?",
+        "value": 200
+      },
+      {
+        "clue": "This is how many years are in a decade",
+        "correctQuestion": "What is ten?",
+        "value": 200
+      },
+      {
+        "clue": "If you were born in 2015, you turned this age in 2023",
+        "correctQuestion": "What is eight?",
+        "value": 200
+      },
+      {
+        "clue": "This is how many birthdays you've had by age 10",
+        "correctQuestion": "What is ten?",
+        "value": 200
+      },
+      {
+        "clue": "This is the number of days in February during a leap year",
+        "correctQuestion": "What is twenty-nine?",
+        "value": 200
+      },
+      {
+        "clue": "This is how many months old you are when you turn five years old",
+        "correctQuestion": "What is sixty?",
+        "value": 400
+      },
+      {
+        "clue": "If you're nine years old, this is how many years until you're twenty",
+        "correctQuestion": "What is eleven?",
+        "value": 400
+      },
+      {
+        "clue": "This is how many seconds are in five minutes",
+        "correctQuestion": "What is three hundred?",
+        "value": 400
+      },
+      {
+        "clue": "If you were born in January 2014, you were this age in January 2024",
+        "correctQuestion": "What is ten?",
+        "value": 400
+      },
+      {
+        "clue": "This is how many days are typically in a year",
+        "correctQuestion": "What is three hundred sixty-five?",
+        "value": 400
+      },
+      {
+        "clue": "This is the difference in age between a child born in 2010 and one born in 2015",
+        "correctQuestion": "What is five years?",
+        "value": 600
+      },
+      {
+        "clue": "If you're born on December 31st, your next birthday will be this many days away",
+        "correctQuestion": "What is one?",
+        "value": 600
+      },
+      {
+        "clue": "This is the number of leap years that occur in a typical 20-year period",
+        "correctQuestion": "What is five?",
+        "value": 600
+      },
+      {
+        "clue": "This is how many hours are in one full week",
+        "correctQuestion": "What is one hundred sixty-eight?",
+        "value": 600
+      },
+      {
+        "clue": "If today is your birthday and you're turning eight, you were born this many years ago",
+        "correctQuestion": "What is eight years?",
+        "value": 600
+      },
+      {
+        "clue": "This is the age you must reach to legally drive a car in the United States",
+        "correctQuestion": "What is sixteen?",
+        "value": 800
+      },
+      {
+        "clue": "This is how many days pass between your tenth birthday and your eleventh",
+        "correctQuestion": "What is three hundred sixty-five (or three hundred sixty-six)?",
+        "value": 800
+      },
+      {
+        "clue": "If someone is born in March and today is September, their next birthday is this many months away",
+        "correctQuestion": "What is six?",
+        "value": 800
+      },
+      {
+        "clue": "This is the year that someone born in 2005 turned eighteen",
+        "correctQuestion": "What is 2023?",
+        "value": 800
+      },
+      {
+        "clue": "This is how many times your birthday occurs in four years on average",
+        "correctQuestion": "What is four?",
+        "value": 800
+      },
+      {
+        "clue": "This is the average number of days between consecutive leap days",
+        "correctQuestion": "What is one thousand four hundred sixty-one?",
+        "value": 1000
+      },
+      {
+        "clue": "If you're eight years old today and will be nine on your next birthday, you were born this many days from today",
+        "correctQuestion": "What is between 1 and 365 days?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the month when the most birthdays are said to occur according to research",
+        "correctQuestion": "What is September?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the probability that two people in a group of 23 share a birthday",
+        "correctQuestion": "What is greater than 50 percent (or about 50 percent)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many years someone born on February 29, 1996 has celebrated their actual birthday by 2024",
+        "correctQuestion": "What is eight (or seven)?",
+        "value": 1000
+      },
+      {
+        "clue": "If you're born in March 2016, you turned this age in 2024",
+        "correctQuestion": "What is eight?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of days in a year with 365 days divided by 7 (the number of days in a week)",
+        "correctQuestion": "What is approximately fifty-two weeks?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many more days December has than February in a leap year",
+        "correctQuestion": "What is two?",
+        "value": 1000
+      },
+      {
+        "clue": "If twins are born on the same day but at different times, the older one is born this many hours or minutes before midnight",
+        "correctQuestion": "What is variable (or less than 24 hours)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of times you age one year if you live to be eighty years old",
+        "correctQuestion": "What is eighty?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many days after January 1st when your birthday is on January 8th",
+        "correctQuestion": "What is seven?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of complete months in a year",
+        "correctQuestion": "What is twelve?",
+        "value": 1000
+      },
+      {
+        "clue": "If you're born on January 1, 2010, the number of days until January 1, 2015 is this",
+        "correctQuestion": "What is one thousand eight hundred twenty-five?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many leap years occur between 2000 and 2020",
+        "correctQuestion": "What is five?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "If you were born on September 1, 2006, you turned this age on September 1, 2024",
+        "correctQuestion": "What is eighteen?",
+        "value": 200
+      },
+      {
+        "clue": "This is the age you become a legal adult in most U.S. states",
+        "correctQuestion": "What is eighteen?",
+        "value": 200
+      },
+      {
+        "clue": "If you're currently 16, you were born approximately this many years ago",
+        "correctQuestion": "What is sixteen?",
+        "value": 200
+      },
+      {
+        "clue": "This is the legal drinking age in the United States",
+        "correctQuestion": "What is twenty-one?",
+        "value": 200
+      },
+      {
+        "clue": "This is how many months pass between your 15th and 16th birthdays",
+        "correctQuestion": "What is twelve?",
+        "value": 200
+      },
+      {
+        "clue": "If someone was born in 2007, they turned this age in 2024",
+        "correctQuestion": "What is seventeen?",
+        "value": 400
+      },
+      {
+        "clue": "This is the typical number of days between consecutive birthdays in a non-leap year",
+        "correctQuestion": "What is three hundred sixty-five?",
+        "value": 400
+      },
+      {
+        "clue": "If you're born on February 29th, you have your 'real' birthday once every this many years",
+        "correctQuestion": "What is four?",
+        "value": 400
+      },
+      {
+        "clue": "This is the minimum driving age in California",
+        "correctQuestion": "What is sixteen?",
+        "value": 400
+      },
+      {
+        "clue": "If your birthday is today and you're turning 17, this is your age in days from now one year from today",
+        "correctQuestion": "What is 18 years old?",
+        "value": 400
+      },
+      {
+        "clue": "This is the number of hours in one week",
+        "correctQuestion": "What is one hundred sixty-eight?",
+        "value": 600
+      },
+      {
+        "clue": "If you were born on December 25, this is the day after your birthday",
+        "correctQuestion": "What is December 26?",
+        "value": 600
+      },
+      {
+        "clue": "This is the age at which you can legally vote in the United States",
+        "correctQuestion": "What is eighteen?",
+        "value": 600
+      },
+      {
+        "clue": "If someone has had exactly 18 birthdays, they were born this many years ago",
+        "correctQuestion": "What is eighteen?",
+        "value": 600
+      },
+      {
+        "clue": "This is how many leap years occur in a typical century (100 years)",
+        "correctQuestion": "What is twenty-four (or twenty-five)?",
+        "value": 600
+      },
+      {
+        "clue": "If you're born in January 1997, you were this age when the year 2000 arrived",
+        "correctQuestion": "What is three?",
+        "value": 800
+      },
+      {
+        "clue": "This is how many minutes exist between your last birthday and your next one",
+        "correctQuestion": "What is five hundred twenty-five thousand six hundred (or five hundred twenty-six thousand eight hundred forty)?",
+        "value": 800
+      },
+      {
+        "clue": "This is the year that someone born in 2003 will turn 21",
+        "correctQuestion": "What is 2024?",
+        "value": 800
+      },
+      {
+        "clue": "If you have a sibling born exactly one year apart, the age difference will always be this",
+        "correctQuestion": "What is one year?",
+        "value": 800
+      },
+      {
+        "clue": "This is the percentage chance two randomly selected people share the same birthday month",
+        "correctQuestion": "What is about 8.3 percent (or 1 in 12)?",
+        "value": 800
+      },
+      {
+        "clue": "This is how many complete days pass in a non-leap year",
+        "correctQuestion": "What is three hundred sixty-five?",
+        "value": 1000
+      },
+      {
+        "clue": "If you were born on February 29, 2000, you've celebrated this many 'real' birthdays by 2024",
+        "correctQuestion": "What is six (or seven)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of people needed so there's at least a 99% chance two share a birthday",
+        "correctQuestion": "What is fifty-seven?",
+        "value": 1000
+      },
+      {
+        "clue": "If you were born at 11:59 PM on December 31, you'd be this age one minute later",
+        "correctQuestion": "What is zero (or one hour old)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many seconds have passed on your birthday when you're exactly 24 hours old",
+        "correctQuestion": "What is eighty-six thousand four hundred?",
+        "value": 1000
+      },
+      {
+        "clue": "If you were born on April 15, 2006, you turned this age in April 2024",
+        "correctQuestion": "What is eighteen?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many days between your 16th and 17th birthdays in a non-leap year",
+        "correctQuestion": "What is three hundred sixty-five?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the earliest age you can legally get a job in most U.S. states",
+        "correctQuestion": "What is fourteen?",
+        "value": 1000
+      },
+      {
+        "clue": "If someone was born in 2008, they reached voting age in this year",
+        "correctQuestion": "What is 2026?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of birthdays celebrated by age 21",
+        "correctQuestion": "What is twenty-one?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many leap days occur in a typical 28-year period",
+        "correctQuestion": "What is seven?",
+        "value": 1000
+      },
+      {
+        "clue": "If you're born on December 25th, your birthday falls on this major holiday",
+        "correctQuestion": "What is Christmas?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the age at which you can legally sign contracts in most U.S. states",
+        "correctQuestion": "What is eighteen?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the approximate number of days in a decade",
+        "correctQuestion": "What is three thousand six hundred fifty?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "Someone born on March 15, 1985 would be this age on March 15, 2024",
+        "correctQuestion": "What is thirty-nine?",
+        "value": 200
+      },
+      {
+        "clue": "This is the legal age of adulthood in the United States",
+        "correctQuestion": "What is eighteen?",
+        "value": 200
+      },
+      {
+        "clue": "If you were born in 1995, you turned this age in 2024",
+        "correctQuestion": "What is twenty-nine?",
+        "value": 200
+      },
+      {
+        "clue": "This is typically when retirement age begins to be considered in the U.S.",
+        "correctQuestion": "What is sixty-two, sixty-five, or sixty-seven?",
+        "value": 200
+      },
+      {
+        "clue": "This is the number of days in a leap year",
+        "correctQuestion": "What is three hundred sixty-six?",
+        "value": 200
+      },
+      {
+        "clue": "Someone born on July 4, 1976 turned this age on July 4, 2024",
+        "correctQuestion": "What is forty-eight?",
+        "value": 400
+      },
+      {
+        "clue": "This is the approximate number of minutes in one year",
+        "correctQuestion": "What is five hundred twenty-five thousand nine hundred sixty (or approximately 526,000)?",
+        "value": 400
+      },
+      {
+        "clue": "If someone was born in 1980, they turned this age in 2024",
+        "correctQuestion": "What is forty-four?",
+        "value": 400
+      },
+      {
+        "clue": "This is the age at which you become eligible for Medicare in the U.S.",
+        "correctQuestion": "What is sixty-five?",
+        "value": 400
+      },
+      {
+        "clue": "This is the probability expressed as a percentage that two random people share a birthday month",
+        "correctQuestion": "What is approximately eight point three percent?",
+        "value": 400
+      },
+      {
+        "clue": "In a room of 50 people, this is approximately the percentage chance that two share a birthday",
+        "correctQuestion": "What is ninety-seven percent?",
+        "value": 600
+      },
+      {
+        "clue": "Someone born on January 1, 2000 will turn this age on January 1, 2050",
+        "correctQuestion": "What is fifty?",
+        "value": 600
+      },
+      {
+        "clue": "This is the traditional retirement age for Social Security benefits in the U.S.",
+        "correctQuestion": "What is sixty-five (or sixty-six or sixty-seven)?",
+        "value": 600
+      },
+      {
+        "clue": "If you were born on February 29, 1996, you've lived through this many leap day birthdays by 2024",
+        "correctQuestion": "What is seven (or eight)?",
+        "value": 600
+      },
+      {
+        "clue": "This is approximately how many seconds old you are if you've just turned 40",
+        "correctQuestion": "What is one billion two hundred sixty million?",
+        "value": 600
+      },
+      {
+        "clue": "A person born in 1960 turned this age in 2024",
+        "correctQuestion": "What is sixty-four?",
+        "value": 800
+      },
+      {
+        "clue": "This is the number of leap years that occur in a 400-year Gregorian calendar cycle",
+        "correctQuestion": "What is ninety-seven?",
+        "value": 800
+      },
+      {
+        "clue": "If twins are born on different sides of midnight, their birthdate difference is this many hours",
+        "correctQuestion": "What is less than one (or effectively zero)?",
+        "value": 800
+      },
+      {
+        "clue": "Someone who has lived for 50 years has experienced this many leap days on average",
+        "correctQuestion": "What is twelve (or thirteen)?",
+        "value": 800
+      },
+      {
+        "clue": "This is the age that millennials born in 1981 would turn in 2024",
+        "correctQuestion": "What is forty-three?",
+        "value": 800
+      },
+      {
+        "clue": "The Gregorian calendar repeats its pattern every this many years",
+        "correctQuestion": "What is four hundred?",
+        "value": 1000
+      },
+      {
+        "clue": "In the birthday paradox, this is the minimum group size where two people sharing a birthday is more likely than not",
+        "correctQuestion": "What is twenty-three?",
+        "value": 1000
+      },
+      {
+        "clue": "If you were born on December 31 at 11:59:59 PM, you'd be this many seconds old at midnight",
+        "correctQuestion": "What is one?",
+        "value": 1000
+      },
+      {
+        "clue": "A person born on February 29, 1900 (if they existed) would have missed this many leap day birthdays by 1900 due to Gregorian calendar rules",
+        "correctQuestion": "What is zero (because 1900 was not a leap year)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the average lifespan in years for humans in developed nations, which represents approximately this many birthdays",
+        "correctQuestion": "What is seventy-five to eighty years (or about seventy-five to eighty birthdays)?",
+        "value": 1000
+      },
+      {
+        "clue": "Someone who reached their 50th birthday was born this many years ago",
+        "correctQuestion": "What is fifty?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the year that someone born in 1970 turned 54",
+        "correctQuestion": "What is 2024?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of birthdays a person celebrates by age 75",
+        "correctQuestion": "What is seventy-five?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many years typically pass between a person's 30th and 40th birthdays",
+        "correctQuestion": "What is ten?",
+        "value": 1000
+      },
+      {
+        "clue": "If you were born in 1975, you turned this age in 2024",
+        "correctQuestion": "What is forty-nine?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many seconds old you are on your 25th birthday approximately",
+        "correctQuestion": "What is seven hundred eighty-eight million nine hundred thirty-six thousand?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the year of the major life milestone when you become a half-century old",
+        "correctQuestion": "What is the year you reach age 50?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many leap years someone born in 1960 had lived through by their 64th birthday in 2024",
+        "correctQuestion": "What is sixteen?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of different birth months you could be born in",
+        "correctQuestion": "What is twelve?",
+        "value": 1000
+      }
+    ],
+    "seniors": [
+      {
+        "clue": "Someone born in 1940 reached their birthday milestone of this age in 2024",
+        "correctQuestion": "What is eighty-four?",
+        "value": 200
+      },
+      {
+        "clue": "This is the legal age to begin drawing full Social Security benefits for someone born in 1960",
+        "correctQuestion": "What is sixty-seven?",
+        "value": 200
+      },
+      {
+        "clue": "If you were born in 1930, you turned this age in 2024",
+        "correctQuestion": "What is ninety-four?",
+        "value": 200
+      },
+      {
+        "clue": "People born in this year experienced the end of World War II in 1945",
+        "correctQuestion": "What is 1920-1927 (or any year before 1945)?",
+        "value": 200
+      },
+      {
+        "clue": "This is the age when Medicare eligibility begins in the United States",
+        "correctQuestion": "What is sixty-five?",
+        "value": 200
+      },
+      {
+        "clue": "Someone born on June 5, 1945 celebrates their birthday exactly how many days after D-Day (June 6, 1944)?",
+        "correctQuestion": "What is three hundred sixty-four days?",
+        "value": 400
+      },
+      {
+        "clue": "A person born in 1935 reached their milestone age of this in 2024",
+        "correctQuestion": "What is eighty-nine?",
+        "value": 400
+      },
+      {
+        "clue": "This is the age someone born in 1939 would reach in 2024",
+        "correctQuestion": "What is eighty-five?",
+        "value": 400
+      },
+      {
+        "clue": "If you were born on December 7, 1941, that was this many days before Pearl Harbor Day",
+        "correctQuestion": "What is zero (or the same day)?",
+        "value": 400
+      },
+      {
+        "clue": "Someone reaching their 90th birthday has lived approximately this many days",
+        "correctQuestion": "What is thirty-two thousand eight hundred seventy-five?",
+        "value": 400
+      },
+      {
+        "clue": "A person born in 1950 reached this birthday milestone in 2024",
+        "correctQuestion": "What is seventy-four?",
+        "value": 600
+      },
+      {
+        "clue": "The full Social Security benefit age for someone born in 1955 is this age",
+        "correctQuestion": "What is sixty-six?",
+        "value": 600
+      },
+      {
+        "clue": "Someone born on January 1, 1930 lived through approximately this many calendar years until January 1, 2024",
+        "correctQuestion": "What is ninety-four?",
+        "value": 600
+      },
+      {
+        "clue": "If you've lived 80 years, you've experienced approximately this many leap days",
+        "correctQuestion": "What is nineteen (or twenty)?",
+        "value": 600
+      },
+      {
+        "clue": "People born in 1920 lived through all of these major world events by their 25th birthday except:",
+        "correctQuestion": "What is varies?",
+        "value": 600
+      },
+      {
+        "clue": "The U.S. Social Security full retirement age for someone born in 1954 is this",
+        "correctQuestion": "What is sixty-six?",
+        "value": 800
+      },
+      {
+        "clue": "Someone celebrating their 75th birthday was born in this year (if we're in 2024)",
+        "correctQuestion": "What is 1949?",
+        "value": 800
+      },
+      {
+        "clue": "If someone was born exactly 100 years before January 1, 2024, they were born on this date",
+        "correctQuestion": "What is January 1, 1924?",
+        "value": 800
+      },
+      {
+        "clue": "A person who has celebrated 95 birthdays has lived approximately this many hours",
+        "correctQuestion": "What is eight hundred thirty-one thousand two hundred?",
+        "value": 800
+      },
+      {
+        "clue": "The age of majority (legal adulthood) has been 18 since what year in the United States?",
+        "correctQuestion": "What is 1971?",
+        "value": 800
+      },
+      {
+        "clue": "In the Gregorian calendar, leap years occur in cycles of this many years",
+        "correctQuestion": "What is four (with exceptions for century years)?",
+        "value": 1000
+      },
+      {
+        "clue": "Someone born on February 29, 1928 had actually lived this many days by their 80th 'real' birthday",
+        "correctQuestion": "What is approximately twenty-nine thousand two hundred (or similar calculation)?",
+        "value": 1000
+      },
+      {
+        "clue": "A person born in 1924 was this age when the Civil Rights Act of 1964 was signed",
+        "correctQuestion": "What is forty?",
+        "value": 1000
+      },
+      {
+        "clue": "If you were born on February 29, 1944, by 2024 you've actually celebrated your 20th 'real' birthday on this date",
+        "correctQuestion": "What is February 29?",
+        "value": 1000
+      },
+      {
+        "clue": "The longest documented human lifespan is approximately this many years, making it this many birthdays",
+        "correctQuestion": "What is one hundred twenty-two years (or about one hundred twenty-two birthdays)?",
+        "value": 1000
+      },
+      {
+        "clue": "Someone born in 1945 celebrated their 79th birthday in this year",
+        "correctQuestion": "What is 2024?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many complete months someone who is 90 years old has lived",
+        "correctQuestion": "What is one thousand eighty?",
+        "value": 1000
+      },
+      {
+        "clue": "If you were born on June 15, 1940, you turned this age on June 15, 2024",
+        "correctQuestion": "What is eighty-four?",
+        "value": 1000
+      },
+      {
+        "clue": "The full retirement age for Social Security benefits for someone born in 1943 is this age",
+        "correctQuestion": "What is sixty-six?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the number of presidential elections a person born in 1920 lived through until 2024",
+        "correctQuestion": "What is twenty-six?",
+        "value": 1000
+      },
+      {
+        "clue": "Someone who is 85 years old was born approximately this many years before the year 2000",
+        "correctQuestion": "What is eighty-five?",
+        "value": 1000
+      },
+      {
+        "clue": "This is how many leap days someone born in 1935 had experienced by their 89th birthday in 2024",
+        "correctQuestion": "What is twenty-two?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the age when most pension plans allow full access to benefits without penalty in many countries",
+        "correctQuestion": "What is sixty-five (or sixty)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is approximately how many years separate a person's 70th and 80th birthdays",
+        "correctQuestion": "What is ten?",
+        "value": 1000
+      }
+    ]
+  }
+}

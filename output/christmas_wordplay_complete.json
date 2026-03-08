@@ -1,0 +1,2079 @@
+{
+  "category": {
+    "id": "christmas_wordplay",
+    "name": "Holiday Word Fun",
+    "description": "Christmas vocabulary, word games, spelling, wordplay, and language arts",
+    "theme": "christmas",
+    "total_questions": 180,
+    "audiences": [
+      "kids_10_under",
+      "teenagers"
+    ]
+  },
+  "questions": [
+    {
+      "id": "cw_k10_100_01",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This 5-letter word means a song sung at Christmas time.",
+      "answer": "What is carol?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Basic Christmas vocabulary"
+    },
+    {
+      "id": "cw_k10_100_02",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "Santa's helpers have this 3-letter name that rhymes with 'self.'",
+      "answer": "What is elf?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Simple rhyming word"
+    },
+    {
+      "id": "cw_k10_100_03",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This word for frozen water hangs from your roof in winter.",
+      "answer": "What is icicle?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Winter vocabulary"
+    },
+    {
+      "id": "cw_k10_100_04",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "The word for white flakes that fall from the sky in winter.",
+      "answer": "What is snow?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Basic weather term"
+    },
+    {
+      "id": "cw_k10_100_05",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This 4-letter word means something you give to someone at Christmas.",
+      "answer": "What is gift?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Christmas tradition vocabulary"
+    },
+    {
+      "id": "cw_k10_100_06",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This word rhymes with 'tree' and means happiness at Christmas.",
+      "answer": "What is glee?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Emotion vocabulary and rhyming"
+    },
+    {
+      "id": "cw_k10_100_07",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "Santa's sleigh is pulled by animals with this 8-letter name.",
+      "answer": "What is reindeer?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Christmas animals"
+    },
+    {
+      "id": "cw_k10_100_08",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This 4-letter word means a round decoration you hang on your door.",
+      "answer": "What is wreath?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Christmas decoration vocabulary"
+    },
+    {
+      "id": "cw_k10_100_09",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "The word 'Noel' is another word for this holiday.",
+      "answer": "What is Christmas?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-01",
+      "notes": "Alternative Christmas terminology"
+    },
+    {
+      "id": "cw_k10_200_01",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "Spell the name of the red-nosed reindeer.",
+      "answer": "What is R-U-D-O-L-P-H?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Spelling challenge"
+    },
+    {
+      "id": "cw_k10_200_02",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "This word for decorations on a tree starts with 'orn' and ends with 'ments.'",
+      "answer": "What is ornaments?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Word completion"
+    },
+    {
+      "id": "cw_k10_200_03",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "Unscramble these letters to find a Christmas treat: YDACN NACE.",
+      "answer": "What is candy cane?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Word scramble"
+    },
+    {
+      "id": "cw_k10_200_04",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "This word for a sock hung by the fireplace has 8 letters.",
+      "answer": "What is stocking?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Christmas tradition vocabulary"
+    },
+    {
+      "id": "cw_k10_200_05",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "The plural of 'snowman' is this word.",
+      "answer": "What is snowmen?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Plural forms"
+    },
+    {
+      "id": "cw_k10_200_06",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "This word means shiny strips you put on a Christmas tree, starts with 'tin.'",
+      "answer": "What is tinsel?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Decoration vocabulary"
+    },
+    {
+      "id": "cw_k10_200_07",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "Santa comes down this part of the house - it has 7 letters.",
+      "answer": "What is chimney?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "House parts vocabulary"
+    },
+    {
+      "id": "cw_k10_200_08",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "This word for December 24th is 'Christmas' with this word before it.",
+      "answer": "What is Eve?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Holiday terminology"
+    },
+    {
+      "id": "cw_k10_200_09",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "Unscramble: REPSENT (a word for a Christmas gift).",
+      "answer": "What is present?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-02",
+      "notes": "Anagram puzzle"
+    },
+    {
+      "id": "cw_k10_300_01",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "This compound word combines 'ginger' and a small house.",
+      "answer": "What is gingerbread?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Compound words"
+    },
+    {
+      "id": "cw_k10_300_02",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "Spell the word for the man made of snow.",
+      "answer": "What is S-N-O-W-M-A-N?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Compound word spelling"
+    },
+    {
+      "id": "cw_k10_300_03",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "This 9-letter word means a structure on your roof where Santa enters.",
+      "answer": "What is fireplace?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "House vocabulary"
+    },
+    {
+      "id": "cw_k10_300_04",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "The word 'mistletoe' has this many syllables.",
+      "answer": "What is three?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Syllable counting"
+    },
+    {
+      "id": "cw_k10_300_05",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "Unscramble: GHILES (what Santa rides in).",
+      "answer": "What is sleigh?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Transportation vocabulary"
+    },
+    {
+      "id": "cw_k10_300_06",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "This word for a warm Christmas drink rhymes with 'mocha' and has 5 letters.",
+      "answer": "What is cocoa?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Beverage and rhyming"
+    },
+    {
+      "id": "cw_k10_300_07",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "The word 'evergreen' is made of these two smaller words.",
+      "answer": "What is ever and green?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Compound word analysis"
+    },
+    {
+      "id": "cw_k10_300_08",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "Spell the word for small people who help Santa.",
+      "answer": "What is E-L-V-E-S?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Irregular plural spelling"
+    },
+    {
+      "id": "cw_k10_300_09",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "This word for a winter storm starts with 'bliz' and has 8 letters.",
+      "answer": "What is blizzard?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-03",
+      "notes": "Weather vocabulary"
+    },
+    {
+      "id": "cw_k10_400_01",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "This 11-letter word means plants with red berries used for Christmas decorating.",
+      "answer": "What is poinsettia?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Advanced plant vocabulary"
+    },
+    {
+      "id": "cw_k10_400_02",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "Unscramble: TELSOMISET (a plant you kiss under).",
+      "answer": "What is mistletoe?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Long word anagram"
+    },
+    {
+      "id": "cw_k10_400_03",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "The word 'December' comes from the Latin word for this number.",
+      "answer": "What is ten?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Word etymology"
+    },
+    {
+      "id": "cw_k10_400_04",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "This 9-letter word means songs sung door-to-door at Christmas.",
+      "answer": "What is caroling?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Christmas activity vocabulary"
+    },
+    {
+      "id": "cw_k10_400_05",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "Spell the word for the town where Jesus was born.",
+      "answer": "What is B-E-T-H-L-E-H-E-M?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Biblical place name spelling"
+    },
+    {
+      "id": "cw_k10_400_06",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "This word meaning 'gift-giver' has the same letters as 'Santa' rearranged.",
+      "answer": "What is Satan? (Accept: This is a trick - no common word)",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Anagram challenge - note this may need revision"
+    },
+    {
+      "id": "cw_k10_400_07",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "The silent letter in 'wreath' is this letter.",
+      "answer": "What is W?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Silent letter identification"
+    },
+    {
+      "id": "cw_k10_400_08",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "This 10-letter word means the scene of Jesus' birth with figures.",
+      "answer": "What is nativity?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Religious vocabulary"
+    },
+    {
+      "id": "cw_k10_400_09",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "Unscramble: NEMMATORNS (things you hang on a tree).",
+      "answer": "What is ornaments?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-04",
+      "notes": "Plural anagram"
+    },
+    {
+      "id": "cw_k10_500_01",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "This 12-letter word means songs of praise sung at Christmas.",
+      "answer": "What is hallelujahs?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Religious music vocabulary"
+    },
+    {
+      "id": "cw_k10_500_02",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "Spell the last name of the author who wrote 'A Christmas Carol.'",
+      "answer": "What is D-I-C-K-E-N-S?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Author name spelling"
+    },
+    {
+      "id": "cw_k10_500_03",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "The word 'frankincense' has this many syllables.",
+      "answer": "What is three?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Advanced syllable counting"
+    },
+    {
+      "id": "cw_k10_500_04",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "This 13-letter word means a cookie shaped like a person.",
+      "answer": "What is gingerbread man?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Compound phrase vocabulary"
+    },
+    {
+      "id": "cw_k10_500_05",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "Unscramble: CEMPRHINETP (a hard candy often used as decoration).",
+      "answer": "What is peppermint?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Candy vocabulary anagram"
+    },
+    {
+      "id": "cw_k10_500_06",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "The word 'Christmas' is a combination of 'Christ' and this old English word for festival.",
+      "answer": "What is Mass?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Etymology and word origins"
+    },
+    {
+      "id": "cw_k10_500_07",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "This word for a Christmas song has a silent 'L' in the middle.",
+      "answer": "What is carol?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Silent letter awareness - note: 'L' is not silent in carol"
+    },
+    {
+      "id": "cw_k10_500_08",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "Spell the word for the three wise men from the East.",
+      "answer": "What is M-A-G-I?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Biblical vocabulary"
+    },
+    {
+      "id": "cw_k10_500_09",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "This palindrome word describes how Santa feels: 'Ho, ho, ho!'",
+      "answer": "What is jolly? (Accept: merry)",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-05",
+      "notes": "Emotion vocabulary"
+    },
+    {
+      "id": "cw_teen_100_01",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This 5-letter synonym for 'happiness' is often associated with Christmas cheer.",
+      "answer": "What is merry?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Vocabulary and synonyms"
+    },
+    {
+      "id": "cw_teen_100_02",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "The word 'Xmas' uses this Greek letter to abbreviate Christmas.",
+      "answer": "What is Chi?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Etymology and Greek alphabet"
+    },
+    {
+      "id": "cw_teen_100_03",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This 9-letter word means the period leading up to Christmas.",
+      "answer": "What is Advent?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Religious calendar vocabulary"
+    },
+    {
+      "id": "cw_teen_100_04",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "Unscramble: SOOMTELIST (a parasitic plant associated with kissing).",
+      "answer": "What is mistletoe?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Plant vocabulary anagram"
+    },
+    {
+      "id": "cw_teen_100_05",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This word from French means 'Christmas' or a Christmas carol.",
+      "answer": "What is Noel?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Foreign language vocabulary"
+    },
+    {
+      "id": "cw_teen_100_06",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "The word 'Yuletide' comes from this ancient winter festival.",
+      "answer": "What is Yule?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Historical holiday terms"
+    },
+    {
+      "id": "cw_teen_100_07",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This 11-letter word is a red Christmas flower from Mexico.",
+      "answer": "What is poinsettia?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Botanical vocabulary"
+    },
+    {
+      "id": "cw_teen_100_08",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "The word 'carol' comes from a Greek word meaning this type of dance.",
+      "answer": "What is circle?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Word etymology"
+    },
+    {
+      "id": "cw_teen_100_09",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This 8-letter word means a gift given to employees at Christmas.",
+      "answer": "What is bonus?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-06",
+      "notes": "Workplace vocabulary"
+    },
+    {
+      "id": "cw_teen_200_01",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This word meaning 'birth' shares its root with 'nativity.'",
+      "answer": "What is natal?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Latin root words"
+    },
+    {
+      "id": "cw_teen_200_02",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Spell the aromatic gift brought to baby Jesus by the Magi.",
+      "answer": "What is F-R-A-N-K-I-N-C-E-N-S-E?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Biblical vocabulary spelling"
+    },
+    {
+      "id": "cw_teen_200_03",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This compound word combines 'winter' and 'solstice' season.",
+      "answer": "What is wintertime?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Seasonal compound words"
+    },
+    {
+      "id": "cw_teen_200_04",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "The word 'myrrh' is notable for having no vowels except this one.",
+      "answer": "What is Y?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Phonetics and spelling patterns"
+    },
+    {
+      "id": "cw_teen_200_05",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Unscramble: PAHEIPNY (a sudden appearance, especially of a deity).",
+      "answer": "What is Epiphany?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Religious holiday vocabulary"
+    },
+    {
+      "id": "cw_teen_200_06",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This 13-letter word means the day after Christmas in the UK.",
+      "answer": "What is Boxing Day?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "International holiday vocabulary"
+    },
+    {
+      "id": "cw_teen_200_07",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "The word 'Bethlehem' means this in Hebrew.",
+      "answer": "What is House of Bread?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Biblical place name etymology"
+    },
+    {
+      "id": "cw_teen_200_08",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This 9-letter adjective describes something relating to the North Pole.",
+      "answer": "What is Arctic?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Geographic vocabulary"
+    },
+    {
+      "id": "cw_teen_200_09",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "The word 'wassail' originally meant this Old Norse toast.",
+      "answer": "What is be healthy (or good health)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-07",
+      "notes": "Historical word origins"
+    },
+    {
+      "id": "cw_teen_300_01",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This literary device is used in 'Silent Night, Holy Night' with the repeated 'N' sound.",
+      "answer": "What is alliteration?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Literary devices in carols"
+    },
+    {
+      "id": "cw_teen_300_02",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The word 'Emmanuel' from the carol means this in Hebrew.",
+      "answer": "What is God with us?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Biblical name etymology"
+    },
+    {
+      "id": "cw_teen_300_03",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "Unscramble: THEIRANCENOFSC (a gift from the Magi).",
+      "answer": "What is frankincense?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Long word anagram"
+    },
+    {
+      "id": "cw_teen_300_04",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This portmanteau combines 'Christmas' and 'Hanukkah.'",
+      "answer": "What is Chrismukkah?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Modern blended words"
+    },
+    {
+      "id": "cw_teen_300_05",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The word 'sleigh' contains this silent letter combination.",
+      "answer": "What is GH?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Silent letter patterns"
+    },
+    {
+      "id": "cw_teen_300_06",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This 10-letter word means a dramatic performance of the nativity.",
+      "answer": "What is pageant?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Performance vocabulary"
+    },
+    {
+      "id": "cw_teen_300_07",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The prefix 'ever' in 'evergreen' means this duration.",
+      "answer": "What is always (or forever)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Prefix analysis"
+    },
+    {
+      "id": "cw_teen_300_08",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This word for a Christmas song derives from the Latin 'cantare.'",
+      "answer": "What is carol?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Latin root words"
+    },
+    {
+      "id": "cw_teen_300_09",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The word 'solstice' combines Latin words for this celestial body and 'to stand still.'",
+      "answer": "What is sun?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-08",
+      "notes": "Astronomical etymology"
+    },
+    {
+      "id": "cw_teen_400_01",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This rhetorical device is used in 'Twas the night before Christmas, when all through the house.'",
+      "answer": "What is anaphora?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Advanced literary devices"
+    },
+    {
+      "id": "cw_teen_400_02",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The word 'Krampus' comes from this German word meaning 'claw.'",
+      "answer": "What is Krampen?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Folklore etymology"
+    },
+    {
+      "id": "cw_teen_400_03",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "Spell this word for the wise men's journey: M-blank-G-blank.",
+      "answer": "What is M-A-G-I?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Spelling completion"
+    },
+    {
+      "id": "cw_teen_400_04",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This 14-letter word describes the study of the origin of words, like 'Christmas.'",
+      "answer": "What is etymology?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Linguistic terminology"
+    },
+    {
+      "id": "cw_teen_400_05",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The carol title 'Adeste Fideles' translates to this from Latin.",
+      "answer": "What is O Come, All Ye Faithful?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Latin translation"
+    },
+    {
+      "id": "cw_teen_400_06",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This oxymoron appears in 'O Holy Night': 'Fall on your knees' while doing this.",
+      "answer": "What is standing?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Literary analysis"
+    },
+    {
+      "id": "cw_teen_400_07",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The word 'frankincense' combines 'frank' meaning 'pure' with this word for burning.",
+      "answer": "What is incense?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Compound word etymology"
+    },
+    {
+      "id": "cw_teen_400_08",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This 15-letter word means someone who dislikes Christmas, from Dickens.",
+      "answer": "What is Scrooge (or curmudgeon)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Literary vocabulary"
+    },
+    {
+      "id": "cw_teen_400_09",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "Unscramble: NETHAOSYCPHOP (the belief in attributing human traits to objects).",
+      "answer": "What is anthroposophy? (Accept: personification)",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-09",
+      "notes": "Advanced vocabulary"
+    },
+    {
+      "id": "cw_teen_500_01",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This figure of speech is used when we say 'Old Man Winter' - attributing human qualities to winter.",
+      "answer": "What is personification?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "Advanced literary devices"
+    },
+    {
+      "id": "cw_teen_500_02",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The word 'Christkindl' in German tradition refers to this gift-bringer, literally 'Christ child.'",
+      "answer": "What is Christkind (or Christ child)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "International Christmas traditions"
+    },
+    {
+      "id": "cw_teen_500_03",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This Greek word meaning 'manifestation' names January 6th.",
+      "answer": "What is Epiphany?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "Greek etymology"
+    },
+    {
+      "id": "cw_teen_500_04",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The phrase 'Bah, humbug!' uses this rhetorical device with the 'h' sound.",
+      "answer": "What is alliteration?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "Sound devices in literature"
+    },
+    {
+      "id": "cw_teen_500_05",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "Spell the word for a religious song of praise, often sung at Christmas.",
+      "answer": "What is H-A-L-L-E-L-U-J-A-H?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "Religious music vocabulary"
+    },
+    {
+      "id": "cw_teen_500_06",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This linguistic term describes 'Santa Claus' evolving from 'Sinterklaas' through cultural adaptation.",
+      "answer": "What is phonetic change (or linguistic evolution)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "Historical linguistics"
+    },
+    {
+      "id": "cw_teen_500_07",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The word 'Befana' comes from 'Epifania' in this language.",
+      "answer": "What is Italian?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "International folklore"
+    },
+    {
+      "id": "cw_teen_500_08",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This term describes the conversion of 'Christ's Mass' to 'Christmas' - combining two words.",
+      "answer": "What is compound word (or portmanteau)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "Morphology"
+    },
+    {
+      "id": "cw_teen_500_09",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The word 'Yuletide' preserves this Old Norse word for a 12-day winter festival.",
+      "answer": "What is Yule?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-10",
+      "notes": "Old Norse vocabulary"
+    },
+    {
+      "id": "cw_k10_100_10",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This word for a bell sound rhymes with 'tingle.'",
+      "answer": "What is jingle?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Sound words and rhyming"
+    },
+    {
+      "id": "cw_k10_100_11",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "Santa's bag is full of these 4-letter items for children.",
+      "answer": "What is toys?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Basic Christmas vocabulary"
+    },
+    {
+      "id": "cw_k10_100_12",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This 4-letter word means very cold winter weather.",
+      "answer": "What is cold?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Weather vocabulary"
+    },
+    {
+      "id": "cw_k10_100_13",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "The word for Santa's home at the top of the world.",
+      "answer": "What is North Pole?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Geography vocabulary"
+    },
+    {
+      "id": "cw_k10_100_14",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This 3-letter word means the shiny top decoration on a Christmas tree.",
+      "answer": "What is star?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Tree decoration vocabulary"
+    },
+    {
+      "id": "cw_k10_100_15",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "The color of Rudolph's nose.",
+      "answer": "What is red?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Color vocabulary"
+    },
+    {
+      "id": "cw_k10_100_16",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This word rhymes with 'light' and means the time after sunset.",
+      "answer": "What is night?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Time vocabulary and rhyming"
+    },
+    {
+      "id": "cw_k10_100_17",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "Santa's outfit is this color that rhymes with 'bed.'",
+      "answer": "What is red?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Color and rhyming"
+    },
+    {
+      "id": "cw_k10_100_18",
+      "audience": "kids_10_under",
+      "difficulty": 100,
+      "question": "This 3-letter word means happiness at Christmas time.",
+      "answer": "What is joy?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-11",
+      "notes": "Emotion vocabulary"
+    },
+    {
+      "id": "cw_k10_200_10",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "The word for when you drink hot chocolate has 3 syllables and starts with 'bev.'",
+      "answer": "What is beverage?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Drink vocabulary"
+    },
+    {
+      "id": "cw_k10_200_11",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "Unscramble: ANGLEM (what you put on top of a Christmas tree).",
+      "answer": "What is angel?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Tree topper anagram"
+    },
+    {
+      "id": "cw_k10_200_12",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "This 6-letter word means shiny and bright, like Christmas lights.",
+      "answer": "What is bright?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Descriptive vocabulary"
+    },
+    {
+      "id": "cw_k10_200_13",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "The word 'frosty' comes from this 5-letter word for ice crystals.",
+      "answer": "What is frost?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Word families"
+    },
+    {
+      "id": "cw_k10_200_14",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "Spell the word for strings of lights you put on a tree.",
+      "answer": "What is G-A-R-L-A-N-D?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Decoration vocabulary spelling"
+    },
+    {
+      "id": "cw_k10_200_15",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "This word for frozen rain has 4 letters and rhymes with 'pail.'",
+      "answer": "What is hail?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Weather and rhyming"
+    },
+    {
+      "id": "cw_k10_200_16",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "The plural of 'candy cane' is this.",
+      "answer": "What is candy canes?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Plural forms"
+    },
+    {
+      "id": "cw_k10_200_17",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "This word for gift paper has 8 letters and starts with 'wrap.'",
+      "answer": "What is wrapping?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Gift-giving vocabulary"
+    },
+    {
+      "id": "cw_k10_200_18",
+      "audience": "kids_10_under",
+      "difficulty": 200,
+      "question": "Unscramble: OLHYL (a plant with red berries).",
+      "answer": "What is holly?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-12",
+      "notes": "Plant vocabulary anagram"
+    },
+    {
+      "id": "cw_k10_300_10",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "This compound word combines 'snow' and a round shape.",
+      "answer": "What is snowball?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Winter activity vocabulary"
+    },
+    {
+      "id": "cw_k10_300_11",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "Spell the word for a vehicle that clears snow from roads.",
+      "answer": "What is S-N-O-W-P-L-O-W?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Vehicle vocabulary"
+    },
+    {
+      "id": "cw_k10_300_12",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "The word 'December' has this many syllables.",
+      "answer": "What is three?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Month name syllable counting"
+    },
+    {
+      "id": "cw_k10_300_13",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "Unscramble: GNIRTSOCK (where you hang small gifts).",
+      "answer": "What is stocking?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Christmas tradition anagram"
+    },
+    {
+      "id": "cw_k10_300_14",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "This word for a winter coat rhymes with 'packet.'",
+      "answer": "What is jacket?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Clothing vocabulary"
+    },
+    {
+      "id": "cw_k10_300_15",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "The word 'jingle' is an example of a word that sounds like this.",
+      "answer": "What is onomatopoeia?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Sound words concept"
+    },
+    {
+      "id": "cw_k10_300_16",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "Spell the word for mittens that keep your hands warm.",
+      "answer": "What is G-L-O-V-E-S?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Winter clothing spelling"
+    },
+    {
+      "id": "cw_k10_300_17",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "This word for a frozen drip has double letters in the middle.",
+      "answer": "What is icicle?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Spelling pattern recognition"
+    },
+    {
+      "id": "cw_k10_300_18",
+      "audience": "kids_10_under",
+      "difficulty": 300,
+      "question": "The opposite of 'naughty' in Santa's book.",
+      "answer": "What is nice?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-13",
+      "notes": "Antonyms"
+    },
+    {
+      "id": "cw_k10_400_09",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "This word for a cold wind storm has 8 letters and starts with 'bliz.'",
+      "answer": "What is blizzard?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Weather vocabulary"
+    },
+    {
+      "id": "cw_k10_400_10",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "Unscramble: HECMYNI WEEPS (a person who cleans chimneys).",
+      "answer": "What is chimney sweep?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Occupation vocabulary"
+    },
+    {
+      "id": "cw_k10_400_11",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "The word 'reindeer' is both singular and plural - this is called this type of noun.",
+      "answer": "What is irregular (or unchanged)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Grammar concepts"
+    },
+    {
+      "id": "cw_k10_400_12",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "Spell the word for a warm drink made with apples.",
+      "answer": "What is C-I-D-E-R?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Beverage vocabulary"
+    },
+    {
+      "id": "cw_k10_400_13",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "This 11-letter word means a sweet treat made with nuts and sugar.",
+      "answer": "What is confection?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Food vocabulary"
+    },
+    {
+      "id": "cw_k10_400_14",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "The word 'sleigh' has this tricky vowel combination that sounds like 'ay.'",
+      "answer": "What is EIGH?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Vowel patterns"
+    },
+    {
+      "id": "cw_k10_400_15",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "Unscramble: GRAMNEE (a scene showing Jesus' birth).",
+      "answer": "What is manger?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Nativity vocabulary"
+    },
+    {
+      "id": "cw_k10_400_16",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "This word for a person who sings carols has 7 letters.",
+      "answer": "What is caroler?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Activity vocabulary"
+    },
+    {
+      "id": "cw_k10_400_17",
+      "audience": "kids_10_under",
+      "difficulty": 400,
+      "question": "The word 'twinkle' has this many syllables.",
+      "answer": "What is two?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-14",
+      "notes": "Syllable counting"
+    },
+    {
+      "id": "cw_k10_500_09",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "This 12-letter word means the day before a special event, like Christmas.",
+      "answer": "What is anticipation?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Advanced emotion vocabulary"
+    },
+    {
+      "id": "cw_k10_500_10",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "Spell the word for cookies shaped like people.",
+      "answer": "What is G-I-N-G-E-R-B-R-E-A-D?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Complex compound word spelling"
+    },
+    {
+      "id": "cw_k10_500_11",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "The word 'frankincense' has this many syllables.",
+      "answer": "What is three?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Advanced syllable counting"
+    },
+    {
+      "id": "cw_k10_500_12",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "Unscramble: YIPHEPAN (a January 6th celebration).",
+      "answer": "What is Epiphany?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Religious holiday vocabulary"
+    },
+    {
+      "id": "cw_k10_500_13",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "This word means relating to celebration and starts with 'fes.'",
+      "answer": "What is festive?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Adjective vocabulary"
+    },
+    {
+      "id": "cw_k10_500_14",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "The silent 'B' appears at the end of this word for a baby's bed in the nativity.",
+      "answer": "What is crib?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Silent letter awareness - note: B is not silent in crib"
+    },
+    {
+      "id": "cw_k10_500_15",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "Spell the word for a religious song of joy.",
+      "answer": "What is H-Y-M-N?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Religious music vocabulary with silent letter"
+    },
+    {
+      "id": "cw_k10_500_16",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "This 10-letter word means kindness and goodwill toward others.",
+      "answer": "What is generosity?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Christmas value vocabulary"
+    },
+    {
+      "id": "cw_k10_500_17",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "Unscramble: GISTNOK SFUREFT (what you put in stockings).",
+      "answer": "What is stocking stuffers?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Multi-word phrase anagram"
+    },
+    {
+      "id": "cw_k10_500_18",
+      "audience": "kids_10_under",
+      "difficulty": 500,
+      "question": "The word 'shepherd' is a compound of 'sheep' and this Old English word for keeper.",
+      "answer": "What is herd?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-15",
+      "notes": "Compound word etymology"
+    },
+    {
+      "id": "cw_teen_100_10",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This 10-letter word means a Mexican Christmas celebration from December 16-24.",
+      "answer": "What is Posadas?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "International Christmas vocabulary"
+    },
+    {
+      "id": "cw_teen_100_11",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "The word 'tidings' in 'glad tidings' means this.",
+      "answer": "What is news (or information)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Archaic vocabulary"
+    },
+    {
+      "id": "cw_teen_100_12",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This 8-letter word means a gift given to someone less fortunate.",
+      "answer": "What is donation?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Charity vocabulary"
+    },
+    {
+      "id": "cw_teen_100_13",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "Unscramble: VHIRESTASNM (the night before Christmas).",
+      "answer": "What is Christmas Eve?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Holiday timing vocabulary"
+    },
+    {
+      "id": "cw_teen_100_14",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This word for a Christmas song comes from Middle English 'carole.'",
+      "answer": "What is carol?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Etymology basics"
+    },
+    {
+      "id": "cw_teen_100_15",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "The word 'ornament' comes from Latin meaning this.",
+      "answer": "What is to adorn (or decorate)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Latin root words"
+    },
+    {
+      "id": "cw_teen_100_16",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This 9-letter adjective describes something relating to winter.",
+      "answer": "What is wintry?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Seasonal vocabulary"
+    },
+    {
+      "id": "cw_teen_100_17",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "The word 'holly' is often paired with this rhyming word in decorations.",
+      "answer": "What is jolly?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Rhyming vocabulary"
+    },
+    {
+      "id": "cw_teen_100_18",
+      "audience": "teenagers",
+      "difficulty": 100,
+      "question": "This word for a Christmas drama comes from Latin 'paginam.'",
+      "answer": "What is pageant?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-16",
+      "notes": "Performance vocabulary"
+    },
+    {
+      "id": "cw_teen_200_10",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This literary device is used in 'The stockings were hung by the chimney with care' - exaggeration for effect.",
+      "answer": "What is hyperbole?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "Literary devices"
+    },
+    {
+      "id": "cw_teen_200_11",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "The word 'manger' comes from French meaning this action.",
+      "answer": "What is to eat?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "French etymology"
+    },
+    {
+      "id": "cw_teen_200_12",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Spell the Swedish word for Christmas that starts with 'J.'",
+      "answer": "What is J-U-L?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "International vocabulary"
+    },
+    {
+      "id": "cw_teen_200_13",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This prefix in 'evergreen' means always or forever.",
+      "answer": "What is ever?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "Prefix analysis"
+    },
+    {
+      "id": "cw_teen_200_14",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "The word 'wassail' originally referred to this type of drink.",
+      "answer": "What is mulled cider (or spiced ale)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "Historical beverage vocabulary"
+    },
+    {
+      "id": "cw_teen_200_15",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "Unscramble: LOENIV (an old word for Christmas, from French).",
+      "answer": "What is Noel?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "French loan words"
+    },
+    {
+      "id": "cw_teen_200_16",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This 12-letter word means the practice of giving to those in need.",
+      "answer": "What is philanthropy?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "Charity vocabulary"
+    },
+    {
+      "id": "cw_teen_200_17",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "The word 'garland' originally referred to this type of decoration.",
+      "answer": "What is wreath (or crown)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "Decoration etymology"
+    },
+    {
+      "id": "cw_teen_200_18",
+      "audience": "teenagers",
+      "difficulty": 200,
+      "question": "This word for a Christmas cookie house uses a spice name.",
+      "answer": "What is gingerbread?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-17",
+      "notes": "Food compound words"
+    },
+    {
+      "id": "cw_teen_300_10",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This rhetorical device repeats 'bells' in 'Silver bells, silver bells, it's Christmas time in the city.'",
+      "answer": "What is repetition (or anaphora)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Song lyrics analysis"
+    },
+    {
+      "id": "cw_teen_300_11",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The word 'Tannenbaum' is German for this Christmas item.",
+      "answer": "What is Christmas tree?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "German vocabulary"
+    },
+    {
+      "id": "cw_teen_300_12",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "Unscramble: CENFOARKNINESTH (a gift from the wise men).",
+      "answer": "What is frankincense?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Biblical gift vocabulary"
+    },
+    {
+      "id": "cw_teen_300_13",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This 11-letter word means the act of decorating festively.",
+      "answer": "What is ornamentation?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Abstract noun forms"
+    },
+    {
+      "id": "cw_teen_300_14",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The word 'arctic' comes from the Greek word for this animal.",
+      "answer": "What is bear?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Greek etymology"
+    },
+    {
+      "id": "cw_teen_300_15",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This figure of speech gives human qualities to 'Jack Frost.'",
+      "answer": "What is personification?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Literary devices in folklore"
+    },
+    {
+      "id": "cw_teen_300_16",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "Spell the word for a cone-shaped evergreen tree.",
+      "answer": "What is C-O-N-I-F-E-R?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Botanical terminology"
+    },
+    {
+      "id": "cw_teen_300_17",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "The word 'advent' comes from Latin meaning this action.",
+      "answer": "What is to come (or arrival)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Latin root vocabulary"
+    },
+    {
+      "id": "cw_teen_300_18",
+      "audience": "teenagers",
+      "difficulty": 300,
+      "question": "This compound word combines 'pepper' and a type of mint.",
+      "answer": "What is peppermint?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-18",
+      "notes": "Compound food words"
+    },
+    {
+      "id": "cw_teen_400_10",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This linguistic term describes 'sleigh bells' - words imitating sounds.",
+      "answer": "What is onomatopoeia?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Advanced sound devices"
+    },
+    {
+      "id": "cw_teen_400_11",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The carol phrase 'Gloria in excelsis Deo' translates to this from Latin.",
+      "answer": "What is Glory to God in the highest?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Latin translation"
+    },
+    {
+      "id": "cw_teen_400_12",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This rhetorical question appears in many carols: 'What child is this?'",
+      "answer": "What is rhetorical question?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Literary device identification"
+    },
+    {
+      "id": "cw_teen_400_13",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "Spell the Italian word for Christmas.",
+      "answer": "What is N-A-T-A-L-E?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Romance language vocabulary"
+    },
+    {
+      "id": "cw_teen_400_14",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The word 'incense' shares its root with this word meaning 'to burn.'",
+      "answer": "What is incendiary (or incinerate)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Word family relationships"
+    },
+    {
+      "id": "cw_teen_400_15",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This paradox appears in Christmas: 'the little Lord Jesus' - a baby who is also divine.",
+      "answer": "What is paradox (or oxymoron)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Theological literary devices"
+    },
+    {
+      "id": "cw_teen_400_16",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "Unscramble: ITBELETYNH (the city of David).",
+      "answer": "What is Bethlehem?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Biblical place names"
+    },
+    {
+      "id": "cw_teen_400_17",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "The word 'myrrh' is one of few English words with this unusual pattern.",
+      "answer": "What is no traditional vowels (only Y)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Spelling anomalies"
+    },
+    {
+      "id": "cw_teen_400_18",
+      "audience": "teenagers",
+      "difficulty": 400,
+      "question": "This term describes 'Silent Night' being translated into 300+ languages.",
+      "answer": "What is multilingual (or translation)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-19",
+      "notes": "Linguistic concepts"
+    },
+    {
+      "id": "cw_teen_500_10",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This metrical foot used in 'Twas the night before Christmas' has unstressed-stressed pattern.",
+      "answer": "What is iambic?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Poetic meter analysis"
+    },
+    {
+      "id": "cw_teen_500_11",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The word 'seraphim' in carols refers to this order of angels.",
+      "answer": "What is the highest (or six-winged angels)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Theological vocabulary"
+    },
+    {
+      "id": "cw_teen_500_12",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This linguistic process changed 'Sinterklaas' to 'Santa Claus' in American English.",
+      "answer": "What is phonetic adaptation (or anglicization)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Language evolution"
+    },
+    {
+      "id": "cw_teen_500_13",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "Spell the Hebrew word for 'savior' used in Christmas contexts.",
+      "answer": "What is M-E-S-S-I-A-H?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Hebrew religious vocabulary"
+    },
+    {
+      "id": "cw_teen_500_14",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The phrase 'Peace on Earth' uses this grammatical structure with abstract noun.",
+      "answer": "What is prepositional phrase?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Syntax analysis"
+    },
+    {
+      "id": "cw_teen_500_15",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This term describes words like 'Christmassy' - creating adjectives from nouns.",
+      "answer": "What is derivational morphology (or nominalization)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Word formation processes"
+    },
+    {
+      "id": "cw_teen_500_16",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "The Latin phrase 'Pax vobiscum' in carols means this.",
+      "answer": "What is peace be with you?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Latin liturgical phrases"
+    },
+    {
+      "id": "cw_teen_500_17",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "Unscramble: NEAPRHYOGPOO (the study of sound systems in language).",
+      "answer": "What is phonography? (Accept: phonology)",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Linguistic terminology"
+    },
+    {
+      "id": "cw_teen_500_18",
+      "audience": "teenagers",
+      "difficulty": 500,
+      "question": "This archaic English pronoun appears in carols: 'Peace on Earth to men of good will.'",
+      "answer": "What is thee (or thou)?",
+      "category": "christmas_wordplay",
+      "air_date": "2024-12-20",
+      "notes": "Historical English pronouns - note: question wording may need revision"
+    }
+  ],
+  "no_humanity": [
+    {
+      "id": "cwnh_001",
+      "clue": "Where 'Netflix and chill' happens",
+      "correctQuestion": "What is Netflix?",
+      "value": 200,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_002",
+      "clue": "Where Alexa accidentally shops for you",
+      "correctQuestion": "What is Amazon?",
+      "value": 200,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_003",
+      "clue": "Where caroling means something else",
+      "correctQuestion": "What is TikTok?",
+      "value": 200,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_004",
+      "clue": "What ruined 'spreading Christmas cheer'",
+      "correctQuestion": "What is COVID-19?",
+      "value": 200,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_005",
+      "clue": "What autocorrect made your texts",
+      "correctQuestion": "What is profanity?",
+      "value": 200,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_006",
+      "clue": "Red cups started the Christmas war",
+      "correctQuestion": "What is Starbucks?",
+      "value": 200,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_007",
+      "clue": "Where you see eggplant Christmas payments",
+      "correctQuestion": "What is Venmo?",
+      "value": 400,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_008",
+      "clue": "Google translated jingle bells became this",
+      "correctQuestion": "What is gibberish?",
+      "value": 400,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_009",
+      "clue": "Santa's real workshop at 11:58pm",
+      "correctQuestion": "What is DoorDash?",
+      "value": 400,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_010",
+      "clue": "What Gen Z renamed that song",
+      "correctQuestion": "What is date rape?",
+      "value": 400,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_011",
+      "clue": "Driving through snow for $3.50",
+      "correctQuestion": "What is Uber?",
+      "value": 400,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_012",
+      "clue": "Rudolph's story about workplace discrimination",
+      "correctQuestion": "What is toxic workplace culture?",
+      "value": 400,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_013",
+      "clue": "Christmas tree spy selling wish lists",
+      "correctQuestion": "What is Alexa?",
+      "value": 600,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_014",
+      "clue": "Urban Dictionary's 'trim the tree'",
+      "correctQuestion": "What is manscaping?",
+      "value": 600,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_015",
+      "clue": "How Santa fits down chimneys now",
+      "correctQuestion": "What is Ozempic?",
+      "value": 600,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_016",
+      "clue": "Boomer LOL at death announcements",
+      "correctQuestion": "What is laughing out loud?",
+      "value": 600,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_017",
+      "clue": "Who defrosts for $3 million yearly",
+      "correctQuestion": "Who is Mariah Carey?",
+      "value": 600,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_018",
+      "clue": "Influencers renamed cookies artisanal carb bombs",
+      "correctQuestion": "What is Target?",
+      "value": 600,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_019",
+      "clue": "Toy store Amazon murdered",
+      "correctQuestion": "What is Toys R Us?",
+      "value": 800,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_020",
+      "clue": "Elf on Shelf's real employer",
+      "correctQuestion": "What is the NSA?",
+      "value": 800,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_021",
+      "clue": "Topic that ruins Christmas dinner",
+      "correctQuestion": "What is Trump?",
+      "value": 800,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_022",
+      "clue": "Zoom renamed Christmas to this",
+      "correctQuestion": "What is technical difficulties?",
+      "value": 800,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_023",
+      "clue": "Gen Z's Christmas spirit replacement",
+      "correctQuestion": "What is narcissism?",
+      "value": 800,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_024",
+      "clue": "Legal term for punching uncle",
+      "correctQuestion": "What is assault?",
+      "value": 800,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_025",
+      "clue": "Group chat nobody can leave",
+      "correctQuestion": "What is iMessage?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_026",
+      "clue": "Buddy the Elf's diagnosis",
+      "correctQuestion": "What is ADHD?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_027",
+      "clue": "Christmas song playing in Hell",
+      "correctQuestion": "What is Wonderful Christmastime?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_028",
+      "clue": "Tesla's Christmas autopilot destination",
+      "correctQuestion": "Who is Elon Musk?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_029",
+      "clue": "Second topic ending Christmas dinner",
+      "correctQuestion": "What is the COVID vaccine?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_030",
+      "clue": "Google renamed ho ho ho",
+      "correctQuestion": "What is adult entertainment?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_031",
+      "clue": "Hallmark solves racism with this",
+      "correctQuestion": "What is a Christmas party?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_032",
+      "clue": "Die Hard's real topic",
+      "correctQuestion": "What is toxic masculinity?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_033",
+      "clue": "What Millennials actually want for Christmas",
+      "correctQuestion": "What is affordable housing?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_034",
+      "clue": "Amazon's Christmas list autocorrect",
+      "correctQuestion": "What is family dysfunction?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_035",
+      "clue": "Christmas spirit for student loan borrowers",
+      "correctQuestion": "What is PTO?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    },
+    {
+      "id": "cwnh_036",
+      "clue": "Spotify renamed carols depression anthems",
+      "correctQuestion": "What is Spotify?",
+      "value": 1000,
+      "theme": "Holiday Word Fun"
+    }
+  ]
+}

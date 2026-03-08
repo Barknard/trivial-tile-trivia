@@ -1,0 +1,1131 @@
+{
+  "metadata": {
+    "title": "Beach Boogie Boards",
+    "description": "Family-friendly questions about boogie boarding, bodyboarding, and riding waves",
+    "total_questions": 180,
+    "categories_count": 6,
+    "questions_per_level": 30,
+    "difficulty_levels": ["Beginner", "Easy", "Medium", "Hard", "Expert", "Master"],
+    "format": "Jeopardy",
+    "theme": "Water Sports",
+    "age_group": "Family-Friendly"
+  },
+  "categories": {
+    "Beginner": {
+      "level": 1,
+      "description": "Easy introductory questions about boogie boarding basics",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What do you use to ride waves at the beach besides a surfboard?",
+          "answer": "A boogie board (or bodyboard)",
+          "points": 100
+        },
+        {
+          "id": 2,
+          "question": "Boogie boarding is also known by what other popular name?",
+          "answer": "Bodyboarding",
+          "points": 100
+        },
+        {
+          "id": 3,
+          "question": "Is a boogie board typically smaller or larger than a surfboard?",
+          "answer": "Smaller",
+          "points": 100
+        },
+        {
+          "id": 4,
+          "question": "What body part do you primarily lie on when boogie boarding?",
+          "answer": "Your chest (or belly/stomach)",
+          "points": 100
+        },
+        {
+          "id": 5,
+          "question": "What is the main material that boogie boards are typically made from?",
+          "answer": "Foam",
+          "points": 100
+        },
+        {
+          "id": 6,
+          "question": "How many fins does a standard boogie board usually have?",
+          "answer": "Two (or 2)",
+          "points": 100
+        },
+        {
+          "id": 7,
+          "question": "What do you wear on your feet to help you paddle and control a boogie board?",
+          "answer": "Fins (or flippers/swimfins)",
+          "points": 100
+        },
+        {
+          "id": 8,
+          "question": "True or False: You stand up on a boogie board like on a surfboard.",
+          "answer": "False",
+          "points": 100
+        },
+        {
+          "id": 9,
+          "question": "What is a moving ridge of water that bodyboarders ride called?",
+          "answer": "A wave",
+          "points": 100
+        },
+        {
+          "id": 10,
+          "question": "What is the sandy area where waves break on a beach called?",
+          "answer": "The shore (or beach)",
+          "points": 100
+        },
+        {
+          "id": 11,
+          "question": "What do you use your arms to do while lying on a boogie board in the water?",
+          "answer": "Paddle",
+          "points": 100
+        },
+        {
+          "id": 12,
+          "question": "How deep is the water when boogie boarding typically performed?",
+          "answer": "Shallow to moderate depth (or waist-to-chest deep)",
+          "points": 100
+        },
+        {
+          "id": 13,
+          "question": "What is the front tip of a boogie board called?",
+          "answer": "The nose",
+          "points": 100
+        },
+        {
+          "id": 14,
+          "question": "What is the back tip of a boogie board called?",
+          "answer": "The tail",
+          "points": 100
+        },
+        {
+          "id": 15,
+          "question": "In what season do beaches typically have the best waves for boogie boarding?",
+          "answer": "Summer (or warm season)",
+          "points": 100
+        },
+        {
+          "id": 16,
+          "question": "What safety gear should you always consider wearing when boogie boarding?",
+          "answer": "A rash guard (or sunscreen/helmet)",
+          "points": 100
+        },
+        {
+          "id": 17,
+          "question": "What does a riptide or rip current in the ocean do?",
+          "answer": "Pulls swimmers away from shore",
+          "points": 100
+        },
+        {
+          "id": 18,
+          "question": "Should you wear a leash when boogie boarding?",
+          "answer": "Yes",
+          "points": 100
+        },
+        {
+          "id": 19,
+          "question": "What does the word 'break' mean in surfing and boogie boarding?",
+          "answer": "Where waves crash and break",
+          "points": 100
+        },
+        {
+          "id": 20,
+          "question": "How should you hold onto a boogie board while riding a wave?",
+          "answer": "With your hands on the sides or front",
+          "points": 100
+        },
+        {
+          "id": 21,
+          "question": "What is white water called in boogie boarding?",
+          "answer": "The foam (or whitewater/soup)",
+          "points": 100
+        },
+        {
+          "id": 22,
+          "question": "Are boogie boards good for beginners learning to ride waves?",
+          "answer": "Yes",
+          "points": 100
+        },
+        {
+          "id": 23,
+          "question": "What type of clothing helps protect your skin while boogie boarding?",
+          "answer": "A rash guard (or wetsuit)",
+          "points": 100
+        },
+        {
+          "id": 24,
+          "question": "What do you need to check before entering the water to boogie board?",
+          "answer": "Wave conditions (or weather/water conditions)",
+          "points": 100
+        },
+        {
+          "id": 25,
+          "question": "Is boogie boarding a solitary sport or can it be done with others?",
+          "answer": "It can be done with others",
+          "points": 100
+        },
+        {
+          "id": 26,
+          "question": "What is the area of water between the shore and where waves break called?",
+          "answer": "The lineup (or impact zone)",
+          "points": 100
+        },
+        {
+          "id": 27,
+          "question": "How do you slow down or stop while riding a boogie board?",
+          "answer": "Drag your fins in the water (or dig in with your body)",
+          "points": 100
+        },
+        {
+          "id": 28,
+          "question": "What is the bottom surface of a boogie board usually made of?",
+          "answer": "A smooth material (or plastic/HDPE)",
+          "points": 100
+        },
+        {
+          "id": 29,
+          "question": "True or False: Boogie boards float in water.",
+          "answer": "True",
+          "points": 100
+        },
+        {
+          "id": 30,
+          "question": "What is the purpose of wearing fins when boogie boarding?",
+          "answer": "To help you paddle faster and maneuver",
+          "points": 100
+        }
+      ]
+    },
+    "Easy": {
+      "level": 2,
+      "description": "Easy questions about boogie board equipment and techniques",
+      "questions": [
+        {
+          "id": 31,
+          "question": "What are the raised edges on the sides of a boogie board called?",
+          "answer": "Rails",
+          "points": 200
+        },
+        {
+          "id": 32,
+          "question": "How long is a typical boogie board for an average adult?",
+          "answer": "Between 3 and 4 feet (or 36-48 inches)",
+          "points": 200
+        },
+        {
+          "id": 33,
+          "question": "What is the technique called when you angle your boogie board to turn?",
+          "answer": "Dropping the rail (or turning)",
+          "points": 200
+        },
+        {
+          "id": 34,
+          "question": "What is the term for when a wave breaks all at once rather than gradually?",
+          "answer": "A closeout (or dumper)",
+          "points": 200
+        },
+        {
+          "id": 35,
+          "question": "What type of fins are best for maneuvering a boogie board quickly?",
+          "answer": "Shorter fins (or responsive fins)",
+          "points": 200
+        },
+        {
+          "id": 36,
+          "question": "What is the sloped face of a wave that you ride called?",
+          "answer": "The face",
+          "points": 200
+        },
+        {
+          "id": 37,
+          "question": "How do you position your feet on your boogie board to speed down a wave?",
+          "answer": "Dragging them in the water (or hanging them off the back)",
+          "points": 200
+        },
+        {
+          "id": 38,
+          "question": "What is the crest of a wave called?",
+          "answer": "The top (or peak/lip)",
+          "points": 200
+        },
+        {
+          "id": 39,
+          "question": "What time of day typically has the calmest waves?",
+          "answer": "Early morning",
+          "points": 200
+        },
+        {
+          "id": 40,
+          "question": "What weather condition creates larger waves for boogie boarding?",
+          "answer": "Wind (or storms/swells)",
+          "points": 200
+        },
+        {
+          "id": 41,
+          "question": "What is the underwater ridge or depression that affects wave patterns called?",
+          "answer": "A sandbar",
+          "points": 200
+        },
+        {
+          "id": 42,
+          "question": "What do bodyboarders call it when they are waiting for waves in the lineup?",
+          "answer": "Paddling out (or waiting)",
+          "points": 200
+        },
+        {
+          "id": 43,
+          "question": "How do you know when a swell is coming toward shore?",
+          "answer": "By watching the horizon for a line of waves",
+          "points": 200
+        },
+        {
+          "id": 44,
+          "question": "What is the recommended age for children to start boogie boarding?",
+          "answer": "4 to 5 years old (or older)",
+          "points": 200
+        },
+        {
+          "id": 45,
+          "question": "What is a pneumatic boogie board, and why might someone use it?",
+          "answer": "An inflatable board that's easier to carry and store",
+          "points": 200
+        },
+        {
+          "id": 46,
+          "question": "What is the 'soup' or 'wash' in boogie boarding?",
+          "answer": "The whitewater from broken waves",
+          "points": 200
+        },
+        {
+          "id": 47,
+          "question": "What technique helps you paddle back out to catch more waves?",
+          "answer": "Duck diving (or rolling under waves)",
+          "points": 200
+        },
+        {
+          "id": 48,
+          "question": "What color boogie board is most visible to other water users?",
+          "answer": "Bright colors like yellow or orange",
+          "points": 200
+        },
+        {
+          "id": 49,
+          "question": "How should you position your body when paddling out on a boogie board?",
+          "answer": "Prone (flat on your chest)",
+          "points": 200
+        },
+        {
+          "id": 50,
+          "question": "What is the bottom edge of a wave where it begins to break called?",
+          "answer": "The pocket",
+          "points": 200
+        },
+        {
+          "id": 51,
+          "question": "What should you check before entering the water to boogie board?",
+          "answer": "Current conditions and hazards",
+          "points": 200
+        },
+        {
+          "id": 52,
+          "question": "What is a spinnout when boogie boarding?",
+          "answer": "When your board spins out from under you",
+          "points": 200
+        },
+        {
+          "id": 53,
+          "question": "How many people can safely ride one boogie board?",
+          "answer": "One (or one person)",
+          "points": 200
+        },
+        {
+          "id": 54,
+          "question": "What is the area just beyond where waves break called?",
+          "answer": "The backline (or outside)",
+          "points": 200
+        },
+        {
+          "id": 55,
+          "question": "What is a shorebreak in boogie boarding?",
+          "answer": "Waves that break very close to shore",
+          "points": 200
+        },
+        {
+          "id": 56,
+          "question": "What is the most common boogie board size for kids?",
+          "answer": "Smaller than 3 feet (or 24-36 inches)",
+          "points": 200
+        },
+        {
+          "id": 57,
+          "question": "What do you wear to protect your feet from sharp shells and rocks?",
+          "answer": "Water shoes (or booties)",
+          "points": 200
+        },
+        {
+          "id": 58,
+          "question": "What is the term for paddling your boogie board out to catch waves?",
+          "answer": "Paddling out",
+          "points": 200
+        },
+        {
+          "id": 59,
+          "question": "How should you position your hands to paddle effectively?",
+          "answer": "Like you're swimming, alternating arms",
+          "points": 200
+        },
+        {
+          "id": 60,
+          "question": "What is the safest way to exit a breaking wave on a boogie board?",
+          "answer": "Roll off to the side (or jump off safely)",
+          "points": 200
+        }
+      ]
+    },
+    "Medium": {
+      "level": 3,
+      "description": "Medium difficulty questions about boogie boarding techniques and knowledge",
+      "questions": [
+        {
+          "id": 61,
+          "question": "What is the angle of attack, and why is it important in boogie boarding?",
+          "answer": "The angle of your board to the wave face; it affects speed and control",
+          "points": 300
+        },
+        {
+          "id": 62,
+          "question": "What technique allows you to ride the steepest part of a wave?",
+          "answer": "Dropping in (or taking off)",
+          "points": 300
+        },
+        {
+          "id": 63,
+          "question": "What is a 360 spin in boogie boarding?",
+          "answer": "Rotating your board completely around while riding a wave",
+          "points": 300
+        },
+        {
+          "id": 64,
+          "question": "How do bodyboarders typically hand-plane on a boogie board?",
+          "answer": "By using their hands to help turn and maneuver",
+          "points": 300
+        },
+        {
+          "id": 65,
+          "question": "What is a barrel or tube in wave riding?",
+          "answer": "When a wave creates a hollow cylinder shape as it breaks",
+          "points": 300
+        },
+        {
+          "id": 66,
+          "question": "What is the difference between a symmetrical and asymmetrical boogie board?",
+          "answer": "Asymmetrical boards have different left and right sides for turning",
+          "points": 300
+        },
+        {
+          "id": 67,
+          "question": "What is a fish-tailed boogie board design used for?",
+          "answer": "Better maneuverability and turning on smaller waves",
+          "points": 300
+        },
+        {
+          "id": 68,
+          "question": "What does 'getting barreled' mean in boogie boarding?",
+          "answer": "Riding inside a hollow wave tube",
+          "points": 300
+        },
+        {
+          "id": 69,
+          "question": "What is the optimal positioning to generate speed down a wave?",
+          "answer": "Keep your weight forward on the board and your body streamlined",
+          "points": 300
+        },
+        {
+          "id": 70,
+          "question": "How do waves form, generally speaking?",
+          "answer": "Wind pushes water, creating ripples that grow into waves",
+          "points": 300
+        },
+        {
+          "id": 71,
+          "question": "What is swell period, and why does it matter for boogie boarding?",
+          "answer": "The time between wave sets; longer periods mean better waves",
+          "points": 300
+        },
+        {
+          "id": 72,
+          "question": "What is wave height measured from in the surfing industry?",
+          "answer": "From the back of the wave (Hawaiian scale) or the front",
+          "points": 300
+        },
+        {
+          "id": 73,
+          "question": "What is the purpose of rocker in a boogie board?",
+          "answer": "The curved shape that helps with turning and wave absorption",
+          "points": 300
+        },
+        {
+          "id": 74,
+          "question": "What type of break is best for beginners learning boogie boarding?",
+          "answer": "A beach break or mellow sandy break",
+          "points": 300
+        },
+        {
+          "id": 75,
+          "question": "What does offshore wind do to wave quality?",
+          "answer": "It cleans up the wave face and creates better defined waves",
+          "points": 300
+        },
+        {
+          "id": 76,
+          "question": "What does onshore wind do to waves?",
+          "answer": "It makes waves choppy and reduces quality",
+          "points": 300
+        },
+        {
+          "id": 77,
+          "question": "What is the difference between a wave break and a shore break?",
+          "answer": "Shore breaks are closer to land and more powerful",
+          "points": 300
+        },
+        {
+          "id": 78,
+          "question": "What is tidal influence in boogie boarding spots?",
+          "answer": "How rising and falling tides affect wave conditions and break shape",
+          "points": 300
+        },
+        {
+          "id": 79,
+          "question": "What is a hollow board, and how is it different from a foam board?",
+          "answer": "A hollow board is lighter but more fragile than solid foam",
+          "points": 300
+        },
+        {
+          "id": 80,
+          "question": "What is the recommended fin size for controlled turning?",
+          "answer": "Medium to large fins (not too small)",
+          "points": 300
+        },
+        {
+          "id": 81,
+          "question": "How do you read a swell forecast for planning boogie boarding sessions?",
+          "answer": "Look at swell height, period, and direction",
+          "points": 300
+        },
+        {
+          "id": 82,
+          "question": "What is dynamic positioning on a boogie board?",
+          "answer": "Adjusting your weight and body position to control the board",
+          "points": 300
+        },
+        {
+          "id": 83,
+          "question": "What causes a wave to break in the first place?",
+          "answer": "When the wave bottom hits the seafloor and slows while the top keeps moving",
+          "points": 300
+        },
+        {
+          "id": 84,
+          "question": "What is the ideal chest-to-foot ratio for your boogie board size?",
+          "answer": "The board should reach from your chest to your feet",
+          "points": 300
+        },
+        {
+          "id": 85,
+          "question": "What is the purpose of channel grooves on a boogie board bottom?",
+          "answer": "To improve control and reduce drag",
+          "points": 300
+        },
+        {
+          "id": 86,
+          "question": "How does water temperature affect your boogie boarding experience?",
+          "answer": "Cold water requires a wetsuit; warm water is more comfortable",
+          "points": 300
+        },
+        {
+          "id": 87,
+          "question": "What is a wipeout in boogie boarding?",
+          "answer": "When you lose your board and fall off during a wave",
+          "points": 300
+        },
+        {
+          "id": 88,
+          "question": "What is the relationship between water depth and wave quality?",
+          "answer": "Shallow water helps waves break better; deep water keeps them undisrupted",
+          "points": 300
+        },
+        {
+          "id": 89,
+          "question": "What is the proper hand position for performing hand-planes?",
+          "answer": "Trailing hand helps push water and control direction",
+          "points": 300
+        },
+        {
+          "id": 90,
+          "question": "How do you determine if you have enough swell for boogie boarding?",
+          "answer": "Check wave height and period forecasts online",
+          "points": 300
+        }
+      ]
+    },
+    "Hard": {
+      "level": 4,
+      "description": "Challenging questions about advanced boogie boarding techniques and physics",
+      "questions": [
+        {
+          "id": 91,
+          "question": "What is the difference between laminar and turbulent flow in boogie board design?",
+          "answer": "Laminar flow is smooth and reduces drag; turbulent flow creates resistance",
+          "points": 400
+        },
+        {
+          "id": 92,
+          "question": "How does the Coriolis effect influence large-scale ocean swell patterns?",
+          "answer": "It affects swell direction based on hemisphere location",
+          "points": 400
+        },
+        {
+          "id": 93,
+          "question": "What is the critical angle for boogie board bottom to maintain speed down a wave face?",
+          "answer": "Typically between 15-25 degrees from horizontal",
+          "points": 400
+        },
+        {
+          "id": 94,
+          "question": "How do density and specific gravity affect boogie board floatation?",
+          "answer": "Lower density foam provides better floatation",
+          "points": 400
+        },
+        {
+          "id": 95,
+          "question": "What is the physics behind a barrel or tube formation in waves?",
+          "answer": "The wave's face curves faster than the crest, creating a hollow cylinder",
+          "points": 400
+        },
+        {
+          "id": 96,
+          "question": "How do reef breaks differ from beach breaks in wave formation?",
+          "answer": "Reef breaks have consistent peaks; beach breaks vary with sandbars",
+          "points": 400
+        },
+        {
+          "id": 97,
+          "question": "What is the relationship between groyne structures and wave quality?",
+          "answer": "Groynes can affect wave direction and sand distribution",
+          "points": 400
+        },
+        {
+          "id": 98,
+          "question": "How does bottom pressure relate to wave propagation speed?",
+          "answer": "Deeper water allows waves to travel faster",
+          "points": 400
+        },
+        {
+          "id": 99,
+          "question": "What is the difference between energy-dissipative and energy-reflective beaches?",
+          "answer": "Dissipative beaches have gentle slopes; reflective have steep faces",
+          "points": 400
+        },
+        {
+          "id": 100,
+          "question": "How do you calculate optimal board thickness for durability?",
+          "answer": "Balance weight distribution with structural integrity",
+          "points": 400
+        },
+        {
+          "id": 101,
+          "question": "What is stagnation point theory in wave dynamics?",
+          "answer": "The point where water velocity is zero relative to the board",
+          "points": 400
+        },
+        {
+          "id": 102,
+          "question": "How does wind shear affect swell propagation over distance?",
+          "answer": "Wind shear can modify wave height and direction",
+          "points": 400
+        },
+        {
+          "id": 103,
+          "question": "What is the metacentric height in boogie board stability?",
+          "answer": "The distance between center of buoyancy and center of gravity",
+          "points": 400
+        },
+        {
+          "id": 104,
+          "question": "How do you calculate wave refraction at a sloping beach?",
+          "answer": "Using Snell's law applied to wave crests",
+          "points": 400
+        },
+        {
+          "id": 105,
+          "question": "What is the significance of the Froude number in board design?",
+          "answer": "It measures the ratio of inertial to gravitational forces",
+          "points": 400
+        },
+        {
+          "id": 106,
+          "question": "How does aspect ratio in board design affect turning radius?",
+          "answer": "Higher aspect ratios reduce turning radius and increase maneuverability",
+          "points": 400
+        },
+        {
+          "id": 107,
+          "question": "What is edge pressure distribution on a boogie board during a turn?",
+          "answer": "The force applied along the rail edge to initiate turning",
+          "points": 400
+        },
+        {
+          "id": 108,
+          "question": "How do swash and backwash affect beach conditions?",
+          "answer": "Swash moves sediment up the beach; backwash moves it down",
+          "points": 400
+        },
+        {
+          "id": 109,
+          "question": "What is cross-shore current dynamics in relation to boogie boarding?",
+          "answer": "Currents that move parallel to shore that can push you sideways",
+          "points": 400
+        },
+        {
+          "id": 110,
+          "question": "How does wave group velocity differ from wave phase velocity?",
+          "answer": "Group velocity is the energy travel speed; phase velocity is wave propagation",
+          "points": 400
+        },
+        {
+          "id": 111,
+          "question": "What is the significance of the dead zone in wave mechanics?",
+          "answer": "The area where waves don't break effectively due to seafloor shape",
+          "points": 400
+        },
+        {
+          "id": 112,
+          "question": "How does Elliott wave theory apply to swell patterns?",
+          "answer": "It predicts wave sequences and timing of swell arrival",
+          "points": 400
+        },
+        {
+          "id": 113,
+          "question": "What is the relationship between water density and wave speed?",
+          "answer": "Speed depends on depth, not density, in shallow water",
+          "points": 400
+        },
+        {
+          "id": 114,
+          "question": "How do you perform a rail grab with optimal hand placement?",
+          "answer": "Grab the rail near your hips while extending your body",
+          "points": 400
+        },
+        {
+          "id": 115,
+          "question": "What is the purpose of board torsional rigidity?",
+          "answer": "To prevent twisting and maintain control during turns",
+          "points": 400
+        },
+        {
+          "id": 116,
+          "question": "How does fetch distance affect storm swell generation?",
+          "answer": "Longer fetch allows storms to generate larger swells",
+          "points": 400
+        },
+        {
+          "id": 117,
+          "question": "What is the significance of the breaking index in wave mechanics?",
+          "answer": "The ratio of wave height to water depth at breaking point",
+          "points": 400
+        },
+        {
+          "id": 118,
+          "question": "How does bottom contouring affect wave shape at a beach break?",
+          "answer": "Sandbars and contours determine where and how waves break",
+          "points": 400
+        },
+        {
+          "id": 119,
+          "question": "What is the role of capillary waves in wind energy transfer?",
+          "answer": "Tiny waves that help initiate larger wave growth from wind",
+          "points": 400
+        },
+        {
+          "id": 120,
+          "question": "How do you optimize hydrodynamic efficiency in boogie board movement?",
+          "answer": "Minimize drag through proper positioning and rail pressure",
+          "points": 400
+        }
+      ]
+    },
+    "Expert": {
+      "level": 5,
+      "description": "Expert-level questions about physics, advanced techniques, and specialized knowledge",
+      "questions": [
+        {
+          "id": 121,
+          "question": "What is the relationship between Reynolds number and boogie board boundary layer separation?",
+          "answer": "Higher Reynolds numbers increase separation risk, affecting control",
+          "points": 500
+        },
+        {
+          "id": 122,
+          "question": "How does acoustic streaming affect water motion beneath a boogie board?",
+          "answer": "Sound waves create secondary flows that can influence board stability",
+          "points": 500
+        },
+        {
+          "id": 123,
+          "question": "What is the significance of the Strouhal number in wave frequency analysis?",
+          "answer": "It relates oscillation frequency to flow velocity and characteristic length",
+          "points": 500
+        },
+        {
+          "id": 124,
+          "question": "How does the Magnus effect apply to spinning boogie boards?",
+          "answer": "Rotation creates pressure differences that affect trajectory",
+          "points": 500
+        },
+        {
+          "id": 125,
+          "question": "What is wave energy dissipation on a sloping beach mathematically expressed as?",
+          "answer": "Exponential decay with distance from shore based on coastal geometry",
+          "points": 500
+        },
+        {
+          "id": 126,
+          "question": "How do you calculate wave refraction using linear wave theory?",
+          "answer": "Using dispersion relationships and Snell's law for water waves",
+          "points": 500
+        },
+        {
+          "id": 127,
+          "question": "What is the role of viscous drag coefficient in boogie board hydrodynamics?",
+          "answer": "It quantifies frictional resistance between board and water",
+          "points": 500
+        },
+        {
+          "id": 128,
+          "question": "How does vortex formation at the rail edge affect turning performance?",
+          "answer": "Vortices create lift and increase turning moment",
+          "points": 500
+        },
+        {
+          "id": 129,
+          "question": "What is the relationship between Stokes drift and rip current formation?",
+          "answer": "Stokes drift contributes to mass transport that feeds rip currents",
+          "points": 500
+        },
+        {
+          "id": 130,
+          "question": "How does nonlinear wave theory explain extreme wave events?",
+          "answer": "Nonlinear interactions can cause waves to grow beyond linear predictions",
+          "points": 500
+        },
+        {
+          "id": 131,
+          "question": "What is the significance of bed roughness in wave bottom interaction?",
+          "answer": "Roughness increases energy dissipation through friction",
+          "points": 500
+        },
+        {
+          "id": 132,
+          "question": "How do you model complex fluid dynamics around a moving boogie board?",
+          "answer": "Using computational fluid dynamics (CFD) simulations",
+          "points": 500
+        },
+        {
+          "id": 133,
+          "question": "What is the role of surface tension in small-scale wave dynamics?",
+          "answer": "Surface tension dominates capillary waves but diminishes for larger waves",
+          "points": 500
+        },
+        {
+          "id": 134,
+          "question": "How does gyroscopic momentum affect board stability during spinning maneuvers?",
+          "answer": "Gyroscopic effects resist changes in rotational axis",
+          "points": 500
+        },
+        {
+          "id": 135,
+          "question": "What is the relationship between dispersion and group velocity in swell propagation?",
+          "answer": "Dispersive waves separate into frequencies with different group velocities",
+          "points": 500
+        },
+        {
+          "id": 136,
+          "question": "How do you calculate optimal fin foil design using airfoil theory?",
+          "answer": "Applying hydrodynamic principles similar to aerodynamic foil design",
+          "points": 500
+        },
+        {
+          "id": 137,
+          "question": "What is the significance of the critical angle for flow separation on a board?",
+          "answer": "Beyond this angle, laminar flow separates, increasing drag",
+          "points": 500
+        },
+        {
+          "id": 138,
+          "question": "How does the baroclinic instability mechanism generate rip currents?",
+          "answer": "Density gradients create unstable flow patterns that organize into jets",
+          "points": 500
+        },
+        {
+          "id": 139,
+          "question": "What is the Ekman spiral, and how does it apply to coastal currents?",
+          "answer": "Wind-driven surface currents that rotate with depth in a spiral pattern",
+          "points": 500
+        },
+        {
+          "id": 140,
+          "question": "How do you determine the peeling speed of a wave mathematically?",
+          "answer": "Using wave celerity equations relative to board velocity",
+          "points": 500
+        },
+        {
+          "id": 141,
+          "question": "What is the role of potential vorticity in large-scale ocean circulation?",
+          "answer": "It's conserved in rotating systems and drives ocean gyres",
+          "points": 500
+        },
+        {
+          "id": 142,
+          "question": "How does pressure-driven separation differ from viscous-driven separation?",
+          "answer": "Pressure-driven is from adverse pressure gradients; viscous from wall friction",
+          "points": 500
+        },
+        {
+          "id": 143,
+          "question": "What is the significance of the Ursell parameter in wave classification?",
+          "answer": "It determines whether waves behave linearly or nonlinearly",
+          "points": 500
+        },
+        {
+          "id": 144,
+          "question": "How do you optimize board flex characteristics using material science?",
+          "answer": "Selecting materials with optimal stiffness-to-weight ratio and damping",
+          "points": 500
+        },
+        {
+          "id": 145,
+          "question": "What is the relationship between Coriolis force and geostrophic balance?",
+          "answer": "At geostrophic balance, pressure gradient force equals Coriolis force",
+          "points": 500
+        },
+        {
+          "id": 146,
+          "question": "How does acoustic cavitation affect board material durability?",
+          "answer": "High-frequency vibrations can cause bubble collapse and material erosion",
+          "points": 500
+        },
+        {
+          "id": 147,
+          "question": "What is the significance of the Froude-Krylov force in board dynamics?",
+          "answer": "The force exerted by pressure gradients in unsteady fluid flow",
+          "points": 500
+        },
+        {
+          "id": 148,
+          "question": "How do you analyze stability using eigenvalue decomposition of flow matrices?",
+          "answer": "Eigenvalues indicate stability; negative values show damped oscillations",
+          "points": 500
+        },
+        {
+          "id": 149,
+          "question": "What is the role of intermittency in turbulent boundary layers?",
+          "answer": "Alternating laminar and turbulent zones that affect friction drag",
+          "points": 500
+        },
+        {
+          "id": 150,
+          "question": "How do you calculate resonance frequencies for boogie board vibration analysis?",
+          "answer": "Using eigenfrequency analysis of board structural properties",
+          "points": 500
+        }
+      ]
+    },
+    "Master": {
+      "level": 6,
+      "description": "Master-level questions about cutting-edge concepts, research, and theoretical frameworks",
+      "questions": [
+        {
+          "id": 151,
+          "question": "What is the quantum field theoretical approach to wave-particle interactions in fluids?",
+          "answer": "Path integral formalism applied to hydrodynamic fluctuations",
+          "points": 600
+        },
+        {
+          "id": 152,
+          "question": "How does Kaluza-Klein theory potentially explain higher-dimensional wave modes?",
+          "answer": "Compactified extra dimensions create quantized modes in wave propagation",
+          "points": 600
+        },
+        {
+          "id": 153,
+          "question": "What is the relationship between symmetry breaking and turbulence onset?",
+          "answer": "Bifurcations involve breaking of translational or rotational symmetries",
+          "points": 600
+        },
+        {
+          "id": 154,
+          "question": "How does the Boltzmann equation apply to non-equilibrium fluid dynamics?",
+          "answer": "It describes probability distributions of particle velocities in kinetic theory",
+          "points": 600
+        },
+        {
+          "id": 155,
+          "question": "What is the significance of the Lyapunov exponent in chaotic wave dynamics?",
+          "answer": "It quantifies the rate of trajectory divergence in nonlinear systems",
+          "points": 600
+        },
+        {
+          "id": 156,
+          "question": "How do you apply homological algebra to topological defects in wave fields?",
+          "answer": "Using cohomology groups to classify and track topological singularities",
+          "points": 600
+        },
+        {
+          "id": 157,
+          "question": "What is the connection between renormalization group theory and fluid turbulence?",
+          "answer": "RG methods reveal scaling laws and universal behavior across scales",
+          "points": 600
+        },
+        {
+          "id": 158,
+          "question": "How does functional analysis provide the framework for Hilbert space wave functions?",
+          "answer": "Infinite-dimensional spaces allow complete description of wave states",
+          "points": 600
+        },
+        {
+          "id": 159,
+          "question": "What is the role of manifold theory in describing board configuration spaces?",
+          "answer": "Manifolds define the space of all possible board orientations and positions",
+          "points": 600
+        },
+        {
+          "id": 160,
+          "question": "How does catastrophe theory explain sudden transitions in wave behavior?",
+          "answer": "Bifurcations create discontinuous changes from smooth parameter variations",
+          "points": 600
+        },
+        {
+          "id": 161,
+          "question": "What is the significance of ergodic theory in long-term swell pattern prediction?",
+          "answer": "Ergodicity implies time averages equal ensemble averages for wave statistics",
+          "points": 600
+        },
+        {
+          "id": 162,
+          "question": "How do you apply differential geometry to calculate geodesics in phase space?",
+          "answer": "Geodesics minimize action along optimal system evolution paths",
+          "points": 600
+        },
+        {
+          "id": 163,
+          "question": "What is the role of measure theory in probability distributions of wave heights?",
+          "answer": "Measure theory formalizes probability measures on wave state spaces",
+          "points": 600
+        },
+        {
+          "id": 164,
+          "question": "How does information entropy relate to predictability of wave dynamics?",
+          "answer": "Higher entropy indicates greater uncertainty and lower predictability",
+          "points": 600
+        },
+        {
+          "id": 165,
+          "question": "What is the significance of the Navier-Stokes existence and smoothness problem?",
+          "answer": "It concerns global existence and regularity of solutions to fluid equations",
+          "points": 600
+        },
+        {
+          "id": 166,
+          "question": "How do you apply variational principles to derive equations of motion?",
+          "answer": "Using Hamilton's principle and Lagrangian mechanics",
+          "points": 600
+        },
+        {
+          "id": 167,
+          "question": "What is the role of gauge theory in describing electromagnetic effects in seawater?",
+          "answer": "Gauge fields describe electromagnetic interactions with conducting seawater",
+          "points": 600
+        },
+        {
+          "id": 168,
+          "question": "How does spectral analysis using wavelets versus Fourier methods differ?",
+          "answer": "Wavelets localize frequency in time; Fourier assumes stationarity",
+          "points": 600
+        },
+        {
+          "id": 169,
+          "question": "What is the significance of homoclinic and heteroclinic orbits in chaos?",
+          "answer": "They connect saddle points and create intricate chaotic structure",
+          "points": 600
+        },
+        {
+          "id": 170,
+          "question": "How do you apply knot theory to model vortex interactions?",
+          "answer": "Knot invariants classify and track topological properties of vortex loops",
+          "points": 600
+        },
+        {
+          "id": 171,
+          "question": "What is the role of conformal invariance in scale-invariant wave phenomena?",
+          "answer": "Conformal symmetry constrains behavior across different length scales",
+          "points": 600
+        },
+        {
+          "id": 172,
+          "question": "How does supersymmetry theory potentially apply to particle-wave duality?",
+          "answer": "SUSY transforms bosons to fermions, connecting wave and particle aspects",
+          "points": 600
+        },
+        {
+          "id": 173,
+          "question": "What is the significance of solitons in nonlinear wave propagation?",
+          "answer": "Self-reinforcing waves that maintain shape over long distances",
+          "points": 600
+        },
+        {
+          "id": 174,
+          "question": "How do you apply Lie group theory to symmetry transformations in fluid dynamics?",
+          "answer": "Lie groups describe continuous symmetries and conservation laws",
+          "points": 600
+        },
+        {
+          "id": 175,
+          "question": "What is the role of spinor fields in relativistic fluid mechanics?",
+          "answer": "Spinors describe half-integer spin properties in quantum field frameworks",
+          "points": 600
+        },
+        {
+          "id": 176,
+          "question": "How does fractal geometry describe coastline roughness and wave absorption?",
+          "answer": "Fractal dimensions quantify irregular geometry at multiple scales",
+          "points": 600
+        },
+        {
+          "id": 177,
+          "question": "What is the significance of the Hausdorff dimension in strange attractor characterization?",
+          "answer": "Non-integer dimensions describe fractal structure of chaotic system attractors",
+          "points": 600
+        },
+        {
+          "id": 178,
+          "question": "How do you apply tensor calculus to describe stress-energy distributions?",
+          "answer": "Tensors quantify momentum and energy flux in fluid regions",
+          "points": 600
+        },
+        {
+          "id": 179,
+          "question": "What is the role of the universal Kolmogorov spectrum in turbulent cascade?",
+          "answer": "It describes self-similar energy distribution across scales in turbulence",
+          "points": 600
+        },
+        {
+          "id": 180,
+          "question": "How does the Atiyah-Singer index theorem apply to boundary value problems in wave physics?",
+          "answer": "It relates analytical and topological properties of boundary conditions",
+          "points": 600
+        }
+      ]
+    }
+  }
+}

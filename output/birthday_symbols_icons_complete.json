@@ -1,0 +1,1348 @@
+{
+  "category": "Birthday Symbols & Icons",
+  "description": "180 Jeopardy questions exploring birthday balloons, hats, streamers, imagery, and symbols through visual literacy, symbolism, and semiotics",
+  "research_focus": [
+    "Visual literacy and semiotics",
+    "Cultural symbolism of birthday decorations",
+    "Psychology of color in celebrations",
+    "Historical origins of party symbols",
+    "Semiotics and sign interpretation"
+  ],
+  "difficulty_levels": {
+    "1_elementary": {
+      "audience": "Elementary School (Grades K-5)",
+      "description": "Simple, visual, age-appropriate questions about common birthday symbols",
+      "count": 36,
+      "questions": [
+        {
+          "id": "E001",
+          "clue": "This round, colorful object floats in the air at birthday parties",
+          "answer": "What is a balloon?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E002",
+          "clue": "You wear this cone-shaped decoration on your head at a party",
+          "answer": "What is a party hat?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E003",
+          "clue": "This long, colorful decoration is hung on walls and doorways",
+          "answer": "What is a streamer?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E004",
+          "clue": "Tiny colored paper pieces thrown in the air during celebrations",
+          "answer": "What is confetti?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E005",
+          "clue": "This bright color is often used on balloons and decorations at happy parties",
+          "answer": "What is yellow?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E006",
+          "clue": "When you see balloons, you know a celebration is this",
+          "answer": "What is happy?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E007",
+          "clue": "A string attached to a balloon helps you do this with it",
+          "answer": "What is hold it?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E008",
+          "clue": "This shape is the most common form for party hats",
+          "answer": "What is a cone?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E009",
+          "clue": "Balloons are usually made of this stretchy material",
+          "answer": "What is rubber?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E010",
+          "clue": "You blow air into a balloon to make it grow this way",
+          "answer": "What is bigger?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E011",
+          "clue": "Pink and purple are examples of these at birthday parties",
+          "answer": "What are colors?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E012",
+          "clue": "A party without these floating decorations feels less festive",
+          "answer": "What are balloons?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E013",
+          "clue": "When you see streamers, bunting, and balloons, the place looks this",
+          "answer": "What is decorated?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E014",
+          "clue": "Party poppers make this sound when they go off",
+          "answer": "What is a bang or pop?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E015",
+          "clue": "This emoji looks like a party popper with confetti shooting out",
+          "answer": "What is the party popper emoji?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E016",
+          "clue": "Balloons can be shaped like animals or these cartoon characters",
+          "answer": "What are characters?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E017",
+          "clue": "This bright red color on a balloon stands for energy and fun",
+          "answer": "What is red?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E018",
+          "clue": "Foil or mylar balloons are shiny and look like this type of material",
+          "answer": "What is metal or silver?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E019",
+          "clue": "A happy face drawn on a balloon makes it look like this",
+          "answer": "What is a person?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E020",
+          "clue": "Numbers made of balloons can show how old the birthday person is turning",
+          "answer": "What is their age?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E021",
+          "clue": "These paper rings link together to make decorations for doorways",
+          "answer": "What is paper chain?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E022",
+          "clue": "A banner is a long piece of this with words written on it",
+          "answer": "What is fabric or paper?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E023",
+          "clue": "Balloon arches curve over doorways and look like this shape",
+          "answer": "What is a rainbow?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E024",
+          "clue": "Helium makes balloons float up into this",
+          "answer": "What is the air or sky?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E025",
+          "clue": "A party hat with elastic under your chin helps it stay in this place",
+          "answer": "What is on your head?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E026",
+          "clue": "Balloon animals are made by twisting and shaping balloons into this",
+          "answer": "What is a dog or animal shape?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E027",
+          "clue": "Seeing confetti fall from the ceiling makes people feel this way",
+          "answer": "What is happy or excited?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E028",
+          "clue": "A glitter ball spinning from the ceiling sparkles like this",
+          "answer": "What is stars or diamonds?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E029",
+          "clue": "These stick decorations wave around and create festive movements",
+          "answer": "What are ribbons or wands?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E030",
+          "clue": "Balloons come in this many colors of the rainbow",
+          "answer": "What is seven?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E031",
+          "clue": "A star-shaped balloon represents this wish during celebrations",
+          "answer": "What is a wish or dream?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E032",
+          "clue": "Party hats come in many colors but this shade is the most festive",
+          "answer": "What is bright or neon colors?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E033",
+          "clue": "Balloons with faces drawn on them look like these friendly creatures",
+          "answer": "What is a ghost or character?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E034",
+          "clue": "This symbol on a gift balloon means someone is thinking of you",
+          "answer": "What is love or a heart?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E035",
+          "clue": "When decorations cover a room from top to bottom, we say it's this",
+          "answer": "What is decorated or festive?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "E036",
+          "clue": "A balloon popping makes people jump because the sound is this",
+          "answer": "What is loud or sudden?",
+          "difficulty": "1_elementary",
+          "category": "birthday_symbols_icons"
+        }
+      ]
+    },
+    "2_middle_school": {
+      "audience": "Middle School (Grades 6-8)",
+      "description": "Intermediate questions exploring symbolism and cultural meanings",
+      "count": 36,
+      "questions": [
+        {
+          "id": "M001",
+          "clue": "In visual semiotics, this party decoration functions as a SIGNIFIER for celebration and joy",
+          "answer": "What is a balloon?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M002",
+          "clue": "The cone shape of a party hat has roots in ancient Egypt where it represented this",
+          "answer": "What is rebirth or the afterlife?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M003",
+          "clue": "Modern paper confetti was popularized in 1875 by Italian businessman Enrico Mangili using waste from this industry",
+          "answer": "What is silk manufacturing?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M004",
+          "clue": "The upward-pointing shape of a party hat symbolizes this emotion or mindset",
+          "answer": "What is optimism or positivity?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M005",
+          "clue": "In color psychology, yellow balloons are used to create an atmosphere that is this",
+          "answer": "What is positive or cheerful?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M006",
+          "clue": "Balloons were invented by scientist Michael Faraday in 1824 for experiments with this gas",
+          "answer": "What is hydrogen?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M007",
+          "clue": "In semiotics, Roland Barthes analyzed how party hats communicate this concept through social ritual",
+          "answer": "What is temporary role reversal or festivity?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M008",
+          "clue": "The psychologically associated meaning of red decorations at a party is this",
+          "answer": "What is vitality, confidence, or energy?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M009",
+          "clue": "Pink balloon symbolism in parties communicates playfulness and this characteristic",
+          "answer": "What is romance or high energy?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M010",
+          "clue": "In some cultures, releasing balloons into the sky represents this spiritual action",
+          "answer": "What is setting prayers or wishes free?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M011",
+          "clue": "The semiotic concept of SIGNIFIED in party decorations refers to this abstract meaning",
+          "answer": "What is celebration or joy?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M012",
+          "clue": "Visual literacy helps people decode the meaning of these decorative symbols without words",
+          "answer": "What is images or visual signs?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M013",
+          "clue": "In the UK, birthday party hats traditionally mimic the shape of this royal symbol",
+          "answer": "What is a crown?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M014",
+          "clue": "This color in party decorations is associated with creativity, wealth, and luxury",
+          "answer": "What is purple or violet?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M015",
+          "clue": "Colorstrology combines color psychology with this pseudoscience related to birthdays",
+          "answer": "What is astrology?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M016",
+          "clue": "The practice of tossing these items at celebrations dates back to pagan times",
+          "answer": "What is grains or sweets (confetti)?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M017",
+          "clue": "In semiotics, the ICON is a sign that resembles this aspect of its referent",
+          "answer": "What is appearance or physical form?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M018",
+          "clue": "A party hat with elastic under the chin demonstrates this practical design feature",
+          "answer": "What is functionality or securing?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M019",
+          "clue": "The psychological effect of vibrant balloon colors is to create this type of environment",
+          "answer": "What is a festive wonderland?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M020",
+          "clue": "In visual communication, balloons floating upward convey this symbolic meaning",
+          "answer": "What is elevation, joy, or freedom?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M021",
+          "clue": "Green decorations at parties are traditionally associated with this concept",
+          "answer": "What is growth or natural beauty?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M022",
+          "clue": "The festival tradition of wearing party hats creates a sense of this among attendees",
+          "answer": "What is unity or community?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M023",
+          "clue": "In semiotic analysis, cultural CONTEXT determines how these party symbols are this",
+          "answer": "What is interpreted or understood?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M024",
+          "clue": "The upward float of helium balloons symbolizes this feeling in celebration psychology",
+          "answer": "What is elevation or weightlessness?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M025",
+          "clue": "A logo or brand mascot balloon functions as this type of visual sign",
+          "answer": "What is an icon or symbol?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M026",
+          "clue": "The circular shape of a balloon is visually associated with this quality",
+          "answer": "What is wholeness or completeness?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M027",
+          "clue": "Confetti representing scattered joy is an example of this type of symbolic meaning",
+          "answer": "What is metaphorical symbolism?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M028",
+          "clue": "Streamers that twist and spiral suggest this type of movement or energy",
+          "answer": "What is dynamism or excitement?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M029",
+          "clue": "The tradition of party hats showing as crowns in UK celebrations represents this social concept",
+          "answer": "What is honoring or celebrating the person?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M030",
+          "clue": "Milestone birthdays like 40th often use these bold colors in decoration schemes",
+          "answer": "What is red and black?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M031",
+          "clue": "In visual literacy, understanding what a party popper represents requires this skill",
+          "answer": "What is cultural knowledge or context?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M032",
+          "clue": "The color of a balloon can communicate different moods and emotions through this principle",
+          "answer": "What is color psychology?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M033",
+          "clue": "Star-shaped or heart-shaped balloons use form to communicate these concepts",
+          "answer": "What is symbolism or emotional meaning?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M034",
+          "clue": "A banner displaying the birthday person's name is a type of this visual communication",
+          "answer": "What is personalized or custom symbolism?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M035",
+          "clue": "The tradition of 40th birthday colors reflects this human milestone perspective",
+          "answer": "What is cultural emphasis on age or maturity?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "M036",
+          "clue": "Mylar balloon reflectiveness uses this visual property to create impression of luxury",
+          "answer": "What is shininess or metallic appearance?",
+          "difficulty": "2_middle_school",
+          "category": "birthday_symbols_icons"
+        }
+      ]
+    },
+    "3_high_school": {
+      "audience": "High School (Grades 9-12)",
+      "description": "Advanced questions requiring understanding of semiotics, visual analysis, and cultural studies",
+      "count": 36,
+      "questions": [
+        {
+          "id": "H001",
+          "clue": "In Peirce's triadic semiotics model, a balloon functions as an ICON because it this",
+          "answer": "What is resembles celebration visually?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H002",
+          "clue": "The semiotic distinction between DENOTATION and CONNOTATION explains why balloons mean different things to different this",
+          "answer": "What is cultures or individuals?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H003",
+          "clue": "Roland Barthes' concept of MYTH in party hat traditions refers to this naturalized cultural this",
+          "answer": "What is ideology or belief system?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H004",
+          "clue": "Helium-filled balloons demonstrate this principle of visual communication regarding weightlessness and freedom",
+          "answer": "What is metaphorical extension or symbolic association?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H005",
+          "clue": "The evolution from dunce caps to party hats represents this semiotic shift in social meaning",
+          "answer": "What is signification reversal or recoding?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H006",
+          "clue": "Visual literacy frameworks describe party decorations as utilizing this principle of visual hierarchy and emphasis",
+          "answer": "What is contrast or saturation?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H007",
+          "clue": "The chromatic psychology principle explaining why red balloons convey energy relates to this neurobiological response",
+          "answer": "What is wavelength and perception?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H008",
+          "clue": "Confetti's historical evolution from grains to paper demonstrates this cultural principle of sign substitution",
+          "answer": "What is technological innovation changing meaning?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H009",
+          "clue": "The concept of VISUAL METAPHOR explains how balloon arches are interpreted as this shape with positive associations",
+          "answer": "What is rainbows or bridges to happiness?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H010",
+          "clue": "In Umberto Eco's semiotics, party hat traditions function through this interpretive strategy across cultures",
+          "answer": "What is open-ended encoding and decoding?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H011",
+          "clue": "The semiotic function of releasing balloons as spiritual release demonstrates this principle of symbolic action",
+          "answer": "What is performative semiotics or ritual?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H012",
+          "clue": "Color association theories explain why purple decorations signify this set of psychological and cultural meanings",
+          "answer": "What is luxury, creativity, and imagination?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H013",
+          "clue": "The principle of VISUAL CODING explains how streamers communicate dynamism through this formal property",
+          "answer": "What is diagonal or curved lines?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H014",
+          "clue": "Faraday's 1824 balloon invention demonstrates this relationship between scientific discovery and cultural symbolism",
+          "answer": "What is technology enabling new forms of celebration?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H015",
+          "clue": "The semiotics of mylar balloons' reflectivity functions as visual signifier for this quality of celebration",
+          "answer": "What is luxury, prestige, or special occasion?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H016",
+          "clue": "Party hat traditions showing crown shapes in UK culture exemplify this anthropological concept",
+          "answer": "What is cultural specificity or local semiotics?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H017",
+          "clue": "The principle of VISUAL GESTALT explains how balloon clusters are perceived as unified this",
+          "answer": "What is celebratory entity or whole?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H018",
+          "clue": "Enrico Mangili's 1875 confetti innovation demonstrates this economic principle affecting cultural production",
+          "answer": "What is waste valorization or upcycling?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H019",
+          "clue": "The semiotic category of SYMBOLS versus ICONS explains why party hats function as this type of sign",
+          "answer": "What is both icon and symbol simultaneously?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H020",
+          "clue": "Colorstrology's foundation in astrology demonstrates this principle of sign systems intersecting with this field",
+          "answer": "What is pseudoscience or popular belief?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H021",
+          "clue": "The cone shape persisting across millennia in party hats exemplifies this principle of symbol conservation",
+          "answer": "What is cultural continuity and tradition?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H022",
+          "clue": "Visual literacy development involves recognizing how party decorations create this type of communicative environment",
+          "answer": "What is non-verbal or visual culture?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H023",
+          "clue": "The semiotics of confetti falling demonstrates this principle of visual rhythm and temporal dimension",
+          "answer": "What is movement and kinetic energy?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H024",
+          "clue": "Balloon animal creation exemplifies this principle where physical transformation creates new symbolic meaning",
+          "answer": "What is morphological semiotics?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H025",
+          "clue": "The British adaptation of confetti at weddings versus parties demonstrates this principle of context-dependent signification",
+          "answer": "What is situational semiotics or register?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H026",
+          "clue": "Party hat elasticity and cone structure exemplify this design principle balancing form and function",
+          "answer": "What is ergonomic symbolism?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H027",
+          "clue": "The concept of BRICOLAGE in party decoration creation demonstrates this cultural principle of symbolic recombination",
+          "answer": "What is making meaning from available materials?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H028",
+          "clue": "Milestone birthday color schemes reflect this sociological concept of age marking through visual signification",
+          "answer": "What is rite of passage or liminality?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H029",
+          "clue": "The semiotics of banner text personalization demonstrates this principle of customized communication through decoration",
+          "answer": "What is individualized symbolism?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H030",
+          "clue": "Visual analysis of balloon arrangements uses this principle to understand compositional meaning-making",
+          "answer": "What is spatial semiotics or layout?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H031",
+          "clue": "The psychology of bright colors in celebrations demonstrates this principle of stimulus-response in visual culture",
+          "answer": "What is chromatic intensity affecting perception?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H032",
+          "clue": "Party hat traditions' universality across cultures exemplifies this principle of cross-cultural symbolic convergence",
+          "answer": "What is archetypal symbols or universal signification?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H033",
+          "clue": "The concept of POLYSEMY in party decorations explains why balloons can simultaneously signify this and that",
+          "answer": "What is multiple meanings or ambiguity?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H034",
+          "clue": "Helium balloons' upward trajectory functions as this type of visual metaphor in celebration symbolism",
+          "answer": "What is aspiration or transcendence?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H035",
+          "clue": "The evolution of confetti production demonstrates this principle where industrial processes shape cultural forms",
+          "answer": "What is technological determinism in culture?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "H036",
+          "clue": "Visual literacy frameworks analyze party decorations as systems of this communicative function",
+          "answer": "What is non-linguistic or non-verbal meaning?",
+          "difficulty": "3_high_school",
+          "category": "birthday_symbols_icons"
+        }
+      ]
+    },
+    "4_adult": {
+      "audience": "Adult Learners (18+)",
+      "description": "Complex questions for adult education on advanced semiotics, cultural theory, and visual analysis",
+      "count": 36,
+      "questions": [
+        {
+          "id": "A001",
+          "clue": "Barthes' concept of MYTH in party celebrations refers to this naturalization of cultural ideology through repetition",
+          "answer": "What is hegemonic sign systems?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A002",
+          "clue": "The diachronic evolution of party hats from dunce caps exemplifies this semiotic principle of historical sign transformation",
+          "answer": "What is diachronic semiotics or historical context?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A003",
+          "clue": "Peirce's distinction between INDEXICAL and SYMBOLIC signs explains why releasing balloons functions as this type",
+          "answer": "What is indexical of spiritual release or metaphorical symbol?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A004",
+          "clue": "Visual literacy frameworks describe party decoration analysis as requiring this metacognitive skill",
+          "answer": "What is awareness of sign construction and interpretation?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A005",
+          "clue": "The semiotics of confetti production history demonstrates this principle of industrial capitalism shaping cultural signification",
+          "answer": "What is commodity fetishism or production relations?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A006",
+          "clue": "Bourdieu's cultural capital theory explains why luxury balloon decorations signal this social distinction",
+          "answer": "What is class status or refined taste?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A007",
+          "clue": "The semiotic dimension of party hat cone geometry reflects this philosophical principle about form and transcendence",
+          "answer": "What is verticality or upward aspiration?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A008",
+          "clue": "Color psychology in birthday decorations draws from this discipline's understanding of perception and neurobiology",
+          "answer": "What is cognitive psychology or visual neuroscience?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A009",
+          "clue": "The concept of AFFECTIVE SEMIOTICS explains how balloon arrangements trigger these emotional and embodied responses",
+          "answer": "What is pre-cognitive or visceral reactions?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A010",
+          "clue": "Eco's distinction between OPEN and CLOSED texts applies to party decorations through this interpretive flexibility",
+          "answer": "What is polysemic encoding allowing variable readings?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A011",
+          "clue": "The anthropological concept of LIMINALITY in birthday rituals explains party hats' function as markers of this state",
+          "answer": "What is threshold between ordinary and festive time?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A012",
+          "clue": "Visual discourse analysis of confetti events demonstrates this principle of how repetition creates this naturalizing effect",
+          "answer": "What is habitus or normalized practice?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A013",
+          "clue": "The semiotics of mylar balloons' metallic reflectivity engages this principle of commodity aesthetics and luxury",
+          "answer": "What is spectacle or simulacral presence?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A014",
+          "clue": "Hall's encoding-decoding model explains how party decorations can be interpreted through these three positions",
+          "answer": "What is preferred, negotiated, or oppositional reading?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A015",
+          "clue": "The concept of VISUAL CAPITAL in party design demonstrates this intersection of aesthetic and economic value",
+          "answer": "What is cultural production or aesthetic labor?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A016",
+          "clue": "Foucault's analysis of power through spatial organization explains why balloon arrangements structure celebration this way",
+          "answer": "What is creating zones of visibility and gathering?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A017",
+          "clue": "The semiotic principle of OVERDETERMINATION in party symbols occurs when decorations simultaneously signify this and this",
+          "answer": "What is celebration and commercial consumption?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A018",
+          "clue": "Anderson's theory of IMAGINED COMMUNITIES explains how shared balloon symbols create this sense of belonging",
+          "answer": "What is collective identity or national belonging?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A019",
+          "clue": "The archaeology of the party hat tradition demonstrates this principle of how objects carry stratified historical meanings",
+          "answer": "What is archaeological semiotics or depth hermeneutics?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A020",
+          "clue": "Visual phenomenology applied to balloon experiences engages this principle of embodied perception and intentionality",
+          "answer": "What is pre-reflective consciousness or Being?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A021",
+          "clue": "The concept of REMEDIATION explains how digital party decorations on screens vs. physical balloons create these different meanings",
+          "answer": "What is medium-specific signification?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A022",
+          "clue": "Kristeva's concept of the SEMIOTIC CHORA in party celebrations refers to this pre-linguistic realm of meaning",
+          "answer": "What is drives, affects, and rhythmic pulsions?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A023",
+          "clue": "The semiotics of confetti's temporal dimension engages this principle of kairos and kairotic moments in celebration",
+          "answer": "What is propitious time or pregnant moment?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A024",
+          "clue": "Latour's actor-network theory applied to party decorations reveals how non-human objects have this role in social networks",
+          "answer": "What is agency or mediating capacity?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A025",
+          "clue": "The visual semiotics of party hat elasticity demonstrates this principle of material culture and embodied practice",
+          "answer": "What is affordances or material agency?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A026",
+          "clue": "De Certeau's concept of TACTICS in decoration practices explains how individuals improvise meaning through this",
+          "answer": "What is creative appropriation of commercial signs?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A027",
+          "clue": "The principle of INTERTEXTUALITY in party design means decorations reference and quote this realm of cultural meaning",
+          "answer": "What is other signs, films, art, and visual traditions?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A028",
+          "clue": "Baudrillard's concept of SIMULATION in celebration culture suggests that balloons represent this rather than this",
+          "answer": "What is signs representing signs rather than reality?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A029",
+          "clue": "The semiotics of color symbolism in milestones demonstrates this principle of how norms are enforced through aesthetics",
+          "answer": "What is normativity or aesthetic regulation?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A030",
+          "clue": "Visual culture studies analyze party decorations through this framework examining systems of representation and meaning-making",
+          "answer": "What is discourse analysis or social semiotics?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A031",
+          "clue": "The concept of HABITUS in party traditions explains how decorative choices become this naturalized and unconscious",
+          "answer": "What is internalized social structures or dispositions?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A032",
+          "clue": "Deleuze and Guattari's concept of DETERRITORIALIZATION applies to party symbols when they escape their this context",
+          "answer": "What is normative or intended meaning?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A033",
+          "clue": "The visual semiotics of banner personalization demonstrates this principle of INDEXICALITY toward the specific subject",
+          "answer": "What is deixis or pointing toward particular reference?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A034",
+          "clue": "Technological advancement in balloon manufacturing exemplifies this principle of how tools shape symbolic possibilities",
+          "answer": "What is technological affordances or medium specificity?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A035",
+          "clue": "The archaeology of confetti from grains to paper demonstrates this principle of historical contingency in sign systems",
+          "answer": "What is path dependency or evolutionary semiotics?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "A036",
+          "clue": "Visual literacy at the advanced level requires understanding party decorations through this metasemiotic awareness",
+          "answer": "What is reflexivity about how signs create meaning?",
+          "difficulty": "4_adult",
+          "category": "birthday_symbols_icons"
+        }
+      ]
+    },
+    "5_expert": {
+      "audience": "Expert Scholars (Academic/Professional)",
+      "description": "Expert-level questions for specialists in semiotics, visual culture, anthropology, and cultural theory",
+      "count": 36,
+      "questions": [
+        {
+          "id": "X001",
+          "clue": "Peirce's phenomenological categories of Firstness, Secondness, and Thirdness manifest in balloon signification as this progression",
+          "answer": "What is pure possibility, actual event, and mediating sign?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X002",
+          "clue": "The semiosphere concept developed by Lotman posits that party decorations constitute this communicative ecology",
+          "answer": "What is self-referential system where signs create meaning?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X003",
+          "clue": "Derrida's concept of DIFFÉRANCE in analyzing confetti traditions reveals how this and this defer complete meaning",
+          "answer": "What is presence and absence, identity and difference?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X004",
+          "clue": "The spatial semiotics of balloon arrangements exemplifies this principle from Lefebvre's analysis of social space",
+          "answer": "What is abstract space versus social space production?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X005",
+          "clue": "Butler's performativity theory applied to party hat traditions reveals how this iconic object constitutes this iteratively",
+          "answer": "What is celebratory subjectivity or festive identity?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X006",
+          "clue": "The chronosemiotic dimension of confetti falling engages this principle of how temporal experience creates meaningfulness",
+          "answer": "What is phenomenological temporality or chronotope?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X007",
+          "clue": "Semiotic synesthesia in party experiences occurs when balloon colors activate this cross-modal perceptual response",
+          "answer": "What is proprioceptive or kinesthetic sensation?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X008",
+          "clue": "The concept of THICK DESCRIPTION in visual anthropology requires analyzing balloon symbolism through this framework",
+          "answer": "What is layered cultural context and historical inscription?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X009",
+          "clue": "Foucault's genealogical method applied to party hat traditions reveals these discontinuous epistemic breaks",
+          "answer": "What is shifts from dunce cap to celebration marker?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X010",
+          "clue": "The semiotic modality of mylar balloons exemplifies Metz's concept of this in visual culture",
+          "answer": "What is analogical versus indexical signification?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X011",
+          "clue": "Bakhtin's concept of HETEROGLOSSIA in celebration discourse means party decorations contain these multiple conflicting voices",
+          "answer": "What is cultural, commercial, and personal meanings?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X012",
+          "clue": "The visual economy of party decoration consumption exemplifies Kopytoff's principle of this in commodities",
+          "answer": "What is biographical or social lives of things?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X013",
+          "clue": "Derrida's concept of HAUNTOLOGY in analyzing balloon symbolism refers to this spectral quality",
+          "answer": "What is traces of past significations persisting in present?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X014",
+          "clue": "The principle of METAPRAGMATICS in party hat traditions means these objects communicate about this",
+          "answer": "What is communication itself and celebratory frame?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X015",
+          "clue": "Whitehead's process philosophy applied to balloon inflation exemplifies this principle of becoming and transformation",
+          "answer": "What is actualization of potentiality through process?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X016",
+          "clue": "The concept of MODAL DENSITY in visual analysis of party decorations refers to this layering of communicative channels",
+          "answer": "What is color, form, movement, scale simultaneously?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X017",
+          "clue": "Greimas' deep semantic structure analysis of confetti traditions reveals this underlying paradigmatic opposition",
+          "answer": "What is ephemeral versus permanent or joy versus finitude?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X018",
+          "clue": "The semiotic dimension of party decoration affordances engages Gibson's principle of this in visual perception",
+          "answer": "What is direct perception of action possibilities?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X019",
+          "clue": "Lacan's symbolic order applied to party hat symbolism reveals how this cone structure operates within the Symbolic",
+          "answer": "What is paternal law or structured difference?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X020",
+          "clue": "The concept of MIMESIS in analyzing balloon imagery refers to this representational relationship to reality",
+          "answer": "What is resemblance that is never innocent or transparent?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X021",
+          "clue": "Stiegler's technics theory applied to balloon manufacturing exemplifies this co-evolution of tools and consciousness",
+          "answer": "What is tertiary retention or prosthetic memory?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X022",
+          "clue": "The principle of SEMANTIC SATURATION in party symbolism occurs when these contradictory meanings cancel out",
+          "answer": "What is excessive signification or meaning collapse?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X023",
+          "clue": "Agamben's concept of POTENTIALITY applied to confetti traditions refers to this threshold state of meaning",
+          "answer": "What is capacity to signify without determining meaning?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X024",
+          "clue": "The semiotic phenomenon of CONTAGION in party decoration practices exemplifies this principle of symbolic transmission",
+          "answer": "What is magical thinking or indexical metonymy?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X025",
+          "clue": "Simondon's morphogenesis theory applied to balloon shapes reveals this process of form-giving and individuation",
+          "answer": "What is transduction or modulation of potential into actual?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X026",
+          "clue": "The concept of RHIZOMATICS in analyzing party decoration networks means they function through this non-hierarchical",
+          "answer": "What is lateral connections and multiple entry points?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X027",
+          "clue": "Blumenberg's metaphorology applied to party hats reveals how this shape constitutes an absolute metaphor",
+          "answer": "What is unfounded yet foundational for meaning-making?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X028",
+          "clue": "The principle of EPISTEMIC SEMIOSIS in party traditions means celebrations function as this",
+          "answer": "What is spaces of knowledge production about culture?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X029",
+          "clue": "Serres' analysis of noise and signal in party decoration systems reveals how this creates meaning through interference",
+          "answer": "What is productive chaos or generative disturbance?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X030",
+          "clue": "The semiotic function of party hat visibility demonstrates this principle of how ostensiveness creates social binding",
+          "answer": "What is indexed presence or authenticated belonging?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X031",
+          "clue": "Quentin Meillassoux's speculation on party symbols applies this principle of meaningfulness beyond human access",
+          "answer": "What is ancestrality or correlationism critique?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X032",
+          "clue": "The concept of BIOSEMIOTICS in analyzing balloon symbolism treats celebrations as this kind of sign system",
+          "answer": "What is living, self-organizing semiotic processes?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X033",
+          "clue": "Harman's object-oriented approach to party decorations reveals them as this irreducible to their significations",
+          "answer": "What is withdrawn objects with autonomous reality?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X034",
+          "clue": "The principle of CHRONO-SEMIOTICS in confetti events engages this Heideggerian concept of temporal Being",
+          "answer": "What is ekstasis or ek-sistence in time?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X035",
+          "clue": "Maturana and Varela's autopoiesis theory applied to party traditions means celebrations are this",
+          "answer": "What is self-producing, self-organizing systems of meaning?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        },
+        {
+          "id": "X036",
+          "clue": "The ultimate principle governing all birthday symbol analysis through visual literacy is this fundamental property",
+          "answer": "What is that signs are never self-identical or fully present?",
+          "difficulty": "5_expert",
+          "category": "birthday_symbols_icons"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_questions": 180,
+    "categories": 5,
+    "questions_per_category": 36,
+    "research_integration": {
+      "visual_literacy": "Questions explore how visual symbols communicate meaning without text",
+      "semiotics": "Comprehensive coverage of Peirce, Barthes, Eco, and contemporary semiotic theory",
+      "symbolism": "Analysis of what balloons, hats, streamers, and decorations represent across cultures",
+      "psychology": "Color psychology and emotional responses to celebration imagery",
+      "history": "Evolution of party symbols from ancient Egypt through modern industrial production"
+    },
+    "audience_breakdown": {
+      "1_elementary": "36 questions - Simple, visual, age-appropriate about common symbols",
+      "2_middle_school": "36 questions - Intermediate symbolism and cultural meaning",
+      "3_high_school": "36 questions - Advanced semiotics and visual analysis",
+      "4_adult": "36 questions - Complex cultural theory and visual culture",
+      "5_expert": "36 questions - Specialized scholarship in semiotics and theory"
+    },
+    "key_topics_covered": [
+      "Visual semiotics and sign interpretation",
+      "Color psychology in celebrations",
+      "Historical evolution of party symbols",
+      "Cultural variations in celebration imagery",
+      "Psychology of visual perception in festive settings",
+      "Semiotics of form and shape (cone hats, round balloons)",
+      "Temporal and spatial dimensions of celebration",
+      "Commercial and cultural meanings of decorations",
+      "Embodied experience of festive visuals",
+      "Cross-cultural convergence of celebration symbols",
+      "Material culture and decoration affordances",
+      "Technological history of balloons and confetti",
+      "Visual hierarchy and design principles",
+      "Symbolic function of elastic and visibility",
+      "Metaphorical extensions of floating and rising",
+      "Performative aspects of wearing party symbols",
+      "Commodity aesthetics and luxury signification",
+      "Personalization and indexical meaning",
+      "Temporal experience of celebration moments"
+    ]
+  }
+}

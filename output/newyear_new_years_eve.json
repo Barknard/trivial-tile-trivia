@@ -1,0 +1,421 @@
+{
+  "category": "New Year's Eve & December 31st Celebrations",
+  "subcategories": {
+    "regular_trivia": "Traditional New Year's Eve knowledge questions (30 clues)",
+    "cah_style": "Cards Against Humanity style humor (30 clues, 6 words max)"
+  },
+  "research_basis": {
+    "mainstream_references_only": [
+      "Apps: Uber, DoorDash, Venmo, Instagram, TikTok",
+      "Tech: iPhone, Alexa, Netflix, Zoom",
+      "People: Taylor Swift, Elon Musk, Jeff Bezos",
+      "Events: COVID-19, pandemic, New Year resolutions",
+      "Brands: Times Square, Starbucks, McDonald's",
+      "Cultural: Dick Clark, Ball Drop, champagne, Times New York"
+    ]
+  },
+  "regular_trivia_clues": [
+    {
+      "id": "nye_001",
+      "clue": "This NYC location hosts the most famous New Year's Eve ball drop celebration",
+      "correctQuestion": "What is Times Square?",
+      "value": 200
+    },
+    {
+      "id": "nye_002",
+      "clue": "The famous TV host who created and hosted 'Dick Clark's New Year's Rockin' Eve' for 50+ years",
+      "correctQuestion": "Who is Dick Clark?",
+      "value": 200
+    },
+    {
+      "id": "nye_003",
+      "clue": "This beverage is traditionally raised in a toast at midnight on New Year's Eve",
+      "correctQuestion": "What is champagne?",
+      "value": 200
+    },
+    {
+      "id": "nye_004",
+      "clue": "The crystal ball in Times Square weighs approximately this many pounds",
+      "correctQuestion": "What is 11,875 pounds (or approximately 5,400-6,000 kg)?",
+      "value": 400
+    },
+    {
+      "id": "nye_005",
+      "clue": "The tradition of kissing at midnight on New Year's Eve is meant to ensure this for the coming year",
+      "correctQuestion": "What is good luck (or happiness/romance)?",
+      "value": 300
+    },
+    {
+      "id": "nye_006",
+      "clue": "First Night, a family-friendly alternative to bar hopping, originated in this U.S. city in 1976",
+      "correctQuestion": "What is Boston?",
+      "value": 300
+    },
+    {
+      "id": "nye_007",
+      "clue": "The superstition of eating this Southern food on New Year's Day is believed to bring prosperity",
+      "correctQuestion": "What are black-eyed peas?",
+      "value": 300
+    },
+    {
+      "id": "nye_008",
+      "clue": "This tradition of making resolutions on New Year's is said to have originated in ancient times with this civilization",
+      "correctQuestion": "What is Babylon (or ancient Rome)?",
+      "value": 400
+    },
+    {
+      "id": "nye_009",
+      "clue": "In Scotland, the first person to cross your threshold after midnight is called this, believed to bring luck if dark-haired",
+      "correctQuestion": "What is First Foot (or the First Footer)?",
+      "value": 400
+    },
+    {
+      "id": "nye_010",
+      "clue": "The word 'Hogmanay' refers to New Year's Eve celebrations in this country",
+      "correctQuestion": "What is Scotland?",
+      "value": 300
+    },
+    {
+      "id": "nye_011",
+      "clue": "Wearing this color on New Year's Eve is believed to bring luck and prosperity in Spanish culture",
+      "correctQuestion": "What is red?",
+      "value": 300
+    },
+    {
+      "id": "nye_012",
+      "clue": "This Asian New Year celebration is based on the lunar calendar and occurs between January 21 and February 20",
+      "correctQuestion": "What is Chinese New Year (or Lunar New Year)?",
+      "value": 300
+    },
+    {
+      "id": "nye_013",
+      "clue": "The Times Square Ball was first dropped on New Year's Eve in this year",
+      "correctQuestion": "What is 1907?",
+      "value": 400
+    },
+    {
+      "id": "nye_014",
+      "clue": "The most common New Year's resolution relates to this aspect of life",
+      "correctQuestion": "What is health/fitness (or losing weight)?",
+      "value": 200
+    },
+    {
+      "id": "nye_015",
+      "clue": "The famous song 'Auld Lang Syne' is traditionally sung at the stroke of midnight and originates from this country",
+      "correctQuestion": "What is Scotland?",
+      "value": 300
+    },
+    {
+      "id": "nye_016",
+      "clue": "This superstition suggests opening all doors and windows at midnight to let out the old year",
+      "correctQuestion": "What is letting negativity escape (or welcoming new energy)?",
+      "value": 300
+    },
+    {
+      "id": "nye_017",
+      "clue": "In Greece, smashing this item on New Year's Eve is believed to bring good luck",
+      "correctQuestion": "What is a pomegranate?",
+      "value": 400
+    },
+    {
+      "id": "nye_018",
+      "clue": "Cleaning and organizing your home before New Year's is believed to do this according to many cultures",
+      "correctQuestion": "What is remove bad luck (or welcome prosperity)?",
+      "value": 300
+    },
+    {
+      "id": "nye_019",
+      "clue": "This beverage, associated with New Year's toasts, comes primarily from this French region",
+      "correctQuestion": "What is Champagne?",
+      "value": 400
+    },
+    {
+      "id": "nye_020",
+      "clue": "The phrase 'out with the old, in with the new' symbolizes this aspect of New Year's traditions",
+      "correctQuestion": "What is renewal/fresh starts (or leaving the past behind)?",
+      "value": 200
+    },
+    {
+      "id": "nye_021",
+      "clue": "This NYE fireworks celebration in Dubai takes place on this iconic man-made island",
+      "correctQuestion": "What is Palm Jumeirah (or Dubai)?",
+      "value": 400
+    },
+    {
+      "id": "nye_022",
+      "clue": "The 'New Year, New Me' mentality typically lasts this many days on average before people abandon resolutions",
+      "correctQuestion": "What is 2-3 weeks (or about 21 days)?",
+      "value": 400
+    },
+    {
+      "id": "nye_023",
+      "clue": "In the Philippines, eating this round fruit at midnight is believed to bring coins of fortune",
+      "correctQuestion": "What are grapes (or round fruits)?",
+      "value": 400
+    },
+    {
+      "id": "nye_024",
+      "clue": "The tradition of watching the ball drop in Times Square began broadcasting nationally on this network",
+      "correctQuestion": "What is ABC (or television)?",
+      "value": 400
+    },
+    {
+      "id": "nye_025",
+      "clue": "In Brazil, jumping over waves in the ocean on New Year's Eve is said to bring this",
+      "correctQuestion": "What is good luck (or blessings from the sea/ocean goddess)?",
+      "value": 300
+    },
+    {
+      "id": "nye_026",
+      "clue": "The percentage of people who fail to keep their New Year's resolutions is approximately this",
+      "correctQuestion": "What is 80% (or 75-85%)?",
+      "value": 400
+    },
+    {
+      "id": "nye_027",
+      "clue": "This South American tradition involves wearing specific colored underwear to attract romantic love in the new year",
+      "correctQuestion": "What is wearing red underwear?",
+      "value": 300
+    },
+    {
+      "id": "nye_028",
+      "clue": "The famous New Year's Eve celebration in Sydney, Australia features fireworks over this iconic landmark",
+      "correctQuestion": "What is the Sydney Opera House?",
+      "value": 400
+    },
+    {
+      "id": "nye_029",
+      "clue": "In Jewish tradition, the new year is called this and typically falls in September or October",
+      "correctQuestion": "What is Rosh Hashanah?",
+      "value": 400
+    },
+    {
+      "id": "nye_030",
+      "clue": "The superstition that eating this food on New Year's Day will bring prosperity comes from the pea's resemblance to this",
+      "correctQuestion": "What is coins (or money)?",
+      "value": 300
+    }
+  ],
+  "cah_style_clues": [
+    {
+      "id": "nye_cah_001",
+      "clue": "What everyone promises themselves at midnight",
+      "correctQuestion": "What is going to the gym?",
+      "value": 200,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_002",
+      "clue": "What you're actually doing by January 5th",
+      "correctQuestion": "What is eating pizza in your pajamas?",
+      "value": 200,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_003",
+      "clue": "The thing you swear off at midnight",
+      "correctQuestion": "What is alcohol?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_004",
+      "clue": "What's destroyed before you finish the first one",
+      "correctQuestion": "What are New Year's resolutions?",
+      "value": 400,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_005",
+      "clue": "Why nobody actually meets their resolutions",
+      "correctQuestion": "What is having no self-control?",
+      "value": 400,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_006",
+      "clue": "What New Year's Eve is really about",
+      "correctQuestion": "What is getting unnecessarily drunk?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_007",
+      "clue": "The person kissing you at midnight",
+      "correctQuestion": "What is someone equally desperate?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_008",
+      "clue": "What your NYE outfit costs to dry clean",
+      "correctQuestion": "What is $47?",
+      "value": 200,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_009",
+      "clue": "The outfit you actually wear at midnight",
+      "correctQuestion": "What is whatever isn't stained?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_010",
+      "clue": "What prevents you from completing resolutions",
+      "correctQuestion": "What is reality?",
+      "value": 400,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_011",
+      "clue": "The Instagram couple goal you'll never achieve",
+      "correctQuestion": "What is looking sober and attractive?",
+      "value": 300,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_012",
+      "clue": "Why you're ugly-crying at 11:55pm",
+      "correctQuestion": "What is regret?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_013",
+      "clue": "The guy you thought was your resolution",
+      "correctQuestion": "What is a mistake?",
+      "value": 400,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_014",
+      "clue": "What ruins every New Year's celebration",
+      "correctQuestion": "What is disappointing family?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_015",
+      "clue": "The dress code for New Year's 2026",
+      "correctQuestion": "What is yoga pants?",
+      "value": 200,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_016",
+      "clue": "What gets stuck to your shoe at midnight",
+      "correctQuestion": "What is vomit?",
+      "value": 400,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_017",
+      "clue": "Your actual state at the ball drop",
+      "correctQuestion": "What is blackout drunk?",
+      "value": 400,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_018",
+      "clue": "What you're queuing for New Year's",
+      "correctQuestion": "What is an Uber (that won't arrive)?",
+      "value": 400,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_019",
+      "clue": "The app that doesn't work at midnight",
+      "correctQuestion": "What is Uber?",
+      "value": 400,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_020",
+      "clue": "January 1st vow about this never happens",
+      "correctQuestion": "What is drinking less?",
+      "value": 300,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_021",
+      "clue": "Dick Clark's actual facial expression after this many New Years",
+      "correctQuestion": "What is complete existential emptiness?",
+      "value": 400,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_022",
+      "clue": "The champagne bottle you're actually drinking",
+      "correctQuestion": "What is Barefoot from Costco?",
+      "value": 300,
+      "word_count": 6
+    },
+    {
+      "id": "nye_cah_023",
+      "clue": "What Times Square tourists are actually smelling",
+      "correctQuestion": "What is pee and regret?",
+      "value": 400,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_024",
+      "clue": "Your real resolution the next morning",
+      "correctQuestion": "What is never drinking again?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_025",
+      "clue": "The resolution that actually works yearly",
+      "correctQuestion": "What is disappointing your parents?",
+      "value": 400,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_026",
+      "clue": "Who actually keeps their resolutions",
+      "correctQuestion": "What is nobody?",
+      "value": 300,
+      "word_count": 4
+    },
+    {
+      "id": "nye_cah_027",
+      "clue": "Why New Year's resolutions are pointless",
+      "correctQuestion": "What is human nature?",
+      "value": 400,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_028",
+      "clue": "The outfit you promised to wear anyway",
+      "correctQuestion": "What is sweatpants?",
+      "value": 200,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_029",
+      "clue": "This is what motivates your resolutions",
+      "correctQuestion": "What is spite?",
+      "value": 300,
+      "word_count": 5
+    },
+    {
+      "id": "nye_cah_030",
+      "clue": "The New Year's resolution you actually achieve",
+      "correctQuestion": "What is procrastinating better?",
+      "value": 400,
+      "word_count": 5
+    }
+  ],
+  "metadata": {
+    "total_clues": 60,
+    "regular_trivia_count": 30,
+    "cah_style_count": 30,
+    "all_cah_clues_word_count_verified": "6 words maximum",
+    "mainstream_references_only": true,
+    "style_guide_version": "CAH_STYLE_GUIDE_2025.md",
+    "created_date": "2026-01-02",
+    "category_theme": "New Year's Eve & December 31st celebrations"
+  }
+}

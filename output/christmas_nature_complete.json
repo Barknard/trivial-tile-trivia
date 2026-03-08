@@ -1,0 +1,1046 @@
+{
+  "category": "christmas_nature",
+  "title": "Holiday Nature",
+  "description": "Explore the botanical wonders of Christmas - from evergreen trees and holly to mistletoe and poinsettias, plus the natural symbolism of the season",
+  "total_questions": 216,
+  "audiences": {
+    "kids_10_under": {
+      "count": 36,
+      "questions": [
+        {
+          "id": "cn_kids_100_1",
+          "value": 100,
+          "question": "This spiky green plant with red berries is often used to decorate homes at Christmas",
+          "answer": "Holly",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_100_2",
+          "value": 100,
+          "question": "These trees stay green all year round and are the most popular type of Christmas tree",
+          "answer": "Evergreen trees",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_100_3",
+          "value": 100,
+          "question": "This red and green plant is called the 'Christmas flower' and comes from Mexico",
+          "answer": "Poinsettia",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_200_1",
+          "value": 200,
+          "question": "People kiss under this plant that hangs from doorways at Christmas",
+          "answer": "Mistletoe",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_200_2",
+          "value": 200,
+          "question": "This type of tree, often used for Christmas, has needles instead of leaves",
+          "answer": "Pine tree (or fir tree)",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_200_3",
+          "value": 200,
+          "question": "The red 'petals' on a poinsettia are actually special leaves called this",
+          "answer": "Bracts",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_300_1",
+          "value": 300,
+          "question": "This evergreen tree is known for its wonderful smell and is named after a type of fur",
+          "answer": "Fir tree",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_300_2",
+          "value": 300,
+          "question": "Holly berries are this bright color that matches Santa's suit",
+          "answer": "Red",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_300_3",
+          "value": 300,
+          "question": "Mistletoe is actually this type of plant that grows on other trees",
+          "answer": "A parasite (or parasitic plant)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_400_1",
+          "value": 400,
+          "question": "This pine tree produces large cones and is named after a Scottish lake",
+          "answer": "Scotch Pine",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_400_2",
+          "value": 400,
+          "question": "The pointy leaves of holly are shaped this way to protect the plant from being eaten",
+          "answer": "Spiky (or sharp/prickly)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_400_3",
+          "value": 400,
+          "question": "This white substance on mistletoe berries is sticky and helps seeds stick to birds",
+          "answer": "Viscin (or sticky sap)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_500_1",
+          "value": 500,
+          "question": "This is the scientific name for evergreen trees that produce cones",
+          "answer": "Conifers",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_500_2",
+          "value": 500,
+          "question": "In nature, holly berries are food for these animals during winter",
+          "answer": "Birds",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_500_3",
+          "value": 500,
+          "question": "The Aztecs called the poinsettia this name meaning 'flower that wilts'",
+          "answer": "Cuetlaxochitl",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_100_4",
+          "value": 100,
+          "question": "Christmas trees have this shape that's wide at the bottom and pointy at the top",
+          "answer": "Triangle (or cone/pyramid)",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_100_5",
+          "value": 100,
+          "question": "This green color represents eternal life at Christmas",
+          "answer": "Evergreen (or green)",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_100_6",
+          "value": 100,
+          "question": "Pine trees make this sticky substance that smells good",
+          "answer": "Sap (or resin)",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_200_4",
+          "value": 200,
+          "question": "This type of fir tree is named after a U.S. state in the Northwest",
+          "answer": "Douglas Fir",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_200_5",
+          "value": 200,
+          "question": "Poinsettias need lots of this from the sun to stay healthy",
+          "answer": "Light (or sunlight)",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_200_6",
+          "value": 200,
+          "question": "Holly represents this season when it stays green while other plants don't",
+          "answer": "Winter",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_300_4",
+          "value": 300,
+          "question": "This is what we call the brown scaly things that grow on pine trees",
+          "answer": "Pinecones (or cones)",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_300_5",
+          "value": 300,
+          "question": "Birds spread mistletoe by doing this to the berries",
+          "answer": "Eating them (or pooping the seeds)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_300_6",
+          "value": 300,
+          "question": "The star shape of holly leaves has this many points, usually",
+          "answer": "Five to seven",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_400_4",
+          "value": 400,
+          "question": "This is how many years it takes to grow a 6-foot Christmas tree",
+          "answer": "Seven to ten years",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_400_5",
+          "value": 400,
+          "question": "Mistletoe berries are this color, like tiny pearls",
+          "answer": "White (or pale yellow)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_400_6",
+          "value": 400,
+          "question": "Only this gender of holly plant produces the red berries",
+          "answer": "Female",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_500_4",
+          "value": 500,
+          "question": "This evergreen tree has soft, flat needles and is named after a country in Europe",
+          "answer": "Norway Spruce",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_500_5",
+          "value": 500,
+          "question": "The true flowers of a poinsettia are these tiny things in the center",
+          "answer": "Cyathia (or yellow buds)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_500_6",
+          "value": 500,
+          "question": "Ancient people believed evergreens had this special power during winter",
+          "answer": "To ward off evil (or bring good luck)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_100_7",
+          "value": 100,
+          "question": "Pinecones hold these tiny things that can grow into new trees",
+          "answer": "Seeds",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_200_7",
+          "value": 200,
+          "question": "This is the country where poinsettias originally come from",
+          "answer": "Mexico",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_kids_300_7",
+          "value": 300,
+          "question": "Holly and ivy are both these because they stay green all year",
+          "answer": "Evergreens",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_400_7",
+          "value": 400,
+          "question": "This chemical in mistletoe berries makes them poisonous to eat",
+          "answer": "Phoratoxin (or toxins)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_kids_500_7",
+          "value": 500,
+          "question": "This is what the name 'evergreen' means about the trees",
+          "answer": "Always green (or never lose their needles)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_kids_100_8",
+          "value": 100,
+          "question": "Wreaths are often made from these bendable evergreen branches",
+          "answer": "Pine (or fir/spruce)",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    "teenagers": {
+      "count": 36,
+      "questions": [
+        {
+          "id": "cn_teen_100_1",
+          "value": 100,
+          "question": "This genus name, Ilex, refers to the holly plant family",
+          "answer": "Ilex",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_teen_100_2",
+          "value": 100,
+          "question": "Evergreen conifers retain their needles due to this waxy coating that prevents water loss",
+          "answer": "Cuticle",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_100_3",
+          "value": 100,
+          "question": "The botanical name for poinsettia is Euphorbia pulcherrima, meaning this in Latin",
+          "answer": "Most beautiful euphorbia",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_200_1",
+          "value": 200,
+          "question": "Mistletoe is this type of plant that derives nutrients from its host tree",
+          "answer": "Hemiparasite (or partial parasite)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_200_2",
+          "value": 200,
+          "question": "The triangular shape of conifers helps them shed this winter precipitation",
+          "answer": "Snow",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_teen_200_3",
+          "value": 200,
+          "question": "Holly's red berries are technically this type of fruit",
+          "answer": "Drupes",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_300_1",
+          "value": 300,
+          "question": "This U.S. ambassador introduced the poinsettia to America in the 1820s",
+          "answer": "Joel Roberts Poinsett",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_300_2",
+          "value": 300,
+          "question": "Mistletoe's genus name, Viscum, comes from this Latin word meaning sticky",
+          "answer": "Viscum",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_300_3",
+          "value": 300,
+          "question": "This gymnosperm characteristic means conifers have 'naked seeds' in cones",
+          "answer": "Gymnosperm",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_400_1",
+          "value": 400,
+          "question": "Holly's spiny leaves are a defense mechanism called this, meaning 'leaf spine'",
+          "answer": "Spinescence",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_400_2",
+          "value": 400,
+          "question": "Poinsettias are photoperiodic, meaning they respond to this environmental factor",
+          "answer": "Day length (or light duration)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_400_3",
+          "value": 400,
+          "question": "This resin from conifers has antimicrobial properties and was used historically as medicine",
+          "answer": "Turpentine (or pine resin)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_500_1",
+          "value": 500,
+          "question": "This process allows evergreens to photosynthesize year-round, even in winter",
+          "answer": "Cold-adapted photosynthesis",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_500_2",
+          "value": 500,
+          "question": "The Druids believed mistletoe had this power when cut with a golden sickle",
+          "answer": "Healing (or magical powers)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_500_3",
+          "value": 500,
+          "question": "This alkaloid in holly berries causes toxicity if ingested by humans",
+          "answer": "Theobromine (or saponins)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_100_4",
+          "value": 100,
+          "question": "This type of leaf arrangement, where needles attach directly to the branch, is called this",
+          "answer": "Spiral (or helical)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_100_5",
+          "value": 100,
+          "question": "In Christian symbolism, holly's thorns represent this crown worn by Jesus",
+          "answer": "Crown of thorns",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_teen_100_6",
+          "value": 100,
+          "question": "Poinsettias are part of this large plant family that includes rubber trees",
+          "answer": "Euphorbiaceae (or spurge family)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_200_4",
+          "value": 200,
+          "question": "This conifer genus, including Fraser and Balsam varieties, is most popular for Christmas trees",
+          "answer": "Abies (or fir)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_200_5",
+          "value": 200,
+          "question": "Mistletoe seeds are dispersed by this ecological process involving birds",
+          "answer": "Endozoochory (or ornithochory)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_200_6",
+          "value": 200,
+          "question": "The red color of poinsettia bracts is due to these pigment compounds",
+          "answer": "Anthocyanins",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_300_4",
+          "value": 300,
+          "question": "This adaptation allows conifer needles to withstand freezing temperatures",
+          "answer": "Antifreeze proteins (or cold hardiness)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_300_5",
+          "value": 300,
+          "question": "Holly is dioecious, meaning individual plants are this",
+          "answer": "Male or female (separate sexes)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_300_6",
+          "value": 300,
+          "question": "This is the approximate number of poinsettia cultivars available worldwide",
+          "answer": "Over 100 (or 100-150)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_400_4",
+          "value": 400,
+          "question": "In Norse mythology, mistletoe killed this god, son of Frigg",
+          "answer": "Balder (or Baldur)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_400_5",
+          "value": 400,
+          "question": "This conifer family includes pines, spruces, and firs",
+          "answer": "Pinaceae",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_400_6",
+          "value": 400,
+          "question": "The scientific term for holly's leaf margin, which is wavy and spined",
+          "answer": "Undulate (or crenate-spinose)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_500_4",
+          "value": 500,
+          "question": "This European species of mistletoe has white berries, unlike American varieties",
+          "answer": "Viscum album",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_500_5",
+          "value": 500,
+          "question": "Poinsettias require this many consecutive hours of darkness to develop red bracts",
+          "answer": "12-14 hours",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_500_6",
+          "value": 500,
+          "question": "This ecological term describes how evergreens dominate in environments where deciduous trees cannot",
+          "answer": "Competitive exclusion (or boreal adaptation)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_100_7",
+          "value": 100,
+          "question": "This Christmas tree variety has bluish needles and excellent needle retention",
+          "answer": "Blue Spruce (or Colorado Blue Spruce)",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_teen_200_7",
+          "value": 200,
+          "question": "Holly berries persist through winter because of this low palatability to most animals",
+          "answer": "Toxicity (or bitter taste)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_300_7",
+          "value": 300,
+          "question": "This symbiotic relationship allows mistletoe to perform photosynthesis while taking water from hosts",
+          "answer": "Hemiparasitism",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_400_7",
+          "value": 400,
+          "question": "The largest poinsettia ever recorded reached this many feet in height",
+          "answer": "Over 10 feet (or 3+ meters)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_teen_500_7",
+          "value": 500,
+          "question": "This volatile organic compound gives fir trees their characteristic Christmas scent",
+          "answer": "Bornyl acetate (or pinene)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_teen_100_8",
+          "value": 100,
+          "question": "This traditional holly variety has variegated leaves with white or yellow margins",
+          "answer": "Variegated holly (or Ilex aquifolium 'Argentea Marginata')",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    "no_humanity": {
+      "count": 36,
+      "questions": [
+        {
+          "id": "cn_nohum_200_1",
+          "value": 200,
+          "clue": "Where fake trees ship faster",
+          "correctQuestion": "What is Amazon?",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_nohum_200_2",
+          "value": 200,
+          "clue": "What killed tree farm outings",
+          "correctQuestion": "What is Netflix?",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_nohum_200_3",
+          "value": 200,
+          "clue": "Why we bought fake trees",
+          "correctQuestion": "What is COVID-19?",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_nohum_200_4",
+          "value": 200,
+          "clue": "Where Gen Z posts aesthetic trees",
+          "correctQuestion": "What is TikTok?",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_nohum_200_5",
+          "value": 200,
+          "clue": "Holiday cup controversy headquarters",
+          "correctQuestion": "What is Starbucks?",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_nohum_200_6",
+          "value": 200,
+          "clue": "Where boomers fight about plastic trees",
+          "correctQuestion": "What is Facebook?",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_nohum_400_1",
+          "value": 400,
+          "clue": "2-day shipping for dead dreams",
+          "correctQuestion": "What is Amazon Prime?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_400_2",
+          "value": 400,
+          "clue": "Tree farmers' bankruptcy side hustle",
+          "correctQuestion": "What is Uber?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_400_3",
+          "value": 400,
+          "clue": "The gift replacing family tree trips",
+          "correctQuestion": "What is an iPhone?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_400_4",
+          "value": 400,
+          "clue": "Where you see ex's tree emoji",
+          "correctQuestion": "What is Venmo?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_400_5",
+          "value": 400,
+          "clue": "Tree argument surveillance device",
+          "correctQuestion": "What is Alexa?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_400_6",
+          "value": 400,
+          "clue": "How celebrities fit oversized trees",
+          "correctQuestion": "What is Ozempic?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_600_1",
+          "value": 600,
+          "clue": "What millennials want under trees",
+          "correctQuestion": "What is affordable housing?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_600_2",
+          "value": 600,
+          "clue": "Who defrosts every December",
+          "correctQuestion": "Who is Mariah Carey?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_600_3",
+          "value": 600,
+          "clue": "What replaced tree farm trips",
+          "correctQuestion": "What is a group chat?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_600_4",
+          "value": 600,
+          "clue": "Who ruins tree farm outings",
+          "correctQuestion": "Who is Trump?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_600_5",
+          "value": 600,
+          "clue": "One wreath, $347 later",
+          "correctQuestion": "What is Target?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_600_6",
+          "value": 600,
+          "clue": "What killed tree farms",
+          "correctQuestion": "What is capitalism?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_800_1",
+          "value": 800,
+          "clue": "Fake tree sweatshop central",
+          "correctQuestion": "What is Amazon?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_800_2",
+          "value": 800,
+          "clue": "The dinner topic destroying traditions",
+          "correctQuestion": "What is the COVID vaccine?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_800_3",
+          "value": 800,
+          "clue": "What tree farmers demanded",
+          "correctQuestion": "What are union rights?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_800_4",
+          "value": 800,
+          "clue": "Why nobody affords real trees",
+          "correctQuestion": "What are student loans?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_800_5",
+          "value": 800,
+          "clue": "Tesla minerals vs Christmas trees",
+          "correctQuestion": "Who is Elon Musk?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_800_6",
+          "value": 800,
+          "clue": "Gas-guzzler to fake tree stores",
+          "correctQuestion": "What is an SUV?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_1",
+          "value": 1000,
+          "clue": "What Taylor Swift ruined ironically",
+          "correctQuestion": "What is influencer marketing?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_2",
+          "value": 1000,
+          "clue": "Mariah before Thanksgiving algorithm",
+          "correctQuestion": "What is Spotify?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_3",
+          "value": 1000,
+          "clue": "Your smart home judging trees",
+          "correctQuestion": "What is IoT?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_4",
+          "value": 1000,
+          "clue": "What tree farmers grow now",
+          "correctQuestion": "What is marijuana?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_5",
+          "value": 1000,
+          "clue": "Kardashian electric grid tree",
+          "correctQuestion": "What is conspicuous consumption?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_6",
+          "value": 1000,
+          "clue": "Rent-a-tree app dystopia",
+          "correctQuestion": "What is the sharing economy?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_200_7",
+          "value": 200,
+          "clue": "Small farm killer store",
+          "correctQuestion": "What is Walmart?",
+          "difficulty": "easy"
+        },
+        {
+          "id": "cn_nohum_400_7",
+          "value": 400,
+          "clue": "Search engine for fake trees",
+          "correctQuestion": "What is Google?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_600_7",
+          "value": 600,
+          "clue": "2020 climate nightmare for farms",
+          "correctQuestion": "What are wildfires?",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_nohum_800_7",
+          "value": 800,
+          "clue": "Tree farms became this housing",
+          "correctQuestion": "What are McMansions?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_7",
+          "value": 1000,
+          "clue": "Membership required for dead trees",
+          "correctQuestion": "What is Costco?",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_nohum_1000_8",
+          "value": 1000,
+          "clue": "Profile lies about real trees",
+          "correctQuestion": "What is Tinder?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    "adults": {
+      "count": 36,
+      "questions": [
+        {
+          "id": "cn_adult_100_1",
+          "value": 100,
+          "question": "This taxonomic order includes all conifers used as Christmas trees",
+          "answer": "Pinales",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_100_2",
+          "value": 100,
+          "question": "The genus Ilex contains over this many species of holly worldwide",
+          "answer": "480 (or 400-500)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_100_3",
+          "value": 100,
+          "question": "Euphorbia pulcherrima's milky sap contains this latex compound that causes skin irritation",
+          "answer": "Diterpene esters",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_200_1",
+          "value": 200,
+          "question": "This American mistletoe genus, distinct from European Viscum, is common in the U.S.",
+          "answer": "Phoradendron",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_200_2",
+          "value": 200,
+          "question": "Conifers evolved this reproductive strategy during the Carboniferous period, 300 million years ago",
+          "answer": "Seed-bearing (or non-aquatic reproduction)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_200_3",
+          "value": 200,
+          "question": "Holly's medicinal use in traditional European herbalism treated this condition",
+          "answer": "Fever (or rheumatism)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_300_1",
+          "value": 300,
+          "question": "This Mexican legend involves a poor girl named Pepita and the origin of poinsettias",
+          "answer": "Flores de Noche Buena (or Legend of the Poinsettia)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_300_2",
+          "value": 300,
+          "question": "Mistletoe's haustorium performs this specialized function in the host tree's tissue",
+          "answer": "Penetrating xylem (or extracting water and nutrients)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_300_3",
+          "value": 300,
+          "question": "This terpene compound in conifer resin acts as a natural defense against bark beetles",
+          "answer": "Monoterpenes (or α-pinene)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_400_1",
+          "value": 400,
+          "question": "The polymorphism in holly leaf spinescence is an example of this ecological principle",
+          "answer": "Browse line theory (or optimal defense theory)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_400_2",
+          "value": 400,
+          "question": "Poinsettias were cultivated by the Aztecs for this practical use beyond decoration",
+          "answer": "Red dye (from bracts) and fever medication",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_400_3",
+          "value": 400,
+          "question": "This cellular adaptation allows conifer needles to maintain turgor pressure in freezing conditions",
+          "answer": "Supercooling (or ice nucleation proteins)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_500_1",
+          "value": 500,
+          "question": "This biochemical pathway in evergreens prevents photoinhibition during winter photosynthesis",
+          "answer": "Non-photochemical quenching (or xanthophyll cycle)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_500_2",
+          "value": 500,
+          "question": "The kissing tradition under mistletoe originated with this ancient Roman festival",
+          "answer": "Saturnalia",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_500_3",
+          "value": 500,
+          "question": "This specific theobromine concentration in holly berries makes them toxic to dogs",
+          "answer": "0.5-2.0% (or moderate levels)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_100_4",
+          "value": 100,
+          "question": "This conifer species, Abies fraseri, is endemic to the Appalachian Mountains",
+          "answer": "Fraser Fir",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_100_5",
+          "value": 100,
+          "question": "In pagan symbolism, holly represented this masculine principle while ivy represented feminine",
+          "answer": "Male/masculine energy (or the Holly King)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_100_6",
+          "value": 100,
+          "question": "Paul Ecke Ranch in California developed this technique to make poinsettias branch and become bushy",
+          "answer": "Grafting (or vegetative propagation techniques)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_200_4",
+          "value": 200,
+          "question": "This coevolutionary relationship exists between mistletoe and specialized frugivorous birds",
+          "answer": "Mutualism (or seed dispersal mutualism)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_200_5",
+          "value": 200,
+          "question": "The sclerophyllous nature of holly leaves provides this adaptive advantage",
+          "answer": "Drought resistance (or herbivore deterrence)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_200_6",
+          "value": 200,
+          "question": "This phytochrome-mediated response controls poinsettia bract coloration",
+          "answer": "Photoperiodism (or short-day response)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_300_4",
+          "value": 300,
+          "question": "Conifer needle longevity ranges from 2-40 years depending on this environmental factor",
+          "answer": "Nutrient availability (or climate stress)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_300_5",
+          "value": 300,
+          "question": "This polyphenolic compound in mistletoe has been studied for potential cancer treatment properties",
+          "answer": "Viscotoxins (or lectins)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_300_6",
+          "value": 300,
+          "question": "The National Poinsettia Day in the U.S. is celebrated on this date",
+          "answer": "December 12th",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_400_4",
+          "value": 400,
+          "question": "This specific cultivar of Ilex aquifolium produces both male and female flowers on the same plant",
+          "answer": "None (holly is strictly dioecious, or this is a trick question)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_400_5",
+          "value": 400,
+          "question": "The allelopathic properties of certain conifers inhibit this process in competing vegetation",
+          "answer": "Germination (or seedling establishment)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_400_6",
+          "value": 400,
+          "question": "This University of Maryland research in the 1990s debunked the myth that poinsettias are highly toxic",
+          "answer": "POISINDEX toxicology database (or AMA study)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_500_4",
+          "value": 500,
+          "question": "This parasitic adaptation allows mistletoe to regulate its water uptake independently of host transpiration",
+          "answer": "Stomatal control (or hydraulic autonomy)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_500_5",
+          "value": 500,
+          "question": "The critical photoperiod for poinsettia bract coloration occurs at this specific daylength threshold",
+          "answer": "12.5 hours (or less than 12-13 hours)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_500_6",
+          "value": 500,
+          "question": "This secondary metabolite pathway produces the aromatic compounds in conifer resin",
+          "answer": "Isoprenoid biosynthesis (or MEP/MEV pathway)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_100_7",
+          "value": 100,
+          "question": "This is the approximate percentage of Christmas trees that are farm-grown vs. wild-harvested in the U.S.",
+          "answer": "98% farm-grown (or nearly all)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_200_7",
+          "value": 200,
+          "question": "Holly's berries contain saponins that cause this physiological response if ingested",
+          "answer": "Gastrointestinal irritation (or vomiting/diarrhea)",
+          "difficulty": "medium"
+        },
+        {
+          "id": "cn_adult_300_7",
+          "value": 300,
+          "question": "This mycorrhizal association is essential for conifer seedling establishment in forest ecosystems",
+          "answer": "Ectomycorrhizae",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_400_7",
+          "value": 400,
+          "question": "The dwarf mistletoe genus Arceuthobium causes this devastating forest disease",
+          "answer": "Witches' broom (or stem deformity)",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_500_7",
+          "value": 500,
+          "question": "This chromosomal number (2n) is standard for most Ilex aquifolium cultivars",
+          "answer": "2n=40",
+          "difficulty": "hard"
+        },
+        {
+          "id": "cn_adult_100_8",
+          "value": 100,
+          "question": "The Ecke family maintained a poinsettia production monopoly until this technique was revealed in the 1990s",
+          "answer": "Grafting secret (or the grafting method)",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "format": "jeopardy",
+    "created": "2025-12-26",
+    "theme": "Christmas botanical traditions and natural science",
+    "difficulty_distribution": {
+      "kids_10_under": "Easy to medium, focusing on visual recognition and basic concepts",
+      "teenagers": "Medium to hard, incorporating scientific terminology and ecological concepts",
+      "adults": "Hard, featuring advanced botany, biochemistry, and specialized knowledge"
+    }
+  }
+}

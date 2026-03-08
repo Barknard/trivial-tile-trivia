@@ -1,0 +1,177 @@
+[
+  {
+    "clue": "This astronomical event, occurring around March 20th each year, marks the moment when the Sun crosses Earth's equator and day and night are nearly equal in length",
+    "correctQuestion": "What is the vernal equinox?",
+    "value": 200
+  },
+  {
+    "clue": "Celebrated on March 17th, this holiday honors the patron saint of Ireland and is now observed with parades and green decorations in countries around the world",
+    "correctQuestion": "What is St. Patrick's Day?",
+    "value": 200
+  },
+  {
+    "clue": "Saint Patrick used this small three-leafed plant to explain the Christian concept of the Holy Trinity to the Irish people",
+    "correctQuestion": "What is the shamrock?",
+    "value": 200
+  },
+  {
+    "clue": "When Irish raiders kidnapped the young man who would become Saint Patrick, they brought him to this island nation where he spent six years enslaved as a herdsman",
+    "correctQuestion": "What is Ireland?",
+    "value": 200
+  },
+  {
+    "clue": "In spring, trees and grasses release this microscopic powder into the air, triggering sneezing and itchy eyes in millions of allergy sufferers",
+    "correctQuestion": "What is pollen?",
+    "value": 200
+  },
+  {
+    "clue": "The potato famine that devastated Ireland from 1845 to 1852 was caused by a water mold called Phytophthora infestans, which scientists classify as this type of organism — not a fungus, but more closely related to brown algae",
+    "correctQuestion": "What is an oomycete?",
+    "value": 400
+  },
+  {
+    "clue": "Chicago dyes this body of water green every year for St. Patrick's Day, a tradition that began in 1962 when plumbers noticed green dye staining their overalls",
+    "correctQuestion": "What is the Chicago River?",
+    "value": 400
+  },
+  {
+    "clue": "Saint Patrick wrote two surviving documents in Latin: his spiritual autobiography called the Confessio, and this letter condemning a British warlord who raided Irish Christian communities and enslaved their members",
+    "correctQuestion": "What is the Letter to Coroticus?",
+    "value": 400
+  },
+  {
+    "clue": "The Charitable Irish Society of Boston held the first documented St. Patrick's Day celebration in the American colonies in this year, over two decades before the first New York parade",
+    "correctQuestion": "What is 1737?",
+    "value": 400
+  },
+  {
+    "clue": "This ancient Celtic festival celebrated on February 1st marks the midpoint between the winter solstice and spring equinox and is associated with the goddess Brigid, whose name it shares with its Christian successor",
+    "correctQuestion": "What is Imbolc?",
+    "value": 400
+  },
+  {
+    "clue": "When the body detects pollen in the airways, it releases this chemical — the same one that antihistamine medications are designed to block — which causes the inflammation, sneezing, and watery eyes of hay fever",
+    "correctQuestion": "What is histamine?",
+    "value": 600
+  },
+  {
+    "clue": "Saint Patrick was captured from his family's estate at age sixteen by Irish raiders; he describes this event in detail in his Confessio, which is one of only two written documents from his own hand that survive to this day",
+    "correctQuestion": "What is the Confessio?",
+    "value": 600
+  },
+  {
+    "clue": "The word 'shamrock' derives from the Irish word 'seamróg,' the diminutive form of this Irish word meaning 'clover'",
+    "correctQuestion": "What is seamair?",
+    "value": 600
+  },
+  {
+    "clue": "The Arctic tern completes the longest known annual migration on Earth, traveling more than 80,000 kilometers round-trip between its Arctic breeding grounds and this continent where it spends the Southern Hemisphere summer",
+    "correctQuestion": "What is Antarctica?",
+    "value": 600
+  },
+  {
+    "clue": "Nowruz, the Persian New Year celebrated on the spring equinox, centers on a ceremonial table called the Haft-Sin, which features seven items all beginning with the same letter of the Persian alphabet — the letter that sounds like this in English",
+    "correctQuestion": "What is S?",
+    "value": 600
+  },
+  {
+    "clue": "Four Irish writers have won the Nobel Prize in Literature; this poet, who won in 1995 for works described as having 'lyrical beauty and ethical depth,' was called 'the most important Irish poet since Yeats' by American poet Robert Lowell",
+    "correctQuestion": "Who is Seamus Heaney?",
+    "value": 800
+  },
+  {
+    "clue": "The precession of Earth's rotational axis — the slow wobble that shifts the equinox point along the celestial sphere — completes one full cycle in approximately this many years, a period sometimes called the Great Year or Platonic Year",
+    "correctQuestion": "What is 25,800 years?",
+    "value": 800
+  },
+  {
+    "clue": "The bottle of orange powder used to dye the Chicago River green each St. Patrick's Day is considered a closely guarded secret; the dye was switched from an oil-based formula to this type of safe colorant after environmental concerns arose",
+    "correctQuestion": "What is a food-grade powder?",
+    "value": 800
+  },
+  {
+    "clue": "Leprechauns in the earliest Irish folklore were not depicted in green at all — they traditionally wore this color, and only shifted to green in popular imagery during the twentieth century",
+    "correctQuestion": "What is red?",
+    "value": 800
+  },
+  {
+    "clue": "Ireland's population fell from approximately 8.4 million in 1844 to 6.6 million by 1851 due to the Great Famine; the longer-term diaspora this triggered is estimated to have produced descendants numbering close to this many people worldwide",
+    "correctQuestion": "What is 80 million?",
+    "value": 800
+  },
+  {
+    "clue": "Saint Patrick's actual birth name is debated, but Irish tradition holds that it was Maewyn Succat; the name 'Patricius' he used in his written works comes from a Latin root meaning this",
+    "correctQuestion": "What is nobleman?",
+    "value": 1000
+  },
+  {
+    "clue": "The shamrock-as-Trinity legend does not appear in any written record until 1726, when this English botanist included it in his work 'Synopsis Stirpium Hibernicarum,' making it a surprisingly late addition to St. Patrick's mythology",
+    "correctQuestion": "Who is Caleb Threlkeld?",
+    "value": 1000
+  },
+  {
+    "clue": "Green beer was invented in 1914 by a New York City physician named Dr. Thomas Hayes Curtin, whose secret coloring agent was a laundry product called 'Wash Blue,' which contains this blue compound that turns beer green in small quantities",
+    "correctQuestion": "What is iron?",
+    "value": 1000
+  },
+  {
+    "clue": "Cairn T at Loughcrew in County Meath, Ireland, is a Neolithic passage tomb aligned with the spring equinox sunrise — a distinction often incorrectly attributed to the more famous nearby monument, which is actually aligned with the winter solstice",
+    "correctQuestion": "What is Newgrange?",
+    "value": 1000
+  },
+  {
+    "clue": "The study of the timing of seasonal biological events — such as when frogs first call in spring, when migratory birds arrive, or when flowers bloom — is a scientific discipline with this name, which comes from the Greek word for 'appearance'",
+    "correctQuestion": "What is phenology?",
+    "value": 1000
+  },
+  {
+    "clue": "The spring peeper (Pseudacris crucifer) can survive being partially frozen in winter thanks to its liver's ability to flood its bloodstream with this sugar, which acts as a biological antifreeze and protects organs from ice crystal damage",
+    "correctQuestion": "What is glucose?",
+    "value": 1000
+  },
+  {
+    "clue": "Ireland's 1937 constitution designates Irish (Gaeilge) as the nation's 'first official language,' yet the 2022 census found that only about this many people — fewer than 72,000 — actually speak it daily",
+    "correctQuestion": "What is 71,968 people?",
+    "value": 1000
+  },
+  {
+    "clue": "Holi, the Hindu festival of colors celebrating spring's arrival, traces its origins to the legend of the demon king Hiranyakashipu and his sister Holika, who tried to burn his son Prahlada alive because the boy refused to stop worshipping this god",
+    "correctQuestion": "Who is Vishnu?",
+    "value": 1000
+  },
+  {
+    "clue": "Samuel Beckett, W.B. Yeats, George Bernard Shaw, and Seamus Heaney are the four Irish winners of the Nobel Prize in Literature; Beckett, who won in 1969, is best known for a play in which two characters named Vladimir and Estragon wait endlessly for a figure who never arrives",
+    "correctQuestion": "What is Waiting for Godot?",
+    "value": 1000
+  },
+  {
+    "clue": "The 8th-century Anglo-Saxon scholar Bede wrote that early English speakers named their month of April 'Ēosturmōnaþ' after a pagan goddess, and scholars believe the modern word 'Easter' descends from this same goddess's name",
+    "correctQuestion": "Who is Ēostre?",
+    "value": 1000
+  },
+  {
+    "clue": "During the monarch butterfly's spring migration northward from Mexico, no single butterfly completes the full journey — instead it takes this many successive generations to reach the northern United States and Canada",
+    "correctQuestion": "What is three to four generations?",
+    "value": 1000
+  },
+  {
+    "clue": "Research published in Nature shows that as climate change causes spring to arrive earlier, many migratory birds are failing to keep pace with vegetation phenology — a problem called this, where the timing of interdependent biological events falls dangerously out of sync",
+    "correctQuestion": "What is phenological mismatch?",
+    "value": 1000
+  },
+  {
+    "clue": "W.B. Yeats won the Nobel Prize in Literature in 1923, the year after Irish independence, for poetry the Nobel committee said gave expression to 'the spirit of a whole nation'; he was a co-founder of this Dublin theater that became a home for Irish literary identity",
+    "correctQuestion": "What is the Abbey Theatre?",
+    "value": 1000
+  },
+  {
+    "clue": "Nowruz has been celebrated for more than 3,000 years, with its earliest traditions rooted in this ancient Persian religion founded by the prophet Zoroaster, which saw the spring equinox as the triumph of light over darkness",
+    "correctQuestion": "What is Zoroastrianism?",
+    "value": 1000
+  },
+  {
+    "clue": "Saint Patrick is the patron saint of Ireland despite never having been formally canonized through the Catholic Church's official process, because he lived and died before the current canonization laws were established; his feast day of March 17th marks the supposed date of this event",
+    "correctQuestion": "What is his death?",
+    "value": 1000
+  }
+]

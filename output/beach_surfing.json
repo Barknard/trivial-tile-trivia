@@ -1,0 +1,948 @@
+{
+  "title": "Beach Surfing Trivia",
+  "description": "180 family-friendly questions about surfing, surfboards, and riding waves in Jeopardy format",
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "Easy",
+      "pointValue": 100,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What sport involves riding waves on a board?",
+          "answer": "Surfing"
+        },
+        {
+          "id": 2,
+          "question": "What do surfers ride in the ocean?",
+          "answer": "Waves"
+        },
+        {
+          "id": 3,
+          "question": "What is the board called that surfers use?",
+          "answer": "Surfboard"
+        },
+        {
+          "id": 4,
+          "question": "In what body of water do surfers typically practice?",
+          "answer": "The ocean"
+        },
+        {
+          "id": 5,
+          "question": "What protective clothing do surfers wear?",
+          "answer": "A wetsuit"
+        },
+        {
+          "id": 6,
+          "question": "Where do surfers go to catch waves?",
+          "answer": "The beach"
+        },
+        {
+          "id": 7,
+          "question": "What do surfers use to stay balanced on their board?",
+          "answer": "Their feet"
+        },
+        {
+          "id": 8,
+          "question": "What is the foam part at the front of a surfboard called?",
+          "answer": "The nose"
+        },
+        {
+          "id": 9,
+          "question": "What is the back end of a surfboard called?",
+          "answer": "The tail"
+        },
+        {
+          "id": 10,
+          "question": "What do surfers do to get out to the waves?",
+          "answer": "Paddle"
+        },
+        {
+          "id": 11,
+          "question": "What direction do waves come from?",
+          "answer": "The ocean"
+        },
+        {
+          "id": 12,
+          "question": "How many sides does a surfboard have?",
+          "answer": "Two"
+        },
+        {
+          "id": 13,
+          "question": "What is it called when a surfer falls off the board?",
+          "answer": "A wipeout"
+        },
+        {
+          "id": 14,
+          "question": "What time of year typically has good surf?",
+          "answer": "Winter or any season depending on location"
+        },
+        {
+          "id": 15,
+          "question": "What is the top side of a surfboard called?",
+          "answer": "The deck"
+        },
+        {
+          "id": 16,
+          "question": "What is the bottom side of a surfboard called?",
+          "answer": "The bottom"
+        },
+        {
+          "id": 17,
+          "question": "What do surfers use to improve their balance?",
+          "answer": "Practice"
+        },
+        {
+          "id": 18,
+          "question": "How many fins do most surfboards have?",
+          "answer": "Three or four"
+        },
+        {
+          "id": 19,
+          "question": "What is the grip on a surfboard called?",
+          "answer": "Wax or traction pad"
+        },
+        {
+          "id": 20,
+          "question": "Where are most famous surf beaches located?",
+          "answer": "California, Hawaii, Australia, or tropical regions"
+        },
+        {
+          "id": 21,
+          "question": "What do surfers check before heading to the beach?",
+          "answer": "The weather or wave forecast"
+        },
+        {
+          "id": 22,
+          "question": "What is the strap that connects the board to a surfer's ankle?",
+          "answer": "A leash"
+        },
+        {
+          "id": 23,
+          "question": "What type of shoes do surfers not typically wear?",
+          "answer": "High heels or boots"
+        },
+        {
+          "id": 24,
+          "question": "What do surfers apply to their board for grip?",
+          "answer": "Wax"
+        },
+        {
+          "id": 25,
+          "question": "How many people typically ride one surfboard at once?",
+          "answer": "One"
+        },
+        {
+          "id": 26,
+          "question": "What is the basic standing position on a surfboard called?",
+          "answer": "A stance"
+        },
+        {
+          "id": 27,
+          "question": "What causes waves in the ocean?",
+          "answer": "Wind"
+        },
+        {
+          "id": 28,
+          "question": "What is it called when a surfer rides toward the shore?",
+          "answer": "Coming in or riding in"
+        },
+        {
+          "id": 29,
+          "question": "What safety item do surfers use to stay connected to their board?",
+          "answer": "A leash"
+        },
+        {
+          "id": 30,
+          "question": "What is the general shape of a surfboard?",
+          "answer": "Long and narrow"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "Easy-Medium",
+      "pointValue": 200,
+      "questions": [
+        {
+          "id": 31,
+          "question": "What is the name of the area where waves form regularly?",
+          "answer": "A surf break or break"
+        },
+        {
+          "id": 32,
+          "question": "What type of waves are best for beginners?",
+          "answer": "Small or gentle waves"
+        },
+        {
+          "id": 33,
+          "question": "What is a 'barrel' in surfing?",
+          "answer": "The hollow part of a wave that forms a tube"
+        },
+        {
+          "id": 34,
+          "question": "How do surfers move from lying down to standing on the board?",
+          "answer": "Pop up or jump"
+        },
+        {
+          "id": 35,
+          "question": "What are the fins on a surfboard designed to do?",
+          "answer": "Provide control and direction"
+        },
+        {
+          "id": 36,
+          "question": "What is the wave's steepest point called?",
+          "answer": "The face"
+        },
+        {
+          "id": 37,
+          "question": "What should surfers wear to protect their skin from the sun?",
+          "answer": "Sunscreen or a rash guard"
+        },
+        {
+          "id": 38,
+          "question": "What is the front-to-back curvature of a surfboard called?",
+          "answer": "Rocker"
+        },
+        {
+          "id": 39,
+          "question": "What happens when the back of a wave closes out completely?",
+          "answer": "The wave is closed out"
+        },
+        {
+          "id": 40,
+          "question": "What is the white water at the top of a wave called?",
+          "answer": "Whitewater or foam"
+        },
+        {
+          "id": 41,
+          "question": "What is a 'soup' in surfing slang?",
+          "answer": "The whitewater after a wave breaks"
+        },
+        {
+          "id": 42,
+          "question": "What is the offshore wind called?",
+          "answer": "An offshore or offshore wind"
+        },
+        {
+          "id": 43,
+          "question": "What is the onshore wind called?",
+          "answer": "An onshore or onshore wind"
+        },
+        {
+          "id": 44,
+          "question": "What material are most modern surfboards made from?",
+          "answer": "Foam and fiberglass"
+        },
+        {
+          "id": 45,
+          "question": "What is the bottom curve of a surfboard called?",
+          "answer": "The bottom contour or concave"
+        },
+        {
+          "id": 46,
+          "question": "What is shorthand for 'turn' in surfing?",
+          "answer": "Carve"
+        },
+        {
+          "id": 47,
+          "question": "What are the side rails of a surfboard?",
+          "answer": "Rails"
+        },
+        {
+          "id": 48,
+          "question": "What is the distance from the shore to the breaking waves?",
+          "answer": "The lineup"
+        },
+        {
+          "id": 49,
+          "question": "What is the movement of a surfer down the wave face called?",
+          "answer": "Dropping in"
+        },
+        {
+          "id": 50,
+          "question": "What is the period between wave sets called?",
+          "answer": "Lull or quiet period"
+        },
+        {
+          "id": 51,
+          "question": "What are the ridges on the bottom of a surfboard for?",
+          "answer": "Control and direction"
+        },
+        {
+          "id": 52,
+          "question": "What is the sport of riding ocean swells on a board?",
+          "answer": "Surfing"
+        },
+        {
+          "id": 53,
+          "question": "What is the hollow part of a breaking wave called?",
+          "answer": "The barrel"
+        },
+        {
+          "id": 54,
+          "question": "What is the term for waves that break onto a sandy beach?",
+          "answer": "Beach break"
+        },
+        {
+          "id": 55,
+          "question": "What is the term for waves that break onto rocks?",
+          "answer": "Reef break"
+        },
+        {
+          "id": 56,
+          "question": "What is the term for waves that break onto a rocky point?",
+          "answer": "Point break"
+        },
+        {
+          "id": 57,
+          "question": "What is the speed of a wave called?",
+          "answer": "Wave speed or velocity"
+        },
+        {
+          "id": 58,
+          "question": "What is the vertical distance from trough to crest called?",
+          "answer": "Wave height"
+        },
+        {
+          "id": 59,
+          "question": "What is a 'lip' of a wave?",
+          "answer": "The very top edge of a breaking wave"
+        },
+        {
+          "id": 60,
+          "question": "What do surfers use to carry their boards to the beach?",
+          "answer": "A board bag or under their arm"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "Medium",
+      "pointValue": 300,
+      "questions": [
+        {
+          "id": 61,
+          "question": "What is the most common surfboard length in feet?",
+          "answer": "Six to seven feet or five to six feet"
+        },
+        {
+          "id": 62,
+          "question": "What is the width measurement of a surfboard called?",
+          "answer": "The beam or width"
+        },
+        {
+          "id": 63,
+          "question": "What is the measurement from nose to tail called?",
+          "answer": "The length"
+        },
+        {
+          "id": 64,
+          "question": "What is the thickness of a surfboard measured as?",
+          "answer": "Inches or centimeters"
+        },
+        {
+          "id": 65,
+          "question": "What Hawaiian word means 'wave sliding'?",
+          "answer": "He'e nalu"
+        },
+        {
+          "id": 66,
+          "question": "In what Hawaiian islands is surfing most popular?",
+          "answer": "Oahu and Maui"
+        },
+        {
+          "id": 67,
+          "question": "What is the most famous surf spot in Hawaii?",
+          "answer": "Pipeline or Waikiki"
+        },
+        {
+          "id": 68,
+          "question": "What California beach is famous for surf?",
+          "answer": "Huntington Beach or Malibu"
+        },
+        {
+          "id": 69,
+          "question": "What Australian location is known for great waves?",
+          "answer": "Byron Bay or Bells Beach"
+        },
+        {
+          "id": 70,
+          "question": "What is the term for a surfer who rides backwards?",
+          "answer": "Regular footer or goofy footer depending on direction"
+        },
+        {
+          "id": 71,
+          "question": "What is a 'goofy' stance in surfing?",
+          "answer": "Right foot forward"
+        },
+        {
+          "id": 72,
+          "question": "What is a 'regular' stance in surfing?",
+          "answer": "Left foot forward"
+        },
+        {
+          "id": 73,
+          "question": "What is the foam core of a surfboard called?",
+          "answer": "The blank"
+        },
+        {
+          "id": 74,
+          "question": "What is the process of shaping a surfboard called?",
+          "answer": "Shaping"
+        },
+        {
+          "id": 75,
+          "question": "What are the small fins at the back of some boards called?",
+          "answer": "Thruster fins or quad fins"
+        },
+        {
+          "id": 76,
+          "question": "What is the center fin of a three-fin setup called?",
+          "answer": "The main fin or center fin"
+        },
+        {
+          "id": 77,
+          "question": "What is the back fin of a surfboard called?",
+          "answer": "The trailing fin"
+        },
+        {
+          "id": 78,
+          "question": "What type of surfboard is best for large waves?",
+          "answer": "A gun or big wave board"
+        },
+        {
+          "id": 79,
+          "question": "What type of board is best for small waves?",
+          "answer": "A fish or hybrid board"
+        },
+        {
+          "id": 80,
+          "question": "What is a 'fish' surfboard?",
+          "answer": "A short, wide board with a split tail"
+        },
+        {
+          "id": 81,
+          "question": "What is a 'longboard'?",
+          "answer": "A board typically eight feet or longer"
+        },
+        {
+          "id": 82,
+          "question": "What is a 'shortboard'?",
+          "answer": "A board typically under six feet"
+        },
+        {
+          "id": 83,
+          "question": "What is a 'mini-mal' board?",
+          "answer": "A board between a shortboard and longboard"
+        },
+        {
+          "id": 84,
+          "question": "What is a 'gun'?",
+          "answer": "A narrow board designed for big waves"
+        },
+        {
+          "id": 85,
+          "question": "What is the most popular professional surfing competition?",
+          "answer": "The World Surf League or WSL Championship Tour"
+        },
+        {
+          "id": 86,
+          "question": "What year was the World Surf League founded?",
+          "answer": "1976"
+        },
+        {
+          "id": 87,
+          "question": "How many judges typically score a professional surfing heat?",
+          "answer": "Five"
+        },
+        {
+          "id": 88,
+          "question": "What is the maximum wave height for beginners?",
+          "answer": "Two to three feet"
+        },
+        {
+          "id": 89,
+          "question": "What is 'tidal bore' in surfing?",
+          "answer": "A wave formed by rising tide in a river"
+        },
+        {
+          "id": 90,
+          "question": "What is a 'groundswell'?",
+          "answer": "Ocean swells produced by distant storms"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "difficulty": "Medium-Hard",
+      "pointValue": 400,
+      "questions": [
+        {
+          "id": 91,
+          "question": "What is the scientific term for the sideways movement of water from a wave?",
+          "answer": "Oscillatory motion"
+        },
+        {
+          "id": 92,
+          "question": "What causes a 'dumper' wave?",
+          "answer": "Shallow water or steep ocean floor"
+        },
+        {
+          "id": 93,
+          "question": "What is the term for waves that haven't broken yet?",
+          "answer": "Swells or green waves"
+        },
+        {
+          "id": 94,
+          "question": "What is 'wind swell'?",
+          "answer": "Waves caused by local wind conditions"
+        },
+        {
+          "id": 95,
+          "question": "What temperature range is ideal for surfing without a wetsuit?",
+          "answer": "72-78 degrees Fahrenheit"
+        },
+        {
+          "id": 96,
+          "question": "What is the most common cause of rip currents?",
+          "answer": "Water pushed back through channels during breaking waves"
+        },
+        {
+          "id": 97,
+          "question": "What should a surfer do if caught in a rip current?",
+          "answer": "Swim parallel to shore"
+        },
+        {
+          "id": 98,
+          "question": "What does PU stand for in surfboard construction?",
+          "answer": "Polyurethane"
+        },
+        {
+          "id": 99,
+          "question": "What does EPS stand for in surfboard construction?",
+          "answer": "Expanded polystyrene"
+        },
+        {
+          "id": 100,
+          "question": "What is a 'soft top' surfboard made from?",
+          "answer": "Soft foam with rubber rails"
+        },
+        {
+          "id": 101,
+          "question": "What is the base of a surfboard's bottom called?",
+          "answer": "The foil"
+        },
+        {
+          "id": 102,
+          "question": "What does 'volume' refer to in surfboards?",
+          "answer": "The overall cubic measurements"
+        },
+        {
+          "id": 103,
+          "question": "What is a 'pintail' on a surfboard?",
+          "answer": "A pointed tail used for hold in bigger waves"
+        },
+        {
+          "id": 104,
+          "question": "What is a 'rounded pin' tail?",
+          "answer": "A hybrid between pintail and rounded tail"
+        },
+        {
+          "id": 105,
+          "question": "What is a 'swallow tail' on a surfboard?",
+          "answer": "A tail with a V-notch in the middle"
+        },
+        {
+          "id": 106,
+          "question": "What measurement determines flotation in a surfboard?",
+          "answer": "Volume or displacement"
+        },
+        {
+          "id": 107,
+          "question": "What is the reference point for judging wave difficulty?",
+          "answer": "Hawaiian scale"
+        },
+        {
+          "id": 108,
+          "question": "How much shorter is Hawaiian scale height than face height?",
+          "answer": "About half"
+        },
+        {
+          "id": 109,
+          "question": "What is a 'closeout' in surfing?",
+          "answer": "When an entire section of wave breaks at once"
+        },
+        {
+          "id": 110,
+          "question": "What is the area where surfers wait for waves called?",
+          "answer": "The lineup"
+        },
+        {
+          "id": 111,
+          "question": "What is the path a surfer takes down a wave called?",
+          "answer": "The line"
+        },
+        {
+          "id": 112,
+          "question": "What is a 'snap' in surfing?",
+          "answer": "A sharp, rapid turn"
+        },
+        {
+          "id": 113,
+          "question": "What is a 'cutback' in surfing?",
+          "answer": "A sharp turn to redirect toward the wave face"
+        },
+        {
+          "id": 114,
+          "question": "What is an 'air' in surfing?",
+          "answer": "When the surfer launches the board off the wave"
+        },
+        {
+          "id": 115,
+          "question": "What is a 'maneuver' in surfing?",
+          "answer": "Any intentional action or trick on a wave"
+        },
+        {
+          "id": 116,
+          "question": "What is the most important skill for beginners?",
+          "answer": "Paddling and pop-up"
+        },
+        {
+          "id": 117,
+          "question": "What is the recommended time to practice before catching waves?",
+          "answer": "Several sessions on land or in shallow water"
+        },
+        {
+          "id": 118,
+          "question": "What is the core benefit of wetsuits in cold water?",
+          "answer": "Insulation and protection"
+        },
+        {
+          "id": 119,
+          "question": "What thickness of wetsuit is needed for 50-55 degree water?",
+          "answer": "4-5mm or higher"
+        },
+        {
+          "id": 120,
+          "question": "What is the best time of day for offshore winds?",
+          "answer": "Early morning"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "difficulty": "Hard",
+      "pointValue": 500,
+      "questions": [
+        {
+          "id": 121,
+          "question": "What is the Beaufort Scale used for in surfing forecasts?",
+          "answer": "Measuring wind speed and wave conditions"
+        },
+        {
+          "id": 122,
+          "question": "What is the period of a wave measured in?",
+          "answer": "Seconds"
+        },
+        {
+          "id": 123,
+          "question": "What do surfing forecasts use 'period' to indicate?",
+          "answer": "Time between successive wave crests"
+        },
+        {
+          "id": 124,
+          "question": "What is a 'fetch' in terms of wave generation?",
+          "answer": "Distance wind travels over ocean water"
+        },
+        {
+          "id": 125,
+          "question": "What affects the angle at which waves approach the shore?",
+          "answer": "Wind direction and underwater bathymetry"
+        },
+        {
+          "id": 126,
+          "question": "What is 'refraction' of waves?",
+          "answer": "Bending of waves as they encounter shallow water"
+        },
+        {
+          "id": 127,
+          "question": "What is 'diffraction' of waves?",
+          "answer": "Spreading of waves around obstacles"
+        },
+        {
+          "id": 128,
+          "question": "What is 'interference' in wave behavior?",
+          "answer": "When multiple waves combine to create larger or smaller waves"
+        },
+        {
+          "id": 129,
+          "question": "What causes a 'standing wave' or 'stationary wave'?",
+          "answer": "Waves reflecting off obstacles in the same direction as incoming waves"
+        },
+        {
+          "id": 130,
+          "question": "What is 'undertow'?",
+          "answer": "The return flow of water toward the ocean after waves push water ashore"
+        },
+        {
+          "id": 131,
+          "question": "What is the relationship between water temperature and surfboard volume?",
+          "answer": "Colder water requires more flotation"
+        },
+        {
+          "id": 132,
+          "question": "What is 'template' in surfboard design?",
+          "answer": "The outline shape of the board"
+        },
+        {
+          "id": 133,
+          "question": "What is 'bottom contour' in surfboard design?",
+          "answer": "The three-dimensional shape of the board's bottom surface"
+        },
+        {
+          "id": 134,
+          "question": "What is 'rail shape' in surfboards?",
+          "answer": "The thickness and curve of the board's edges"
+        },
+        {
+          "id": 135,
+          "question": "What is the center of buoyancy in a surfboard?",
+          "answer": "The geometric center of the board's volume"
+        },
+        {
+          "id": 136,
+          "question": "What is the center of gravity in relation to surfboard performance?",
+          "answer": "The balance point where the surfer stands"
+        },
+        {
+          "id": 137,
+          "question": "What is 'planshape' in surfboard terminology?",
+          "answer": "The two-dimensional outline of the board from above"
+        },
+        {
+          "id": 138,
+          "question": "What does 'swing weight' refer to in surfboards?",
+          "answer": "How responsive the board feels to turning"
+        },
+        {
+          "id": 139,
+          "question": "What is 'drive' in surfboard performance?",
+          "answer": "Forward momentum and speed through turns"
+        },
+        {
+          "id": 140,
+          "question": "What is 'hold' in surfboard performance?",
+          "answer": "The grip of the board in the wave face during turns"
+        },
+        {
+          "id": 141,
+          "question": "What is 'pivot' in surfboard performance?",
+          "answer": "The ability to turn the board by rotating on its center"
+        },
+        {
+          "id": 142,
+          "question": "What is the most dangerous aspect of big wave surfing?",
+          "answer": "Shallow water, sharp rocks, and hold-down durations"
+        },
+        {
+          "id": 143,
+          "question": "What safety equipment do big wave surfers use?",
+          "answer": "Jet skis, spotters, and specialized boards"
+        },
+        {
+          "id": 144,
+          "question": "What is a 'duck dive' in surfing?",
+          "answer": "A technique to roll under incoming waves while paddling"
+        },
+        {
+          "id": 145,
+          "question": "What is an 'Eskimo roll' in surfing?",
+          "answer": "Rolling the board and paddling technique to get under waves"
+        },
+        {
+          "id": 146,
+          "question": "What is 'tube riding' or 'barrel riding'?",
+          "answer": "Surfing through the hollow section of a breaking wave"
+        },
+        {
+          "id": 147,
+          "question": "What is the most valuable skill in professional surfing scoring?",
+          "answer": "Barrels and advanced maneuvers"
+        },
+        {
+          "id": 148,
+          "question": "What is the scoring range in professional surfing competitions?",
+          "answer": "0 to 10 points per wave"
+        },
+        {
+          "id": 149,
+          "question": "What is a 'heat' in professional surfing?",
+          "answer": "A competitive session where surfers battle for points"
+        },
+        {
+          "id": 150,
+          "question": "What is the time limit for a professional surfing heat?",
+          "answer": "20-25 minutes typically"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "difficulty": "Expert",
+      "pointValue": 600,
+      "questions": [
+        {
+          "id": 151,
+          "question": "What is the theoretical maximum wave height in the ocean?",
+          "answer": "Over 100 feet in extreme conditions"
+        },
+        {
+          "id": 152,
+          "question": "What is the deepwater wavelength formula based on?",
+          "answer": "Wave period and gravity"
+        },
+        {
+          "id": 153,
+          "question": "What is the breaking wave height in shallow water?",
+          "answer": "Approximately 1.3 times the water depth"
+        },
+        {
+          "id": 154,
+          "question": "What is 'shoaling' in wave physics?",
+          "answer": "The process of waves increasing in height as they approach shallow water"
+        },
+        {
+          "id": 155,
+          "question": "What is the Coriolis effect's influence on wave patterns?",
+          "answer": "Deflection of wave direction based on Earth's rotation"
+        },
+        {
+          "id": 156,
+          "question": "What is the relationship between swell period and wave speed?",
+          "answer": "Longer periods indicate faster-traveling swells"
+        },
+        {
+          "id": 157,
+          "question": "What is 'dispersion' in swell behavior?",
+          "answer": "Separation of swell components by period as they travel"
+        },
+        {
+          "id": 158,
+          "question": "What surfing legend pioneered tow-in surfing?",
+          "answer": "Laird Hamilton"
+        },
+        {
+          "id": 159,
+          "question": "What was the first notable tow-in wave ridden?",
+          "answer": "Waves at Pipeline, Hawaii, in the 1990s"
+        },
+        {
+          "id": 160,
+          "question": "What is the XXL Biggest Wave Award given for?",
+          "answer": "The largest wave surfed in a calendar year"
+        },
+        {
+          "id": 161,
+          "question": "What is the most dangerous break in terms of hold-down duration?",
+          "answer": "Teahupoo, Tahiti or Pipeline, Hawaii"
+        },
+        {
+          "id": 162,
+          "question": "What is the Mach number in surfing aerodynamics?",
+          "answer": "Ratio of board speed to wave speed"
+        },
+        {
+          "id": 163,
+          "question": "What is the relationship between wetsuit thickness and freedom of movement?",
+          "answer": "Thicker suits reduce mobility but increase warmth"
+        },
+        {
+          "id": 164,
+          "question": "What is 'laminar flow' in surfboard design?",
+          "answer": "Smooth water flow over the board surface"
+        },
+        {
+          "id": 165,
+          "question": "What is 'turbulent flow' in surfboard hydrodynamics?",
+          "answer": "Chaotic water movement causing drag"
+        },
+        {
+          "id": 166,
+          "question": "What is the CG (center of gravity) position for high-performance shortboards?",
+          "answer": "Forward of center for better control"
+        },
+        {
+          "id": 167,
+          "question": "What is the CB (center of buoyancy) in relation to board balance?",
+          "answer": "The pivot point for the board in water"
+        },
+        {
+          "id": 168,
+          "question": "What is the most critical factor in tube-riding success?",
+          "answer": "Positioning and speed management"
+        },
+        {
+          "id": 169,
+          "question": "What is the physics principle behind aerial maneuvers?",
+          "answer": "Conservation of momentum and angular momentum"
+        },
+        {
+          "id": 170,
+          "question": "What is the maximum force G-load in professional surfing turns?",
+          "answer": "2-3 G typically"
+        },
+        {
+          "id": 171,
+          "question": "What is the most expensive professional surfboard ever made?",
+          "answer": "Custom boards by master shapers, thousands of dollars"
+        },
+        {
+          "id": 172,
+          "question": "What ancient Hawaiian tradition is still honored in modern surfing culture?",
+          "answer": "Respect for the ocean and spiritual connection"
+        },
+        {
+          "id": 173,
+          "question": "What is the longest documented surfing ride ever?",
+          "answer": "Over 3 minutes in river tidal bore conditions"
+        },
+        {
+          "id": 174,
+          "question": "What is the world's most consistent surf spot?",
+          "answer": "Maldives or Indonesian coast"
+        },
+        {
+          "id": 175,
+          "question": "What is the biggest challenge in cold-water surfing?",
+          "answer": "Hypothermia and extended duration in cold conditions"
+        },
+        {
+          "id": 176,
+          "question": "What is the relationship between tide and wave quality?",
+          "answer": "Tides affect water depth and wave breaking characteristics"
+        },
+        {
+          "id": 177,
+          "question": "What is the atmospheric pressure system that generates the most consistent swells?",
+          "answer": "Southern Ocean low-pressure systems"
+        },
+        {
+          "id": 178,
+          "question": "What is the most important metric in modern surfboard hydrodynamics?",
+          "answer": "Wetted surface area and volume distribution"
+        },
+        {
+          "id": 179,
+          "question": "What is the breakthrough technology that revolutionized surf forecasting?",
+          "answer": "Satellite imagery and computer modeling"
+        },
+        {
+          "id": 180,
+          "question": "What is the future of surfboard design according to emerging research?",
+          "answer": "AI-optimized hydrodynamics and sustainable materials"
+        }
+      ]
+    }
+  ]
+}

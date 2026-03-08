@@ -1,0 +1,922 @@
+{
+  "category": "Gifts & Giving",
+  "theme": "christmas",
+  "category_id": "gift_giving",
+  "description": "Presents, wrapping, gift traditions",
+  "age_suitability": "All ages",
+  "research_alignment": "SEL focus - generosity, gratitude, kindness, thoughtfulness",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "Gifts go under this decorated tree",
+        "correctQuestion": "What is a Christmas tree?",
+        "value": 200
+      },
+      {
+        "clue": "You put presents in this shiny colorful material",
+        "correctQuestion": "What is wrapping paper?",
+        "value": 200
+      },
+      {
+        "clue": "This person in a red suit brings presents",
+        "correctQuestion": "Who is Santa?",
+        "value": 200
+      },
+      {
+        "clue": "You tie this decorative loop on top of a present",
+        "correctQuestion": "What is a bow?",
+        "value": 200
+      },
+      {
+        "clue": "Santa fills these hanging things with small gifts",
+        "correctQuestion": "What are stockings?",
+        "value": 200
+      },
+      {
+        "clue": "When you get a present, you should say these two words",
+        "correctQuestion": "What is thank you?",
+        "value": 200
+      },
+      {
+        "clue": "Gifts come in different shapes like squares and these round shapes",
+        "correctQuestion": "What are circles?",
+        "value": 200
+      },
+      {
+        "clue": "You shake this wrapped present to hear what might be inside",
+        "correctQuestion": "What is a gift?",
+        "value": 200
+      },
+      {
+        "clue": "This sticky material holds wrapping paper together",
+        "correctQuestion": "What is tape?",
+        "value": 200
+      },
+      {
+        "clue": "Presents are often a this word that means a nice thing we didn't expect",
+        "correctQuestion": "What is a surprise?",
+        "value": 200
+      },
+      {
+        "clue": "You write this paper to tell Santa what you want",
+        "correctQuestion": "What is a letter?",
+        "value": 400
+      },
+      {
+        "clue": "Giving gifts makes people feel this happy emotion",
+        "correctQuestion": "What is joy?",
+        "value": 400
+      },
+      {
+        "clue": "This paper tag tells who the present is for",
+        "correctQuestion": "What is a gift tag?",
+        "value": 400
+      },
+      {
+        "clue": "When you give someone a present, it makes them do this with their face",
+        "correctQuestion": "What is smile?",
+        "value": 400
+      },
+      {
+        "clue": "Wrapping paper comes in lots of different these",
+        "correctQuestion": "What are colors?",
+        "value": 400
+      },
+      {
+        "clue": "You can make a homemade gift with these to show you care",
+        "correctQuestion": "What are your hands?",
+        "value": 400
+      },
+      {
+        "clue": "Baby Jesus received gifts from these three visitors",
+        "correctQuestion": "Who are the wise men?",
+        "value": 400
+      },
+      {
+        "clue": "Sharing your toys with others is a type of this",
+        "correctQuestion": "What is giving?",
+        "value": 400
+      },
+      {
+        "clue": "You can give this warm action as a gift that doesn't cost money",
+        "correctQuestion": "What is a hug?",
+        "value": 400
+      },
+      {
+        "clue": "Santa's bag is full of these",
+        "correctQuestion": "What are presents?",
+        "value": 400
+      },
+      {
+        "clue": "When you make someone a card, you are giving this from your body organ",
+        "correctQuestion": "What is your heart?",
+        "value": 600
+      },
+      {
+        "clue": "The three wise men brought gold, frankincense, and this gift",
+        "correctQuestion": "What is myrrh?",
+        "value": 600
+      },
+      {
+        "clue": "Giving to people who need help is called this kindness word",
+        "correctQuestion": "What is charity?",
+        "value": 600
+      },
+      {
+        "clue": "A gift doesn't have to cost this to be special",
+        "correctQuestion": "What is money?",
+        "value": 600
+      },
+      {
+        "clue": "When you draw a picture for someone, you give this creative thing",
+        "correctQuestion": "What is art?",
+        "value": 600
+      },
+      {
+        "clue": "Helping someone without being asked is like giving this",
+        "correctQuestion": "What is kindness?",
+        "value": 600
+      },
+      {
+        "clue": "Wrapping a present nicely shows you put in this effort word",
+        "correctQuestion": "What is care?",
+        "value": 600
+      },
+      {
+        "clue": "Some people give presents to kids who don't have any through this charity word",
+        "correctQuestion": "What is donation?",
+        "value": 600
+      },
+      {
+        "clue": "When families exchange names to buy one gift each, it's called Secret this",
+        "correctQuestion": "What is Santa?",
+        "value": 800
+      },
+      {
+        "clue": "The best gifts show you were doing this activity with your brain about what they like",
+        "correctQuestion": "What is thinking?",
+        "value": 800
+      },
+      {
+        "clue": "Giving your time to help someone is a gift of this",
+        "correctQuestion": "What is service?",
+        "value": 800
+      },
+      {
+        "clue": "Some gifts are experiences like going to this entertainment place",
+        "correctQuestion": "What is a show?",
+        "value": 800
+      },
+      {
+        "clue": "A homemade gift shows more of this than a store-bought one",
+        "correctQuestion": "What is love?",
+        "value": 1000
+      },
+      {
+        "clue": "Giving feels good because it makes this brain chemical that makes us happy",
+        "correctQuestion": "What is happiness?",
+        "value": 1000
+      },
+      {
+        "clue": "The best part of giving is seeing someone's this expression of happiness",
+        "correctQuestion": "What is a smile?",
+        "value": 1000
+      },
+      {
+        "clue": "Some people adopt a family at Christmas to give them this type of assistance",
+        "correctQuestion": "What is help?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This ancient Roman festival involved gift-giving and influenced Christmas traditions",
+        "correctQuestion": "What is Saturnalia?",
+        "value": 200
+      },
+      {
+        "clue": "The Twelve Days of Christmas song mentions this total number of gifts",
+        "correctQuestion": "What is 364?",
+        "value": 200
+      },
+      {
+        "clue": "In The Gift of the Magi, Della sells this to buy a gift for Jim",
+        "correctQuestion": "What is her hair?",
+        "value": 200
+      },
+      {
+        "clue": "The three wise men followed a star to bring gifts to this baby",
+        "correctQuestion": "Who is Jesus?",
+        "value": 200
+      },
+      {
+        "clue": "This charitable organization collects gifts for children through red kettles",
+        "correctQuestion": "What is The Salvation Army?",
+        "value": 200
+      },
+      {
+        "clue": "A White Elephant gift exchange means you can do this to someone else's gift",
+        "correctQuestion": "What is steal?",
+        "value": 200
+      },
+      {
+        "clue": "Giving to Toys for Tots helps children of families in this military branch",
+        "correctQuestion": "What is the Marine Corps?",
+        "value": 200
+      },
+      {
+        "clue": "This wrapping technique uses fabric instead of paper and is Japanese",
+        "correctQuestion": "What is furoshiki?",
+        "value": 200
+      },
+      {
+        "clue": "A gift registry helps people know what you want by making this",
+        "correctQuestion": "What is a list?",
+        "value": 200
+      },
+      {
+        "clue": "Secret Santa gift exchanges have a spending limit to keep gifts this way",
+        "correctQuestion": "What is fair or equal?",
+        "value": 200
+      },
+      {
+        "clue": "The tradition of advent calendars gives this many small gifts",
+        "correctQuestion": "What is 24?",
+        "value": 400
+      },
+      {
+        "clue": "In The Polar Express, the first gift of Christmas is this item that only believers can hear",
+        "correctQuestion": "What is a bell?",
+        "value": 400
+      },
+      {
+        "clue": "The three wise men brought gold, frankincense, and myrrh which were all this type of item",
+        "correctQuestion": "What are valuable gifts?",
+        "value": 400
+      },
+      {
+        "clue": "This charity program lets you sponsor a child in need by choosing their name from this object",
+        "correctQuestion": "What is an angel tree?",
+        "value": 400
+      },
+      {
+        "clue": "Operation Christmas Child sends shoeboxes filled with gifts to children in this many countries",
+        "correctQuestion": "What is over 100?",
+        "value": 400
+      },
+      {
+        "clue": "The term 'regifting' means giving away a present that you did this first",
+        "correctQuestion": "What is received?",
+        "value": 400
+      },
+      {
+        "clue": "A gift certificate or gift card is a gift of this instead of a physical item",
+        "correctQuestion": "What is money?",
+        "value": 400
+      },
+      {
+        "clue": "Making a donation in someone's name gives to charity instead of giving them this",
+        "correctQuestion": "What is a physical gift?",
+        "value": 400
+      },
+      {
+        "clue": "The Giving Tree by Shel Silverstein is about a tree that gives everything including this final gift",
+        "correctQuestion": "What is a stump to sit on?",
+        "value": 400
+      },
+      {
+        "clue": "A 'wish list' helps gift-givers know what you want without this shopping problem",
+        "correctQuestion": "What is guessing?",
+        "value": 400
+      },
+      {
+        "clue": "In many cultures, refusing a gift is considered this type of behavior",
+        "correctQuestion": "What is rude?",
+        "value": 600
+      },
+      {
+        "clue": "The practice of giving 13th month salary as a Christmas bonus originated in this European country",
+        "correctQuestion": "What is the Philippines?",
+        "value": 600
+      },
+      {
+        "clue": "A 'Yankee Swap' gift exchange involves this action if you don't like your gift",
+        "correctQuestion": "What is swapping or stealing?",
+        "value": 600
+      },
+      {
+        "clue": "Some families draw names from this container to determine Secret Santa assignments",
+        "correctQuestion": "What is a hat?",
+        "value": 600
+      },
+      {
+        "clue": "Gift cards have become popular but lack this personal quality",
+        "correctQuestion": "What is thoughtfulness?",
+        "value": 600
+      },
+      {
+        "clue": "The tradition of Boxing Day involves giving gifts to these service workers",
+        "correctQuestion": "Who are servants or service workers?",
+        "value": 600
+      },
+      {
+        "clue": "Experience gifts like concert tickets create these instead of clutter",
+        "correctQuestion": "What are memories?",
+        "value": 600
+      },
+      {
+        "clue": "A 'Gift of Time' coupon book gives services like this household task",
+        "correctQuestion": "What are chores?",
+        "value": 600
+      },
+      {
+        "clue": "In The Gift of the Magi, both characters sell their prized possessions showing this theme",
+        "correctQuestion": "What is sacrifice?",
+        "value": 800
+      },
+      {
+        "clue": "Some religions exchange gifts on this January 6th feast day instead of Christmas",
+        "correctQuestion": "What is Epiphany?",
+        "value": 800
+      },
+      {
+        "clue": "A 'No Gift' Christmas focuses on spending this instead of money",
+        "correctQuestion": "What is time together?",
+        "value": 800
+      },
+      {
+        "clue": "The 'four gift rule' limits children to something they want, need, wear, and this",
+        "correctQuestion": "What is read?",
+        "value": 800
+      },
+      {
+        "clue": "Gift-wrapping originated in this Asian country using decorative paper",
+        "correctQuestion": "What is China?",
+        "value": 1000
+      },
+      {
+        "clue": "The psychology of gift-giving activates this brain reward system",
+        "correctQuestion": "What is dopamine release?",
+        "value": 1000
+      },
+      {
+        "clue": "Some families practice 'Invisible Children' by donating the amount they would spend on this",
+        "correctQuestion": "What are gifts for each other?",
+        "value": 1000
+      },
+      {
+        "clue": "The average American spends approximately this many dollars on Christmas gifts annually",
+        "correctQuestion": "What is $1000?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This psychological phenomenon explains why experiences make better gifts than objects",
+        "correctQuestion": "What is the Easterlin paradox?",
+        "value": 200
+      },
+      {
+        "clue": "Black Friday shopping has shifted to this online Monday event",
+        "correctQuestion": "What is Cyber Monday?",
+        "value": 200
+      },
+      {
+        "clue": "This social media trend involves posting Amazon wish lists publicly",
+        "correctQuestion": "What is wish list sharing?",
+        "value": 200
+      },
+      {
+        "clue": "Buy Nothing groups on Facebook promote this alternative to purchasing gifts",
+        "correctQuestion": "What is gift economy?",
+        "value": 200
+      },
+      {
+        "clue": "This sustainable gift trend involves secondhand or vintage items",
+        "correctQuestion": "What is thrifting?",
+        "value": 200
+      },
+      {
+        "clue": "The #AdoptDontShop movement discourages giving these as Christmas gifts",
+        "correctQuestion": "What are pets?",
+        "value": 200
+      },
+      {
+        "clue": "This budgeting app helps track holiday spending to avoid debt",
+        "correctQuestion": "What is Mint?",
+        "value": 200
+      },
+      {
+        "clue": "Gift haul videos on YouTube showcase this materialistic behavior",
+        "correctQuestion": "What is excessive consumption?",
+        "value": 200
+      },
+      {
+        "clue": "The minimalist movement promotes giving this number of meaningful gifts",
+        "correctQuestion": "What is fewer?",
+        "value": 200
+      },
+      {
+        "clue": "This charity model lets you gift livestock to families in developing countries",
+        "correctQuestion": "What is Heifer International?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological bias makes us overvalue gifts we chose ourselves",
+        "correctQuestion": "What is the endowment effect?",
+        "value": 400
+      },
+      {
+        "clue": "BNPL services like Klarna and Afterpay let shoppers do this with gift purchases",
+        "correctQuestion": "What is pay in installments?",
+        "value": 400
+      },
+      {
+        "clue": "The average credit card debt Americans incur from holiday shopping is this amount",
+        "correctQuestion": "What is $1000+?",
+        "value": 400
+      },
+      {
+        "clue": "This TikTok trend involves wrapping gifts in this sustainable newspaper alternative",
+        "correctQuestion": "What is brown kraft paper?",
+        "value": 400
+      },
+      {
+        "clue": "The KonMari method suggests only giving gifts that spark this",
+        "correctQuestion": "What is joy?",
+        "value": 400
+      },
+      {
+        "clue": "This Gen Z trend involves asking for donations to causes instead of gifts",
+        "correctQuestion": "What is charitable giving?",
+        "value": 400
+      },
+      {
+        "clue": "The psychology of gift-giving shows that givers focus on this while recipients value this",
+        "correctQuestion": "What is price vs thoughtfulness?",
+        "value": 400
+      },
+      {
+        "clue": "This controversial practice involves influencers receiving free gifts for promotion",
+        "correctQuestion": "What is gifting or PR packages?",
+        "value": 400
+      },
+      {
+        "clue": "The 'Swedish death cleaning' trend encourages giving away possessions to avoid this",
+        "correctQuestion": "What is burdening family later?",
+        "value": 400
+      },
+      {
+        "clue": "This budgeting rule suggests spending this percentage of income on gifts",
+        "correctQuestion": "What is 1-2 percent?",
+        "value": 400
+      },
+      {
+        "clue": "This economic principle explains why we value handmade gifts more highly",
+        "correctQuestion": "What is the IKEA effect?",
+        "value": 600
+      },
+      {
+        "clue": "Studies show gift-givers underestimate recipients' appreciation for this type of request",
+        "correctQuestion": "What is asking what they want?",
+        "value": 600
+      },
+      {
+        "clue": "This environmental impact of wrapping paper waste totals this many tons annually in the US",
+        "correctQuestion": "What is 4 million tons?",
+        "value": 600
+      },
+      {
+        "clue": "The practice of 'conscious consumption' applies this philosophy to gift-giving",
+        "correctQuestion": "What is intentional purchasing?",
+        "value": 600
+      },
+      {
+        "clue": "This cognitive bias makes us think expensive gifts are better received",
+        "correctQuestion": "What is price-quality heuristic?",
+        "value": 600
+      },
+      {
+        "clue": "The rise of this climate consciousness has led to 'low carbon' gift trends",
+        "correctQuestion": "What is environmental awareness?",
+        "value": 600
+      },
+      {
+        "clue": "This social pressure to reciprocate gifts equally is called this principle",
+        "correctQuestion": "What is reciprocity norm?",
+        "value": 600
+      },
+      {
+        "clue": "The 'Santa clause' employment law requires this many hours off for retail workers",
+        "correctQuestion": "What varies by state?",
+        "value": 600
+      },
+      {
+        "clue": "This percentage of holiday gifts are returned or exchanged annually",
+        "correctQuestion": "What is 10-15 percent?",
+        "value": 800
+      },
+      {
+        "clue": "The circular economy model promotes this alternative to disposable wrapping paper",
+        "correctQuestion": "What is reusable wrap?",
+        "value": 800
+      },
+      {
+        "clue": "This marketing strategy creates artificial scarcity to drive gift purchases",
+        "correctQuestion": "What is limited availability?",
+        "value": 800
+      },
+      {
+        "clue": "Studies show that experiential gifts create this psychological benefit over material ones",
+        "correctQuestion": "What is lasting happiness?",
+        "value": 800
+      },
+      {
+        "clue": "The concept of 'gift debt' describes this social obligation feeling",
+        "correctQuestion": "What is pressure to reciprocate?",
+        "value": 1000
+      },
+      {
+        "clue": "This behavioral economics concept explains why we often give unwanted gifts",
+        "correctQuestion": "What is empathy gap?",
+        "value": 1000
+      },
+      {
+        "clue": "The total US holiday retail sales reach approximately this many billion dollars",
+        "correctQuestion": "What is $900 billion?",
+        "value": 1000
+      },
+      {
+        "clue": "This ethical consumerism trend involves verifying gifts are produced this way",
+        "correctQuestion": "What is fair trade?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The tradition of Christmas gift-giving was popularized by this 4th-century bishop",
+        "correctQuestion": "Who is Saint Nicholas?",
+        "value": 200
+      },
+      {
+        "clue": "Victorian England revived Christmas gift-giving during this monarch's reign",
+        "correctQuestion": "Who is Queen Victoria?",
+        "value": 200
+      },
+      {
+        "clue": "The Magi's gifts to Jesus symbolized kingship, deity, and this third attribute",
+        "correctQuestion": "What is mortality or death?",
+        "value": 200
+      },
+      {
+        "clue": "The Germanic tradition of gift-giving on December 25th replaced this pagan winter solstice festival",
+        "correctQuestion": "What is Yule?",
+        "value": 200
+      },
+      {
+        "clue": "The Boxing Day tradition originated in this European country",
+        "correctQuestion": "What is England?",
+        "value": 200
+      },
+      {
+        "clue": "Marcel Mauss' anthropological study The Gift established this theory of reciprocity",
+        "correctQuestion": "What is gift economy?",
+        "value": 200
+      },
+      {
+        "clue": "The Federal Trade Commission regulates this deceptive gift-giving practice",
+        "correctQuestion": "What is bait and switch?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological phenomenon explains why regifting feels uncomfortable",
+        "correctQuestion": "What is contamination effect?",
+        "value": 200
+      },
+      {
+        "clue": "The commercial Christmas season was established by this 19th-century retailer innovation",
+        "correctQuestion": "What are department stores?",
+        "value": 200
+      },
+      {
+        "clue": "Gift tax exemption in the US allows annual gifts up to this amount per recipient",
+        "correctQuestion": "What is $17,000?",
+        "value": 200
+      },
+      {
+        "clue": "The medieval Lord of Misrule tradition involved gift exchanges during this period",
+        "correctQuestion": "What is the Twelve Days of Christmas?",
+        "value": 400
+      },
+      {
+        "clue": "Japanese gift-giving etiquette requires wrapping in this traditional cloth",
+        "correctQuestion": "What is furoshiki?",
+        "value": 400
+      },
+      {
+        "clue": "The anthropological concept of 'potlatch' involves this competitive gift-giving practice",
+        "correctQuestion": "What is status through generosity?",
+        "value": 400
+      },
+      {
+        "clue": "Consumer psychology shows that gift-givers prioritize this over recipient preference",
+        "correctQuestion": "What is their own taste?",
+        "value": 400
+      },
+      {
+        "clue": "The charitable deduction for gifts reduces taxable income by this mechanism",
+        "correctQuestion": "What is itemized deduction?",
+        "value": 400
+      },
+      {
+        "clue": "This economist coined the term 'deadweight loss of Christmas' in 1993",
+        "correctQuestion": "Who is Joel Waldfogel?",
+        "value": 400
+      },
+      {
+        "clue": "The Puritan ban on Christmas in 17th-century England prohibited this practice",
+        "correctQuestion": "What is gift-giving?",
+        "value": 400
+      },
+      {
+        "clue": "The psychology of gift cards reveals they function as this economic instrument",
+        "correctQuestion": "What is a store subsidy?",
+        "value": 400
+      },
+      {
+        "clue": "Ancient Roman Saturnalia gift-giving involved these wax figurines",
+        "correctQuestion": "What are sigillaria?",
+        "value": 400
+      },
+      {
+        "clue": "The modern Santa Claus gift-giving image was solidified by this 1930s advertising campaign",
+        "correctQuestion": "What is Coca-Cola?",
+        "value": 400
+      },
+      {
+        "clue": "Medieval guilds practiced 'Yule gift' exchanges to reinforce this social structure",
+        "correctQuestion": "What is hierarchy?",
+        "value": 600
+      },
+      {
+        "clue": "The cultural anthropology of gift exchange was established by this French sociologist",
+        "correctQuestion": "Who is Marcel Mauss?",
+        "value": 600
+      },
+      {
+        "clue": "Behavioral economics shows gift-giving often violates this principle of utility maximization",
+        "correctQuestion": "What is Pareto efficiency?",
+        "value": 600
+      },
+      {
+        "clue": "The IRS requires reporting gifts over this annual exclusion amount",
+        "correctQuestion": "What is $17,000?",
+        "value": 600
+      },
+      {
+        "clue": "Chinese gift-giving etiquette prohibits gifts in this number associated with death",
+        "correctQuestion": "What is four?",
+        "value": 600
+      },
+      {
+        "clue": "The Protestant Reformation initially rejected Christmas gift-giving as this practice",
+        "correctQuestion": "What is Catholic paganism?",
+        "value": 600
+      },
+      {
+        "clue": "Gift registry systems solve this information asymmetry problem in economics",
+        "correctQuestion": "What is preference revelation?",
+        "value": 600
+      },
+      {
+        "clue": "The medieval tradition of 'Wassailing' combined gift-giving with this social practice",
+        "correctQuestion": "What is door-to-door singing?",
+        "value": 600
+      },
+      {
+        "clue": "Waldfogel's research estimates gift-giving destroys this percentage of value",
+        "correctQuestion": "What is 10-33 percent?",
+        "value": 800
+      },
+      {
+        "clue": "The Kula ring gift exchange system in Melanesia demonstrates this anthropological principle",
+        "correctQuestion": "What is ceremonial exchange?",
+        "value": 800
+      },
+      {
+        "clue": "The commercial Christmas was criticized by this 1950s sociologist as false consciousness",
+        "correctQuestion": "Who is Theodor Adorno?",
+        "value": 800
+      },
+      {
+        "clue": "Estate tax planning uses this annual exclusion gifting strategy",
+        "correctQuestion": "What is wealth transfer?",
+        "value": 800
+      },
+      {
+        "clue": "The economic theory of gift-giving as signal sending was developed by this game theorist",
+        "correctQuestion": "Who is Michael Spence?",
+        "value": 1000
+      },
+      {
+        "clue": "The anthropological study of gift exchange established this three-part obligation",
+        "correctQuestion": "What is give, receive, reciprocate?",
+        "value": 1000
+      },
+      {
+        "clue": "The Uniform Gifts to Minors Act allows tax-advantaged transfers through this vehicle",
+        "correctQuestion": "What is custodial account?",
+        "value": 1000
+      },
+      {
+        "clue": "Victorian Christmas gift-giving was influenced by this Charles Dickens 1843 novella",
+        "correctQuestion": "What is A Christmas Carol?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Santa's real workshop location",
+        "correctQuestion": "What is a Chinese sweatshop?",
+        "value": 200
+      },
+      {
+        "clue": "Millennial Christmas gift budget",
+        "correctQuestion": "What is zero dollars?",
+        "value": 200
+      },
+      {
+        "clue": "Where Santa actually shops",
+        "correctQuestion": "What is Amazon?",
+        "value": 200
+      },
+      {
+        "clue": "Gift card that buys one coffee",
+        "correctQuestion": "What is Starbucks?",
+        "value": 200
+      },
+      {
+        "clue": "What ruined Christmas 2020",
+        "correctQuestion": "What is COVID-19?",
+        "value": 200
+      },
+      {
+        "clue": "Where aunts push MLM gifts",
+        "correctQuestion": "What is Facebook?",
+        "value": 200
+      },
+      {
+        "clue": "Gift your parents can't use",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "$60 to buy toilet paper",
+        "correctQuestion": "What is Costco?",
+        "value": 200
+      },
+      {
+        "clue": "App exposing your ex payments",
+        "correctQuestion": "What is Venmo?",
+        "value": 200
+      },
+      {
+        "clue": "Amazon's shopping disaster day",
+        "correctQuestion": "What is Cyber Monday?",
+        "value": 400
+      },
+      {
+        "clue": "Wrapping paper costs $347 here",
+        "correctQuestion": "What is Target?",
+        "value": 400
+      },
+      {
+        "clue": "What Gen Z actually wants",
+        "correctQuestion": "What is student loan forgiveness?",
+        "value": 400
+      },
+      {
+        "clue": "$100K electric car gift",
+        "correctQuestion": "What is Tesla?",
+        "value": 400
+      },
+      {
+        "clue": "$43 Christmas Eve delivery fee",
+        "correctQuestion": "What is DoorDash?",
+        "value": 400
+      },
+      {
+        "clue": "Surveillance device under your tree",
+        "correctQuestion": "What is Alexa?",
+        "value": 400
+      },
+      {
+        "clue": "Gen Z gift haul platform",
+        "correctQuestion": "What is TikTok?",
+        "value": 400
+      },
+      {
+        "clue": "$1000/month gift everyone wants",
+        "correctQuestion": "What is Ozempic?",
+        "value": 400
+      },
+      {
+        "clue": "Gift card meaning you're lazy",
+        "correctQuestion": "What is Uber?",
+        "value": 400
+      },
+      {
+        "clue": "Toy store Amazon murdered",
+        "correctQuestion": "What is Toys R Us?",
+        "value": 400
+      },
+      {
+        "clue": "What replaced thank you cards",
+        "correctQuestion": "What is a group text?",
+        "value": 600
+      },
+      {
+        "clue": "Real miracle Millennials need",
+        "correctQuestion": "What is affordable housing?",
+        "value": 600
+      },
+      {
+        "clue": "Defrosted pop star's annual payday",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 600
+      },
+      {
+        "clue": "Name that ruins Christmas dinner",
+        "correctQuestion": "Who is Trump?",
+        "value": 600
+      },
+      {
+        "clue": "$11 monthly subscription gift trap",
+        "correctQuestion": "What is Spotify?",
+        "value": 600
+      },
+      {
+        "clue": "Debt in four easy payments",
+        "correctQuestion": "What is Afterpay?",
+        "value": 600
+      },
+      {
+        "clue": "Company with insane Christmas bonuses",
+        "correctQuestion": "What is Google?",
+        "value": 600
+      },
+      {
+        "clue": "Topic ruining dinner since 2020",
+        "correctQuestion": "What is the COVID vaccine?",
+        "value": 600
+      },
+      {
+        "clue": "Where influencers flex gift hauls",
+        "correctQuestion": "What is Instagram?",
+        "value": 600
+      },
+      {
+        "clue": "What killed Christmas spirit",
+        "correctQuestion": "What is capitalism?",
+        "value": 800
+      },
+      {
+        "clue": "Billionaire ruining Twitter all December",
+        "correctQuestion": "Who is Elon Musk?",
+        "value": 800
+      },
+      {
+        "clue": "$100K decoration requirement family",
+        "correctQuestion": "What is the Kardashians?",
+        "value": 800
+      },
+      {
+        "clue": "$78 grocery delivery ripoff",
+        "correctQuestion": "What is Instacart?",
+        "value": 800
+      },
+      {
+        "clue": "Platform where grandparents can't unmute",
+        "correctQuestion": "What is Zoom?",
+        "value": 1000
+      },
+      {
+        "clue": "$65 monthly junk box scam",
+        "correctQuestion": "What is a subscription box?",
+        "value": 1000
+      },
+      {
+        "clue": "$15 for three movies forever",
+        "correctQuestion": "What is Disney Plus?",
+        "value": 1000
+      },
+      {
+        "clue": "Where employees can't afford gifts",
+        "correctQuestion": "What is Walmart?",
+        "value": 1000
+      }
+    ]
+  }
+}

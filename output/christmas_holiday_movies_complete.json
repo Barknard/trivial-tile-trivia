@@ -1,0 +1,922 @@
+{
+  "category": "Christmas Movies",
+  "theme": "christmas",
+  "category_id": "holiday_movies",
+  "description": "Classic and modern Christmas films",
+  "age_suitability": "All ages",
+  "research_alignment": "Pop culture recognition, narrative comprehension, visual memory",
+  "generated_date": "2025-12-26",
+  "total_questions": 180,
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This snowman comes to life when a magic hat is placed on his head",
+        "correctQuestion": "Who is Frosty?",
+        "value": 200
+      },
+      {
+        "clue": "This reindeer with a shiny red nose helps Santa on a foggy Christmas Eve",
+        "correctQuestion": "Who is Rudolph?",
+        "value": 200
+      },
+      {
+        "clue": "This green character tries to steal Christmas from the Whos",
+        "correctQuestion": "Who is the Grinch?",
+        "value": 200
+      },
+      {
+        "clue": "In Frozen, these two sisters are named Anna and this icy sister",
+        "correctQuestion": "Who is Elsa?",
+        "value": 200
+      },
+      {
+        "clue": "This is the color of Rudolph's nose",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "Santa rides in this to deliver presents",
+        "correctQuestion": "What is a sleigh?",
+        "value": 200
+      },
+      {
+        "clue": "The Grinch's dog is named this",
+        "correctQuestion": "Who is Max?",
+        "value": 200
+      },
+      {
+        "clue": "This snowman says 'Some people are worth melting for'",
+        "correctQuestion": "Who is Olaf?",
+        "value": 200
+      },
+      {
+        "clue": "Frosty has a nose made of this",
+        "correctQuestion": "What is a button?",
+        "value": 400
+      },
+      {
+        "clue": "These animals pull Santa's sleigh in most Christmas movies",
+        "correctQuestion": "What are reindeer?",
+        "value": 400
+      },
+      {
+        "clue": "In Mickey's Christmas Carol, Mickey Mouse plays this tiny character",
+        "correctQuestion": "Who is Tiny Tim?",
+        "value": 400
+      },
+      {
+        "clue": "The Polar Express train takes children to this place",
+        "correctQuestion": "What is the North Pole?",
+        "value": 400
+      },
+      {
+        "clue": "This train in a Christmas movie gives children hot chocolate",
+        "correctQuestion": "What is the Polar Express?",
+        "value": 400
+      },
+      {
+        "clue": "In Arthur Christmas, this is Santa's son who saves Christmas",
+        "correctQuestion": "Who is Arthur?",
+        "value": 400
+      },
+      {
+        "clue": "Rudolph's nose does this special thing",
+        "correctQuestion": "What is glow?",
+        "value": 400
+      },
+      {
+        "clue": "The Grinch lives on top of this mountain",
+        "correctQuestion": "What is Mount Crumpit?",
+        "value": 400
+      },
+      {
+        "clue": "These are the small helpers who work with Santa in movies",
+        "correctQuestion": "What are elves?",
+        "value": 400
+      },
+      {
+        "clue": "This color is the Grinch",
+        "correctQuestion": "What is green?",
+        "value": 200
+      },
+      {
+        "clue": "In The Muppet Christmas Carol, this frog plays Bob Cratchit",
+        "correctQuestion": "Who is Kermit?",
+        "value": 600
+      },
+      {
+        "clue": "This is where the Grinch steals all the presents and trees",
+        "correctQuestion": "What is Whoville?",
+        "value": 600
+      },
+      {
+        "clue": "Santa Claus wears a suit that is this color",
+        "correctQuestion": "What is red?",
+        "value": 200
+      },
+      {
+        "clue": "This magical item brings Frosty the Snowman to life",
+        "correctQuestion": "What is a hat?",
+        "value": 600
+      },
+      {
+        "clue": "Buddy the Elf was raised by these small Christmas helpers",
+        "correctQuestion": "What are elves?",
+        "value": 600
+      },
+      {
+        "clue": "The Grinch's heart grows this many sizes",
+        "correctQuestion": "What is three?",
+        "value": 600
+      },
+      {
+        "clue": "In Rudolph, this elf wants to be a dentist",
+        "correctQuestion": "Who is Hermey?",
+        "value": 600
+      },
+      {
+        "clue": "This little girl befriends the Grinch in the live action movie",
+        "correctQuestion": "Who is Cindy Lou Who?",
+        "value": 600
+      },
+      {
+        "clue": "In A Christmas Story, Ralphie wants this toy for Christmas",
+        "correctQuestion": "What is a BB gun?",
+        "value": 800
+      },
+      {
+        "clue": "This vehicle takes children on a magical trip in The Polar Express",
+        "correctQuestion": "What is a train?",
+        "value": 800
+      },
+      {
+        "clue": "Jack Skellington is the king of this town",
+        "correctQuestion": "What is Halloween Town?",
+        "value": 800
+      },
+      {
+        "clue": "Santa checks his list this many times in the song",
+        "correctQuestion": "What is twice?",
+        "value": 800
+      },
+      {
+        "clue": "In Elf, Buddy puts this syrup on his spaghetti",
+        "correctQuestion": "What is maple syrup?",
+        "value": 800
+      },
+      {
+        "clue": "These are the four main food groups for elves according to Buddy",
+        "correctQuestion": "What are candy, candy canes, candy corn, and syrup?",
+        "value": 1000
+      },
+      {
+        "clue": "The Polar Express gives children this special item as their first gift",
+        "correctQuestion": "What is a bell?",
+        "value": 1000
+      },
+      {
+        "clue": "In How the Grinch Stole Christmas, the Whos sing this even without presents",
+        "correctQuestion": "What is a Christmas song?",
+        "value": 1000
+      },
+      {
+        "clue": "This reindeer never lets poor Rudolph join in any reindeer games",
+        "correctQuestion": "Who are the other reindeer?",
+        "value": 1000
+      },
+      {
+        "clue": "Frosty says 'Happy Birthday' when he does this",
+        "correctQuestion": "What is come to life?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This 2003 Will Ferrell movie features a human raised by elves at the North Pole",
+        "correctQuestion": "What is Elf?",
+        "value": 200
+      },
+      {
+        "clue": "In Home Alone, Kevin uses this sticky trap on the stairs to stop the burglars",
+        "correctQuestion": "What is tar?",
+        "value": 200
+      },
+      {
+        "clue": "This 1993 Tim Burton film features Jack Skellington discovering Christmas",
+        "correctQuestion": "What is The Nightmare Before Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "Jim Carrey played this green Christmas villain in a 2000 live-action film",
+        "correctQuestion": "Who is the Grinch?",
+        "value": 200
+      },
+      {
+        "clue": "In The Polar Express, this actor voices the conductor, Santa, and the boy's father",
+        "correctQuestion": "Who is Tom Hanks?",
+        "value": 200
+      },
+      {
+        "clue": "This Christmas classic features a boy named Ralphie who wants a Red Ryder BB gun",
+        "correctQuestion": "What is A Christmas Story?",
+        "value": 200
+      },
+      {
+        "clue": "In Elf, Buddy travels from the North Pole to this city to find his father",
+        "correctQuestion": "What is New York City?",
+        "value": 200
+      },
+      {
+        "clue": "Kevin McCallister is left behind in this city in Home Alone",
+        "correctQuestion": "What is Chicago?",
+        "value": 200
+      },
+      {
+        "clue": "This is the name of the Grinch's dog companion",
+        "correctQuestion": "Who is Max?",
+        "value": 200
+      },
+      {
+        "clue": "In Home Alone 2, Kevin gets lost in this big city",
+        "correctQuestion": "What is New York?",
+        "value": 200
+      },
+      {
+        "clue": "This animated film features Rudolph and an elf who wants to be a dentist",
+        "correctQuestion": "What is Rudolph the Red-Nosed Reindeer?",
+        "value": 400
+      },
+      {
+        "clue": "In Elf, Buddy answers phones at Gimbels with this cheerful greeting",
+        "correctQuestion": "What is 'Buddy the Elf, what's your favorite color?'?",
+        "value": 400
+      },
+      {
+        "clue": "The four main elf food groups according to Buddy are candy, candy canes, candy corn, and this",
+        "correctQuestion": "What is syrup?",
+        "value": 400
+      },
+      {
+        "clue": "In The Santa Clause, Scott Calvin becomes Santa after the previous Santa does this",
+        "correctQuestion": "What is fall off the roof?",
+        "value": 400
+      },
+      {
+        "clue": "In Home Alone, the burglars call themselves the Wet Bandits because they leave this behind",
+        "correctQuestion": "What is running water?",
+        "value": 400
+      },
+      {
+        "clue": "This classic Christmas movie features George Bailey and an angel named Clarence",
+        "correctQuestion": "What is It's a Wonderful Life?",
+        "value": 400
+      },
+      {
+        "clue": "In A Christmas Story, Ralphie's friend gets his tongue stuck to this",
+        "correctQuestion": "What is a flagpole?",
+        "value": 400
+      },
+      {
+        "clue": "The Grinch hates Christmas because his heart is this many sizes too small",
+        "correctQuestion": "What is two?",
+        "value": 400
+      },
+      {
+        "clue": "In The Polar Express, only people who do this can hear the silver bell ring",
+        "correctQuestion": "What is believe?",
+        "value": 400
+      },
+      {
+        "clue": "This elf is Santa's son in the 2011 film Arthur Christmas",
+        "correctQuestion": "Who is Arthur?",
+        "value": 400
+      },
+      {
+        "clue": "In Jingle All the Way, Arnold Schwarzenegger searches for this popular action figure",
+        "correctQuestion": "What is Turbo Man?",
+        "value": 600
+      },
+      {
+        "clue": "This 1946 film asks if there really is a Santa Claus after a Macy's Santa claims to be the real one",
+        "correctQuestion": "What is Miracle on 34th Street?",
+        "value": 600
+      },
+      {
+        "clue": "In The Santa Clause, the card Scott finds says he must report to this pole",
+        "correctQuestion": "What is the North Pole?",
+        "value": 600
+      },
+      {
+        "clue": "Kevin McCallister's family forgets him when they travel to this European city in Home Alone",
+        "correctQuestion": "What is Paris?",
+        "value": 600
+      },
+      {
+        "clue": "In Elf, Buddy discovers his real father works in this building in New York",
+        "correctQuestion": "What is the Empire State Building?",
+        "value": 600
+      },
+      {
+        "clue": "This live-action 2018 movie features a grumpy man who plots to trap Santa Claus",
+        "correctQuestion": "What is The Christmas Chronicles?",
+        "value": 600
+      },
+      {
+        "clue": "In Mickey's Christmas Carol, Scrooge McDuck plays this miser character",
+        "correctQuestion": "Who is Ebenezer Scrooge?",
+        "value": 600
+      },
+      {
+        "clue": "The Grinch carves this holiday feast when he prepares to dine alone",
+        "correctQuestion": "What is a roast beast?",
+        "value": 600
+      },
+      {
+        "clue": "In Fred Claus, this actor plays Santa's troublemaking older brother",
+        "correctQuestion": "Who is Vince Vaughn?",
+        "value": 800
+      },
+      {
+        "clue": "The misfit toys live on this Island in Rudolph the Red-Nosed Reindeer",
+        "correctQuestion": "What is the Island of Misfit Toys?",
+        "value": 800
+      },
+      {
+        "clue": "In Elf, the fake Santa at Gimbels doesn't smell like Santa; he smells like this",
+        "correctQuestion": "What is beef and cheese?",
+        "value": 800
+      },
+      {
+        "clue": "In The Muppet Christmas Carol, Gonzo narrates as this famous author",
+        "correctQuestion": "Who is Charles Dickens?",
+        "value": 800
+      },
+      {
+        "clue": "Home Alone's Kevin says 'Merry Christmas, ya filthy' this",
+        "correctQuestion": "What is animal?",
+        "value": 800
+      },
+      {
+        "clue": "In The Year Without a Santa Claus, these two Miser brothers control heat and cold",
+        "correctQuestion": "Who are Heat Miser and Snow Miser?",
+        "value": 1000
+      },
+      {
+        "clue": "In Elf, Buddy tested toys at the North Pole but his production numbers were this percentage of normal",
+        "correctQuestion": "What is 10 percent?",
+        "value": 1000
+      },
+      {
+        "clue": "The Polar Express conductor punches tickets with letters that eventually spell this word",
+        "correctQuestion": "What is BELIEVE?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This 1988 action film set in Nakatomi Plaza has become a controversial Christmas movie favorite",
+        "correctQuestion": "What is Die Hard?",
+        "value": 200
+      },
+      {
+        "clue": "In Love Actually, this British actor plays the Prime Minister who falls for his staff member",
+        "correctQuestion": "Who is Hugh Grant?",
+        "value": 200
+      },
+      {
+        "clue": "This 2004 animated Polar Express film used this motion-capture technology for the first time",
+        "correctQuestion": "What is performance capture?",
+        "value": 200
+      },
+      {
+        "clue": "The 1990 film Edward Scissorhands is set during this holiday season",
+        "correctQuestion": "What is Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "In The Holiday, Cameron Diaz and Kate Winslet swap homes in LA and this English region",
+        "correctQuestion": "What is Surrey?",
+        "value": 200
+      },
+      {
+        "clue": "This 2015 horror-comedy features a demonic creature terrorizing a family at Christmas",
+        "correctQuestion": "What is Krampus?",
+        "value": 200
+      },
+      {
+        "clue": "In Elf, Zooey Deschanel's character works at this department store",
+        "correctQuestion": "What is Gimbels?",
+        "value": 200
+      },
+      {
+        "clue": "This Christmas movie sequel features Macaulay Culkin at the Plaza Hotel in New York",
+        "correctQuestion": "What is Home Alone 2: Lost in New York?",
+        "value": 200
+      },
+      {
+        "clue": "The 1954 musical White Christmas stars Bing Crosby and this actress",
+        "correctQuestion": "Who is Rosemary Clooney?",
+        "value": 200
+      },
+      {
+        "clue": "In Gremlins, you must never feed Mogwai after this time",
+        "correctQuestion": "What is midnight?",
+        "value": 200
+      },
+      {
+        "clue": "This streaming service produced the 2020 film Jingle Jangle featuring Forest Whitaker",
+        "correctQuestion": "What is Netflix?",
+        "value": 400
+      },
+      {
+        "clue": "The plot of Four Christmases requires Reese Witherspoon and Vince Vaughn to visit this many families",
+        "correctQuestion": "What is four?",
+        "value": 400
+      },
+      {
+        "clue": "In National Lampoon's Christmas Vacation, Clark Griswold uses this many lights on his house",
+        "correctQuestion": "What is 25,000?",
+        "value": 400
+      },
+      {
+        "clue": "This 2019 film Last Christmas was inspired by the music of this pop duo",
+        "correctQuestion": "Who is Wham!?",
+        "value": 400
+      },
+      {
+        "clue": "Anna Kendrick voices this character in the animated Noelle about Santa's daughter",
+        "correctQuestion": "Who is Noelle?",
+        "value": 400
+      },
+      {
+        "clue": "In The Family Man, Nicolas Cage gets a glimpse of what his life could have been if he made this choice",
+        "correctQuestion": "What is stay with his girlfriend?",
+        "value": 400
+      },
+      {
+        "clue": "This 1989 National Lampoon film has become a holiday staple featuring the Griswold family",
+        "correctQuestion": "What is Christmas Vacation?",
+        "value": 400
+      },
+      {
+        "clue": "In Elf, Will Ferrell's character was raised at the North Pole after crawling into Santa's bag at this location",
+        "correctQuestion": "What is an orphanage?",
+        "value": 400
+      },
+      {
+        "clue": "This rom-com features Emma Roberts and Luke Bracey faking relationships to avoid family questions",
+        "correctQuestion": "What is Holidate?",
+        "value": 400
+      },
+      {
+        "clue": "Kurt Russell plays Santa in this 2018 Netflix Christmas film",
+        "correctQuestion": "What is The Christmas Chronicles?",
+        "value": 400
+      },
+      {
+        "clue": "In Bad Santa, Billy Bob Thornton's character works as this during the holidays to rob stores",
+        "correctQuestion": "What is a mall Santa?",
+        "value": 600
+      },
+      {
+        "clue": "The 2006 film The Holiday features this British actor as Kate Winslet's love interest",
+        "correctQuestion": "Who is Jack Black?",
+        "value": 600
+      },
+      {
+        "clue": "Scrooged is a modern retelling of A Christmas Carol starring this SNL alumnus",
+        "correctQuestion": "Who is Bill Murray?",
+        "value": 600
+      },
+      {
+        "clue": "In Love Actually, the character played by Colin Firth proposes in this language",
+        "correctQuestion": "What is Portuguese?",
+        "value": 600
+      },
+      {
+        "clue": "The Princess Switch trilogy on Netflix features Vanessa Hudgens playing this many lookalike roles",
+        "correctQuestion": "What is three?",
+        "value": 600
+      },
+      {
+        "clue": "In Happiest Season, Kristen Stewart plays a woman whose girlfriend hasn't come out to this group",
+        "correctQuestion": "Who is her family?",
+        "value": 600
+      },
+      {
+        "clue": "This 1994 Tim Allen film sparked a trilogy about becoming Santa Claus after an accident",
+        "correctQuestion": "What is The Santa Clause?",
+        "value": 600
+      },
+      {
+        "clue": "Trading Places, starring Eddie Murphy and Dan Aykroyd, is set during this holiday season",
+        "correctQuestion": "What is Christmas?",
+        "value": 600
+      },
+      {
+        "clue": "In A Christmas Prince, this streaming platform launched a successful trilogy of royal romance",
+        "correctQuestion": "What is Netflix?",
+        "value": 800
+      },
+      {
+        "clue": "This SNL cast member starred in the 2015 comedy Sisters with Amy Poehler",
+        "correctQuestion": "Who is Tina Fey?",
+        "value": 800
+      },
+      {
+        "clue": "The Santa Clause 2 introduces this actress as the new Mrs. Claus",
+        "correctQuestion": "Who is Elizabeth Mitchell?",
+        "value": 800
+      },
+      {
+        "clue": "In Jingle All the Way, Arnold's rival for the Turbo Man doll is played by this actor",
+        "correctQuestion": "Who is Sinbad?",
+        "value": 800
+      },
+      {
+        "clue": "This 2022 action-comedy features David Harbour as Santa fighting mercenaries",
+        "correctQuestion": "What is Violent Night?",
+        "value": 800
+      },
+      {
+        "clue": "The film Fatman features Mel Gibson as a this grittier, realistic version of Santa",
+        "correctQuestion": "What is a disillusioned Santa?",
+        "value": 1000
+      },
+      {
+        "clue": "In Christmas with the Kranks, Tim Allen and Jamie Lee Curtis try to skip Christmas for this vacation destination",
+        "correctQuestion": "What is a Caribbean cruise?",
+        "value": 1000
+      },
+      {
+        "clue": "This Hallmark Channel rival launched on cable TV and features year-round Christmas movies",
+        "correctQuestion": "What is Lifetime?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This 1942 musical starring Bing Crosby features the most-recorded Christmas song of all time",
+        "correctQuestion": "What is Holiday Inn?",
+        "value": 200
+      },
+      {
+        "clue": "Director Frank Capra's 1946 classic It's a Wonderful Life initially received this kind of box office reception",
+        "correctQuestion": "What is disappointing?",
+        "value": 200
+      },
+      {
+        "clue": "The 1947 film Miracle on 34th Street was filmed at this actual New York department store",
+        "correctQuestion": "What is Macy's?",
+        "value": 200
+      },
+      {
+        "clue": "Charles Dickens published A Christmas Carol in this year",
+        "correctQuestion": "What is 1843?",
+        "value": 200
+      },
+      {
+        "clue": "The 1951 version of A Christmas Carol starring Alastair Sim is considered by critics to be this relative quality",
+        "correctQuestion": "What is the best adaptation?",
+        "value": 200
+      },
+      {
+        "clue": "White Christmas was the first movie filmed in this widescreen process",
+        "correctQuestion": "What is VistaVision?",
+        "value": 200
+      },
+      {
+        "clue": "The original Miracle on 34th Street won Academy Awards in these three categories",
+        "correctQuestion": "What are Best Supporting Actor, Best Story, and Best Screenplay?",
+        "value": 200
+      },
+      {
+        "clue": "Frosty the Snowman first appeared as a song in this year before becoming a 1969 TV special",
+        "correctQuestion": "What is 1950?",
+        "value": 200
+      },
+      {
+        "clue": "Bob Clark directed both A Christmas Story and this controversial 1974 horror film",
+        "correctQuestion": "What is Black Christmas?",
+        "value": 200
+      },
+      {
+        "clue": "The Rankin/Bass Production Company created their stop-motion specials using this animation technique",
+        "correctQuestion": "What is Animagic?",
+        "value": 200
+      },
+      {
+        "clue": "It's a Wonderful Life entered public domain after this legal oversight in the 1970s",
+        "correctQuestion": "What is failure to renew copyright?",
+        "value": 400
+      },
+      {
+        "clue": "The leg lamp in A Christmas Story is described as a 'major award' from this fictitious company",
+        "correctQuestion": "What is Fra-GEE-lay?",
+        "value": 400
+      },
+      {
+        "clue": "Elf director Jon Favreau later directed the first two films in this Marvel franchise",
+        "correctQuestion": "What is Iron Man?",
+        "value": 400
+      },
+      {
+        "clue": "The Muppet Christmas Carol features this actor as Ebenezer Scrooge in a non-Muppet role",
+        "correctQuestion": "Who is Michael Caine?",
+        "value": 400
+      },
+      {
+        "clue": "Home Alone was written and produced by this legendary filmmaker",
+        "correctQuestion": "Who is John Hughes?",
+        "value": 400
+      },
+      {
+        "clue": "The Nightmare Before Christmas was directed by this stop-motion animation pioneer",
+        "correctQuestion": "Who is Henry Selick?",
+        "value": 400
+      },
+      {
+        "clue": "Trading Places' plot involves a social experiment based on this nature vs nurture concept",
+        "correctQuestion": "What is whether environment or heredity determines success?",
+        "value": 400
+      },
+      {
+        "clue": "In Die Hard, Bruce Willis' character is in LA to reconcile with his wife during this company's Christmas party",
+        "correctQuestion": "What is Nakatomi Corporation?",
+        "value": 400
+      },
+      {
+        "clue": "The 2003 film Bad Santa was originally rated this by the MPAA before edits",
+        "correctQuestion": "What is NC-17?",
+        "value": 400
+      },
+      {
+        "clue": "Klaus, the 2019 Netflix film, pioneered this animation technique blending 2D and 3D",
+        "correctQuestion": "What is 2D digital hand-drawn with volumetric lighting?",
+        "value": 400
+      },
+      {
+        "clue": "The Santa Clause's plot hinges on this legal concept requiring Scott to become Santa",
+        "correctQuestion": "What is the Santa Clause (a legally binding contract)?",
+        "value": 600
+      },
+      {
+        "clue": "Gremlins was produced by this legendary filmmaker who also executive produced Back to the Future",
+        "correctQuestion": "Who is Steven Spielberg?",
+        "value": 600
+      },
+      {
+        "clue": "National Lampoon's Christmas Vacation grossed only $71 million domestically but has earned this amount in home video sales",
+        "correctQuestion": "What is over $1 billion?",
+        "value": 600
+      },
+      {
+        "clue": "Love Actually director Richard Curtis also wrote this 1994 Hugh Grant romantic comedy",
+        "correctQuestion": "What is Four Weddings and a Funeral?",
+        "value": 600
+      },
+      {
+        "clue": "The 1974 horror film Black Christmas is considered one of the first examples of this subgenre",
+        "correctQuestion": "What is the slasher film?",
+        "value": 600
+      },
+      {
+        "clue": "Scrooged updated A Christmas Carol by setting it at this type of entertainment company",
+        "correctQuestion": "What is a television network?",
+        "value": 600
+      },
+      {
+        "clue": "The Holiday's screenplay was written by this writer-director known for rom-coms",
+        "correctQuestion": "Who is Nancy Meyers?",
+        "value": 600
+      },
+      {
+        "clue": "A Christmas Story is narrated by the adult Ralphie voiced by this director",
+        "correctQuestion": "Who is Jean Shepherd?",
+        "value": 600
+      },
+      {
+        "clue": "The original Miracle on 34th Street was released in this summer month to capitalize on vacation audiences",
+        "correctQuestion": "What is June?",
+        "value": 800
+      },
+      {
+        "clue": "This composer created the scores for both Home Alone and The Polar Express",
+        "correctQuestion": "Who is John Williams?",
+        "value": 800
+      },
+      {
+        "clue": "Elf's screenwriter David Berenbaum originally wrote the script in this decade before production",
+        "correctQuestion": "What is the 1990s?",
+        "value": 800
+      },
+      {
+        "clue": "The Nightmare Before Christmas took this many years to produce due to stop-motion complexity",
+        "correctQuestion": "What is three years?",
+        "value": 800
+      },
+      {
+        "clue": "Die Hard is based on this 1979 novel by Roderick Thorp",
+        "correctQuestion": "What is Nothing Lasts Forever?",
+        "value": 800
+      },
+      {
+        "clue": "White Christmas was Paramount's highest-grossing film until this classic superseded it",
+        "correctQuestion": "What is The Ten Commandments?",
+        "value": 1000
+      },
+      {
+        "clue": "Rankin/Bass produced their Christmas specials primarily in this Asian country",
+        "correctQuestion": "What is Japan?",
+        "value": 1000
+      },
+      {
+        "clue": "The Polar Express was the first all-digital capture film to be shot entirely in this type of space",
+        "correctQuestion": "What is a soundstage without sets?",
+        "value": 1000
+      }
+    ],
+    "no_humanity": [
+      {
+        "clue": "Die Hard debate starter",
+        "correctQuestion": "What is Netflix?",
+        "value": 200
+      },
+      {
+        "clue": "2015 War on Christmas battleground",
+        "correctQuestion": "What is Starbucks?",
+        "value": 200
+      },
+      {
+        "clue": "Jingle All the Way blood sport",
+        "correctQuestion": "What is Walmart?",
+        "value": 200
+      },
+      {
+        "clue": "Kevin's parents' 2025 criminal charge",
+        "correctQuestion": "What is child endangerment?",
+        "value": 200
+      },
+      {
+        "clue": "Hallmark's solution to everything",
+        "correctQuestion": "What is a Christmas cookie shop?",
+        "value": 200
+      },
+      {
+        "clue": "What replaced Santa's workshop",
+        "correctQuestion": "What is Amazon Prime?",
+        "value": 200
+      },
+      {
+        "clue": "What ruined Christmas 2020",
+        "correctQuestion": "What is COVID-19?",
+        "value": 200
+      },
+      {
+        "clue": "Buddy the Elf's diagnosis",
+        "correctQuestion": "What is ADHD?",
+        "value": 200
+      },
+      {
+        "clue": "How Santa fits down chimneys now",
+        "correctQuestion": "What is Ozempic?",
+        "value": 200
+      },
+      {
+        "clue": "What ruined Home Alone's plot",
+        "correctQuestion": "What is an iPhone?",
+        "value": 200
+      },
+      {
+        "clue": "Where Love Actually gets cancelled",
+        "correctQuestion": "What is TikTok?",
+        "value": 400
+      },
+      {
+        "clue": "What Die Hard is really about",
+        "correctQuestion": "What is toxic masculinity?",
+        "value": 400
+      },
+      {
+        "clue": "Hallmark career woman's new job",
+        "correctQuestion": "What is a small-town lumberjack?",
+        "value": 400
+      },
+      {
+        "clue": "Kevin's mom's better travel option",
+        "correctQuestion": "What is Uber?",
+        "value": 400
+      },
+      {
+        "clue": "What killed Christmas cards",
+        "correctQuestion": "What is Instagram?",
+        "value": 400
+      },
+      {
+        "clue": "Kevin's booby trap charges today",
+        "correctQuestion": "What is attempted murder?",
+        "value": 400
+      },
+      {
+        "clue": "The Christmas date rape song",
+        "correctQuestion": "What is Baby It's Cold Outside?",
+        "value": 400
+      },
+      {
+        "clue": "Where you stalk your ex",
+        "correctQuestion": "What is Venmo?",
+        "value": 400
+      },
+      {
+        "clue": "What murdered Toys R Us",
+        "correctQuestion": "What is Amazon?",
+        "value": 400
+      },
+      {
+        "clue": "Family fight surveillance device",
+        "correctQuestion": "What is Alexa?",
+        "value": 400
+      },
+      {
+        "clue": "Drunk uncle's War on Christmas HQ",
+        "correctQuestion": "What is Facebook?",
+        "value": 600
+      },
+      {
+        "clue": "Millennials' real Christmas wish",
+        "correctQuestion": "What is affordable housing?",
+        "value": 600
+      },
+      {
+        "clue": "Topic that ruins Christmas dinner",
+        "correctQuestion": "What is Trump?",
+        "value": 600
+      },
+      {
+        "clue": "Who defrosts every December",
+        "correctQuestion": "Who is Mariah Carey?",
+        "value": 600
+      },
+      {
+        "clue": "Buddy's syrup spaghetti result",
+        "correctQuestion": "What is diabetes?",
+        "value": 600
+      },
+      {
+        "clue": "Christmas 2020 nightmare platform",
+        "correctQuestion": "What is Zoom?",
+        "value": 600
+      },
+      {
+        "clue": "Santa's Christmas Eve fuel source",
+        "correctQuestion": "What is DoorDash?",
+        "value": 600
+      },
+      {
+        "clue": "What the Grinch really is",
+        "correctQuestion": "What is depression?",
+        "value": 600
+      },
+      {
+        "clue": "Santa's worst sleigh upgrade",
+        "correctQuestion": "What is Tesla?",
+        "value": 600
+      },
+      {
+        "clue": "Gen Z's real Christmas miracle",
+        "correctQuestion": "What is student loan forgiveness?",
+        "value": 600
+      },
+      {
+        "clue": "Other topic ruining Christmas dinner",
+        "correctQuestion": "What is the COVID vaccine?",
+        "value": 800
+      },
+      {
+        "clue": "What killed the Christmas spirit",
+        "correctQuestion": "What is late-stage capitalism?",
+        "value": 800
+      },
+      {
+        "clue": "Christmas song playing in Hell",
+        "correctQuestion": "What is Wonderful Christmastime?",
+        "value": 800
+      },
+      {
+        "clue": "Where moms spend $200 accidentally",
+        "correctQuestion": "What is Target?",
+        "value": 800
+      },
+      {
+        "clue": "How Hallmark movies solve racism",
+        "correctQuestion": "What is white people solving problems with baked goods?",
+        "value": 1000
+      },
+      {
+        "clue": "Love Actually's aged well count",
+        "correctQuestion": "What is none of them?",
+        "value": 1000
+      }
+    ]
+  }
+}

@@ -1,0 +1,1635 @@
+{
+  "category": "Birthday Age Development",
+  "description": "Questions about aging, development, growth milestones, and the human lifespan. Covers developmental psychology, lifespan development, and developmental biology.",
+  "totalQuestions": 180,
+  "sources": [
+    "Erikson's Stages of Psychosocial Development (NCBI)",
+    "Piaget's Theory of Cognitive Development",
+    "Human Growth and Development (StatPearls)",
+    "Developmental Milestones Research",
+    "Cellular Aging and Telomere Biology",
+    "Lifespan Development Research"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Infancy & Early Development",
+      "question": "What is the name of the soft spot on a baby's head that allows the skull to pass through the birth canal?",
+      "answer": "fontanelle (or soft spot)",
+      "clue": "It typically closes by age 2"
+    },
+    {
+      "id": 2,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Infancy & Early Development",
+      "question": "At approximately how many months do most babies say their first word?",
+      "answer": "12 months (or around 1 year)",
+      "clue": "It's about 1 year old"
+    },
+    {
+      "id": 3,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Childhood Development",
+      "question": "What major developmental milestone typically occurs between 12-18 months of age?",
+      "answer": "walking (or taking first steps)",
+      "clue": "Children go from crawling to this"
+    },
+    {
+      "id": 4,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Childhood Development",
+      "question": "At what age do children typically start losing their baby teeth?",
+      "answer": "6 years old (or around age 6)",
+      "clue": "About first grade"
+    },
+    {
+      "id": 5,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Growth & Development",
+      "question": "Infants almost double their size in their first year of life. This represents the largest growth increase in what?",
+      "answer": "percentage (or by percentage)",
+      "clue": "Compared to any other period in life"
+    },
+    {
+      "id": 6,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Adolescence & Puberty",
+      "question": "What is the name of the stage of development characterized by rapid physical growth and sexual maturation?",
+      "answer": "puberty (or adolescence)",
+      "clue": "Happens in the teenage years"
+    },
+    {
+      "id": 7,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Adolescence & Puberty",
+      "question": "In females, puberty typically occurs about how many years earlier than in males?",
+      "answer": "2 years",
+      "clue": "Girls usually develop before boys"
+    },
+    {
+      "id": 8,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Adolescence & Puberty",
+      "question": "Early adolescence typically spans from ages 10 to what age?",
+      "answer": "13 (or age 13)",
+      "clue": "Roughly middle school"
+    },
+    {
+      "id": 9,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Adult Development",
+      "question": "What is the typical age range for late adulthood according to developmental psychology?",
+      "answer": "65 and older (or 65+)",
+      "clue": "Retirement age"
+    },
+    {
+      "id": 10,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Adult Development",
+      "question": "According to Erik Erikson, what is the primary developmental task of young adulthood?",
+      "answer": "intimacy vs. isolation (or forming intimate relationships)",
+      "clue": "Related to close relationships and love"
+    },
+    {
+      "id": 11,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Developmental Milestones",
+      "question": "What is the name of the reflexive action where a baby turns its head when its cheek is stroked?",
+      "answer": "rooting reflex",
+      "clue": "Helps babies find food"
+    },
+    {
+      "id": 12,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Developmental Milestones",
+      "question": "Between what ages do most children learn to use the toilet for bathroom needs?",
+      "answer": "18 months to 3 years (or 2-3 years)",
+      "clue": "Toilet training happens in toddlerhood"
+    },
+    {
+      "id": 13,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Childhood Development",
+      "question": "What cognitive ability emerges around age 7-8 that allows children to understand that objects can change appearance but maintain their substance?",
+      "answer": "conservation (or object permanence)",
+      "clue": "Piaget's concrete operational stage"
+    },
+    {
+      "id": 14,
+      "difficulty": 2,
+      "audience": "teenagers",
+      "category": "Cognitive Development",
+      "question": "What stage of cognitive development, according to Piaget, is characterized by the ability to think about abstract concepts and hypothetical situations?",
+      "answer": "formal operational stage",
+      "clue": "Begins around age 12"
+    },
+    {
+      "id": 15,
+      "difficulty": 2,
+      "audience": "teenagers",
+      "category": "Adolescence & Puberty",
+      "question": "What gland triggers the production of hormones that initiate puberty in the body?",
+      "answer": "pituitary gland (or anterior pituitary)",
+      "clue": "Called the 'master gland'"
+    },
+    {
+      "id": 16,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Adult Development",
+      "question": "According to Erik Erikson's theory, what is the primary developmental conflict of middle adulthood?",
+      "answer": "generativity vs. stagnation",
+      "clue": "About contributing to the next generation"
+    },
+    {
+      "id": 17,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Aging & Biology",
+      "question": "What are the protective caps at the ends of chromosomes that shorten with age called?",
+      "answer": "telomeres",
+      "clue": "Related to cellular aging"
+    },
+    {
+      "id": 18,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Aging & Biology",
+      "question": "What biological process causes cells to stop dividing and marks a key aspect of aging?",
+      "answer": "cellular senescence (or senescence)",
+      "clue": "Cells stop reproducing"
+    },
+    {
+      "id": 19,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Later Life Development",
+      "question": "In Erikson's final stage of development, the central conflict is ego integrity versus what?",
+      "answer": "despair",
+      "clue": "The opposite of acceptance and peace"
+    },
+    {
+      "id": 20,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Aging & Health",
+      "question": "What hormone decreases with age and is involved in bone density, muscle mass, and metabolism?",
+      "answer": "growth hormone (or GH/somatotropin)",
+      "clue": "Important for physical development in youth"
+    },
+    {
+      "id": 21,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Developmental Psychology",
+      "question": "According to Piaget, what is the sensorimotor stage where infants learn that objects continue to exist even when out of sight called?",
+      "answer": "object permanence",
+      "clue": "Develops around 8-12 months"
+    },
+    {
+      "id": 22,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Developmental Psychology",
+      "question": "Jean Piaget identified a characteristic thinking pattern in preoperational children where they believe everyone sees the world as they do. What is this called?",
+      "answer": "egocentrism (or egocentric thinking)",
+      "clue": "Child-centered perspective"
+    },
+    {
+      "id": 23,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Language Development",
+      "question": "What is the stage of language development, typically between 6-12 months, where babies produce repetitive syllable sounds like 'ba-ba-ba'?",
+      "answer": "babbling",
+      "clue": "Before real words"
+    },
+    {
+      "id": 24,
+      "difficulty": 3,
+      "audience": "teenagers",
+      "category": "Identity Development",
+      "question": "According to Erik Erikson, the primary psychosocial task of adolescence is identity versus what conflict?",
+      "answer": "role confusion (or confusion)",
+      "clue": "Finding out who you are"
+    },
+    {
+      "id": 25,
+      "difficulty": 3,
+      "audience": "teenagers",
+      "category": "Adolescent Development",
+      "question": "What term describes the psychological phenomenon where adolescents believe they are the center of attention and everyone is watching them?",
+      "answer": "imaginary audience",
+      "clue": "Part of adolescent egocentrism"
+    },
+    {
+      "id": 26,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Midlife Development",
+      "question": "What is the psychological experience, often occurring in the 40s or 50s, where individuals reassess their lives and accomplishments?",
+      "answer": "midlife crisis (or midlife review/reassessment)",
+      "clue": "A period of questioning in middle age"
+    },
+    {
+      "id": 27,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Aging Biology",
+      "question": "What is the age-related loss of muscle mass and strength, particularly common in aging individuals?",
+      "answer": "sarcopenia",
+      "clue": "Muscle wasting condition"
+    },
+    {
+      "id": 28,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Cognitive Aging",
+      "question": "What type of intelligence, defined as accumulated knowledge and experience, tends to remain stable or increase with age?",
+      "answer": "crystallized intelligence",
+      "clue": "Knowledge-based, not speed-based"
+    },
+    {
+      "id": 29,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Aging & Memory",
+      "question": "What type of memory, which involves facts and information, typically shows more decline with age than procedural memory?",
+      "answer": "declarative memory (or explicit memory)",
+      "clue": "Conscious recall of information"
+    },
+    {
+      "id": 30,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Successful Aging",
+      "question": "What theory of aging proposes that successful aging involves staying active and engaged with life?",
+      "answer": "activity theory (or continuity theory)",
+      "clue": "Staying busy keeps you healthy"
+    },
+    {
+      "id": 31,
+      "difficulty": 4,
+      "audience": "teenagers",
+      "category": "Neurobiology of Development",
+      "question": "What is the term for the developmental process where unused neural connections are eliminated to increase efficiency?",
+      "answer": "synaptic pruning (or neural pruning)",
+      "clue": "Happens extensively during adolescence"
+    },
+    {
+      "id": 32,
+      "difficulty": 4,
+      "audience": "teenagers",
+      "category": "Brain Development",
+      "question": "Which brain region, responsible for impulse control and decision-making, continues developing into the mid-20s?",
+      "answer": "prefrontal cortex",
+      "clue": "Last area to fully mature"
+    },
+    {
+      "id": 33,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Psychosocial Theory",
+      "question": "Erik Erikson proposed eight stages of development across the lifespan. A ninth stage focusing on continued aging challenges was added by whom?",
+      "answer": "Joan Erikson (his wife)",
+      "clue": "Extended the theory for very old age"
+    },
+    {
+      "id": 34,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Gerontology",
+      "question": "What is the process by which telomerase, an enzyme, can maintain or extend telomere length in certain cells?",
+      "answer": "telomerase activation",
+      "clue": "Prevents telomere shortening"
+    },
+    {
+      "id": 35,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Aging Mechanisms",
+      "question": "What protein, central to DNA damage response, was recently found in 2025 research to accelerate aging when in a hyperactive state?",
+      "answer": "ATM (ataxia telangiectasia mutated)",
+      "clue": "High oxygen can trigger hyperactivity"
+    },
+    {
+      "id": 36,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Cellular Aging",
+      "question": "According to Alexey Olovnikov's groundbreaking 1971 hypothesis, what problem results from DNA replication at chromosome ends?",
+      "answer": "end-replication problem",
+      "clue": "Related to telomere shortening"
+    },
+    {
+      "id": 37,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Aging Research",
+      "question": "What is the term for the loss of the ability of organs and tissues to regenerate and repair themselves with age?",
+      "answer": "impaired regenerative capacity (or reduced regeneration)",
+      "clue": "Healing takes longer as you age"
+    },
+    {
+      "id": 38,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Healthy Aging",
+      "question": "What intervention strategy, which reduces caloric intake without malnutrition, has shown promise in extending lifespan in animal models?",
+      "answer": "caloric restriction (or calorie restriction)",
+      "clue": "Eating less may help longevity"
+    },
+    {
+      "id": 39,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Cognitive Theory",
+      "question": "Lawrence Kohlberg extended research into what area of development across the lifespan?",
+      "answer": "moral development (or moral reasoning)",
+      "clue": "How we determine right and wrong"
+    },
+    {
+      "id": 40,
+      "difficulty": 4,
+      "audience": "teenagers",
+      "category": "Social Development",
+      "question": "What is the phenomenon where adolescents have an exaggerated belief that their problems and experiences are unique and no one can understand them?",
+      "answer": "personal fable",
+      "clue": "Part of adolescent egocentrism"
+    },
+    {
+      "id": 41,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Advanced Gerontology",
+      "question": "What are the nine proposed hallmarks of aging identified by recent research, which include telomere attrition, genomic instability, and epigenetic alterations?",
+      "answer": "hallmarks of aging (accept: aging mechanisms or cellular aging features)",
+      "clue": "Framework for understanding aging processes"
+    },
+    {
+      "id": 42,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Developmental Theory",
+      "question": "In developmental theory, what is the framework that examines how nature and nurture interact throughout the lifespan?",
+      "answer": "biopsychosocial framework (or gene-environment interaction)",
+      "clue": "Biological, psychological, and social factors"
+    },
+    {
+      "id": 43,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Longevity Science",
+      "question": "What is the term for biological age as measured by cellular markers like telomere length, distinct from chronological age?",
+      "answer": "biological age (or cellular age/epigenetic age)",
+      "clue": "How old your cells are vs. years lived"
+    },
+    {
+      "id": 44,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Advanced Aging Biology",
+      "question": "What protein complex, part of the DNA damage response system, can be triggered at telomeric regions regardless of telomere length?",
+      "answer": "DNA damage response (or DDR/ATM-p53 pathway)",
+      "clue": "Initiates senescence signals"
+    },
+    {
+      "id": 45,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Neurodevelopment",
+      "question": "What is the term for the insulation of nerve fibers with myelin, a process essential for cognitive development that continues into early adulthood?",
+      "answer": "myelination",
+      "clue": "Increases transmission speed"
+    },
+    {
+      "id": 46,
+      "difficulty": 5,
+      "audience": "teenagers",
+      "category": "Advanced Psychology",
+      "question": "In Piaget's theory, the ability to perform mental operations on abstract concepts emerges in what stage, typically around age 12?",
+      "answer": "formal operational stage",
+      "clue": "Abstract and hypothetical thinking"
+    },
+    {
+      "id": 47,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Senescence Research",
+      "question": "What type of aging is characterized by progressive decline in physiological function and increased vulnerability to disease?",
+      "answer": "primary aging (or intrinsic aging/senescence)",
+      "clue": "Universal biological aging"
+    },
+    {
+      "id": 48,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Aging Plasticity",
+      "question": "What is the ability of the aging brain to reorganize itself by forming new neural connections in response to experience?",
+      "answer": "neuroplasticity",
+      "clue": "Brain can rewire itself"
+    },
+    {
+      "id": 49,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Growth Patterns",
+      "question": "During the first year of life, how much does a typical infant's weight increase?",
+      "answer": "triples (or 200% or 3 times)",
+      "clue": "Birth to one year"
+    },
+    {
+      "id": 50,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Developmental Milestones",
+      "question": "What is the age range for early childhood according to developmental psychologists?",
+      "answer": "1 to 5 years (or 1-6 years)",
+      "clue": "Before school age"
+    },
+    {
+      "id": 51,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Puberty",
+      "question": "What is the general age range for middle adolescence?",
+      "answer": "14 to 17 years",
+      "clue": "High school years"
+    },
+    {
+      "id": 52,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Physical Development",
+      "question": "What major physical change occurs in females during puberty besides breast development?",
+      "answer": "menstruation (or menarche/first period)",
+      "clue": "Monthly cycle begins"
+    },
+    {
+      "id": 53,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Adult Stages",
+      "question": "What age range is typically considered early adulthood?",
+      "answer": "18 to 40 years (or early 20s to 40)",
+      "clue": "Young adult years"
+    },
+    {
+      "id": 54,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Adult Development",
+      "question": "What age range defines middle adulthood according to most developmental theorists?",
+      "answer": "40 to 65 years",
+      "clue": "Between young adult and old age"
+    },
+    {
+      "id": 55,
+      "difficulty": 1,
+      "audience": "seniors",
+      "category": "Aging Categories",
+      "question": "What term describes adults aged 65 to 74 years?",
+      "answer": "young-old (or early elderly)",
+      "clue": "Earliest stage of old age"
+    },
+    {
+      "id": 56,
+      "difficulty": 1,
+      "audience": "seniors",
+      "category": "Aging Categories",
+      "question": "What term describes the oldest adults, typically 85 years and older?",
+      "answer": "oldest-old (or very old)",
+      "clue": "Advanced aging"
+    },
+    {
+      "id": 57,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Language Development",
+      "question": "What is the stage where infants communicate through crying and other vocalizations before words?",
+      "answer": "prelinguistic communication (or crying/cooing)",
+      "clue": "Before speaking"
+    },
+    {
+      "id": 58,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Motor Development",
+      "question": "What term describes the organized reflexive movements of newborns, such as the Moro reflex and grasping reflex?",
+      "answer": "primitive reflexes (or neonatal reflexes)",
+      "clue": "Present at birth"
+    },
+    {
+      "id": 59,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Cognitive Development",
+      "question": "In Piaget's preoperational stage, what is the inability to understand that volume remains constant when liquid is poured into containers of different shapes?",
+      "answer": "non-conservation (or lack of conservation)",
+      "clue": "Opposite of conservation ability"
+    },
+    {
+      "id": 60,
+      "difficulty": 2,
+      "audience": "teenagers",
+      "category": "Adolescent Brain",
+      "question": "What region of the brain undergoes significant remodeling during adolescence, affecting emotional regulation and risk assessment?",
+      "answer": "limbic system (or amygdala/prefrontal cortex)",
+      "clue": "Emotion and reward center"
+    },
+    {
+      "id": 61,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Reproductive Changes",
+      "question": "What is the name of the period in women's lives marked by the end of menstruation?",
+      "answer": "menopause",
+      "clue": "When periods stop permanently"
+    },
+    {
+      "id": 62,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Hormonal Changes",
+      "question": "What hormone declines significantly in women during menopause?",
+      "answer": "estrogen",
+      "clue": "Female sex hormone"
+    },
+    {
+      "id": 63,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Male Aging",
+      "question": "What is the gradual decline in testosterone production that occurs in aging men called?",
+      "answer": "andropause (or male menopause)",
+      "clue": "Male version of menopause"
+    },
+    {
+      "id": 64,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Sensory Changes",
+      "question": "What age-related condition, where the lens loses flexibility, makes it hard to focus on close objects?",
+      "answer": "presbyopia",
+      "clue": "Reading glasses needed"
+    },
+    {
+      "id": 65,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Sensory Aging",
+      "question": "What progressive hearing loss, particularly of high frequencies, is common in older adults?",
+      "answer": "presbycusis",
+      "clue": "Age-related hearing loss"
+    },
+    {
+      "id": 66,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Development Research",
+      "question": "What term describes the biological systems that stabilize and support development, such as genetic factors and family structure?",
+      "answer": "protective factors",
+      "clue": "Support system for healthy development"
+    },
+    {
+      "id": 67,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Attachment Theory",
+      "question": "What British psychologist pioneered attachment theory, describing the emotional bond between infants and caregivers?",
+      "answer": "John Bowlby",
+      "clue": "Developed attachment theory"
+    },
+    {
+      "id": 68,
+      "difficulty": 3,
+      "audience": "teenagers",
+      "category": "Emotion Regulation",
+      "question": "What is the developing ability to understand and manage emotions, which improves substantially during adolescence?",
+      "answer": "emotional regulation (or emotion regulation)",
+      "clue": "Controlling feelings"
+    },
+    {
+      "id": 69,
+      "difficulty": 3,
+      "audience": "teenagers",
+      "category": "Peer Relationships",
+      "question": "What developmental phenomenon occurs when adolescents increasingly value peer approval and may engage in risky behavior to fit in?",
+      "answer": "peer influence (or peer pressure)",
+      "clue": "Friends' opinions matter more"
+    },
+    {
+      "id": 70,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Career Development",
+      "question": "What stage of career development typically involves settling into a career path and establishing expertise?",
+      "answer": "establishment stage (or mid-career)",
+      "clue": "Building a career"
+    },
+    {
+      "id": 71,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Family Development",
+      "question": "What is the period when adult children establish independence from their parents and create their own families?",
+      "answer": "launching stage (or empty nest transition)",
+      "clue": "Children leaving home"
+    },
+    {
+      "id": 72,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Retirement Transition",
+      "question": "What psychological challenge often accompanies retirement, involving loss of work-related identity and purpose?",
+      "answer": "identity loss (or role loss/retirement adjustment)",
+      "clue": "No longer defined by work"
+    },
+    {
+      "id": 73,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Aging Cognition",
+      "question": "What type of intelligence, which depends on speed of processing and working memory, typically declines with age?",
+      "answer": "fluid intelligence",
+      "clue": "Speed-based thinking"
+    },
+    {
+      "id": 74,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Successful Aging",
+      "question": "What theory proposes that older adults maintain psychological well-being by selecting goals that fit their abilities?",
+      "answer": "selective optimization with compensation",
+      "clue": "Focus on what you can do"
+    },
+    {
+      "id": 75,
+      "difficulty": 4,
+      "audience": "children",
+      "category": "Neural Development",
+      "question": "What process, occurring extensively in early childhood, involves the growth of new neurons in the brain?",
+      "answer": "neurogenesis",
+      "clue": "Brain cell growth"
+    },
+    {
+      "id": 76,
+      "difficulty": 4,
+      "audience": "teenagers",
+      "category": "Puberty Hormones",
+      "question": "What hormone, released by the pituitary gland, stimulates the production of sex hormones in the gonads?",
+      "answer": "luteinizing hormone (LH) (or follicle-stimulating hormone/FSH)",
+      "clue": "Triggers puberty hormones"
+    },
+    {
+      "id": 77,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Immunosenescence",
+      "question": "What is the age-related decline in immune system function that makes older adults more susceptible to infection?",
+      "answer": "immunosenescence",
+      "clue": "Weakening immune system"
+    },
+    {
+      "id": 78,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Cardiovascular Aging",
+      "question": "What structural change in blood vessels, involving stiffening and reduced elasticity, is common with aging?",
+      "answer": "arteriosclerosis (or vascular stiffening/atherosclerosis)",
+      "clue": "Hardening of arteries"
+    },
+    {
+      "id": 79,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Mitochondrial Aging",
+      "question": "What organelles, responsible for cellular energy production, show increased dysfunction with age?",
+      "answer": "mitochondria",
+      "clue": "Cellular powerhouse"
+    },
+    {
+      "id": 80,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Oxidative Stress",
+      "question": "What are the highly reactive molecules produced during metabolism that can damage cells and are implicated in aging?",
+      "answer": "free radicals",
+      "clue": "Cause oxidative damage"
+    },
+    {
+      "id": 81,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Epigenetics",
+      "question": "What is the study of how gene expression changes with age and experience, without changes to the underlying DNA sequence?",
+      "answer": "epigenetics",
+      "clue": "Chemical marks on DNA"
+    },
+    {
+      "id": 82,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Genomic Instability",
+      "question": "What accumulates with age and can lead to increased risk of cancer and other age-related diseases?",
+      "answer": "DNA damage (or mutations/genomic instability)",
+      "clue": "Broken genes"
+    },
+    {
+      "id": 83,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Metabolic Aging",
+      "question": "What age-related change reduces the body's ability to regulate blood sugar levels?",
+      "answer": "insulin resistance",
+      "clue": "Diabetes risk increases"
+    },
+    {
+      "id": 84,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Bone Health",
+      "question": "What condition, characterized by low bone density and increased fragility, is common in older adults?",
+      "answer": "osteoporosis",
+      "clue": "Brittle bones"
+    },
+    {
+      "id": 85,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Sleep Changes",
+      "question": "What sleep stage, important for memory consolidation and brain health, tends to decrease with age?",
+      "answer": "slow-wave sleep (or deep sleep/REM sleep)",
+      "clue": "Restorative sleep"
+    },
+    {
+      "id": 86,
+      "difficulty": 5,
+      "audience": "children",
+      "category": "Developmental Systems",
+      "question": "What theoretical framework, developed by Urie Bronfenbrenner, describes nested environmental systems influencing development?",
+      "answer": "ecological systems theory (or bioecological model)",
+      "clue": "Layers of environment"
+    },
+    {
+      "id": 87,
+      "difficulty": 5,
+      "audience": "teenagers",
+      "category": "Gene-Environment",
+      "question": "What term describes the principle that development results from the continuous interaction between genetic potential and environmental influences?",
+      "answer": "genotype-phenotype interaction (or nature-nurture interaction)",
+      "clue": "Genes and environment together"
+    },
+    {
+      "id": 88,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Telomere Biology",
+      "question": "What enzyme can add nucleotides to telomeres, potentially slowing cellular aging in specific cell types?",
+      "answer": "telomerase",
+      "clue": "Protects chromosome ends"
+    },
+    {
+      "id": 89,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Systemic Aging",
+      "question": "What is the age-related phenomenon where chronic low-grade inflammation throughout the body promotes aging and disease?",
+      "answer": "inflammaging (or chronic inflammation)",
+      "clue": "Inflammation everywhere"
+    },
+    {
+      "id": 90,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Longevity Factors",
+      "question": "What factors, including genetics, lifestyle, and social connections, work together to determine how long a person lives?",
+      "answer": "determinants of longevity (or aging factors)",
+      "clue": "What makes people live long"
+    },
+    {
+      "id": 91,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Growth Rate",
+      "question": "What percentage of adult height is typically reached by age 5?",
+      "answer": "75% (or three-quarters)",
+      "clue": "Most of your height by kindergarten"
+    },
+    {
+      "id": 92,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Motor Skills",
+      "question": "What term describes large muscle movements like running and jumping?",
+      "answer": "gross motor skills",
+      "clue": "Big muscle movements"
+    },
+    {
+      "id": 93,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Fine Motor Skills",
+      "question": "What term describes small muscle movements needed for tasks like holding a pencil?",
+      "answer": "fine motor skills",
+      "clue": "Small precise movements"
+    },
+    {
+      "id": 94,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Growth Spurt",
+      "question": "Adolescent growth spurts typically last for how many years?",
+      "answer": "2-3 years (or 2 to 3 years)",
+      "clue": "Quick growth period"
+    },
+    {
+      "id": 95,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Voice Changes",
+      "question": "What physical change in males during puberty is caused by testosterone-driven larynx growth?",
+      "answer": "voice deepening (or voice cracking/lower voice)",
+      "clue": "Voice gets deeper"
+    },
+    {
+      "id": 96,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Peak Performance",
+      "question": "At what age do most individuals reach peak physical athletic performance?",
+      "answer": "late 20s to early 30s (or 25-30)",
+      "clue": "Athletic prime"
+    },
+    {
+      "id": 97,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Metabolism",
+      "question": "What happens to metabolic rate as people age into adulthood?",
+      "answer": "decreases (or slows down)",
+      "clue": "Burn fewer calories"
+    },
+    {
+      "id": 98,
+      "difficulty": 1,
+      "audience": "seniors",
+      "category": "Height Changes",
+      "question": "What causes older adults to lose height as they age?",
+      "answer": "vertebral compression (or spinal compression/bone loss)",
+      "clue": "Spine changes"
+    },
+    {
+      "id": 99,
+      "difficulty": 1,
+      "audience": "seniors",
+      "category": "Cognitive Slowing",
+      "question": "What term describes the slowing of cognitive processing speed that typically occurs with age?",
+      "answer": "processing speed decline",
+      "clue": "Thinking takes longer"
+    },
+    {
+      "id": 100,
+      "difficulty": 1,
+      "audience": "seniors",
+      "category": "Vision Loss",
+      "question": "What age-related eye disease causes progressive loss of central vision?",
+      "answer": "macular degeneration",
+      "clue": "Common in very old age"
+    },
+    {
+      "id": 101,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Social Development",
+      "question": "What is the term for a child's first friendship, typically occurring around age 3-4?",
+      "answer": "peer relationships (or friendship formation)",
+      "clue": "Making first friends"
+    },
+    {
+      "id": 102,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Play Development",
+      "question": "What type of play, where children play alongside but not with other children, is common in toddlerhood?",
+      "answer": "parallel play",
+      "clue": "Playing near but not together"
+    },
+    {
+      "id": 103,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Play Development",
+      "question": "What type of play, where children interact and cooperate in shared activities, develops in preschool years?",
+      "answer": "cooperative play",
+      "clue": "Playing together"
+    },
+    {
+      "id": 104,
+      "difficulty": 2,
+      "audience": "teenagers",
+      "category": "Sexual Development",
+      "question": "What are the secondary sex characteristics in males that develop during puberty?",
+      "answer": "facial/body hair, voice deepening, muscle development",
+      "clue": "Male pubertal changes"
+    },
+    {
+      "id": 105,
+      "difficulty": 2,
+      "audience": "teenagers",
+      "category": "Sexual Development",
+      "question": "What are the secondary sex characteristics in females that develop during puberty?",
+      "answer": "breast development, hip widening, body hair",
+      "clue": "Female pubertal changes"
+    },
+    {
+      "id": 106,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Cognitive Peak",
+      "question": "At what age does crystallized intelligence typically reach its peak?",
+      "answer": "50s to 60s (or 50-60)",
+      "clue": "Knowledge and experience peak"
+    },
+    {
+      "id": 107,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Life Review",
+      "question": "What psychological process, becoming more common in middle and late adulthood, involves reflecting on and evaluating one's life experiences?",
+      "answer": "life review",
+      "clue": "Thinking about your life"
+    },
+    {
+      "id": 108,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Wisdom",
+      "question": "What aspect of cognitive development, characterized by pragmatic knowledge and good judgment, may increase with age?",
+      "answer": "wisdom",
+      "clue": "Gets better with experience"
+    },
+    {
+      "id": 109,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Life Satisfaction",
+      "question": "What U-shaped relationship in lifespan development research describes how happiness tends to dip in middle age and improve in old age?",
+      "answer": "happiness curve (or life satisfaction curve)",
+      "clue": "Happy when young and old, sad in middle"
+    },
+    {
+      "id": 110,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Caregiving",
+      "question": "What is the role increasingly assumed by older adults who provide physical care and emotional support to adult children or grandchildren?",
+      "answer": "caregiver (or grandparent)",
+      "clue": "Caring for others"
+    },
+    {
+      "id": 111,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Theory of Mind",
+      "question": "What cognitive ability, developing around age 4-5, allows children to understand that others have beliefs and knowledge different from their own?",
+      "answer": "theory of mind",
+      "clue": "Understanding other minds"
+    },
+    {
+      "id": 112,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Executive Function",
+      "question": "What cognitive skill, including planning and impulse control, develops substantially during the preschool years?",
+      "answer": "executive function",
+      "clue": "Planning and control"
+    },
+    {
+      "id": 113,
+      "difficulty": 3,
+      "audience": "teenagers",
+      "category": "Moral Development",
+      "question": "What is the developmental stage of moral reasoning where individuals conform to rules to gain approval from others?",
+      "answer": "conventional morality (or conventional stage)",
+      "clue": "Following rules for approval"
+    },
+    {
+      "id": 114,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Intimate Relationships",
+      "question": "What psychologist developed the triangular theory of love, describing intimacy, passion, and commitment?",
+      "answer": "Robert Sternberg",
+      "clue": "Triangle of love"
+    },
+    {
+      "id": 115,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Parenting Development",
+      "question": "What major life transition involves becoming responsible for raising a child?",
+      "answer": "parenthood (or becoming a parent)",
+      "clue": "Having a child"
+    },
+    {
+      "id": 116,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Grief and Loss",
+      "question": "What psychological process involves adjusting to the death of a loved one?",
+      "answer": "bereavement (or grief)",
+      "clue": "Dealing with death"
+    },
+    {
+      "id": 117,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Intergenerational",
+      "question": "What term describes the transmission of values, knowledge, and traditions between generations?",
+      "answer": "intergenerational transmission (or cultural transmission)",
+      "clue": "Passing things down"
+    },
+    {
+      "id": 118,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Legacy",
+      "question": "What psychological task involves creating something that will outlast oneself, according to generativity theory?",
+      "answer": "legacy creation (or generativity/leaving a legacy)",
+      "clue": "What you leave behind"
+    },
+    {
+      "id": 119,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Stress and Coping",
+      "question": "What is the term for psychological stress related to aging and concerns about health, death, and body changes?",
+      "answer": "aging anxiety (or death anxiety)",
+      "clue": "Fear of getting old"
+    },
+    {
+      "id": 120,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Chronic Illness",
+      "question": "What conditions, including arthritis and diabetes, affect quality of life in older adults?",
+      "answer": "chronic diseases (or age-related conditions)",
+      "clue": "Long-term health problems"
+    },
+    {
+      "id": 121,
+      "difficulty": 4,
+      "audience": "children",
+      "category": "Attachment Styles",
+      "question": "What attachment style, characterized by anxiety and dependency, develops when caregiving is inconsistent?",
+      "answer": "anxious-ambivalent attachment",
+      "clue": "Worried about separation"
+    },
+    {
+      "id": 122,
+      "difficulty": 4,
+      "audience": "children",
+      "category": "Attachment Styles",
+      "question": "What attachment style develops when a caregiver is unresponsive and unavailable?",
+      "answer": "avoidant attachment",
+      "clue": "Distant from caregiver"
+    },
+    {
+      "id": 123,
+      "difficulty": 4,
+      "audience": "teenagers",
+      "category": "Identity Formation",
+      "question": "What term describes the exploration of different identities and roles that occurs during adolescence?",
+      "answer": "identity exploration (or identity formation)",
+      "clue": "Trying out different selves"
+    },
+    {
+      "id": 124,
+      "difficulty": 4,
+      "audience": "teenagers",
+      "category": "Autonomy",
+      "question": "What developmental task involves gradually achieving independence from parents while maintaining relationships?",
+      "answer": "autonomy development (or detachment)",
+      "clue": "Becoming independent"
+    },
+    {
+      "id": 125,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Partner Selection",
+      "question": "What theory proposes that people tend to choose romantic partners with similar characteristics and values?",
+      "answer": "homogamy (or assortative mating)",
+      "clue": "Like attracts like"
+    },
+    {
+      "id": 126,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Work-Life Balance",
+      "question": "What term describes the ability to successfully manage responsibilities in both work and family domains?",
+      "answer": "work-life balance",
+      "clue": "Juggling career and family"
+    },
+    {
+      "id": 127,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Social Engagement",
+      "question": "What theory of aging emphasizes the importance of maintaining social connections for well-being in old age?",
+      "answer": "social disengagement theory (or selective engagement theory)",
+      "clue": "Stay connected"
+    },
+    {
+      "id": 128,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Cognitive Reserve",
+      "question": "What is the brain's ability to compensate for aging-related changes through neuronal efficiency and plasticity?",
+      "answer": "cognitive reserve",
+      "clue": "Brain adapts to changes"
+    },
+    {
+      "id": 129,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Personality Change",
+      "question": "What personality trait, associated with conscientiousness and responsibility, tends to increase from adolescence to middle age?",
+      "answer": "conscientiousness",
+      "clue": "More responsible with age"
+    },
+    {
+      "id": 130,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Spirituality",
+      "question": "What aspect of development, involving questions about life meaning and purpose, often becomes more salient in late adulthood?",
+      "answer": "spiritual development (or existential concerns)",
+      "clue": "Life meaning and purpose"
+    },
+    {
+      "id": 131,
+      "difficulty": 5,
+      "audience": "children",
+      "category": "Brain Development",
+      "question": "What is the critical period in early childhood when neural connections are most plastic and sensitive to environmental input?",
+      "answer": "sensitive period (or critical period)",
+      "clue": "Best time to learn"
+    },
+    {
+      "id": 132,
+      "difficulty": 5,
+      "audience": "teenagers",
+      "category": "Neuronal Changes",
+      "question": "What is the increase in myelin thickness that enhances communication between brain regions during adolescence called?",
+      "answer": "white matter development (or myelination)",
+      "clue": "Brain wiring improves"
+    },
+    {
+      "id": 133,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Cognitive Development",
+      "question": "What is the stage of intellectual development, proposed by Labouvie-Vief, where adults integrate logic and intuition?",
+      "answer": "dialectic thinking (or adult cognition)",
+      "clue": "Adult thinking style"
+    },
+    {
+      "id": 134,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Advanced Aging",
+      "question": "What theory describes aging as a process of selecting goals that are most meaningful while compensating for losses?",
+      "answer": "selection, optimization, and compensation (SOC) theory",
+      "clue": "Managing aging"
+    },
+    {
+      "id": 135,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Lifespan Research",
+      "question": "What longitudinal study, initiated in 1921, has tracked development across the lifespan with detailed observations and assessments?",
+      "answer": "Terman Study (or Terman longitudinal study/Stanford study)",
+      "clue": "Long-term development research"
+    },
+    {
+      "id": 136,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Biological Aging",
+      "question": "What is the measure of how well the body's immune system can handle infection and maintain homeostasis?",
+      "answer": "physiological reserve (or homeostatic capacity)",
+      "clue": "Body's backup systems"
+    },
+    {
+      "id": 137,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Developmental Context",
+      "question": "What cohort effect describes how people born in the same time period share similar historical experiences that shape development?",
+      "answer": "generational cohort (or historical cohort)",
+      "clue": "Born at same time"
+    },
+    {
+      "id": 138,
+      "difficulty": 5,
+      "audience": "teenagers",
+      "category": "Risk and Resilience",
+      "question": "What term describes the process of successfully adapting despite significant adversity or risk?",
+      "answer": "resilience",
+      "clue": "Bouncing back"
+    },
+    {
+      "id": 139,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Compression of Morbidity",
+      "question": "What concept proposes that improved health practices can reduce the period of illness and disability at the end of life?",
+      "answer": "compression of morbidity",
+      "clue": "Stay healthy longer"
+    },
+    {
+      "id": 140,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Plasticity",
+      "question": "What principle states that development remains changeable throughout the lifespan despite constraints from earlier periods?",
+      "answer": "plasticity (or developmental plasticity)",
+      "clue": "Not fixed by genes"
+    },
+    {
+      "id": 141,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Nutritional Growth",
+      "question": "What nutrient is essential for bone growth and development during childhood?",
+      "answer": "calcium",
+      "clue": "In milk"
+    },
+    {
+      "id": 142,
+      "difficulty": 1,
+      "audience": "children",
+      "category": "Brain Development",
+      "question": "What mineral is essential for brain development and cognitive function throughout childhood?",
+      "answer": "iron",
+      "clue": "Found in meat and spinach"
+    },
+    {
+      "id": 143,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Caloric Needs",
+      "question": "Adolescents have higher caloric and nutritional needs than children. What drives this increased need?",
+      "answer": "rapid growth (or growth spurt)",
+      "clue": "Growing fast"
+    },
+    {
+      "id": 144,
+      "difficulty": 1,
+      "audience": "teenagers",
+      "category": "Sleep Needs",
+      "question": "How many hours of sleep per night do adolescents need for optimal health and development?",
+      "answer": "8-10 hours (or 8 to 10)",
+      "clue": "A lot of sleep"
+    },
+    {
+      "id": 145,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Adult Sleep",
+      "question": "How many hours of sleep per night do adults typically need?",
+      "answer": "7-9 hours (or 7 to 9)",
+      "clue": "About 8 hours"
+    },
+    {
+      "id": 146,
+      "difficulty": 1,
+      "audience": "adults",
+      "category": "Aging Sleep",
+      "question": "What change in sleep patterns occurs with aging, where sleep becomes more fragmented and lighter?",
+      "answer": "increased nocturnal awakenings (or lighter sleep)",
+      "clue": "More sleep interruptions"
+    },
+    {
+      "id": 147,
+      "difficulty": 1,
+      "audience": "seniors",
+      "category": "Circadian Rhythms",
+      "question": "What change in the body's internal clock occurs with aging?",
+      "answer": "earlier sleep-wake cycle (or phase advancement)",
+      "clue": "Going to bed earlier"
+    },
+    {
+      "id": 148,
+      "difficulty": 1,
+      "audience": "seniors",
+      "category": "Physical Activity",
+      "question": "What recommended weekly minutes of moderate physical activity can help maintain health in older adults?",
+      "answer": "150 minutes (or 2.5 hours)",
+      "clue": "30 minutes a day"
+    },
+    {
+      "id": 149,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Environmental Factors",
+      "question": "What environmental factor during pregnancy and early childhood is most critical for optimal brain development?",
+      "answer": "adequate nutrition (or prenatal nutrition)",
+      "clue": "What mother eats matters"
+    },
+    {
+      "id": 150,
+      "difficulty": 2,
+      "audience": "teenagers",
+      "category": "Substance Development",
+      "question": "What brain regions' continued development during adolescence makes the teenage brain vulnerable to substance abuse?",
+      "answer": "prefrontal cortex (and limbic system)",
+      "clue": "Risk and judgment areas"
+    },
+    {
+      "id": 151,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Lifestyle Factors",
+      "question": "What lifestyle behavior in adulthood is most consistently associated with positive health outcomes in old age?",
+      "answer": "regular physical exercise",
+      "clue": "Movement matters"
+    },
+    {
+      "id": 152,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Cognitive Reserve",
+      "question": "What educational and occupational experiences build cognitive reserve against age-related decline?",
+      "answer": "cognitive stimulation (or mental activity)",
+      "clue": "Use it or lose it"
+    },
+    {
+      "id": 153,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Prevention",
+      "question": "What preventive health behaviors, including vaccinations and screenings, become increasingly important in old age?",
+      "answer": "health maintenance (or preventive care)",
+      "clue": "Staying on top of health"
+    },
+    {
+      "id": 154,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Social Determinants",
+      "question": "What social factor, including quality of relationships, is strongly associated with longevity?",
+      "answer": "social connection (or social support)",
+      "clue": "Relationships matter"
+    },
+    {
+      "id": 155,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Socioeconomic Effects",
+      "question": "What socioeconomic factors during childhood significantly influence long-term developmental outcomes?",
+      "answer": "poverty, education level, family stability",
+      "clue": "Life circumstances matter"
+    },
+    {
+      "id": 156,
+      "difficulty": 3,
+      "audience": "teenagers",
+      "category": "Mental Health",
+      "question": "What age range shows a significant increase in major depression onset, particularly in females?",
+      "answer": "early adolescence (or 12-16 years)",
+      "clue": "Teen depression rates"
+    },
+    {
+      "id": 157,
+      "difficulty": 3,
+      "audience": "adults",
+      "category": "Anxiety",
+      "question": "What anxiety disorder often has onset in young adulthood and affects both men and women?",
+      "answer": "generalized anxiety disorder (or panic disorder)",
+      "clue": "Young adult onset"
+    },
+    {
+      "id": 158,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Dementia",
+      "question": "What is the most common form of dementia in older adults?",
+      "answer": "Alzheimer's disease",
+      "clue": "Progressive memory loss"
+    },
+    {
+      "id": 159,
+      "difficulty": 3,
+      "audience": "seniors",
+      "category": "Depression",
+      "question": "What is the high prevalence of depression in older adults sometimes called when undiagnosed?",
+      "answer": "hidden depression (or masked depression/late-life depression)",
+      "clue": "Often goes unrecognized"
+    },
+    {
+      "id": 160,
+      "difficulty": 4,
+      "audience": "children",
+      "category": "Trauma Effects",
+      "question": "What is the long-term effect on brain development when children experience chronic stress or trauma?",
+      "answer": "altered stress response (or trauma-related changes)",
+      "clue": "Stress damages development"
+    },
+    {
+      "id": 161,
+      "difficulty": 4,
+      "audience": "teenagers",
+      "category": "Sleep Deprivation",
+      "question": "What is the documented effect on academic performance and mood when adolescents are chronically sleep-deprived?",
+      "answer": "decreased cognitive function, increased depression",
+      "clue": "No sleep, no focus"
+    },
+    {
+      "id": 162,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Chronic Stress",
+      "question": "What age-related condition is exacerbated by chronic stress and poor sleep in middle adulthood?",
+      "answer": "accelerated aging (or telomere shortening)",
+      "clue": "Stress speeds up aging"
+    },
+    {
+      "id": 163,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Fall Risk",
+      "question": "What physiological changes in older adults significantly increase fall risk?",
+      "answer": "decreased balance, slower reflexes, muscle weakness",
+      "clue": "Risk factors for falls"
+    },
+    {
+      "id": 164,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Frailty",
+      "question": "What syndrome, characterized by weakness, low energy, and slow movement, affects many very old adults?",
+      "answer": "frailty (or geriatric frailty)",
+      "clue": "Weakness with age"
+    },
+    {
+      "id": 165,
+      "difficulty": 5,
+      "audience": "children",
+      "category": "Epigenetic Development",
+      "question": "What is the mechanism by which childhood experiences can influence gene expression throughout life?",
+      "answer": "epigenetic modification (or DNA methylation)",
+      "clue": "Experience affects genes"
+    },
+    {
+      "id": 166,
+      "difficulty": 5,
+      "audience": "teenagers",
+      "category": "Adolescent Neuroscience",
+      "question": "What is the asymmetrical development pattern in the adolescent brain where emotional regions mature before rational ones?",
+      "answer": "asynchronous brain development",
+      "clue": "Emotions before logic"
+    },
+    {
+      "id": 167,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Cardiovascular Development",
+      "question": "What is the primary age-related change in cardiac function that reduces exercise capacity in older adults?",
+      "answer": "reduced cardiac plasticity (or decreased cardiac compliance)",
+      "clue": "Heart flexibility decreases"
+    },
+    {
+      "id": 168,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Neuropathology",
+      "question": "What protein aggregates accumulate in the brains of Alzheimer's disease patients and contribute to neural degeneration?",
+      "answer": "amyloid-beta plaques and tau tangles",
+      "clue": "Toxic protein buildup"
+    },
+    {
+      "id": 169,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Senescent Cells",
+      "question": "What is being researched as a potential target for removing harmful senescent cells that accumulate with age?",
+      "answer": "senolytics (or senolytic drugs)",
+      "clue": "Clearing old cells"
+    },
+    {
+      "id": 170,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "NAD+ Metabolism",
+      "question": "What metabolic cofactor, whose levels decline with age, is being researched for its potential in extending healthspan?",
+      "answer": "NAD+ (nicotinamide adenine dinucleotide)",
+      "clue": "Energy molecule"
+    },
+    {
+      "id": 171,
+      "difficulty": 2,
+      "audience": "children",
+      "category": "Education Readiness",
+      "question": "What cognitive milestone must a child reach to be ready for kindergarten, including understanding simple rules and following directions?",
+      "answer": "school readiness (or readiness skills)",
+      "clue": "Ready for school"
+    },
+    {
+      "id": 172,
+      "difficulty": 2,
+      "audience": "teenagers",
+      "category": "Education",
+      "question": "What educational choice during adolescence significantly impacts long-term career and financial outcomes?",
+      "answer": "staying in school (or completing high school)",
+      "clue": "Education matters"
+    },
+    {
+      "id": 173,
+      "difficulty": 2,
+      "audience": "adults",
+      "category": "Adult Learning",
+      "question": "What is the term for continued learning and skill development that occurs in adulthood?",
+      "answer": "lifelong learning (or continuous education)",
+      "clue": "Learning never stops"
+    },
+    {
+      "id": 174,
+      "difficulty": 2,
+      "audience": "seniors",
+      "category": "Cognitive Decline",
+      "question": "What type of cognitive change, affecting speed but not overall intellectual ability, is normal aging?",
+      "answer": "normal cognitive aging (or mild cognitive slowing)",
+      "clue": "Not disease"
+    },
+    {
+      "id": 175,
+      "difficulty": 3,
+      "audience": "children",
+      "category": "Bilingualism",
+      "question": "What cognitive advantage may bilingual children develop due to managing two language systems?",
+      "answer": "enhanced executive function",
+      "clue": "Two languages strengthen brain"
+    },
+    {
+      "id": 176,
+      "difficulty": 3,
+      "audience": "teenagers",
+      "category": "Critical Thinking",
+      "question": "What cognitive skill, important for academic success and decision-making, develops substantially during adolescence?",
+      "answer": "critical thinking (or analytical thinking)",
+      "clue": "Thinking about thinking"
+    },
+    {
+      "id": 177,
+      "difficulty": 4,
+      "audience": "adults",
+      "category": "Expertise",
+      "question": "What is the demonstrated ability to perform at expert levels in a domain, which typically requires 10,000 hours of practice?",
+      "answer": "expertise",
+      "clue": "Years of practice"
+    },
+    {
+      "id": 178,
+      "difficulty": 4,
+      "audience": "seniors",
+      "category": "Reminiscence",
+      "question": "What psychological process, where older adults recall and reflect on past experiences, can enhance well-being and provide meaning?",
+      "answer": "reminiscence (or life reminiscence)",
+      "clue": "Memories and reflection"
+    },
+    {
+      "id": 179,
+      "difficulty": 5,
+      "audience": "adults",
+      "category": "Adult Development",
+      "question": "What is the term for the psychosocial transition periods throughout adulthood identified by Daniel Levinson?",
+      "answer": "life structure transitions (or age-30 transition/midlife transition)",
+      "clue": "Life changes"
+    },
+    {
+      "id": 180,
+      "difficulty": 5,
+      "audience": "seniors",
+      "category": "Existential Development",
+      "question": "What is the philosophical and psychological exploration of mortality and life meaning that characterizes late adulthood?",
+      "answer": "existential development (or mortality awareness)",
+      "clue": "Questions about life and death"
+    }
+  ]
+}

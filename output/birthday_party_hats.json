@@ -1,0 +1,346 @@
+{
+  "category": "Birthday Party Hats, Crowns & Accessories",
+  "theme": "celebrations",
+  "category_id": "birthday_party_hats",
+  "description": "Party hats, crowns, tiaras, headwear, and decorative accessories worn at birthday celebrations",
+  "age_suitability": "All ages",
+  "research_alignment": "Fashion history, celebration traditions, social customs, party culture, accessories",
+  "generated_date": "2025-12-29",
+  "total_questions": 60,
+  "sections": {
+    "regular_trivia": [
+      {
+        "clue": "This pointy paper hat is the classic birthday party accessory worn on your head",
+        "correctQuestion": "What is a party hat?",
+        "value": 200
+      },
+      {
+        "clue": "A decorative headpiece typically worn by a birthday person to signal they're the celebration focus",
+        "correctQuestion": "What is a crown?",
+        "value": 200
+      },
+      {
+        "clue": "This elastic string under your chin keeps your party hat from flying off",
+        "correctQuestion": "What is a chin strap?",
+        "value": 200
+      },
+      {
+        "clue": "These glittery headpieces are what royalty wears at formal birthday balls",
+        "correctQuestion": "What is a tiara?",
+        "value": 200
+      },
+      {
+        "clue": "Birthday hats shaped like this animal are popular at jungle-themed parties",
+        "correctQuestion": "What is a lion crown?",
+        "value": 200
+      },
+      {
+        "clue": "This foam or cardboard circle serves as the base for decorating a party hat",
+        "correctQuestion": "What is a headband?",
+        "value": 200
+      },
+      {
+        "clue": "These sparkly triangular accessories stuck to party hats make them shiny",
+        "correctQuestion": "What are sequins?",
+        "value": 200
+      },
+      {
+        "clue": "A decorative cape worn with a crown that makes you look like party royalty",
+        "correctQuestion": "What is a robe?",
+        "value": 200
+      },
+      {
+        "clue": "These stick-on jewels added to crowns make them look more fancy",
+        "correctQuestion": "What are rhinestones?",
+        "value": 200
+      },
+      {
+        "clue": "A paper cone hat that gets a different color for each guest at some birthday parties",
+        "correctQuestion": "What is a dunce cap?",
+        "value": 200
+      },
+      {
+        "clue": "This tall, decorative hat is worn at some formal birthday galas",
+        "correctQuestion": "What is a top hat?",
+        "value": 200
+      },
+      {
+        "clue": "These feathered accessories placed in party hats add drama and flair",
+        "correctQuestion": "What are feather plumes?",
+        "value": 200
+      },
+      {
+        "clue": "A Mexican-style straw hat decorated for a fiesta birthday celebration",
+        "correctQuestion": "What is a sombrero?",
+        "value": 200
+      },
+      {
+        "clue": "These colorful twisted wire accessories spiral out from party hat tops",
+        "correctQuestion": "What are curly streamers?",
+        "value": 200
+      },
+      {
+        "clue": "A decorative band of fabric worn across the forehead at some birthday celebrations",
+        "correctQuestion": "What is a jeweled headband?",
+        "value": 200
+      },
+      {
+        "clue": "These foam or plastic cutout shapes stick to party hats for themed celebrations",
+        "correctQuestion": "What are foam decorations?",
+        "value": 200
+      },
+      {
+        "clue": "A metallic paper cone hat that crinkles when you move in it",
+        "correctQuestion": "What is a foil party hat?",
+        "value": 200
+      },
+      {
+        "clue": "This clear plastic band holds decorations to a party hat without glue",
+        "correctQuestion": "What is a headband base?",
+        "value": 200
+      },
+      {
+        "clue": "These small metallic circles sewn onto hats catch the light at parties",
+        "correctQuestion": "What are sequins?",
+        "value": 200
+      },
+      {
+        "clue": "A fancy headpiece made of braided ribbon and jewels for formal birthday events",
+        "correctQuestion": "What is an ornamental crown?",
+        "value": 200
+      },
+      {
+        "clue": "These soft, plush materials cover party hat bases to look fancy",
+        "correctQuestion": "What is velvet?",
+        "value": 200
+      },
+      {
+        "clue": "A decorative stick with a crown on top used as a party prop at royal-themed birthdays",
+        "correctQuestion": "What is a scepter?",
+        "value": 200
+      },
+      {
+        "clue": "These tiny bells sewn into party hats jingle when you move your head",
+        "correctQuestion": "What are jingle bells?",
+        "value": 200
+      },
+      {
+        "clue": "A delicate paper crown that falls apart after wearing it all day at the party",
+        "correctQuestion": "What is a tissue paper crown?",
+        "value": 200
+      },
+      {
+        "clue": "These elastic cords keep multiple hats stacked on your head for maximum silliness",
+        "correctQuestion": "What are chin straps?",
+        "value": 200
+      },
+      {
+        "clue": "A wire frame shaped like a star that sits atop a party hat",
+        "correctQuestion": "What is a star crown?",
+        "value": 200
+      },
+      {
+        "clue": "This metallic fabric reflects light and makes budget party hats look expensive",
+        "correctQuestion": "What is lamé or mylar?",
+        "value": 200
+      },
+      {
+        "clue": "These braided or twisted golden cords wrap around crowns for decoration",
+        "correctQuestion": "What is gold trim?",
+        "value": 200
+      },
+      {
+        "clue": "A tall, cylindrical hat worn at some birthday celebrations inspired by 1920s fashion",
+        "correctQuestion": "What is a cloche hat?",
+        "value": 200
+      },
+      {
+        "clue": "These colorful foam shapes hot-glued to hats create texture and dimension",
+        "correctQuestion": "What are foam pom-poms?",
+        "value": 200
+      }
+    ],
+    "cah_style": [
+      {
+        "clue": "What every Instagram influencer wears to their birthday party for that 'relatable' crown moment that took 15 takes",
+        "correctQuestion": "What is a flower crown?",
+        "value": 400,
+        "style_notes": "References Instagram influencer culture, mainstream social media"
+      },
+      {
+        "clue": "The accessory that makes you feel like royalty for 47 minutes before it gives you a headache",
+        "correctQuestion": "What is a tiara?",
+        "value": 400,
+        "style_notes": "Relatable experience, universal understanding of tiaras"
+      },
+      {
+        "clue": "What your 4-year-old refuses to take off despite it being covered in cake frosting and snot",
+        "correctQuestion": "What is a party hat?",
+        "value": 600,
+        "style_notes": "Parenting humor, mainstream family experience"
+      },
+      {
+        "clue": "The party crown that screams 'I peaked in high school' when you wear it to your 20-year reunion",
+        "correctQuestion": "What is cheap plastic royalty?",
+        "value": 600,
+        "style_notes": "Nostalgic humor, relatable life moment"
+      },
+      {
+        "clue": "What Karen wears to insist she's a 'birthday queen' while being genuinely difficult to everyone",
+        "correctQuestion": "What is a rhinestone crown?",
+        "value": 600,
+        "style_notes": "Karen meme reference, mainstream cultural touchstone"
+      },
+      {
+        "clue": "The $2 party hat your mom bought 6 months ago at Target's clearance section",
+        "correctQuestion": "What is a sad, dented cone?",
+        "value": 400,
+        "style_notes": "Mom culture, Target reference, mainstream retail experience"
+      },
+      {
+        "clue": "What your friend's Pinterest board says is 'elegant' but looks like a drunk craft project",
+        "correctQuestion": "What is a handmade flower crown?",
+        "value": 400,
+        "style_notes": "Pinterest culture, DIY humor, mainstream platform"
+      },
+      {
+        "clue": "The reason your toddler's birthday photo has them wearing something on their head that cost more than the actual cake",
+        "correctQuestion": "What is an Instagram aesthetic?",
+        "value": 600,
+        "style_notes": "Instagram culture, parent priorities humor"
+      },
+      {
+        "clue": "What gives you a forehead indent after wearing it for 2 hours despite claiming it doesn't hurt",
+        "correctQuestion": "What is a tiara?",
+        "value": 400,
+        "style_notes": "Universal experience, relatable physical humor"
+      },
+      {
+        "clue": "The party accessory that made you feel fancy until you looked in the mirror and saw how stupid you actually looked",
+        "correctQuestion": "What is a paper cone hat?",
+        "value": 500,
+        "style_notes": "Self-aware humor, universal relatability"
+      },
+      {
+        "clue": "What your Uber driver judges you for wearing at 2am leaving your birthday club night",
+        "correctQuestion": "What is a fuzzy birthday crown?",
+        "value": 500,
+        "style_notes": "Uber reference, millennial party culture"
+      },
+      {
+        "clue": "The thing you wore in your childhood birthday photo that now makes you cringe at family reunions",
+        "correctQuestion": "What is a homemade crown of shame?",
+        "value": 400,
+        "style_notes": "Nostalgia, embarrassing memories, relatable"
+      },
+      {
+        "clue": "What princesses and drunk bachelorettes have in common",
+        "correctQuestion": "What is a tiara?",
+        "value": 500,
+        "style_notes": "Princess culture + party culture juxtaposition"
+      },
+      {
+        "clue": "The birthday accessory that makes you look 60% more attractive in the store and 40% less attractive in person",
+        "correctQuestion": "What is a party store crown?",
+        "value": 500,
+        "style_notes": "Retail experience, realistic expectations"
+      },
+      {
+        "clue": "What TikTok has convinced you costs $400 to look good but actually costs $1.99 at party city",
+        "correctQuestion": "What is a flower crown?",
+        "value": 600,
+        "style_notes": "TikTok reference, mainstream platform, price comparison humor"
+      },
+      {
+        "clue": "The crown that makes you feel like birthday royalty for 60 minutes before it ends up under your couch with a cat",
+        "correctQuestion": "What is a disposable party hat?",
+        "value": 500,
+        "style_notes": "Household humor, realistic outcomes"
+      },
+      {
+        "clue": "What your mom wore in 1987 that is somehow back in style on Gen Z TikTok",
+        "correctQuestion": "What is a sparkly headband?",
+        "value": 400,
+        "style_notes": "Fashion cycle reference, generational humor"
+      },
+      {
+        "clue": "The birthday hat that looks amazing in the Instagram story but destroyed in the actual camera roll photos",
+        "correctQuestion": "What is a angles-dependent crown?",
+        "value": 500,
+        "style_notes": "Instagram reality humor, mainstream social media experience"
+      },
+      {
+        "clue": "What you waste money on at party stores because they make birthdays feel special despite immediate garbage status",
+        "correctQuestion": "What is a party hat?",
+        "value": 400,
+        "style_notes": "Consumer culture, relatable spending habits"
+      },
+      {
+        "clue": "The accessory that makes you feel important until you see the price tag was cheaper than your coffee order",
+        "correctQuestion": "What is a wholesale crown?",
+        "value": 400,
+        "style_notes": "Commerce humor, perspective on spending"
+      },
+      {
+        "clue": "What your 3-year-old pulls off within 30 seconds despite you securing it with invisible forces",
+        "correctQuestion": "What is a party hat?",
+        "value": 500,
+        "style_notes": "Parenting humor, universal toddler experience"
+      },
+      {
+        "clue": "The reason you have 47 photos of your kid's party where they're wearing it wrong or upside down",
+        "correctQuestion": "What is a party hat?",
+        "value": 400,
+        "style_notes": "Photography/parenting humor, relatable memories"
+      },
+      {
+        "clue": "What gets tangled in your hair and becomes a metaphor for your entire life choices",
+        "correctQuestion": "What is a chin strap?",
+        "value": 500,
+        "style_notes": "Existential humor, relatable frustration"
+      },
+      {
+        "clue": "The thing that was supposed to make you feel fancy but really just made your forehead sweaty",
+        "correctQuestion": "What is a heavy crown?",
+        "value": 400,
+        "style_notes": "Physical comedy, universal experience"
+      },
+      {
+        "clue": "What your BFF wore unironically at 25 years old and you've never let her forget",
+        "correctQuestion": "What is a plastic tiara?",
+        "value": 500,
+        "style_notes": "Friend dynamics, relatable teasing"
+      },
+      {
+        "clue": "The birthday accessory that somehow costs $0.99 in bulk but $12.99 when you need it right now",
+        "correctQuestion": "What is a party hat?",
+        "value": 400,
+        "style_notes": "Retail pricing humor, last-minute shopping pressure"
+      },
+      {
+        "clue": "What your drunk aunt insists makes her the 'birthday QUEEN' before knocking over the cake",
+        "correctQuestion": "What is a wine-stained tiara?",
+        "value": 600,
+        "style_notes": "Family humor, drunk relative archetype"
+      },
+      {
+        "clue": "The crown that screams 'this party will be EPIC' but really just screams 'I made poor impulse decisions'",
+        "correctQuestion": "What is a bachelorette tiara?",
+        "value": 500,
+        "style_notes": "Party culture, self-aware humor about choices"
+      },
+      {
+        "clue": "What your dog eats off your head within 5 minutes of you putting it on",
+        "correctQuestion": "What is a fabric party hat?",
+        "value": 400,
+        "style_notes": "Pet humor, household chaos"
+      },
+      {
+        "clue": "The item that proved your parents cared enough to buy you SOMETHING special for your birthday even if it was $1",
+        "correctQuestion": "What is a party hat?",
+        "value": 400,
+        "style_notes": "Nostalgic humor, parent-child relationship"
+      }
+    ]
+  }
+}

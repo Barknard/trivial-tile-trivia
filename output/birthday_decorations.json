@@ -1,0 +1,344 @@
+{
+  "category": "Birthday Decorations",
+  "theme": "party planning and celebration",
+  "category_id": "birthday_decorations",
+  "description": "Party decorations, balloons, banners, table settings, and festive elements for birthday celebrations",
+  "age_suitability": "All ages",
+  "research_alignment": "Event planning, design principles, color psychology, spatial arrangement, party culture",
+  "generated_date": "2025-01-01",
+  "total_questions": 60,
+  "regular_clues": [
+    {
+      "clue": "Colorful objects you blow up and tie at birthday parties",
+      "correctQuestion": "What are balloons?",
+      "value": 200
+    },
+    {
+      "clue": "Long twisted paper that hangs from ceilings at parties",
+      "correctQuestion": "What are streamers?",
+      "value": 200
+    },
+    {
+      "clue": "Pointy paper hat you wear at a birthday celebration",
+      "correctQuestion": "What is a party hat?",
+      "value": 200
+    },
+    {
+      "clue": "Decorative sign that says 'Happy Birthday' on walls",
+      "correctQuestion": "What is a banner?",
+      "value": 200
+    },
+    {
+      "clue": "Cloth that covers the table at a birthday party",
+      "correctQuestion": "What is a tablecloth?",
+      "value": 200
+    },
+    {
+      "clue": "Fluffy spheres made from tissue paper for decoration",
+      "correctQuestion": "What are pom-poms?",
+      "value": 200
+    },
+    {
+      "clue": "Shiny stringy decoration that drapes and sparkles",
+      "correctQuestion": "What is tinsel?",
+      "value": 200
+    },
+    {
+      "clue": "Gas used to make balloons float in the air",
+      "correctQuestion": "What is helium?",
+      "value": 200
+    },
+    {
+      "clue": "Device that shoots colored paper into the air",
+      "correctQuestion": "What is a party popper?",
+      "value": 200
+    },
+    {
+      "clue": "Special chair where the birthday person sits",
+      "correctQuestion": "What is the birthday chair?",
+      "value": 200
+    },
+    {
+      "clue": "Letters or numbers made from balloons spelling out a birthday age",
+      "correctQuestion": "What are letter or number balloons?",
+      "value": 400
+    },
+    {
+      "clue": "Backdrop decoration arranged in columns behind the cake",
+      "correctQuestion": "What is a balloon backdrop?",
+      "value": 400
+    },
+    {
+      "clue": "Decorative chain made by linking colored paper strips together",
+      "correctQuestion": "What is a paper chain?",
+      "value": 400
+    },
+    {
+      "clue": "Metallic colored balloons that reflect light and sparkle",
+      "correctQuestion": "What are foil or mylar balloons?",
+      "value": 400
+    },
+    {
+      "clue": "Centerpiece arrangement of flowers and greenery for the table",
+      "correctQuestion": "What is a floral arrangement or centerpiece?",
+      "value": 400
+    },
+    {
+      "clue": "Small decorative items scattered on tables for visual interest",
+      "correctQuestion": "What are table confetti?",
+      "value": 400
+    },
+    {
+      "clue": "Printed cardboard or fabric backdrop with the birthday theme",
+      "correctQuestion": "What is a themed backdrop?",
+      "value": 400
+    },
+    {
+      "clue": "Colored ribbons and bows used to decorate gift tables",
+      "correctQuestion": "What are ribbons and bows?",
+      "value": 400
+    },
+    {
+      "clue": "Glitter spray used to make decorations shine and sparkle",
+      "correctQuestion": "What is craft glitter or glitter spray?",
+      "value": 400
+    },
+    {
+      "clue": "Clear plastic covers for chairs that protect during the party",
+      "correctQuestion": "What are chair covers?",
+      "value": 400
+    },
+    {
+      "clue": "Hanging decorations shaped like stars or geometric shapes",
+      "correctQuestion": "What are hanging ornaments or lanterns?",
+      "value": 600
+    },
+    {
+      "clue": "Technique of arranging multiple balloons in tall column formations",
+      "correctQuestion": "What is balloon stacking or balloon installation?",
+      "value": 600
+    },
+    {
+      "clue": "Themed decorations featuring characters from popular movies or cartoons",
+      "correctQuestion": "What are character balloons or licensed decorations?",
+      "value": 600
+    },
+    {
+      "clue": "Arch-shaped balloon arrangement that frames the entrance or cake table",
+      "correctQuestion": "What is a balloon arch?",
+      "value": 600
+    },
+    {
+      "clue": "Decorative plates, napkins, and cups all matching the party theme",
+      "correctQuestion": "What is a complete party tableware set?",
+      "value": 600
+    },
+    {
+      "clue": "Illuminated decorations powered by batteries for nighttime parties",
+      "correctQuestion": "What are LED or string lights?",
+      "value": 600
+    },
+    {
+      "clue": "Heavy weighted bases that hold balloon clusters stable on the ground",
+      "correctQuestion": "What are balloon weights or floor stands?",
+      "value": 600
+    },
+    {
+      "clue": "Clear acrylic guest book table with flowers and calligraphy pen",
+      "correctQuestion": "What is a signature table or memory board?",
+      "value": 600
+    },
+    {
+      "clue": "Professional arrangement of all decorations creating a cohesive party atmosphere",
+      "correctQuestion": "What is event styling or party design?",
+      "value": 800
+    },
+    {
+      "clue": "Suspended fabric or balloon installations creating an immersive party environment",
+      "correctQuestion": "What is a ceiling decoration or overhead installation?",
+      "value": 800
+    }
+  ],
+  "cah_clues": [
+    {
+      "clue": "What your Pinterest-obsessed mom claims she made for five hours when the balloons came from Amazon in a bulk pack",
+      "correctQuestion": "What is DIY balloon decoration?",
+      "value": 200,
+      "mainstream_check": "✅ Pinterest DIY culture massive 2010-2025"
+    },
+    {
+      "clue": "The decoration that costs $200 but the birthday kid thinks cost $2,000 because it looks Instagram-worthy",
+      "correctQuestion": "What is an expensive balloon installation?",
+      "value": 200,
+      "mainstream_check": "✅ Instagram-worthy party trends everywhere"
+    },
+    {
+      "clue": "What got delivered on January 2nd when you ordered it December 15th because you trusted this delivery giant",
+      "correctQuestion": "What is an Amazon prime birthday surprise?",
+      "value": 200,
+      "mainstream_check": "✅ Amazon late deliveries universal experience"
+    },
+    {
+      "clue": "The app where moms share their balloon decoration fails that nobody asked for",
+      "correctQuestion": "What is Facebook?",
+      "value": 200,
+      "mainstream_check": "✅ Facebook mom group posts ubiquitous"
+    },
+    {
+      "clue": "The streaming service playing in the background while you're setting up decorations and nobody's actually watching",
+      "correctQuestion": "What is Netflix?",
+      "value": 200,
+      "mainstream_check": "✅ Netflix always playing trend"
+    },
+    {
+      "clue": "What destroyed your party budget faster than inflation destroyed millennials' savings",
+      "correctQuestion": "What are party decorator costs?",
+      "value": 200,
+      "mainstream_check": "✅ Millennial inflation complaints mainstream"
+    },
+    {
+      "clue": "The TikTok trend where people arrange balloons in geometric patterns they saw someone else do",
+      "correctQuestion": "What is a balloon installation trend?",
+      "value": 200,
+      "mainstream_check": "✅ TikTok party trends dominate 2023-2025"
+    },
+    {
+      "clue": "Where you found this decoration idea at 11pm the night before the party after scrolling for three hours",
+      "correctQuestion": "What is Pinterest?",
+      "value": 200,
+      "mainstream_check": "✅ Pinterest late-night DIY searches relatable"
+    },
+    {
+      "clue": "The color that was 'out of stock' at every party store but came next-day from this retail giant",
+      "correctQuestion": "What is a Walmart or Target backup order?",
+      "value": 400,
+      "mainstream_check": "✅ Walmart/Target party supply dependence"
+    },
+    {
+      "clue": "What the 'professional party decorator' actually was: someone's unemployed cousin with Instagram and a helium tank",
+      "correctQuestion": "What is a gig economy worker?",
+      "value": 400,
+      "mainstream_check": "✅ Side hustle culture mainstream"
+    },
+    {
+      "clue": "The social media platform where people post decoration photos nobody cares about but you scroll anyway",
+      "correctQuestion": "What is Instagram?",
+      "value": 400,
+      "mainstream_check": "✅ Instagram party pics standard"
+    },
+    {
+      "clue": "What your spouse said would be 'simple and quick' but somehow became a three-day project",
+      "correctQuestion": "What is setting up party decorations?",
+      "value": 400,
+      "mainstream_check": "✅ Party setup underestimation universal"
+    },
+    {
+      "clue": "The helium shortage caused by this cryogenic application robbing balloons from birthday parties in 2023-2024",
+      "correctQuestion": "What are rocket launches?",
+      "value": 400,
+      "mainstream_check": "✅ Helium shortage was in news 2023"
+    },
+    {
+      "clue": "What you realized cost $40 after spending $300 on decorations and the kids preferred playing with this",
+      "correctQuestion": "What is a cardboard box?",
+      "value": 400,
+      "mainstream_check": "✅ Kids prefer boxes universal parenting joke"
+    },
+    {
+      "clue": "The app where you pay someone to arrange balloons while you film and pretend you did it yourself",
+      "correctQuestion": "What is Fiverr?",
+      "value": 400,
+      "mainstream_check": "✅ Fiverr gig economy mainstream"
+    },
+    {
+      "clue": "What cost more than the birthday cake but still looked like the dollar store threw up in your living room",
+      "correctQuestion": "What is budget balloon decoration?",
+      "value": 400,
+      "mainstream_check": "✅ Party budget overruns relatable"
+    },
+    {
+      "clue": "The dating app where your single friend watched everyone else celebrate while they set up OTHER people's decorations",
+      "correctQuestion": "What is Tinder?",
+      "value": 400,
+      "mainstream_check": "✅ Tinder FOMO mainstream dating culture"
+    },
+    {
+      "clue": "What Instagram made you feel like you needed but your actual party looked like the store where you bought it",
+      "correctQuestion": "What is an aesthetic balloon installation?",
+      "value": 400,
+      "mainstream_check": "✅ Instagram expectations vs reality meme"
+    },
+    {
+      "clue": "The Slack channel where your team debated who would decorate the office while they worked",
+      "correctQuestion": "What is workplace party planning?",
+      "value": 600,
+      "mainstream_check": "✅ Slack workplace culture mainstream"
+    },
+    {
+      "clue": "What's still stuck in your garage from the birthday party six months ago you keep saying you'll put away",
+      "correctQuestion": "What is leftover decoration clutter?",
+      "value": 600,
+      "mainstream_check": "✅ Procrastination cleanup universal"
+    },
+    {
+      "clue": "The YouTube influencer who made balloon decoration look easy so everyone tried and failed catastrophically",
+      "correctQuestion": "What is a viral DIY video?",
+      "value": 600,
+      "mainstream_check": "✅ YouTube DIY fails mainstream 2020-2025"
+    },
+    {
+      "clue": "What you spent $200 on while your student loans exist at 8.5% interest",
+      "correctQuestion": "What is party decoration priorities?",
+      "value": 600,
+      "mainstream_check": "✅ Student loan debt mainstream millennial issue"
+    },
+    {
+      "clue": "The thing you would never buy but the party planner's markup made it cost the same as your electric bill",
+      "correctQuestion": "What is professional decoration service?",
+      "value": 600,
+      "mainstream_check": "✅ Markup frustration universal consumer experience"
+    },
+    {
+      "clue": "What became trendy after this celebrity posted their lavish party that made everyone else feel inadequate",
+      "correctQuestion": "What is celebrity party culture?",
+      "value": 600,
+      "mainstream_check": "✅ Celebrity party influence mainstream media"
+    },
+    {
+      "clue": "The Zoom call where you couldn't unmute to tell everyone the decoration collapsed",
+      "correctQuestion": "What is pandemic party planning?",
+      "value": 600,
+      "mainstream_check": "✅ Zoom unmute fails universal 2020-2021"
+    },
+    {
+      "clue": "What your HOA specifically banned but your neighbor did anyway because Karen doesn't follow rules",
+      "correctQuestion": "What is excessive yard decoration?",
+      "value": 600,
+      "mainstream_check": "✅ Karen stereotype mainstream culture"
+    },
+    {
+      "clue": "What you ordered but received the completely wrong thing from this mega-retailer with terrible quality control",
+      "correctQuestion": "What is AliExpress or wish.com junk?",
+      "value": 800,
+      "mainstream_check": "✅ AliExpress fails viral content 2020-2025"
+    },
+    {
+      "clue": "The thing that would have cost $500 professional but you're paying your anxious cousin $50 in exposure and free pizza",
+      "correctQuestion": "What is unpaid side hustle labor?",
+      "value": 800,
+      "mainstream_check": "✅ 'Payment in exposure' joke mainstream"
+    },
+    {
+      "clue": "What you saw on TikTok and immediately knew was unrealistic but tried anyway because you have main character delusions",
+      "correctQuestion": "What is an unattainable party aesthetic?",
+      "value": 800,
+      "mainstream_check": "✅ 'Main character energy' trend 2022-2025"
+    },
+    {
+      "clue": "The reason you're now in relationship therapy because your spouse interpreted decoration help very differently",
+      "correctQuestion": "What is unmet party planning expectations?",
+      "value": 800,
+      "mainstream_check": "✅ Relationship communication issues relatable"
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "title": "Beach Snorkeling",
+  "description": "Dive into the world of snorkeling, underwater exploration, and amazing fish!",
+  "levels": [
+    {
+      "level": 1,
+      "name": "Beginner Diver",
+      "difficulty": 100,
+      "questions": [
+        {
+          "id": "1-1",
+          "question": "What equipment do you wear on your face to see underwater?",
+          "answer": "Snorkel mask (or mask)"
+        },
+        {
+          "id": "1-2",
+          "question": "What is the tube called that lets you breathe while your face is in the water?",
+          "answer": "Snorkel"
+        },
+        {
+          "id": "1-3",
+          "question": "What do you wear on your feet to help you swim faster?",
+          "answer": "Fins (or flippers)"
+        },
+        {
+          "id": "1-4",
+          "question": "What color is the ocean?",
+          "answer": "Blue"
+        },
+        {
+          "id": "1-5",
+          "question": "What do fish use to breathe underwater?",
+          "answer": "Gills"
+        },
+        {
+          "id": "1-6",
+          "question": "Where do you go snorkeling at the beach?",
+          "answer": "In the water (or ocean or sea)"
+        },
+        {
+          "id": "1-7",
+          "question": "How many eyes do most fish have?",
+          "answer": "Two"
+        },
+        {
+          "id": "1-8",
+          "question": "What is it called when you swim underwater to see fish?",
+          "answer": "Snorkeling"
+        },
+        {
+          "id": "1-9",
+          "question": "What should you wear to protect your skin from the sun at the beach?",
+          "answer": "Sunscreen"
+        },
+        {
+          "id": "1-10",
+          "question": "What do fish have on their bodies that help them swim?",
+          "answer": "Fins"
+        },
+        {
+          "id": "1-11",
+          "question": "What is a group of fish swimming together called?",
+          "answer": "School (or school of fish)"
+        },
+        {
+          "id": "1-12",
+          "question": "What color are coral reefs usually?",
+          "answer": "Colorful (or many colors, or pink, orange, or yellow)"
+        },
+        {
+          "id": "1-13",
+          "question": "What animal has tentacles and lives in the ocean?",
+          "answer": "Octopus (or squid)"
+        },
+        {
+          "id": "1-14",
+          "question": "How many arms does an octopus have?",
+          "answer": "Eight"
+        },
+        {
+          "id": "1-15",
+          "question": "What is a seahorse?",
+          "answer": "A small fish"
+        },
+        {
+          "id": "1-16",
+          "question": "Can fish taste food in the water?",
+          "answer": "Yes"
+        },
+        {
+          "id": "1-17",
+          "question": "What do sea stars eat?",
+          "answer": "Small animals or mollusks"
+        },
+        {
+          "id": "1-18",
+          "question": "How many points does a starfish usually have?",
+          "answer": "Five"
+        },
+        {
+          "id": "1-19",
+          "question": "What is it called when you explore under the water with a snorkel?",
+          "answer": "Snorkeling"
+        },
+        {
+          "id": "1-20",
+          "question": "What do you need to bring to the beach to stay safe in the sun?",
+          "answer": "Sunscreen (or sunhat or water)"
+        },
+        {
+          "id": "1-21",
+          "question": "What is a clownfish?",
+          "answer": "A colorful orange and white fish"
+        },
+        {
+          "id": "1-22",
+          "question": "Do sharks eat other fish?",
+          "answer": "Yes"
+        },
+        {
+          "id": "1-23",
+          "question": "What is it called when the ocean water goes up and down?",
+          "answer": "Waves"
+        },
+        {
+          "id": "1-24",
+          "question": "What color are most sea turtles?",
+          "answer": "Brown (or green or dark)"
+        },
+        {
+          "id": "1-25",
+          "question": "Do sea turtles breathe air or water?",
+          "answer": "Air"
+        },
+        {
+          "id": "1-26",
+          "question": "What shell does a hermit crab use as a home?",
+          "answer": "A seashell"
+        },
+        {
+          "id": "1-27",
+          "question": "What is a pufferfish known for?",
+          "answer": "Puffing up (or inflating)"
+        },
+        {
+          "id": "1-28",
+          "question": "How deep in the ocean can you snorkel?",
+          "answer": "Near the surface (or a few meters)"
+        },
+        {
+          "id": "1-29",
+          "question": "What animal lives in a shell and slowly moves?",
+          "answer": "Snail (or sea snail)"
+        },
+        {
+          "id": "1-30",
+          "question": "Can you see the sky while snorkeling?",
+          "answer": "Yes"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Splash Master",
+      "difficulty": 200,
+      "questions": [
+        {
+          "id": "2-1",
+          "question": "What is the name of the colorful reef fish that lives with sea anemones?",
+          "answer": "Clownfish"
+        },
+        {
+          "id": "2-2",
+          "question": "How do dolphins navigate underwater?",
+          "answer": "Echolocation"
+        },
+        {
+          "id": "2-3",
+          "question": "What do sea urchins use to move along the ocean floor?",
+          "answer": "Tube feet"
+        },
+        {
+          "id": "2-4",
+          "question": "How many chambers does a nautilus shell have?",
+          "answer": "Multiple (or many)"
+        },
+        {
+          "id": "2-5",
+          "question": "What type of fish has a long, flat body?",
+          "answer": "Flatfish (or flounder or sole)"
+        },
+        {
+          "id": "2-6",
+          "question": "What do parrotfish eat that gives them their name?",
+          "answer": "Coral (or algae)"
+        },
+        {
+          "id": "2-7",
+          "question": "How do fish communicate with each other?",
+          "answer": "Sounds (or vibrations or colors)"
+        },
+        {
+          "id": "2-8",
+          "question": "What is a coral polyp?",
+          "answer": "A tiny animal that builds coral"
+        },
+        {
+          "id": "2-9",
+          "question": "How does a seahorse move through the water?",
+          "answer": "By fluttering its fin"
+        },
+        {
+          "id": "2-10",
+          "question": "What do anemones use to catch food?",
+          "answer": "Tentacles"
+        },
+        {
+          "id": "2-11",
+          "question": "What is the largest coral reef in the world?",
+          "answer": "The Great Barrier Reef"
+        },
+        {
+          "id": "2-12",
+          "question": "How do fish see in the dark ocean?",
+          "answer": "They have special eyes (or bioluminescence)"
+        },
+        {
+          "id": "2-13",
+          "question": "What is a moray eel?",
+          "answer": "A long, striped fish that hides in rocks"
+        },
+        {
+          "id": "2-14",
+          "question": "Do all fish lay eggs?",
+          "answer": "No (most do, but some give birth)"
+        },
+        {
+          "id": "2-15",
+          "question": "What is camouflage in the ocean?",
+          "answer": "When animals blend in with their surroundings"
+        },
+        {
+          "id": "2-16",
+          "question": "How do pufferfish protect themselves?",
+          "answer": "They puff up (or become spiky)"
+        },
+        {
+          "id": "2-17",
+          "question": "What is the smallest fish in the ocean?",
+          "answer": "Goby (or similar tiny fish)"
+        },
+        {
+          "id": "2-18",
+          "question": "How long is a sea turtle's life span?",
+          "answer": "Many years (or 50-100 years)"
+        },
+        {
+          "id": "2-19",
+          "question": "What is bioluminescence?",
+          "answer": "Light made by animals in the ocean"
+        },
+        {
+          "id": "2-20",
+          "question": "What do filter-feeding fish eat?",
+          "answer": "Plankton (or tiny organisms)"
+        },
+        {
+          "id": "2-21",
+          "question": "How many types of coral are there?",
+          "answer": "Hundreds (or many)"
+        },
+        {
+          "id": "2-22",
+          "question": "What is a symbiotic relationship in the ocean?",
+          "answer": "When two animals help each other"
+        },
+        {
+          "id": "2-23",
+          "question": "What color are tropical fish usually?",
+          "answer": "Bright colors (or blue, yellow, red, orange)"
+        },
+        {
+          "id": "2-24",
+          "question": "How fast can a fish swim?",
+          "answer": "It depends on the type (or some are very fast)"
+        },
+        {
+          "id": "2-25",
+          "question": "What is a gill net used for?",
+          "answer": "Catching fish"
+        },
+        {
+          "id": "2-26",
+          "question": "Do sharks sleep?",
+          "answer": "Yes (but differently than humans)"
+        },
+        {
+          "id": "2-27",
+          "question": "What is plankton?",
+          "answer": "Tiny organisms in the ocean"
+        },
+        {
+          "id": "2-28",
+          "question": "How do fish ears work?",
+          "answer": "Through vibrations in the water"
+        },
+        {
+          "id": "2-29",
+          "question": "What is a sponge in the ocean?",
+          "answer": "An animal (not just a cleaning tool)"
+        },
+        {
+          "id": "2-30",
+          "question": "What do you call a baby sea turtle?",
+          "answer": "A hatchling"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "name": "Reef Explorer",
+      "difficulty": 300,
+      "questions": [
+        {
+          "id": "3-1",
+          "question": "What is the scientific name for a clownfish?",
+          "answer": "Amphiprion"
+        },
+        {
+          "id": "3-2",
+          "question": "How many species of sea turtles exist?",
+          "answer": "Seven"
+        },
+        {
+          "id": "3-3",
+          "question": "What is the deepest ocean trench called?",
+          "answer": "Mariana Trench"
+        },
+        {
+          "id": "3-4",
+          "question": "What percentage of oxygen does the ocean produce?",
+          "answer": "About 70% (or 50-70%)"
+        },
+        {
+          "id": "3-5",
+          "question": "What is the largest fish in the world?",
+          "answer": "Whale shark"
+        },
+        {
+          "id": "3-6",
+          "question": "How many teeth does a shark have?",
+          "answer": "Thousands (or multiple rows)"
+        },
+        {
+          "id": "3-7",
+          "question": "What causes coral bleaching?",
+          "answer": "Rising water temperature (or climate change)"
+        },
+        {
+          "id": "3-8",
+          "question": "How deep is the twilight zone of the ocean?",
+          "answer": "About 200-1000 meters"
+        },
+        {
+          "id": "3-9",
+          "question": "What is a sea horse's scientific classification?",
+          "answer": "Seahorses are fish"
+        },
+        {
+          "id": "3-10",
+          "question": "How do dolphins produce echolocation clicks?",
+          "answer": "Through their nasal passages (or melon)"
+        },
+        {
+          "id": "3-11",
+          "question": "What is the only mammal in the ocean that lays eggs?",
+          "answer": "Platypus (or monotreme)"
+        },
+        {
+          "id": "3-12",
+          "question": "How many chambers does a nautilus have in its shell?",
+          "answer": "About 30 (or 20-40)"
+        },
+        {
+          "id": "3-13",
+          "question": "What is an oceanic food chain?",
+          "answer": "The sequence of who eats what in the ocean"
+        },
+        {
+          "id": "3-14",
+          "question": "How long can a sea turtle hold its breath?",
+          "answer": "Several hours (or 4-7 hours)"
+        },
+        {
+          "id": "3-15",
+          "question": "What is the Great Barrier Reef made of?",
+          "answer": "Coral polyps"
+        },
+        {
+          "id": "3-16",
+          "question": "How do starfish regenerate limbs?",
+          "answer": "By growing them back over time"
+        },
+        {
+          "id": "3-17",
+          "question": "What is a benthic organism?",
+          "answer": "An organism living on the ocean floor"
+        },
+        {
+          "id": "3-18",
+          "question": "How many arms does a squid have?",
+          "answer": "Ten (or eight arms and two tentacles)"
+        },
+        {
+          "id": "3-19",
+          "question": "What is the name of the protective mucus layer on fish?",
+          "answer": "Slime coat (or mucus layer)"
+        },
+        {
+          "id": "3-20",
+          "question": "How do fish determine up from down?",
+          "answer": "Through their swim bladder (or inner ear)"
+        },
+        {
+          "id": "3-21",
+          "question": "What is chemoreception in fish?",
+          "answer": "The ability to taste and smell in water"
+        },
+        {
+          "id": "3-22",
+          "question": "How old can a parrot fish be?",
+          "answer": "About 5-7 years on average"
+        },
+        {
+          "id": "3-23",
+          "question": "What is the average depth fish snorkel at?",
+          "answer": "5-10 meters (or 15-30 feet)"
+        },
+        {
+          "id": "3-24",
+          "question": "How do fish regulate their body temperature?",
+          "answer": "Most are cold-blooded (change with water temp)"
+        },
+        {
+          "id": "3-25",
+          "question": "What is a symbiotic relationship between clownfish and anemone?",
+          "answer": "Fish gets shelter, anemone gets protection"
+        },
+        {
+          "id": "3-26",
+          "question": "How many scales does an average fish have?",
+          "answer": "Thousands (or hundreds to thousands)"
+        },
+        {
+          "id": "3-27",
+          "question": "What is the ocean's salinity level?",
+          "answer": "About 35 parts per thousand"
+        },
+        {
+          "id": "3-28",
+          "question": "What is the difference between a sea snake and eel?",
+          "answer": "Sea snakes are reptiles, eels are fish"
+        },
+        {
+          "id": "3-29",
+          "question": "How fast can a sailfish swim?",
+          "answer": "About 68 mph (or 110 km/h)"
+        },
+        {
+          "id": "3-30",
+          "question": "What triggers migration in sea turtles?",
+          "answer": "Temperature changes (or instinct)"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "name": "Ocean Master",
+      "difficulty": 400,
+      "questions": [
+        {
+          "id": "4-1",
+          "question": "What is the bioluminescent mechanism in anglerfish?",
+          "answer": "Luciferin and luciferase enzyme reaction"
+        },
+        {
+          "id": "4-2",
+          "question": "How do fish osmoregulate in saltwater?",
+          "answer": "By excreting salt through gills and urine"
+        },
+        {
+          "id": "4-3",
+          "question": "What is the lateral line system in fish?",
+          "answer": "A sensory organ detecting water pressure and movement"
+        },
+        {
+          "id": "4-4",
+          "question": "How does a octopus change color?",
+          "answer": "Through chromatophores and muscle control"
+        },
+        {
+          "id": "4-5",
+          "question": "What is the scientific term for fish sleep?",
+          "answer": "Quiet rest (or slow-wave sleep)"
+        },
+        {
+          "id": "4-6",
+          "question": "How do corals reproduce asexually?",
+          "answer": "Through budding or fragmentation"
+        },
+        {
+          "id": "4-7",
+          "question": "What is the halocline in the ocean?",
+          "answer": "A layer where salinity changes rapidly"
+        },
+        {
+          "id": "4-8",
+          "question": "What is the metabolic rate difference in ectothermic fish?",
+          "answer": "It varies with water temperature"
+        },
+        {
+          "id": "4-9",
+          "question": "How do seahorses exhibit monogamy?",
+          "answer": "By staying with one partner each breeding season"
+        },
+        {
+          "id": "4-10",
+          "question": "What is the Sargasso Sea known for?",
+          "answer": "Sargassum seaweed and eel breeding"
+        },
+        {
+          "id": "4-11",
+          "question": "How do fish detect light with no eyes?",
+          "answer": "Through pineal glands and light-sensitive cells"
+        },
+        {
+          "id": "4-12",
+          "question": "What is the nitrogen cycle in coral reefs?",
+          "answer": "The cycling of nitrogen through reef organisms"
+        },
+        {
+          "id": "4-13",
+          "question": "How do parrotfish contribute to beach sand?",
+          "answer": "By excreting digested coral as sand"
+        },
+        {
+          "id": "4-14",
+          "question": "What is the Coriolis effect in ocean currents?",
+          "answer": "The deflection of moving objects by Earth's rotation"
+        },
+        {
+          "id": "4-15",
+          "question": "How do fish maintain buoyancy?",
+          "answer": "With their swim bladder or body composition"
+        },
+        {
+          "id": "4-16",
+          "question": "What is abyssal gigantism?",
+          "answer": "Growth to large sizes in deep ocean organisms"
+        },
+        {
+          "id": "4-17",
+          "question": "How does a dolphin's melon focus echolocation?",
+          "answer": "By directing sound waves like a lens"
+        },
+        {
+          "id": "4-18",
+          "question": "What is the photosynthetic zone in the ocean?",
+          "answer": "The photic or sunlit zone"
+        },
+        {
+          "id": "4-19",
+          "question": "How do fish navigate magnetic fields?",
+          "answer": "With magnetite crystals in their brains"
+        },
+        {
+          "id": "4-20",
+          "question": "What is the difference between pelagic and benthic?",
+          "answer": "Pelagic is open water, benthic is ocean floor"
+        },
+        {
+          "id": "4-21",
+          "question": "How does a cuttlefish control its chromatophores?",
+          "answer": "Through muscle contractions and neural signals"
+        },
+        {
+          "id": "4-22",
+          "question": "What is the thermocline layer?",
+          "answer": "A layer where temperature changes rapidly"
+        },
+        {
+          "id": "4-23",
+          "question": "How do fish detect sound frequency?",
+          "answer": "Through inner ear hair cells"
+        },
+        {
+          "id": "4-24",
+          "question": "What is the MHC system in fish immunity?",
+          "answer": "Major histocompatibility complex for immune recognition"
+        },
+        {
+          "id": "4-25",
+          "question": "How do eels generate electric fields?",
+          "answer": "With specialized electric organs"
+        },
+        {
+          "id": "4-26",
+          "question": "What is the Langmuir circulation effect?",
+          "answer": "Wind-driven water circulation patterns"
+        },
+        {
+          "id": "4-27",
+          "question": "How do fish gills extract oxygen efficiently?",
+          "answer": "Through counter-current water and blood flow"
+        },
+        {
+          "id": "4-28",
+          "question": "What is the reproductive strategy of seahorses?",
+          "answer": "Males brood eggs in a pouch"
+        },
+        {
+          "id": "4-29",
+          "question": "How do fish adjust eye focus?",
+          "answer": "By moving the lens back and forth"
+        },
+        {
+          "id": "4-30",
+          "question": "What causes the migration of gray whales?",
+          "answer": "Seasonal feeding and breeding grounds"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "name": "Deep Sea Scholar",
+      "difficulty": 500,
+      "questions": [
+        {
+          "id": "5-1",
+          "question": "How do cnidarians like sea anemones regulate their nematocysts?",
+          "answer": "Through specialized organelles and neural pathways"
+        },
+        {
+          "id": "5-2",
+          "question": "What is the biochemical basis of coral symbiosis with zooxanthellae?",
+          "answer": "Exchange of nutrients and photosynthetic products"
+        },
+        {
+          "id": "5-3",
+          "question": "How does the circulatory system in cephalopods differ from fish?",
+          "answer": "Multiple hearts and blue copper-based blood (hemocyanin)"
+        },
+        {
+          "id": "5-4",
+          "question": "What is the acoustic impedance mismatch in fish gills?",
+          "answer": "The contrast enabling sound detection and transmission"
+        },
+        {
+          "id": "5-5",
+          "question": "How do organisms at hydrothermal vents utilize chemosynthesis?",
+          "answer": "Using oxidation of hydrogen sulfide for energy"
+        },
+        {
+          "id": "5-6",
+          "question": "What is the role of guanine crystals in fish scales?",
+          "answer": "Providing reflectivity and camouflage"
+        },
+        {
+          "id": "5-7",
+          "question": "How do fish process multiple sensory inputs simultaneously?",
+          "answer": "Through integration in the optic tectum and midbrain"
+        },
+        {
+          "id": "5-8",
+          "question": "What is the relationship between sea level rise and reef acidification?",
+          "answer": "CO2 absorption lowers pH, affecting calcifying organisms"
+        },
+        {
+          "id": "5-9",
+          "question": "How does the countershading strategy protect deep sea organisms?",
+          "answer": "Dark on top, light below, breaking silhouette in bioluminescence"
+        },
+        {
+          "id": "5-10",
+          "question": "What is the biochemical function of taurine in marine animals?",
+          "answer": "Osmolyte regulation and neurological function"
+        },
+        {
+          "id": "5-11",
+          "question": "How do fish navigate using Earth's magnetic field quantitatively?",
+          "answer": "Through specialized ion channels and protein complexes"
+        },
+        {
+          "id": "5-12",
+          "question": "What is the trophic transfer efficiency in ocean food webs?",
+          "answer": "About 10% per trophic level"
+        },
+        {
+          "id": "5-13",
+          "question": "How do cephalopods achieve rapid color change neurologically?",
+          "answer": "Through direct neural control without hormonal mediation"
+        },
+        {
+          "id": "5-14",
+          "question": "What is the genetic basis for bioluminescence in dinoflagellates?",
+          "answer": "Luciferase genes with specific spectral properties"
+        },
+        {
+          "id": "5-15",
+          "question": "How does pressure tolerance relate to depth adaptation?",
+          "answer": "Specialized proteins and cellular structures resist denaturation"
+        },
+        {
+          "id": "5-16",
+          "question": "What is the role of myelin in octopus axons?",
+          "answer": "Enabling rapid neural conduction and complex behavior"
+        },
+        {
+          "id": "5-17",
+          "question": "How does the Stokes drift affect larval fish dispersal?",
+          "answer": "Wave orbital motion creates net water transport"
+        },
+        {
+          "id": "5-18",
+          "question": "What is the metabolic rate of pelagic versus benthic fish?",
+          "answer": "Pelagic generally higher due to activity demands"
+        },
+        {
+          "id": "5-19",
+          "question": "How do fish cells maintain osmotic pressure in saltwater?",
+          "answer": "Through regulated ion pumps and intracellular organic solutes"
+        },
+        {
+          "id": "5-20",
+          "question": "What is the quantum yield in photosynthetic zooxanthellae?",
+          "answer": "About 0.08-0.12 moles O2 per mole photons"
+        },
+        {
+          "id": "5-21",
+          "question": "How do shark ampullae of Lorenzini detect bioelectric fields?",
+          "answer": "Through voltage-sensitive ion channels in sensory cells"
+        },
+        {
+          "id": "5-22",
+          "question": "What is the ontogenetic diet shift in pufferfish?",
+          "answer": "Young eat plankton, adults eat hard-shelled prey"
+        },
+        {
+          "id": "5-23",
+          "question": "How does dissolved oxygen gradient affect vertical migration?",
+          "answer": "Organisms avoid hypoxic zones through chemoreception"
+        },
+        {
+          "id": "5-24",
+          "question": "What is the molecular mechanism of fish color vision?",
+          "answer": "Multiple cone types with different opsin wavelengths"
+        },
+        {
+          "id": "5-25",
+          "question": "How do coral symbiont-host ratios shift during bleaching?",
+          "answer": "Zooxanthellae density decreases dramatically"
+        },
+        {
+          "id": "5-26",
+          "question": "What is the energetic cost of echolocation in dolphins?",
+          "answer": "About 5-10% of total metabolic rate"
+        },
+        {
+          "id": "5-27",
+          "question": "How does the Ekman spiral influence ocean fish distribution?",
+          "answer": "Wind-driven current layers create habitat stratification"
+        },
+        {
+          "id": "5-28",
+          "question": "What is the phenotypic plasticity range in reef fish morphology?",
+          "answer": "High variation responding to environmental stressors"
+        },
+        {
+          "id": "5-29",
+          "question": "How do fish otoliths calcify and record growth?",
+          "answer": "Through daily aragonite deposition creating growth rings"
+        },
+        {
+          "id": "5-30",
+          "question": "What is the cascade effect of apex predator removal in reefs?",
+          "answer": "Trophic collapse affecting entire food web structure"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "name": "Aquatic Scientist",
+      "difficulty": 600,
+      "questions": [
+        {
+          "id": "6-1",
+          "question": "How does the allosteric regulation of hemocyanin in cephalopods facilitate oxygen binding?",
+          "answer": "Cooperative binding through conformational changes in subunits"
+        },
+        {
+          "id": "6-2",
+          "question": "What is the mechanistic basis of chromatophore expansion in cuttlefish?",
+          "answer": "Muscle fibrils contract radially around pigment sacs"
+        },
+        {
+          "id": "6-3",
+          "question": "How does horizontal gene transfer influence pathogen resistance in fish?",
+          "answer": "Integration of novel immune genes from environmental DNA"
+        },
+        {
+          "id": "6-4",
+          "question": "What is the quantum tunneling probability in fish magnetoreception?",
+          "answer": "Enhanced electron transfer in radical pair mechanism"
+        },
+        {
+          "id": "6-5",
+          "question": "How do thermophilic enzymes in vent fish maintain function at temperature extremes?",
+          "answer": "Specialized amino acid sequences preventing denaturation"
+        },
+        {
+          "id": "6-6",
+          "question": "What is the role of mucopolysaccharides in chordate osmoregulation?",
+          "answer": "Increasing effective osmotic potential of body fluids"
+        },
+        {
+          "id": "6-7",
+          "question": "How does the semicircular canal morphology relate to rotational sensitivity in fish?",
+          "answer": "Canal radius determines frequency response characteristics"
+        },
+        {
+          "id": "6-8",
+          "question": "What is the molecular phylogenetics of opsin gene duplication in fish?",
+          "answer": "Whole genome duplication events creating spectral diversity"
+        },
+        {
+          "id": "6-9",
+          "question": "How does reactive oxygen species management differ in deep-sea fish?",
+          "answer": "Enhanced antioxidant enzyme systems protect cells"
+        },
+        {
+          "id": "6-10",
+          "question": "What is the hydrodynamic advantage of laminar flow over fish mucus layer?",
+          "answer": "Reduced turbulence and drag coefficient"
+        },
+        {
+          "id": "6-11",
+          "question": "How do fish intestinal tight junctions maintain selective permeability?",
+          "answer": "Claudin proteins create size and charge-selective barriers"
+        },
+        {
+          "id": "6-12",
+          "question": "What is the genomic architecture of Hox genes in teleost fish?",
+          "answer": "Duplication creating four clusters instead of one"
+        },
+        {
+          "id": "6-13",
+          "question": "How does the vestibulo-ocular reflex stabilize vision during movement?",
+          "answer": "Semicircular canal signals trigger compensatory eye movements"
+        },
+        {
+          "id": "6-14",
+          "question": "What is the thermodynamic efficiency of coral holobiont photosynthesis?",
+          "answer": "30-50% net photosynthetic efficiency under stress"
+        },
+        {
+          "id": "6-15",
+          "question": "How do fish hepatic P450 enzymes metabolize xenobiotics?",
+          "answer": "Through phase I, II, III detoxification pathways"
+        },
+        {
+          "id": "6-16",
+          "question": "What is the stochastic resonance mechanism in shark electroreception?",
+          "answer": "Noise enhancement of subthreshold bioelectric signals"
+        },
+        {
+          "id": "6-17",
+          "question": "How does the blood-brain barrier in fish exclude neurotoxins?",
+          "answer": "Tight junctions and active transport mechanisms"
+        },
+        {
+          "id": "6-18",
+          "question": "What is the bioenergetic cost of territorial defense in reef fish?",
+          "answer": "20-40% increased metabolic expenditure"
+        },
+        {
+          "id": "6-19",
+          "question": "How do fish sensory ganglia process multisensory integration?",
+          "answer": "Through convergence and polysynaptic circuits"
+        },
+        {
+          "id": "6-20",
+          "question": "What is the proteomics signature of coral bleaching initiation?",
+          "answer": "Upregulation of heat shock proteins and chaperones"
+        },
+        {
+          "id": "6-21",
+          "question": "How does the renin-angiotensin system regulate fish blood pressure?",
+          "answer": "Hormone cascade controlling vascular tone and fluid volume"
+        },
+        {
+          "id": "6-22",
+          "question": "What is the role of microRNAs in fish developmental patterning?",
+          "answer": "Post-transcriptional regulation of developmental genes"
+        },
+        {
+          "id": "6-23",
+          "question": "How do fish neural stem cells maintain neurogenic capacity?",
+          "answer": "Through telomerase activity and asymmetric division"
+        },
+        {
+          "id": "6-24",
+          "question": "What is the spectral tuning of visual pigments through amino acid substitution?",
+          "answer": "Changes in chromophore environment shift absorption maxima"
+        },
+        {
+          "id": "6-25",
+          "question": "How does fish intestinal microbiota influence nutrient bioavailability?",
+          "answer": "Bacterial metabolism enhances vitamin synthesis and absorption"
+        },
+        {
+          "id": "6-26",
+          "question": "What is the epigenetic landscape of phenotypic plasticity in cichlids?",
+          "answer": "DNA methylation and histone modification patterns"
+        },
+        {
+          "id": "6-27",
+          "question": "How do fish maximize ATP production during burst swimming?",
+          "answer": "White muscle anaerobic metabolism and phosphocreatine hydrolysis"
+        },
+        {
+          "id": "6-28",
+          "question": "What is the quantum mechanical basis of color perception in fish?",
+          "answer": "Photon-induced conformational changes in opsins"
+        },
+        {
+          "id": "6-29",
+          "question": "How does the hydraulic gill arch system enhance oxygen extraction?",
+          "answer": "Optimized pressure gradients and flow rate control"
+        },
+        {
+          "id": "6-30",
+          "question": "What is the mathematical model for reef ecosystem resilience thresholds?",
+          "answer": "Bistable state transitions with hysteresis effects"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1661 @@
+{
+  "category": "Birthday Food Feasts",
+  "description": "180 Jeopardy questions about birthday meals, favorite foods, celebratory dining, and party foods across all difficulty levels",
+  "total_questions": 180,
+  "difficulty_levels": {
+    "elementary_school": 36,
+    "middle_school": 36,
+    "high_school": 36,
+    "college": 36,
+    "expert": 36
+  },
+  "research_sources": {
+    "nutrition": "USDA Nutrition guidelines, MyPlate framework, food science nutrition principles",
+    "culinary_traditions": "Cultural birthday food traditions from Mexico, China, Korea, Germany, India, Russia, Japan, Australia, Brazil, France, Egypt",
+    "food_science": "Food chemistry, sugar preservation, fermentation, cake leavening, flavor chemistry"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "elementary_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This sweet, round dessert with candles on top is traditionally eaten on birthdays.",
+      "response": "What is a birthday cake?",
+      "context": "Basic celebration foods"
+    },
+    {
+      "id": 2,
+      "difficulty": "elementary_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "You blow out these on top of your birthday cake to make a wish.",
+      "response": "What are candles?",
+      "context": "Birthday cake traditions"
+    },
+    {
+      "id": 3,
+      "difficulty": "elementary_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This cold, creamy treat often comes in flavors like chocolate and vanilla for birthday celebrations.",
+      "response": "What is ice cream?",
+      "context": "Popular birthday desserts"
+    },
+    {
+      "id": 4,
+      "difficulty": "elementary_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "These small, colorful round candies are often sprinkled on top of birthday cake frosting.",
+      "response": "What are sprinkles?",
+      "context": "Cake decorations"
+    },
+    {
+      "id": 5,
+      "difficulty": "elementary_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This sweet, colorful topping is spread on birthday cakes and often made from sugar and butter.",
+      "response": "What is frosting?",
+      "context": "Cake components"
+    },
+    {
+      "id": 6,
+      "difficulty": "elementary_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In the United States, this is the most common flavor for birthday cake.",
+      "response": "What is chocolate?",
+      "context": "Popular cake flavors"
+    },
+    {
+      "id": 7,
+      "difficulty": "elementary_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "These small, round, sweet snacks shaped like balls are popular birthday party treats.",
+      "response": "What are cake pops?",
+      "context": "Modern party treats"
+    },
+    {
+      "id": 8,
+      "difficulty": "elementary_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "This pink and white striped Australian bread treat with sprinkles is popular at children's birthday parties.",
+      "response": "What is fairy bread?",
+      "context": "International birthday foods"
+    },
+    {
+      "id": 9,
+      "difficulty": "elementary_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "Hot dogs and this are classic ballpark and birthday party foods.",
+      "response": "What are hamburgers?",
+      "context": "Party food staples"
+    },
+    {
+      "id": 10,
+      "difficulty": "elementary_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "These dipped fruit or marshmallow treats on a stick are fun birthday party snacks.",
+      "response": "What are chocolate-covered strawberries or pretzel rods?",
+      "context": "Hands-on party treats"
+    },
+    {
+      "id": 11,
+      "difficulty": "elementary_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "Pizza is often served at birthday parties because it's this—you can eat it with your hands.",
+      "response": "What is convenient or finger food?",
+      "context": "Party food practicality"
+    },
+    {
+      "id": 12,
+      "difficulty": "elementary_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In Mexico, a tradition is to gently push the birthday person's face into this.",
+      "response": "What is the birthday cake?",
+      "context": "Mexican birthday traditions"
+    },
+    {
+      "id": 13,
+      "difficulty": "elementary_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "These cheese and tomato covered breads are circular and are a favorite party food.",
+      "response": "What are pizzas?",
+      "context": "Popular party foods"
+    },
+    {
+      "id": 14,
+      "difficulty": "elementary_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "These salty, crunchy snacks come in many flavors and are popular at birthday parties.",
+      "response": "What are potato chips?",
+      "context": "Party snacks"
+    },
+    {
+      "id": 15,
+      "difficulty": "elementary_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This fizzy drink is often served with birthday cake and pizza at celebrations.",
+      "response": "What is soda or pop?",
+      "context": "Party beverages"
+    },
+    {
+      "id": 16,
+      "difficulty": "elementary_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In Germany, birthday cakes traditionally have candles for each year plus this one number for good luck.",
+      "response": "What is one?",
+      "context": "German birthday traditions"
+    },
+    {
+      "id": 17,
+      "difficulty": "elementary_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In China, this noodle dish has a name meaning 'longevity noodles' and represents long life.",
+      "response": "What is yi mein or longevity noodles?",
+      "context": "Chinese birthday traditions"
+    },
+    {
+      "id": 18,
+      "difficulty": "elementary_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "This sweet Indian treat shaped like a ball is often given out at birthday celebrations.",
+      "response": "What is a ladoo or laddoo?",
+      "context": "Indian birthday sweets"
+    },
+    {
+      "id": 19,
+      "difficulty": "elementary_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "Popcorn and this candy are classic movie party snacks that work at birthday celebrations too.",
+      "response": "What is candy or popcorn balls?",
+      "context": "Party snack combinations"
+    },
+    {
+      "id": 20,
+      "difficulty": "elementary_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "These gummy or jelly candies are often served in bowls at birthday parties.",
+      "response": "What are gummy bears or jelly beans?",
+      "context": "Candy at parties"
+    },
+    {
+      "id": 21,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Korea, the birthday person traditionally eats this seaweed soup, often prepared by their mother.",
+      "response": "What is miyeok-guk?",
+      "context": "Korean birthday traditions"
+    },
+    {
+      "id": 22,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Mexico, tres leches cake is soaked in three types of this liquid to make it moist.",
+      "response": "What is milk?",
+      "context": "Mexican cake traditions"
+    },
+    {
+      "id": 23,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "These ancient Greek moon-shaped cakes with lit candles were offered to honor a goddess.",
+      "response": "What are birthday cakes or moon cakes?",
+      "context": "Ancient birthday traditions"
+    },
+    {
+      "id": 24,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Brazil, these chocolate truffles are considered essential treats at any birthday party.",
+      "response": "What are brigadeiros?",
+      "context": "Brazilian party foods"
+    },
+    {
+      "id": 25,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This French dessert is a cone-shaped tower of small cream puffs held together with caramel.",
+      "response": "What is a croquembouche?",
+      "context": "French birthday desserts"
+    },
+    {
+      "id": 26,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "These colorful little candies covered in hard sugar shells are popular as party favors.",
+      "response": "What are M&Ms or Smarties?",
+      "context": "Popular party candies"
+    },
+    {
+      "id": 27,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This pink frosting flavor is often associated with children's birthday cakes.",
+      "response": "What is strawberry?",
+      "context": "Popular frosting flavors"
+    },
+    {
+      "id": 28,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "Hot dogs and buns come in packs where these items are not equal in number.",
+      "response": "What are the number of buns and hot dogs?",
+      "context": "Party food math"
+    },
+    {
+      "id": 29,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Switzerland, the first recorded instance of blowing out birthday candles happened in this year.",
+      "response": "What is 1881?",
+      "context": "Birthday candle history"
+    },
+    {
+      "id": 30,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This ancient civilization believed birthdays marked the moment a person became a god.",
+      "response": "What is Egypt or Ancient Egypt?",
+      "context": "Ancient birthday traditions"
+    },
+    {
+      "id": 31,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The 18th-century German birthday celebration called 'Kinderfeste' literally means this.",
+      "response": "What is children's festival?",
+      "context": "German birthday history"
+    },
+    {
+      "id": 32,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The Industrial Revolution made baking ingredients cheaper, which led to more bakeries selling this.",
+      "response": "What are ready-made cakes or birthday cakes?",
+      "context": "History of birthday cakes"
+    },
+    {
+      "id": 33,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In China, these peach-shaped buns symbolize a long life at birthday celebrations.",
+      "response": "What are longevity peach buns?",
+      "context": "Chinese birthday symbolism"
+    },
+    {
+      "id": 34,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This round, layered Indian sweet is often shared among guests at birthday celebrations.",
+      "response": "What is a barfi?",
+      "context": "Indian celebration sweets"
+    },
+    {
+      "id": 35,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "Cake with this ingredient on top is easy to eat at birthday parties because it adds moisture.",
+      "response": "What is frosting?",
+      "context": "Cake serving practicality"
+    },
+    {
+      "id": 36,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This sweet treat can be store-bought or homemade and is the centerpiece of most American birthday parties.",
+      "response": "What is a birthday cake?",
+      "context": "American birthday traditions"
+    },
+    {
+      "id": 37,
+      "difficulty": "middle_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This leavening agent is responsible for making birthday cakes rise and become fluffy.",
+      "response": "What is baking powder or baking soda?",
+      "context": "Cake chemistry"
+    },
+    {
+      "id": 38,
+      "difficulty": "middle_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The main ingredient in most frosting that provides sweetness and structure is this mineral.",
+      "response": "What is sugar?",
+      "context": "Frosting composition"
+    },
+    {
+      "id": 39,
+      "difficulty": "middle_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This macronutrient is found in high amounts in birthday cake and ice cream.",
+      "response": "What is sugar or carbohydrates?",
+      "context": "Nutritional content of birthday foods"
+    },
+    {
+      "id": 40,
+      "difficulty": "middle_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This protein in flour helps give cake its structure and chewiness.",
+      "response": "What is gluten?",
+      "context": "Flour science"
+    },
+    {
+      "id": 41,
+      "difficulty": "middle_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "Birthday party chips and dip are often high in this nutrient, measured in milligrams.",
+      "response": "What is sodium or salt?",
+      "context": "Savory party snacks nutrition"
+    },
+    {
+      "id": 42,
+      "difficulty": "middle_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "This decorative cake style from France involves stacking cream puffs with caramel—it's called a what?",
+      "response": "What is a croquembouche?",
+      "context": "French patisserie"
+    },
+    {
+      "id": 43,
+      "difficulty": "middle_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "This Mexican cake soaked in evaporated milk, condensed milk, and heavy cream is called tres leches, meaning what?",
+      "response": "What is three milks?",
+      "context": "Mexican cake traditions"
+    },
+    {
+      "id": 44,
+      "difficulty": "middle_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In food science, this process is used to keep party foods fresh by removing moisture.",
+      "response": "What is dehydration?",
+      "context": "Food preservation"
+    },
+    {
+      "id": 45,
+      "difficulty": "middle_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "This Japanese red bean rice dish, eaten on birthdays, symbolizes celebration and auspiciousness.",
+      "response": "What is sekihan?",
+      "context": "Japanese birthday foods"
+    },
+    {
+      "id": 46,
+      "difficulty": "middle_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The tradition of putting candles on birthday cakes originated with this ancient civilization.",
+      "response": "What is Greece or ancient Greece?",
+      "context": "Historical origins of traditions"
+    },
+    {
+      "id": 47,
+      "difficulty": "middle_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "The MyPlate food guide recommends making half your plate this color to stay healthy.",
+      "response": "What is fruits and vegetables or colorful?",
+      "context": "USDA nutrition guidelines"
+    },
+    {
+      "id": 48,
+      "difficulty": "middle_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This culinary technique of whipping egg whites helps cakes rise and become light and airy.",
+      "response": "What is whipping or beating?",
+      "context": "Cake baking techniques"
+    },
+    {
+      "id": 49,
+      "difficulty": "middle_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In India, these sweets are often made with nuts, milk, and sugar for festive celebrations.",
+      "response": "What are laddoos or barfis?",
+      "context": "Indian celebration sweets"
+    },
+    {
+      "id": 50,
+      "difficulty": "middle_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This chemical reaction occurs when baking soda or baking powder is mixed with acidic ingredients in cake batter.",
+      "response": "What is a chemical reaction or carbonation?",
+      "context": "Cake leavening chemistry"
+    },
+    {
+      "id": 51,
+      "difficulty": "middle_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In Korean culture, eating this seaweed soup on your birthday honors your mother who gave birth to you.",
+      "response": "What is miyeok-guk?",
+      "context": "Cultural food significance"
+    },
+    {
+      "id": 52,
+      "difficulty": "middle_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "This egg protein coagulates when heated, helping to bind ingredients in birthday cakes.",
+      "response": "What is albumin or protein?",
+      "context": "Egg chemistry in baking"
+    },
+    {
+      "id": 53,
+      "difficulty": "middle_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In Chinese culinary tradition, noodles must not be cut during birthday meals because cutting symbolizes this.",
+      "response": "What is cutting short one's life or bad luck?",
+      "context": "Chinese food superstitions"
+    },
+    {
+      "id": 54,
+      "difficulty": "middle_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "This fermented dairy product provides calcium and probiotics, and is often served in birthday desserts.",
+      "response": "What is yogurt?",
+      "context": "Nutritious party foods"
+    },
+    {
+      "id": 55,
+      "difficulty": "middle_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The process of emulsification is crucial in making smooth frosting by combining this and this.",
+      "response": "What are fat and water or butter and liquid?",
+      "context": "Food chemistry in baking"
+    },
+    {
+      "id": 56,
+      "difficulty": "middle_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "This colorless, odorless gas created by leavening agents helps cakes rise and become fluffy.",
+      "response": "What is carbon dioxide?",
+      "context": "Gas in cake baking"
+    },
+    {
+      "id": 57,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In medieval times, this ingredient was so expensive that only wealthy families could afford birthday cakes.",
+      "response": "What is sugar?",
+      "context": "Sugar history and economics"
+    },
+    {
+      "id": 58,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This amino acid, found in eggs and flour, is essential for building muscle and is important for growing children at birthday parties.",
+      "response": "What is protein?",
+      "context": "Nutritional value of cake ingredients"
+    },
+    {
+      "id": 59,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The Maillard reaction in baking creates this color and flavor in the crust of birthday cakes.",
+      "response": "What is brown or golden color and complex flavors?",
+      "context": "Flavor chemistry in baking"
+    },
+    {
+      "id": 60,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Victorian England, birthday cakes were made with this fruit and were heavy and dense.",
+      "response": "What is dried fruit or fruitcake?",
+      "context": "Victorian baking traditions"
+    },
+    {
+      "id": 61,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Brazil, brigadeiros are made by cooking condensed milk with this ingredient to create a chocolate coating.",
+      "response": "What is cocoa powder?",
+      "context": "Brazilian confectionery"
+    },
+    {
+      "id": 62,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This nutrient helps regulate blood sugar and is important to consider when serving birthday treats.",
+      "response": "What is fiber?",
+      "context": "Nutritional balance at parties"
+    },
+    {
+      "id": 63,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The crystallization of sugar is prevented by using this ingredient in frosting.",
+      "response": "What is acid or corn syrup or glucose?",
+      "context": "Candy and frosting chemistry"
+    },
+    {
+      "id": 64,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Japanese celebrations, this Western-style cake is often served alongside traditional foods.",
+      "response": "What is a sponge cake or bakery cake?",
+      "context": "Japanese food fusion"
+    },
+    {
+      "id": 65,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This Russian tradition involves baking a pie with a message carved into the crust instead of serving cake.",
+      "response": "What is a birthday pie?",
+      "context": "Russian birthday traditions"
+    },
+    {
+      "id": 66,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The speed of yeast fermentation in cakes is affected by this environmental factor.",
+      "response": "What is temperature?",
+      "context": "Fermentation science"
+    },
+    {
+      "id": 67,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This preservative is commonly used in commercial birthday cakes to extend shelf life.",
+      "response": "What are preservatives or sodium benzoate?",
+      "context": "Food preservation in commercial baking"
+    },
+    {
+      "id": 68,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Egypt, tradition dictates having this many birthday cakes at a single birthday celebration.",
+      "response": "What is two?",
+      "context": "Egyptian birthday customs"
+    },
+    {
+      "id": 69,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This vitamin found in fruits is often recommended as a healthier birthday dessert alternative.",
+      "response": "What is Vitamin C?",
+      "context": "Nutritious party options"
+    },
+    {
+      "id": 70,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The pH of buttermilk affects how this baking ingredient reacts in cake recipes.",
+      "response": "What is baking soda?",
+      "context": "Acid-base chemistry in baking"
+    },
+    {
+      "id": 71,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In cake baking, this fat helps create a tender crumb structure.",
+      "response": "What is butter or shortening?",
+      "context": "Fat in baking chemistry"
+    },
+    {
+      "id": 72,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This flavor compound in vanilla extract comes from an orchid plant.",
+      "response": "What is vanillin?",
+      "context": "Flavor chemistry in baking"
+    },
+    {
+      "id": 73,
+      "difficulty": "high_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "In food science, the process by which flour proteins interact with water to create gluten is called this.",
+      "response": "What is hydration?",
+      "context": "Advanced baking chemistry"
+    },
+    {
+      "id": 74,
+      "difficulty": "high_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The caramelization of sugar occurs at approximately this temperature in Fahrenheit.",
+      "response": "What is 320-350 degrees?",
+      "context": "Sugar chemistry"
+    },
+    {
+      "id": 75,
+      "difficulty": "high_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This cream-based frosting is made by whipping butter and powdered sugar together.",
+      "response": "What is American buttercream?",
+      "context": "Frosting styles"
+    },
+    {
+      "id": 76,
+      "difficulty": "high_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The creaming method in cake baking involves incorporating this gas into butter.",
+      "response": "What is air?",
+      "context": "Baking techniques and chemistry"
+    },
+    {
+      "id": 77,
+      "difficulty": "high_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This French buttercream is made with egg yolks, sugar, and butter, creating an emulsion.",
+      "response": "What is mousseline or pastry cream buttercream?",
+      "context": "European frostings"
+    },
+    {
+      "id": 78,
+      "difficulty": "high_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The gluten development in a cake batter can be controlled by varying this ratio of dry to wet ingredients.",
+      "response": "What is the hydration ratio?",
+      "context": "Baker's percentages and ratios"
+    },
+    {
+      "id": 79,
+      "difficulty": "high_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "This emulsifying agent in cake batter helps combine oil and water-based ingredients.",
+      "response": "What is lecithin or egg?",
+      "context": "Food chemistry emulsions"
+    },
+    {
+      "id": 80,
+      "difficulty": "high_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In bacterial fermentation, this process allows sourdough starter to develop complex flavors for artisan cakes.",
+      "response": "What is fermentation?",
+      "context": "Microbiology in baking"
+    },
+    {
+      "id": 81,
+      "difficulty": "high_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The gelification of gelatin in mousse-style birthday desserts occurs when this process happens during cooling.",
+      "response": "What is protein denaturation or hydrocolloid formation?",
+      "context": "Dessert gel chemistry"
+    },
+    {
+      "id": 82,
+      "difficulty": "high_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In culinary tradition, this French term describes the art of decorating cakes with precision.",
+      "response": "What is patisserie or mise en place?",
+      "context": "French culinary terminology"
+    },
+    {
+      "id": 83,
+      "difficulty": "high_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "The Norit effect is used in food science to achieve this color in celebration cakes.",
+      "response": "What is black or dark color?",
+      "context": "Food coloring chemistry"
+    },
+    {
+      "id": 84,
+      "difficulty": "high_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This type of chocolate, made by conching and tempering, is used in expensive birthday cake decorations.",
+      "response": "What is couverture chocolate?",
+      "context": "Chocolate science and quality"
+    },
+    {
+      "id": 85,
+      "difficulty": "high_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In food microbiology, this organism produces CO2 in yeast-based celebration cakes.",
+      "response": "What is Saccharomyces cerevisiae or baker's yeast?",
+      "context": "Microbiology in fermented baked goods"
+    },
+    {
+      "id": 86,
+      "difficulty": "high_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "The structure of angel food cake is based on this protein, which creates a foam when whipped.",
+      "response": "What is albumin or egg white protein?",
+      "context": "Protein chemistry in baking"
+    },
+    {
+      "id": 87,
+      "difficulty": "high_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This macromolecule, found in cocoa solids, gives chocolate its characteristic melting properties.",
+      "response": "What is cocoa butter?",
+      "context": "Fat chemistry in chocolate"
+    },
+    {
+      "id": 88,
+      "difficulty": "high_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The browning of bread crusts and cake surfaces is caused by this complex reaction between amino acids and reducing sugars.",
+      "response": "What is the Maillard reaction?",
+      "context": "Advanced food chemistry"
+    },
+    {
+      "id": 89,
+      "difficulty": "high_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In cold-set icing, this ingredient is whipped with butter and sugar to create a light, fluffy texture.",
+      "response": "What is cream or whipped cream?",
+      "context": "Frosting techniques"
+    },
+    {
+      "id": 90,
+      "difficulty": "high_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The gelation of pectin in fruit preserves used on birthday cakes requires this sugar concentration.",
+      "response": "What is 65% sugar concentration?",
+      "context": "Jam and preserve chemistry"
+    },
+    {
+      "id": 91,
+      "difficulty": "high_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In isomaltose-based decorations for cakes, this chemical structure allows for extended sugar work.",
+      "response": "What is a disaccharide or sugar alcohol?",
+      "context": "Advanced sugar work"
+    },
+    {
+      "id": 92,
+      "difficulty": "high_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "This ratio of flour to fat in cake batters affects the crumb structure and moisture retention.",
+      "response": "What is the flour-to-fat ratio?",
+      "context": "Baker's chemistry and ratios"
+    },
+    {
+      "id": 93,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The tempering of chocolate for birthday cake decorations involves cycling through this temperature range to align cocoa butter crystals.",
+      "response": "What is heating and cooling through specific temperatures?",
+      "context": "Chocolate tempering science"
+    },
+    {
+      "id": 94,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In Swiss buttercream, this instrument is essential for safely heating egg whites to pasteurization temperature.",
+      "response": "What is a double boiler or water bath?",
+      "context": "Food safety in buttercream preparation"
+    },
+    {
+      "id": 95,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The retrogradation of starch in aging cake is slowed by using this fat or ingredient.",
+      "response": "What is fat or emulsifier?",
+      "context": "Cake shelf-life chemistry"
+    },
+    {
+      "id": 96,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In fermented foods served at celebrations, lactobacillus bacteria produces this compound, which acts as a preservative.",
+      "response": "What is lactic acid?",
+      "context": "Fermentation chemistry and preservation"
+    },
+    {
+      "id": 97,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The emulsifying capacity of this egg component allows it to stabilize oil and water mixtures in cake batters.",
+      "response": "What is egg yolk or lecithin?",
+      "context": "Emulsion chemistry"
+    },
+    {
+      "id": 98,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In aerated meringue-based birthday desserts, the stability is maintained by this protein-based structure.",
+      "response": "What is the protein foam or air bubble matrix?",
+      "context": "Foam science in desserts"
+    },
+    {
+      "id": 99,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The gelation of gelatin requires this pH range for optimal gel formation in birthday mousse cakes.",
+      "response": "What is neutral pH or 6-8?",
+      "context": "Hydrocolloid chemistry"
+    },
+    {
+      "id": 100,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In chocolate ganache, the ratio of this ingredient to cream determines the final consistency and shine.",
+      "response": "What is chocolate?",
+      "context": "Chocolate emulsion ratios"
+    },
+    {
+      "id": 101,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The Maillard reaction is accelerated by this factor, which speeds browning in cake baking.",
+      "response": "What is heat or temperature?",
+      "context": "Kinetics of browning reactions"
+    },
+    {
+      "id": 102,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In sous-vide birthday dessert preparation, this precise temperature control prevents overcooking.",
+      "response": "What is a water bath at exact temperature?",
+      "context": "Precision cooking techniques"
+    },
+    {
+      "id": 103,
+      "difficulty": "college",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The enzymatic browning in fresh fruit garnishes on birthday cakes is prevented by using this acid.",
+      "response": "What is citric acid or ascorbic acid?",
+      "context": "Enzyme inhibition in food science"
+    },
+    {
+      "id": 104,
+      "difficulty": "college",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "In thermodynamics, the setting of gelatin requires this change in enthalpy during the cooling process.",
+      "response": "What is a negative change in enthalpy or exothermic?",
+      "context": "Physical chemistry of gel formation"
+    },
+    {
+      "id": 105,
+      "difficulty": "college",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The alpha to beta starch transition in overworked cake batters causes this structural change.",
+      "response": "What is increased toughness or density?",
+      "context": "Starch chemistry in baking"
+    },
+    {
+      "id": 106,
+      "difficulty": "college",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "In lipid chemistry, this oxidation process causes rancidity in nuts used in birthday cakes.",
+      "response": "What is lipid peroxidation?",
+      "context": "Advanced lipid chemistry"
+    },
+    {
+      "id": 107,
+      "difficulty": "college",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This amino acid in eggs undergoes this reaction when heated, creating network structures in cakes.",
+      "response": "What is protein denaturation?",
+      "context": "Protein biochemistry in baking"
+    },
+    {
+      "id": 108,
+      "difficulty": "college",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The rheological properties of cake batter are affected by this non-Newtonian behavior.",
+      "response": "What is shear thinning or pseudoplasticity?",
+      "context": "Rheology in food science"
+    },
+    {
+      "id": 109,
+      "difficulty": "college",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In colloidal chemistry, the stability of chocolate suspension depends on this disperse phase property.",
+      "response": "What is particle size or surface tension?",
+      "context": "Colloid science in food"
+    },
+    {
+      "id": 110,
+      "difficulty": "college",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The polymorphism of cocoa butter crystals affects the snap and melting characteristics in birthday cake decorations, with this being the stable form.",
+      "response": "What is Form V or beta-cocoa butter?",
+      "context": "Crystal polymorphism in chocolate"
+    },
+    {
+      "id": 111,
+      "difficulty": "college",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In fermentation kinetics, this differential equation describes the rate of microbial growth in yeast-based birthday breads.",
+      "response": "What is the logistic growth equation or Monod kinetics?",
+      "context": "Fermentation microbiology mathematics"
+    },
+    {
+      "id": 112,
+      "difficulty": "college",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The water activity (aw) in preserved birthday cakes must be below this value to prevent microbial growth.",
+      "response": "What is 0.6 or below?",
+      "context": "Food preservation principles"
+    },
+    {
+      "id": 113,
+      "difficulty": "college",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In molecular gastronomy, this spherification technique creates flavor-filled gelatin spheres for modern birthday desserts.",
+      "response": "What is basic spherification or reverse spherification?",
+      "context": "Modernist cuisine techniques"
+    },
+    {
+      "id": 114,
+      "difficulty": "college",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "The viscosity of cake batter changes according to this transport property in fluid mechanics.",
+      "response": "What is the shear rate or shear stress?",
+      "context": "Fluid mechanics in food processing"
+    },
+    {
+      "id": 115,
+      "difficulty": "college",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In thermal processing, this pasteurization temperature kills pathogens in raw egg-based birthday desserts.",
+      "response": "What is 140°F (60°C)?",
+      "context": "Food safety microbiology"
+    },
+    {
+      "id": 116,
+      "difficulty": "college",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "The glass transition temperature (Tg) of sucrose in hard candy decorations occurs at approximately this temperature.",
+      "response": "What is 60°C or 140°F?",
+      "context": "Polymer science in food"
+    },
+    {
+      "id": 117,
+      "difficulty": "college",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In enzyme kinetics, the Km value for proteolytic enzymes used in meat tenderizers affects this aspect of protein structure.",
+      "response": "What is substrate specificity or reaction rate?",
+      "context": "Enzyme biochemistry"
+    },
+    {
+      "id": 118,
+      "difficulty": "college",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The Arrhenius equation predicts how this variable affects the rate of chemical degradation in stored birthday cakes.",
+      "response": "What is temperature?",
+      "context": "Kinetics and shelf-life prediction"
+    },
+    {
+      "id": 119,
+      "difficulty": "college",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In organic chemistry, this functional group in caramel forms through dehydration of sucrose molecules.",
+      "response": "What is a carbocation or unsaturated hydrocarbon?",
+      "context": "Organic chemistry of caramel formation"
+    },
+    {
+      "id": 120,
+      "difficulty": "college",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The sorption isotherm of flour used in birthday cakes describes the relationship between this and moisture content.",
+      "response": "What is relative humidity or water activity?",
+      "context": "Moisture dynamics in baking"
+    },
+    {
+      "id": 121,
+      "difficulty": "college",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In gas chromatography, volatile compounds in vanilla extract used in celebration cakes can be identified by this technique.",
+      "response": "What is mass spectrometry or retention time analysis?",
+      "context": "Analytical chemistry of flavor compounds"
+    },
+    {
+      "id": 122,
+      "difficulty": "college",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The Weibull distribution is used in food science to predict this parameter for shelf-life estimation in packaged birthday cakes.",
+      "response": "What is time to spoilage or failure rate?",
+      "context": "Statistical analysis in food science"
+    },
+    {
+      "id": 123,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In quantum mechanics, the color of food dyes comes from this energy transition between electron orbitals.",
+      "response": "What is a pi to pi-star transition or HOMO-LUMO gap?",
+      "context": "Quantum chemistry of color"
+    },
+    {
+      "id": 124,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The zeta potential of emulsion droplets in frosting must be maintained at this value to prevent coalescence.",
+      "response": "What is a sufficiently high absolute value or greater than 30 mV?",
+      "context": "Colloidal stability theory"
+    },
+    {
+      "id": 125,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In kinetic modeling, this type of reaction order describes starch gelatinization in cake crumb.",
+      "response": "What is a first-order or zero-order reaction?",
+      "context": "Chemical kinetics in food transformations"
+    },
+    {
+      "id": 126,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The activation energy for sugar crystallization in rock candy decorations is approximately this value.",
+      "response": "What is 50-100 kJ/mol?",
+      "context": "Thermodynamics of crystallization"
+    },
+    {
+      "id": 127,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In protein chemistry, the isoelectric point of casein in dairy-based frostings is approximately this pH.",
+      "response": "What is 4.6?",
+      "context": "Protein biochemistry"
+    },
+    {
+      "id": 128,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The rate of moisture migration in layered birthday cakes follows this type of diffusion model.",
+      "response": "What is Fickian diffusion?",
+      "context": "Diffusion in food systems"
+    },
+    {
+      "id": 129,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In nonequilibrium thermodynamics, the driving force for water absorption in cake crumb is this potential.",
+      "response": "What is the water potential or chemical potential gradient?",
+      "context": "Thermodynamics in food hydration"
+    },
+    {
+      "id": 130,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The stability constant (Kd) for metal-chelate complexes in colored icings predicts this property.",
+      "response": "What is color stability or resistance to fading?",
+      "context": "Coordination chemistry in food coloring"
+    },
+    {
+      "id": 131,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In spectroscopy, the absorbance of light by anthocyanin pigments in fruit-topped cakes varies with this parameter.",
+      "response": "What is wavelength or pH?",
+      "context": "Analytical spectroscopy in food"
+    },
+    {
+      "id": 132,
+      "difficulty": "college",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The partition coefficient of aroma compounds between air and food matrix determines this sensory property.",
+      "response": "What is flavor perception or aroma intensity?",
+      "context": "Flavor chemistry and sensory science"
+    },
+    {
+      "id": 133,
+      "difficulty": "expert",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "In epigenetics, consuming high-sugar birthday foods activates these regulatory mechanisms affecting gene expression.",
+      "response": "What is DNA methylation or histone acetylation?",
+      "context": "Nutrigenomics"
+    },
+    {
+      "id": 134,
+      "difficulty": "expert",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The gluconeogenesis pathway is suppressed by this hormone after consuming high-carbohydrate birthday cakes.",
+      "response": "What is insulin?",
+      "context": "Glucose metabolism biochemistry"
+    },
+    {
+      "id": 135,
+      "difficulty": "expert",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "In advanced microbiology, these species of Lactobacillus produce bacteriocins that preserve fermented birthday breads.",
+      "response": "What is Lactobacillus plantarum or Lactobacillus paracasei?",
+      "context": "Probiotics and fermentation"
+    },
+    {
+      "id": 136,
+      "difficulty": "expert",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The complex carbohydrate in chocolate containing cocoa solids forms a matrix through this crystalline structure.",
+      "response": "What is a polymorphic crystal structure or polymorph?",
+      "context": "Advanced chocolate chemistry"
+    },
+    {
+      "id": 137,
+      "difficulty": "expert",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "In nutrigenomics, the polyphenols in dark chocolate birthday desserts modulate this pathway involved in aging.",
+      "response": "What is the NAD+/SIRT1 pathway or autophagy pathway?",
+      "context": "Polyphenol biochemistry"
+    },
+    {
+      "id": 138,
+      "difficulty": "expert",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The anthocyanin content in red velvet cake activates these antioxidant response elements in cellular defense.",
+      "response": "What is ARE (Antioxidant Response Element) or Nrf2 pathway?",
+      "context": "Phytochemical signal transduction"
+    },
+    {
+      "id": 139,
+      "difficulty": "expert",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In food proteomics, the gluten proteins gliadin and glutenin interact through these covalent bonds in cake structure.",
+      "response": "What are disulfide bonds?",
+      "context": "Protein biochemistry in flour"
+    },
+    {
+      "id": 140,
+      "difficulty": "expert",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The Amadori rearrangement in the Maillard reaction produces these compounds responsible for brown color and complex flavors.",
+      "response": "What are 1-amino-1-deoxy-2-ketosugars or Amadori products?",
+      "context": "Advanced Maillard chemistry"
+    },
+    {
+      "id": 141,
+      "difficulty": "expert",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "In molecular gastronomy, this anionic polysaccharide from seaweed forms these gels used in avant-garde birthday desserts.",
+      "response": "What is sodium alginate forming calcium alginate gels?",
+      "context": "Hydrocolloid chemistry"
+    },
+    {
+      "id": 142,
+      "difficulty": "expert",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The quantitation of volatile compounds in aged birthday cake using this technique reveals Kovats indices.",
+      "response": "What is gas chromatography with retention indices?",
+      "context": "Analytical food chemistry"
+    },
+    {
+      "id": 143,
+      "difficulty": "expert",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In metabolomics, consumption of refined sugar in birthday cakes alters this signaling molecule affecting satiety.",
+      "response": "What is leptin or ghrelin or glucagon-like peptide-1?",
+      "context": "Satiety biochemistry"
+    },
+    {
+      "id": 144,
+      "difficulty": "expert",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "The beta-carotene in carrot cake is metabolized via this enzyme to produce active vitamin A.",
+      "response": "What is beta-carotene oxygenase or carotenoid cleavage oxygenase?",
+      "context": "Vitamin A metabolism"
+    },
+    {
+      "id": 145,
+      "difficulty": "expert",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In metagenomics, the microbial community structure in sourdough starter for artisan birthday bread is analyzed via this sequencing approach.",
+      "response": "What is 16S rRNA gene sequencing or metagenomic sequencing?",
+      "context": "Microbial ecology analysis"
+    },
+    {
+      "id": 146,
+      "difficulty": "expert",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "The sucrose ester-based surfactants in commercial frosting achieve this hydrophobic-lipophilic balance value.",
+      "response": "What is an HLB value between 8-15?",
+      "context": "Emulsion chemistry and HLB theory"
+    },
+    {
+      "id": 147,
+      "difficulty": "expert",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In quantum field theory applied to food chemistry, this principle explains why certain flavor compounds taste similar.",
+      "response": "What is the electronic structure or molecular orbital similarity?",
+      "context": "Advanced flavor chemistry theory"
+    },
+    {
+      "id": 148,
+      "difficulty": "expert",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The production of acrylamide in browned birthday cakes through the Maillard reaction involves these reactive intermediates.",
+      "response": "What are alpha-dicarbonyls or carbenium ions?",
+      "context": "Advanced Maillard reaction chemistry"
+    },
+    {
+      "id": 149,
+      "difficulty": "expert",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In structural biology, the cross-linking of collagen-like proteins in gelatin involves this enzymatic process.",
+      "response": "What is lysyl oxidase activity or aldol condensation?",
+      "context": "Protein structural biochemistry"
+    },
+    {
+      "id": 150,
+      "difficulty": "expert",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The detection of gluten peptides immunogenic to celiac patients uses this analytical technique identifying epitope sequences.",
+      "response": "What is mass spectrometry-based proteomics or immunoassay?",
+      "context": "Advanced food allergy diagnostics"
+    },
+    {
+      "id": 151,
+      "difficulty": "expert",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "In synthetic biology, this CRISPR-modified microorganism is being researched to biofortify birthday cake ingredients.",
+      "response": "What is Saccharomyces cerevisiae or other engineered yeast?",
+      "context": "Synthetic biology in food"
+    },
+    {
+      "id": 152,
+      "difficulty": "expert",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The photochemical degradation of anthocyanins in colored birthday cakes involves this type of light-driven reaction.",
+      "response": "What is photodegradation or light-induced oxidation?",
+      "context": "Photochemistry of food pigments"
+    },
+    {
+      "id": 153,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In isotope biochemistry, the carbon-13 to carbon-12 ratio in honey used to sweeten birthday cakes reveals this information.",
+      "response": "What is whether the honey is authentic or blended with corn syrup?",
+      "context": "Isotopic tracing in food authentication"
+    },
+    {
+      "id": 154,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The magnetotransport properties of iron-containing compounds in fortified birthday cake flour are measured via this technique.",
+      "response": "What is Hall effect or magnetoresistance spectroscopy?",
+      "context": "Advanced materials characterization"
+    },
+    {
+      "id": 155,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The entanglement network in xanthan gum-thickened birthday cake batters shows this rheological behavior under oscillatory shear.",
+      "response": "What is frequency-dependent modulus or viscoelasticity?",
+      "context": "Advanced rheology of polymer solutions"
+    },
+    {
+      "id": 156,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The self-assembly of amphipathic lipids in chocolate-based party foods follows this principle of thermodynamic minimization.",
+      "response": "What is Gibbs free energy minimization or hydrophobic effect?",
+      "context": "Supramolecular chemistry"
+    },
+    {
+      "id": 157,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "In computational chemistry, the binding affinity of taste receptors to compounds in birthday cakes is calculated via this method.",
+      "response": "What is molecular docking or molecular dynamics simulation?",
+      "context": "Structural bioinformatics and sensory science"
+    },
+    {
+      "id": 158,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The genomic instability caused by oxidative stress from excessive birthday cake consumption is assessed via this genetic marker.",
+      "response": "What is micronucleus frequency or DNA strand breaks detected by comet assay?",
+      "context": "Genotoxicology and nutritional biochemistry"
+    },
+    {
+      "id": 159,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The enantioselectivity of L-lactic acid from fermentation in birthday bread involves this enzyme mechanism.",
+      "response": "What is stereospecific binding or substrate recognition in lactate dehydrogenase?",
+      "context": "Stereochemistry in fermentation"
+    },
+    {
+      "id": 160,
+      "difficulty": "expert",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The Langmuir adsorption isotherm describing flavor compound sorption on cake crumb matrix yields this kinetic parameter.",
+      "response": "What is the adsorption equilibrium constant (Kads)?",
+      "context": "Surface chemistry of food systems"
+    },
+    {
+      "id": 161,
+      "difficulty": "elementary_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This fruit is often used to decorate the top of birthday cakes and adds a bright red color.",
+      "response": "What is a strawberry?",
+      "context": "Fruit decorations"
+    },
+    {
+      "id": 162,
+      "difficulty": "elementary_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "At birthday parties, this hot snack is served in a bun with toppings like mustard and ketchup.",
+      "response": "What is a hot dog?",
+      "context": "Classic party foods"
+    },
+    {
+      "id": 163,
+      "difficulty": "elementary_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In bowling alleys and arcades, this salty snack in a paper bucket is a birthday party favorite.",
+      "response": "What is popcorn?",
+      "context": "Entertainment venue snacks"
+    },
+    {
+      "id": 164,
+      "difficulty": "elementary_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "These sandwich-like cakes with frosting between two cookies are small and perfect for party snacking.",
+      "response": "What are whoopie pies?",
+      "context": "Novelty desserts"
+    },
+    {
+      "id": 165,
+      "difficulty": "elementary_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This creamy dip made from chickpeas is often served with crackers and vegetables at birthday parties.",
+      "response": "What is hummus?",
+      "context": "Healthy party dips"
+    },
+    {
+      "id": 166,
+      "difficulty": "middle_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The practice of blowing out birthday candles originated in this ancient culture.",
+      "response": "What is Greece?",
+      "context": "Ancient traditions"
+    },
+    {
+      "id": 167,
+      "difficulty": "middle_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "This creamy frosting is made by whipping butter with powdered sugar and is called American this.",
+      "response": "What is American buttercream?",
+      "context": "Frosting types"
+    },
+    {
+      "id": 168,
+      "difficulty": "middle_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "In baking science, this ingredient must be at room temperature to properly cream with sugar.",
+      "response": "What is butter?",
+      "context": "Baking technique"
+    },
+    {
+      "id": 169,
+      "difficulty": "middle_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "This process of heating eggs to a specific temperature makes them safe to eat raw in birthday desserts.",
+      "response": "What is pasteurization?",
+      "context": "Food safety"
+    },
+    {
+      "id": 170,
+      "difficulty": "middle_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "The tradition of eating longevity noodles on birthdays in China symbolizes this.",
+      "response": "What is long life or longevity?",
+      "context": "Cultural symbolism"
+    },
+    {
+      "id": 171,
+      "difficulty": "high_school",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "This chemical compound in cocoa gives chocolate its bitter taste and antioxidant properties.",
+      "response": "What is theobromine?",
+      "context": "Chocolate chemistry"
+    },
+    {
+      "id": 172,
+      "difficulty": "high_school",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The moisture content in flour is standardized at this percentage in commercial baking.",
+      "response": "What is 14%?",
+      "context": "Flour specifications"
+    },
+    {
+      "id": 173,
+      "difficulty": "high_school",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This plant-based thickener extracted from seaweed is used in mousse-style birthday desserts.",
+      "response": "What is agar-agar?",
+      "context": "Plant-based gelling agents"
+    },
+    {
+      "id": 174,
+      "difficulty": "high_school",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The optimal temperature for serving chocolate mousse is below this Celsius value.",
+      "response": "What is 10°C or 50°F?",
+      "context": "Dessert serving temperatures"
+    },
+    {
+      "id": 175,
+      "difficulty": "high_school",
+      "value": 500,
+      "category": "Birthday Food Feasts",
+      "clue": "This fungal organism produces the carbon dioxide gas that leavens yeast-based birthday breads.",
+      "response": "What is Saccharomyces cerevisiae?",
+      "context": "Fermentation microbiology"
+    },
+    {
+      "id": 176,
+      "difficulty": "college",
+      "value": 100,
+      "category": "Birthday Food Feasts",
+      "clue": "The percent by weight of cocoa butter in chocolate determines this property of the final product.",
+      "response": "What is mouthfeel or melting point?",
+      "context": "Chocolate formulation"
+    },
+    {
+      "id": 177,
+      "difficulty": "college",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This statistical distribution model describes particle size distribution in chocolate coating on birthday cake.",
+      "response": "What is the log-normal distribution?",
+      "context": "Particle size statistics"
+    },
+    {
+      "id": 178,
+      "difficulty": "college",
+      "value": 400,
+      "category": "Birthday Food Feasts",
+      "clue": "The onset temperature of starch gelatinization in wheat flour is approximately this range.",
+      "response": "What is 60-70°C or 140-158°F?",
+      "context": "Starch gelatinization"
+    },
+    {
+      "id": 179,
+      "difficulty": "expert",
+      "value": 200,
+      "category": "Birthday Food Feasts",
+      "clue": "The expression of protease genes in Lactobacillus determines this characteristic of fermented birthday breads.",
+      "response": "What is flavor or texture development?",
+      "context": "Microbial genetics in fermentation"
+    },
+    {
+      "id": 180,
+      "difficulty": "expert",
+      "value": 300,
+      "category": "Birthday Food Feasts",
+      "clue": "This epoxide compound is formed from linoleic acid oxidation in stored nuts used in birthday cakes.",
+      "response": "What is an oxirane or epoxide?",
+      "context": "Lipid oxidation chemistry"
+    }
+  ],
+  "metadata": {
+    "category_theme": "Birthday Meals, Favorite Foods, Celebratory Dining, Party Foods",
+    "research_integration": {
+      "nutrition": "USDA guidelines, MyPlate framework, macronutrient composition, vitamin and mineral content",
+      "culinary_traditions": "Global birthday food customs from Mexico, China, Korea, Germany, India, Russia, Japan, Australia, Brazil, France, Egypt",
+      "food_science": "Baking chemistry, emulsions, fermentation, Maillard reaction, starch gelatinization, chocolate polymorphism, food microbiology"
+    },
+    "coverage": {
+      "elementary_school": "Basic celebration foods, simple cake facts, international traditions, party snacks",
+      "middle_school": "Food chemistry basics, cultural significance, nutrition principles, baking science",
+      "high_school": "Advanced food science, flavor chemistry, food safety, fermentation microbiology, chocolate science",
+      "college": "Thermodynamics, colloid chemistry, enzyme kinetics, analytical chemistry, food preservation",
+      "expert": "Molecular biochemistry, nutrigenomics, advanced microbiology, quantum chemistry, computational methods"
+    },
+    "question_distribution": {
+      "elementary_school_base": 36,
+      "middle_school_base": 36,
+      "high_school_base": 36,
+      "college_base": 36,
+      "expert_base": 36
+    }
+  }
+}

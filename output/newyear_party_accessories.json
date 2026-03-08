@@ -1,0 +1,346 @@
+{
+  "category": "New Year's Party Hats, Noisemakers & Accessories",
+  "theme": "celebrations",
+  "category_id": "newyear_party_accessories",
+  "description": "Party hats, noisemakers, streamers, tiaras, and decorative accessories for New Year's Eve celebrations and midnight festivities",
+  "age_suitability": "All ages",
+  "research_alignment": "Celebration traditions, party culture, New Year's customs, festive accessories, social celebrations",
+  "generated_date": "2025-12-30",
+  "total_questions": 60,
+  "sections": {
+    "regular_trivia": [
+      {
+        "clue": "A paper cone hat typically worn at midnight to celebrate the New Year",
+        "correctQuestion": "What is a party hat?",
+        "value": 200
+      },
+      {
+        "clue": "A horn that makes a loud honking sound when blown at New Year's Eve celebrations",
+        "correctQuestion": "What is a noisemaker?",
+        "value": 200
+      },
+      {
+        "clue": "These lightweight tubes burst to release confetti when you pull the string",
+        "correctQuestion": "What are party poppers?",
+        "value": 200
+      },
+      {
+        "clue": "A metallic hat shaped like a crown worn at fancy New Year's parties",
+        "correctQuestion": "What is a foil crown?",
+        "value": 200
+      },
+      {
+        "clue": "Coiled paper ribbons that unwind when thrown during midnight celebrations",
+        "correctQuestion": "What are streamers?",
+        "value": 200
+      },
+      {
+        "clue": "This elastic string goes under your chin to keep your party hat from falling off",
+        "correctQuestion": "What is a chin strap?",
+        "value": 200
+      },
+      {
+        "clue": "A sparkly headband worn without a hat as a New Year's accessory",
+        "correctQuestion": "What is a tiara headband?",
+        "value": 200
+      },
+      {
+        "clue": "These small handheld instruments create a whistling sound at midnight",
+        "correctQuestion": "What are party whistles?",
+        "value": 200
+      },
+      {
+        "clue": "Colorful paper or plastic tubes that uncurl when tossed in the air",
+        "correctQuestion": "What are paper poppers?",
+        "value": 200
+      },
+      {
+        "clue": "A tall pointy hat traditionally associated with New Year's parties",
+        "correctQuestion": "What is a cone hat?",
+        "value": 200
+      },
+      {
+        "clue": "Shiny, lightweight circles of paper that fall as fake snow at parties",
+        "correctQuestion": "What is confetti?",
+        "value": 200
+      },
+      {
+        "clue": "A plastic or foam headpiece shaped like numbers representing the new year",
+        "correctQuestion": "What is a number hat?",
+        "value": 200
+      },
+      {
+        "clue": "This decorative item hangs from ceilings and spirals down for atmosphere",
+        "correctQuestion": "What is a spiral streamer?",
+        "value": 200
+      },
+      {
+        "clue": "A handheld device that sprays silly string on party guests",
+        "correctQuestion": "What is a silly string dispenser?",
+        "value": 200
+      },
+      {
+        "clue": "These decorative balls drop at midnight to signal the New Year's arrival",
+        "correctQuestion": "What is a disco ball?",
+        "value": 200
+      },
+      {
+        "clue": "Shimmery fabric worn as a cape with a party crown at New Year's galas",
+        "correctQuestion": "What is a lamé cape?",
+        "value": 200
+      },
+      {
+        "clue": "This metallic paper hat crinkles when you move your head side to side",
+        "correctQuestion": "What is a foil party hat?",
+        "value": 200
+      },
+      {
+        "clue": "A handheld noise device that creates a rattle sound when shaken",
+        "correctQuestion": "What is a party rattle?",
+        "value": 200
+      },
+      {
+        "clue": "Bright plastic beads worn around the neck at casual New Year's parties",
+        "correctQuestion": "What is a beaded necklace?",
+        "value": 200
+      },
+      {
+        "clue": "These stick-on jewels are glued to party hats for extra sparkle",
+        "correctQuestion": "What are rhinestones?",
+        "value": 200
+      },
+      {
+        "clue": "A decorative sash worn across the chest that says 'Happy New Year'",
+        "correctQuestion": "What is a banner sash?",
+        "value": 200
+      },
+      {
+        "clue": "These foam or plastic pom-poms are hot-glued to hat peaks for texture",
+        "correctQuestion": "What are pom-poms?",
+        "value": 200
+      },
+      {
+        "clue": "A small handheld device that makes whistling sounds when you squeeze it",
+        "correctQuestion": "What is a squeeze whistle?",
+        "value": 200
+      },
+      {
+        "clue": "These metallic circles sewn onto hats catch light during New Year's celebrations",
+        "correctQuestion": "What are sequins?",
+        "value": 200
+      },
+      {
+        "clue": "A paper strip with fringe cut into it for party decoration atmosphere",
+        "correctQuestion": "What is a fringe streamer?",
+        "value": 200
+      },
+      {
+        "clue": "A tinsel-like garland draped over doorways and furniture at New Year's",
+        "correctQuestion": "What is garland?",
+        "value": 200
+      },
+      {
+        "clue": "These paper cones filled with confetti burst when thrown on the ground",
+        "correctQuestion": "What are ground bursts?",
+        "value": 200
+      },
+      {
+        "clue": "A decorative eye mask worn at formal New Year's masquerade balls",
+        "correctQuestion": "What is a masquerade mask?",
+        "value": 200
+      },
+      {
+        "clue": "This golden or silver trim wraps around crowns and party hats",
+        "correctQuestion": "What is metallic ribbon?",
+        "value": 200
+      },
+      {
+        "clue": "A plastic horn that requires lung power to produce a loud blasting sound",
+        "correctQuestion": "What is an air horn?",
+        "value": 200
+      }
+    ],
+    "cah_style": [
+      {
+        "clue": "What your drunk friend is still wearing at 4am when everyone else threw theirs out",
+        "correctQuestion": "What is a mangled foil hat?",
+        "value": 400,
+        "style_notes": "Relatable party behavior, mainstream experience"
+      },
+      {
+        "clue": "The party hat that makes you look festive for 30 minutes before it crushes your hair",
+        "correctQuestion": "What is a cone hat?",
+        "value": 400,
+        "style_notes": "Physical comedy, universal experience"
+      },
+      {
+        "clue": "What your New Year's resolution was about not using but somehow ended up faceplanting into",
+        "correctQuestion": "What is a party popper?",
+        "value": 500,
+        "style_notes": "Self-aware humor about impulse control"
+      },
+      {
+        "clue": "The noisemaker your 5-year-old won't stop blowing despite your sanity literally leaving",
+        "correctQuestion": "What is a party whistle?",
+        "value": 600,
+        "style_notes": "Parent humor, relatable household chaos"
+      },
+      {
+        "clue": "What gets tangled in your hair by 11:45pm and stays there all January",
+        "correctQuestion": "What is a chin strap?",
+        "value": 400,
+        "style_notes": "Physical comedy, relatable frustration"
+      },
+      {
+        "clue": "The party accessory that costs $0.99 in September but somehow $8.99 on December 30th",
+        "correctQuestion": "What is a party hat?",
+        "value": 400,
+        "style_notes": "Retail pricing humor, last-minute shopping"
+      },
+      {
+        "clue": "What Instagram influencers wear unironically to look 'quirky' while secretly hating it",
+        "correctQuestion": "What is a sparkly tiara?",
+        "value": 500,
+        "style_notes": "Instagram culture reference, mainstream"
+      },
+      {
+        "clue": "The thing that sounded like a good idea at Party City but made you look absolutely unhinged",
+        "correctQuestion": "What is a foam top hat?",
+        "value": 500,
+        "style_notes": "Retail impulse purchase humor"
+      },
+      {
+        "clue": "What your Uber driver silently judges you for wearing at 2am on January 1st",
+        "correctQuestion": "What is a bedazzled party hat?",
+        "value": 500,
+        "style_notes": "Uber culture, late-night party reference"
+      },
+      {
+        "clue": "The noisemaker your dog is convinced is a threat to national security",
+        "correctQuestion": "What is a party horn?",
+        "value": 500,
+        "style_notes": "Pet humor, household dynamics"
+      },
+      {
+        "clue": "What makes you feel like royalty for 60 minutes before you find it under the couch in March",
+        "correctQuestion": "What is a New Year's crown?",
+        "value": 400,
+        "style_notes": "Relatable household neglect"
+      },
+      {
+        "clue": "The party popper you were too scared to use so someone else triggered it in your face",
+        "correctQuestion": "What is confetti everywhere?",
+        "value": 500,
+        "style_notes": "Shared party experience humor"
+      },
+      {
+        "clue": "What made you feel like a main character for 3 seconds before the chin strap broke",
+        "correctQuestion": "What is a party hat?",
+        "value": 400,
+        "style_notes": "Millennial 'main character energy' reference"
+      },
+      {
+        "clue": "The noisemaker that guaranteed your downstairs neighbors hate you by 12:01am",
+        "correctQuestion": "What is an air horn?",
+        "value": 500,
+        "style_notes": "Apartment living humor, relatable noise pollution"
+      },
+      {
+        "clue": "What you bought in bulk because parties are cheaper in bulk but nobody actually showed up",
+        "correctQuestion": "What are party accessories?",
+        "value": 500,
+        "style_notes": "Realistic party planning failure"
+      },
+      {
+        "clue": "This tinsel decoration makes your apartment look festive or like you have a hoarding problem depending on who's looking",
+        "correctQuestion": "What is excessive garland?",
+        "value": 500,
+        "style_notes": "Decoration extremes humor"
+      },
+      {
+        "clue": "The tiara that was supposed to make you look classy but honestly just made you look extra",
+        "correctQuestion": "What is a plastic crown?",
+        "value": 400,
+        "style_notes": "Self-aware humor about choices"
+      },
+      {
+        "clue": "What Karen wore while telling everyone 'it's MY night' before someone called Uber",
+        "correctQuestion": "What is a rhinestone tiara?",
+        "value": 600,
+        "style_notes": "Karen meme reference, mainstream cultural touchstone"
+      },
+      {
+        "clue": "The party hat you wore ironically but now unironically rocks at every celebration",
+        "correctQuestion": "What is questionable fashion?",
+        "value": 500,
+        "style_notes": "Fashion evolution humor"
+      },
+      {
+        "clue": "What your phone autocorrect thinks is more important than texting back after midnight",
+        "correctQuestion": "What is a party horn on mute?",
+        "value": 400,
+        "style_notes": "Phone/texting humor, millennial experience"
+      },
+      {
+        "clue": "This confetti-launching device made you feel powerful right up until the allergic reaction",
+        "correctQuestion": "What is a party popper?",
+        "value": 500,
+        "style_notes": "Physical comedy, realistic party consequences"
+      },
+      {
+        "clue": "What costs $0.99 but made you feel like a billionaire when you were 8 years old",
+        "correctQuestion": "What is a party hat?",
+        "value": 400,
+        "style_notes": "Nostalgic childhood humor"
+      },
+      {
+        "clue": "The noisemaker that somehow ended up in your new apartment's garbage the next day",
+        "correctQuestion": "What is a party whistle?",
+        "value": 400,
+        "style_notes": "Relatable party aftermath"
+      },
+      {
+        "clue": "What you wore to feel festive but actually just looked like you lost a bar bet",
+        "correctQuestion": "What is a ridiculous tiara?",
+        "value": 500,
+        "style_notes": "Self-aware fashion humor"
+      },
+      {
+        "clue": "The party accessory that made your Instagram story look fire but looked tragic in the mirror",
+        "correctQuestion": "What is a filter-dependent crown?",
+        "value": 500,
+        "style_notes": "Instagram vs reality humor"
+      },
+      {
+        "clue": "What your boomer parent wore to ring in Y2K that you found in a closet and couldn't stop laughing",
+        "correctQuestion": "What is a metallic cone hat?",
+        "value": 500,
+        "style_notes": "Generational humor, Y2K nostalgia"
+      },
+      {
+        "clue": "This silly string smells worse than it looks but you bought three bottles anyway",
+        "correctQuestion": "What is regrettable party spray?",
+        "value": 400,
+        "style_notes": "Relatable bad decisions"
+      },
+      {
+        "clue": "The party hat you stole from your cousin's house and still have in your closet 5 years later",
+        "correctQuestion": "What is an accidental keepsake?",
+        "value": 400,
+        "style_notes": "Family dynamics humor"
+      },
+      {
+        "clue": "What Pinterest said would make your party look 'elegant' but TikTok said looked 'mid'",
+        "correctQuestion": "What is DIY party hats?",
+        "value": 500,
+        "style_notes": "Pinterest/TikTok culture, generational aesthetics"
+      },
+      {
+        "clue": "The noisemaker your ex thought was funny to use at 3am to wake up the whole building",
+        "correctQuestion": "What is an air horn?",
+        "value": 500,
+        "style_notes": "Relatable relationship drama"
+      }
+    ]
+  }
+}

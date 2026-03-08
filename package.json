@@ -1,0 +1,9 @@
+{
+  "name": "t3-trivia-portable",
+  "version": "1.0.0",
+  "description": "T³ Thompson Tile Trivia - Portable Local Server",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {}
+}

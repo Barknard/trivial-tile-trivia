@@ -1,0 +1,440 @@
+{
+  "category": "Birthday Songs & Music",
+  "description": "Questions about the Happy Birthday song, birthday music traditions, singing customs, and the cultural phenomenon of birthday celebrations with music.",
+  "regular_trivia": [
+    {
+      "id": 1,
+      "clue": "The name of the most popular birthday song sung in English",
+      "answer": "Happy Birthday (to You)",
+      "difficulty": 1,
+      "category": "Basics"
+    },
+    {
+      "id": 2,
+      "clue": "Two American sisters who wrote the melody to Happy Birthday in 1893",
+      "answer": "Patty Smith Hill and Mildred Hill",
+      "difficulty": 2,
+      "category": "History"
+    },
+    {
+      "id": 3,
+      "clue": "The original song that was adapted to become Happy Birthday to You",
+      "answer": "Good Morning to All",
+      "difficulty": 2,
+      "category": "History"
+    },
+    {
+      "id": 4,
+      "clue": "According to Guinness World Records, Happy Birthday is the _____ most recognized song in English",
+      "answer": "first",
+      "difficulty": 2,
+      "category": "Trivia"
+    },
+    {
+      "id": 5,
+      "clue": "The number of languages into which Happy Birthday has been translated",
+      "answer": "at least 18 languages",
+      "difficulty": 2,
+      "category": "Global Impact"
+    },
+    {
+      "id": 6,
+      "clue": "The year the Hill sisters' melody was created for kindergarten classrooms",
+      "answer": "1893",
+      "difficulty": 2,
+      "category": "History"
+    },
+    {
+      "id": 7,
+      "clue": "The Mexican traditional birthday song sung in the morning",
+      "answer": "Las Mañanitas",
+      "difficulty": 2,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 8,
+      "clue": "The Polish birthday song that wishes someone to live for 100 years",
+      "answer": "Stolat",
+      "difficulty": 2,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 9,
+      "clue": "The Georgian birthday song meaning 'may you live for many years'",
+      "answer": "Mravalzamier",
+      "difficulty": 2,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 10,
+      "clue": "The year a federal judge ruled the Happy Birthday copyright was invalid",
+      "answer": "2015",
+      "difficulty": 2,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 11,
+      "clue": "The current legal status of the Happy Birthday melody and lyrics",
+      "answer": "public domain",
+      "difficulty": 2,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 12,
+      "clue": "The approximate amount Warner/Chappell settled for after losing the Happy Birthday copyright claim",
+      "answer": "$14 million",
+      "difficulty": 2,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 13,
+      "clue": "The musical tradition in Ghana where drums set the rhythm for birthday celebrations",
+      "answer": "Drums (or percussion)",
+      "difficulty": 2,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 14,
+      "clue": "Two genres of music traditionally used to set the rhythm at Ecuadorian birthday celebrations",
+      "answer": "pasillo and cumbia",
+      "difficulty": 2,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 15,
+      "clue": "The playful tradition that sometimes follows singing Las Mañanitas at Mexican birthday parties",
+      "answer": "pushing the birthday person's face into cake",
+      "difficulty": 2,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 16,
+      "clue": "The brain pathway that music training helps develop faster in children",
+      "answer": "the auditory pathway",
+      "difficulty": 2,
+      "category": "Auditory Development"
+    },
+    {
+      "id": 17,
+      "clue": "According to USC research, the number of years music instruction takes to accelerate auditory pathway maturation",
+      "answer": "approximately 2 years",
+      "difficulty": 2,
+      "category": "Auditory Development"
+    },
+    {
+      "id": 18,
+      "clue": "The three auditory cognitive abilities improved by music training in children",
+      "answer": "auditory scene analysis, auditory working memory, and phonetic discrimination",
+      "difficulty": 2,
+      "category": "Music Education"
+    },
+    {
+      "id": 19,
+      "clue": "The academic skill most directly enhanced by improvements in auditory pathway development from music training",
+      "answer": "reading ability (or language acquisition)",
+      "difficulty": 2,
+      "category": "Music Education"
+    },
+    {
+      "id": 20,
+      "clue": "The percentage of global birthday celebrations that use the Happy Birthday melody with different lyrics",
+      "answer": "approximately 90%",
+      "difficulty": 2,
+      "category": "Global Impact"
+    },
+    {
+      "id": 21,
+      "clue": "The study of the relationship between music and culture",
+      "answer": "ethnomusicology",
+      "difficulty": 1,
+      "category": "Musicology"
+    },
+    {
+      "id": 22,
+      "clue": "The year the Clayton F. Summy Company secured the copyright for Happy Birthday",
+      "answer": "1935",
+      "difficulty": 2,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 23,
+      "clue": "The Hill sister (third sister) who helped secure the 1935 copyright for Happy Birthday",
+      "answer": "Jessica Hill",
+      "difficulty": 3,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 24,
+      "clue": "The year Warner Brothers acquired the copyright for Happy Birthday from Birch Tree Group",
+      "answer": "1988",
+      "difficulty": 2,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 25,
+      "clue": "The psychological function of synchronized group singing at birthday celebrations",
+      "answer": "social bonding and community cohesion",
+      "difficulty": 2,
+      "category": "Music Psychology"
+    },
+    {
+      "id": 26,
+      "clue": "The brain regions that show heightened responses to music exposure in infants",
+      "answer": "auditory cortex and prefrontal cortex",
+      "difficulty": 2,
+      "category": "Auditory Development"
+    },
+    {
+      "id": 27,
+      "clue": "The field that studies how cultural practices emerge and evolve through ritual",
+      "answer": "anthropology (or ritual anthropology)",
+      "difficulty": 1,
+      "category": "Musicology"
+    },
+    {
+      "id": 28,
+      "clue": "The three universal elements found in birthday celebrations across all cultures",
+      "answer": "food, music, and community",
+      "difficulty": 1,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 29,
+      "clue": "The type of neuron activated by synchronized group singing that supports social bonding",
+      "answer": "mirror neurons",
+      "difficulty": 2,
+      "category": "Neuroscience"
+    },
+    {
+      "id": 30,
+      "clue": "The research institute that documented music training's acceleration of auditory pathway development in children",
+      "answer": "USC (University of Southern California)",
+      "difficulty": 2,
+      "category": "Auditory Development"
+    }
+  ],
+  "cah_style_clues": [
+    {
+      "id": 31,
+      "clue": "What the Hill sisters actually sang at kindergarten instead of Happy Birthday",
+      "correctQuestion": "What is Good Morning to All?",
+      "value": 200,
+      "category": "History"
+    },
+    {
+      "id": 32,
+      "clue": "The only song everyone knows all the lyrics to",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 200,
+      "category": "Basics"
+    },
+    {
+      "id": 33,
+      "clue": "Why no one sings Happy Birthday in movies anymore",
+      "correctQuestion": "What is copyright?",
+      "value": 200,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 34,
+      "clue": "What Warner Brothers paid $25 million for that's now free to use",
+      "correctQuestion": "What is the Happy Birthday copyright?",
+      "value": 200,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 35,
+      "clue": "The song that proves even lawyers can't kill culture",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 200,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 36,
+      "clue": "Mexico's way of saying Happy Birthday while committing light assault",
+      "correctQuestion": "What is Las Mañanitas?",
+      "value": 200,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 37,
+      "clue": "Poland's birthday tradition that guarantees you'll see 100 of something",
+      "correctQuestion": "What is Stolat?",
+      "value": 200,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 38,
+      "clue": "The birthday song in English that Georgian speakers actually know",
+      "correctQuestion": "What is Mravalzamier?",
+      "value": 200,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 39,
+      "clue": "What makes restaurants nervous about birthday celebrations",
+      "correctQuestion": "What is singing Happy Birthday in unison?",
+      "value": 200,
+      "category": "Basics"
+    },
+    {
+      "id": 40,
+      "clue": "The song that's terrible but literally everyone must sing together",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 200,
+      "category": "Basics"
+    },
+    {
+      "id": 41,
+      "clue": "Drum-based birthday celebration in Ghana that actually sounds good",
+      "correctQuestion": "What is celebrating with drums and percussion?",
+      "value": 200,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 42,
+      "clue": "Ecuador's way of making birthdays spicy and rhythmic",
+      "correctQuestion": "What is pasillo and cumbia music?",
+      "value": 200,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 43,
+      "clue": "What a federal judge freed from corporate ownership in 2015",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 400,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 44,
+      "clue": "The research proving that singing actually makes kids smarter, not just annoying",
+      "correctQuestion": "What is USC auditory development research?",
+      "value": 400,
+      "category": "Auditory Development"
+    },
+    {
+      "id": 45,
+      "clue": "The brain skill that gets faster when you force your kids to sing",
+      "correctQuestion": "What is auditory pathway development?",
+      "value": 400,
+      "category": "Auditory Development"
+    },
+    {
+      "id": 46,
+      "clue": "What happens to 90% of birthday celebrations when people can't afford their own songs",
+      "correctQuestion": "What is singing Happy Birthday?",
+      "value": 400,
+      "category": "Global Impact"
+    },
+    {
+      "id": 47,
+      "clue": "The song that survived copyright lawyers and record labels to become part of human culture",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 400,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 48,
+      "clue": "What makes you instantly regret your life choices when sung badly in groups",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 400,
+      "category": "Basics"
+    },
+    {
+      "id": 49,
+      "clue": "The morning serenade that might end with cake in your face",
+      "correctQuestion": "What is Las Mañanitas?",
+      "value": 400,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 50,
+      "clue": "The neurological proof that music makes brains better at literally everything",
+      "correctQuestion": "What is auditory cognitive training?",
+      "value": 400,
+      "category": "Music Education"
+    },
+    {
+      "id": 51,
+      "clue": "What happens to your auditory pathway after two years of forced singing lessons",
+      "correctQuestion": "What is accelerated neural development?",
+      "value": 400,
+      "category": "Auditory Development"
+    },
+    {
+      "id": 52,
+      "clue": "The reason singing together at birthdays actually creates lasting friendships",
+      "correctQuestion": "What is synchronized group bonding?",
+      "value": 400,
+      "category": "Music Psychology"
+    },
+    {
+      "id": 53,
+      "clue": "The only universal human activity that requires everyone to sound terrible together",
+      "correctQuestion": "What is singing Happy Birthday?",
+      "value": 600,
+      "category": "Basics"
+    },
+    {
+      "id": 54,
+      "clue": "Why 2015 was the year that made Happy Birthday free again",
+      "correctQuestion": "What is the copyright lawsuit ruling?",
+      "value": 600,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 55,
+      "clue": "What started as a kindergarten greeting and became humanity's most awkward tradition",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 600,
+      "category": "History"
+    },
+    {
+      "id": 56,
+      "clue": "The song that proves lawyers can't kill culture no matter how hard they try",
+      "correctQuestion": "What is Happy Birthday?",
+      "value": 600,
+      "category": "Copyright & Legality"
+    },
+    {
+      "id": 57,
+      "clue": "Why singing Happy Birthday is the only time Americans feel like a community",
+      "correctQuestion": "What is collective awkwardness and social obligation?",
+      "value": 600,
+      "category": "Music Psychology"
+    },
+    {
+      "id": 58,
+      "clue": "The birthday tradition where nobody can decide if assault or love is happening",
+      "correctQuestion": "What is Las Mañanitas with cake-smashing?",
+      "value": 600,
+      "category": "Global Traditions"
+    },
+    {
+      "id": 59,
+      "clue": "What makes a child's brain work better while simultaneously making everyone cringe",
+      "correctQuestion": "What is group singing of Happy Birthday?",
+      "value": 600,
+      "category": "Music Education"
+    },
+    {
+      "id": 60,
+      "clue": "The only time corporate America admits defeat against culture",
+      "correctQuestion": "What is the Happy Birthday copyright loss?",
+      "value": 600,
+      "category": "Copyright & Legality"
+    }
+  ],
+  "summary": {
+    "total_clues": 60,
+    "regular_trivia": 30,
+    "cah_style_clues": 30,
+    "theme": "Happy Birthday song, birthday music traditions, singing customs, and cultural celebrations",
+    "style_notes": "Regular trivia: factual questions about birthday music history, psychology, and global traditions. CAH-style: short, punchy, dark humor about the awkwardness of singing Happy Birthday, the irony of corporate copyright, and cultural traditions—using mainstream cultural references throughout.",
+    "cah_points_distribution": {
+      "200_points": 12,
+      "400_points": 12,
+      "600_points": 6
+    }
+  }
+}

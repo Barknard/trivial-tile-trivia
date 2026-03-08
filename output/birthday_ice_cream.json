@@ -1,0 +1,254 @@
+{
+  "category": "Birthday Ice Cream & Frozen Treats",
+  "theme": "birthday",
+  "category_id": "birthday_ice_cream",
+  "research_basis": "Culinary arts, dessert traditions, frozen food chemistry, party planning, sensory science",
+  "audiences": {
+    "kids_4_under": [
+      {"clue": "This cold treat is served in a cone or cup at birthday parties", "correctQuestion": "What is ice cream?", "value": 200},
+      {"clue": "This is what melts if you leave ice cream in the sun too long", "correctQuestion": "What is ice cream?", "value": 200},
+      {"clue": "Birthday kids love this frozen dessert with sprinkles on top", "correctQuestion": "What is ice cream?", "value": 200},
+      {"clue": "This comes in flavors like vanilla, chocolate, and strawberry", "correctQuestion": "What is ice cream?", "value": 200},
+      {"clue": "You eat this with a spoon and it's very cold and creamy", "correctQuestion": "What is ice cream?", "value": 200},
+      {"clue": "This frozen treat on a stick with a bite on top is a popsicle", "correctQuestion": "What is a popsicle?", "value": 400},
+      {"clue": "Birthday cakes are often served with a scoop of this cold cream", "correctQuestion": "What is ice cream?", "value": 400},
+      {"clue": "This treat is hard and cold and you suck on it", "correctQuestion": "What is a popsicle (or ice lolly)?", "value": 400},
+      {"clue": "You use this tool to scoop ice cream into balls", "correctQuestion": "What is an ice cream scoop?", "value": 400},
+      {"clue": "This sweet waffle cone holds ice cream at the party", "correctQuestion": "What is a cone?", "value": 400},
+      {"clue": "This frozen dessert has chunks of fruit or chocolate in it", "correctQuestion": "What is chunky ice cream?", "value": 600},
+      {"clue": "This pink ice cream flavor comes from strawberries", "correctQuestion": "What is strawberry ice cream?", "value": 600},
+      {"clue": "This frozen pop is shaped like a sword or castle", "correctQuestion": "What is a popsicle?", "value": 600},
+      {"clue": "This is what sticks out of your mouth when you eat a popsicle", "correctQuestion": "What is the stick?", "value": 600},
+      {"clue": "This cold dessert keeps your mouth and tongue this color after eating", "correctQuestion": "What is blue (or the popsicle color)?", "value": 600},
+      {"clue": "This creamy dessert is softer than ice cream but still cold", "correctQuestion": "What is frozen yogurt?", "value": 800},
+      {"clue": "This Italian frozen treat is like ice cream but has a different texture", "correctQuestion": "What is gelato?", "value": 800},
+      {"clue": "This popsicle is made with real fruit juice and no added sugar", "correctQuestion": "What is a natural popsicle?", "value": 800},
+      {"clue": "This frozen treat has a layer of ice on top with cream inside", "correctQuestion": "What is a ice cream sandwich?", "value": 800},
+      {"clue": "This is what drips down your hand when ice cream melts fast", "correctQuestion": "What is melted ice cream?", "value": 800},
+      {"clue": "This frozen dessert is made by freezing a sweet mixture while stirring it", "correctQuestion": "What is ice cream?", "value": 1000},
+      {"clue": "This brain freeze feeling comes from eating frozen treats too fast", "correctQuestion": "What is an ice cream headache?", "value": 1000},
+      {"clue": "This colorful frozen snack has two popsicles connected at the middle", "correctQuestion": "What is a double popsicle?", "value": 1000},
+      {"clue": "This cake has ice cream between two layers of sponge", "correctQuestion": "What is ice cream cake?", "value": 1000},
+      {"clue": "This frozen treat looks like a small pile of ice cream on a stick", "correctQuestion": "What is soft-serve ice cream?", "value": 1000},
+      {"clue": "This frozen dessert with nuts or candy bits mixed in is called this", "correctQuestion": "What is chunk (or cookie dough) ice cream?", "value": 1000},
+      {"clue": "This machine makes ice cream by churning a frozen mixture", "correctQuestion": "What is an ice cream maker?", "value": 1000},
+      {"clue": "This bowl of frozen balls is served at birthday parties with cake", "correctQuestion": "What is a bowl of ice cream scoops?", "value": 1000},
+      {"clue": "This frozen fruit treat tastes like sorbet and has no cream", "correctQuestion": "What is a fruit popsicle (or ice)?", "value": 1000},
+      {"clue": "This birthday tradition pairs this frozen dessert with warm cake", "correctQuestion": "What is serving ice cream with cake?", "value": 1000}
+    ],
+    "kids_10_under": [
+      {"clue": "This ancient Roman dessert mixed snow from mountains with fruit and honey", "correctQuestion": "What is the origin of ice cream?", "value": 200},
+      {"clue": "This Spanish frozen treat is served as a breakfast dessert with churros", "correctQuestion": "What is chocolate con churros?", "value": 200},
+      {"clue": "This process of churning freezes a cream mixture into ice cream", "correctQuestion": "What is freezing and churning?", "value": 200},
+      {"clue": "This ingredient is whipped into ice cream to make it fluffy and light", "correctQuestion": "What is air (or cream)?", "value": 200},
+      {"clue": "This measurement at 0 Fahrenheit is the standard freezing point for ice cream", "correctQuestion": "What is -18 degrees Celsius?", "value": 200},
+      {"clue": "This Japanese frozen dessert is made from fresh fruit and has no cream", "correctQuestion": "What is kakigori?", "value": 400},
+      {"clue": "This technique of adding liquid nitrogen to ice cream makes it freeze instantly", "correctQuestion": "What is liquid nitrogen freezing?", "value": 400},
+      {"clue": "This French term describes ice cream-like frozen dessert made with sugar syrup", "correctQuestion": "What is sorbet?", "value": 400},
+      {"clue": "This ingredient prevents ice crystals from forming in homemade ice cream", "correctQuestion": "What is sugar (or alcohol)?", "value": 400},
+      {"clue": "This cultural celebration in Italy features gelato eating competitions", "correctQuestion": "What is gelato festival?", "value": 400},
+      {"clue": "This frozen dessert is made with buttermilk instead of cream", "correctQuestion": "What is frozen yogurt?", "value": 600},
+      {"clue": "This texture of ice cream happens when water freezes into large crystals", "correctQuestion": "What is icy or grainy?", "value": 600},
+      {"clue": "This Brazilian frozen dessert is made from condensed milk and fruit", "correctQuestion": "What is acai bowl (or sorbet)?", "value": 600},
+      {"clue": "This molecule in ice cream helps keep it smooth and creamy", "correctQuestion": "What is lecithin?", "value": 600},
+      {"clue": "This is the percentage of fat needed in ice cream to be labeled premium ice cream", "correctQuestion": "What is 14% (or higher)?", "value": 600},
+      {"clue": "This Asian frozen dessert is made from shaved ice and fruit syrup", "correctQuestion": "What is shaved ice (or bao bing)?", "value": 800},
+      {"clue": "This gelato-like treat from India is made with condensed milk and cardamom", "correctQuestion": "What is kulfi?", "value": 800},
+      {"clue": "This chemistry process is used to make ice cream smooth using salt and ice", "correctQuestion": "What is freezing point depression?", "value": 800},
+      {"clue": "This French frozen custard has a high egg yolk content and rich flavor", "correctQuestion": "What is crème brûlée ice cream (or creme anglaise ice cream)?", "value": 800},
+      {"clue": "This technique of aging ice cream base improves flavor and texture", "correctQuestion": "What is aging or maturation?", "value": 800},
+      {"clue": "This preservative extends shelf life but can create a waxy mouthfeel in ice cream", "correctQuestion": "What is mono and diglycerides?", "value": 1000},
+      {"clue": "This Middle Eastern frozen treat is made from orchid root powder and topped with nuts", "correctQuestion": "What is dondurma?", "value": 1000},
+      {"clue": "This term describes ice cream made with all natural ingredients and no additives", "correctQuestion": "What is artisanal ice cream?", "value": 1000},
+      {"clue": "This temperature difference between cake and ice cream is called thermal contrast", "correctQuestion": "What is 100+ degrees Fahrenheit?", "value": 1000},
+      {"clue": "This Filipino frozen dessert is made with condensed milk and graham crackers", "correctQuestion": "What is dirty ice cream?", "value": 1000},
+      {"clue": "This machine churns ice cream continuously for smooth texture in ice cream shops", "correctQuestion": "What is a soft-serve machine?", "value": 1000},
+      {"clue": "This ratio of sugar to cream affects both sweetness and melting point in ice cream", "correctQuestion": "What is the sugar ratio (or 20% sugar)?", "value": 1000},
+      {"clue": "This Italian tradition of serving multiple gelato flavors together is called", "correctQuestion": "What is gelato affogato (or mixed flavors)?", "value": 1000},
+      {"clue": "This overrun or percentage of air in ice cream affects its density and creaminess", "correctQuestion": "What is 20-50% overrun?", "value": 1000},
+      {"clue": "This dessert is served at 91% of American birthday parties with cake", "correctQuestion": "What is ice cream?", "value": 1000}
+    ],
+    "adults_CAH_style": [
+      {
+        "clue": "The frozen treat parents serve at kids' parties to shut them up before a sugar-induced rampage",
+        "correctQuestion": "What is ice cream?",
+        "value": 200,
+        "why_it_works": "Parents know the truth about sugar and chaos"
+      },
+      {
+        "clue": "What the birthday kid faces when Mom buys store-brand ice cream instead of the expensive stuff",
+        "correctQuestion": "What is betrayal?",
+        "value": 200,
+        "why_it_works": "Everyone remembers the sad store brand"
+      },
+      {
+        "clue": "This app lets you order premium ice cream to your party because you didn't plan ahead",
+        "correctQuestion": "What is DoorDash (or Uber Eats)?",
+        "value": 200,
+        "why_it_works": "Last-minute delivery culture is mainstream"
+      },
+      {
+        "clue": "The Instagram-famous dessert that's just ice cream in a bowl for $18",
+        "correctQuestion": "What is a gourmet ice cream bowl?",
+        "value": 400,
+        "why_it_works": "Overpriced Instagram food is universal"
+      },
+      {
+        "clue": "This frozen treat comes in flavors like lavender-beet-kale because San Francisco",
+        "correctQuestion": "What is artisanal ice cream?",
+        "value": 400,
+        "why_it_works": "Pretentious ice cream flavors are a thing"
+      },
+      {
+        "clue": "What the budget-conscious parent buys from Costco in a 5-gallon tub",
+        "correctQuestion": "What is bulk ice cream?",
+        "value": 400,
+        "why_it_works": "Costco culture is mainstream"
+      },
+      {
+        "clue": "This person's frozen yogurt shop in Brooklyn charges $12 per ounce and takes Bitcoin",
+        "correctQuestion": "What is a millennial entrepreneur?",
+        "value": 600,
+        "why_it_works": "Millennial startup culture + overpriced frozen yogurt"
+      },
+      {
+        "clue": "The reason you can't have nice ice cream in summer: this app destroyed delivery logistics",
+        "correctQuestion": "What is Amazon Prime (or any delivery service)?",
+        "value": 600,
+        "why_it_works": "Delivery culture created new problems"
+      },
+      {
+        "clue": "This is what happens when you order ice cream on a road trip and forget about it in your trunk",
+        "correctQuestion": "What is a melted mess (or liquid)?",
+        "value": 600,
+        "why_it_works": "Relatable family road trip disaster"
+      },
+      {
+        "clue": "The birthday parent's greatest fear when the ice cream cake melts all over the good tablecloth",
+        "correctQuestion": "What is laundry (or stains)?",
+        "value": 600,
+        "why_it_works": "Universal parent anxiety"
+      },
+      {
+        "clue": "This TikTok trend involved pouring melted ice cream into your mouth directly from the container",
+        "correctQuestion": "What is the ice cream challenge?",
+        "value": 800,
+        "why_it_works": "TikTok trends are mainstream"
+      },
+      {
+        "clue": "What the vegan guest brings to the birthday party when they see regular ice cream",
+        "correctQuestion": "What is dairy-free ice cream (or judgment)?",
+        "value": 800,
+        "why_it_works": "Dietary restrictions + party dynamics"
+      },
+      {
+        "clue": "This frozen treat caused a nationwide shortage when Roe v. Wade was overturned",
+        "correctQuestion": "What is Ben & Jerry's ice cream?",
+        "value": 800,
+        "why_it_works": "Ben & Jerry's political activism is mainstream news"
+      },
+      {
+        "clue": "The ice cream flavor named after this celebrity has more personality than the actual person",
+        "correctQuestion": "Who is Taylor Swift (or any influencer)?",
+        "value": 800,
+        "why_it_works": "Celebrity ice cream flavors are a thing"
+      },
+      {
+        "clue": "This luxury brand charges $25 for ice cream because it's made with gold leaf and billionaire tears",
+        "correctQuestion": "What is ultra-premium ice cream?",
+        "value": 800,
+        "why_it_works": "Absurd luxury pricing for basic items"
+      },
+      {
+        "clue": "The reason your kid's birthday party now costs $300: ice cream rental instead of buying",
+        "correctQuestion": "What is the rental ice cream cart?",
+        "value": 1000,
+        "why_it_works": "Pinterest party culture and unnecessary rentals"
+      },
+      {
+        "clue": "This streaming service made you pay extra to watch people eat ice cream in 4K quality",
+        "correctQuestion": "What is Netflix (or any premium streaming)?",
+        "value": 1000,
+        "why_it_works": "Streaming service overcharging is mainstream"
+      },
+      {
+        "clue": "The ingredient that makes ice cream melts in your mouth but you're probably allergic to it",
+        "correctQuestion": "What is high fructose corn syrup (or gluten)?",
+        "value": 1000,
+        "why_it_works": "Food allergies + processed food awareness"
+      },
+      {
+        "clue": "What your fitness influencer posted after eating ice cream at the party: screenshots of their workout",
+        "correctQuestion": "What is performative exercise (or guilt)?",
+        "value": 1000,
+        "why_it_works": "Instagram fitness culture"
+      },
+      {
+        "clue": "This weather event in 2024 melted all the ice cream in Texas and caused a TikTok disaster",
+        "correctQuestion": "What is a heatwave (or extreme weather)?",
+        "value": 1000,
+        "why_it_works": "Climate disaster as mainstream news"
+      },
+      {
+        "clue": "The cryptocurrency your nephew wants to invest in made by that bro-dude who also sells ice cream",
+        "correctQuestion": "What is a meme coin (or scam)?",
+        "value": 1000,
+        "why_it_works": "Crypto scams + weird entrepreneur combos"
+      },
+      {
+        "clue": "This billionaire's private space program uses frozen desserts to cool rocket fuel but charges you $50 for a scoop",
+        "correctQuestion": "Who is Elon Musk (or any billionaire)?",
+        "value": 1000,
+        "why_it_works": "Billionaire absurdity + overpricing"
+      },
+      {
+        "clue": "The filter on TikTok that made your ice cream birthday video unwatchable to people with normal eyes",
+        "correctQuestion": "What is an excessive face filter?",
+        "value": 1000,
+        "why_it_works": "TikTok filter culture"
+      },
+      {
+        "clue": "What your wellness coach told you to eat instead of ice cream at the party for maximum gains",
+        "correctQuestion": "What is protein powder mixed with nothing?",
+        "value": 1000,
+        "why_it_works": "Gym bro culture + ruined party foods"
+      },
+      {
+        "clue": "The reason your kid's ice cream party cost more than your college textbooks: Instagram-worthy presentation",
+        "correctQuestion": "What is aesthetic appeal (or social media)?",
+        "value": 1000,
+        "why_it_works": "Instagram culture + party culture"
+      },
+      {
+        "clue": "This brand of ice cream is exclusively sold at Whole Foods to people who want to be seen eating ice cream",
+        "correctQuestion": "What is luxury ice cream (or performative consumption)?",
+        "value": 1000,
+        "why_it_works": "Performative shopping at Whole Foods"
+      },
+      {
+        "clue": "The mandatory ice cream cake that costs $40 and tastes worse than the $3 frozen dessert from Costco",
+        "correctQuestion": "What is celebration cake (or overpriced mediocrity)?",
+        "value": 1000,
+        "why_it_works": "Bakery pricing is absurd"
+      },
+      {
+        "clue": "What the party host argued about on Reddit: whether soft serve or scooped ice cream is superior",
+        "correctQuestion": "What is an unnecessary debate?",
+        "value": 1000,
+        "why_it_works": "Reddit arguments about dumb stuff"
+      },
+      {
+        "clue": "This dietary restriction now requires three different ice cream options or you're a bad parent",
+        "correctQuestion": "What is vegan, gluten-free, and dairy-free?",
+        "value": 1000,
+        "why_it_works": "Multiple dietary needs at parties"
+      },
+      {
+        "clue": "The reason your birthday ice cream cake tasted like nothing: it was stored next to Mom's expired condiments",
+        "correctQuestion": "What is poor refrigerator organization?",
+        "value": 1000,
+        "why_it_works": "Relatable family dysfunction"
+      }
+    ]
+  }
+}

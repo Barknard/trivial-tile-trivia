@@ -1,0 +1,563 @@
+{
+  "category": {
+    "id": "newyear_countdown",
+    "name": "New Year Countdown (10-1)",
+    "description": "Countdown to midnight and New Year's Eve trivia - from 10 down to midnight. Includes traditional celebrations and Cards Against Humanity style humor.",
+    "themes": [
+      "Counting down to midnight",
+      "New Year's Eve traditions",
+      "Midnight moments",
+      "Champagne toasts",
+      "Resolutions and new beginnings",
+      "Ball drops and celebrations"
+    ],
+    "target_audiences": [
+      "teens",
+      "adults"
+    ],
+    "total_questions": 60,
+    "questions_per_style": 30
+  },
+  "questions": [
+    {
+      "id": "nyc_reg_001",
+      "style": "regular",
+      "difficulty": 100,
+      "question": "How many seconds are in a countdown from 10 to 0?",
+      "answer": "10 seconds",
+      "category": "newyear_countdown",
+      "tags": ["counting", "time", "math"]
+    },
+    {
+      "id": "nyc_reg_002",
+      "style": "regular",
+      "difficulty": 100,
+      "question": "What beverage is traditionally raised at midnight on New Year's Eve?",
+      "answer": "Champagne",
+      "category": "newyear_countdown",
+      "tags": ["new_year", "tradition", "drinks"]
+    },
+    {
+      "id": "nyc_reg_003",
+      "style": "regular",
+      "difficulty": 100,
+      "question": "In what city does the most famous ball drop occur on New Year's Eve?",
+      "answer": "New York City",
+      "category": "newyear_countdown",
+      "tags": ["ball_drop", "tradition", "geography"]
+    },
+    {
+      "id": "nyc_reg_004",
+      "style": "regular",
+      "difficulty": 150,
+      "question": "What number comes after 10 in a countdown?",
+      "answer": "9",
+      "category": "newyear_countdown",
+      "tags": ["counting", "sequence", "basic"]
+    },
+    {
+      "id": "nyc_reg_005",
+      "style": "regular",
+      "difficulty": 150,
+      "question": "How many times do clock hands align as they count down from 10?",
+      "answer": "10",
+      "category": "newyear_countdown",
+      "tags": ["time", "clocks", "numbers"]
+    },
+    {
+      "id": "nyc_reg_006",
+      "style": "regular",
+      "difficulty": 150,
+      "question": "What tradition involves making a promise for the new year?",
+      "answer": "New Year's Resolution",
+      "category": "newyear_countdown",
+      "tags": ["tradition", "goals", "new_year"]
+    },
+    {
+      "id": "nyc_reg_007",
+      "style": "regular",
+      "difficulty": 150,
+      "question": "How many minutes until midnight from 11:50 PM?",
+      "answer": "10 minutes",
+      "category": "newyear_countdown",
+      "tags": ["time", "math", "counting"]
+    },
+    {
+      "id": "nyc_reg_008",
+      "style": "regular",
+      "difficulty": 150,
+      "question": "What is the most common kiss on New Year's Eve at midnight?",
+      "answer": "Midnight kiss",
+      "category": "newyear_countdown",
+      "tags": ["tradition", "midnight", "new_year"]
+    },
+    {
+      "id": "nyc_reg_009",
+      "style": "regular",
+      "difficulty": 200,
+      "question": "What song is traditionally sung at midnight to ring in the New Year?",
+      "answer": "Auld Lang Syne",
+      "category": "newyear_countdown",
+      "tags": ["music", "tradition", "new_year"]
+    },
+    {
+      "id": "nyc_reg_010",
+      "style": "regular",
+      "difficulty": 200,
+      "question": "How many seconds does the ball drop take in Times Square?",
+      "answer": "60 seconds",
+      "category": "newyear_countdown",
+      "tags": ["ball_drop", "time", "times_square"]
+    },
+    {
+      "id": "nyc_reg_011",
+      "style": "regular",
+      "difficulty": 200,
+      "question": "What time zone celebrates New Year first in the USA?",
+      "answer": "Eastern Time Zone",
+      "category": "newyear_countdown",
+      "tags": ["time_zones", "geography", "new_year"]
+    },
+    {
+      "id": "nyc_reg_012",
+      "style": "regular",
+      "difficulty": 200,
+      "question": "In what year did the Times Square ball drop tradition start?",
+      "answer": "1907",
+      "category": "newyear_countdown",
+      "tags": ["history", "tradition", "ball_drop"]
+    },
+    {
+      "id": "nyc_reg_013",
+      "style": "regular",
+      "difficulty": 200,
+      "question": "How many people typically gather in Times Square for New Year's Eve?",
+      "answer": "Over 1 million",
+      "category": "newyear_countdown",
+      "tags": ["crowds", "times_square", "statistics"]
+    },
+    {
+      "id": "nyc_reg_014",
+      "style": "regular",
+      "difficulty": 250,
+      "question": "What sparkling beverage is used instead of champagne in non-alcoholic celebrations?",
+      "answer": "Sparkling cider",
+      "category": "newyear_countdown",
+      "tags": ["drinks", "tradition", "non_alcoholic"]
+    },
+    {
+      "id": "nyc_reg_015",
+      "style": "regular",
+      "difficulty": 250,
+      "question": "What number does the countdown end on?",
+      "answer": "1",
+      "category": "newyear_countdown",
+      "tags": ["counting", "sequence", "final"]
+    },
+    {
+      "id": "nyc_reg_016",
+      "style": "regular",
+      "difficulty": 250,
+      "question": "How many minutes are there from 10 minutes to midnight?",
+      "answer": "10",
+      "category": "newyear_countdown",
+      "tags": ["time", "minutes", "countdown"]
+    },
+    {
+      "id": "nyc_reg_017",
+      "style": "regular",
+      "difficulty": 250,
+      "question": "What is the Roman numeral for the year 2025?",
+      "answer": "MMXXV",
+      "category": "newyear_countdown",
+      "tags": ["numbers", "roman_numerals", "year"]
+    },
+    {
+      "id": "nyc_reg_018",
+      "style": "regular",
+      "difficulty": 250,
+      "question": "What is the global New Year's tradition called that happens at midnight?",
+      "answer": "Celebration",
+      "category": "newyear_countdown",
+      "tags": ["tradition", "global", "midnight"]
+    },
+    {
+      "id": "nyc_reg_019",
+      "style": "regular",
+      "difficulty": 300,
+      "question": "What color are the confetti cannons often filled with?",
+      "answer": "Gold, silver, and metallic colors",
+      "category": "newyear_countdown",
+      "tags": ["decoration", "celebration", "confetti"]
+    },
+    {
+      "id": "nyc_reg_020",
+      "style": "regular",
+      "difficulty": 300,
+      "question": "How long does it take for the Times Square ball to complete its descent?",
+      "answer": "60 seconds",
+      "category": "newyear_countdown",
+      "tags": ["times_square", "timing", "ball_drop"]
+    },
+    {
+      "id": "nyc_reg_021",
+      "style": "regular",
+      "difficulty": 300,
+      "question": "What Scottish phrase does Auld Lang Syne come from?",
+      "answer": "Should old acquaintance be forgot",
+      "category": "newyear_countdown",
+      "tags": ["music", "lyrics", "scottish"]
+    },
+    {
+      "id": "nyc_reg_022",
+      "style": "regular",
+      "difficulty": 300,
+      "question": "In what decade did New Year's Eve countdown parties become popular worldwide?",
+      "answer": "1900s",
+      "category": "newyear_countdown",
+      "tags": ["history", "tradition", "timeline"]
+    },
+    {
+      "id": "nyc_reg_023",
+      "style": "regular",
+      "difficulty": 350,
+      "question": "What time is 10 minutes before midnight?",
+      "answer": "11:50 PM",
+      "category": "newyear_countdown",
+      "tags": ["time", "clock", "math"]
+    },
+    {
+      "id": "nyc_reg_024",
+      "style": "regular",
+      "difficulty": 350,
+      "question": "What is the technical name for the giant glowing orb in Times Square?",
+      "answer": "The New Year's Eve Ball",
+      "category": "newyear_countdown",
+      "tags": ["times_square", "official_name", "ball_drop"]
+    },
+    {
+      "id": "nyc_reg_025",
+      "style": "regular",
+      "difficulty": 350,
+      "question": "How many 10-second intervals are there in a 100-second countdown?",
+      "answer": "10",
+      "category": "newyear_countdown",
+      "tags": ["math", "time", "fractions"]
+    },
+    {
+      "id": "nyc_reg_026",
+      "style": "regular",
+      "difficulty": 350,
+      "question": "What century will begin at the next New Year's countdown?",
+      "answer": "The 21st century continues",
+      "category": "newyear_countdown",
+      "tags": ["calendar", "centuries", "future"]
+    },
+    {
+      "id": "nyc_reg_027",
+      "style": "regular",
+      "difficulty": 400,
+      "question": "How many people watch the Times Square ball drop on television?",
+      "answer": "Millions worldwide",
+      "category": "newyear_countdown",
+      "tags": ["viewership", "statistics", "broadcast"]
+    },
+    {
+      "id": "nyc_reg_028",
+      "style": "regular",
+      "difficulty": 400,
+      "question": "What number of days are in a leap year?",
+      "answer": "366",
+      "category": "newyear_countdown",
+      "tags": ["calendar", "leap_year", "math"]
+    },
+    {
+      "id": "nyc_reg_029",
+      "style": "regular",
+      "difficulty": 400,
+      "question": "How many hours until the new year at 2 PM on New Year's Eve?",
+      "answer": "10 hours",
+      "category": "newyear_countdown",
+      "tags": ["time", "math", "clock"]
+    },
+    {
+      "id": "nyc_reg_030",
+      "style": "regular",
+      "difficulty": 400,
+      "question": "What does the number 2025 represent in the context of New Year countdown?",
+      "answer": "The new year we are counting toward",
+      "category": "newyear_countdown",
+      "tags": ["year", "countdown", "future"]
+    },
+    {
+      "id": "nyc_cah_001",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "When the ball drops at midnight, everyone starts kissing. Nobody told my ______.",
+      "answer": "Alexa / Amazon Echo",
+      "category": "newyear_countdown",
+      "tags": ["smart_device", "tech", "lonely", "modern"]
+    },
+    {
+      "id": "nyc_cah_002",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "My New Year's resolution? Finally delete my ______ from my phone.",
+      "answer": "Ex's number",
+      "category": "newyear_countdown",
+      "tags": ["relationships", "dating", "resolution", "dark"]
+    },
+    {
+      "id": "nyc_cah_003",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "At the countdown, everyone screams except the person dealing with ______.",
+      "answer": "Anxiety",
+      "category": "newyear_countdown",
+      "tags": ["mental_health", "dark", "relatable", "modern"]
+    },
+    {
+      "id": "nyc_cah_004",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "The real countdown we're watching is from 10 to bankruptcy thanks to ______.",
+      "answer": "Student loans",
+      "category": "newyear_countdown",
+      "tags": ["millennial", "debt", "dark", "relatable"]
+    },
+    {
+      "id": "nyc_cah_005",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "Instead of champagne, I'm toasting with ______.",
+      "answer": "Regret and anxiety meds",
+      "category": "newyear_countdown",
+      "tags": ["dark", "mental_health", "millennial", "relatable"]
+    },
+    {
+      "id": "nyc_cah_006",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "10... 9... 8... 7... What's everyone checking as the countdown continues?",
+      "answer": "Their phones",
+      "category": "newyear_countdown",
+      "tags": ["technology", "modern", "phone_addiction", "relatable"]
+    },
+    {
+      "id": "nyc_cah_007",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "Times Square on New Year's is just millions of people and ______.",
+      "answer": "One portapotty",
+      "category": "newyear_countdown",
+      "tags": ["crowds", "bathrooms", "dark", "crowds"]
+    },
+    {
+      "id": "nyc_cah_008",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "When the ball drops, my partner will be kissing ______.",
+      "answer": "Someone else",
+      "category": "newyear_countdown",
+      "tags": ["relationships", "dark", "cheating", "breakup"]
+    },
+    {
+      "id": "nyc_cah_009",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "This year's New Year's resolution: Stop binge-watching ______ and go outside.",
+      "answer": "Netflix",
+      "category": "newyear_countdown",
+      "tags": ["streaming", "couch_potato", "modern", "mainstream"]
+    },
+    {
+      "id": "nyc_cah_010",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "At midnight, I'll be crying over ______ instead of celebrating.",
+      "answer": "My bank account",
+      "category": "newyear_countdown",
+      "tags": ["money", "financial", "dark", "relatable"]
+    },
+    {
+      "id": "nyc_cah_011",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "The thing I promised to give up in 2025 is ______.",
+      "answer": "My dignity",
+      "category": "newyear_countdown",
+      "tags": ["dark", "self_deprecating", "relatable", "funny"]
+    },
+    {
+      "id": "nyc_cah_012",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "My New Year's Eve outfit hides ______ perfectly.",
+      "answer": "The extra 15 pounds",
+      "category": "newyear_countdown",
+      "tags": ["body", "weight", "dark", "relatable"]
+    },
+    {
+      "id": "nyc_cah_013",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "When the countdown hits zero, everyone forgets their ______.",
+      "answer": "Responsibilities",
+      "category": "newyear_countdown",
+      "tags": ["partying", "celebration", "freedom", "modern"]
+    },
+    {
+      "id": "nyc_cah_014",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "Forget resolutions. My only goal for 2025 is to avoid ______.",
+      "answer": "People",
+      "category": "newyear_countdown",
+      "tags": ["introversion", "antisocial", "relatable", "dark"]
+    },
+    {
+      "id": "nyc_cah_015",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "The Times Square crowd is just waiting for the ball to drop so they can leave and go to ______.",
+      "answer": "Dunkin Donuts",
+      "category": "newyear_countdown",
+      "tags": ["new_york", "coffee", "mainstream", "funny"]
+    },
+    {
+      "id": "nyc_cah_016",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "This year I'm ditching the countdown and celebrating with ______.",
+      "answer": "My therapist",
+      "category": "newyear_countdown",
+      "tags": ["mental_health", "dark", "relatable", "modern"]
+    },
+    {
+      "id": "nyc_cah_017",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "My partner and I kiss at midnight but it'll be brief because of ______.",
+      "answer": "Bad breath",
+      "category": "newyear_countdown",
+      "tags": ["relationships", "dark", "hygiene", "funny"]
+    },
+    {
+      "id": "nyc_cah_018",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "The only thing worth celebrating on New Year's is ______.",
+      "answer": "That I survived another year",
+      "category": "newyear_countdown",
+      "tags": ["dark", "survival", "relatable", "mental_health"]
+    },
+    {
+      "id": "nyc_cah_019",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "Instead of a New Year's kiss, I got ______.",
+      "answer": "Ghosted",
+      "category": "newyear_countdown",
+      "tags": ["dating", "modern", "dark", "relatable"]
+    },
+    {
+      "id": "nyc_cah_020",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "The real countdown should be from 10 until I can afford ______.",
+      "answer": "A house",
+      "category": "newyear_countdown",
+      "tags": ["millennial", "housing", "financial", "dark"]
+    },
+    {
+      "id": "nyc_cah_021",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "My New Year's party consisted of me, my couch, and ______.",
+      "answer": "My cat",
+      "category": "newyear_countdown",
+      "tags": ["lonely", "introversion", "relatable", "pets"]
+    },
+    {
+      "id": "nyc_cah_022",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "At the countdown, I'll be sipping on ______ and judging everyone else.",
+      "answer": "Store-brand sparkling cider",
+      "category": "newyear_countdown",
+      "tags": ["budget", "cheap", "funny", "relatable"]
+    },
+    {
+      "id": "nyc_cah_023",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "The thing I'm most excited to leave behind in 2024 is ______.",
+      "answer": "My bad decisions",
+      "category": "newyear_countdown",
+      "tags": ["dark", "self_deprecating", "relatable", "reflection"]
+    },
+    {
+      "id": "nyc_cah_024",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "If I had a dollar for every broken New Year's resolution, I'd have ______.",
+      "answer": "Enough for therapy",
+      "category": "newyear_countdown",
+      "tags": ["dark", "mental_health", "relatable", "funny"]
+    },
+    {
+      "id": "nyc_cah_025",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "My New Year's countdown playlist is just ______ on repeat.",
+      "answer": "Wonderwall",
+      "category": "newyear_countdown",
+      "tags": ["music", "2000s", "mainstream", "funny"]
+    },
+    {
+      "id": "nyc_cah_026",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "At the stroke of midnight, my resolutions are already ruined by ______.",
+      "answer": "The champagne and pizza",
+      "category": "newyear_countdown",
+      "tags": ["food", "celebration", "relatable", "funny"]
+    },
+    {
+      "id": "nyc_cah_027",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "The Times Square countdown is really just an excuse to witness ______.",
+      "answer": "Mass chaos and bad decisions",
+      "category": "newyear_countdown",
+      "tags": ["crowds", "crowds", "chaos", "dark"]
+    },
+    {
+      "id": "nyc_cah_028",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "I'm not doing New Year's resolutions anymore. I'm just gonna ______.",
+      "answer": "Disappoint myself naturally",
+      "category": "newyear_countdown",
+      "tags": ["dark", "self_deprecating", "relatable", "funny"]
+    },
+    {
+      "id": "nyc_cah_029",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "My New Year's kiss was going to be magical until ______.",
+      "answer": "They friendzoned me",
+      "category": "newyear_countdown",
+      "tags": ["dating", "rejection", "dark", "relatable"]
+    },
+    {
+      "id": "nyc_cah_030",
+      "style": "CAH",
+      "difficulty": 400,
+      "question": "As we count down from 10, what will ruin my New Year's Eve?",
+      "answer": "My drunk uncle",
+      "category": "newyear_countdown",
+      "tags": ["family", "alcohol", "dark", "relatable"]
+    }
+  ]
+}

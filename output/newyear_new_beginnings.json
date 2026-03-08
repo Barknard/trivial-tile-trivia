@@ -1,0 +1,308 @@
+{
+  "category": "New Year, New Beginnings",
+  "description": "Fresh starts, new beginnings, starting over, and resolutions for change",
+  "regular_clues": [
+    {
+      "points": 200,
+      "clue": "Traditional practice of making promises to improve yourself on January 1st",
+      "answer": "What is a New Year's resolution?"
+    },
+    {
+      "points": 200,
+      "clue": "The turning of the calendar from one year to the next",
+      "answer": "What is the New Year?"
+    },
+    {
+      "points": 200,
+      "clue": "A fresh opportunity to pursue your dreams and goals",
+      "answer": "What is a fresh start?"
+    },
+    {
+      "points": 200,
+      "clue": "Symbolic moment when many people decide to change their habits",
+      "answer": "What is New Year's Day?"
+    },
+    {
+      "points": 200,
+      "clue": "The process of leaving behind past failures and mistakes",
+      "answer": "What is moving on?"
+    },
+    {
+      "points": 200,
+      "clue": "Clean slate mentality that comes with a new calendar year",
+      "answer": "What is starting fresh?"
+    },
+    {
+      "points": 400,
+      "clue": "Common New Year's resolution to become healthier and fit",
+      "answer": "What is exercise or go to the gym?"
+    },
+    {
+      "points": 400,
+      "clue": "Popular goal to improve finances in the coming year",
+      "answer": "What is save money or budgeting?"
+    },
+    {
+      "points": 400,
+      "clue": "The moment at midnight when one year officially ends and another begins",
+      "answer": "What is the stroke of midnight?"
+    },
+    {
+      "points": 400,
+      "clue": "Celebration involving champagne, parties, and countdowns",
+      "answer": "What is New Year's Eve?"
+    },
+    {
+      "points": 400,
+      "clue": "Many people pursue this goal to improve their knowledge",
+      "answer": "What is learn a new skill or language?"
+    },
+    {
+      "points": 400,
+      "clue": "Common decision to quit smoking or drinking at the start of the year",
+      "answer": "What is breaking a bad habit?"
+    },
+    {
+      "points": 600,
+      "clue": "The practice of setting intentions for positive change and growth",
+      "answer": "What is goal-setting?"
+    },
+    {
+      "points": 600,
+      "clue": "Symbol of renewal found in many New Year's traditions worldwide",
+      "answer": "What is fire or light?"
+    },
+    {
+      "points": 600,
+      "clue": "Phase of life where someone starts completely over in a new location",
+      "answer": "What is relocating or moving?"
+    },
+    {
+      "points": 600,
+      "clue": "Transitional period when many people change careers or jobs",
+      "answer": "What is a job change or career shift?"
+    },
+    {
+      "points": 600,
+      "clue": "Moment when someone ends one chapter and begins another",
+      "answer": "What is a turning point?"
+    },
+    {
+      "points": 600,
+      "clue": "The ancient Roman god after whom January is named, symbolizing beginnings",
+      "answer": "What is Janus?"
+    },
+    {
+      "points": 800,
+      "clue": "Ancient tradition of Romans making promises to Janus at year's start",
+      "answer": "What is making vows or pledges?"
+    },
+    {
+      "points": 800,
+      "clue": "Baby Boomers believed this astrological event marked fresh starts",
+      "answer": "What is a new zodiac cycle?"
+    },
+    {
+      "points": 800,
+      "clue": "Common theme in many cultures symbolizing rebirth and rejuvenation",
+      "answer": "What is renewal?"
+    },
+    {
+      "points": 800,
+      "clue": "The first day of the year in many Western cultures commemorates this",
+      "answer": "What is January 1st?"
+    },
+    {
+      "points": 800,
+      "clue": "Ritual burning of items representing what you want to release",
+      "answer": "What is a burning ceremony?"
+    },
+    {
+      "points": 800,
+      "clue": "Confucian concept of self-improvement through study and reflection",
+      "answer": "What is personal development or self-cultivation?"
+    },
+    {
+      "points": 1000,
+      "clue": "Japanese tradition of cleaning the entire house to prepare for new beginnings",
+      "answer": "What is Oosouji?"
+    },
+    {
+      "points": 1000,
+      "clue": "Taoist philosophy emphasizing harmony between past endings and new beginnings",
+      "answer": "What is Yin and Yang?"
+    },
+    {
+      "points": 1000,
+      "clue": "Nordic tradition of burning bonfires to cleanse and prepare for renewal",
+      "answer": "What is St. Lucia Day bonfire celebrations?"
+    },
+    {
+      "points": 1000,
+      "clue": "Ceremony in many Indigenous cultures honoring seasonal cycles and rebirth",
+      "answer": "What is a seasonal renewal ceremony?"
+    },
+    {
+      "points": 1000,
+      "clue": "Buddhist concept of karma suggesting new lives arise from past actions",
+      "answer": "What is rebirth or reincarnation?"
+    },
+    {
+      "points": 1000,
+      "clue": "Ancient Egyptian practice of renewing the king's power at year's end",
+      "answer": "What is the Sed festival?"
+    }
+  ],
+  "no_humanity_clues": [
+    {
+      "points": 200,
+      "clue": "How long most New Year's resolutions actually last",
+      "answer": "What is two weeks?"
+    },
+    {
+      "points": 200,
+      "clue": "What you tell yourself on January 1st",
+      "answer": "What is this year will be different?"
+    },
+    {
+      "points": 200,
+      "clue": "What you're actually doing on January 2nd",
+      "answer": "What is breaking your resolution?"
+    },
+    {
+      "points": 200,
+      "clue": "Modern way to announce your fresh start",
+      "answer": "What is an Instagram post about new beginnings?"
+    },
+    {
+      "points": 200,
+      "clue": "The gym membership you never use",
+      "answer": "What is your New Year's resolution come to life?"
+    },
+    {
+      "points": 200,
+      "clue": "Why you need a fresh start",
+      "answer": "What is existential dread from the last year?"
+    },
+    {
+      "points": 400,
+      "clue": "Promise you made at midnight that you've already forgotten",
+      "answer": "What is your most important goal?"
+    },
+    {
+      "points": 400,
+      "clue": "Reason your fresh start failed by January 15th",
+      "answer": "What is you preferred the old you?"
+    },
+    {
+      "points": 400,
+      "clue": "What social media influencers sell you on New Year's",
+      "answer": "What is their new self-help course?"
+    },
+    {
+      "points": 400,
+      "clue": "Expensive equipment you bought for your resolution and never used",
+      "answer": "What is a Peloton bike?"
+    },
+    {
+      "points": 400,
+      "clue": "What you're really starting fresh: your credit card debt",
+      "answer": "What is a fresh batch of?"
+    },
+    {
+      "points": 400,
+      "clue": "The real fresh start most people need",
+      "answer": "What is therapy?"
+    },
+    {
+      "points": 600,
+      "clue": "Why your New Year's glow-up lasted exactly one week",
+      "answer": "What is reality checked you?"
+    },
+    {
+      "points": 600,
+      "clue": "The fresh start that costs way more than you expected",
+      "answer": "What is moving to a new city?"
+    },
+    {
+      "points": 600,
+      "clue": "LinkedIn posts nobody asked for about new beginnings",
+      "answer": "What is my personal brand pivot?"
+    },
+    {
+      "points": 600,
+      "clue": "Why you're starting fresh after your relationship ended",
+      "answer": "What is mutual agreement to pretend it never happened?"
+    },
+    {
+      "points": 600,
+      "clue": "The app that tracks promises you'll never keep",
+      "answer": "What is a habit tracker?"
+    },
+    {
+      "points": 600,
+      "clue": "What your therapist charges extra for during January",
+      "answer": "What is emergency sessions about failed resolutions?"
+    },
+    {
+      "points": 800,
+      "clue": "Toxic positivity energy of people who actually keep their resolutions",
+      "answer": "What is insufferable?"
+    },
+    {
+      "points": 800,
+      "clue": "The fresh start nobody talks about: relapsing into old habits",
+      "answer": "What is falling back to square one?"
+    },
+    {
+      "points": 800,
+      "clue": "Why the influencer deleted their New Year's content by February",
+      "answer": "What is the algorithm caught them eating donuts?"
+    },
+    {
+      "points": 800,
+      "clue": "Your support system for starting fresh",
+      "answer": "What is ordering takeout and scrolling TikTok?"
+    },
+    {
+      "points": 800,
+      "clue": "The chapter you're really trying to close from last year",
+      "answer": "What is your entire personality?"
+    },
+    {
+      "points": 800,
+      "clue": "What the wellness industry exploits every January",
+      "answer": "What is your shame and self-loathing?"
+    },
+    {
+      "points": 1000,
+      "clue": "The brutal truth about reinvention nobody tells you",
+      "answer": "What is you're still the same person with better intentions?"
+    },
+    {
+      "points": 1000,
+      "clue": "Why your fresh start feels like a costume you're wearing",
+      "answer": "What is because it literally is?"
+    },
+    {
+      "points": 1000,
+      "clue": "The relationship you're trying to repair with your fresh start",
+      "answer": "What is the one with yourself?"
+    },
+    {
+      "points": 1000,
+      "clue": "Your drunk uncle's opinion on your New Year's resolution",
+      "answer": "What is you won't stick with it like the last five years?"
+    },
+    {
+      "points": 1000,
+      "clue": "The fresh start capitalism invented to sell self-help products",
+      "answer": "What is the concept of New Year, New You?"
+    },
+    {
+      "points": 1000,
+      "clue": "What really needs to change for a genuine fresh start",
+      "answer": "What is your entire belief system and coping mechanisms?"
+    }
+  ]
+}

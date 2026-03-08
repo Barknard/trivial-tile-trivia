@@ -1,0 +1,1836 @@
+{
+  "category": "Birthday Themed Parties",
+  "description": "180 Jeopardy questions about party themes, costume parties, immersive experiences, and themed celebrations. Topics include imaginative play, themed learning, narrative engagement, and celebration design across all audience levels.",
+  "research_sources": [
+    "https://www.tagvenue.com/blog/party-themes-for-adults/",
+    "https://www.accio.com/business/birthday-party-trends-2025",
+    "https://www.thehappiloft.com/birthday-party-theme-ideas/",
+    "https://www.precisionfamilytherapy.com/post/the-role-of-imaginative-play-in-play-based-learning-programs",
+    "https://www.kidsfirstservices.com/first-insights/why-imaginative-play-is-important-for-cognitive-development",
+    "https://therainbowstories.com/the-science-behind-imaginative-play-and-personalized-storytelling/",
+    "https://www.eventbrite.com/blog/costume-party-ideas/"
+  ],
+  "metadata": {
+    "total_questions": 180,
+    "audiences": [
+      "Kids (Ages 6-11)",
+      "Teens (Ages 12-17)",
+      "Adults (Ages 18+)",
+      "Experts",
+      "All Ages"
+    ],
+    "questions_per_audience": 36,
+    "themes_covered": [
+      "Party Themes",
+      "Costume Parties",
+      "Immersive Experiences",
+      "Themed Celebrations",
+      "Imaginative Play",
+      "Themed Learning",
+      "Narrative Engagement",
+      "Celebration Design"
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What magical school do wizards attend in a popular book-themed birthday party?",
+      "answer": "Hogwarts",
+      "clue": "Harry Potter's famous academy",
+      "follow_up": "What house might the birthday child be sorted into?"
+    },
+    {
+      "id": 2,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "If you're dressing as a superhero for a birthday party, what item goes on your face?",
+      "answer": "A mask",
+      "clue": "Hides your secret identity",
+      "follow_up": "Name three superheroes and their mask colors."
+    },
+    {
+      "id": 3,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "In a pirate-themed birthday party, what treasure are you searching for?",
+      "answer": "Gold or buried treasure",
+      "clue": "X marks the spot",
+      "follow_up": "What tool would a pirate use to find buried treasure?"
+    },
+    {
+      "id": 4,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "If your birthday party turns a room into an underwater world, what sea creature might you encounter?",
+      "answer": "Fish, sharks, dolphins, or octopus",
+      "clue": "Lives in the ocean",
+      "follow_up": "What decorations would make a room look underwater?"
+    },
+    {
+      "id": 5,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What do you wear when your birthday party theme is a fancy ball or masquerade?",
+      "answer": "A mask",
+      "clue": "Covers your eyes mysteriously",
+      "follow_up": "What other fancy items might you wear to a masquerade?"
+    },
+    {
+      "id": 6,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "When you play pretend at a dinosaur-themed birthday party, what prehistoric animal might stomp around?",
+      "answer": "Tyrannosaurus Rex or T-Rex",
+      "clue": "The king of the dinosaurs",
+      "follow_up": "What sound does a T-Rex make?"
+    },
+    {
+      "id": 7,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "For a medieval castle party theme, what royal role might the birthday child take on?",
+      "answer": "King, queen, prince, or princess",
+      "clue": "Sits on a throne",
+      "follow_up": "What does a king or queen wear on their head?"
+    },
+    {
+      "id": 8,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Party Themes",
+      "question": "In a space-themed birthday party, what planet might you explore?",
+      "answer": "Mars, Jupiter, Saturn, or any planet",
+      "clue": "Red planet or ringed planet",
+      "follow_up": "What do astronauts wear on their heads in space?"
+    },
+    {
+      "id": 9,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Immersive Experiences",
+      "question": "What would you search for in a treasure hunt birthday party game?",
+      "answer": "Treasure, clues, or hidden objects",
+      "clue": "Usually hidden in various locations",
+      "follow_up": "What tool might help you follow treasure hunt clues?"
+    },
+    {
+      "id": 10,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Learning",
+      "question": "If your birthday party theme is 'Around the World,' what does this teach you about?",
+      "answer": "Different countries, cultures, or traditions",
+      "clue": "Exploring global diversity",
+      "follow_up": "Name three countries you might explore at such a party."
+    },
+    {
+      "id": 11,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "What storytelling technique creates an adventure at a birthday party where you must 'rescue' something?",
+      "answer": "A quest or mission narrative",
+      "clue": "A hero's journey with a goal",
+      "follow_up": "What might you rescue in a princess-themed party?"
+    },
+    {
+      "id": 12,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "In a time-travel birthday party theme, what two time periods might you visit?",
+      "answer": "The past and the future (or any two specific eras)",
+      "clue": "Different when and where",
+      "follow_up": "What would you wear in the past versus the future?"
+    },
+    {
+      "id": 13,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "What makes a costume 'immersive' rather than just wearing a regular outfit?",
+      "answer": "It includes props, makeup, and accessories that complete the character",
+      "clue": "Makes you look and feel like the character",
+      "follow_up": "What props might complete a pirate costume?"
+    },
+    {
+      "id": 14,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Imaginative Play",
+      "question": "How does role-playing at a themed birthday party help you learn about different professions?",
+      "answer": "You act out their jobs and learn what they do",
+      "clue": "Learning by doing and pretending",
+      "follow_up": "What professions might you explore at a 'Community Helpers' party?"
+    },
+    {
+      "id": 15,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What elements combine to create a truly immersive party experience?",
+      "answer": "Decorations, costumes, games, props, and narrative",
+      "clue": "Engaging all your senses",
+      "follow_up": "Which of these elements is most important to you?"
+    },
+    {
+      "id": 16,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What do you call a party where everyone dresses like their favorite movie character?",
+      "answer": "A costume party or character party",
+      "clue": "Everyone comes in disguise",
+      "follow_up": "Who is your favorite character to dress as?"
+    },
+    {
+      "id": 17,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "In a fairy tale birthday party, what magical item might transform pumpkins?",
+      "answer": "A magic wand",
+      "clue": "Used by Cinderella's fairy godmother",
+      "follow_up": "What else can magic wands do at a party?"
+    },
+    {
+      "id": 18,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "What color cape would you wear to a superhero birthday party?",
+      "answer": "Any color (red, blue, yellow, etc.)",
+      "clue": "Flows behind you as you run",
+      "follow_up": "Which superhero has the longest cape?"
+    },
+    {
+      "id": 19,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Immersive Experiences",
+      "question": "How do themed decorations help make a birthday party feel like you're in a different world?",
+      "answer": "They change the appearance of the room to match the theme",
+      "clue": "Visual transformation of the space",
+      "follow_up": "What would a jungle-themed room look like?"
+    },
+    {
+      "id": 20,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Learning",
+      "question": "What historical period might you learn about at a Wild West birthday party?",
+      "answer": "The Old West or 1800s",
+      "clue": "Cowboys and outlaws",
+      "follow_up": "What else lived in the Old West besides cowboys?"
+    },
+    {
+      "id": 21,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "What is the main character or 'hero' of your own birthday party story?",
+      "answer": "You (the birthday person)",
+      "clue": "The star of the celebration",
+      "follow_up": "What kind of adventure would you like to have at your party?"
+    },
+    {
+      "id": 22,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "How many different countries' cultures could you experience at a 'World Tour' themed birthday party?",
+      "answer": "As many as the organizers choose (3-10 typically)",
+      "clue": "Limited only by creativity and time",
+      "follow_up": "Which countries would you want to visit?"
+    },
+    {
+      "id": 23,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "What makes a costume party 'interactive' rather than just a dress-up event?",
+      "answer": "Games, activities, or tasks related to the costumes or theme",
+      "clue": "Participants do more than just wear clothes",
+      "follow_up": "What activities could happen at an interactive superhero party?"
+    },
+    {
+      "id": 24,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "In a jungle-themed birthday party, what animal role might you take on during games?",
+      "answer": "Lion, monkey, elephant, snake, or any jungle animal",
+      "clue": "Lives in the rainforest",
+      "follow_up": "Which jungle animal would you want to be and why?"
+    },
+    {
+      "id": 25,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What floats, sparkles, and makes a room look festive at a birthday party?",
+      "answer": "Balloons or decorations",
+      "clue": "Fills with air or hangs from walls",
+      "follow_up": "What theme would your favorite balloons match?"
+    },
+    {
+      "id": 26,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Immersive Experiences",
+      "question": "What does 'immersive' mean in the context of a birthday party?",
+      "answer": "Making you feel like you're inside the theme world",
+      "clue": "Fully engaged and surrounded by the experience",
+      "follow_up": "What immersive party would you enjoy most?"
+    },
+    {
+      "id": 27,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Themed Learning",
+      "question": "How does pretending to be a character help you understand what they do and how they live?",
+      "answer": "You experience their challenges and perspective firsthand",
+      "clue": "Learning through experience and empathy",
+      "follow_up": "What character would teach you something new about the world?"
+    },
+    {
+      "id": 28,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Narrative Engagement",
+      "question": "What is a 'quest' you might go on at an adventure-themed birthday party?",
+      "answer": "A mission or journey to find or accomplish something",
+      "clue": "A goal-based adventure",
+      "follow_up": "What quest would be fun for your birthday?"
+    },
+    {
+      "id": 29,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How do masks change your appearance at a masquerade-themed birthday party?",
+      "answer": "They hide your identity or add mystery and glamour",
+      "clue": "Cover your face while keeping you recognizable",
+      "follow_up": "Would you prefer a simple or elaborate mask?"
+    },
+    {
+      "id": 30,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is the difference between a 'theme' and just a 'party'?",
+      "answer": "A theme creates a unified story, decorations, and experience throughout the party",
+      "clue": "Everything connects to one central idea",
+      "follow_up": "Why is having a theme more fun than just a regular party?"
+    },
+    {
+      "id": 31,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "What kind of food might be served at a pirate-themed birthday party?",
+      "answer": "Anything nautical or treasure-themed (like fish, fruit, 'pirate' snacks)",
+      "clue": "Fits the theme",
+      "follow_up": "What would you call pirate food?"
+    },
+    {
+      "id": 32,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Celebrations",
+      "question": "How do you prepare for a costume party birthday?",
+      "answer": "Choose a character, gather costume pieces, and practice your character",
+      "clue": "Getting ready to become someone else",
+      "follow_up": "How long does it take you to get into costume?"
+    },
+    {
+      "id": 33,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "What makes a birthday party story 'exciting' versus 'boring'?",
+      "answer": "Adventure, surprises, challenges, and unexpected twists",
+      "clue": "Keeps you interested and engaged",
+      "follow_up": "What would make your party story exciting?"
+    },
+    {
+      "id": 34,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What Hollywood element could a movie-themed birthday party include?",
+      "answer": "A red carpet, movie clips, or character appearances",
+      "clue": "Things you see at the movies",
+      "follow_up": "What's your favorite movie to base a party on?"
+    },
+    {
+      "id": 35,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "What creative skill does pretend play at birthday parties help you develop?",
+      "answer": "Imagination, creativity, and storytelling",
+      "clue": "Making up stories and characters",
+      "follow_up": "What's the most imaginative character you've pretended to be?"
+    },
+    {
+      "id": 36,
+      "audience": "Kids (Ages 6-11)",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "How can you make a simple costume more impressive at a birthday party?",
+      "answer": "Add props, accessories, makeup, and practice mannerisms of the character",
+      "clue": "Details make the difference",
+      "follow_up": "What accessories would improve your favorite costume?"
+    },
+    {
+      "id": 37,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What 1920s-inspired party theme features a speakeasy atmosphere with jazz and formal wear?",
+      "answer": "Great Gatsby or Roaring Twenties",
+      "clue": "Prohibition era glamour",
+      "follow_up": "What accessories define a Gatsby look?"
+    },
+    {
+      "id": 38,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "What is a 'masquerade' birthday party theme where guests wear elaborate masks?",
+      "answer": "A Venetian-inspired formal event with mystery and glamour",
+      "clue": "Masks hide identities",
+      "follow_up": "What era inspired masquerade balls?"
+    },
+    {
+      "id": 39,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "What element creates an 'immersive' party experience where you feel transported?",
+      "answer": "Comprehensive theming in decorations, costumes, activities, and atmosphere",
+      "clue": "Engaging all senses",
+      "follow_up": "What senses are most engaged at immersive parties?"
+    },
+    {
+      "id": 40,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What pop culture phenomenon has inspired numerous birthday party themes in recent years?",
+      "answer": "TV shows, movies, and book series (like Stranger Things, Marvel, etc.)",
+      "clue": "Based on entertainment media",
+      "follow_up": "What's your favorite show to base a party on?"
+    },
+    {
+      "id": 41,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Party Themes",
+      "question": "What retro decade party theme features neon colors, big hair, and electronic music?",
+      "answer": "1980s or Neon party",
+      "clue": "The decade of excess",
+      "follow_up": "What 80s music would you play at this party?"
+    },
+    {
+      "id": 42,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What psychological effect does wearing a costume at a party have on how you behave?",
+      "answer": "You feel more confident, less inhibited, and more able to embody the character",
+      "clue": "Costume provides permission to act differently",
+      "follow_up": "How does this affect party dynamics?"
+    },
+    {
+      "id": 43,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Immersive Experiences",
+      "question": "How do themed party activities differ from regular party games?",
+      "answer": "They align with and reinforce the theme through narrative and character",
+      "clue": "Games have thematic purpose",
+      "follow_up": "What activities would fit a spy-themed party?"
+    },
+    {
+      "id": 44,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Narrative Engagement",
+      "question": "What storytelling technique makes a party feel like you're inside a larger narrative?",
+      "answer": "A mission briefing, unfolding plot, or character objectives",
+      "clue": "A cohesive storyline ties activities together",
+      "follow_up": "What narrative would you want for your party?"
+    },
+    {
+      "id": 45,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Learning",
+      "question": "How does a historical period party theme help you understand history?",
+      "answer": "You experience clothing, customs, language, and challenges of that era",
+      "clue": "Hands-on historical simulation",
+      "follow_up": "What historical period interests you most?"
+    },
+    {
+      "id": 46,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What makes an 'interactive' birthday party theme more engaging than a passive one?",
+      "answer": "Guests actively participate in creating the experience rather than observing",
+      "clue": "Engagement vs. spectating",
+      "follow_up": "How would you make a party more interactive?"
+    },
+    {
+      "id": 47,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "What is 'method acting' and how might it enhance a costume party experience?",
+      "answer": "Staying in character by adopting speech, mannerisms, and perspectives of the character",
+      "clue": "Complete commitment to character",
+      "follow_up": "Would you want guests to stay in character all night?"
+    },
+    {
+      "id": 48,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "How do you balance realism and fantasy in creating an immersive party experience?",
+      "answer": "Use enough detail and consistency to suspend disbelief without requiring complete accuracy",
+      "clue": "Authenticity enough to feel real within the fantasy",
+      "follow_up": "What details matter most for immersion?"
+    },
+    {
+      "id": 49,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Themed Celebrations",
+      "question": "What social dynamics emerge when everyone at a party is expected to stay in character?",
+      "answer": "Increased bonding, creative collaboration, and social play",
+      "clue": "Shared commitment to the theme",
+      "follow_up": "How does this affect friendships at the party?"
+    },
+    {
+      "id": 50,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Imaginative Play",
+      "question": "What role does imagination play in making a generic venue feel like a specific place?",
+      "answer": "Your imagination fills in details and accepts the theming",
+      "clue": "Suspension of disbelief",
+      "follow_up": "How quickly can you adjust your imagination to a new setting?"
+    },
+    {
+      "id": 51,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What tropical-inspired party theme features tiki torches, leis, and Hawaiian music?",
+      "answer": "Luau party",
+      "clue": "Island paradise vibe",
+      "follow_up": "What food would you serve at a luau?"
+    },
+    {
+      "id": 52,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How do costume choices communicate something about the wearer's personality or interests?",
+      "answer": "The character chosen reflects what appeals to or resonates with the person",
+      "clue": "Your costume is a statement",
+      "follow_up": "What does your ideal costume choice say about you?"
+    },
+    {
+      "id": 53,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'world-building' and how does it apply to themed birthday parties?",
+      "answer": "Creating consistent details, rules, and atmosphere that make the theme world feel real and believable",
+      "clue": "Constructing a believable fictional world",
+      "follow_up": "What details would build a pirate world?"
+    },
+    {
+      "id": 54,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "How does a 'narrative arc' structure a party so it feels like a complete story?",
+      "answer": "Beginning (setup/exposition), middle (rising action/challenges), end (climax/resolution)",
+      "clue": "Story structure applied to events",
+      "follow_up": "What would be the climax of your ideal party?"
+    },
+    {
+      "id": 55,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Themed Learning",
+      "question": "What cognitive skills do you develop by engaging in complex role-play scenarios at themed parties?",
+      "answer": "Problem-solving, critical thinking, empathy, and perspective-taking",
+      "clue": "Mental skills developed through interactive experience",
+      "follow_up": "Which skill is most valuable to develop?"
+    },
+    {
+      "id": 56,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What movie franchise has inspired countless costume parties with distinct character options?",
+      "answer": "Marvel, Star Wars, Harry Potter, or similar major franchises",
+      "clue": "Major entertainment phenomenon",
+      "follow_up": "Which character would you choose from this franchise?"
+    },
+    {
+      "id": 57,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What is a 'cosplay' and how does it relate to costume birthday parties?",
+      "answer": "Costume play where fans create accurate representations of fictional characters",
+      "clue": "Fan-created detailed costumes",
+      "follow_up": "Would you want a cosplay-level costume for a party?"
+    },
+    {
+      "id": 58,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What makes an immersive experience 'memorable' versus just 'fun'?",
+      "answer": "Emotional investment, personal stakes, and meaningful interactions with the experience and others",
+      "clue": "Creating lasting impressions",
+      "follow_up": "What party memory would you want to keep forever?"
+    },
+    {
+      "id": 59,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Imaginative Play",
+      "question": "How does collaborative imagination at a party amplify the fun compared to solo play?",
+      "answer": "Shared energy, unexpected reactions, and collective world-building create magic",
+      "clue": "Group engagement multiplies enjoyment",
+      "follow_up": "Who do you like to imagine with?"
+    },
+    {
+      "id": 60,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Celebrations",
+      "question": "What is a 'murder mystery' themed birthday party and how does it engage guests?",
+      "answer": "A narrative game where guests solve a mystery through clues and character interactions",
+      "clue": "Interactive detective experience",
+      "follow_up": "Would you want to solve a mystery at your party?"
+    },
+    {
+      "id": 61,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "How does nostalgia influence people's choice of decade-themed parties?",
+      "answer": "It taps into personal memories or cultural fascination with earlier eras",
+      "clue": "Longing for the past combined with curiosity",
+      "follow_up": "What decade would you want to explore?"
+    },
+    {
+      "id": 62,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What unspoken social agreement exists when everyone wears a costume to a party?",
+      "answer": "Everyone commits to the theme and suspends normal social rules within the narrative",
+      "clue": "Mutual understanding of the rules",
+      "follow_up": "Does this make parties more or less awkward?"
+    },
+    {
+      "id": 63,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Narrative Engagement",
+      "question": "What is a 'cliffhanger' in a party narrative and why is it effective?",
+      "answer": "An unresolved event that builds anticipation for what happens next",
+      "clue": "Leaves guests wanting to know more",
+      "follow_up": "What cliffhanger would excite you at a party?"
+    },
+    {
+      "id": 64,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'narrative transportation' and how does it apply to themed parties?",
+      "answer": "The psychological state where you're transported into a story world and lose track of reality",
+      "clue": "Complete immersion in another world",
+      "follow_up": "Have you experienced this at a party?"
+    },
+    {
+      "id": 65,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Learning",
+      "question": "How does playing a historical character at a party help you understand their lived experience?",
+      "answer": "You consider their constraints, challenges, and worldview from within their perspective",
+      "clue": "Empathy through embodiment",
+      "follow_up": "What historical figure would you want to understand better?"
+    },
+    {
+      "id": 66,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What carnival-inspired party theme features vibrant masks, feathered headdresses, and music?",
+      "answer": "Mardi Gras or Carnival",
+      "clue": "Brazilian festival inspiration",
+      "follow_up": "What colors are traditional for this celebration?"
+    },
+    {
+      "id": 67,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What role does authenticity play in making a costume feel impressive at a party?",
+      "answer": "Details, accuracy, and commitment to the character enhance credibility",
+      "clue": "Believability matters",
+      "follow_up": "How detailed would your ideal costume be?"
+    },
+    {
+      "id": 68,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Imaginative Play",
+      "question": "How does improvisation during a themed party create unexpected moments of humor and connection?",
+      "answer": "Unexpected character reactions, plot twists, and collaborative absurdity create shared laughter",
+      "clue": "Spontaneity within structure",
+      "follow_up": "What's the funniest improvisation you've experienced?"
+    },
+    {
+      "id": 69,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What is a 'dress code' for a themed party and what purpose does it serve?",
+      "answer": "Guidelines for what to wear to reinforce the theme visually",
+      "clue": "Instructions for party attire",
+      "follow_up": "What dress code would you prefer?"
+    },
+    {
+      "id": 70,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Medium",
+      "category_specific": "Narrative Engagement",
+      "question": "What is 'foreshadowing' in a party narrative and how might it build excitement?",
+      "answer": "Subtle hints about future events that build anticipation and engagement",
+      "clue": "Hints of what's to come",
+      "follow_up": "What future party event would you want foreshadowed?"
+    },
+    {
+      "id": 71,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "How do 'interactive installations' enhance immersive party themes?",
+      "answer": "Physical spaces that guests can manipulate and explore create agency and engagement",
+      "clue": "Active participation in the environment",
+      "follow_up": "What installation would you create?"
+    },
+    {
+      "id": 72,
+      "audience": "Teens (Ages 12-17)",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "What sensory elements (sight, sound, smell, taste, touch) enhance themed parties?",
+      "answer": "All of them - visual decor, music, scents, food, and tactile props",
+      "clue": "Engaging multiple senses",
+      "follow_up": "Which sense is most important to you?"
+    },
+    {
+      "id": 73,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What sophisticated adult party theme evokes the luxury and glamour of the 1920s Prohibition era?",
+      "answer": "Great Gatsby or Speakeasy",
+      "clue": "Jazz Age elegance",
+      "follow_up": "What attire would you wear to this event?"
+    },
+    {
+      "id": 74,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "What is a formal masquerade ball and what makes it an appealing adult party theme?",
+      "answer": "A formal dance where participants wear elaborate masks and formal attire",
+      "clue": "Mystery meets elegance",
+      "follow_up": "What kind of mask would you design?"
+    },
+    {
+      "id": 75,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "What is a 'pop-up experience' or 'immersive theater' event for adult celebrations?",
+      "answer": "A temporary, fully immersive themed space where participants interact with actors and environment",
+      "clue": "Theatrical entertainment combined with participation",
+      "follow_up": "What type of story would you want to experience?"
+    },
+    {
+      "id": 76,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What cultural or historical period party themes appeal to adult nostalgia and appreciation?",
+      "answer": "Decades parties (70s, 80s, 90s), historical eras, or pop culture moments",
+      "clue": "Tapping into memory and cultural touchstones",
+      "follow_up": "What era would you most want to celebrate?"
+    },
+    {
+      "id": 77,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Party Themes",
+      "question": "What is an 'escape room' themed birthday party and what skills does it develop?",
+      "answer": "A puzzle-based immersive experience requiring teamwork, problem-solving, and critical thinking",
+      "clue": "Collaborative mystery-solving",
+      "follow_up": "Would you prefer a serious or humorous escape room?"
+    },
+    {
+      "id": 78,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What is the psychology behind how costume parties enable adults to express alternative identities?",
+      "answer": "Costumes provide psychological distance allowing exploration of aspects not expressed in daily life",
+      "clue": "Safe expression through disguise",
+      "follow_up": "What identity would you like to explore?"
+    },
+    {
+      "id": 79,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'experiential marketing' and how does it relate to immersive birthday parties?",
+      "answer": "Creating memorable brand or experience-centered events that engage participants emotionally and physically",
+      "clue": "Experience over passive consumption",
+      "follow_up": "What experience would you want to create?"
+    },
+    {
+      "id": 80,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Narrative Engagement",
+      "question": "What narrative techniques make an adult-oriented murder mystery party engaging and intellectually challenging?",
+      "answer": "Complex plots, red herrings, character depth, and social puzzle elements",
+      "clue": "Sophisticated storytelling",
+      "follow_up": "What kind of mystery appeals to you?"
+    },
+    {
+      "id": 81,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Learning",
+      "question": "How do historical reenactment parties serve both entertainment and educational purposes?",
+      "answer": "Participants learn history through embodied experience while enjoying the social and theatrical aspects",
+      "clue": "Fun learning through immersion",
+      "follow_up": "What historical period would you study this way?"
+    },
+    {
+      "id": 82,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is 'dystopian worldbuilding' in party themes and how does it engage adult sensibilities?",
+      "answer": "Creating detailed alternative futures that critique current systems while providing escapist entertainment",
+      "clue": "Speculative fiction as party experience",
+      "follow_up": "What dystopian world would interest you?"
+    },
+    {
+      "id": 83,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "What is 'character agency' and how does it enhance interactive costume party experiences?",
+      "answer": "Participants have meaningful choices and control over their character's actions and storyline",
+      "clue": "Player-driven narrative",
+      "follow_up": "How much control would you want over your story?"
+    },
+    {
+      "id": 84,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "How do 'liminal space' themes create unsettling yet fascinating party experiences?",
+      "answer": "Empty or in-between spaces trigger curiosity and unease, creating psychological engagement",
+      "clue": "Exploiting spaces between and beyond",
+      "follow_up": "Would you find this type of party appealing?"
+    },
+    {
+      "id": 85,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Themed Celebrations",
+      "question": "What is 'subversive theming' where adult party themes deliberately challenge conventions?",
+      "answer": "Themes that critique, parody, or invert social norms while maintaining entertainment value",
+      "clue": "Thoughtful rebellion through party design",
+      "follow_up": "What convention would you subvert at a party?"
+    },
+    {
+      "id": 86,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Imaginative Play",
+      "question": "How do adult role-playing games (RPGs) serve as frameworks for themed birthday experiences?",
+      "answer": "Established rule systems and narrative structures enable collaborative storytelling",
+      "clue": "Structured creative play",
+      "follow_up": "What RPG would you base a party on?"
+    },
+    {
+      "id": 87,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Party Themes",
+      "question": "What is a 'film noir' themed party and what aesthetic elements define it?",
+      "answer": "1940s-50s detective/crime aesthetic with dramatic lighting, jazz, and noir fashion",
+      "clue": "Black-and-white atmosphere in color",
+      "follow_up": "What character would you play in this setting?"
+    },
+    {
+      "id": 88,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What role does 'authenticity' versus 'parody' play in high-caliber costume parties?",
+      "answer": "Authenticity creates immersion while parody adds humor; balance determines tone",
+      "clue": "Intent shapes interpretation",
+      "follow_up": "Would you prefer authentic or comedic costumes?"
+    },
+    {
+      "id": 89,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "How does 'branching narrative' structure create personalized party experiences for adults?",
+      "answer": "Multiple story paths based on participant choices create unique experiences and replayability",
+      "clue": "Choose-your-own-adventure at parties",
+      "follow_up": "What choices would you want to make?"
+    },
+    {
+      "id": 90,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'synesthetic theming' where multiple senses are deliberately coordinated at parties?",
+      "answer": "Intentional alignment of music, lighting, scent, texture, and taste to create cohesive sensory experience",
+      "clue": "Coordinated sensory design",
+      "follow_up": "What combination of senses appeals to you most?"
+    },
+    {
+      "id": 91,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Learning",
+      "question": "How do 'living history' events function as both educational and entertainment-focused birthday celebrations?",
+      "answer": "Combining historical accuracy with theatrical engagement to teach and entertain simultaneously",
+      "clue": "Education through entertainment",
+      "follow_up": "What time period would you want to learn about?"
+    },
+    {
+      "id": 92,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is 'emotional resonance' in party theming and why is it crucial for adults?",
+      "answer": "Themes that connect to personal values, memories, or aspirations create meaningful experiences",
+      "clue": "Heart-centered design",
+      "follow_up": "What emotional experience would you want?"
+    },
+    {
+      "id": 93,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "What is a 'black-tie themed' costume party and what dress code conventions does it follow?",
+      "answer": "Formal party requiring tuxedos/gowns, sometimes with character or era specifications",
+      "clue": "Highest formal dress level",
+      "follow_up": "Would you prefer traditional or costume black-tie?"
+    },
+    {
+      "id": 94,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "How do 'sandbox' party experiences allow adults more creative freedom than structured narratives?",
+      "answer": "Open-ended rules systems let participants create their own stories and outcomes",
+      "clue": "Freedom within framework",
+      "follow_up": "Would you prefer structured or open-ended parties?"
+    },
+    {
+      "id": 95,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'participatory theater' and how does it differ from traditional performance at parties?",
+      "answer": "Audience members are active characters in the story rather than passive spectators",
+      "clue": "Everyone's on stage",
+      "follow_up": "Would you want to be an active participant?"
+    },
+    {
+      "id": 96,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Themed Celebrations",
+      "question": "What 'steampunk' aesthetic combines Victorian fashion with industrial and mechanical elements?",
+      "answer": "Fashion/design fusion featuring brass, gears, goggles, and retro-futurism",
+      "clue": "Victorian meets mechanical",
+      "follow_up": "What steampunk accessory appeals to you?"
+    },
+    {
+      "id": 97,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "How does 'unreliable narration' in party storylines create intrigue and discussion among adult participants?",
+      "answer": "Conflicting information or hidden truths prompt debate and deeper engagement with the narrative",
+      "clue": "Don't trust everything you're told",
+      "follow_up": "Would you enjoy a mystery with unreliable information?"
+    },
+    {
+      "id": 98,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What is a 'decades night' where multiple time periods are celebrated at a single party?",
+      "answer": "A party with different themed zones or time-travel narrative connecting multiple eras",
+      "clue": "Journey through time",
+      "follow_up": "What eras would you include?"
+    },
+    {
+      "id": 99,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What is 'costume-as-language' and how do clothing choices communicate at themed parties?",
+      "answer": "Costumes signal status, role, allegiance, personality, and thematic understanding to other participants",
+      "clue": "What you wear tells a story",
+      "follow_up": "What would your costume say about you?"
+    },
+    {
+      "id": 100,
+      "audience": "Adults (Ages 18+)",
+      "difficulty": "Hard",
+      "category_specific": "Themed Learning",
+      "question": "How do adult-oriented immersive experiences facilitate learning that textbooks cannot provide?",
+      "answer": "Embodied learning through visceral experience creates deeper memory encoding and emotional understanding",
+      "clue": "Learning with your whole body",
+      "follow_up": "What subject would you want to learn this way?"
+    },
+    {
+      "id": 101,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "How do 'cognitive load theory' principles inform the design of multi-layered themed party experiences?",
+      "answer": "Balancing visual, auditory, and kinesthetic information to optimize engagement without overwhelming participants",
+      "clue": "Information processing optimization",
+      "follow_up": "How would you measure cognitive load at a party?"
+    },
+    {
+      "id": 102,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "What psychological construct of 'deindividuation' occurs when participants wear costumes at themed events?",
+      "answer": "Loss of self-consciousness and identity awareness leading to increased disinhibition and group conformity",
+      "clue": "Anonymity changes behavior",
+      "follow_up": "Is this effect always positive?"
+    },
+    {
+      "id": 103,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "How do 'affordance networks' in party design guide participant behavior without explicit instruction?",
+      "answer": "Environmental design elements suggest and enable specific actions and interactions",
+      "clue": "Design implies function",
+      "follow_up": "What affordances would you design for?"
+    },
+    {
+      "id": 104,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Themed Celebrations",
+      "question": "What is 'semiotic framing' and how does it establish thematic coherence across party elements?",
+      "answer": "Consistent use of symbols, colors, language, and references that all point to and reinforce the central theme",
+      "clue": "Unified meaning-making system",
+      "follow_up": "How would you audit a party for semiotic consistency?"
+    },
+    {
+      "id": 105,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Imaginative Play",
+      "question": "How does 'schema theory' explain how themed environments activate prior knowledge to enhance immersion?",
+      "answer": "Themed cues activate mental frameworks that participants use to interpret and engage with the environment",
+      "clue": "Activating mental templates",
+      "follow_up": "How would you activate specific schemas?"
+    },
+    {
+      "id": 106,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is 'environmental storytelling' and how does architecture guide narrative understanding at parties?",
+      "answer": "Physical space and design elements convey plot and thematic information without explicit narration",
+      "clue": "The space tells the story",
+      "follow_up": "What could a room's layout tell you about a story?"
+    },
+    {
+      "id": 107,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "How does 'embodied cognition' theory explain why wearing a costume actually changes how you think?",
+      "answer": "Physical enactment of a character's body and movements influences cognitive processing and emotional state",
+      "clue": "Mind follows body",
+      "follow_up": "How could you measure this effect?"
+    },
+    {
+      "id": 108,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "What is 'narrative transportation' research and what neurological changes occur during deep immersion?",
+      "answer": "Reduced activity in default mode network and increased engagement of sensory processing areas",
+      "clue": "Brain state changes during immersion",
+      "follow_up": "How would you measure party immersion scientifically?"
+    },
+    {
+      "id": 109,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "How does 'flow state' theory (Csikszentmihalyi) apply to designing optimal party challenge levels?",
+      "answer": "Balancing perceived challenge with skill so participants remain engaged without anxiety or boredom",
+      "clue": "The sweet spot between difficulty and ability",
+      "follow_up": "How would you calibrate this for diverse skill levels?"
+    },
+    {
+      "id": 110,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Themed Learning",
+      "question": "What is 'constructivist learning theory' and how does immersive theming facilitate knowledge construction?",
+      "answer": "Participants build understanding through interaction and experience rather than passive reception",
+      "clue": "Learning by doing and experiencing",
+      "follow_up": "How would you structure this type of learning?"
+    },
+    {
+      "id": 111,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "How does 'aesthetic experience' differ from entertainment and why does this matter for themed design?",
+      "answer": "Aesthetic experiences engage contemplation and meaning-making beyond mere pleasure or amusement",
+      "clue": "Art versus entertainment",
+      "follow_up": "What aesthetic value could a party have?"
+    },
+    {
+      "id": 112,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "What is 'habitus' (Bourdieu) and how do costume party dress codes signal social positioning?",
+      "answer": "Internalized social structures expressed through bodily practices and choices that signal class and cultural capital",
+      "clue": "Costumes reveal social position",
+      "follow_up": "What does your costume choice reveal?"
+    },
+    {
+      "id": 113,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Imaginative Play",
+      "question": "How does 'simulation theory' in philosophy apply to understanding deep role-play engagement?",
+      "answer": "Participants create working models of other minds and realities, enabling exploration of possibilities",
+      "clue": "Running mind simulations",
+      "follow_up": "What possibilities would you want to explore?"
+    },
+    {
+      "id": 114,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'distributed cognition' and how do themed environments extend memory and reasoning capabilities?",
+      "answer": "Cognitive processes distributed across environment, artifacts, and social interaction rather than individual minds",
+      "clue": "The space helps you think",
+      "follow_up": "How could you design for distributed cognition?"
+    },
+    {
+      "id": 115,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "How does 'narrative coherence' relate to participant sense-making and satisfaction at complex parties?",
+      "answer": "Stories that integrate multiple elements into unified meaning maximize satisfaction and memorability",
+      "clue": "All elements connect to form meaning",
+      "follow_up": "How would you measure narrative coherence?"
+    },
+    {
+      "id": 116,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is 'phenomenological design' and how does it prioritize lived experience in party planning?",
+      "answer": "Design based on how participants actually experience phenomena rather than how things objectively exist",
+      "clue": "Experience over reality",
+      "follow_up": "How would you apply phenomenology to a party?"
+    },
+    {
+      "id": 117,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Costume Parties",
+      "question": "How does 'performative identity' theory explain that costumes don't reveal but create identity?",
+      "answer": "Identity is performatively constituted through repeated actions and social recognition, not pre-existing",
+      "clue": "You become what you perform",
+      "follow_up": "What identity would you perform?"
+    },
+    {
+      "id": 118,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Themed Learning",
+      "question": "What is 'situated cognition' and how does contextual immersion improve learning retention?",
+      "answer": "Knowledge acquired in meaningful contexts is better retained and transferable than decontextualized learning",
+      "clue": "Context matters for memory",
+      "follow_up": "What context would enhance learning for you?"
+    },
+    {
+      "id": 119,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Imaginative Play",
+      "question": "How does 'metaphorical thinking' allow party participants to understand complex ideas through themed scenarios?",
+      "answer": "Mapping abstract concepts onto concrete party experiences makes them understandable and memorable",
+      "clue": "Using stories to understand abstractions",
+      "follow_up": "What abstract idea could be conveyed through party metaphor?"
+    },
+    {
+      "id": 120,
+      "audience": "Experts",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'presence' in immersive research and what design elements maximize sense of being 'there'?",
+      "answer": "Coherence, environmental richness, and participant agency create psychological sense of presence",
+      "clue": "Feeling actually present in another world",
+      "follow_up": "How would you measure presence scientifically?"
+    },
+    {
+      "id": 121,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What is the most universally appealing birthday party theme that works for children and adults?",
+      "answer": "Pirates, superheroes, or fairy tales",
+      "clue": "Timeless adventure themes",
+      "follow_up": "Which would you choose for a mixed-age party?"
+    },
+    {
+      "id": 122,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "What simple costume element can transform anyone into their favorite character?",
+      "answer": "A hat, mask, or signature accessory",
+      "clue": "Recognizable piece of clothing",
+      "follow_up": "What's your favorite costume element?"
+    },
+    {
+      "id": 123,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "What makes a themed party feel 'real' to participants of all ages?",
+      "answer": "Consistent details, engaged staff/hosts, and suspension of disbelief",
+      "clue": "Making the fictional feel authentic",
+      "follow_up": "What details matter most to you?"
+    },
+    {
+      "id": 124,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What universal party element works across all age groups at a themed celebration?",
+      "answer": "Food, music, decorations, and games themed to the party",
+      "clue": "Applies to everyone",
+      "follow_up": "Which element do you enjoy most?"
+    },
+    {
+      "id": 125,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "How does imaginative play at themed parties benefit both children and adults?",
+      "answer": "It reduces stress, builds creativity, and strengthens social bonds",
+      "clue": "Universal benefits of play",
+      "follow_up": "What's your favorite benefit of imaginative play?"
+    },
+    {
+      "id": 126,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Narrative Engagement",
+      "question": "What types of stories work across all age groups at themed parties?",
+      "answer": "Adventures, quests, mysteries, and hero's journey narratives",
+      "clue": "Universal narrative structures",
+      "follow_up": "What's your favorite story type?"
+    },
+    {
+      "id": 127,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Party Themes",
+      "question": "How can a single party theme appeal to both a 7-year-old and a 70-year-old?",
+      "answer": "Provide multiple entry points and complexity levels so everyone can engage at their level",
+      "clue": "Scalable engagement",
+      "follow_up": "What theme would work across that age range?"
+    },
+    {
+      "id": 128,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "What costume considerations apply when planning for mixed-age groups?",
+      "answer": "Ensure costumes are comfortable, safe, and allow various interpretations of characters",
+      "clue": "Inclusive costume design",
+      "follow_up": "How would you adapt costumes for different ages?"
+    },
+    {
+      "id": 129,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "How do you balance sophisticated and simple elements so immersive parties work for everyone?",
+      "answer": "Create layered experiences where surface enjoyment is immediate while deeper engagement is available",
+      "clue": "Different levels of complexity",
+      "follow_up": "What layers would you include?"
+    },
+    {
+      "id": 130,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Themed Learning",
+      "question": "How does themed learning benefit all ages simultaneously at a celebration?",
+      "answer": "Everyone learns the theme content through engagement and play, with age-appropriate interpretations",
+      "clue": "Everyone gains knowledge in their own way",
+      "follow_up": "What could everyone learn together?"
+    },
+    {
+      "id": 131,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What is a 'movie premiere' themed party and why does it appeal across ages?",
+      "answer": "A red carpet and movie-watching experience that appeals to fans of all ages",
+      "clue": "Everyone loves movies",
+      "follow_up": "What movie would you feature?"
+    },
+    {
+      "id": 132,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How do character-based costume parties create natural grouping and interaction across age groups?",
+      "answer": "Shared characters and storylines provide conversation topics and collaborative play",
+      "clue": "Common ground through shared characters",
+      "follow_up": "What character world would unite your group?"
+    },
+    {
+      "id": 133,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "What narrative structures allow children and adults to engage at different comprehension levels?",
+      "answer": "Multi-layered stories with surface humor/adventure and deeper themes that reveal on reflection",
+      "clue": "Stories work on multiple levels",
+      "follow_up": "What layered story would appeal to your group?"
+    },
+    {
+      "id": 134,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Imaginative Play",
+      "question": "Why does imaginative play remain valuable and enjoyable across a person's entire lifespan?",
+      "answer": "It fulfills universal needs for creativity, exploration, and escape that don't change with age",
+      "clue": "Basic human needs",
+      "follow_up": "Do you enjoy imaginative play?"
+    },
+    {
+      "id": 135,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Immersive Experiences",
+      "question": "What accessibility considerations ensure themed parties work for people with varying abilities?",
+      "answer": "Clear paths, seating options, quiet spaces, and accommodations for sensory sensitivities",
+      "clue": "Inclusive design matters",
+      "follow_up": "What accommodations matter most to you?"
+    },
+    {
+      "id": 136,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "How do intergenerational themed parties create meaningful connection between age groups?",
+      "answer": "Shared experience, collaborative goals, and opportunities to learn from each other",
+      "clue": "Age becomes less relevant",
+      "follow_up": "What intergenerational activity appeals to you?"
+    },
+    {
+      "id": 137,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What is a 'decade party' that appeals to people of all ages?",
+      "answer": "A party celebrating music, fashion, and culture of a specific era that crosses generational interest",
+      "clue": "Different reasons appeal to different ages",
+      "follow_up": "What decade would interest your whole group?"
+    },
+    {
+      "id": 138,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How can a costume party be fun for someone who loves dressing up and someone who's shy about it?",
+      "answer": "Offer simple costumes or partial costumes and celebrate all participation levels",
+      "clue": "Meeting people where they are",
+      "follow_up": "What costume comfort level works for you?"
+    },
+    {
+      "id": 139,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Imaginative Play",
+      "question": "What is the relationship between imagination and empathy that makes themed play valuable at any age?",
+      "answer": "Imagination allows perspective-taking, which builds empathy and understanding across differences",
+      "clue": "Imagination builds bridges",
+      "follow_up": "How does imagination help you understand others?"
+    },
+    {
+      "id": 140,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Narrative Engagement",
+      "question": "What is a 'mystery party' that can engage both children and older adults?",
+      "answer": "A collaborative mystery-solving experience with age-appropriate complexity",
+      "clue": "Everyone loves solving puzzles",
+      "follow_up": "Would you enjoy a mystery party?"
+    },
+    {
+      "id": 141,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Party Themes",
+      "question": "How do themed parties create 'shared memory' experiences that families cherish?",
+      "answer": "Unique, engaging, visually distinctive experiences that stand out in long-term memory",
+      "clue": "Creating lasting memories",
+      "follow_up": "What themed party memory do you have?"
+    },
+    {
+      "id": 142,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'intergenerational dialogue' and how does immersive theming facilitate it naturally?",
+      "answer": "Younger and older participants exchange perspectives within shared experience, revealing different viewpoints",
+      "clue": "Learning from each other's differences",
+      "follow_up": "What could you learn from other generations?"
+    },
+    {
+      "id": 143,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Themed Learning",
+      "question": "What is a 'cultural celebration' themed party that everyone can enjoy and learn from?",
+      "answer": "A party showcasing traditions, food, music, and customs of a specific culture",
+      "clue": "Learning through celebration",
+      "follow_up": "What culture would you like to celebrate?"
+    },
+    {
+      "id": 144,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How does a 'family costume party' where everyone coordinates costumes strengthen bonds?",
+      "answer": "Shared investment in the theme, collaboration on costume creation, and unified participation",
+      "clue": "Working together toward a goal",
+      "follow_up": "Would you want to coordinate costumes with family?"
+    },
+    {
+      "id": 145,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "What is 'narrative universality' and what themes appear across cultures and ages?",
+      "answer": "Hero's journey, coming of age, mystery, love, and transformation - timeless human narratives",
+      "clue": "Stories that speak to everyone",
+      "follow_up": "What universal story appeals to you?"
+    },
+    {
+      "id": 146,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What is a 'time capsule' party theme that engages people of different ages in reflection?",
+      "answer": "A party where different decades or eras are celebrated, allowing generational comparison",
+      "clue": "Comparing then and now",
+      "follow_up": "What era would you want to remember?"
+    },
+    {
+      "id": 147,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "How does collaborative storytelling at themed parties allow people of all ages to contribute meaningfully?",
+      "answer": "Everyone has ideas to contribute; different perspectives create richer stories",
+      "clue": "Diversity of experience adds depth",
+      "follow_up": "What story would you create together?"
+    },
+    {
+      "id": 148,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What makes a themed party 'transformative' rather than just 'fun' across age groups?",
+      "answer": "It changes how participants see themselves, others, or the world; creates lasting perspective shifts",
+      "clue": "Impact beyond the party",
+      "follow_up": "Have you experienced transformative play?"
+    },
+    {
+      "id": 149,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What is a 'book or story-based' party theme that appeals across ages?",
+      "answer": "A party recreating a beloved story with characters, scenes, and adventures for all ages to experience",
+      "clue": "Living the story",
+      "follow_up": "What story would you love to party in?"
+    },
+    {
+      "id": 150,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How do 'character crossover' parties where different fictional universes meet appeal to diverse ages?",
+      "answer": "Different age groups have favorites; mixing them creates surprising combinations and conversations",
+      "clue": "Unexpected character meetings",
+      "follow_up": "What character combinations would you create?"
+    },
+    {
+      "id": 151,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is 'liminality' in themed party design and why does it appeal across ages?",
+      "answer": "Spaces between worlds create openness where normal rules don't apply and transformation is possible",
+      "clue": "Beyond the everyday",
+      "follow_up": "What kind of liminal space appeals to you?"
+    },
+    {
+      "id": 152,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Narrative Engagement",
+      "question": "What is a 'quest party' where everyone works together toward a goal regardless of age?",
+      "answer": "A collaborative adventure where diverse skills and perspectives contribute to a shared objective",
+      "clue": "Everyone has something valuable to contribute",
+      "follow_up": "What quest would interest you?"
+    },
+    {
+      "id": 153,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "How does play address 'awe and wonder' that people of all ages hunger for?",
+      "answer": "It creates experiences of beauty, mystery, and transcendence that move us beyond ordinary life",
+      "clue": "Touching something meaningful",
+      "follow_up": "What creates awe for you?"
+    },
+    {
+      "id": 154,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Themed Learning",
+      "question": "What is 'experiential equity' and why does immersive learning create it across ages?",
+      "answer": "Everyone gains knowledge through direct experience rather than some teaching and others learning passively",
+      "clue": "Everyone learns the same way",
+      "follow_up": "How does this change learning dynamics?"
+    },
+    {
+      "id": 155,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Immersive Experiences",
+      "question": "What sensory elements of a themed party create magic for people of all ages?",
+      "answer": "Music, lighting, scent, touch of costumes, and taste of themed food",
+      "clue": "All five senses engaged",
+      "follow_up": "Which sense matters most to you?"
+    },
+    {
+      "id": 156,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How do 'ensemble costumes' where everyone is part of a crowd or army create group dynamics?",
+      "answer": "Individual identity merges into group identity, creating camaraderie and shared purpose",
+      "clue": "From individual to collective",
+      "follow_up": "Would you enjoy being part of a costume ensemble?"
+    },
+    {
+      "id": 157,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is 'nostalgia engineering' in party design and why is it universally appealing?",
+      "answer": "Deliberately creating sensory/emotional cues that trigger positive memories across generations",
+      "clue": "The 'good old days' feeling",
+      "follow_up": "What would trigger nostalgia for you?"
+    },
+    {
+      "id": 158,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What is a 'milestone party' themed to celebrate achievements across all ages?",
+      "answer": "A party honoring growth, accomplishment, or transition with appropriate theming for the person",
+      "clue": "Celebrating growth",
+      "follow_up": "What milestone would you want celebrated?"
+    },
+    {
+      "id": 159,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Narrative Engagement",
+      "question": "How do 'archetypal characters' appear in themed parties across cultures and ages?",
+      "answer": "Hero, mentor, trickster, shadow - universal character types that resonate regardless of age",
+      "clue": "Characters that appear everywhere",
+      "follow_up": "Which archetype speaks to you?"
+    },
+    {
+      "id": 160,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Imaginative Play",
+      "question": "What is 'play therapy' and how does immersive theming at parties serve therapeutic purposes?",
+      "answer": "Safe exploration of emotions, identities, and experiences through play creates psychological benefits",
+      "clue": "Playing for mental health",
+      "follow_up": "How does play help emotionally?"
+    },
+    {
+      "id": 161,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What is a 'mashup party' combining multiple themes and why do people enjoy it?",
+      "answer": "Creative combinations of themes create novelty and allow different interests to coexist",
+      "clue": "Best of both worlds",
+      "follow_up": "What themes would you combine?"
+    },
+    {
+      "id": 162,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Costume Parties",
+      "question": "How do 'minimalist costumes' using just color or a single accessory appeal across ages and budgets?",
+      "answer": "Accessible, flexible, and imaginative - everyone can participate regardless of resources",
+      "clue": "Simplicity and accessibility",
+      "follow_up": "What single element would define your character?"
+    },
+    {
+      "id": 163,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'participatory culture' and how do themed parties exemplify modern community engagement?",
+      "answer": "Communities where members actively create content and experiences together rather than passively consume",
+      "clue": "Everyone is a creator",
+      "follow_up": "How would you contribute to a party experience?"
+    },
+    {
+      "id": 164,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Themed Learning",
+      "question": "What is a 'skill-building party' with a theme that teaches practical abilities?",
+      "answer": "A party where activities teach cooking, crafting, dancing, or other skills within a theme",
+      "clue": "Learning through fun",
+      "follow_up": "What skill would you want to learn at a party?"
+    },
+    {
+      "id": 165,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Narrative Engagement",
+      "question": "How do 'choose-your-own-adventure' party structures empower all participants?",
+      "answer": "Decision-making power gives everyone agency and creates multiple possible outcomes",
+      "clue": "Your choices matter",
+      "follow_up": "What choices would you want to make?"
+    },
+    {
+      "id": 166,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is 'cultural appropriation' versus 'cultural appreciation' in themed party design?",
+      "answer": "Appreciation respectfully honors culture with accuracy; appropriation exploits without understanding or credit",
+      "clue": "Respectfulness matters",
+      "follow_up": "How would you celebrate a culture respectfully?"
+    },
+    {
+      "id": 167,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "What is 'DIY costume culture' and why has it democratized costume parties?",
+      "answer": "Creating costumes from everyday items makes parties accessible and encourages creativity",
+      "clue": "Making it yourself",
+      "follow_up": "Would you create a DIY costume?"
+    },
+    {
+      "id": 168,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "How does 'imaginative dialogue' between participants create emergent stories at parties?",
+      "answer": "Unexpected interactions and responses create new plot directions no one planned",
+      "clue": "Stories that surprise even the creators",
+      "follow_up": "What unexpected story direction would delight you?"
+    },
+    {
+      "id": 169,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is the relationship between 'vulnerability' and 'trust' that makes group immersion powerful?",
+      "answer": "Being willing to look silly or get immersed requires trust in the group; shared vulnerability builds connection",
+      "clue": "Risk creates bonds",
+      "follow_up": "How does shared vulnerability affect parties?"
+    },
+    {
+      "id": 170,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Themed Celebrations",
+      "question": "What is a 'reverse bucket list party' celebrating things people have already done?",
+      "answer": "A themed celebration of past accomplishments, adventures, and experiences",
+      "clue": "Celebrating what's already happened",
+      "follow_up": "What accomplishment would you celebrate?"
+    },
+    {
+      "id": 171,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Party Themes",
+      "question": "How do 'sensory deprivation parties' (like black light events) create new perspectives?",
+      "answer": "Removing familiar sensory input forces reliance on other senses and creates unfamiliar perception",
+      "clue": "New senses become prominent",
+      "follow_up": "Would you enjoy a sensory-altered party?"
+    },
+    {
+      "id": 172,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Narrative Engagement",
+      "question": "What is 'metanarrative' in party design where the party itself comments on storytelling?",
+      "answer": "Parties that play with the nature of narrative itself, making fiction and reality intentionally ambiguous",
+      "clue": "Stories about stories",
+      "follow_up": "Would you enjoy this type of complex narrative?"
+    },
+    {
+      "id": 173,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Costume Parties",
+      "question": "What is 'costume rental industry' and how has it made elaborate themed parties more accessible?",
+      "answer": "Services that rent high-quality costumes make professional-level appearance affordable",
+      "clue": "Paying to look amazing",
+      "follow_up": "Would you rent a costume for a party?"
+    },
+    {
+      "id": 174,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Themed Learning",
+      "question": "How do 'language-immersion parties' where a fictional language is taught create learning?",
+      "answer": "Participants learn language through context, repetition, and immersion in themed communication",
+      "clue": "Speak like the characters",
+      "follow_up": "What fictional language would you learn?"
+    },
+    {
+      "id": 175,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Immersive Experiences",
+      "question": "What is 'recursive immersion' where parties reference earlier parties or create traditions?",
+      "answer": "Building on previous themed experiences creates layers of meaning and shared history",
+      "clue": "Layers of shared experience",
+      "follow_up": "Would you create a recurring themed tradition?"
+    },
+    {
+      "id": 176,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Party Themes",
+      "question": "What is a 'digital or metaverse' themed party celebrating virtual worlds?",
+      "answer": "A party celebrating online games, virtual reality, digital culture, or internet phenomena",
+      "clue": "Celebrating the digital world",
+      "follow_up": "What digital world would you celebrate?"
+    },
+    {
+      "id": 177,
+      "audience": "All Ages",
+      "difficulty": "Medium",
+      "category_specific": "Imaginative Play",
+      "question": "How does 'play-within-play' where some participants are secret actors create surprise and engagement?",
+      "answer": "Planted participants play unexpected roles, creating genuine surprises for other guests",
+      "clue": "Unexpected twists in the experience",
+      "follow_up": "Would you enjoy being surprised this way?"
+    },
+    {
+      "id": 178,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Themed Celebrations",
+      "question": "What is 'commemoration theming' where parties celebrate historical or personal anniversaries?",
+      "answer": "Themed parties that mark significant historical events or personal milestones with appropriate context",
+      "clue": "Remembering with theme",
+      "follow_up": "What anniversary would you want to commemorate?"
+    },
+    {
+      "id": 179,
+      "audience": "All Ages",
+      "difficulty": "Easy",
+      "category_specific": "Narrative Engagement",
+      "question": "What is a 'story circle' party structure where everyone contributes to narrative creation?",
+      "answer": "A participatory storytelling format where each person adds to an unfolding collective narrative",
+      "clue": "Everyone authors the story",
+      "follow_up": "What story would you want to create together?"
+    },
+    {
+      "id": 180,
+      "audience": "All Ages",
+      "difficulty": "Hard",
+      "category_specific": "Party Themes",
+      "question": "What is the ultimate value of themed birthday parties across all demographics and why do people cherish them?",
+      "answer": "They provide sanctioned space for imagination, connection, and transformation that enhances human meaning-making and community",
+      "clue": "More than just a party",
+      "follow_up": "What value do themed parties hold for you?"
+    }
+  ]
+}

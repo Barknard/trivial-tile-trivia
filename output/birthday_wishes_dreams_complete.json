@@ -1,0 +1,918 @@
+{
+  "category": "Birthday Wishes & Dreams",
+  "theme": "birthday",
+  "category_id": "birthday_wishes_dreams",
+  "research_basis": "Positive psychology (Seligman, Lyubomirsky), goal-setting theory (Locke & Latham), imagination development (Vygotsky), future orientation, hope theory (Snyder), aspiration research",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "When you blow out birthday candles, this is what you make",
+        "correctQuestion": "What is a wish?",
+        "value": 200
+      },
+      {
+        "clue": "This magical act happens when you close your eyes and think of something you want",
+        "correctQuestion": "What is wishing?",
+        "value": 200
+      },
+      {
+        "clue": "You do this when you think about good things happening in the future",
+        "correctQuestion": "What is dreaming?",
+        "value": 200
+      },
+      {
+        "clue": "This special thing you hope for on your birthday comes true when you believe",
+        "correctQuestion": "What is your wish?",
+        "value": 200
+      },
+      {
+        "clue": "This is what you think about when you wish upon a star",
+        "correctQuestion": "What is your dream?",
+        "value": 200
+      },
+      {
+        "clue": "When you blow out all your candles in one breath, your wish might do this",
+        "correctQuestion": "What is come true?",
+        "value": 400
+      },
+      {
+        "clue": "This magical item in a bottle might grant you three wishes",
+        "correctQuestion": "What is a genie?",
+        "value": 400
+      },
+      {
+        "clue": "This is what you say when you want something really badly",
+        "correctQuestion": "What is 'I wish'?",
+        "value": 400
+      },
+      {
+        "clue": "When you dream about being a superhero, astronaut, or princess, this is your type of wish",
+        "correctQuestion": "What is a dream job (or career wish)?",
+        "value": 400
+      },
+      {
+        "clue": "This is what you do when you think 'I hope I get a puppy for my birthday'",
+        "correctQuestion": "What is make a wish (or hope)?",
+        "value": 400
+      },
+      {
+        "clue": "This magical number shows up in stories about wishes",
+        "correctQuestion": "What is three?",
+        "value": 600
+      },
+      {
+        "clue": "This person in fairy tales can grant your wishes with magic",
+        "correctQuestion": "Who is a fairy godmother?",
+        "value": 600
+      },
+      {
+        "clue": "When you write down what you want to happen, you are doing this",
+        "correctQuestion": "What is making a list of wishes (or dreams)?",
+        "value": 600
+      },
+      {
+        "clue": "This is the feeling you get when you hope something wonderful will happen",
+        "correctQuestion": "What is excitement (or happiness)?",
+        "value": 600
+      },
+      {
+        "clue": "This is what happens in your head when you sleep and dream about flying",
+        "correctQuestion": "What is an imagination (or dream)?",
+        "value": 600
+      },
+      {
+        "clue": "This object in 'Aladdin' grants wishes and is magic",
+        "correctQuestion": "What is a magic lamp (or genie lamp)?",
+        "value": 800
+      },
+      {
+        "clue": "This is something you hope will happen on your birthday",
+        "correctQuestion": "What is getting a special gift (or wish coming true)?",
+        "value": 800
+      },
+      {
+        "clue": "This is what you're doing when you close your eyes and imagine your perfect birthday",
+        "correctQuestion": "What is daydreaming?",
+        "value": 800
+      },
+      {
+        "clue": "This is what you do when you really, really want something to happen",
+        "correctQuestion": "What is wish very hard (or hope)?",
+        "value": 800
+      },
+      {
+        "clue": "This Disney princess makes a wish and it comes true when she says 'A Dream is a Wish'",
+        "correctQuestion": "Who is Cinderella?",
+        "value": 800
+      },
+      {
+        "clue": "This type of thinking lets you imagine being anything you want to be",
+        "correctQuestion": "What is imagination?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you might wish for if you want to be taller, stronger, or braver",
+        "correctQuestion": "What is growing up (or getting older)?",
+        "value": 1000
+      },
+      {
+        "clue": "This magical item in 'Cinderella' helps make her dream come true",
+        "correctQuestion": "What is a magic wand (or fairy godmother's magic)?",
+        "value": 1000
+      },
+      {
+        "clue": "When you blow out candles and wish, you should do this before telling anyone",
+        "correctQuestion": "What is keep it a secret?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what your imagination does when you dream about being a pirate, astronaut, or dancer",
+        "correctQuestion": "What is help you pretend (or imagine)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you feel when you believe your wish might come true",
+        "correctQuestion": "What is hope (or happiness)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what happens when you work hard to make your dreams real",
+        "correctQuestion": "What is trying your best (or making it happen)?",
+        "value": 1000
+      },
+      {
+        "clue": "This magical word in 'Aladdin' makes wishes come true",
+        "correctQuestion": "What is 'abracadabra' (or a magic word)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you do when you think about what you want to be when you grow up",
+        "correctQuestion": "What is dream (or imagine your future)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you blow to make your birthday wish special",
+        "correctQuestion": "What are candles?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you're doing when you make a birthday wish come true by working hard",
+        "correctQuestion": "What is making your dream a reality?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you do when you keep hoping and believing in yourself",
+        "correctQuestion": "What is never give up?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you feel when you imagine a wonderful birthday party",
+        "correctQuestion": "What is happiness (or excitement)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the positive feeling you get when you believe something good will happen",
+        "correctQuestion": "What is hope?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you do when you think about all the things you want to become",
+        "correctQuestion": "What is imagine your future?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the special power that lets you create imaginary worlds and adventures",
+        "correctQuestion": "What is imagination?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you're doing when you picture yourself as a superhero or explorer",
+        "correctQuestion": "What is pretending (or imagining)?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This psychological concept refers to the brain's ability to form mental images of things not present",
+        "correctQuestion": "What is imagination?",
+        "value": 200
+      },
+      {
+        "clue": "This is the practice of consciously thinking about what you want to achieve in the future",
+        "correctQuestion": "What is goal-setting?",
+        "value": 200
+      },
+      {
+        "clue": "This famous author wrote 'Where the Wild Things Are' about imagination and adventure",
+        "correctQuestion": "Who is Maurice Sendak?",
+        "value": 200
+      },
+      {
+        "clue": "This is what psychologists call the trait of expecting positive future outcomes",
+        "correctQuestion": "What is optimism (or hope)?",
+        "value": 200
+      },
+      {
+        "clue": "This is the process of thinking about your past achievements and setting new goals",
+        "correctQuestion": "What is reflection?",
+        "value": 200
+      },
+      {
+        "clue": "This Disney character's wish 'I want to be where the people are' drives the whole story",
+        "correctQuestion": "Who is Ariel (from The Little Mermaid)?",
+        "value": 400
+      },
+      {
+        "clue": "This type of goal focuses on developing skills and improving yourself",
+        "correctQuestion": "What is a learning goal (or mastery goal)?",
+        "value": 400
+      },
+      {
+        "clue": "This process involves writing down specific dreams and plans to achieve them",
+        "correctQuestion": "What is making a bucket list (or vision board)?",
+        "value": 400
+      },
+      {
+        "clue": "This psychologist developed the theory of flow, which relates to being fully engaged in achieving goals",
+        "correctQuestion": "Who is Mihaly Csikszentmihalyi?",
+        "value": 400
+      },
+      {
+        "clue": "This is the positive emotion you feel when you believe something good will happen",
+        "correctQuestion": "What is hope?",
+        "value": 400
+      },
+      {
+        "clue": "This famous phrase 'Dream as if you'll live forever; live as if you'll die today' is attributed to this actor",
+        "correctQuestion": "Who is James Dean?",
+        "value": 600
+      },
+      {
+        "clue": "This is the acronym for goals that are Specific, Measurable, Achievable, Relevant, and Time-bound",
+        "correctQuestion": "What is SMART?",
+        "value": 600
+      },
+      {
+        "clue": "This author of 'Charlotte's Web' believed in the power of imagination in children's literature",
+        "correctQuestion": "Who is E.B. White?",
+        "value": 600
+      },
+      {
+        "clue": "This type of thinking involves imagining future possibilities and planning for them",
+        "correctQuestion": "What is future-oriented thinking (or prospective thinking)?",
+        "value": 600
+      },
+      {
+        "clue": "This is the psychological term for visualizing success before attempting a goal",
+        "correctQuestion": "What is mental rehearsal (or visualization)?",
+        "value": 600
+      },
+      {
+        "clue": "This children's author wrote 'The Tale of Despereaux' about following your heart's desire",
+        "correctQuestion": "Who is Kate DiCamillo?",
+        "value": 800
+      },
+      {
+        "clue": "This is the ability to imagine how others feel and what they might want or need",
+        "correctQuestion": "What is empathy (or perspective-taking)?",
+        "value": 800
+      },
+      {
+        "clue": "This is the term for the brain's tendency to remember positive experiences more vividly",
+        "correctQuestion": "What is positivity bias (or rosy retrospection)?",
+        "value": 800
+      },
+      {
+        "clue": "This practice of thinking about what you're grateful for improves goal-setting motivation",
+        "correctQuestion": "What is gratitude practice?",
+        "value": 800
+      },
+      {
+        "clue": "This is the psychological concept of believing you can influence your own future",
+        "correctQuestion": "What is agency (or locus of control)?",
+        "value": 800
+      },
+      {
+        "clue": "This author of 'The Phantom Tollbooth' believed language and imagination create worlds",
+        "correctQuestion": "Who is Norton Juster?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychologist developed the concept of 'grit' as essential for achieving long-term goals",
+        "correctQuestion": "Who is Angela Duckworth?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the practice of regularly reviewing your goals and adjusting them based on progress",
+        "correctQuestion": "What is goal reflection (or goal reassessment)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological term for the gap between where you are and where you want to be",
+        "correctQuestion": "What is goal discrepancy (or aspiration gap)?",
+        "value": 1000
+      },
+      {
+        "clue": "This type of motivation comes from within and is driven by personal meaning and purpose",
+        "correctQuestion": "What is intrinsic motivation?",
+        "value": 1000
+      },
+      {
+        "clue": "This author of 'The Tale of Despereaux' wrote about the power of love and forgiveness in achieving dreams",
+        "correctQuestion": "Who is Kate DiCamillo?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the ability to keep working toward a goal even when it seems difficult or takes time",
+        "correctQuestion": "What is perseverance (or persistence)?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological concept describes how practicing something makes you better at it",
+        "correctQuestion": "What is deliberate practice (or skill development)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the positive emotion that arises when you're making progress toward a meaningful goal",
+        "correctQuestion": "What is satisfaction (or progress joy)?",
+        "value": 1000
+      },
+      {
+        "clue": "This practice involves breaking a big dream into smaller, manageable steps",
+        "correctQuestion": "What is goal decomposition (or breaking down goals)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the belief that you can improve your abilities through effort and practice",
+        "correctQuestion": "What is a growth mindset?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the state of complete focus and engagement you feel when pursuing something meaningful",
+        "correctQuestion": "What is flow?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the ability to keep working toward something you care about even when it's hard",
+        "correctQuestion": "What is perseverance (or persistence)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the positive emotion that comes from making progress toward your goals",
+        "correctQuestion": "What is satisfaction (or accomplishment)?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This psychologist proposed that positive psychology focuses on flourishing and well-being rather than just treating illness",
+        "correctQuestion": "Who is Martin Seligman?",
+        "value": 200
+      },
+      {
+        "clue": "This is the theory developed by Locke and Latham that explains how goal-setting affects performance",
+        "correctQuestion": "What is Goal-Setting Theory?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological concept describes the tendency to overestimate the likelihood of positive future events",
+        "correctQuestion": "What is optimism bias?",
+        "value": 200
+      },
+      {
+        "clue": "This type of goal focuses on demonstrating competence compared to others rather than personal growth",
+        "correctQuestion": "What is a performance goal (or ego goal)?",
+        "value": 200
+      },
+      {
+        "clue": "This is the psychological state of complete absorption and engagement in a challenging activity",
+        "correctQuestion": "What is flow?",
+        "value": 200
+      },
+      {
+        "clue": "This psychologist developed the concept of 'possible selves' - imagined future versions of ourselves",
+        "correctQuestion": "Who is Hazel Markus?",
+        "value": 400
+      },
+      {
+        "clue": "This is the theory that explains how individuals develop their sense of identity and autonomy",
+        "correctQuestion": "What is Self-Determination Theory (developed by Deci and Ryan)?",
+        "value": 400
+      },
+      {
+        "clue": "This cognitive bias describes how vivid mental images make events seem more likely to occur",
+        "correctQuestion": "What is the availability heuristic?",
+        "value": 400
+      },
+      {
+        "clue": "This is the process of mentally simulating future scenarios to prepare for potential obstacles",
+        "correctQuestion": "What is prospective thinking (or mental time travel)?",
+        "value": 400
+      },
+      {
+        "clue": "This neuroscientist's research on neuroplasticity shows how the brain can change through practice toward goals",
+        "correctQuestion": "Who is Norman Doidge?",
+        "value": 400
+      },
+      {
+        "clue": "This ancient Greek concept of 'actualizing your potential' influenced modern positive psychology",
+        "correctQuestion": "What is eudaimonia (or human flourishing)?",
+        "value": 600
+      },
+      {
+        "clue": "This framework suggests that self-compassion is essential for pursuing challenging goals",
+        "correctQuestion": "What is Kristin Neff's Self-Compassion Theory?",
+        "value": 600
+      },
+      {
+        "clue": "This psychological phenomenon describes how mental imagery activates the same brain regions as actual experience",
+        "correctQuestion": "What is motor imagery (or simulation theory)?",
+        "value": 600
+      },
+      {
+        "clue": "This term refers to the temporary obstacles that appear on the path toward goals",
+        "correctQuestion": "What are implementation intentions?",
+        "value": 600
+      },
+      {
+        "clue": "This research shows that writing about your goals makes you more likely to achieve them",
+        "correctQuestion": "What is the effects of goal commitment documentation?",
+        "value": 600
+      },
+      {
+        "clue": "This psychologist's research on growth mindset shows how believing in your ability to improve affects goal achievement",
+        "correctQuestion": "Who is Carol Dweck?",
+        "value": 800
+      },
+      {
+        "clue": "This is the theory that motivation increases when goals are challenging but achievable",
+        "correctQuestion": "What is the Yerkes-Dodson Law?",
+        "value": 800
+      },
+      {
+        "clue": "This concept describes how envisioning obstacles alongside positive outcomes improves goal success",
+        "correctQuestion": "What is mental contrasting (or WOOP - Wish, Outcome, Obstacle, Plan)?",
+        "value": 800
+      },
+      {
+        "clue": "This is the tendency for people who write goals to achieve them at significantly higher rates",
+        "correctQuestion": "What is the goal-setting effect (or commitment documentation effect)?",
+        "value": 800
+      },
+      {
+        "clue": "This psychological concept describes how visualizing success activates brain regions associated with preparation",
+        "correctQuestion": "What is embodied cognition?",
+        "value": 800
+      },
+      {
+        "clue": "This psychologist's research on hope theory identifies two key components: pathways thinking and agency",
+        "correctQuestion": "Who is Rick Snyder?",
+        "value": 1000
+      },
+      {
+        "clue": "This framework suggests balancing approach goals (moving toward) with avoidance goals (moving away from)",
+        "correctQuestion": "What is Approach/Avoidance Goal Theory?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the phenomenon where people who publicly commit to goals are more likely to achieve them",
+        "correctQuestion": "What is commitment and consistency bias (or public commitment effect)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research by Gabriele Oettingen shows how combining desire with realistic planning improves outcomes",
+        "correctQuestion": "What is the fantasy-realism gap and mental contrasting?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological concept describes the brain's ability to integrate imagined futures into decision-making",
+        "correctQuestion": "What is episodic future thinking?",
+        "value": 1000
+      },
+      {
+        "clue": "This theory proposes that aspiration levels adjust based on past experience and social comparison",
+        "correctQuestion": "What is Aspiration Level Theory (Siegel)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the phenomenon where anticipating a goal completion releases dopamine in the brain",
+        "correctQuestion": "What is reward anticipation (or mesolimbic dopamine response)?",
+        "value": 1000
+      },
+      {
+        "clue": "This concept describes how specific, challenging goals lead to higher performance than vague ones",
+        "correctQuestion": "What is the goal-setting specificity effect?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological practice involves writing about future scenarios where you've achieved your goals",
+        "correctQuestion": "What is best possible self writing (or future self writing)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research shows that imagining the process rather than just the outcome increases goal achievement",
+        "correctQuestion": "What is process simulation (vs. outcome simulation)?",
+        "value": 1000
+      },
+      {
+        "clue": "This concept describes how specific, vivid mental images activate neural pathways similar to real experience",
+        "correctQuestion": "What is neuroplasticity (or motor imagery effect)?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological framework identifies how social comparison influences aspiration levels",
+        "correctQuestion": "What is social comparison theory (Festinger)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research demonstrates that people who share their goals publicly are more likely to achieve them",
+        "correctQuestion": "What is the public commitment effect?",
+        "value": 1000
+      },
+      {
+        "clue": "This technique involves writing future letters to yourself describing achieving your goals",
+        "correctQuestion": "What is best possible self writing (or future self-writing)?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This foundational concept in positive psychology, developed by Seligman, describes optimal human functioning",
+        "correctQuestion": "What is flourishing (or authentic happiness)?",
+        "value": 200
+      },
+      {
+        "clue": "This theory, formulated by Locke and Latham, establishes the relationship between goal difficulty and performance",
+        "correctQuestion": "What is Goal-Setting Theory?",
+        "value": 200
+      },
+      {
+        "clue": "This psychologist's model of human needs includes self-actualization as the highest level",
+        "correctQuestion": "Who is Abraham Maslow?",
+        "value": 200
+      },
+      {
+        "clue": "This concept describes the personal, subjective sense that life has meaning and purpose",
+        "correctQuestion": "What is meaning and purpose?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological principle suggests that working toward valued goals increases life satisfaction",
+        "correctQuestion": "What is purposeful engagement (or goal-congruent activity)?",
+        "value": 200
+      },
+      {
+        "clue": "This framework, developed by Deci and Ryan, identifies three basic psychological needs essential for goal motivation",
+        "correctQuestion": "What is Self-Determination Theory (autonomy, competence, relatedness)?",
+        "value": 400
+      },
+      {
+        "clue": "This is the distinction between intrinsic goals (personal growth) and extrinsic goals (wealth, fame)",
+        "correctQuestion": "What is the intrinsic/extrinsic goal distinction?",
+        "value": 400
+      },
+      {
+        "clue": "This cognitive technique, popularized by Gabriele Oettingen, combines fantasy, reality, and obstacle planning",
+        "correctQuestion": "What is mental contrasting with implementation intentions (MCII)?",
+        "value": 400
+      },
+      {
+        "clue": "This psychological construct measures an individual's belief in their ability to succeed at specific tasks",
+        "correctQuestion": "What is self-efficacy?",
+        "value": 400
+      },
+      {
+        "clue": "This research by Baumeister and colleagues identifies the key factors supporting sustainable goal pursuit",
+        "correctQuestion": "What is self-regulation and willpower?",
+        "value": 400
+      },
+      {
+        "clue": "This psychologist's concept of 'possible selves' explains how imagined futures guide current behavior",
+        "correctQuestion": "Who is Hazel Markus?",
+        "value": 600
+      },
+      {
+        "clue": "This is the psychological phenomenon where breaking goals into subgoals increases completion rates",
+        "correctQuestion": "What is goal hierarchy (or subgoaling)?",
+        "value": 600
+      },
+      {
+        "clue": "This Stanford psychologist's research on hope theory identifies pathways thinking and agency as core components",
+        "correctQuestion": "Who is Rick Snyder?",
+        "value": 600
+      },
+      {
+        "clue": "This concept describes the optimal level of challenge where skills and difficulty are balanced",
+        "correctQuestion": "What is the challenge-skill balance (or flow state)?",
+        "value": 600
+      },
+      {
+        "clue": "This psychological theory explains why public commitments increase follow-through on goals",
+        "correctQuestion": "What is commitment and consistency bias (or reputation management)?",
+        "value": 600
+      },
+      {
+        "clue": "This research shows that visualizing obstacles alongside success improves goal attainment rates",
+        "correctQuestion": "What is mental contrasting (WOOP)?",
+        "value": 800
+      },
+      {
+        "clue": "This framework distinguishes between approach-motivated goals and avoidance-motivated goals",
+        "correctQuestion": "What is Approach/Avoidance Goal Motivation Theory?",
+        "value": 800
+      },
+      {
+        "clue": "This psychological concept describes the alignment between personal values and chosen goals",
+        "correctQuestion": "What is value-alignment (or goal congruence)?",
+        "value": 800
+      },
+      {
+        "clue": "This research by Roy Baumeister identifies self-control as a limited resource that depletes with use",
+        "correctQuestion": "What is ego depletion (or self-control fatigue)?",
+        "value": 800
+      },
+      {
+        "clue": "This psychological phenomenon describes how detailed mental simulation improves goal planning effectiveness",
+        "correctQuestion": "What is episodic future thinking (or mental time travel)?",
+        "value": 800
+      },
+      {
+        "clue": "This concept from positive psychology describes the active cultivation of character strengths and virtues",
+        "correctQuestion": "What is strengths-based development?",
+        "value": 1000
+      },
+      {
+        "clue": "This research by Angela Duckworth identifies perseverance and passion as predictors of long-term success",
+        "correctQuestion": "What is grit?",
+        "value": 1000
+      },
+      {
+        "clue": "This framework proposes that goals operate at multiple levels: abstract values to concrete behaviors",
+        "correctQuestion": "What is the goal hierarchy model?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological principle states that specific, difficult goals outperform vague, easy, or no goals",
+        "correctQuestion": "What is the goal-specificity and difficulty effect?",
+        "value": 1000
+      },
+      {
+        "clue": "This research by Barbara Fredrickson suggests that positive emotions broaden cognitive resources for goal-planning",
+        "correctQuestion": "What is Broaden-and-Build Theory?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological concept that goals become more motivating when progress is visible and measurable",
+        "correctQuestion": "What is progress feedback (or goal milestone tracking)?",
+        "value": 1000
+      },
+      {
+        "clue": "This concept describes the brain's ability to simulate future scenarios and their emotional consequences",
+        "correctQuestion": "What is affective forecasting (or emotional simulation)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research shows that writing goals increases achievement rates by 42% compared to those who don't write",
+        "correctQuestion": "What is goal commitment documentation (or written goal effect)?",
+        "value": 1000
+      },
+      {
+        "clue": "This framework identifies how intrinsic motivation (autonomy, competence, relatedness) leads to sustainable goals",
+        "correctQuestion": "What is Self-Determination Theory?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological technique of pre-commitment helps overcome temporal discounting in goal pursuit",
+        "correctQuestion": "What is commitment devices (or Ulysses contracts)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research shows that breaking down long-term goals into quarterly milestones increases achievement rates significantly",
+        "correctQuestion": "What is temporal goal-setting (or milestone-based planning)?",
+        "value": 1000
+      },
+      {
+        "clue": "This neuroscientific concept describes how the brain's default mode network enables future thinking",
+        "correctQuestion": "What is episodic future thinking (or mental time travel)?",
+        "value": 1000
+      },
+      {
+        "clue": "This framework suggests that intrinsic goals (growth, relationships) predict better well-being than extrinsic goals",
+        "correctQuestion": "What is the distinction between intrinsic and extrinsic goal pursuits?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological principle states that goals become more motivating when aligned with personal core values",
+        "correctQuestion": "What is value-alignment (or goal-value congruence)?",
+        "value": 1000
+      }
+    ],
+    "general_knowledge": [
+      {
+        "clue": "This Swiss psychologist pioneered the study of imagination and symbolic thinking in children's development",
+        "correctQuestion": "Who is Jean Piaget?",
+        "value": 200
+      },
+      {
+        "clue": "This is the psychological construct that measures belief in one's ability to succeed",
+        "correctQuestion": "What is self-efficacy?",
+        "value": 200
+      },
+      {
+        "clue": "This concept from positive psychology focuses on cultivating human strengths rather than treating deficits",
+        "correctQuestion": "What is strengths-based psychology?",
+        "value": 200
+      },
+      {
+        "clue": "This type of goal involves developing competence and improving skills rather than comparison",
+        "correctQuestion": "What is a mastery goal (or learning goal)?",
+        "value": 200
+      },
+      {
+        "clue": "This neurological process involves activating the same brain regions when imagining as when executing",
+        "correctQuestion": "What is motor imagery?",
+        "value": 200
+      },
+      {
+        "clue": "This is the term for goals that individuals personally value and are intrinsically motivated to pursue",
+        "correctQuestion": "What are intrinsic goals (or self-concordant goals)?",
+        "value": 400
+      },
+      {
+        "clue": "This psychological research by Gollwitzer identifies this technique using 'if-then' planning to achieve goals",
+        "correctQuestion": "What is implementation intentions?",
+        "value": 400
+      },
+      {
+        "clue": "This is the phenomenon where people who visualize success perform better than those who don't",
+        "correctQuestion": "What is visualization (or mental rehearsal)?",
+        "value": 400
+      },
+      {
+        "clue": "This type of motivation comes from external rewards or pressure rather than internal desire",
+        "correctQuestion": "What is extrinsic motivation?",
+        "value": 400
+      },
+      {
+        "clue": "This Soviet psychologist developed the concept of the Zone of Proximal Development in learning and growth",
+        "correctQuestion": "Who is Lev Vygotsky?",
+        "value": 400
+      },
+      {
+        "clue": "This framework suggests that sustainable happiness comes from pursuing meaningful, values-aligned goals",
+        "correctQuestion": "What is authentic happiness (or eudaimonic well-being)?",
+        "value": 600
+      },
+      {
+        "clue": "This is the cognitive bias where we underestimate how much our preferences and abilities will change",
+        "correctQuestion": "What is the end-of-history illusion?",
+        "value": 600
+      },
+      {
+        "clue": "This psychologist's research on character strengths and virtues provides a framework for goal-aligned development",
+        "correctQuestion": "Who is Christopher Peterson?",
+        "value": 600
+      },
+      {
+        "clue": "This is the process of mentally contrasting a desired future with realistic obstacles before planning",
+        "correctQuestion": "What is mental contrasting (WOOP)?",
+        "value": 600
+      },
+      {
+        "clue": "This concept describes the optimal state where challenge matches skill level in pursuit of goals",
+        "correctQuestion": "What is flow (or optimal experience)?",
+        "value": 600
+      },
+      {
+        "clue": "This research shows that individuals who set specific goals achieve them at rates 42% higher than those without written goals",
+        "correctQuestion": "What is the goal-setting effect?",
+        "value": 800
+      },
+      {
+        "clue": "This is the tendency for goals to become more achievable when broken into smaller, measurable milestones",
+        "correctQuestion": "What is subgoaling (or goal decomposition)?",
+        "value": 800
+      },
+      {
+        "clue": "This psychologist developed the concept of psychological need satisfaction as essential for motivation",
+        "correctQuestion": "Who is Edward Deci?",
+        "value": 800
+      },
+      {
+        "clue": "This brain region is activated when people engage in episodic future thinking about goals",
+        "correctQuestion": "What is the medial prefrontal cortex (or default mode network)?",
+        "value": 800
+      },
+      {
+        "clue": "This is the gap between where individuals currently are and their aspirations or dreams",
+        "correctQuestion": "What is discrepancy (or goal-performance gap)?",
+        "value": 800
+      },
+      {
+        "clue": "This theory proposes that hope involves both pathways thinking and agency in pursuing goals",
+        "correctQuestion": "What is Hope Theory (Rick Snyder)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the cognitive strategy of using 'if-then' plans to automate goal-directed behavior",
+        "correctQuestion": "What is implementation intentions?",
+        "value": 1000
+      },
+      {
+        "clue": "This neuroscientific finding shows that mental simulation activates the same circuits as actual behavior",
+        "correctQuestion": "What is embodied cognition (or motor simulation)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological principle that goals become more achievable when they're specific and measurable",
+        "correctQuestion": "What is SMART goal-setting?",
+        "value": 1000
+      },
+      {
+        "clue": "This research by Patt Lerner identifies how positive emotions expand cognitive resources for planning",
+        "correctQuestion": "What is the Broaden-and-Build Theory of positive emotions?",
+        "value": 1000
+      },
+      {
+        "clue": "This concept describes the mental capacity to imagine oneself in different possible futures",
+        "correctQuestion": "What is temporal discounting (or future self-continuity)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the phenomenon where people who publicly commit to goals are more likely to achieve them",
+        "correctQuestion": "What is the commitment and consistency principle?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological framework identifies autonomy, competence, and relatedness as core motivational needs",
+        "correctQuestion": "What is Self-Determination Theory?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the research-backed technique of combining positive visualization with realistic obstacle planning",
+        "correctQuestion": "What is mental contrasting with implementation intentions (MCII)?",
+        "value": 1000
+      },
+      {
+        "clue": "This concept from positive psychology describes the active engagement in meaningful activities aligned with values",
+        "correctQuestion": "What is meaningful engagement (or flow)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research domain studies how imagination and visualization improve performance in sports and academics",
+        "correctQuestion": "What is sports psychology (or performance psychology)?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological concept describes the gap between one's actual self and one's ideal possible self",
+        "correctQuestion": "What is the self-discrepancy theory?",
+        "value": 1000
+      },
+      {
+        "clue": "This neuroscientific finding shows that the brain rewards progress toward goals with dopamine release",
+        "correctQuestion": "What is mesolimbic dopamine response (or reward anticipation)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the research-backed finding that writing specific goals increases achievement likelihood by 42%",
+        "correctQuestion": "What is the goal-writing effect (Locke and Latham)?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological framework identifies how emotions influence creative goal-planning and problem-solving",
+        "correctQuestion": "What is the Broaden-and-Build Theory (Barbara Fredrickson)?",
+        "value": 1000
+      },
+      {
+        "clue": "This technique involves creating detailed 'if-then' plans to automate goal-directed behaviors",
+        "correctQuestion": "What is implementation intentions (Gollwitzer)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research shows that vivid imagination of desired outcomes increases neural activation in goal-pursuit pathways",
+        "correctQuestion": "What is mental simulation (or embodied cognition)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the concept that aspirations adjust based on past experience, social comparison, and perceived opportunity",
+        "correctQuestion": "What is aspiration adaptation?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological principle describes how breaking goals into subgoals makes them feel more achievable",
+        "correctQuestion": "What is the subgoaling effect (or goal decomposition benefit)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the phenomenon where visualizing both success and obstacles improves goal completion rates",
+        "correctQuestion": "What is mental contrasting (WOOP - Wish, Outcome, Obstacle, Plan)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research shows that people who envision their best possible future self report greater life satisfaction",
+        "correctQuestion": "What is best possible self visualization?",
+        "value": 1000
+      }
+    ]
+  }
+}

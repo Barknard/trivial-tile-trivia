@@ -1,0 +1,188 @@
+{
+  "theme": "general",
+  "version": "2.0.0",
+  "generated_date": "2025-12-26",
+  "total_categories": 36,
+  "categories": [
+    {
+      "id": "science",
+      "name": "Science & Nature",
+      "description": "Scientific discoveries and natural world"
+    },
+    {
+      "id": "history",
+      "name": "World History",
+      "description": "Historical events and figures"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "description": "Countries, capitals, and landmarks"
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "description": "Movies, TV, and pop culture"
+    },
+    {
+      "id": "sports",
+      "name": "Sports & Games",
+      "description": "Athletics and competitions"
+    },
+    {
+      "id": "food_drink",
+      "name": "Food & Drink",
+      "description": "Cuisine and beverages"
+    },
+    {
+      "id": "animals",
+      "name": "Amazing Animals",
+      "description": "Animal kingdom and wildlife"
+    },
+    {
+      "id": "space",
+      "name": "Space Exploration",
+      "description": "Astronomy and space missions"
+    },
+    {
+      "id": "music",
+      "name": "Music & Musicians",
+      "description": "Songs, artists, and instruments"
+    },
+    {
+      "id": "literature",
+      "name": "Books & Authors",
+      "description": "Literature and famous writers"
+    },
+    {
+      "id": "art",
+      "name": "Art & Artists",
+      "description": "Paintings, sculptures, and artists"
+    },
+    {
+      "id": "technology",
+      "name": "Technology & Inventions",
+      "description": "Innovations and inventors"
+    },
+    {
+      "id": "us_history",
+      "name": "American History",
+      "description": "U.S. historical events"
+    },
+    {
+      "id": "world_leaders",
+      "name": "World Leaders",
+      "description": "Presidents, prime ministers, and rulers"
+    },
+    {
+      "id": "mythology",
+      "name": "Myths & Legends",
+      "description": "Ancient stories and mythological figures"
+    },
+    {
+      "id": "languages",
+      "name": "Words & Languages",
+      "description": "Vocabulary and world languages"
+    },
+    {
+      "id": "math",
+      "name": "Numbers & Math",
+      "description": "Mathematical concepts and calculations"
+    },
+    {
+      "id": "human_body",
+      "name": "The Human Body",
+      "description": "Anatomy and health"
+    },
+    {
+      "id": "oceans",
+      "name": "Oceans & Seas",
+      "description": "Marine life and ocean facts"
+    },
+    {
+      "id": "weather",
+      "name": "Weather & Climate",
+      "description": "Meteorology and climate"
+    },
+    {
+      "id": "dinosaurs",
+      "name": "Dinosaurs",
+      "description": "Prehistoric creatures"
+    },
+    {
+      "id": "holidays",
+      "name": "Holidays Around the World",
+      "description": "Celebrations and traditions"
+    },
+    {
+      "id": "olympics",
+      "name": "Olympic Games",
+      "description": "Olympic sports and history"
+    },
+    {
+      "id": "inventions",
+      "name": "Famous Inventions",
+      "description": "Groundbreaking innovations"
+    },
+    {
+      "id": "ancient_civilizations",
+      "name": "Ancient Civilizations",
+      "description": "Early human societies"
+    },
+    {
+      "id": "landmarks",
+      "name": "World Landmarks",
+      "description": "Famous structures and monuments"
+    },
+    {
+      "id": "plants",
+      "name": "Plants & Trees",
+      "description": "Botany and plant life"
+    },
+    {
+      "id": "transportation",
+      "name": "Transportation",
+      "description": "Vehicles and travel"
+    },
+    {
+      "id": "colors_shapes",
+      "name": "Colors & Shapes",
+      "description": "Visual elements and patterns"
+    },
+    {
+      "id": "fairy_tales",
+      "name": "Fairy Tales & Stories",
+      "description": "Classic children's tales"
+    },
+    {
+      "id": "comics_cartoons",
+      "name": "Comics & Cartoons",
+      "description": "Animated shows and comic books"
+    },
+    {
+      "id": "board_games",
+      "name": "Board Games & Puzzles",
+      "description": "Classic games and brain teasers"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion & Clothing",
+      "description": "Style and apparel"
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "description": "Building design and structures"
+    },
+    {
+      "id": "currencies",
+      "name": "Money & Currencies",
+      "description": "World currencies and economics"
+    },
+    {
+      "id": "photography",
+      "name": "Photography & Film",
+      "description": "Visual media and cameras"
+    }
+  ]
+}

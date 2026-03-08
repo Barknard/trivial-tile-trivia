@@ -1,0 +1,918 @@
+{
+  "category": "Birthday Memories & Photos",
+  "theme": "birthday",
+  "category_id": "birthday_memories_photos",
+  "research_basis": "Memory formation (Ebbinghaus, Baddeley), autobiographical memory (Schacter), episodic memory consolidation (Born, Dang), photo reminiscence therapy, nostalgia psychology (Sedikides, Wildschut), emotional congruence theory (Bower), visual memory enhancement (Wammes, Meade), narrative memory, family storytelling",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "This is what you take with a camera or phone to remember a fun day",
+        "correctQuestion": "What is a picture?",
+        "value": 200
+      },
+      {
+        "clue": "When you look at pictures from your birthday, you can do this",
+        "correctQuestion": "What is remember?",
+        "value": 200
+      },
+      {
+        "clue": "This is the person who takes pictures at a birthday party",
+        "correctQuestion": "What is a photographer?",
+        "value": 200
+      },
+      {
+        "clue": "When you smile and hold still for a picture, you are doing this",
+        "correctQuestion": "What is posing?",
+        "value": 200
+      },
+      {
+        "clue": "This is what you use to take a picture on your birthday",
+        "correctQuestion": "What is a camera?",
+        "value": 200
+      },
+      {
+        "clue": "This is what you call a picture of yourself taken with the camera facing you",
+        "correctQuestion": "What is a selfie?",
+        "value": 400
+      },
+      {
+        "clue": "When you look at old pictures of birthdays, you feel this happy feeling",
+        "correctQuestion": "What is nostalgia?",
+        "value": 400
+      },
+      {
+        "clue": "This device in your phone or house takes pictures and videos",
+        "correctQuestion": "What is a camera?",
+        "value": 400
+      },
+      {
+        "clue": "When you keep pictures in a book or folder, this is what you call it",
+        "correctQuestion": "What is an album?",
+        "value": 400
+      },
+      {
+        "clue": "This is what happens in your brain when you see a photo of something fun",
+        "correctQuestion": "What is remembering?",
+        "value": 400
+      },
+      {
+        "clue": "This is the feeling you get when you see a funny or happy picture from your party",
+        "correctQuestion": "What is joy?",
+        "value": 600
+      },
+      {
+        "clue": "When multiple people stand together for a picture, this is what you call it",
+        "correctQuestion": "What is a group photo?",
+        "value": 600
+      },
+      {
+        "clue": "This is what you're keeping when you take many pictures at your birthday",
+        "correctQuestion": "What is memories?",
+        "value": 600
+      },
+      {
+        "clue": "This is what you do when you look at pictures and think about the party",
+        "correctQuestion": "What is remembering?",
+        "value": 600
+      },
+      {
+        "clue": "When you smile in a picture, this is what shows on your face",
+        "correctQuestion": "What is happiness?",
+        "value": 600
+      },
+      {
+        "clue": "This is the word for taking a picture of yourself with your friend",
+        "correctQuestion": "What is a selfie?",
+        "value": 800
+      },
+      {
+        "clue": "This special album holds pictures from your best birthday ever",
+        "correctQuestion": "What is a birthday album?",
+        "value": 800
+      },
+      {
+        "clue": "When you look at photos and remember details, your brain is doing this",
+        "correctQuestion": "What is creating memories?",
+        "value": 800
+      },
+      {
+        "clue": "This is what makes a photo special enough to keep forever",
+        "correctQuestion": "What is happiness?",
+        "value": 800
+      },
+      {
+        "clue": "This is what you feel when you see old pictures from when you were younger",
+        "correctQuestion": "What is nostalgia (or happiness)?",
+        "value": 800
+      },
+      {
+        "clue": "This is the special magic that makes photos help us remember fun times",
+        "correctQuestion": "What is memory?",
+        "value": 1000
+      },
+      {
+        "clue": "When you look through birthday photos, this brain power comes into play",
+        "correctQuestion": "What is imagination?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what photos do - they bring back feelings from the past",
+        "correctQuestion": "What is remind us?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the warm feeling you get when you see a photo of a happy memory",
+        "correctQuestion": "What is love?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what happens when a photo helps you remember someone you miss",
+        "correctQuestion": "What is remembering?",
+        "value": 1000
+      },
+      {
+        "clue": "When you save photos in a phone or computer, you are doing this",
+        "correctQuestion": "What is keeping memories?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what photos let you do - visit happy moments again and again",
+        "correctQuestion": "What is relive memories?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the name for the special feeling of looking at happy birthday photos",
+        "correctQuestion": "What is joy?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you're making when you take photos at your birthday party",
+        "correctQuestion": "What is memories?",
+        "value": 1000
+      },
+      {
+        "clue": "When you see yourself in an old photo, this is what you remember",
+        "correctQuestion": "What is how you looked?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the reason people keep birthday photos in special places",
+        "correctQuestion": "What is to remember?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what your eyes do first when you look at a photo",
+        "correctQuestion": "What is see?",
+        "value": 1000
+      },
+      {
+        "clue": "This magical thing helps you keep birthday fun forever",
+        "correctQuestion": "What is a photograph?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what feelings do when you look at happy birthday pictures",
+        "correctQuestion": "What is come back?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what you feel when looking at photos of your favorite birthday",
+        "correctQuestion": "What is happiness?",
+        "value": 1000
+      },
+      {
+        "clue": "When you keep photos and look at them years later, this happens",
+        "correctQuestion": "What is remembering?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "This is the cognitive process of recalling information from your past experiences",
+        "correctQuestion": "What is memory?",
+        "value": 200
+      },
+      {
+        "clue": "This type of memory includes personal events and experiences from your life",
+        "correctQuestion": "What is autobiographical memory?",
+        "value": 200
+      },
+      {
+        "clue": "This is the technical term for a moment captured in time with a camera",
+        "correctQuestion": "What is a photograph?",
+        "value": 200
+      },
+      {
+        "clue": "This is the feeling of yearning for the past, especially happy memories",
+        "correctQuestion": "What is nostalgia?",
+        "value": 200
+      },
+      {
+        "clue": "This device allows you to capture moments from your birthday party",
+        "correctQuestion": "What is a camera?",
+        "value": 200
+      },
+      {
+        "clue": "This is the process by which experiences are converted into memories in the brain",
+        "correctQuestion": "What is memory consolidation?",
+        "value": 400
+      },
+      {
+        "clue": "This type of photo shows a moment without planning or preparation",
+        "correctQuestion": "What is a candid photo?",
+        "value": 400
+      },
+      {
+        "clue": "This is the act of looking back at photos and recalling the emotions you felt",
+        "correctQuestion": "What is reminiscing?",
+        "value": 400
+      },
+      {
+        "clue": "This is the part of your brain that stores long-term memories including birthday moments",
+        "correctQuestion": "What is the hippocampus?",
+        "value": 400
+      },
+      {
+        "clue": "This is the sharing of stories and memories within a family across generations",
+        "correctQuestion": "What is family storytelling?",
+        "value": 400
+      },
+      {
+        "clue": "This is the connection between emotions and how well you remember something",
+        "correctQuestion": "What is emotional memory (or emotional congruence)?",
+        "value": 600
+      },
+      {
+        "clue": "This is the ability to remember information when you see related visual cues",
+        "correctQuestion": "What is visual memory?",
+        "value": 600
+      },
+      {
+        "clue": "This is the psychological process of organizing and storing memories with personal meaning",
+        "correctQuestion": "What is memory encoding?",
+        "value": 600
+      },
+      {
+        "clue": "This is the name for photos taken by a photographer specifically at events",
+        "correctQuestion": "What is event photography?",
+        "value": 600
+      },
+      {
+        "clue": "This is the cognitive skill that helps you make connections between old and new memories",
+        "correctQuestion": "What is association?",
+        "value": 600
+      },
+      {
+        "clue": "This research technique involves using photos to help people recall memories",
+        "correctQuestion": "What is photo reminiscence therapy?",
+        "value": 800
+      },
+      {
+        "clue": "This is the practice of writing down or recording memories alongside photos",
+        "correctQuestion": "What is journaling?",
+        "value": 800
+      },
+      {
+        "clue": "This is the formal name for a collection of organized photos in book form",
+        "correctQuestion": "What is a photo album?",
+        "value": 800
+      },
+      {
+        "clue": "This is the psychological benefit of looking at positive past memories",
+        "correctQuestion": "What is mood enhancement (or emotional uplift)?",
+        "value": 800
+      },
+      {
+        "clue": "This is the brain mechanism that strengthens memories through repetition and recall",
+        "correctQuestion": "What is memory consolidation?",
+        "value": 800
+      },
+      {
+        "clue": "This psychologist studied how memories form and fade over time through forgetting curves",
+        "correctQuestion": "Who is Hermann Ebbinghaus?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the name for the detailed recollection of personal events with sensory details",
+        "correctQuestion": "What is episodic memory?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the cognitive phenomenon where seeing a photo can bring back associated emotions",
+        "correctQuestion": "What is emotional congruence (or state-dependent memory)?",
+        "value": 1000
+      },
+      {
+        "clue": "This modern practice involves sharing birthday photos on digital platforms",
+        "correctQuestion": "What is social media sharing?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the scientific term for how our brains link visual images to memories",
+        "correctQuestion": "What is visual encoding?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the memory storage method where photos act as retrieval cues",
+        "correctQuestion": "What is cue-dependent memory?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the positive psychological benefit of reflecting on happy birthday moments",
+        "correctQuestion": "What is well-being (or happiness)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the part of memory that holds information temporarily while viewing photos",
+        "correctQuestion": "What is working memory?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the technique of arranging photos chronologically to track personal growth",
+        "correctQuestion": "What is timeline organization?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological process where emotions strengthen memory formation",
+        "correctQuestion": "What is the amygdala effect (or emotional enhancement)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the memory phenomenon where smells or objects trigger vivid past memories",
+        "correctQuestion": "What is context-dependent memory (or Proustian memory)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the cognitive benefit of creating visual narratives with birthday photos",
+        "correctQuestion": "What is narrative memory?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the research finding that photos help consolidate memories into long-term storage",
+        "correctQuestion": "What is memory consolidation through visual cues?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the process of turning everyday moments into meaningful memories through photography",
+        "correctQuestion": "What is documentation?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological concept that repeated viewing of photos strengthens memories",
+        "correctQuestion": "What is spaced repetition (or memory reinforcement)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what nostalgic birthday photos activate in the brain - reward and memory systems",
+        "correctQuestion": "What are neural networks (or memory and reward pathways)?",
+        "value": 1000
+      }
+    ],
+    "teenagers": [
+      {
+        "clue": "This is the scientific study of how experiences become stored memories in the brain",
+        "correctQuestion": "What is memory formation?",
+        "value": 200
+      },
+      {
+        "clue": "This concept describes personal memories of specific life events you've experienced",
+        "correctQuestion": "What is autobiographical memory?",
+        "value": 200
+      },
+      {
+        "clue": "This is the emotional experience of longing for the past, often triggered by birthday photos",
+        "correctQuestion": "What is nostalgia?",
+        "value": 200
+      },
+      {
+        "clue": "This memory type includes specific events, times, and places from your life",
+        "correctQuestion": "What is episodic memory?",
+        "value": 200
+      },
+      {
+        "clue": "This is the psychological term for the bittersweet feeling when revisiting old memories",
+        "correctQuestion": "What is saudade (or reflective nostalgia)?",
+        "value": 200
+      },
+      {
+        "clue": "This memory research technique uses visual cues like photos to enhance recall",
+        "correctQuestion": "What is photo reminiscence therapy (or photo elicitation)?",
+        "value": 400
+      },
+      {
+        "clue": "This is the brain region crucial for forming and storing episodic memories",
+        "correctQuestion": "What is the hippocampus?",
+        "value": 400
+      },
+      {
+        "clue": "This psychological principle states that strong emotions enhance memory formation",
+        "correctQuestion": "What is emotional enhancement (or emotional congruence theory)?",
+        "value": 400
+      },
+      {
+        "clue": "This is the cognitive process where visual information strengthens memory encoding",
+        "correctQuestion": "What is visual encoding?",
+        "value": 400
+      },
+      {
+        "clue": "This phenomenon describes how looking at a photo can trigger detailed sensory memories",
+        "correctQuestion": "What is image-induced memory retrieval?",
+        "value": 400
+      },
+      {
+        "clue": "This is the act of organizing and interpreting memories into a personal narrative",
+        "correctQuestion": "What is narrative memory (or narrative self)?",
+        "value": 600
+      },
+      {
+        "clue": "This social psychology concept describes how shared memories strengthen group bonds",
+        "correctQuestion": "What is collective memory?",
+        "value": 600
+      },
+      {
+        "clue": "This memory consolidation process occurs when memories move from short to long-term storage",
+        "correctQuestion": "What is systems consolidation?",
+        "value": 600
+      },
+      {
+        "clue": "This neurotransmitter system activates when experiencing nostalgic emotions from photos",
+        "correctQuestion": "What is the dopamine reward system?",
+        "value": 600
+      },
+      {
+        "clue": "This is the cognitive benefit of regularly reviewing and reflecting on birthday memories",
+        "correctQuestion": "What is memory strengthening (or reconsolidation)?",
+        "value": 600
+      },
+      {
+        "clue": "This psychologist researched how emotions and memories intertwine at the neural level",
+        "correctQuestion": "Who is James McGaugh?",
+        "value": 800
+      },
+      {
+        "clue": "This is the phenomenon where details of a memory can change each time you recall it",
+        "correctQuestion": "What is memory reconstruction (or source confusion)?",
+        "value": 800
+      },
+      {
+        "clue": "This brain region is activated when you reflect on past autobiographical events",
+        "correctQuestion": "What is the medial prefrontal cortex (mPFC)?",
+        "value": 800
+      },
+      {
+        "clue": "This memory effect describes how visual details make memories more vivid and accessible",
+        "correctQuestion": "What is the picture superiority effect?",
+        "value": 800
+      },
+      {
+        "clue": "This is the modern phenomenon where digital devices change how we form and store memories",
+        "correctQuestion": "What is the digital memory effect?",
+        "value": 800
+      },
+      {
+        "clue": "This neuroscience researcher studies memory consolidation and the role of sleep",
+        "correctQuestion": "Who is Born?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological state when nostalgia increases meaning in life and social connectedness",
+        "correctQuestion": "What is the psychological benefits of nostalgia?",
+        "value": 1000
+      },
+      {
+        "clue": "This memory phenomenon describes how context-dependent memory retrieval works with photos",
+        "correctQuestion": "What is encoding specificity principle?",
+        "value": 1000
+      },
+      {
+        "clue": "This brain imaging research shows that nostalgic photos activate both memory and reward systems",
+        "correctQuestion": "What is fMRI (functional magnetic resonance imaging)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological concept where repeated retrieval of memories strengthens them",
+        "correctQuestion": "What is retrieval-induced strengthening (or spaced repetition)?",
+        "value": 1000
+      },
+      {
+        "clue": "This neurotransmitter system is involved in the reward response when viewing nostalgic photos",
+        "correctQuestion": "What is the ventral striatum (or reward pathway)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research finding shows that photos with emotional significance are remembered better",
+        "correctQuestion": "What is the emotional enhancement effect?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological mechanism by which photos serve as external memory aids",
+        "correctQuestion": "What is cognitive offloading?",
+        "value": 1000
+      },
+      {
+        "clue": "This memory phenomenon describes how personal stories become integrated with photographs",
+        "correctQuestion": "What is narrative integration (or autobiographical reasoning)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the cognitive skill of reflecting on past experiences to understand personal growth",
+        "correctQuestion": "What is autobiographical reasoning?",
+        "value": 1000
+      },
+      {
+        "clue": "This research shows that viewing photos increases self-continuity and identity stability",
+        "correctQuestion": "What is identity consolidation?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the phenomenon where group photos trigger collective memories and social bonding",
+        "correctQuestion": "What is collective reminiscence?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the psychological process where emotional memories are prioritized in consciousness",
+        "correctQuestion": "What is emotional salience?",
+        "value": 1000
+      },
+      {
+        "clue": "This research area studies how digital photography changes memory formation and storage",
+        "correctQuestion": "What is digital epistemology (or memory in the digital age)?",
+        "value": 1000
+      },
+      {
+        "clue": "This brain mechanism explains why viewing photos can reduce stress and increase well-being",
+        "correctQuestion": "What is the hedonic response (or positive affect)?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the cognitive process of integrating new information with existing autobiographical knowledge",
+        "correctQuestion": "What is memory updating?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "This neuroscience researcher demonstrated that episodic memories are reconstructed rather than replayed",
+        "correctQuestion": "Who is Daniel Schacter?",
+        "value": 200
+      },
+      {
+        "clue": "This psychological concept describes how visual information encodes more effectively than words alone",
+        "correctQuestion": "What is the picture superiority effect?",
+        "value": 200
+      },
+      {
+        "clue": "This is the neurological region that serves as the gateway for forming long-term autobiographical memories",
+        "correctQuestion": "What is the hippocampus?",
+        "value": 200
+      },
+      {
+        "clue": "This phenomenon occurs when reviewing photos and experiencing both positive and reflective emotions",
+        "correctQuestion": "What is bivalent nostalgia?",
+        "value": 200
+      },
+      {
+        "clue": "This memory process describes the integration of new experiences with existing self-knowledge",
+        "correctQuestion": "What is narrative integration?",
+        "value": 200
+      },
+      {
+        "clue": "This research area examines how autobiographical memories shape personal identity and life narrative",
+        "correctQuestion": "What is autobiographical memory research?",
+        "value": 400
+      },
+      {
+        "clue": "This neurotransmitter system is activated during nostalgic reflection and contributes to well-being",
+        "correctQuestion": "What is the opioid system (or endogenous opioids)?",
+        "value": 400
+      },
+      {
+        "clue": "This is the phenomenon where social media changes how we construct and share autobiographical memories",
+        "correctQuestion": "What is digital memory construction?",
+        "value": 400
+      },
+      {
+        "clue": "This psychological concept describes how personal photographs function as external memory storage",
+        "correctQuestion": "What is cognitive offloading (or transactive memory)?",
+        "value": 400
+      },
+      {
+        "clue": "This memory updating mechanism allows us to revise and reintegrate past experiences with current perspective",
+        "correctQuestion": "What is memory reconsolidation?",
+        "value": 400
+      },
+      {
+        "clue": "This research framework explains how nostalgia serves to increase meaning, social connectedness, and self-esteem",
+        "correctQuestion": "What is the social-cognitive neuroscience of nostalgia?",
+        "value": 600
+      },
+      {
+        "clue": "This psychological effect describes how emotional significance enhances both encoding and retrieval of memories",
+        "correctQuestion": "What is the emotional enhancement effect (or amygdala modulation)?",
+        "value": 600
+      },
+      {
+        "clue": "This is the theoretical framework proposing that autobiographical memory is shaped by cultural narratives",
+        "correctQuestion": "What is cultural life script theory?",
+        "value": 600
+      },
+      {
+        "clue": "This memory phenomenon describes how context-dependent cues (like photos) facilitate retrieval",
+        "correctQuestion": "What is state-dependent memory (or encoding specificity)?",
+        "value": 600
+      },
+      {
+        "clue": "This neurotransmitter system, involving the ventral tegmental area, activates during nostalgic reflection",
+        "correctQuestion": "What is the mesolimbic dopamine system?",
+        "value": 600
+      },
+      {
+        "clue": "This contemporary psychologist studies how nostalgia reduces loneliness and increases psychological resilience",
+        "correctQuestion": "Who is Constantine Sedikides?",
+        "value": 800
+      },
+      {
+        "clue": "This research methodology uses personal photographs to elicit detailed autobiographical memories in clinical settings",
+        "correctQuestion": "What is photo elicitation (or reminiscence therapy)?",
+        "value": 800
+      },
+      {
+        "clue": "This memory phenomenon describes how photographs serve as anchors for narrative self-construction",
+        "correctQuestion": "What is narrative anchoring?",
+        "value": 800
+      },
+      {
+        "clue": "This neural mechanism explains why intense emotions associated with birthday memories facilitate consolidation",
+        "correctQuestion": "What is amygdala-mediated enhancement?",
+        "value": 800
+      },
+      {
+        "clue": "This is the phenomenon where personal photos facilitate the integration of experience into autobiographical memory",
+        "correctQuestion": "What is memory scaffolding?",
+        "value": 800
+      },
+      {
+        "clue": "This neuroscientist's research demonstrates that the hippocampus replays memories during sleep, strengthening them",
+        "correctQuestion": "Who is Jean-Pascal Guérin (or Born)?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological construct describes how nostalgia facilitates meaning-making and existential coherence",
+        "correctQuestion": "What is existential function of nostalgia?",
+        "value": 1000
+      },
+      {
+        "clue": "This memory updating mechanism allows traumatic or painful birthday memories to be emotionally reprocessed",
+        "correctQuestion": "What is fear extinction learning (or memory reconsolidation)?",
+        "value": 1000
+      },
+      {
+        "clue": "This framework explains how autobiographical reasoning develops across the lifespan through memory narrative integration",
+        "correctQuestion": "What is lifespan developmental theory of autobiographical memory?",
+        "value": 1000
+      },
+      {
+        "clue": "This phenomenon occurs when photographs serve as both cues for memory retrieval and triggers for emotional congruence",
+        "correctQuestion": "What is dual-mode memory activation?",
+        "value": 1000
+      },
+      {
+        "clue": "This research area examines how digital photography alters the phenomenology of memory consolidation",
+        "correctQuestion": "What is digital epistemology (or mediated remembering)?",
+        "value": 1000
+      },
+      {
+        "clue": "This neural network, including the mPFC and precuneus, activates during self-referential nostalgic processing",
+        "correctQuestion": "What is the default mode network (DMN)?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological benefit of nostalgia is documented as reducing existential anxiety and death awareness",
+        "correctQuestion": "What is mortality salience buffering?",
+        "value": 1000
+      },
+      {
+        "clue": "This memory phenomenon describes the selective consolidation of emotionally congruent details",
+        "correctQuestion": "What is emotional filtering (or mood-congruent memory)?",
+        "value": 1000
+      },
+      {
+        "clue": "This research demonstrates that narrative integration of life experiences through reminiscence enhances psychological continuity",
+        "correctQuestion": "What is narrative coherence?",
+        "value": 1000
+      },
+      {
+        "clue": "This phenomenon occurs when nostalgia-induced reward activation reinforces autobiographical identity",
+        "correctQuestion": "What is reward-mediated identity consolidation?",
+        "value": 1000
+      },
+      {
+        "clue": "This neurotransmitter system's activation explains the social bonding effects of shared nostalgic birthday memories",
+        "correctQuestion": "What is the oxytocin-vasopressin system?",
+        "value": 1000
+      },
+      {
+        "clue": "This memory research area studies how extended family narratives shape individual autobiographical memory architecture",
+        "correctQuestion": "What is intergenerational memory transmission?",
+        "value": 1000
+      },
+      {
+        "clue": "This phenomenon describes how nostalgia-induced reflection facilitates meaning-making in life narratives",
+        "correctQuestion": "What is existential reflection (or reflective nostalgia)?",
+        "value": 1000
+      },
+      {
+        "clue": "This neural process explains how retrieval of emotional memories strengthens them through reconsolidation",
+        "correctQuestion": "What is emotional replay strengthening?",
+        "value": 1000
+      },
+      {
+        "clue": "This research framework integrates neuroscience and psychology to explain the multifaceted benefits of nostalgic reflection",
+        "correctQuestion": "What is the integrated model of nostalgia?",
+        "value": 1000
+      }
+    ],
+    "seniors": [
+      {
+        "clue": "This neuroscientist's foundational work established that autobiographical memories undergo continuous reconstruction",
+        "correctQuestion": "Who is Daniel L. Schacter?",
+        "value": 200
+      },
+      {
+        "clue": "This is the psychological construct describing a lifelong narrative that integrates experiences into identity",
+        "correctQuestion": "What is autobiographical narrative?",
+        "value": 200
+      },
+      {
+        "clue": "This brain region, vulnerable to aging, is essential for retrieving episodic memories of past birthdays",
+        "correctQuestion": "What is the hippocampus?",
+        "value": 200
+      },
+      {
+        "clue": "This memory phenomenon describes how nostalgic reflection can both uplift and trigger bittersweet emotions",
+        "correctQuestion": "What is bivalent nostalgia (or mixed-emotion nostalgia)?",
+        "value": 200
+      },
+      {
+        "clue": "This therapeutic approach uses personal photographs to facilitate memory recall and emotional expression",
+        "correctQuestion": "What is reminiscence therapy (or life review therapy)?",
+        "value": 200
+      },
+      {
+        "clue": "This research finding demonstrates that life review through photographs enhances psychological well-being in older adults",
+        "correctQuestion": "What is the therapeutic benefit of reminiscence?",
+        "value": 400
+      },
+      {
+        "clue": "This neural mechanism explains how emotional content from birthday photos is prioritized in memory consolidation",
+        "correctQuestion": "What is amygdala-hippocampal interaction?",
+        "value": 400
+      },
+      {
+        "clue": "This is the phenomenon where reviewing photographs across the lifespan reinforces narrative coherence and identity",
+        "correctQuestion": "What is autobiographical continuity?",
+        "value": 400
+      },
+      {
+        "clue": "This memory updating process allows the integration of new meaning with established autobiographical experiences",
+        "correctQuestion": "What is memory reconsolidation (or integrative reappraisal)?",
+        "value": 400
+      },
+      {
+        "clue": "This research demonstrates that intergenerational sharing of family birthday photos strengthens bonding and legacy",
+        "correctQuestion": "What is transgenerational memory transmission?",
+        "value": 400
+      },
+      {
+        "clue": "This psychological construct describes nostalgia's role in affirming meaning, continuity, and self-worth across the lifespan",
+        "correctQuestion": "What is existential function of nostalgia?",
+        "value": 600
+      },
+      {
+        "clue": "This cognitive mechanism explains the reminiscence bump - why middle-aged people have enhanced memories of adolescent birthdays",
+        "correctQuestion": "What is the reminiscence bump phenomenon?",
+        "value": 600
+      },
+      {
+        "clue": "This therapeutic technique uses life review of photographs to facilitate ego integrity in later life",
+        "correctQuestion": "What is Erikson's life review process?",
+        "value": 600
+      },
+      {
+        "clue": "This neural network activation during nostalgia includes the medial prefrontal cortex and posterior cingulate cortex",
+        "correctQuestion": "What is default mode network (DMN) activity?",
+        "value": 600
+      },
+      {
+        "clue": "This memory phenomenon describes how context-dependent retrieval of nostalgic photos activates embodied emotional experience",
+        "correctQuestion": "What is embodied cognition (or somatic memory)?",
+        "value": 600
+      },
+      {
+        "clue": "This contemporary researcher studies the social-cognitive neuroscience of how nostalgia reduces loneliness in aging",
+        "correctQuestion": "Who is Constantine Sedikides?",
+        "value": 800
+      },
+      {
+        "clue": "This memory mechanism explains why reminiscing about past birthday celebrations buffers against existential anxiety",
+        "correctQuestion": "What is terror management theory application?",
+        "value": 800
+      },
+      {
+        "clue": "This is the phenomenon where personal photograph albums serve as external cognitive prosthetics, preserving memories as cognitive reserve declines",
+        "correctQuestion": "What is cognitive scaffolding (or extended mind theory)?",
+        "value": 800
+      },
+      {
+        "clue": "This neurotransmitter system's decline with age is partially offset by the reward activation from nostalgic photo review",
+        "correctQuestion": "What is dopamine system compensation?",
+        "value": 800
+      },
+      {
+        "clue": "This research framework explains how narrative integration of lifetime experiences through photographs maintains identity despite cognitive aging",
+        "correctQuestion": "What is narrative gerontology?",
+        "value": 800
+      },
+      {
+        "clue": "This pioneering gerontologist established that reminiscence and life review are essential developmental tasks in later life",
+        "correctQuestion": "Who is Robert Butler?",
+        "value": 1000
+      },
+      {
+        "clue": "This psychological mechanism demonstrates that nostalgia-induced reflection increases sense of meaning and continuity in advanced age",
+        "correctQuestion": "What is legacy formation (or generativity spillover)?",
+        "value": 1000
+      },
+      {
+        "clue": "This memory phenomenon, known as the reminiscence bump, shows that early adulthood birthdays remain emotionally vivid across decades",
+        "correctQuestion": "What is the reminiscence bump in autobiographical memory?",
+        "value": 1000
+      },
+      {
+        "clue": "This therapeutic application of photo reminiscence has demonstrated efficacy in reducing cognitive decline and depression in dementia",
+        "correctQuestion": "What is reminiscence therapy for dementia care?",
+        "value": 1000
+      },
+      {
+        "clue": "This neural network involves orbitofrontal cortex and ventral striatum activation during reward from nostalgic photo processing",
+        "correctQuestion": "What is emotion regulation and reward integration network?",
+        "value": 1000
+      },
+      {
+        "clue": "This research finding demonstrates that the integrative autobiographical reasoning capacity peaks in healthy aging with cognitive stimulation",
+        "correctQuestion": "What is crystallized intelligence preservation?",
+        "value": 1000
+      },
+      {
+        "clue": "This phenomenon describes how shared family photo albums facilitate intergenerational narrative continuity and wisdom transmission",
+        "correctQuestion": "What is transgenerational storytelling?",
+        "value": 1000
+      },
+      {
+        "clue": "This memory mechanism explains the paradox that detailed birthday memories often become more emotionally significant with time",
+        "correctQuestion": "What is selective memory enhancement (or emotional strengthening over time)?",
+        "value": 1000
+      },
+      {
+        "clue": "This neuroscience research shows that nostalgic photo review activates social bonding pathways including the insula and ACC",
+        "correctQuestion": "What is social-affective brain network activation?",
+        "value": 1000
+      },
+      {
+        "clue": "This developmental theory proposes that life narrative coherence, reinforced through reminiscence, predicts healthy aging outcomes",
+        "correctQuestion": "What is narrative coherence theory in successful aging?",
+        "value": 1000
+      },
+      {
+        "clue": "This phenomenon describes how the process of legacy-building through family photos creates meaning that transcends mortality salience",
+        "correctQuestion": "What is existential meaning-making through memory?",
+        "value": 1000
+      },
+      {
+        "clue": "This therapeutic model integrates reminiscence, life review, and intergenerational storytelling for optimal aging outcomes",
+        "correctQuestion": "What is comprehensive life story work?",
+        "value": 1000
+      },
+      {
+        "clue": "This research demonstrates that regular engagement with nostalgic memories through photographs predicts higher life satisfaction in advanced age",
+        "correctQuestion": "What is memory engagement as health determinant?",
+        "value": 1000
+      },
+      {
+        "clue": "This phenomenon describes how identity consistency, maintained through autobiographical memory and reminiscence, protects against existential anxiety",
+        "correctQuestion": "What is narrative identity stability?",
+        "value": 1000
+      },
+      {
+        "clue": "This neurotransmitter system's activation during nostalgic reflection of birthday memories promotes social cohesion and reduces isolation",
+        "correctQuestion": "What is the oxytocin-vasopressin prosocial pathway?",
+        "value": 1000
+      },
+      {
+        "clue": "This lifespan approach recognizes that successful aging requires continued autobiographical integration and meaningful reminiscence engagement",
+        "correctQuestion": "What is positive aging through narrative continuity?",
+        "value": 1000
+      }
+    ]
+  }
+}

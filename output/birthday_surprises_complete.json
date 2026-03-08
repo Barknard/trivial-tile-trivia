@@ -1,0 +1,925 @@
+{
+  "category": "Birthday Surprises",
+  "theme": "birthday",
+  "category_id": "birthday_surprises",
+  "research_basis": "Emotional psychology of surprise (expectation violations, brain network dynamics), theory of mind and secret planning (recursive mental models, deception calibration), gift-giving psychology (dopamine/anticipation, oxytocin/bonding), social planning (coordination theory, information asymmetry), developmental psychology (false belief understanding, surprise as belief-emotion)",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "A party where you don't know it's happening until people yell this word",
+        "correctQuestion": "What is surprise?",
+        "value": 200
+      },
+      {
+        "clue": "You hide to jump out and do this when the birthday person arrives",
+        "correctQuestion": "What is shout surprise?",
+        "value": 200
+      },
+      {
+        "clue": "A present you didn't know about until someone gives it to you",
+        "correctQuestion": "What is a surprise gift?",
+        "value": 200
+      },
+      {
+        "clue": "Friends keep a secret to do this kind of party for you",
+        "correctQuestion": "What is a surprise party?",
+        "value": 200
+      },
+      {
+        "clue": "When you don't expect something happy and then it happens, you feel this way",
+        "correctQuestion": "What is surprised or happy?",
+        "value": 200
+      },
+      {
+        "clue": "You feel butterflies in your stomach when you wait for this to happen",
+        "correctQuestion": "What is a surprise?",
+        "value": 400
+      },
+      {
+        "clue": "Friends hide together before you arrive to do this",
+        "correctQuestion": "What is plan a surprise?",
+        "value": 400
+      },
+      {
+        "clue": "You open a wrapped box without knowing what's inside - this is the",
+        "correctQuestion": "What is surprise unwrapping?",
+        "value": 400
+      },
+      {
+        "clue": "When someone doesn't know about your party, you keep this secret",
+        "correctQuestion": "What is the surprise?",
+        "value": 400
+      },
+      {
+        "clue": "You feel this emotion when something unexpected and wonderful happens",
+        "correctQuestion": "What is joy or happiness?",
+        "value": 400
+      },
+      {
+        "clue": "Your face does this when you're shocked but happy",
+        "correctQuestion": "What is smile or look surprised?",
+        "value": 600
+      },
+      {
+        "clue": "Friends work together to keep this hidden until your birthday",
+        "correctQuestion": "What is the surprise party?",
+        "value": 600
+      },
+      {
+        "clue": "You don't expect something, but then it appears - that's the",
+        "correctQuestion": "What is reveal or surprise?",
+        "value": 600
+      },
+      {
+        "clue": "The best moment of a surprise party is when everyone does this together",
+        "correctQuestion": "What is yell surprise?",
+        "value": 600
+      },
+      {
+        "clue": "Your heart beats fast because your brain thinks this might happen",
+        "correctQuestion": "What is something unexpected?",
+        "value": 600
+      },
+      {
+        "clue": "When you hide from the birthday person, you're practicing this kind of planning",
+        "correctQuestion": "What is secret planning?",
+        "value": 200
+      },
+      {
+        "clue": "Streamers, balloons, and confetti are types of party this",
+        "correctQuestion": "What are decorations?",
+        "value": 200
+      },
+      {
+        "clue": "The person who keeps the biggest secret about the party is the",
+        "correctQuestion": "What is the party planner?",
+        "value": 400
+      },
+      {
+        "clue": "When everyone runs out and yells, it's time for this kind of party",
+        "correctQuestion": "What is a surprise party?",
+        "value": 600
+      },
+      {
+        "clue": "You have to do this to your mouth to not tell the surprise",
+        "correctQuestion": "What is keep it closed or zip it?",
+        "value": 400
+      },
+      {
+        "clue": "Candles on a cake represent these, and blowing them out is birthday tradition",
+        "correctQuestion": "What are wishes or years?",
+        "value": 200
+      },
+      {
+        "clue": "When you get a surprise gift, your eyes probably do this wide",
+        "correctQuestion": "What is open?",
+        "value": 200
+      },
+      {
+        "clue": "A cake with candles and singing happens at this kind of party",
+        "correctQuestion": "What is a birthday party?",
+        "value": 200
+      },
+      {
+        "clue": "Your mouth probably makes this shape when you're really surprised",
+        "correctQuestion": "What is an O or circle?",
+        "value": 400
+      },
+      {
+        "clue": "Friends hide and wait to do this when birthday person comes home",
+        "correctQuestion": "What is jump out or surprise them?",
+        "value": 400
+      },
+      {
+        "clue": "When you don't know what a wrapped box contains, this is",
+        "correctQuestion": "What is the mystery or surprise?",
+        "value": 400
+      },
+      {
+        "clue": "A party where everyone already knows it's happening is the opposite of this",
+        "correctQuestion": "What is a surprise party?",
+        "value": 600
+      },
+      {
+        "clue": "When the gift is wrapped, you can't do this until it's opened",
+        "correctQuestion": "What is see inside?",
+        "value": 200
+      },
+      {
+        "clue": "The person whose birthday it is should not know about the party to make it this",
+        "correctQuestion": "What is a surprise?",
+        "value": 400
+      },
+      {
+        "clue": "A surprise party needs lots of this from everyone to stay secret",
+        "correctQuestion": "What is help or teamwork?",
+        "value": 600
+      },
+      {
+        "clue": "When you see a gift box with a bow, you probably feel this before opening it",
+        "correctQuestion": "What is excitement?",
+        "value": 200
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "In psychology, your brain releases this chemical when you anticipate good things",
+        "correctQuestion": "What is dopamine?",
+        "value": 200
+      },
+      {
+        "clue": "When you plan a surprise, you must do this to keep others from knowing",
+        "correctQuestion": "What is keep it secret?",
+        "value": 200
+      },
+      {
+        "clue": "A surprise works best when the birthday person has this false belief about their day",
+        "correctQuestion": "What is thinking nothing special is happening?",
+        "value": 200
+      },
+      {
+        "clue": "Your brain is more active in these areas when you receive an unexpected reward",
+        "correctQuestion": "What is reward and pleasure centers?",
+        "value": 200
+      },
+      {
+        "clue": "Before a surprise reveal, you feel this - the good kind of nervous anticipation",
+        "correctQuestion": "What is excitement?",
+        "value": 200
+      },
+      {
+        "clue": "People who anticipate happy things show this many more percent less depression",
+        "correctQuestion": "What is significantly higher (or lower rates)?",
+        "value": 400
+      },
+      {
+        "clue": "To keep a surprise secret, friends must work together using this type of planning",
+        "correctQuestion": "What is coordinated planning?",
+        "value": 400
+      },
+      {
+        "clue": "When you get an unexpected gift, your body releases this bonding hormone along with dopamine",
+        "correctQuestion": "What is oxytocin?",
+        "value": 400
+      },
+      {
+        "clue": "The feeling you get waiting for a surprise is almost as good as this",
+        "correctQuestion": "What is receiving it?",
+        "value": 400
+      },
+      {
+        "clue": "Your brain predicts that something will happen, and when it doesn't, you feel this emotion",
+        "correctQuestion": "What is surprise?",
+        "value": 400
+      },
+      {
+        "clue": "The memory of a surprise gift lasts longer than one you expected - this happens in your",
+        "correctQuestion": "What is the brain?",
+        "value": 600
+      },
+      {
+        "clue": "Studies show that giving a surprise activates your brain's reward system, producing this 'high'",
+        "correctQuestion": "What is helper's high?",
+        "value": 600
+      },
+      {
+        "clue": "To successfully deceive someone about a surprise, you need to understand this about them",
+        "correctQuestion": "What is their thoughts or what they believe?",
+        "value": 600
+      },
+      {
+        "clue": "When planning a secret surprise, you create this false scenario to misdirect the person",
+        "correctQuestion": "What is an alibi or cover story?",
+        "value": 600
+      },
+      {
+        "clue": "A surprise reveals something that violates this - your expectations",
+        "correctQuestion": "What are expectations?",
+        "value": 600
+      },
+      {
+        "clue": "To give someone a surprise gift, you need to wrap it in this",
+        "correctQuestion": "What is wrapping paper?",
+        "value": 200
+      },
+      {
+        "clue": "Your friends need to organize and this to pull off a surprise party",
+        "correctQuestion": "What is coordinate?",
+        "value": 400
+      },
+      {
+        "clue": "The best way to keep someone from finding out about a party is to tell them this",
+        "correctQuestion": "What is a lie or a cover story?",
+        "value": 600
+      },
+      {
+        "clue": "When your friends plan something in secret, they use this kind of communication",
+        "correctQuestion": "What is private or secret messages?",
+        "value": 600
+      },
+      {
+        "clue": "A gift is more fun when you don't know what's inside, so this makes it special",
+        "correctQuestion": "What is the surprise or not knowing?",
+        "value": 600
+      },
+      {
+        "clue": "Your face looks different when you're surprised than when you expected something - it shows this",
+        "correctQuestion": "What is shock or astonishment?",
+        "value": 400
+      },
+      {
+        "clue": "When you wait for a surprise party, time feels like it goes this way",
+        "correctQuestion": "What is slow?",
+        "value": 400
+      },
+      {
+        "clue": "The moment a surprise is revealed, people usually do this action together",
+        "correctQuestion": "What is cheer or clap?",
+        "value": 400
+      },
+      {
+        "clue": "The best place to hide supplies for a surprise party is somewhere the person won't do this",
+        "correctQuestion": "What is go or look?",
+        "value": 200
+      },
+      {
+        "clue": "When you keep a surprise secret from someone, you're using this kind of information control",
+        "correctQuestion": "What is deception or withholding?",
+        "value": 400
+      },
+      {
+        "clue": "The moment when the person finds out about the party is called the",
+        "correctQuestion": "What is the reveal or reveal moment?",
+        "value": 600
+      },
+      {
+        "clue": "Your heart rate probably does this before a surprise happens",
+        "correctQuestion": "What is increases?",
+        "value": 400
+      },
+      {
+        "clue": "A wrapped present feels good because you wonder what's inside - this is",
+        "correctQuestion": "What is curiosity or anticipation?",
+        "value": 400
+      },
+      {
+        "clue": "When friends work together to keep something secret, they need this quality",
+        "correctQuestion": "What is trust?",
+        "value": 600
+      },
+      {
+        "clue": "A surprise gift is extra special because it shows you didn't this about the person",
+        "correctQuestion": "What is plan or expect?",
+        "value": 600
+      },
+      {
+        "clue": "Keeping a surprise secret requires you to avoid accidentally this to someone",
+        "correctQuestion": "What is tell or reveal?",
+        "value": 400
+      },
+      {
+        "clue": "The anticipation before a gift reveal creates this emotional state of suspense",
+        "correctQuestion": "What is suspense or tension?",
+        "value": 400
+      }
+    ],
+    "teens_15_under": [
+      {
+        "clue": "The neuroscience principle that dopamine release is about the pursuit of the reward, not the reward itself",
+        "correctQuestion": "What is anticipatory reward?",
+        "value": 200
+      },
+      {
+        "clue": "Surprise requires holding two contradictory beliefs - you expected X but reality is Y; this is studied in",
+        "correctQuestion": "What is theory of mind?",
+        "value": 200
+      },
+      {
+        "clue": "Research shows unexpected gifts given outside holidays are rated this much more meaningful",
+        "correctQuestion": "What is significantly more (or substantially)?",
+        "value": 200
+      },
+      {
+        "clue": "When planning a surprise, participants must maintain this model of the target's mental state",
+        "correctQuestion": "What is a false belief model?",
+        "value": 200
+      },
+      {
+        "clue": "The brain's surprise response network successfully predicts expectation violations across these contexts",
+        "correctQuestion": "What are different contexts or settings?",
+        "value": 200
+      },
+      {
+        "clue": "In information theory, keeping a surprise secret requires managing this asymmetry between planners and target",
+        "correctQuestion": "What is information asymmetry?",
+        "value": 400
+      },
+      {
+        "clue": "Theory of mind about surprise developed in children around age six after they understand this concept",
+        "correctQuestion": "What is false beliefs?",
+        "value": 400
+      },
+      {
+        "clue": "The recursive theory of mind required to plan a surprise involves understanding what the target thinks you think about",
+        "correctQuestion": "What is their beliefs about the party?",
+        "value": 400
+      },
+      {
+        "clue": "Gift-giving psychology shows that both givers and receivers experience activation of this motivational system",
+        "correctQuestion": "What is the reward system?",
+        "value": 400
+      },
+      {
+        "clue": "Surprise requires a mismatch between your prediction and the actual outcome - this triggers this neural signature",
+        "correctQuestion": "What is prediction error?",
+        "value": 400
+      },
+      {
+        "clue": "Social deception in planning surprises requires calibrating your lies based on whether your target is this type of agent",
+        "correctQuestion": "What is a rational or utility-maximizing agent?",
+        "value": 600
+      },
+      {
+        "clue": "The specific neural network that predicts surprise across contexts includes this prediction-related system",
+        "correctQuestion": "What is the default mode network?",
+        "value": 600
+      },
+      {
+        "clue": "Children with stronger theory of mind abilities were observed to deceive how much more often in studies",
+        "correctQuestion": "What is significantly more often?",
+        "value": 600
+      },
+      {
+        "clue": "In game theory, successful surprise planning requires this kind of strategic information management",
+        "correctQuestion": "What is Bayesian reasoning?",
+        "value": 600
+      },
+      {
+        "clue": "Surprise is considered this type of emotion because it requires holding a different belief from reality",
+        "correctQuestion": "What is a belief-based emotion?",
+        "value": 600
+      },
+      {
+        "clue": "When planning a surprise, you must track what the target believes versus what is actually true - this is studying",
+        "correctQuestion": "What is theory of mind?",
+        "value": 200
+      },
+      {
+        "clue": "A successful surprise party requires this among all the planners so the secret is maintained",
+        "correctQuestion": "What is coordination or agreement?",
+        "value": 400
+      },
+      {
+        "clue": "Neuroscience shows that the memory formed by a surprise gift involves this region better than expected gifts",
+        "correctQuestion": "What is the hippocampus?",
+        "value": 600
+      },
+      {
+        "clue": "The feeling of anticipation before a surprise is driven by your brain expecting this",
+        "correctQuestion": "What is reward?",
+        "value": 200
+      },
+      {
+        "clue": "To deceive someone about a surprise, you must understand and manipulate their this",
+        "correctQuestion": "What is their mental model or expectations?",
+        "value": 600
+      },
+      {
+        "clue": "The facial expression of surprise is considered universal across cultures - it shows this",
+        "correctQuestion": "What is a genuine reaction?",
+        "value": 400
+      },
+      {
+        "clue": "When you plan a surprise, you're engaging in this kind of social cognition about the target person",
+        "correctQuestion": "What is mentalizing?",
+        "value": 600
+      },
+      {
+        "clue": "Research shows surprise gifts are more memorable because the brain encodes this more strongly",
+        "correctQuestion": "What is the unexpected or novel element?",
+        "value": 400
+      },
+      {
+        "clue": "The phenomenon where you imagine the recipient's face when giving a surprise is engaging this system",
+        "correctQuestion": "What is prospection or future imagination?",
+        "value": 600
+      },
+      {
+        "clue": "When planning a surprise, you must maintain two models simultaneously: reality and what the target",
+        "correctQuestion": "What is believes?",
+        "value": 400
+      },
+      {
+        "clue": "The biological purpose of surprise is to generate this type of response when threats emerge unexpectedly",
+        "correctQuestion": "What is orienting response?",
+        "value": 600
+      },
+      {
+        "clue": "Surprising someone with a gift increases their sense of connection through this psychological mechanism",
+        "correctQuestion": "What is perceived thoughtfulness?",
+        "value": 400
+      },
+      {
+        "clue": "Secret party coordination fails when planners breach this about the surprise",
+        "correctQuestion": "What is information control or secrecy?",
+        "value": 200
+      },
+      {
+        "clue": "The emotional boost from receiving a surprise follows this principle of expectancy violation",
+        "correctQuestion": "What is positive prediction error?",
+        "value": 600
+      },
+      {
+        "clue": "To successfully keep a secret surprise, all planners must exhibit this property toward the target",
+        "correctQuestion": "What is consistent deception or unified false belief?",
+        "value": 800
+      },
+      {
+        "clue": "Surprise parties work partly because they hijack your attentional capacity with this mechanism",
+        "correctQuestion": "What is misdirection?",
+        "value": 400
+      },
+      {
+        "clue": "The intensity of surprise emotion is proportional to this property of the expectancy violation",
+        "correctQuestion": "What is the magnitude of the prediction error?",
+        "value": 600
+      },
+      {
+        "clue": "When surprises trigger strong memories, the brain is creating this type of memory trace",
+        "correctQuestion": "What is an episodic memory?",
+        "value": 400
+      },
+      {
+        "clue": "Surprise deception in party planning requires maintaining this property across multiple interactions",
+        "correctQuestion": "What is behavioral consistency or pattern matching?",
+        "value": 600
+      },
+      {
+        "clue": "The emotional intensity of a surprise is modulated by this factor about the gift's desirability",
+        "correctQuestion": "What is relevance or personal importance?",
+        "value": 400
+      }
+    ],
+    "adults_18": [
+      {
+        "clue": "The ventral striatum's dopamine response to gift-giving is stronger during this phase than during actual receipt",
+        "correctQuestion": "What is anticipation or planning?",
+        "value": 200
+      },
+      {
+        "clue": "Surprise as an emotion requires recursive mental modeling - you must understand the target holds this about reality",
+        "correctQuestion": "What is a false belief?",
+        "value": 200
+      },
+      {
+        "clue": "In multiagent systems, surprise planning requires agents to employ this type of reasoning about each other's utilities",
+        "correctQuestion": "What is adversarial Bayesian reasoning?",
+        "value": 200
+      },
+      {
+        "clue": "The helper's high phenomenon in gift-givers is neurochemically mediated by these two systems",
+        "correctQuestion": "What is the reward and altruism networks?",
+        "value": 200
+      },
+      {
+        "clue": "Expectation violations that produce surprise engage this region's prediction error signal",
+        "correctQuestion": "What is the anterior insula?",
+        "value": 200
+      },
+      {
+        "clue": "Theory of mind engagement increases specifically when there's this kind of mismatch in social cognition",
+        "correctQuestion": "What is affective-situational mismatch?",
+        "value": 400
+      },
+      {
+        "clue": "Gift-giving psychology demonstrates that simple planning to spend money activates these brain regions before spending occurs",
+        "correctQuestion": "What are altruism and happiness regions?",
+        "value": 400
+      },
+      {
+        "clue": "The information theory of deception shows that rational skepticism emerges when utilities are this between agents",
+        "correctQuestion": "What is misaligned?",
+        "value": 400
+      },
+      {
+        "clue": "Unexpected rewards show enhanced activation in the striatum compared to expected ones - this is called",
+        "correctQuestion": "What is the dopamine prediction error?",
+        "value": 400
+      },
+      {
+        "clue": "Children's ability to use others' surprise reactions as evidence of competence develops through this capacity",
+        "correctQuestion": "What is theory of mind or belief reasoning?",
+        "value": 400
+      },
+      {
+        "clue": "The surprise planning network in the brain includes this system responsible for tracking others' mental states",
+        "correctQuestion": "What is the mentalizing network or temporo-parietal junction?",
+        "value": 600
+      },
+      {
+        "clue": "In recursive theory of mind, a successful surprise requires you model the target's model of your intentions about",
+        "correctQuestion": "What is their birthday?",
+        "value": 600
+      },
+      {
+        "clue": "The oxytocin release from gift-giving correlates with this behavioral outcome in relationships",
+        "correctQuestion": "What is increased bonding or prosocial behavior?",
+        "value": 600
+      },
+      {
+        "clue": "Strategic deception in surprise planning operates through this principle: lies are calibrated based on target rationality",
+        "correctQuestion": "What is Bayesian pragmatics or cooperative communication theory?",
+        "value": 600
+      },
+      {
+        "clue": "The anterior cingulate cortex's response to violated expectations characterizes this type of prediction signal",
+        "correctQuestion": "What is conflict or error monitoring?",
+        "value": 600
+      },
+      {
+        "clue": "The mesocorticolimbic reward system in surprise processing involves the ventral tegmental area releasing this neurotransmitter",
+        "correctQuestion": "What is dopamine?",
+        "value": 200
+      },
+      {
+        "clue": "In social coordination of secret surprise planning, planners must create and maintain this type of shared belief",
+        "correctQuestion": "What is common knowledge?",
+        "value": 400
+      },
+      {
+        "clue": "The neural integration of surprise involves a dialogue between prediction and this affective system",
+        "correctQuestion": "What is the limbic system?",
+        "value": 600
+      },
+      {
+        "clue": "Surprise gift-giving increases long-term relationship investment through this hormonal mechanism alongside dopamine",
+        "correctQuestion": "What is oxytocin signaling?",
+        "value": 600
+      },
+      {
+        "clue": "The strategic deception in surprise planning requires modeling this property of the target's inference algorithm",
+        "correctQuestion": "What is their rationality assumption?",
+        "value": 600
+      },
+      {
+        "clue": "Successful surprise party organization requires managing this across multiple independent agents",
+        "correctQuestion": "What is information asymmetry?",
+        "value": 200
+      },
+      {
+        "clue": "The orbitofrontal cortex integrates this during reward anticipation in surprise gift-giving",
+        "correctQuestion": "What is value and incentive salience?",
+        "value": 800
+      },
+      {
+        "clue": "Multiagent surprise coordination leverages this principle to prevent information leakage to the target",
+        "correctQuestion": "What is need-to-know basis communication?",
+        "value": 400
+      },
+      {
+        "clue": "The prefrontal cortex's activation during surprise planning reflects engagement of this executive function",
+        "correctQuestion": "What is working memory or cognitive control?",
+        "value": 600
+      },
+      {
+        "clue": "Reward anticipation in surprise gift-giving activates the same pathways as this addictive behavior",
+        "correctQuestion": "What is drug anticipation?",
+        "value": 800
+      },
+      {
+        "clue": "The strategic layer of surprise deception requires modeling the target's model of your model - this is",
+        "correctQuestion": "What is third-order theory of mind?",
+        "value": 800
+      },
+      {
+        "clue": "Secret coordination among planners implements this principle: mutual information about the target is minimized",
+        "correctQuestion": "What is information compartmentalization?",
+        "value": 600
+      },
+      {
+        "clue": "The neural circuit for surprise involves integration of limbic affect with this cortical predictive system",
+        "correctQuestion": "What is the default mode network?",
+        "value": 800
+      },
+      {
+        "clue": "Successful surprise planning requires agents to synchronize their false belief about the target's knowledge state through",
+        "correctQuestion": "What is explicit communication or planning?",
+        "value": 600
+      },
+      {
+        "clue": "The biochemical trace of a surprise experience in memory involves these molecular modifications to chromatin",
+        "correctQuestion": "What is histone modifications?",
+        "value": 800
+      },
+      {
+        "clue": "The social bonding effect of surprise gift-giving relies on this signal of genuine care",
+        "correctQuestion": "What is costly signaling?",
+        "value": 600
+      },
+      {
+        "clue": "Surprise party coordination among planners must implement this property to prevent mutual suspicion",
+        "correctQuestion": "What is mutual commitment or shared intent?",
+        "value": 400
+      }
+    ],
+    "experts": [
+      {
+        "clue": "The dual-process theory of surprise distinguishes between this fast evaluation and slower belief updating",
+        "correctQuestion": "What is automatic affect versus deliberate cognition?",
+        "value": 200
+      },
+      {
+        "clue": "In information-theoretic frameworks of deception, mutual distortion emerges when both agents exhibit this property",
+        "correctQuestion": "What is recursive skepticism based on misaligned utilities?",
+        "value": 200
+      },
+      {
+        "clue": "Surprise neuroimaging shows activation across these networks, suggesting it integrates expectation, emotion, and theory of mind",
+        "correctQuestion": "What are prediction, affective, and mentalizing networks?",
+        "value": 200
+      },
+      {
+        "clue": "The neurochemical cascade of gift-giving involves dopamine for motivation and this transmitter for bonding",
+        "correctQuestion": "What is oxytocin?",
+        "value": 200
+      },
+      {
+        "clue": "In game-theoretic models of surprise deception, agents employ this strategy to maintain information asymmetry",
+        "correctQuestion": "What is strategic information revelation?",
+        "value": 200
+      },
+      {
+        "clue": "The developmental progression of surprise understanding requires this specific cognitive achievement at age six",
+        "correctQuestion": "What is the false belief test or understanding that others have beliefs different from reality?",
+        "value": 400
+      },
+      {
+        "clue": "Expectation violation theories propose that surprise magnitude correlates with this measure of the prediction error",
+        "correctQuestion": "What is the Kullback-Leibler divergence between expected and actual distributions?",
+        "value": 400
+      },
+      {
+        "clue": "In social deception research, this principle describes how deceivers calibrate their false statements to target comprehension",
+        "correctQuestion": "What is audience design theory?",
+        "value": 400
+      },
+      {
+        "clue": "The mentalizing system shows increased engagement when processing surprise because it requires this type of inference",
+        "correctQuestion": "What is belief attribution across agent boundaries?",
+        "value": 400
+      },
+      {
+        "clue": "Anticipatory dopamine in gift-giving reflects this computational process in reinforcement learning frameworks",
+        "correctQuestion": "What is temporal difference learning?",
+        "value": 400
+      },
+      {
+        "clue": "Secret planning requires maintaining this asymptotic property of information states across distributed agents",
+        "correctQuestion": "What is information partition refinement?",
+        "value": 600
+      },
+      {
+        "clue": "The multi-agent surprise deception model shows this emerges from theory of mind plus misaligned reward functions",
+        "correctQuestion": "What is strategic distortion and skepticism?",
+        "value": 600
+      },
+      {
+        "clue": "Surprise as a belief-based emotion uniquely requires representing this cross-agent property",
+        "correctQuestion": "What is the mismatch between one agent's belief state and objective reality?",
+        "value": 600
+      },
+      {
+        "clue": "In coordination theory, successful surprise party planning requires this type of common knowledge among planners",
+        "correctQuestion": "What is common knowledge of the secret?",
+        "value": 600
+      },
+      {
+        "clue": "The neural signature of surprise integrates Bayesian surprise (KL divergence) with this affective dimension",
+        "correctQuestion": "What is emotional valence or hedonic tone?",
+        "value": 600
+      },
+      {
+        "clue": "Research on gift-giving demonstrates that planning activates the same neural substrate as this altruistic behavior",
+        "correctQuestion": "What is prosocial spending or charitable giving?",
+        "value": 800
+      },
+      {
+        "clue": "The recursive model of mind in surprise deception extends to this depth: I know that you know that I'm hiding",
+        "correctQuestion": "What is second-order or recursive depth-2 theory of mind?",
+        "value": 800
+      },
+      {
+        "clue": "In Bayesian frameworks, surprise involves computing this function of the model likelihood given the observed data",
+        "correctQuestion": "What is the log odds ratio or Bayes factor?",
+        "value": 800
+      },
+      {
+        "clue": "Secret planning networks must implement this communication protocol to maintain information asymmetry without detection",
+        "correctQuestion": "What is covert signaling or code switching?",
+        "value": 800
+      },
+      {
+        "clue": "The theory of mind system shows enhanced response to surprise because it requires this specific representational format",
+        "correctQuestion": "What is nested mental attitude structures or propositional attitude hierarchies?",
+        "value": 800
+      },
+      {
+        "clue": "In computational surprise models, this metric quantifies the information gain from observing unexpected events",
+        "correctQuestion": "What is mutual information?",
+        "value": 200
+      },
+      {
+        "clue": "The affective dimension of surprise surprise integrates with prediction error signals through this neural hub",
+        "correctQuestion": "What is the amygdala?",
+        "value": 400
+      },
+      {
+        "clue": "Secret surprise planning implements this principle from distributed systems to maintain consistency across planners",
+        "correctQuestion": "What is the consensus protocol?",
+        "value": 600
+      },
+      {
+        "clue": "The hierarchical model of deception in surprise coordination extends to this level of recursive modeling",
+        "correctQuestion": "What is depth-n theory of mind?",
+        "value": 800
+      },
+      {
+        "clue": "Surprise-triggered memory consolidation involves this synaptic mechanism that strengthens unexpected associations",
+        "correctQuestion": "What is long-term potentiation?",
+        "value": 800
+      },
+      {
+        "clue": "In information theory, the entropy reduction from planning a surprise represents this computational property",
+        "correctQuestion": "What is information asymmetry reduction?",
+        "value": 600
+      },
+      {
+        "clue": "The temporo-parietal junction's activation during surprise processing supports this cognitive function",
+        "correctQuestion": "What is perspective-taking or mentalizing?",
+        "value": 400
+      },
+      {
+        "clue": "Surprise deception networks employ this game-theoretic strategy to maintain plausible deniability",
+        "correctQuestion": "What is mixed strategy equilibrium?",
+        "value": 800
+      },
+      {
+        "clue": "The anterior insula's prediction error signal in surprise integrates these two dimensions",
+        "correctQuestion": "What is salience and expectancy?",
+        "value": 600
+      },
+      {
+        "clue": "Multi-agent surprise planning requires this type of reasoning about knowledge states across agents",
+        "correctQuestion": "What is epistemic reasoning or knowledge reasoning?",
+        "value": 400
+      },
+      {
+        "clue": "The neurogenetic basis of surprise involves this transmitter system affecting memory trace consolidation",
+        "correctQuestion": "What is the noradrenergic system?",
+        "value": 800
+      },
+      {
+        "clue": "In recursive deception models, the depth of reasoning required increases with this property",
+        "correctQuestion": "What is the cognitive sophistication of the target?",
+        "value": 600
+      },
+      {
+        "clue": "Surprise party coordination requires agents to maintain this type of invariant across all planning stages",
+        "correctQuestion": "What is information secrecy invariant?",
+        "value": 800
+      },
+      {
+        "clue": "The predictive processing framework models surprise as arising from this mathematical function",
+        "correctQuestion": "What is the free energy principle?",
+        "value": 800
+      },
+      {
+        "clue": "The neuromodulatory cascade triggered by surprise involves this system affecting attentional resource allocation",
+        "correctQuestion": "What is the cholinergic system?",
+        "value": 800
+      },
+      {
+        "clue": "In Bayesian cognitive science, surprise party planning implements this framework to manage belief state divergence",
+        "correctQuestion": "What is hierarchical Bayesian inference?",
+        "value": 200
+      },
+      {
+        "clue": "The transcranial stimulation studies on surprise show this neural population critical for expectation comparison",
+        "correctQuestion": "What is the anterior insula prediction error neurons?",
+        "value": 800
+      },
+      {
+        "clue": "Secret gift coordination requires agents to implement this type of protocol to ensure information privacy",
+        "correctQuestion": "What is end-to-end encryption or secure messaging?",
+        "value": 600
+      },
+      {
+        "clue": "The phenomenological character of anticipatory joy arises from this cognitive simulation mechanism",
+        "correctQuestion": "What is episodic future thinking?",
+        "value": 800
+      },
+      {
+        "clue": "Multiagent surprise coordination implements this topological property of communication networks",
+        "correctQuestion": "What is network modularity or compartmentalization?",
+        "value": 800
+      },
+      {
+        "clue": "The recursive model of targeted deception in surprise involves this bounded rationality assumption",
+        "correctQuestion": "What is limited cognitive resources or computational bounds?",
+        "value": 600
+      },
+      {
+        "clue": "Surprise-induced memory consolidation involves this protein synthesis-dependent process in the hippocampus",
+        "correctQuestion": "What is immediate early gene expression?",
+        "value": 800
+      },
+      {
+        "clue": "In formal epistemology, successful surprise party planning requires agents to maintain this property",
+        "correctQuestion": "What is common ground or mutual belief?",
+        "value": 600
+      },
+      {
+        "clue": "The ventral tegmental area's dopamine response to anticipated gifts shows this temporal pattern",
+        "correctQuestion": "What is ramping activity before and at expected reward time?",
+        "value": 800
+      },
+      {
+        "clue": "Information-theoretic analysis of surprise deception networks shows this equilibrium property",
+        "correctQuestion": "What is symmetric information hiding or mutual opacity?",
+        "value": 800
+      },
+      {
+        "clue": "The posterior parietal cortex's role in surprise planning involves this visuospatial representation",
+        "correctQuestion": "What is other minds or agent-centered perspective space?",
+        "value": 400
+      },
+      {
+        "clue": "Surprise coordination among planners exploits this complexity class property to prevent detection",
+        "correctQuestion": "What is polynomial-time bounded verification?",
+        "value": 800
+      },
+      {
+        "clue": "The striatal dopamine gradient in surprise gift-giving follows this computational model of reinforcement",
+        "correctQuestion": "What is the temporal difference learning model?",
+        "value": 200
+      },
+      {
+        "clue": "Multiagent surprise planning requires maintaining this property in shared mental models across planners",
+        "correctQuestion": "What is consistency or coherence?",
+        "value": 600
+      },
+      {
+        "clue": "The integration of theory of mind with valuation systems in surprise party planning operates through this cortical hub",
+        "correctQuestion": "What is the ventromedial prefrontal cortex?",
+        "value": 600
+      }
+    ]
+  },
+  "additional_research_notes": {
+    "emotional_psychology": "Surprise is both a cognitive state (violation of expectations/prediction error) and an emotional state (valenced response). Recent neuroscience shows the brain's prediction error signals (anterior insula, prediction networks) integrate with affective systems, activating both reward regions and mentalizing networks. The phenomenology of anticipatory joy (waiting for surprise) produces dopamine release that is neurochemically distinct from the dopamine response to actual receipt - the anticipation itself is a primary source of hedonic value.",
+    "theory_of_mind": "Successful surprise planning requires recursive theory of mind: planners must understand that the target holds a false belief about their birthday, AND they must continuously model whether the target might infer the truth. Research on multiagent deception shows that rational agents equipped with theory of mind automatically calibrate their deceptions based on assumptions about target rationality. Surprise as an emotion uniquely requires holding contradictory beliefs - it is quintessentially a belief-based emotion dependent on understanding false belief states.",
+    "gift_psychology": "Gift-giving activates two distinct reward systems: (1) The hedonic/dopamine system responds to the pleasure of giving itself, even before the recipient knows about the gift. (2) The oxytocin system mediates bonding and prosocial sentiment. Importantly, unexpected gifts trigger stronger dopamine response than expected gifts because of the prediction error signal. This means surprise wrapping and secret giving produce measurably greater neural reward than transparent gift-giving.",
+    "social_planning": "Surprise party coordination requires managing information asymmetries across teams of planners. Game-theoretic analysis shows that rational agents with misaligned utilities will engage in strategic information hiding. Successful surprise planning requires this to be undetectable by the target - the planners must maintain common knowledge among themselves while preventing the target from inferring any breach in the false belief they're maintaining.",
+    "research_citations": "Brain network dynamics (PubMed 39715875), Children's surprise-based competence inference (Stanford), Theory of mind and emotional mismatch (Springer Affective Science 2025), Multiagent deception and skepticism (OpenReview/MIT Open Mind), Gift-giving neuroscience (University of Arizona), Anticipatory dopamine and mood (Six Seconds), False belief development in surprise understanding (developmental psychology literature), Bayesian pragmatics of deception (cognitive science)"
+  }
+}

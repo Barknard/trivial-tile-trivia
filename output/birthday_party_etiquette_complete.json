@@ -1,0 +1,918 @@
+{
+  "category": "Birthday Party Etiquette",
+  "theme": "birthday",
+  "category_id": "birthday_party_etiquette",
+  "research_basis": "Social norms and etiquette education (Emily Post Institute, etiquette guides), prosocial behavior development, social awareness and relationship skills (SEL framework), host-guest social contracts, age-appropriate party behavior expectations, gift-giving customs, gratitude norms, conflict resolution in social settings",
+  "audiences": {
+    "kids_4_under": [
+      {
+        "clue": "When a friend is opening a present, you should watch and feel happy instead of this",
+        "correctQuestion": "What is being sad or upset?",
+        "value": 200
+      },
+      {
+        "clue": "Before eating cake at a party, you should say these two words to the host",
+        "correctQuestion": "What is 'thank you'?",
+        "value": 200
+      },
+      {
+        "clue": "If you don't like the food at a party, you should still be polite and try this",
+        "correctQuestion": "What is a small bite or taste?",
+        "value": 200
+      },
+      {
+        "clue": "When you arrive at a birthday party, you should say hello instead of this",
+        "correctQuestion": "What is ignore the host?",
+        "value": 200
+      },
+      {
+        "clue": "If another child is sad at the party, a good friend would do this",
+        "correctQuestion": "What is cheer them up or make them smile?",
+        "value": 200
+      },
+      {
+        "clue": "When singing happy birthday, you should use your voice to join in, not this",
+        "correctQuestion": "What is refuse to sing or be silent?",
+        "value": 400
+      },
+      {
+        "clue": "If you break something at someone's birthday party, you should tell them instead of this",
+        "correctQuestion": "What is hide it or pretend it wasn't you?",
+        "value": 400
+      },
+      {
+        "clue": "Good party guests wait their turn instead of doing this during games",
+        "correctQuestion": "What is pushing, shoving, or cutting in line?",
+        "value": 400
+      },
+      {
+        "clue": "When your friend gets more cake than you, the kind thing is to feel this",
+        "correctQuestion": "What is happy for them?",
+        "value": 400
+      },
+      {
+        "clue": "If you don't win a party game, good sports don't do this",
+        "correctQuestion": "What is cry, pout, or get angry?",
+        "value": 400
+      },
+      {
+        "clue": "When leaving a birthday party, you should give the birthday child this",
+        "correctQuestion": "What is a hug or say goodbye?",
+        "value": 600
+      },
+      {
+        "clue": "If a friend invites you to their party, the polite thing is to tell them yes or no, not this",
+        "correctQuestion": "What is ignore the invitation or not decide?",
+        "value": 600
+      },
+      {
+        "clue": "A good guest shares toys and snacks instead of being this",
+        "correctQuestion": "What is greedy or selfish?",
+        "value": 600
+      },
+      {
+        "clue": "When the birthday child's parent asks you to help, you should do this",
+        "correctQuestion": "What is help or say yes?",
+        "value": 600
+      },
+      {
+        "clue": "If you spill juice at the party, you should help clean it up instead of this",
+        "correctQuestion": "What is leave it or ignore it?",
+        "value": 600
+      },
+      {
+        "clue": "The polite way to ask for more food at a party is to say 'please' and use these manners",
+        "correctQuestion": "What is raise your hand or wait your turn?",
+        "value": 800
+      },
+      {
+        "clue": "If another child is playing alone, the kind thing to do is invite them to do this",
+        "correctQuestion": "What is play with you?",
+        "value": 800
+      },
+      {
+        "clue": "When someone gives you a gift at the party, you should immediately say these words",
+        "correctQuestion": "What is 'thank you'?",
+        "value": 800
+      },
+      {
+        "clue": "A good party guest listens to the rules of games instead of doing this",
+        "correctQuestion": "What is ignoring them or doing whatever they want?",
+        "value": 800
+      },
+      {
+        "clue": "If you need to leave early, you should tell the host instead of just this",
+        "correctQuestion": "What is disappear or sneak away?",
+        "value": 800
+      },
+      {
+        "clue": "The right way to ask a friend to play is to use this kind voice",
+        "correctQuestion": "What is a nice or polite voice?",
+        "value": 1000
+      },
+      {
+        "clue": "If you feel shy at a party, you should try to do this even though it's hard",
+        "correctQuestion": "What is talk to someone or make a friend?",
+        "value": 1000
+      },
+      {
+        "clue": "When the birthday child is opening gifts, you show respect by staying quiet and doing this",
+        "correctQuestion": "What is watching politely or paying attention?",
+        "value": 1000
+      },
+      {
+        "clue": "A considerate guest doesn't do this while eating party food with their mouth full",
+        "correctQuestion": "What is talk or laugh loudly?",
+        "value": 1000
+      },
+      {
+        "clue": "If you make a mistake at the party, the honest thing is to say this",
+        "correctQuestion": "What is 'I'm sorry'?",
+        "value": 1000
+      },
+      {
+        "clue": "Good party manners mean using your hands for eating instead of using these",
+        "correctQuestion": "What is your face or getting messy?",
+        "value": 1000
+      },
+      {
+        "clue": "If another guest is being mean, you should tell this person immediately",
+        "correctQuestion": "What is a grown-up, parent, or teacher?",
+        "value": 1000
+      },
+      {
+        "clue": "When you receive a gift you already have, the polite response is still to say this",
+        "correctQuestion": "What is 'thank you'?",
+        "value": 1000
+      },
+      {
+        "clue": "A kind guest remembers to do this before and after eating at a party",
+        "correctQuestion": "What is wash your hands?",
+        "value": 1000
+      },
+      {
+        "clue": "If you want seconds of food, the polite thing to do is ask instead of doing this",
+        "correctQuestion": "What is taking it without asking?",
+        "value": 1000
+      }
+    ],
+    "kids_10_under": [
+      {
+        "clue": "When you receive a birthday invitation, you should respond to this person by this time",
+        "correctQuestion": "What is the host/parent within a week?",
+        "value": 200
+      },
+      {
+        "clue": "The appropriate amount of time to arrive after the party starts is within this many minutes",
+        "correctQuestion": "What is 10-15 minutes?",
+        "value": 200
+      },
+      {
+        "clue": "If you cannot attend a birthday party, you should inform the host in this manner",
+        "correctQuestion": "What is politely in person or by phone/email?",
+        "value": 200
+      },
+      {
+        "clue": "A guest should bring this type of gift unless the invitation specifically says otherwise",
+        "correctQuestion": "What is a present or wrapped gift?",
+        "value": 200
+      },
+      {
+        "clue": "When the birthday child opens your gift, you should feel this regardless of their reaction",
+        "correctQuestion": "What is happy that they received it?",
+        "value": 200
+      },
+      {
+        "clue": "The appropriate behavior when losing a party game is to be this kind of sport",
+        "correctQuestion": "What is a good sport?",
+        "value": 400
+      },
+      {
+        "clue": "If you don't like a food served at the party, you should do this instead of complaining",
+        "correctQuestion": "What is politely decline or eat what you like?",
+        "value": 400
+      },
+      {
+        "clue": "When you spill something at someone else's party, you should immediately offer to do this",
+        "correctQuestion": "What is help clean it up?",
+        "value": 400
+      },
+      {
+        "clue": "A considerate guest should not bring these uninvited items to someone else's party",
+        "correctQuestion": "What is pets or friends not on the list?",
+        "value": 400
+      },
+      {
+        "clue": "If you have a food allergy, you should tell the host about it in this way",
+        "correctQuestion": "What is before the party or when you arrive?",
+        "value": 400
+      },
+      {
+        "clue": "The polite time frame to send a thank-you note after a party is within this many weeks",
+        "correctQuestion": "What is one to two weeks?",
+        "value": 600
+      },
+      {
+        "clue": "When a friend is showing off an achievement, the supportive response is to do this",
+        "correctQuestion": "What is congratulate them or be happy for them?",
+        "value": 600
+      },
+      {
+        "clue": "If you accidentally bump into someone at a party, you should immediately say this",
+        "correctQuestion": "What is 'excuse me' or 'I'm sorry'?",
+        "value": 600
+      },
+      {
+        "clue": "A host's responsibility includes making guests feel this way when they arrive",
+        "correctQuestion": "What is welcome or comfortable?",
+        "value": 600
+      },
+      {
+        "clue": "If you're too shy to participate in party games, the host should offer you this",
+        "correctQuestion": "What is the option to sit out or join later?",
+        "value": 600
+      },
+      {
+        "clue": "When the birthday child receives more gifts than you do, the appropriate feeling is this",
+        "correctQuestion": "What is happiness for them?",
+        "value": 800
+      },
+      {
+        "clue": "If you forget to bring a gift, you should do this instead of nothing",
+        "correctQuestion": "What is apologize or send a gift later?",
+        "value": 800
+      },
+      {
+        "clue": "The proper way to ask for seconds of cake is to say this to the host",
+        "correctQuestion": "What is 'May I please have another piece?'?",
+        "value": 800
+      },
+      {
+        "clue": "If another guest is being unkind, you should do this rather than ignore it",
+        "correctQuestion": "What is tell a grown-up or move away?",
+        "value": 800
+      },
+      {
+        "clue": "A host should check for these before planning party food and activities",
+        "correctQuestion": "What is allergies and dietary restrictions?",
+        "value": 800
+      },
+      {
+        "clue": "When leaving a party early, you should notify the host this way",
+        "correctQuestion": "What is in person before you go?",
+        "value": 1000
+      },
+      {
+        "clue": "The considerate guest doesn't monopolize the birthday child's attention, but shares them with these people",
+        "correctQuestion": "What is other guests?",
+        "value": 1000
+      },
+      {
+        "clue": "If you break something at the party, the honest and responsible thing is to do this",
+        "correctQuestion": "What is immediately tell the host?",
+        "value": 1000
+      },
+      {
+        "clue": "A proper thank-you note should specifically mention this about what the host or gift-giver did",
+        "correctQuestion": "What is the specific gift or how the party was fun?",
+        "value": 1000
+      },
+      {
+        "clue": "When playing competitive games, a good host ensures all guests feel this regardless of winning",
+        "correctQuestion": "What is valued or included?",
+        "value": 1000
+      },
+      {
+        "clue": "If you don't know other guests at the party, the host should facilitate this for you",
+        "correctQuestion": "What is introductions?",
+        "value": 1000
+      },
+      {
+        "clue": "The respectful behavior during the birthday candle moment is to do this",
+        "correctQuestion": "What is sing happy birthday and watch quietly?",
+        "value": 1000
+      },
+      {
+        "clue": "If invited to multiple parties on the same day, you should do this before accepting",
+        "correctQuestion": "What is check your schedule or prioritize?",
+        "value": 1000
+      },
+      {
+        "clue": "A considerate guest should not discuss these types of topics at a children's birthday party",
+        "correctQuestion": "What is scary, inappropriate, or mean topics?",
+        "value": 1000
+      },
+      {
+        "clue": "The appropriate response when your friend gets a gift you were hoping for is this",
+        "correctQuestion": "What is to be happy for them?",
+        "value": 1000
+      }
+    ],
+    "teens": [
+      {
+        "clue": "The standard timeline for responding to a birthday party invitation is within this timeframe",
+        "correctQuestion": "What is 1-2 weeks in advance?",
+        "value": 200
+      },
+      {
+        "clue": "The appropriate price range for a birthday gift for a peer is typically between these amounts",
+        "correctQuestion": "What is $15-$30?",
+        "value": 200
+      },
+      {
+        "clue": "If you RSVP yes to a party and then want to cancel, you should do this",
+        "correctQuestion": "What is notify the host as soon as possible?",
+        "value": 200
+      },
+      {
+        "clue": "The polite arrival window for a birthday party starts at this time relative to the invitation",
+        "correctQuestion": "What is on time or up to 15 minutes late?",
+        "value": 200
+      },
+      {
+        "clue": "When attending someone's birthday party, you should avoid bringing these uninvited guests",
+        "correctQuestion": "What is friends not on the invitation?",
+        "value": 200
+      },
+      {
+        "clue": "If you have dietary restrictions, you should inform the host in this manner and timeframe",
+        "correctQuestion": "What is before the party when RSVPing?",
+        "value": 400
+      },
+      {
+        "clue": "A thank-you note for a birthday gift should be sent within this timeframe",
+        "correctQuestion": "What is one to two weeks?",
+        "value": 400
+      },
+      {
+        "clue": "The respectful behavior when the birthday person opens gifts is to do this",
+        "correctQuestion": "What is watch attentively and congratulate them?",
+        "value": 400
+      },
+      {
+        "clue": "If you accidentally break something at the party, your first responsibility is to do this",
+        "correctQuestion": "What is tell the host immediately?",
+        "value": 400
+      },
+      {
+        "clue": "When a host serves food you don't like, the appropriate response is to do this",
+        "correctQuestion": "What is politely accept a small portion or decline gracefully?",
+        "value": 400
+      },
+      {
+        "clue": "A host's key responsibility is to ensure guests feel this throughout the party",
+        "correctQuestion": "What is welcomed and included?",
+        "value": 600
+      },
+      {
+        "clue": "The appropriate behavior when you're not winning a party competition is to display this attitude",
+        "correctQuestion": "What is good sportsmanship?",
+        "value": 600
+      },
+      {
+        "clue": "If you feel uncomfortable at a party, you should communicate this to the host in this way",
+        "correctQuestion": "What is honestly and respectfully?",
+        "value": 600
+      },
+      {
+        "clue": "When someone gives you a gift, you should acknowledge it in this manner even if it's not perfect",
+        "correctQuestion": "What is graciously thank them?",
+        "value": 600
+      },
+      {
+        "clue": "A thoughtful host provides this for guests with dietary restrictions or preferences",
+        "correctQuestion": "What is alternative food options?",
+        "value": 600
+      },
+      {
+        "clue": "If you want to leave a party early, the proper protocol is to do this",
+        "correctQuestion": "What is tell the host in person before you go?",
+        "value": 800
+      },
+      {
+        "clue": "The considerate guest does not monopolize the host's time, but allows them to do this",
+        "correctQuestion": "What is spend time with other guests?",
+        "value": 800
+      },
+      {
+        "clue": "When attending a birthday party, you should avoid these behaviors that disrupt the event",
+        "correctQuestion": "What is excessive phone use, loud behavior, or excluding others?",
+        "value": 800
+      },
+      {
+        "clue": "A good host ensures the party includes activities that accommodate guests with these",
+        "correctQuestion": "What is different interests and abilities?",
+        "value": 800
+      },
+      {
+        "clue": "If invited to a party you decide not to attend, you should communicate this in this timeframe",
+        "correctQuestion": "What is as soon as possible?",
+        "value": 800
+      },
+      {
+        "clue": "The appropriate response when you receive a gift duplicate or something you don't want is this",
+        "correctQuestion": "What is still express gratitude?",
+        "value": 1000
+      },
+      {
+        "clue": "A respectful guest refrains from bringing these items to someone else's party without permission",
+        "correctQuestion": "What is pets, substances, or weapons?",
+        "value": 1000
+      },
+      {
+        "clue": "If the birthday person seems upset or overwhelmed, a considerate guest should do this",
+        "correctQuestion": "What is offer support or give them space?",
+        "value": 1000
+      },
+      {
+        "clue": "When hosting a birthday party, you should make special effort to include guests who might otherwise be this",
+        "correctQuestion": "What is left out or excluded?",
+        "value": 1000
+      },
+      {
+        "clue": "The thoughtful guest respects the host's rules regarding these aspects of the party",
+        "correctQuestion": "What is timing, activities, location boundaries, and guest behavior?",
+        "value": 1000
+      },
+      {
+        "clue": "If you notice conflict between guests at a party, the appropriate action is to do this",
+        "correctQuestion": "What is alert the host or try to resolve it calmly?",
+        "value": 1000
+      },
+      {
+        "clue": "A proper thank-you note should include appreciation for these specific elements",
+        "correctQuestion": "What is the specific gift, the party theme, or specific activities you enjoyed?",
+        "value": 1000
+      },
+      {
+        "clue": "When posting about the party on social media, you should do this first",
+        "correctQuestion": "What is ask permission from the birthday person or host?",
+        "value": 1000
+      },
+      {
+        "clue": "The respectful behavior during party photos is to do this without resistance",
+        "correctQuestion": "What is smile and participate?",
+        "value": 1000
+      },
+      {
+        "clue": "If a host forgets something during the party, a considerate guest should offer to do this",
+        "correctQuestion": "What is help or assist?",
+        "value": 1000
+      }
+    ],
+    "adults": [
+      {
+        "clue": "The standard protocol for responding to a birthday party invitation is within this timeframe",
+        "correctQuestion": "What is 1-2 weeks before the event?",
+        "value": 200
+      },
+      {
+        "clue": "The appropriate gift budget for a peer's birthday party is typically between these amounts",
+        "correctQuestion": "What is $25-$50?",
+        "value": 200
+      },
+      {
+        "clue": "If you RSVP as a guest and cannot attend, you should notify the host with this much notice",
+        "correctQuestion": "What is as soon as possible (at least several days)?",
+        "value": 200
+      },
+      {
+        "clue": "The appropriate arrival time for a birthday party is within these minutes of the stated time",
+        "correctQuestion": "What is 10-15 minutes late or exactly on time?",
+        "value": 200
+      },
+      {
+        "clue": "When attending a birthday party, you should avoid bringing these without explicit permission",
+        "correctQuestion": "What is plus-ones, children, or pets?",
+        "value": 200
+      },
+      {
+        "clue": "For a formal birthday celebration, the appropriate attire is this type of dress",
+        "correctQuestion": "What is business casual, cocktail attire, or formal wear (depending on invitation)?",
+        "value": 400
+      },
+      {
+        "clue": "If you have dietary restrictions, you should communicate this to the host in this timeframe",
+        "correctQuestion": "What is when you RSVP or well in advance?",
+        "value": 400
+      },
+      {
+        "clue": "A thank-you note for a birthday gift should arrive within this timeframe",
+        "correctQuestion": "What is 1-2 weeks after the gift is received?",
+        "value": 400
+      },
+      {
+        "clue": "The appropriate behavior when the birthday person opens gifts is to do this",
+        "correctQuestion": "What is watch attentively and offer genuine congratulations?",
+        "value": 400
+      },
+      {
+        "clue": "If you accidentally damage something at the host's home, your responsibility is to do this",
+        "correctQuestion": "What is immediately inform the host and offer to repair or replace it?",
+        "value": 400
+      },
+      {
+        "clue": "A host's primary responsibility is to ensure guests experience this throughout the event",
+        "correctQuestion": "What is comfort, inclusion, and enjoyment?",
+        "value": 600
+      },
+      {
+        "clue": "When hosting a birthday party, you should provide information about these practical details",
+        "correctQuestion": "What is parking, dress code, timing, and location details?",
+        "value": 600
+      },
+      {
+        "clue": "The respectful behavior when you don't like the food served is to do this",
+        "correctQuestion": "What is politely accept and eat what you can?",
+        "value": 600
+      },
+      {
+        "clue": "If you need to leave a party early, the proper etiquette is to do this",
+        "correctQuestion": "What is discreetly tell the host before departing?",
+        "value": 600
+      },
+      {
+        "clue": "A thoughtful host ensures the party accommodates guests with these considerations",
+        "correctQuestion": "What is dietary restrictions, mobility needs, or other accessibility requirements?",
+        "value": 600
+      },
+      {
+        "clue": "When attending a birthday party, you should avoid discussing these topics",
+        "correctQuestion": "What is politics, controversial issues, or negative personal matters?",
+        "value": 800
+      },
+      {
+        "clue": "The appropriate response when you receive a gift you don't want or already own is this",
+        "correctQuestion": "What is graciously thank the giver regardless?",
+        "value": 800
+      },
+      {
+        "clue": "A considerate guest respects the host's boundaries regarding these party elements",
+        "correctQuestion": "What is ending time, location limitations, and guest parameters?",
+        "value": 800
+      },
+      {
+        "clue": "If you're bringing a romantic partner or spouse, you should do this when RSVPing",
+        "correctQuestion": "What is ask if they're invited or ask if you may bring them?",
+        "value": 800
+      },
+      {
+        "clue": "When hosting a milestone birthday, you should prepare guests for this type of moment",
+        "correctQuestion": "What is emotional reactions, toasts, or reflective moments?",
+        "value": 800
+      },
+      {
+        "clue": "The professional approach when attending a work-related birthday celebration is to do this",
+        "correctQuestion": "What is maintain professionalism while being friendly and warm?",
+        "value": 1000
+      },
+      {
+        "clue": "If you notice tension between guests at your party, the host's responsibility is to do this",
+        "correctQuestion": "What is diplomatically manage the situation or redirect conversation?",
+        "value": 1000
+      },
+      {
+        "clue": "A proper thank-you note should include acknowledgment of these specific details",
+        "correctQuestion": "What is the thoughtfulness of the host, specific gifts, and details you appreciated?",
+        "value": 1000
+      },
+      {
+        "clue": "When posting photos from a birthday party on social media, you should do this first",
+        "correctQuestion": "What is obtain permission from the birthday person and other guests?",
+        "value": 1000
+      },
+      {
+        "clue": "The considerate behavior regarding gift receipts is to do this",
+        "correctQuestion": "What is discreetly check and keep for exchanges if needed?",
+        "value": 1000
+      },
+      {
+        "clue": "If hosting a destination birthday party, you should clearly communicate whether this is expected",
+        "correctQuestion": "What is if guests should cover their own travel costs?",
+        "value": 1000
+      },
+      {
+        "clue": "A guest should avoid bringing these to a birthday party unless requested by the host",
+        "correctQuestion": "What is uninvited friends, plus-ones, or children?",
+        "value": 1000
+      },
+      {
+        "clue": "The appropriate behavior when receiving a gift that requires expression of preference is to do this",
+        "correctQuestion": "What is express gratitude first, then gently communicate preferences if appropriate?",
+        "value": 1000
+      },
+      {
+        "clue": "When hosting a surprise party, the organizer should be mindful of the birthday person's these qualities",
+        "correctQuestion": "What is comfort level with surprises and public attention?",
+        "value": 1000
+      },
+      {
+        "clue": "A respectful host acknowledges these contributions from guests who help with party preparation",
+        "correctQuestion": "What is thank them sincerely, verbally and in writing?",
+        "value": 1000
+      }
+    ],
+    "mixed_audiences": [
+      {
+        "clue": "When receiving a birthday invitation, the first step in etiquette is to do this",
+        "correctQuestion": "What is respond with your attendance status promptly?",
+        "value": 200
+      },
+      {
+        "clue": "The universal rule for birthday party guests is to bring this unless told otherwise",
+        "correctQuestion": "What is a gift?",
+        "value": 200
+      },
+      {
+        "clue": "A considerate guest avoids arriving more than this many minutes early to a birthday party",
+        "correctQuestion": "What is 5-10 minutes?",
+        "value": 200
+      },
+      {
+        "clue": "The respectful behavior when you don't know other party guests is to do this",
+        "correctQuestion": "What is introduce yourself and be friendly?",
+        "value": 200
+      },
+      {
+        "clue": "A host's fundamental responsibility is to make guests feel this way",
+        "correctQuestion": "What is welcome?",
+        "value": 200
+      },
+      {
+        "clue": "If you're unable to attend a birthday party, the polite action is to do this",
+        "correctQuestion": "What is notify the host and explain why?",
+        "value": 400
+      },
+      {
+        "clue": "The appropriate way to acknowledge someone's birthday gift is to say these words",
+        "correctQuestion": "What is 'thank you'?",
+        "value": 400
+      },
+      {
+        "clue": "Party guests should never discuss these types of sensitive topics",
+        "correctQuestion": "What is politics, controversial issues, or personal drama?",
+        "value": 400
+      },
+      {
+        "clue": "The key to being a good party guest is to display this attitude toward the host",
+        "correctQuestion": "What is respect and appreciation?",
+        "value": 400
+      },
+      {
+        "clue": "When hosting a birthday party, you should ensure guests have access to these necessities",
+        "correctQuestion": "What is restrooms, water, seating, and entertainment?",
+        "value": 400
+      },
+      {
+        "clue": "The appropriate behavior during the singing of happy birthday is to do this",
+        "correctQuestion": "What is sing along and celebrate?",
+        "value": 600
+      },
+      {
+        "clue": "A considerate guest respects the timing of the party and doesn't stay this long after it ends",
+        "correctQuestion": "What is lingering for hours or overstaying?",
+        "value": 600
+      },
+      {
+        "clue": "The primary reason for thank-you notes is to express this emotion",
+        "correctQuestion": "What is gratitude?",
+        "value": 600
+      },
+      {
+        "clue": "If you're uncomfortable with attention at your birthday party, you should communicate this to the host in this way",
+        "correctQuestion": "What is honestly and early?",
+        "value": 600
+      },
+      {
+        "clue": "Party hosts should plan activities that are inclusive to guests with these types of differences",
+        "correctQuestion": "What is varying ages, abilities, and interests?",
+        "value": 600
+      },
+      {
+        "clue": "A party guest demonstrates good manners by helping the host in these ways",
+        "correctQuestion": "What is offering assistance, cleaning up, and following house rules?",
+        "value": 800
+      },
+      {
+        "clue": "The considerate approach to party conflicts is to address them in this manner",
+        "correctQuestion": "What is calmly and respectfully?",
+        "value": 800
+      },
+      {
+        "clue": "When the birthday person opens your gift, you should react in this way regardless of their response",
+        "correctQuestion": "What is graciously and positively?",
+        "value": 800
+      },
+      {
+        "clue": "A proper thank-you note should be written in this type of format",
+        "correctQuestion": "What is handwritten or a genuine personal message?",
+        "value": 800
+      },
+      {
+        "clue": "Party hosts should be prepared to accommodate these dietary concerns",
+        "correctQuestion": "What is allergies, vegetarian/vegan, and cultural preferences?",
+        "value": 800
+      },
+      {
+        "clue": "The mark of a truly considerate guest is remembering to do this at the end of the party",
+        "correctQuestion": "What is thank the host in person?",
+        "value": 1000
+      },
+      {
+        "clue": "When hosting, you should acknowledge these contributions throughout the party",
+        "correctQuestion": "What is gifts received, well-wishes, and guest attendance?",
+        "value": 1000
+      },
+      {
+        "clue": "The appropriate response to learning about a birthday party you weren't invited to is this",
+        "correctQuestion": "What is to not take offense and move forward?",
+        "value": 1000
+      },
+      {
+        "clue": "A guest should avoid bringing these items to a party without asking permission",
+        "correctQuestion": "What is alcohol, large groups, or uninvited plus-ones?",
+        "value": 1000
+      },
+      {
+        "clue": "When party dynamics become tense, the responsible behavior is to do this",
+        "correctQuestion": "What is help de-escalate or notify the host?",
+        "value": 1000
+      },
+      {
+        "clue": "The fundamental etiquette rule for all birthday celebrations is to prioritize these values",
+        "correctQuestion": "What is respect, gratitude, and inclusivity?",
+        "value": 1000
+      },
+      {
+        "clue": "If you break something at the party, immediate honesty involves telling the host this",
+        "correctQuestion": "What is what broke and offering to repair/replace it?",
+        "value": 1000
+      },
+      {
+        "clue": "A host demonstrates care by asking guests about these preferences in advance",
+        "correctQuestion": "What is dietary needs, mobility requirements, and comfort concerns?",
+        "value": 1000
+      },
+      {
+        "clue": "The considerate guest does this when the birthday person discusses their accomplishments",
+        "correctQuestion": "What is listen attentively and offer genuine congratulations?",
+        "value": 1000
+      },
+      {
+        "clue": "The essence of good party etiquette for everyone is to remember this core principle",
+        "correctQuestion": "What is treating others with kindness and respect?",
+        "value": 1000
+      },
+      {
+        "clue": "When hosting a themed birthday party, guests should respect this by following the dress code or theme",
+        "correctQuestion": "What is dressing appropriately for the theme?",
+        "value": 200
+      },
+      {
+        "clue": "If a guest has a serious food allergy, the host should take this precaution",
+        "correctQuestion": "What is asking detailed questions about the allergy and providing safe options?",
+        "value": 200
+      },
+      {
+        "clue": "The appropriate behavior when receiving a cash gift is to do this initially",
+        "correctQuestion": "What is thank the giver sincerely?",
+        "value": 200
+      },
+      {
+        "clue": "If you're hosting during a time of mourning, guests should show respect by doing this",
+        "correctQuestion": "What is keeping the celebration modest and respectful?",
+        "value": 200
+      },
+      {
+        "clue": "A host should ensure games and activities are inclusive by avoiding those that might cause this",
+        "correctQuestion": "What is embarrassment or exclusion?",
+        "value": 200
+      },
+      {
+        "clue": "When a guest makes a mistake or social blunder, the considerate response is to do this",
+        "correctQuestion": "What is ignore it gracefully or help them feel comfortable?",
+        "value": 400
+      },
+      {
+        "clue": "If the party has a gift registry, guests should ideally select from it to do this",
+        "correctQuestion": "What is ensure the birthday person receives wanted gifts?",
+        "value": 400
+      },
+      {
+        "clue": "A considerate host should ask guests about these during party planning",
+        "correctQuestion": "What is mobility needs, hearing needs, and other accessibility requirements?",
+        "value": 400
+      },
+      {
+        "clue": "When celebrating a milestone birthday, the appropriate acknowledgment includes this",
+        "correctQuestion": "What is recognition of the achievement or years of life?",
+        "value": 400
+      },
+      {
+        "clue": "Party guests should protect their host's privacy by not sharing these on social media",
+        "correctQuestion": "What is embarrassing photos, personal information, or unflattering videos?",
+        "value": 400
+      },
+      {
+        "clue": "If hosting a virtual birthday celebration, you should provide this technical support",
+        "correctQuestion": "What is clear instructions for joining and technical assistance?",
+        "value": 600
+      },
+      {
+        "clue": "The appropriate response when a guest asks to bring food to contribute is this",
+        "correctQuestion": "What is to accept graciously and coordinate with them?",
+        "value": 600
+      },
+      {
+        "clue": "If you're attending a joint birthday celebration, you should acknowledge both people by doing this",
+        "correctQuestion": "What is giving equal attention and gifts to both?",
+        "value": 600
+      },
+      {
+        "clue": "A respectful guest avoids these behaviors during the party photographs",
+        "correctQuestion": "What is refusing to be in photos or making ugly faces?",
+        "value": 600
+      },
+      {
+        "clue": "When a child's party involves religious elements, guests should show respect by doing this",
+        "correctQuestion": "What is participating respectfully or politely declining if uncomfortable?",
+        "value": 600
+      },
+      {
+        "clue": "If you accidentally offend the birthday person, the right action is to do this",
+        "correctQuestion": "What is apologize sincerely?",
+        "value": 800
+      },
+      {
+        "clue": "A host should prepare for these types of situations to ensure all guests feel safe",
+        "correctQuestion": "What is bullying, harassment, or uncomfortable behavior?",
+        "value": 800
+      },
+      {
+        "clue": "When gifting money to a birthday celebration, the proper etiquette is to do this",
+        "correctQuestion": "What is place it in a card or envelope?",
+        "value": 800
+      },
+      {
+        "clue": "If a guest becomes intoxicated at an adult party, the host should do this",
+        "correctQuestion": "What is offer them water and arrange safe transportation?",
+        "value": 800
+      },
+      {
+        "clue": "The appropriate way to handle a dietary restriction you're unsure about is to do this",
+        "correctQuestion": "What is ask the guest for clarification?",
+        "value": 800
+      },
+      {
+        "clue": "A guest demonstrates maturity by accepting party outcomes with this attitude",
+        "correctQuestion": "What is grace and positivity?",
+        "value": 1000
+      },
+      {
+        "clue": "When hosting during different cultural celebrations, you should do this to show respect",
+        "correctQuestion": "What is learn about the traditions and honor them?",
+        "value": 1000
+      },
+      {
+        "clue": "If the birthday person is uncomfortable with attention, the appropriate response is this",
+        "correctQuestion": "What is allowing them to opt out of traditional moments?",
+        "value": 1000
+      },
+      {
+        "clue": "A host's responsibility during gift-opening includes making this person comfortable",
+        "correctQuestion": "What is the person giving the gift?",
+        "value": 1000
+      },
+      {
+        "clue": "The considerate behavior when you're unable to afford an elaborate gift is this",
+        "correctQuestion": "What is giving something heartfelt and within your means?",
+        "value": 1000
+      },
+      {
+        "clue": "If hosting multiple celebrations (like work and family), you should prioritize this",
+        "correctQuestion": "What is making each celebration feel special and separate?",
+        "value": 1000
+      },
+      {
+        "clue": "When a guest's cultural traditions differ from the party's planned activities, you should do this",
+        "correctQuestion": "What is accommodate or modify plans to include them?",
+        "value": 1000
+      },
+      {
+        "clue": "The appropriate behavior when the birthday person wants to end the party early is this",
+        "correctQuestion": "What is respect their wishes and facilitate a graceful exit?",
+        "value": 1000
+      },
+      {
+        "clue": "A respectful host acknowledges and values these aspects of a successful party",
+        "correctQuestion": "What is guest comfort, safety, and emotional wellbeing?",
+        "value": 1000
+      },
+      {
+        "clue": "The ultimate goal of practicing good birthday party etiquette is to ensure everyone experiences this",
+        "correctQuestion": "What is joy, connection, and celebration?",
+        "value": 1000
+      }
+    ]
+  }
+}
