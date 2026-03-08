@@ -42,10 +42,23 @@ if ! command -v node &> /dev/null; then
     fi
 fi
 
-echo "[OK] Node.js: $(node --version)"
+echo "[OK] Node.js: \$(node --version)"
+
+# Check for new questions to import
+QUESTIONS_DIR="\$(dirname "\$0")/questions"
+if [ -d "\$QUESTIONS_DIR" ]; then
+    JSON_COUNT=\$(find "\$QUESTIONS_DIR" -name "*.json" 2>/dev/null | wc -l)
+    if [ "\$JSON_COUNT" -gt 0 ]; then
+        echo ""
+        echo "[...] Found \$JSON_COUNT new question files to import"
+        node "\$(dirname "\$0")/import-questions.cjs" "\$QUESTIONS_DIR" "\$(dirname "\$0")/public/runtime-questions.json"
+        echo "[OK] Questions imported!"
+        echo ""
+    fi
+fi
 
 # Get local IP address
-IP=$(ipconfig getifaddr en0 2>/dev/null || ipconfig getifaddr en1 2>/dev/null)
+IP=\$(ipconfig getifaddr en0 2>/dev/null || ipconfig getifaddr en1 2>/dev/null)
 [ -z "$IP" ] && IP="localhost"
 
 HOST_URL="http://$IP:5000"

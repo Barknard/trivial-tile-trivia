@@ -23,6 +23,15 @@ if %ERRORLEVEL% NEQ 0 (
 echo [OK] Node.js found: 
 node --version
 
+:: Check for new questions to import
+if exist "questions\*.json" (
+    echo.
+    echo [...] Importing new questions...
+    node import-questions.cjs questions public\runtime-questions.json
+    echo [OK] Questions imported!
+    echo.
+)
+
 :: Get local IP address
 for /f "tokens=2 delims=:" %%a in ('ipconfig ^| findstr /c:"IPv4"') do (
     set IP=%%a

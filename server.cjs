@@ -23639,14 +23639,14 @@ var require_node_gyp_build = __commonJS({
   "node_modules/node-gyp-build/node-gyp-build.js"(exports2, module2) {
     var fs3 = require("fs");
     var path3 = require("path");
-    var os = require("os");
+    var os2 = require("os");
     var runtimeRequire = typeof __webpack_require__ === "function" ? __non_webpack_require__ : require;
     var vars = process.config && process.config.variables || {};
     var prebuildsOnly = !!process.env.PREBUILDS_ONLY;
     var abi = process.versions.modules;
     var runtime = isElectron() ? "electron" : isNwjs() ? "node-webkit" : "node";
-    var arch = process.env.npm_config_arch || os.arch();
-    var platform = process.env.npm_config_platform || os.platform();
+    var arch = process.env.npm_config_arch || os2.arch();
+    var platform = process.env.npm_config_platform || os2.platform();
     var libc = process.env.LIBC || (isAlpine(platform) ? "musl" : "glibc");
     var armv = process.env.ARM_VERSION || (arch === "arm64" ? "8" : vars.arm_version) || "";
     var uv = (process.versions.uv || "").split(".")[0];
@@ -27375,16 +27375,29 @@ async function registerRoutes(httpServer2, app2) {
             const { gameId, peerId } = message;
             const room = gameRooms.get(gameId);
             if (room) {
+              const existingWs = room.clients.get(peerId);
+              if (existingWs && existingWs !== ws) {
+                try {
+                  existingWs.close();
+                } catch {
+                }
+              }
               room.clients.set(peerId, ws);
               currentGameId = gameId;
               currentPeerId = peerId;
-              log(`Client ${peerId} joined room: ${gameId}`, "ws");
-              ws.send(JSON.stringify({ type: "ROOM_JOINED", gameId }));
+              const clientCount = room.clients.size;
+              log(`Client ${peerId} joined room: ${gameId} (total clients: ${clientCount})`, "ws");
+              ws.send(JSON.stringify({ type: "ROOM_JOINED", gameId, clientCount }));
               if (room.hostWs?.readyState === import_websocket.default.OPEN) {
-                room.hostWs.send(JSON.stringify({
-                  type: "PEER_CONNECTED",
-                  peerId
-                }));
+                setImmediate(() => {
+                  if (room.hostWs?.readyState === import_websocket.default.OPEN) {
+                    room.hostWs.send(JSON.stringify({
+                      type: "PEER_CONNECTED",
+                      peerId,
+                      clientCount
+                    }));
+                  }
+                });
               }
             } else {
               ws.send(JSON.stringify({ type: "ERROR", message: "Room not found" }));
@@ -27415,18 +27428,35 @@ async function registerRoutes(httpServer2, app2) {
             }
             break;
           }
+          case "PING": {
+            ws.send(JSON.stringify({ type: "PONG" }));
+            break;
+          }
           case "BROADCAST": {
             const { gameId, payload } = message;
             const room = gameRooms.get(gameId);
             if (room) {
-              room.clients.forEach((clientWs) => {
+              const messageStr = JSON.stringify({ type: "FROM_HOST", payload });
+              const clients = Array.from(room.clients.entries());
+              let sent = 0;
+              let failed = 0;
+              clients.forEach(([clientId, clientWs]) => {
                 if (clientWs.readyState === import_websocket.default.OPEN) {
-                  clientWs.send(JSON.stringify({
-                    type: "FROM_HOST",
-                    payload
-                  }));
+                  try {
+                    clientWs.send(messageStr);
+                    sent++;
+                  } catch (err) {
+                    failed++;
+                    log(`Failed to send to client ${clientId}: ${err}`, "ws");
+                  }
+                } else {
+                  room.clients.delete(clientId);
+                  failed++;
                 }
               });
+              if (failed > 0) {
+                log(`Broadcast to ${gameId}: ${sent} sent, ${failed} failed/stale`, "ws");
+              }
             }
             break;
           }
@@ -27510,127 +27540,40 @@ async function registerRoutes(httpServer2, app2) {
     const files = fs.readdirSync(outputDir).filter(f => f.endsWith(".json"));
     for (const file of files) {
       try {
-        const raw = fs.readFileSync(path.join(outputDir, file), "utf-8");
+        const raw = fs.readFileSync(path.join(outputDir, file), "utf8");
         const data = JSON.parse(raw);
-
-        // Handle combined format (has "audiences" key with nested levels)
-        if (data.audiences && data.category) {
-          const themeId = data.theme || "custom";
-          if (!themes[themeId]) themes[themeId] = { categories: {} };
-          const catName = data.category;
-          themes[themeId].categories[catName] = {};
-
-          for (const [audience, questions] of Object.entries(data.audiences)) {
-            themes[themeId].categories[catName][audience] = questions.map(q => ({
-              question: q.clue || q.question,
-              answer: (q.correctQuestion || q.answer || "").replace(/^(What|Who|Where|When|How|Which) (is|are|was|were|did) /i, "").replace(/\?$/, ""),
-              value: q.value
-            }));
+        if (!data.theme || !data.audiences) continue;
+        const themeId = data.theme;
+        if (!themes[themeId]) themes[themeId] = { name: themeId.charAt(0).toUpperCase() + themeId.slice(1), categories: {} };
+        const catName = data.category || file.replace("_complete.json", "").replace(themeId + "_", "");
+        const catId = data.category_id || catName.toLowerCase().replace(/\s+/g, "_");
+        themes[themeId].categories[catId] = { name: catName, audiences: {} };
+        for (const [audience, questions] of Object.entries(data.audiences)) {
+          if (Array.isArray(questions) && questions.length > 0) {
+            themes[themeId].categories[catId].audiences[audience] = questions;
           }
-          continue;
         }
-
-        // Handle per-audience files (array of questions, filename encodes metadata)
-        // Pattern: theme_category_audienceLevel.json
-        if (Array.isArray(data)) {
-          const basename = file.replace(".json", "");
-          const audiences = ["kids_4_under", "kids_10_under", "teenagers", "adults", "no_humanity"];
-          let matchedAudience = null;
-          let prefix = basename;
-          for (const aud of audiences) {
-            if (basename.endsWith("_" + aud)) {
-              matchedAudience = aud;
-              prefix = basename.slice(0, -(aud.length + 1));
-              break;
-            }
-          }
-          if (!matchedAudience) continue;
-
-          // Use prefix as both theme and category
-          const themeId = prefix;
-          const catName = prefix.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
-
-          if (!themes[themeId]) themes[themeId] = { categories: {} };
-          if (!themes[themeId].categories[catName]) themes[themeId].categories[catName] = {};
-
-          themes[themeId].categories[catName][matchedAudience] = data.map(q => ({
-            question: q.clue || q.question,
-            answer: (q.correctQuestion || q.answer || "").replace(/^(What|Who|Where|When|How|Which) (is|are|was|were|did) /i, "").replace(/\?$/, ""),
-            value: q.value
-          }));
-        }
-      } catch (err) {
-        log(`Error parsing quiz file ${file}: ${err.message}`, "quiz");
-      }
+      } catch (e) { /* skip bad files */ }
     }
-
-    // Auto-split: if a theme has only 1 category with many questions, split into 5 sub-categories
-    for (const themeId of Object.keys(themes)) {
-      const cats = themes[themeId].categories;
-      const catNames = Object.keys(cats);
-      if (catNames.length === 1) {
-        const singleCat = cats[catNames[0]];
-        const baseName = themeId.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase());
-        const subNames = [baseName + " I", baseName + " II", baseName + " III", baseName + " IV", baseName + " V", baseName + " VI"];
-        const newCats = {};
-        for (const [audience, questions] of Object.entries(singleCat)) {
-          if (!Array.isArray(questions) || questions.length < 10) continue;
-          const chunkSize = Math.ceil(questions.length / 6);
-          for (let i = 0; i < 6; i++) {
-            const name = subNames[i];
-            if (!newCats[name]) newCats[name] = {};
-            newCats[name][audience] = questions.slice(i * chunkSize, (i + 1) * chunkSize);
-          }
-        }
-        if (Object.keys(newCats).length > 0) {
-          themes[themeId].categories = newCats;
-        }
-      }
-    }
-
     quizCache = themes;
     quizCacheTime = now;
-    log(`Scanned ${files.length} quiz files, found ${Object.keys(themes).length} themes`, "quiz");
     return themes;
   }
 
   app2.get("/api/quiz-themes", (req, res) => {
-    try {
-      const themes = scanQuizFiles();
-      const result = {};
-      for (const [themeId, themeData] of Object.entries(themes)) {
-        const catNames = Object.keys(themeData.categories);
-        const audienceSets = new Set();
-        for (const cat of Object.values(themeData.categories)) {
-          for (const aud of Object.keys(cat)) audienceSets.add(aud);
-        }
-        result[themeId] = {
-          name: themeId.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase()),
-          categoryCount: catNames.length,
-          categories: catNames,
-          audiences: [...audienceSets]
-        };
-      }
-      res.json({ themes: result });
-    } catch (err) {
-      log(`Error listing quiz themes: ${err}`, "error");
-      res.json({ themes: {} });
+    const themes = scanQuizFiles();
+    const summary = {};
+    for (const [id, theme] of Object.entries(themes)) {
+      summary[id] = { name: theme.name, categoryCount: Object.keys(theme.categories).length };
     }
+    res.json({ themes: summary });
   });
 
   app2.get("/api/quiz-data/:themeId", (req, res) => {
-    try {
-      const themes = scanQuizFiles();
-      const themeData = themes[req.params.themeId];
-      if (!themeData) {
-        res.status(404).json({ error: "Theme not found" });
-        return;
-      }
-      res.json(themeData);
-    } catch (err) {
-      log(`Error loading quiz data: ${err}`, "error");
-      res.status(500).json({ error: "Failed to load quiz data" });
-    }
+    const themes = scanQuizFiles();
+    const theme = themes[req.params.themeId];
+    if (!theme) return res.status(404).json({ error: "Theme not found" });
+    res.json(theme);
   });
 
   app2.post("/api/quiz-rescan", (req, res) => {
@@ -27650,11 +27593,36 @@ async function registerRoutes(httpServer2, app2) {
       } else if (fs.existsSync(distSoundsDir)) {
         files = fs.readdirSync(distSoundsDir);
       }
-      const customBuzzers = files.filter((f) => f.toLowerCase().endsWith(".wav") && f.toLowerCase().startsWith("buzzer-custom-")).map((f) => f.replace(/\.wav$/i, "").replace(/^buzzer-custom-/i, ""));
-      res.json({ buzzers: customBuzzers });
+      const customBuzzers = files.filter((f) => (f.toLowerCase().endsWith(".wav") || f.toLowerCase().endsWith(".mp3")) && f.toLowerCase().startsWith("buzzer-")).map((f) => f.replace(/\.(wav|mp3)$/i, "").replace(/^buzzer-/i, ""));
+      const uniqueBuzzers = [...new Set(customBuzzers)];
+      res.json({ buzzers: uniqueBuzzers });
     } catch (err) {
       log(`Error listing custom buzzers: ${err}`, "error");
       res.json({ buzzers: [] });
+    }
+  });
+  app2.get("/api/music-tracks", (req, res) => {
+    try {
+      const soundsDir = path.join(process.cwd(), "client", "public", "sounds");
+      const distSoundsDir = path.join(process.cwd(), "public", "sounds");
+      let files = [];
+      if (fs.existsSync(soundsDir)) {
+        files = fs.readdirSync(soundsDir);
+      } else if (fs.existsSync(distSoundsDir)) {
+        files = fs.readdirSync(distSoundsDir);
+      }
+      const musicTracks = files.filter((f) => (f.toLowerCase().endsWith(".wav") || f.toLowerCase().endsWith(".mp3")) && f.toLowerCase().startsWith("music-")).map((f) => {
+        const name = f.replace(/\.(wav|mp3)$/i, "").replace(/^music-/i, "").replace(/_/g, " ");
+        return {
+          id: f.replace(/\.(wav|mp3)$/i, "").replace(/^music-/i, ""),
+          name: name.charAt(0).toUpperCase() + name.slice(1),
+          file: f
+        };
+      });
+      res.json({ tracks: musicTracks });
+    } catch (err) {
+      log(`Error listing music tracks: ${err}`, "error");
+      res.json({ tracks: [] });
     }
   });
   return httpServer2;
