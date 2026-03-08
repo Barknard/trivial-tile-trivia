@@ -171,10 +171,14 @@ echo "[...] Opening Host view..."
 am start -a android.intent.action.VIEW -d "$HOST_URL" 2>/dev/null
 echo "[OK] Host opened"
 
-# Copy board URL to clipboard for easy access
+# Copy board URL to clipboard, then open Incognito as separate window for Board
 if command -v termux-clipboard-set &> /dev/null; then
     termux-clipboard-set "$BOARD_URL"
 fi
+
+echo "[...] Opening Incognito window for Board in 5 seconds..."
+echo "     (Board URL is in clipboard - just paste it!)"
+(sleep 5 && am start -n com.android.chrome/com.google.android.apps.chrome.incognito.IncognitoTabLauncher 2>/dev/null && echo "[OK] Incognito window opened - paste Board URL!") &
 
 echo ""
 echo "==================================="
@@ -183,10 +187,11 @@ echo ""
 echo "   Board URL copied to clipboard:"
 echo "   $BOARD_URL"
 echo ""
-echo "   To set up Board for TV:"
-echo "   1. Open a NEW Chrome window"
-echo "   2. Paste the Board URL"
-echo "   3. Mirror > Chrome Only"
+echo "   INCOGNITO window opens in 5 sec."
+echo "   Just PASTE the Board URL there!"
+echo ""
+echo "   Then: Mirror > Chrome Only"
+echo "   to cast the Board to your TV."
 echo "==================================="
 echo ""
 echo "Press Ctrl+C to stop the server"
