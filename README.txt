@@ -119,6 +119,24 @@ tabs in the same window. Mirroring works per-window,
 so keeping them in separate windows lets you mirror
 only the Board while the Host stays private.
 
+AUTO-UPDATES (GitHub Sync)
+==========================
+
+The game automatically checks GitHub for updates every time
+it launches on Android. When you add new questions or make
+changes on your PC:
+
+1. Make your changes (add questions to output/, etc.)
+2. Commit and push:
+   cd trivial-tile-trivia-portable
+   git add -A && git commit -m "Added new questions"
+   git push
+
+3. Next time the tablet launches the game, it will
+   automatically pull the latest version!
+
+GitHub repo: https://github.com/Barknard/trivial-tile-trivia
+
 TIPS
 ====
 

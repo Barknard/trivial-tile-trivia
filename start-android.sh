@@ -47,6 +47,49 @@ if ! command -v termux-wifi-connectioninfo &> /dev/null; then
     pkg install -y termux-api
 fi
 
+# Install git if needed
+if ! command -v git &> /dev/null; then
+    echo "[...] Installing git..."
+    pkg install -y git
+fi
+
+# ============================================
+# AUTO-UPDATE: Pull latest from GitHub
+# ============================================
+REPO_URL="https://github.com/Barknard/trivial-tile-trivia.git"
+GAME_DIR="$(cd "$(dirname "$0")" && pwd)"
+
+if [ -d "$GAME_DIR/.git" ]; then
+    echo "[...] Checking for updates..."
+    cd "$GAME_DIR"
+    git fetch origin 2>/dev/null
+    LOCAL=$(git rev-parse HEAD 2>/dev/null)
+    REMOTE=$(git rev-parse origin/master 2>/dev/null)
+    if [ "$LOCAL" != "$REMOTE" ] && [ -n "$REMOTE" ]; then
+        echo "[...] New version found! Updating..."
+        git pull origin master 2>&1
+        echo "[OK] Updated to latest version!"
+    else
+        echo "[OK] Already up to date"
+    fi
+else
+    # First time: clone the repo to a temp dir and copy game files
+    echo "[...] Setting up GitHub sync..."
+    TEMP_DIR="$HOME/trivia-update-tmp"
+    rm -rf "$TEMP_DIR"
+    git clone --depth 1 "$REPO_URL" "$TEMP_DIR" 2>&1
+    if [ -d "$TEMP_DIR/.git" ]; then
+        # Copy everything from clone into game dir
+        cp -rf "$TEMP_DIR"/* "$GAME_DIR"/ 2>/dev/null
+        cp -rf "$TEMP_DIR"/.[!.]* "$GAME_DIR"/ 2>/dev/null
+        rm -rf "$TEMP_DIR"
+        echo "[OK] GitHub sync initialized!"
+    else
+        echo "[WARN] Could not reach GitHub - using local files"
+    fi
+fi
+cd "$GAME_DIR"
+
 # Auto-create Termux:Widget shortcut for one-tap launching
 SCRIPT_PATH="$(cd "$(dirname "$0")" && pwd)/start-android.sh"
 SHORTCUT_DIR="$HOME/.shortcuts"
