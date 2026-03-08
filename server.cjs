@@ -27641,6 +27641,9 @@ function serveStatic(app2) {
   }
   app2.use(import_express.default.static(distPath));
   app2.use("*", (_req, res) => {
+    res.set("Cache-Control", "no-cache, no-store, must-revalidate");
+    res.set("Pragma", "no-cache");
+    res.set("Expires", "0");
     res.sendFile(import_path.default.resolve(distPath, "index.html"));
   });
 }
