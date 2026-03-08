@@ -27671,9 +27671,17 @@ function serveStatic(app2) {
     );
   }
   console.log(`Serving static files from: ${distPath}`);
+  const indexFile = import_path.default.resolve(distPath, "index.html");
   app2.use(import_express.default.static(distPath));
-  app2.use("*", (_req, res) => {
-    res.sendFile(import_path.default.resolve(distPath, "index.html"));
+  // SPA client-side routes - serve index.html for all non-API, non-file paths
+  const spaRoutes = ["/board", "/board/*", "/player", "/player/*", "/host", "/host/*", "/join", "/join/*"];
+  for (const route of spaRoutes) {
+    app2.get(route, (_req, res) => { res.sendFile(indexFile); });
+  }
+  // Catch-all fallback for any other client route
+  app2.use((_req, res, next) => {
+    if (_req.path.startsWith("/api/") || _req.path.startsWith("/ws")) return next();
+    res.sendFile(indexFile);
   });
 }
 
