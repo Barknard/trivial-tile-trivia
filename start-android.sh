@@ -151,34 +151,27 @@ for i in $(seq 1 15); do
     sleep 1
 done
 
-# Open Host view (tab 1)
+# Open Host view
 echo "[...] Opening Host view..."
 am start -a android.intent.action.VIEW -d "$HOST_URL" 2>/dev/null
 echo "[OK] Host opened"
 
-# Wait, then open Board view (tab 2)
-sleep 5
-echo "[...] Opening Board view..."
-am start -a android.intent.action.VIEW -d "$BOARD_URL" 2>/dev/null
-echo "[OK] Board opened"
-
-# Copy board URL to clipboard too
+# Copy board URL to clipboard for easy access
 if command -v termux-clipboard-set &> /dev/null; then
     termux-clipboard-set "$BOARD_URL"
 fi
 
 echo ""
 echo "==================================="
-echo "   BOTH TABS ARE OPEN IN CHROME"
+echo "   HOST is open in Chrome!"
 echo ""
-echo "   To put Board in its own window:"
-echo "   Long-press the Board TAB and drag"
-echo "   it down to separate it, OR tap the"
-echo "   tab switcher and choose 'Move to"
-echo "   other window'"
+echo "   Board URL copied to clipboard:"
+echo "   $BOARD_URL"
 echo ""
-echo "   Then: Mirror > Chrome Only on the"
-echo "   Board window to share to TV"
+echo "   To set up Board for TV:"
+echo "   1. Open a NEW Chrome window"
+echo "   2. Paste the Board URL"
+echo "   3. Mirror > Chrome Only"
 echo "==================================="
 echo ""
 echo "Press Ctrl+C to stop the server"
