@@ -27346,6 +27346,7 @@ var import_websocket_server = __toESM(require_websocket_server(), 1);
 // server/routes.ts
 var fs = __toESM(require("fs"), 1);
 var path = __toESM(require("path"), 1);
+var os = __toESM(require("os"), 1);
 var gameRooms = /* @__PURE__ */ new Map();
 async function registerRoutes(httpServer2, app2) {
   const wss = new import_websocket_server.default({ server: httpServer2, path: "/ws" });
@@ -27467,18 +27468,22 @@ async function registerRoutes(httpServer2, app2) {
   });
   app2.get("/api/server-ip", (req, res) => {
     try {
-      const { networkInterfaces } = require("os");
-      const nets = networkInterfaces();
-      let ip = null;
+      const nets = os.networkInterfaces();
+      const candidates = [];
       for (const name of Object.keys(nets)) {
-        for (const net of nets[name]) {
+        const netList = nets[name];
+        if (!netList) continue;
+        for (const net of netList) {
           if (net.family === "IPv4" && !net.internal) {
-            ip = net.address;
-            break;
+            candidates.push(net.address);
           }
         }
-        if (ip) break;
       }
+      let ip = candidates.find((addr) => addr.startsWith("192.168."));
+      if (!ip) ip = candidates.find((addr) => addr.startsWith("10."));
+      if (!ip) ip = candidates.find((addr) => /^172\.(1[6-9]|2[0-9]|3[01])\./.test(addr));
+      if (!ip) ip = candidates[0];
+      log(`Server IP detected: ${ip || "localhost"} (candidates: ${candidates.join(", ")})`, "info");
       res.json({ ip: ip || "localhost" });
     } catch (err) {
       log(`Error getting server IP: ${err}`, "error");

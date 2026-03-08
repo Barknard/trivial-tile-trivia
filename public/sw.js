@@ -1,4 +1,4 @@
-const CACHE_NAME = 'trivial-tile-trivia-v1';
+const CACHE_NAME = 'trivial-tile-trivia-v2';
 const urlsToCache = [
   '/',
   '/manifest.json',
