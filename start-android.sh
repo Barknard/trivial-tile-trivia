@@ -66,11 +66,26 @@ if [ -d "$GAME_DIR/.git" ]; then
     LOCAL=$(git rev-parse HEAD 2>/dev/null)
     REMOTE=$(git rev-parse origin/master 2>/dev/null)
     if [ "$LOCAL" != "$REMOTE" ] && [ -n "$REMOTE" ]; then
-        echo "[...] New version found! Updating..."
+        echo ""
+        echo "==================================="
+        echo "   UPDATE AVAILABLE!"
+        echo "==================================="
+        echo ""
+        echo "Changes since last launch:"
+        echo "---"
+        git log --oneline "$LOCAL".."$REMOTE" 2>/dev/null
+        echo "---"
+        echo ""
+        echo "Files changed:"
+        git diff --stat "$LOCAL".."$REMOTE" 2>/dev/null | tail -20
+        echo ""
+        echo "[...] Downloading update..."
         git pull origin master 2>&1
+        echo ""
         echo "[OK] Updated to latest version!"
+        echo ""
     else
-        echo "[OK] Already up to date"
+        echo "[OK] Already up to date ($(git log --oneline -1 2>/dev/null))"
     fi
 else
     # First time: clone the repo to a temp dir and copy game files
