@@ -27467,18 +27467,41 @@ async function registerRoutes(httpServer2, app2) {
   });
   app2.get("/api/server-ip", (req, res) => {
     try {
-      const { networkInterfaces } = require("os");
-      const nets = networkInterfaces();
+      // On Android/Termux, try termux-wifi-connectioninfo first (gets real WiFi IP)
+      const { execSync } = require("child_process");
       let ip = null;
-      for (const name of Object.keys(nets)) {
-        for (const net of nets[name]) {
-          if (net.family === "IPv4" && !net.internal) {
-            ip = net.address;
-            break;
-          }
+      try {
+        const wifiInfo = execSync("termux-wifi-connectioninfo 2>/dev/null", { timeout: 3000 }).toString();
+        const match = wifiInfo.match(/"ip"\s*:\s*"([^"]+)"/);
+        if (match && match[1] && match[1] !== "0.0.0.0") {
+          ip = match[1];
         }
-        if (ip) break;
+      } catch (e) { /* not on Termux, fall through */ }
+
+      // Fallback: use the requesting client's view of the server
+      if (!ip) {
+        // The request itself tells us what IP the client used to reach us
+        const host = req.headers.host;
+        if (host && !host.includes("localhost")) {
+          ip = host.split(":")[0];
+        }
       }
+
+      // Fallback: os.networkInterfaces
+      if (!ip) {
+        const { networkInterfaces } = require("os");
+        const nets = networkInterfaces();
+        for (const name of Object.keys(nets)) {
+          for (const net of nets[name]) {
+            if (net.family === "IPv4" && !net.internal) {
+              ip = net.address;
+              break;
+            }
+          }
+          if (ip) break;
+        }
+      }
+      log(`Server IP resolved to: ${ip || "localhost"}`, "network");
       res.json({ ip: ip || "localhost" });
     } catch (err) {
       log(`Error getting server IP: ${err}`, "error");
