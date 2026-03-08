@@ -163,6 +163,9 @@ if command -v termux-clipboard-set &> /dev/null; then
 fi
 echo ""
 
+# Ensure cwd matches __dirname (resolve symlinks like /sdcard -> /storage/emulated/0)
+cd "$(pwd -P)"
+
 # Start server in background, then open browsers once it's ready
 node server.cjs &
 SERVER_PID=$!
