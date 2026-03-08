@@ -137,31 +137,52 @@ if command -v termux-clipboard-set &> /dev/null; then
 fi
 echo ""
 
-# Open Host view in Chrome (window 1)
-echo "[...] Opening Host view in 3 seconds..."
-(sleep 3 && am start -a android.intent.action.VIEW -d "$HOST_URL" 2>/dev/null && echo "[OK] Host window opened") &
+# Start server in background, then open browsers once it's ready
+node server.cjs &
+SERVER_PID=$!
 
-# Open Board view in a NEW Chrome window (window 2)
-# Uses FLAG_ACTIVITY_NEW_TASK + FLAG_ACTIVITY_MULTIPLE_TASK to force a separate window
-echo "[...] Opening Board in separate window in 8 seconds..."
-(sleep 8 && am start -a android.intent.action.VIEW -d "$BOARD_URL" \
-  --ez create_new_tab true \
-  -f 0x18000000 \
-  -n com.android.chrome/com.google.android.apps.chrome.Main 2>/dev/null \
-  && echo "[OK] Board window opened!") &
+# Wait for server to actually be listening
+echo "[...] Waiting for server to start..."
+for i in $(seq 1 15); do
+    if curl -s "http://localhost:5000" > /dev/null 2>&1; then
+        echo "[OK] Server is running!"
+        break
+    fi
+    sleep 1
+done
+
+# Open Host view (tab 1)
+echo "[...] Opening Host view..."
+am start -a android.intent.action.VIEW -d "$HOST_URL" 2>/dev/null
+echo "[OK] Host opened"
+
+# Wait, then open Board view (tab 2)
+sleep 5
+echo "[...] Opening Board view..."
+am start -a android.intent.action.VIEW -d "$BOARD_URL" 2>/dev/null
+echo "[OK] Board opened"
+
+# Copy board URL to clipboard too
+if command -v termux-clipboard-set &> /dev/null; then
+    termux-clipboard-set "$BOARD_URL"
+fi
 
 echo ""
 echo "==================================="
-echo "   TWO WINDOWS WILL OPEN:"
-echo "   1) Host (your controls)"
-echo "   2) Board (share to TV)"
+echo "   BOTH TABS ARE OPEN IN CHROME"
 echo ""
-echo "   To mirror the Board to TV:"
-echo "   Select Board window > Mirror > Chrome Only"
+echo "   To put Board in its own window:"
+echo "   Long-press the Board TAB and drag"
+echo "   it down to separate it, OR tap the"
+echo "   tab switcher and choose 'Move to"
+echo "   other window'"
+echo ""
+echo "   Then: Mirror > Chrome Only on the"
+echo "   Board window to share to TV"
 echo "==================================="
 echo ""
 echo "Press Ctrl+C to stop the server"
 echo ""
 
-# Start server
-node server.cjs
+# Keep script alive while server runs
+wait $SERVER_PID
