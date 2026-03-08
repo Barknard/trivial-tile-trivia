@@ -27683,48 +27683,29 @@ var import_express = __toESM(require_express2(), 1);
 var import_fs = __toESM(require("fs"), 1);
 var import_path = __toESM(require("path"), 1);
 function serveStatic(app2) {
-  // Find public/ directory - try multiple paths for Android/Termux compatibility
-  const candidates = [
-    import_path.default.resolve(__dirname, "public"),
-    import_path.default.resolve(process.cwd(), "public"),
-    "/sdcard/trivial-tile-trivia-portable/public",
-    "/storage/emulated/0/trivial-tile-trivia-portable/public"
-  ];
-  let distPath = null;
-  for (const p of candidates) {
-    try {
-      const testFile = import_path.default.join(p, "index.html");
-      import_fs.default.accessSync(testFile, import_fs.default.constants.R_OK);
-      distPath = p;
-      break;
-    } catch (e) { /* try next */ }
+  // Find public/ directory
+  let distPath = import_path.default.resolve(__dirname, "public");
+  if (!import_fs.default.existsSync(distPath)) {
+    distPath = import_path.default.resolve(process.cwd(), "public");
   }
-  if (!distPath) {
-    console.error("FATAL: Could not find public/index.html! Tried:", candidates);
-    throw new Error("Could not find the build directory with index.html");
+  if (!import_fs.default.existsSync(distPath)) {
+    distPath = "/sdcard/trivial-tile-trivia-portable/public";
   }
+  if (!import_fs.default.existsSync(distPath)) {
+    distPath = "/storage/emulated/0/trivial-tile-trivia-portable/public";
+  }
+  console.log("Serving static files from:", distPath);
+
+  // Serve all static files (JS, CSS, images, sounds, etc.)
+  app2.use(import_express.default.static(distPath));
+
+  // SPA fallback - serve index.html for client-side routes
   const indexFile = import_path.default.join(distPath, "index.html");
-  console.log(`Serving static files from: ${distPath}`);
-  console.log(`Index file: ${indexFile} (exists: ${import_fs.default.existsSync(indexFile)})`);
-
-  // Serve static assets (JS, CSS, images, sounds)
-  app2.use("/assets", import_express.default.static(import_path.default.join(distPath, "assets")));
-  app2.use("/sounds", import_express.default.static(import_path.default.join(distPath, "sounds")));
-
-  // Serve individual static files at root level
-  const staticFiles = ["favicon.png", "manifest.json", "sw.js", "opengraph.jpg"];
-  for (const file of staticFiles) {
-    const filePath = import_path.default.join(distPath, file);
-    if (import_fs.default.existsSync(filePath)) {
-      app2.get("/" + file, (_req, res) => { res.sendFile(filePath); });
-    }
-  }
-
-  // ALL other non-API routes serve index.html (SPA routing)
-  app2.get("*", (req, res, next) => {
-    if (req.path.startsWith("/api/") || req.path.startsWith("/ws")) return next();
-    res.sendFile(indexFile);
-  });
+  app2.get("/", (req, res) => { res.sendFile(indexFile); });
+  app2.get("/board", (req, res) => { res.sendFile(indexFile); });
+  app2.get("/host", (req, res) => { res.sendFile(indexFile); });
+  app2.get("/player", (req, res) => { res.sendFile(indexFile); });
+  app2.get("/join", (req, res) => { res.sendFile(indexFile); });
 }
 
 // server/index.ts
