@@ -27683,20 +27683,30 @@ var import_express = __toESM(require_express2(), 1);
 var import_fs = __toESM(require("fs"), 1);
 var import_path = __toESM(require("path"), 1);
 function serveStatic(app2) {
-  // Try __dirname first, fall back to process.cwd() (fixes Termux/Android symlink issues)
-  let distPath = import_path.default.resolve(__dirname, "public");
-  if (!import_fs.default.existsSync(distPath)) {
-    distPath = import_path.default.resolve(process.cwd(), "public");
+  // Try multiple paths to find public/ (fixes Termux/Android symlink issues)
+  const candidates = [
+    import_path.default.resolve(__dirname, "public"),
+    import_path.default.resolve(process.cwd(), "public"),
+    "/sdcard/trivial-tile-trivia-portable/public",
+    "/storage/emulated/0/trivial-tile-trivia-portable/public"
+  ];
+  let distPath = null;
+  for (const p of candidates) {
+    if (import_fs.default.existsSync(import_path.default.join(p, "index.html"))) {
+      distPath = p;
+      break;
+    }
   }
-  if (!import_fs.default.existsSync(distPath)) {
-    throw new Error(
-      `Could not find the build directory. Tried: ${import_path.default.resolve(__dirname, "public")} and ${distPath}`
-    );
+  if (!distPath) {
+    console.error("Could not find public/index.html! Tried:", candidates);
+    throw new Error("Could not find the build directory with index.html");
   }
   console.log(`Serving static files from: ${distPath}`);
   const indexFile = import_path.default.resolve(distPath, "index.html");
   app2.use(import_express.default.static(distPath));
   // SPA client-side routes - serve index.html for all non-API, non-file paths
+  // Serve index.html explicitly for root
+  app2.get("/", (_req, res) => { res.sendFile(indexFile); });
   const spaRoutes = ["/board", "/board/*", "/player", "/player/*", "/host", "/host/*", "/join", "/join/*"];
   for (const route of spaRoutes) {
     app2.get(route, (_req, res) => { res.sendFile(indexFile); });
