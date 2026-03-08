@@ -27467,41 +27467,18 @@ async function registerRoutes(httpServer2, app2) {
   });
   app2.get("/api/server-ip", (req, res) => {
     try {
-      // On Android/Termux, try termux-wifi-connectioninfo first (gets real WiFi IP)
-      const { execSync } = require("child_process");
+      const { networkInterfaces } = require("os");
+      const nets = networkInterfaces();
       let ip = null;
-      try {
-        const wifiInfo = execSync("termux-wifi-connectioninfo 2>/dev/null", { timeout: 3000 }).toString();
-        const match = wifiInfo.match(/"ip"\s*:\s*"([^"]+)"/);
-        if (match && match[1] && match[1] !== "0.0.0.0") {
-          ip = match[1];
-        }
-      } catch (e) { /* not on Termux, fall through */ }
-
-      // Fallback: use the requesting client's view of the server
-      if (!ip) {
-        // The request itself tells us what IP the client used to reach us
-        const host = req.headers.host;
-        if (host && !host.includes("localhost")) {
-          ip = host.split(":")[0];
-        }
-      }
-
-      // Fallback: os.networkInterfaces
-      if (!ip) {
-        const { networkInterfaces } = require("os");
-        const nets = networkInterfaces();
-        for (const name of Object.keys(nets)) {
-          for (const net of nets[name]) {
-            if (net.family === "IPv4" && !net.internal) {
-              ip = net.address;
-              break;
-            }
+      for (const name of Object.keys(nets)) {
+        for (const net of nets[name]) {
+          if (net.family === "IPv4" && !net.internal) {
+            ip = net.address;
+            break;
           }
-          if (ip) break;
         }
+        if (ip) break;
       }
-      log(`Server IP resolved to: ${ip || "localhost"}`, "network");
       res.json({ ip: ip || "localhost" });
     } catch (err) {
       log(`Error getting server IP: ${err}`, "error");
@@ -27683,29 +27660,16 @@ var import_express = __toESM(require_express2(), 1);
 var import_fs = __toESM(require("fs"), 1);
 var import_path = __toESM(require("path"), 1);
 function serveStatic(app2) {
-  // Find public/ directory
-  let distPath = import_path.default.resolve(__dirname, "public");
+  const distPath = import_path.default.resolve(__dirname, "public");
   if (!import_fs.default.existsSync(distPath)) {
-    distPath = import_path.default.resolve(process.cwd(), "public");
+    throw new Error(
+      `Could not find the build directory: ${distPath}, make sure to build the client first`
+    );
   }
-  if (!import_fs.default.existsSync(distPath)) {
-    distPath = "/sdcard/trivial-tile-trivia-portable/public";
-  }
-  if (!import_fs.default.existsSync(distPath)) {
-    distPath = "/storage/emulated/0/trivial-tile-trivia-portable/public";
-  }
-  console.log("Serving static files from:", distPath);
-
-  // Serve all static files (JS, CSS, images, sounds, etc.)
   app2.use(import_express.default.static(distPath));
-
-  // SPA fallback - serve index.html for client-side routes
-  const indexFile = import_path.default.join(distPath, "index.html");
-  app2.get("/", (req, res) => { res.sendFile(indexFile); });
-  app2.get("/board", (req, res) => { res.sendFile(indexFile); });
-  app2.get("/host", (req, res) => { res.sendFile(indexFile); });
-  app2.get("/player", (req, res) => { res.sendFile(indexFile); });
-  app2.get("/join", (req, res) => { res.sendFile(indexFile); });
+  app2.use("*", (_req, res) => {
+    res.sendFile(import_path.default.resolve(distPath, "index.html"));
+  });
 }
 
 // server/index.ts
