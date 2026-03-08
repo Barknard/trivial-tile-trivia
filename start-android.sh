@@ -137,20 +137,27 @@ if command -v termux-clipboard-set &> /dev/null; then
 fi
 echo ""
 
-# Open browser windows with delays
+# Open Host view in Chrome (window 1)
 echo "[...] Opening Host view in 3 seconds..."
 (sleep 3 && am start -a android.intent.action.VIEW -d "$HOST_URL" 2>/dev/null && echo "[OK] Host window opened") &
 
-echo "[...] Opening Incognito for Board in 8 seconds..."
-echo "     Board URL is in clipboard - just paste it!"
-(sleep 8 && am start -n com.android.chrome/com.google.android.apps.chrome.incognito.IncognitoTabLauncher 2>/dev/null && echo "[OK] Incognito window opened - paste URL from clipboard!") &
+# Open Board view in a NEW Chrome window (window 2)
+# Uses FLAG_ACTIVITY_NEW_TASK + FLAG_ACTIVITY_MULTIPLE_TASK to force a separate window
+echo "[...] Opening Board in separate window in 8 seconds..."
+(sleep 8 && am start -a android.intent.action.VIEW -d "$BOARD_URL" \
+  --ez create_new_tab true \
+  -f 0x18000000 \
+  -n com.android.chrome/com.google.android.apps.chrome.Main 2>/dev/null \
+  && echo "[OK] Board window opened!") &
 
 echo ""
 echo "==================================="
-echo "   INCOGNITO NOTE"
-echo "   Chrome blocks opening URLs in incognito."
-echo "   Board URL is copied to clipboard."
-echo "   Just PASTE in the incognito window!"
+echo "   TWO WINDOWS WILL OPEN:"
+echo "   1) Host (your controls)"
+echo "   2) Board (share to TV)"
+echo ""
+echo "   To mirror the Board to TV:"
+echo "   Select Board window > Mirror > Chrome Only"
 echo "==================================="
 echo ""
 echo "Press Ctrl+C to stop the server"
