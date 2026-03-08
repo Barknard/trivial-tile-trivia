@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <title>Trivial Tile Trivia</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#22c55e" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -21,24 +22,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap" rel="stylesheet">
-    <script>
-      // Dynamic Quiz Loader - fetches categories from output/ directory
-      window.__dynamicQuizData = {};
-      window.__dynamicQuizReady = fetch('/api/quiz-themes')
-        .then(r => r.json())
-        .then(async ({ themes }) => {
-          const entries = Object.entries(themes || {});
-          if (!entries.length) return;
-          const results = await Promise.all(
-            entries.map(([id]) => fetch('/api/quiz-data/' + id).then(r => r.json()).then(d => [id, d]))
-          );
-          for (const [id, data] of results) {
-            window.__dynamicQuizData[id] = data;
-          }
-          console.log('[DynamicQuiz] Loaded', results.length, 'dynamic themes:', Object.keys(window.__dynamicQuizData));
-        })
-        .catch(err => console.warn('[DynamicQuiz] Failed to load:', err));
-    </script>
     <script type="module" crossorigin src="/assets/index-DsPlL9Qz.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-8zT-Q6kN.css">
   </head>

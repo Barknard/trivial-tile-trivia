@@ -27520,69 +27520,6 @@ async function registerRoutes(httpServer2, app2) {
       res.json({ ip: "localhost" });
     }
   });
-  // Dynamic quiz loading from output/ directory
-  const outputDir = path.resolve(__dirname, "output");
-  let quizCache = null;
-  let quizCacheTime = 0;
-  const CACHE_TTL = 30000; // 30 second cache
-
-  function scanQuizFiles() {
-    const now = Date.now();
-    if (quizCache && (now - quizCacheTime) < CACHE_TTL) return quizCache;
-
-    const themes = {};
-    if (!fs.existsSync(outputDir)) {
-      quizCache = themes;
-      quizCacheTime = now;
-      return themes;
-    }
-
-    const files = fs.readdirSync(outputDir).filter(f => f.endsWith(".json"));
-    for (const file of files) {
-      try {
-        const raw = fs.readFileSync(path.join(outputDir, file), "utf8");
-        const data = JSON.parse(raw);
-        if (!data.theme || !data.audiences) continue;
-        const themeId = data.theme;
-        if (!themes[themeId]) themes[themeId] = { name: themeId.charAt(0).toUpperCase() + themeId.slice(1), categories: {} };
-        const catName = data.category || file.replace("_complete.json", "").replace(themeId + "_", "");
-        const catId = data.category_id || catName.toLowerCase().replace(/\s+/g, "_");
-        themes[themeId].categories[catId] = { name: catName, audiences: {} };
-        for (const [audience, questions] of Object.entries(data.audiences)) {
-          if (Array.isArray(questions) && questions.length > 0) {
-            themes[themeId].categories[catId].audiences[audience] = questions;
-          }
-        }
-      } catch (e) { /* skip bad files */ }
-    }
-    quizCache = themes;
-    quizCacheTime = now;
-    return themes;
-  }
-
-  app2.get("/api/quiz-themes", (req, res) => {
-    const themes = scanQuizFiles();
-    const summary = {};
-    for (const [id, theme] of Object.entries(themes)) {
-      summary[id] = { name: theme.name, categoryCount: Object.keys(theme.categories).length };
-    }
-    res.json({ themes: summary });
-  });
-
-  app2.get("/api/quiz-data/:themeId", (req, res) => {
-    const themes = scanQuizFiles();
-    const theme = themes[req.params.themeId];
-    if (!theme) return res.status(404).json({ error: "Theme not found" });
-    res.json(theme);
-  });
-
-  app2.post("/api/quiz-rescan", (req, res) => {
-    quizCache = null;
-    quizCacheTime = 0;
-    const themes = scanQuizFiles();
-    res.json({ message: "Rescan complete", themeCount: Object.keys(themes).length });
-  });
-
   app2.get("/api/custom-buzzers", (req, res) => {
     try {
       const soundsDir = path.join(process.cwd(), "client", "public", "sounds");
@@ -27641,9 +27578,6 @@ function serveStatic(app2) {
   }
   app2.use(import_express.default.static(distPath));
   app2.use("*", (_req, res) => {
-    res.set("Cache-Control", "no-cache, no-store, must-revalidate");
-    res.set("Pragma", "no-cache");
-    res.set("Expires", "0");
     res.sendFile(import_path.default.resolve(distPath, "index.html"));
   });
 }
@@ -27683,8 +27617,7 @@ app.use((req, res, next) => {
     if (path3.startsWith("/api")) {
       let logLine = `${req.method} ${path3} ${res.statusCode} in ${duration}ms`;
       if (capturedJsonResponse) {
-        const body = JSON.stringify(capturedJsonResponse);
-        logLine += ` :: ${body.length > 200 ? body.slice(0, 200) + "..." : body}`;
+        logLine += ` :: ${JSON.stringify(capturedJsonResponse)}`;
       }
       log(logLine);
     }
