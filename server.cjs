@@ -27660,12 +27660,17 @@ var import_express = __toESM(require_express2(), 1);
 var import_fs = __toESM(require("fs"), 1);
 var import_path = __toESM(require("path"), 1);
 function serveStatic(app2) {
-  const distPath = import_path.default.resolve(__dirname, "public");
+  // Try __dirname first, fall back to process.cwd() (fixes Termux/Android symlink issues)
+  let distPath = import_path.default.resolve(__dirname, "public");
+  if (!import_fs.default.existsSync(distPath)) {
+    distPath = import_path.default.resolve(process.cwd(), "public");
+  }
   if (!import_fs.default.existsSync(distPath)) {
     throw new Error(
-      `Could not find the build directory: ${distPath}, make sure to build the client first`
+      `Could not find the build directory. Tried: ${import_path.default.resolve(__dirname, "public")} and ${distPath}`
     );
   }
+  console.log(`Serving static files from: ${distPath}`);
   app2.use(import_express.default.static(distPath));
   app2.use("*", (_req, res) => {
     res.sendFile(import_path.default.resolve(distPath, "index.html"));
