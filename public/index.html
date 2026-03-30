@@ -29,20 +29,50 @@
       .grid.grid-cols-6 {
         max-height: 100% !important;
         overflow: hidden !important;
+        height: 100% !important;
       }
       .grid.grid-cols-6 > div {
         min-height: 0 !important;
         overflow: hidden !important;
       }
+      .grid.grid-cols-6 > button {
+        min-height: 0 !important;
+        overflow: hidden !important;
+        padding-top: 2px !important;
+        padding-bottom: 2px !important;
+        font-size: 7px !important;
+      }
       /* Make the board container fill available space without scrollbar */
       .bg-neutral-900.rounded-lg.border.border-neutral-800 {
         overflow: hidden !important;
         max-height: 100% !important;
+        height: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+      }
+      .bg-neutral-900.rounded-lg.border.border-neutral-800 > div {
+        flex: 1 !important;
+        min-height: 0 !important;
+        overflow: hidden !important;
       }
       /* Ensure host page uses full viewport height without overflow */
       #root, #root > div {
         max-height: 100vh !important;
+        max-height: 100dvh !important;
         overflow: hidden !important;
+      }
+      /* Force resizable panels to not exceed viewport */
+      [data-panel-group-direction="vertical"] {
+        max-height: 100% !important;
+      }
+      [data-panel-group-direction="vertical"] [data-panel] {
+        min-height: 0 !important;
+      }
+      /* Category name labels - keep tiny */
+      .grid.grid-cols-6 > div:not(button) {
+        font-size: 6px !important;
+        line-height: 1 !important;
+        padding: 1px 0 !important;
       }
     </style>
   </head>
