@@ -77,11 +77,10 @@ echo "$BOARD_URL" | pbcopy
 echo "Board URL copied to clipboard!"
 echo ""
 
-# Open browser windows
+# Open only the Host (control) view on launch.
+# Board URL is on the clipboard - paste into a NEW window for casting.
 sleep 2
 open "$HOST_URL"
-sleep 2
-open "$BOARD_URL"
 
 echo "Press Ctrl+C to stop the server"
 echo ""

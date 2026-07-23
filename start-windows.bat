@@ -43,22 +43,23 @@ set IP=%IP:~1%
 echo.
 echo ===================================
 echo   Starting Server...
-echo   Host: http://%IP%:5000
-echo   Board: http://%IP%:5000/board
+echo   Host:   http://%IP%:5000        (control panel - opens automatically)
+echo   Board:  http://%IP%:5000/board  (open in a SEPARATE window for casting)
+echo   Player: http://%IP%:5000        (players scan the QR on Host screen)
 echo ===================================
 echo.
 
-:: Copy board URL to clipboard
+:: Copy board URL to clipboard so the user can paste it into a new window
 echo http://%IP%:5000/board | clip
-echo Board URL copied to clipboard!
+echo Board URL copied to clipboard.
+echo To cast the board, paste it into a NEW Chrome window (Ctrl+N), then cast that window.
 echo.
 
-:: Open browser windows
+:: Open ONLY the Host (control) view on launch. Do not auto-open the Board:
+:: the user opens the Board in a separate Chrome window when ready to cast.
 start "" "http://%IP%:5000"
-timeout /t 3 /nobreak >nul
-start "" "http://%IP%:5000/board"
 
-echo Press Ctrl+C to stop the server
+echo Press Ctrl+C to stop the server.
 echo.
 
 :: Start the server

@@ -25,28 +25,30 @@
     <script type="module" crossorigin src="/assets/index-DsPlL9Qz.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-8zT-Q6kN.css">
     <style>
-      /* Force game board grid to fit without scrolling on host page */
+      /* HOST: clue-value grid fits any viewport with readable scaling text */
       .grid.grid-cols-6 {
         max-height: 100% !important;
-        overflow: hidden !important;
         height: 100% !important;
+        overflow: hidden !important;
+        align-content: stretch !important;
       }
-      .grid.grid-cols-6 > div {
+      .grid.grid-cols-6 > div:not(button) {
+        font-size: clamp(9px, 1.2vmin, 14px) !important;
+        line-height: 1.1 !important;
+        padding: 2px 0 !important;
         min-height: 0 !important;
         overflow: hidden !important;
       }
       .grid.grid-cols-6 > button {
+        font-size: clamp(12px, 2.2vmin, 28px) !important;
+        padding: 4px !important;
         min-height: 0 !important;
         overflow: hidden !important;
-        padding-top: 2px !important;
-        padding-bottom: 2px !important;
-        font-size: 7px !important;
       }
-      /* Make the board container fill available space without scrollbar */
       .bg-neutral-900.rounded-lg.border.border-neutral-800 {
-        overflow: hidden !important;
         max-height: 100% !important;
         height: 100% !important;
+        overflow: hidden !important;
         display: flex !important;
         flex-direction: column !important;
       }
@@ -55,25 +57,51 @@
         min-height: 0 !important;
         overflow: hidden !important;
       }
-      /* Ensure host page uses full viewport height without overflow */
       #root, #root > div {
         max-height: 100vh !important;
         max-height: 100dvh !important;
         overflow: hidden !important;
       }
-      /* Force resizable panels to not exceed viewport */
-      [data-panel-group-direction="vertical"] {
-        max-height: 100% !important;
+      [data-panel-group-direction="vertical"] { max-height: 100% !important; }
+      [data-panel-group-direction="vertical"] [data-panel] { min-height: 0 !important; }
+
+      /* BOARD: bottom player-score row must never clip off the viewport */
+      .mt-8.grid.grid-flow-col.auto-cols-fr.gap-4 {
+        margin-top: clamp(4px, 1vh, 16px) !important;
+        flex-shrink: 0 !important;
+        max-height: 22vh !important;
+        gap: clamp(4px, 1vw, 12px) !important;
       }
-      [data-panel-group-direction="vertical"] [data-panel] {
+      .mt-8.grid.grid-flow-col.auto-cols-fr.gap-4 > div {
+        padding: clamp(4px, 1vw, 12px) !important;
         min-height: 0 !important;
+        overflow: hidden !important;
       }
-      /* Category name labels - keep tiny */
-      .grid.grid-cols-6 > div:not(button) {
-        font-size: 6px !important;
-        line-height: 1 !important;
-        padding: 1px 0 !important;
+      .mt-8.grid.grid-flow-col.auto-cols-fr.gap-4 .text-3xl,
+      .mt-8.grid.grid-flow-col.auto-cols-fr.gap-4 [class*="text-5xl"] {
+        font-size: clamp(18px, 4.5vmin, 48px) !important;
+        line-height: 1.1 !important;
       }
+
+      /* T-cubed Quit button (injected by inline script below) */
+      #tt-quit-btn {
+        position: fixed;
+        top: 4px;
+        right: 4px;
+        z-index: 99999;
+        padding: 6px 12px;
+        background: #dc2626;
+        color: white;
+        font: 600 12px/1 system-ui, sans-serif;
+        letter-spacing: 0.04em;
+        border: 0;
+        border-radius: 6px;
+        cursor: pointer;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+        opacity: 0.85;
+        transition: opacity 0.15s, background 0.15s;
+      }
+      #tt-quit-btn:hover { opacity: 1; background: #b91c1c; }
     </style>
   </head>
   <body>
@@ -86,6 +114,71 @@
             .catch(err => console.log('SW registration failed:', err));
         });
       }
+
+      // T-cubed Quit button: floats top-right on the host page only.
+      // Confirms, then notifies the server to tear down the room, clears
+      // local state, and returns the user to the home screen.
+      (function installQuitButton(){
+        function gameIdFromAppState(){
+          try {
+            for (let i = 0; i < localStorage.length; i++) {
+              const k = localStorage.key(i);
+              const v = localStorage.getItem(k);
+              if (!v) continue;
+              let m = v.match(/[A-Z0-9]{4}/);
+              if (m && /game|session|room/i.test(k)) return m[0];
+            }
+            const txt = document.body.textContent || '';
+            const m = txt.match(/Session\s*([A-Z0-9]{3,6})/i);
+            if (m) return m[1];
+          } catch (e) {}
+          return null;
+        }
+
+        function shouldShow(){
+          // Show on /host AND on /board (both are "operator" surfaces). Hide on
+          // player views to avoid an inviting red button for guests.
+          const p = location.pathname;
+          return p === '/host' || p.startsWith('/board');
+        }
+
+        function quit(){
+          if (!confirm('End this game session?\nAll players will be disconnected.')) return;
+          const gameId = gameIdFromAppState();
+          const done = () => {
+            try { localStorage.clear(); } catch (e) {}
+            try { sessionStorage.clear(); } catch (e) {}
+            location.href = '/';
+          };
+          if (gameId) {
+            fetch('/api/quit?gameId=' + encodeURIComponent(gameId), { method: 'POST' })
+              .catch(() => {}).finally(done);
+          } else { done(); }
+        }
+
+        function ensureButton(){
+          if (!shouldShow()) {
+            const old = document.getElementById('tt-quit-btn');
+            if (old) old.remove();
+            return;
+          }
+          if (document.getElementById('tt-quit-btn')) return;
+          const btn = document.createElement('button');
+          btn.id = 'tt-quit-btn';
+          btn.type = 'button';
+          btn.textContent = 'QUIT';
+          btn.title = 'End the game session and return to the home screen.';
+          btn.addEventListener('click', quit);
+          document.body.appendChild(btn);
+        }
+
+        // Run on load and whenever React swaps routes (history API / hash).
+        window.addEventListener('load', ensureButton);
+        window.addEventListener('popstate', ensureButton);
+        const _ps = history.pushState; history.pushState = function(){ const r = _ps.apply(this, arguments); setTimeout(ensureButton, 50); return r; };
+        const _rs = history.replaceState; history.replaceState = function(){ const r = _rs.apply(this, arguments); setTimeout(ensureButton, 50); return r; };
+        setInterval(ensureButton, 1500); // safety net for SPA navigation
+      })();
     </script>
   </body>
 </html>

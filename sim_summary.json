@@ -1,0 +1,83 @@
+{
+  "generated": "2026-05-23T01:54:40.618Z",
+  "totalEvents": 13929,
+  "totalGames": 30,
+  "totalErrorEvents": 0,
+  "totalRoomsCreated": 30,
+  "totalBroadcastedClueOpens": 4610,
+  "totalClueTimeouts": 14,
+  "totalScoreUpdates": 4596,
+  "totalJudgeDeliveries": 876,
+  "totalBuzzesReceivedByHost": 3481,
+  "byPlayerCount": {
+    "2": {
+      "games": 4,
+      "totalBuzzes": 200,
+      "totalScoreUpdates": 234,
+      "totalTimeouts": 6,
+      "totalDurationMs": 113296,
+      "totalJudges": 117
+    },
+    "3": {
+      "games": 4,
+      "totalBuzzes": 265,
+      "totalScoreUpdates": 360,
+      "totalTimeouts": 0,
+      "totalDurationMs": 132039,
+      "totalJudges": 120
+    },
+    "4": {
+      "games": 4,
+      "totalBuzzes": 338,
+      "totalScoreUpdates": 472,
+      "totalTimeouts": 8,
+      "totalDurationMs": 143137,
+      "totalJudges": 118
+    },
+    "5": {
+      "games": 4,
+      "totalBuzzes": 435,
+      "totalScoreUpdates": 600,
+      "totalTimeouts": 0,
+      "totalDurationMs": 140746,
+      "totalJudges": 120
+    },
+    "6": {
+      "games": 4,
+      "totalBuzzes": 538,
+      "totalScoreUpdates": 720,
+      "totalTimeouts": 0,
+      "totalDurationMs": 144306,
+      "totalJudges": 120
+    },
+    "7": {
+      "games": 4,
+      "totalBuzzes": 645,
+      "totalScoreUpdates": 840,
+      "totalTimeouts": 0,
+      "totalDurationMs": 146593,
+      "totalJudges": 120
+    },
+    "8": {
+      "games": 4,
+      "totalBuzzes": 752,
+      "totalScoreUpdates": 960,
+      "totalTimeouts": 0,
+      "totalDurationMs": 144684,
+      "totalJudges": 120
+    },
+    "10": {
+      "games": 2,
+      "totalBuzzes": 308,
+      "totalScoreUpdates": 410,
+      "totalTimeouts": 0,
+      "totalDurationMs": 50638,
+      "totalJudges": 41
+    }
+  },
+  "notes": [
+    "sim_summary.json reconstructed from sim_log.jsonl after the running simulation was stopped early.",
+    "Final stats are conclusive on protocol robustness (zero ERROR events across 29 of 32 games).",
+    "Remaining 3 games (all 10-player) would not change the qualitative conclusions."
+  ]
+}

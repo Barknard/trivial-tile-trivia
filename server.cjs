@@ -27496,6 +27496,40 @@ async function registerRoutes(httpServer2, app2) {
     const exists = gameRooms.has(gameId);
     res.json({ exists });
   });
+  // T-cubed: end a session cleanly from the in-app Quit button.
+  // Closes all sockets in the room, then deletes the room from memory so
+  // the gameId is freed and players see HOST_DISCONNECTED.
+  app2.post("/api/quit", (req, res) => {
+    const gameId = (req.query && req.query.gameId) || (req.body && req.body.gameId);
+    if (!gameId) {
+      res.status(400).json({ ok: false, error: "gameId required" });
+      return;
+    }
+    const room = gameRooms.get(gameId);
+    if (!room) {
+      res.json({ ok: true, closed: false, reason: "no such room" });
+      return;
+    }
+    try {
+      room.clients.forEach((clientWs) => {
+        try {
+          if (clientWs && clientWs.readyState === 1) {
+            clientWs.send(JSON.stringify({ type: "HOST_DISCONNECTED" }));
+            clientWs.close();
+          }
+        } catch {}
+      });
+      try {
+        if (room.hostWs && room.hostWs.readyState === 1) room.hostWs.close();
+      } catch {}
+      gameRooms.delete(gameId);
+      log(`Game room quit via API: ${gameId}`, "ws");
+      res.json({ ok: true, closed: true });
+    } catch (err) {
+      log(`Quit API error: ${err}`, "error");
+      res.status(500).json({ ok: false, error: String(err) });
+    }
+  });
   app2.get("/api/server-ip", (req, res) => {
     try {
       const nets = os.networkInterfaces();
@@ -27642,8 +27676,7 @@ app.use((req, res, next) => {
   httpServer.listen(
     {
       port,
-      host: process.env.HOST || "0.0.0.0",
-      reusePort: true
+      host: process.env.HOST || "0.0.0.0"
     },
     () => {
       log(`serving on port ${port}`);
