@@ -7,6 +7,11 @@ plugins {
 def buildNumber = (System.getenv("VERSION_CODE") ?: "1") as Integer
 def buildName = System.getenv("VERSION_NAME") ?: "1.0.${buildNumber}"
 
+// A build follows the branch it was built from for its content updates, so a
+// test build off a branch can't pull the master copy of the game down over its
+// own newer files. Master builds track master, which is what installs get.
+def contentBranch = System.getenv("CONTENT_BRANCH") ?: System.getenv("GITHUB_REF_NAME") ?: "master"
+
 // The web app itself lives at the repo root in public/. Rather than keeping a
 // second copy under the Android project, it gets synced into assets/web at
 // build time.
@@ -27,6 +32,7 @@ android {
         targetSdk 35
         versionCode buildNumber
         versionName buildName
+        buildConfigField "String", "CONTENT_BRANCH", "\"${contentBranch}\""
     }
 
     signingConfigs {

@@ -47,6 +47,9 @@ jobs:
         env:
           VERSION_CODE: ${{ steps.version.outputs.code }}
           VERSION_NAME: ${{ steps.version.outputs.name }}
+          # The build follows its own branch for content updates, so a test
+          # build never pulls master's copy of the game over its newer files.
+          CONTENT_BRANCH: ${{ github.ref_name }}
         run: gradle --no-daemon assembleRelease
 
       - name: Name the APK

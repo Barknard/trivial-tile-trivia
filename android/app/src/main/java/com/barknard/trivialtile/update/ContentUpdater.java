@@ -4,6 +4,8 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.util.Log;
 
+import com.barknard.trivialtile.BuildConfig;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -26,7 +28,12 @@ public final class ContentUpdater {
     private static final String TAG = "TrivialTile";
 
     public static final String REPO = "Barknard/trivial-tile-trivia";
-    public static final String BRANCH = "master";
+    /**
+     * Which branch this build follows for game content. Set at build time from
+     * the branch the APK was built on, so a test build never pulls master's
+     * copy of the game down over its own newer files.
+     */
+    public static final String BRANCH = BuildConfig.CONTENT_BRANCH;
     private static final String CONTENT_PREFIX = "public/";
 
     public interface Progress {
@@ -86,7 +93,7 @@ public final class ContentUpdater {
             }
             String known = currentCommit();
             if (commitSha.equals(known) && !hasPendingUpdate()) {
-                status(progress, "Up to date (" + shortSha(commitSha) + ")");
+                status(progress, "Up to date (" + shortSha(commitSha) + ")" + branchLabel());
                 markChecked();
                 return new Result(true, 0, false, false, commitSha, "Up to date");
             }
@@ -132,7 +139,7 @@ public final class ContentUpdater {
             if (toDownload.isEmpty() && toDelete.isEmpty()) {
                 // Same files, new commit id (a change elsewhere in the repo).
                 prefs().edit().putString(ContentStore.KEY_CONTENT_SHA, commitSha).apply();
-                status(progress, "Up to date (" + shortSha(commitSha) + ")");
+                status(progress, "Up to date (" + shortSha(commitSha) + ")" + branchLabel());
                 markChecked();
                 return new Result(true, 0, false, false, commitSha, "Up to date");
             }
@@ -206,6 +213,11 @@ public final class ContentUpdater {
             }
         }
         return encoded.toString();
+    }
+
+    /** Test builds say which branch they are following; master builds stay quiet. */
+    private static String branchLabel() {
+        return "master".equals(BRANCH) ? "" : " · " + BRANCH;
     }
 
     public static String shortSha(String sha) {

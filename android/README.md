@@ -46,6 +46,12 @@ staged and applied the next time the app starts — a game in progress is never
 disturbed. If the tablet is offline, the app simply hosts the copy it already
 has.
 
+Each build follows **the branch it was built from**. A build off `master` — the
+one people install — tracks `master`. A test build off a branch tracks that
+branch, so it can't pull the older `master` copy of the game down over its own
+newer files, and it names the branch in its update line. That is set at build
+time from `CONTENT_BRANCH` (defaulting to `master` for local builds).
+
 Adding questions is unchanged: drop JSON files in `output/`, commit, push. A
 GitHub Action merges them into `public/runtime-questions.json`, and the app picks
 that up on its next launch.
