@@ -30,6 +30,9 @@
     <string name="share_text">Join the trivia game: %1$s</string>
     <string name="share_title">Share the join link</string>
     <string name="not_hosting_yet">Still starting up — one second…</string>
+    <string name="game_code">Game code: <b>%1$s</b> — scanning the code skips typing it</string>
+    <string name="no_game_yet">Tap “Open host controls” to start a game</string>
+    <string name="board_needs_game">Start a game with “Open host controls” first, then the board joins itself</string>
     <string name="no_browser">No browser installed to open the game</string>
     <string name="update_not_ready">Hosting service isn\'t running yet</string>
     <string name="allow_installs">Allow this app to install updates, then tap again</string>

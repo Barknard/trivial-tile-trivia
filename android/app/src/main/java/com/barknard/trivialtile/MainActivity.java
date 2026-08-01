@@ -11,6 +11,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.provider.Settings;
+import android.text.Html;
 import android.util.Log;
 import android.view.View;
 import android.view.WindowManager;
@@ -35,6 +36,7 @@ public class MainActivity extends android.app.Activity {
     private TextView statusView;
     private TextView urlView;
     private TextView playersView;
+    private TextView gameCodeView;
     private TextView updateView;
     private ImageView qrView;
     private Button appUpdateButton;
@@ -52,6 +54,7 @@ public class MainActivity extends android.app.Activity {
         statusView = findViewById(R.id.status);
         urlView = findViewById(R.id.url);
         playersView = findViewById(R.id.players);
+        gameCodeView = findViewById(R.id.game_code);
         updateView = findViewById(R.id.update_status);
         qrView = findViewById(R.id.qr);
         appUpdateButton = findViewById(R.id.install_update);
@@ -150,17 +153,26 @@ public class MainActivity extends android.app.Activity {
         urlView.setText(url.isEmpty() ? getString(R.string.url_placeholder) : url);
         playersView.setText(getResources().getQuantityString(R.plurals.players_joined,
                 HostState.players, HostState.players));
+
+        String code = HostState.gameId;
+        gameCodeView.setText(code == null
+                ? getString(R.string.no_game_yet)
+                : Html.fromHtml(getString(R.string.game_code, code), Html.FROM_HTML_MODE_LEGACY));
+        gameCodeView.setTextColor(getColor(code == null ? R.color.text_dim : R.color.text_bright));
         updateView.setText(HostState.updateStatus);
         appUpdateButton.setVisibility(HostState.availableApkUrl == null ? View.GONE : View.VISIBLE);
         if (HostState.availableAppVersion != null) {
             appUpdateButton.setText(getString(R.string.install_app_update, HostState.availableAppVersion));
         }
 
-        if (!url.isEmpty() && !Objects.equals(url, qrEncodedUrl)) {
-            Bitmap qr = Qr.encode(url, 640);
+        // The QR carries the game code too, so scanning drops players straight
+        // onto the name screen.
+        String qrTarget = HostState.joinUrl.isEmpty() ? url : HostState.joinUrl;
+        if (!qrTarget.isEmpty() && !Objects.equals(qrTarget, qrEncodedUrl)) {
+            Bitmap qr = Qr.encode(qrTarget, 640);
             if (qr != null) {
                 qrView.setImageBitmap(qr);
-                qrEncodedUrl = url;
+                qrEncodedUrl = qrTarget;
             }
         }
     }
@@ -185,7 +197,8 @@ public class MainActivity extends android.app.Activity {
         }
         copyToClipboard("Board link", HostState.boardUrl);
         openInBrowser(HostState.boardUrl, true);
-        Toast.makeText(this, R.string.board_hint, Toast.LENGTH_LONG).show();
+        Toast.makeText(this, HostState.gameId == null ? R.string.board_needs_game : R.string.board_hint,
+                Toast.LENGTH_LONG).show();
     }
 
     private void openInBrowser(String url, boolean separateWindow) {
@@ -223,9 +236,13 @@ public class MainActivity extends android.app.Activity {
 
     private void copyPlayerLink() {
         if (requireUrl()) {
-            copyToClipboard("Trivia link", HostState.playerUrl);
+            copyToClipboard("Trivia link", joinLink());
             Toast.makeText(this, R.string.link_copied, Toast.LENGTH_SHORT).show();
         }
+    }
+
+    private String joinLink() {
+        return HostState.joinUrl.isEmpty() ? HostState.playerUrl : HostState.joinUrl;
     }
 
     private void sharePlayerLink() {
@@ -234,7 +251,7 @@ public class MainActivity extends android.app.Activity {
         }
         Intent share = new Intent(Intent.ACTION_SEND)
                 .setType("text/plain")
-                .putExtra(Intent.EXTRA_TEXT, getString(R.string.share_text, HostState.playerUrl));
+                .putExtra(Intent.EXTRA_TEXT, getString(R.string.share_text, joinLink()));
         startActivity(Intent.createChooser(share, getString(R.string.share_title)));
     }
 

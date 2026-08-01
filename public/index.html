@@ -21,7 +21,20 @@
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <!--
+      Load the web fonts WITHOUT blocking rendering. On a party WiFi with no
+      internet this request hangs rather than failing, and as a plain
+      <link rel="stylesheet"> it left every screen completely blank until it
+      timed out. Now the game paints straight away and the fonts drop in later
+      if the network can reach Google at all.
+    -->
+    <link rel="preload" as="style"
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap"
+          onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap">
+    </noscript>
     <script type="module" crossorigin src="/assets/index-DsPlL9Qz.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-8zT-Q6kN.css">
     <style>

@@ -19,6 +19,19 @@ can scan), and has buttons to open the host controls and the board.
 Every push to `master` that touches `android/` or `public/` builds a new APK and
 publishes it as a release, so the newest build is always at the top of that page.
 
+## Running a game
+
+1. Open the app — it is already hosting.
+2. Tap **Open host controls**. That starts the game and the app picks up its
+   code (shown under the join address).
+3. Tap **Open board** for the TV. It opens `/board?gameId=CODE` and connects
+   itself — nothing to type.
+4. Players scan the QR on the app (or on the board) and land on the join screen
+   with the code already filled in; they only pick a name.
+
+The app's QR, **Copy link** and **Share link** all carry the live game code once
+a game is running, so the code only ever has to be typed if someone insists.
+
 ## How updates work
 
 Two separate things update, for two different reasons:
@@ -89,6 +102,17 @@ with the old one — uninstall first if you ever change it.
 
 ```bash
 cd android && java tools/IconGen.java app/src/main/res
+```
+
+## Testing it
+
+`tools/e2e/four-device-test.js` plays a whole game across four browser sessions
+(host, board, two players) against any running server — including the app itself
+over WiFi:
+
+```bash
+cd tools/e2e && npm install playwright
+BASE=http://<tablet-ip>:5000 node four-device-test.js
 ```
 
 ## Notes

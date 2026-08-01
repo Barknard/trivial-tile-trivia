@@ -293,10 +293,13 @@ public final class GameServer {
                 return;
             }
             if (path.equals("/api/status")) {
+                // Also what the app reads to build board and join links.
+                String active = hub.activeGameId();
                 writeJson(out, 200, new JSONObject()
                         .put("ok", true)
                         .put("rooms", hub.roomCount())
-                        .put("players", hub.playerCount()), keepAlive);
+                        .put("players", hub.playerCount())
+                        .put("gameId", active == null ? JSONObject.NULL : active), keepAlive);
                 return;
             }
         } catch (Exception e) {

@@ -203,7 +203,7 @@ public class HostService extends Service {
         }
     }
 
-    /** @return true when the WiFi address changed since last time */
+    /** @return true when the address or the live game code changed since last time */
     private boolean publishAddresses() {
         GameServer running = server;
         if (running == null) {
@@ -211,11 +211,18 @@ public class HostService extends Service {
         }
         String ip = NetUtils.bestLanAddress();
         String base = "http://" + ip + ":" + running.port();
-        boolean changed = !base.equals(HostState.playerUrl);
+        // Once the host has started a game, every link carries its code so
+        // nobody has to type it in: the board connects itself and players only
+        // pick a name.
+        String gameId = running.hub().activeGameId();
+        boolean changed = !base.equals(HostState.playerUrl)
+                || (gameId == null ? HostState.gameId != null : !gameId.equals(HostState.gameId));
         HostState.port = running.port();
         HostState.playerUrl = base;
+        HostState.gameId = gameId;
         HostState.hostUrl = base + "/host";
-        HostState.boardUrl = base + "/board";
+        HostState.boardUrl = gameId == null ? base + "/board" : base + "/board?gameId=" + gameId;
+        HostState.joinUrl = gameId == null ? base : base + "/?gameId=" + gameId;
         if (changed) {
             HostState.changed();
         }

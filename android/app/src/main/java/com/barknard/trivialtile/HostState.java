@@ -27,7 +27,12 @@ public final class HostState {
     public static volatile String statusMessage = "";
     public static volatile String playerUrl = "";
     public static volatile String hostUrl = "";
+    /** Board link, carrying the live game code when there is one. */
     public static volatile String boardUrl = "";
+    /** Join link for players, with the code pre-filled when there is one. */
+    public static volatile String joinUrl = "";
+    /** Code of the game currently being hosted, or null before one starts. */
+    public static volatile String gameId = null;
     public static volatile int port = -1;
     public static volatile int players = 0;
     public static volatile String updateStatus = "";

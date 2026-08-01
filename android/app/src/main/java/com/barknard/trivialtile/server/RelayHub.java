@@ -31,8 +31,30 @@ public final class RelayHub implements WsConnection.Listener {
 
     private final Map<String, Room> rooms = new ConcurrentHashMap<>();
 
+    /** The game the host most recently started, so the app can link to it. */
+    private volatile String activeGameId;
+
     public boolean hasRoom(String gameId) {
         return rooms.containsKey(gameId);
+    }
+
+    /**
+     * The code of the live game, or null when nobody is hosting one yet. The app
+     * uses this to hand out board and join links that need no typing.
+     */
+    public String activeGameId() {
+        String id = activeGameId;
+        if (id == null) {
+            return null;
+        }
+        Room room = rooms.get(id);
+        if (room == null) {
+            activeGameId = null;
+            return null;
+        }
+        synchronized (room) {
+            return room.host != null && room.host.isOpen() ? id : null;
+        }
     }
 
     public int roomCount() {
@@ -110,6 +132,9 @@ public final class RelayHub implements WsConnection.Listener {
                 room.host = null;
             }
             rooms.remove(state.gameId, room);
+            if (state.gameId.equals(activeGameId)) {
+                activeGameId = null;
+            }
             String notice = "{\"type\":\"HOST_DISCONNECTED\"}";
             for (WsConnection client : orphans) {
                 client.sendText(notice);
@@ -157,6 +182,7 @@ public final class RelayHub implements WsConnection.Listener {
         }
         state.gameId = gameId;
         state.isHost = true;
+        activeGameId = gameId;
         Slog.i(TAG, "Game room created: " + gameId);
         connection.sendText(json("type", "ROOM_CREATED", "gameId", gameId));
     }

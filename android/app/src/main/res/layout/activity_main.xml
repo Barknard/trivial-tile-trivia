@@ -70,6 +70,15 @@
                 android:textStyle="bold"
                 android:typeface="monospace" />
 
+            <TextView
+                android:id="@+id/game_code"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:textColor="@color/text_bright"
+                android:textSize="15sp" />
+
             <ImageView
                 android:id="@+id/qr"
                 android:layout_width="200dp"
