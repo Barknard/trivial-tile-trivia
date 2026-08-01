@@ -27,6 +27,8 @@ public final class ContentStore {
     public static final String PREFS = "trivia";
     private static final String KEY_BUNDLED_VERSION = "bundled_version";
     public static final String KEY_CONTENT_SHA = "content_sha";
+    /** Commit of a download that is waiting in staging, promoted once applied. */
+    public static final String KEY_STAGED_SHA = "staged_sha";
     public static final String KEY_PENDING_UPDATE = "pending_update";
     public static final String KEY_LAST_CHECK = "last_check";
 
@@ -93,10 +95,14 @@ public final class ContentStore {
                 listener.onProgress(done, files.size());
             }
         }
+        // The bundled copy is a fresh baseline: anything staged against the old
+        // content could be older than what just shipped in the APK.
+        deleteTree(stagingDir());
         prefs().edit()
                 .putInt(KEY_BUNDLED_VERSION, currentVersionCode)
-                // The bundled copy is a fresh baseline; forget any older commit marker.
                 .remove(KEY_CONTENT_SHA)
+                .remove(KEY_STAGED_SHA)
+                .putBoolean(KEY_PENDING_UPDATE, false)
                 .apply();
         Log.i(TAG, "Unpacked " + files.size() + " bundled files into " + root);
     }
@@ -135,6 +141,7 @@ public final class ContentStore {
         }
         File live = liveDir();
         boolean changed = false;
+        boolean failed = false;
         try {
             File deletions = new File(staging, ".deletions");
             if (deletions.isFile()) {
@@ -149,10 +156,23 @@ public final class ContentStore {
             }
             changed |= moveTree(staging, live);
         } catch (IOException e) {
+            failed = true;
             Log.e(TAG, "Applying staged update failed", e);
         }
+        SharedPreferences.Editor edit = prefs().edit();
+        if (failed) {
+            // Leave the download in place and try again next launch.
+            edit.apply();
+            return changed;
+        }
         deleteTree(staging);
-        prefs().edit().putBoolean(KEY_PENDING_UPDATE, false).apply();
+        edit.putBoolean(KEY_PENDING_UPDATE, false);
+        // The commit is only "installed" once its files are actually in place.
+        String staged = prefs().getString(KEY_STAGED_SHA, null);
+        if (staged != null) {
+            edit.putString(KEY_CONTENT_SHA, staged).remove(KEY_STAGED_SHA);
+        }
+        edit.apply();
         if (changed) {
             Log.i(TAG, "Applied staged content update");
         }

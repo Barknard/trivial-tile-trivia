@@ -161,7 +161,7 @@ public final class ContentUpdater {
 
             prefs().edit()
                     .putBoolean(ContentStore.KEY_PENDING_UPDATE, true)
-                    .putString(ContentStore.KEY_CONTENT_SHA, commitSha)
+                    .putString(ContentStore.KEY_STAGED_SHA, commitSha)
                     .apply();
             markChecked();
 
