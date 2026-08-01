@@ -23,6 +23,8 @@
             <action android:name="android.intent.action.VIEW" />
             <data android:scheme="http" />
         </intent>
+        <!-- Checked so the board can be opened in its own Chrome window -->
+        <package android:name="com.android.chrome" />
     </queries>
 
     <application

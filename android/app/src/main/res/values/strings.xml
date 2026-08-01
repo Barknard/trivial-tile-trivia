@@ -21,6 +21,8 @@
     <string name="share_link">Share link</string>
     <string name="check_updates">Check for updates</string>
     <string name="stop_hosting">Stop hosting</string>
+    <string name="start_hosting">Start hosting</string>
+    <string name="hosting_stopped">Hosting stopped</string>
     <string name="install_app_update">Install app update (%1$s)</string>
 
     <string name="board_hint">Board link copied. Cast this Chrome window to your TV, then switch back here for host controls.</string>

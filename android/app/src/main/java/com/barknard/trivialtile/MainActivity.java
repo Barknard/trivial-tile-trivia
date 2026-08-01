@@ -38,6 +38,7 @@ public class MainActivity extends android.app.Activity {
     private TextView updateView;
     private ImageView qrView;
     private Button appUpdateButton;
+    private Button hostingToggle;
     private String qrEncodedUrl = "";
 
     private final Runnable stateListener = this::render;
@@ -54,13 +55,14 @@ public class MainActivity extends android.app.Activity {
         updateView = findViewById(R.id.update_status);
         qrView = findViewById(R.id.qr);
         appUpdateButton = findViewById(R.id.install_update);
+        hostingToggle = findViewById(R.id.stop_hosting);
 
         findViewById(R.id.open_host).setOnClickListener(v -> openHost());
         findViewById(R.id.open_board).setOnClickListener(v -> openBoard());
         findViewById(R.id.copy_link).setOnClickListener(v -> copyPlayerLink());
         findViewById(R.id.share_link).setOnClickListener(v -> sharePlayerLink());
         findViewById(R.id.check_updates).setOnClickListener(v -> checkForUpdates());
-        findViewById(R.id.stop_hosting).setOnClickListener(v -> stopHosting());
+        hostingToggle.setOnClickListener(v -> toggleHosting());
         appUpdateButton.setOnClickListener(v -> installAppUpdate());
 
         askForNotificationPermission();
@@ -71,8 +73,9 @@ public class MainActivity extends android.app.Activity {
     protected void onResume() {
         super.onResume();
         HostState.addListener(stateListener);
-        if (!HostService.isHosting() && HostState.stage != HostState.Stage.UNPACKING
-                && HostState.stage != HostState.Stage.STARTING) {
+        // Restart only if the service died on us - if the user tapped "Stop
+        // hosting", leave it stopped until they ask for it again.
+        if (!HostService.isHosting() && HostState.stage == HostState.Stage.HOSTING) {
             startHosting();
         }
         render();
@@ -93,10 +96,15 @@ public class MainActivity extends android.app.Activity {
         }
     }
 
-    private void stopHosting() {
-        Intent intent = new Intent(this, HostService.class).setAction(HostService.ACTION_STOP);
-        startService(intent);
-        Toast.makeText(this, "Hosting stopped", Toast.LENGTH_SHORT).show();
+    private void toggleHosting() {
+        if (HostService.isHosting() || HostState.stage == HostState.Stage.STARTING
+                || HostState.stage == HostState.Stage.UNPACKING) {
+            startService(new Intent(this, HostService.class).setAction(HostService.ACTION_STOP));
+            Toast.makeText(this, R.string.hosting_stopped, Toast.LENGTH_SHORT).show();
+        } else {
+            HostState.set(HostState.Stage.STARTING, getString(R.string.status_starting));
+            startHosting();
+        }
     }
 
     private void askForNotificationPermission() {
@@ -134,6 +142,10 @@ public class MainActivity extends android.app.Activity {
                 statusView.setTextColor(getColor(R.color.text_dim));
                 break;
         }
+
+        boolean live = stage == HostState.Stage.HOSTING || stage == HostState.Stage.STARTING
+                || stage == HostState.Stage.UNPACKING;
+        hostingToggle.setText(live ? R.string.stop_hosting : R.string.start_hosting);
 
         urlView.setText(url.isEmpty() ? getString(R.string.url_placeholder) : url);
         playersView.setText(getResources().getQuantityString(R.plurals.players_joined,
