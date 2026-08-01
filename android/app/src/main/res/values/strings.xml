@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trivial Tile Trivia</string>
+
+    <string name="status_starting">Starting up…</string>
+    <string name="status_hosting">Hosting on this WiFi</string>
+    <string name="status_stopped">Not hosting</string>
+
+    <string name="players_join_at">Players join at</string>
+    <string name="url_placeholder">http://…</string>
+    <string name="qr_description">QR code players can scan to join</string>
+
+    <plurals name="players_joined">
+        <item quantity="one">%d player joined</item>
+        <item quantity="other">%d players joined</item>
+    </plurals>
+
+    <string name="open_host">Open host controls</string>
+    <string name="open_board">Open board (for the TV)</string>
+    <string name="copy_link">Copy link</string>
+    <string name="share_link">Share link</string>
+    <string name="check_updates">Check for updates</string>
+    <string name="stop_hosting">Stop hosting</string>
+    <string name="install_app_update">Install app update (%1$s)</string>
+
+    <string name="board_hint">Board link copied. Cast this Chrome window to your TV, then switch back here for host controls.</string>
+    <string name="link_copied">Link copied</string>
+    <string name="share_text">Join the trivia game: %1$s</string>
+    <string name="share_title">Share the join link</string>
+    <string name="not_hosting_yet">Still starting up — one second…</string>
+    <string name="no_browser">No browser installed to open the game</string>
+    <string name="update_not_ready">Hosting service isn\'t running yet</string>
+    <string name="allow_installs">Allow this app to install updates, then tap again</string>
+
+    <string name="footer_hint">Keep this app open while you play.\nEveryone must be on the same WiFi.</string>
+</resources>

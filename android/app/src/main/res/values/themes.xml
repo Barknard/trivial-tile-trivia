@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TriviaTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_stage</item>
+        <item name="android:statusBarColor">@color/stage_top</item>
+        <item name="android:navigationBarColor">@color/stage_bottom</item>
+        <item name="android:colorAccent">@color/accent_green</item>
+        <item name="android:textColorPrimary">@color/text_bright</item>
+        <item name="android:textColorSecondary">@color/text_dim</item>
+    </style>
+</resources>
