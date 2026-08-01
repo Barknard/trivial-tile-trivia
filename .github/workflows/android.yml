@@ -62,15 +62,18 @@ jobs:
           path: dist/*.apk
           if-no-files-found: error
 
-      # Only the default branch produces the release people download from.
+      # Every build is downloadable, but only master publishes a full release.
+      # Branch builds go out as prereleases, which the app's updater ignores -
+      # so a work-in-progress build never installs itself on the tablet.
       - name: Publish release
-        if: github.ref == 'refs/heads/master'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: app-v${{ steps.version.outputs.code }}
-          name: App v${{ steps.version.outputs.code }}
+          name: App v${{ steps.version.outputs.code }}${{ github.ref == 'refs/heads/master' && '' || ' (test build)' }}
+          prerelease: ${{ github.ref != 'refs/heads/master' }}
           body: |
-            Android app build ${{ steps.version.outputs.code }} from commit ${{ github.sha }}.
+            Android app build ${{ steps.version.outputs.code }} from `${{ github.ref_name }}`
+            (commit ${{ github.sha }}).
 
             Download the APK below and open it on the tablet to install.
             Already installed? The app updates its questions and game files from

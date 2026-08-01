@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.nio.charset.StandardCharsets;
-import java.security.MessageDigest;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -258,29 +257,9 @@ public final class ContentStore {
         }
     }
 
-    /**
-     * Git's object id for a file: sha1("blob &lt;length&gt;\0" + contents). Computing it
-     * locally means the app can diff itself against a GitHub tree listing without
-     * needing a manifest to have been shipped alongside the content.
-     */
     public static String gitBlobSha(File file) {
         try {
-            MessageDigest sha1 = MessageDigest.getInstance("SHA-1");
-            sha1.update(("blob " + file.length() + "\0").getBytes(StandardCharsets.UTF_8));
-            try (InputStream in = new FileInputStream(file)) {
-                byte[] buffer = new byte[64 * 1024];
-                int read;
-                while ((read = in.read(buffer)) >= 0) {
-                    sha1.update(buffer, 0, read);
-                }
-            }
-            byte[] digest = sha1.digest();
-            StringBuilder hex = new StringBuilder(40);
-            for (byte b : digest) {
-                hex.append(Character.forDigit((b >> 4) & 0xF, 16));
-                hex.append(Character.forDigit(b & 0xF, 16));
-            }
-            return hex.toString();
+            return GitBlob.sha(file);
         } catch (Exception e) {
             Log.e(TAG, "Could not hash " + file, e);
             return null;
