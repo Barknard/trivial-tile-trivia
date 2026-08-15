@@ -55,12 +55,15 @@ const themeMap = {
 
   'valentines': 'valentines',
 
-  // Everything else lands in the game's catch-all bucket.
-  'beach': 'general',
-  'beach_colors': 'general',
-  'outdoor_fire_gatherings': 'general',
-  'spring': 'general',
-  'general': 'general'
+  // The Beach theme. The handful of spring, campfire and general-knowledge
+  // files ride along here: on their own they only make two categories that
+  // cover all five ages, which is below the six the game needs before it will
+  // use the bank at all.
+  'beach': 'beach',
+  'beach_colors': 'beach',
+  'outdoor_fire_gatherings': 'beach',
+  'spring': 'beach',
+  'general': 'beach'
 };
 
 /** At least this many questions per category per audience, or the game fills in samples. */
@@ -179,7 +182,7 @@ function scanQuestionsFolder(dir) {
       (partial.length ? `, ${partial.length} categories left out for not covering every age` : '') + note);
   }
 
-  const missingThemes = ['christmas', 'new_year', 'birthday', 'valentines'].filter(t => !imported[t]);
+  const missingThemes = ['christmas', 'new_year', 'birthday', 'valentines', 'beach'].filter(t => !imported[t]);
   if (missingThemes.length) {
     console.log('        Warning: no questions for theme(s): ' + missingThemes.join(', ') +
       ' - those boards will fall back to the built-in set');

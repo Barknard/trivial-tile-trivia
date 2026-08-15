@@ -18,6 +18,7 @@ const COMBOS = (process.env.QUICK ? [
   ['Christmas', 'kids_4_under', 'Little Ones'],
   ['New Year', 'teenagers', 'Teenagers'],
   ['Birthday', 'no_humanity', 'No Humanity'],
+  ['Beach', 'kids_4_under', 'Little Ones'],
 ] : [
   ['Christmas', 'kids_4_under', 'Little Ones'],
   ['Christmas', 'no_humanity', 'No Humanity'],
@@ -25,6 +26,9 @@ const COMBOS = (process.env.QUICK ? [
   ['Birthday', 'kids_10_under', 'Kids'],
   ['Birthday', 'adults', 'Adults'],
   ["Valentine's", 'adults', 'Adults'],
+  ['Beach', 'kids_4_under', 'Little Ones'],
+  ['Beach', 'teenagers', 'Teenagers'],
+  ['Beach', 'no_humanity', 'No Humanity'],
 ]);
 
 let bad = 0;
