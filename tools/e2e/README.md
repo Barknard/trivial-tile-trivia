@@ -28,3 +28,20 @@ What it checks:
 fast, which is what a party WiFi with no internet does. It is how the
 render-blocking Google Fonts stylesheet — which used to leave every screen
 blank — was found.
+
+# Question bank test
+
+```bash
+node question-bank-test.js            # every theme/age combination listed in the file
+QUICK=1 node question-bank-test.js    # three of them
+```
+
+Picks a theme and an age in the host settings panel, presses **Generate New
+Board**, and checks the board that comes back is built from
+`public/runtime-questions.json` — not the built-in SANTA/REINDEER demo board,
+and not the `Sample <theme> question N` filler the game substitutes when a
+category holds fewer than five questions for the chosen age.
+
+Worth knowing when reading its output: two tiles on every board are trial
+tiles, which open a wager rather than a clue, so the test tries several tiles
+before deciding.
