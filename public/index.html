@@ -35,7 +35,7 @@
       <link rel="stylesheet"
             href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap">
     </noscript>
-    <script type="module" crossorigin src="/assets/index-ece32e0f.js"></script>
+    <script type="module" crossorigin src="/assets/index-dbec78b9.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-8zT-Q6kN.css">
     <style>
       /* Force game board grid to fit without scrolling on host page */
@@ -116,6 +116,43 @@
   <body>
     <div id="root"></div>
     <script>
+      /*
+        Coming back after a phone dies mid-game.
+
+        The game already keeps the player's identity in localStorage and the host
+        merges a returning player by that id, keeping their score. What was
+        missing is the path back: a phone that reloads while on /player lands on
+        the connecting screen with nothing to reconnect it, because the "Rejoin"
+        prompt only exists on the home screen. This walks it there and takes the
+        prompt, so the player is back in the game without knowing any of that.
+      */
+      (function () {
+        var get = function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } };
+        var stuck = function () { return /Connecting to Host/i.test(document.body.innerText || ''); };
+
+        if (location.pathname.indexOf('/player') === 0) {
+          setTimeout(function () {
+            if (!stuck()) return;
+            var id = get('tile-trivia-player-id'),
+                name = get('tile-trivia-player-name'),
+                game = get('tile-trivia-game-id');
+            if (id && name && game) {
+              location.replace('/?gameId=' + encodeURIComponent(game) + '&rejoin=1');
+            }
+          }, 4000);
+        }
+
+        if (location.search.indexOf('rejoin=1') > -1) {
+          var tries = 0;
+          var timer = setInterval(function () {
+            if (++tries > 40) { clearInterval(timer); return; }
+            var button = Array.prototype.slice.call(document.querySelectorAll('button'))
+              .filter(function (b) { return /^rejoin$/i.test((b.innerText || '').trim()); })[0];
+            if (button) { clearInterval(timer); button.click(); }
+          }, 250);
+        }
+      })();
+
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
           navigator.serviceWorker.register('/sw.js')
