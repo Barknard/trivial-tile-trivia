@@ -41,6 +41,15 @@ jobs:
           VERSION_CODE=$(( ${{ github.run_number }} + 100 ))
           echo "code=$VERSION_CODE" >> "$GITHUB_OUTPUT"
           echo "name=1.$VERSION_CODE" >> "$GITHUB_OUTPUT"
+          # Worked out here rather than inline: in an Actions expression
+          # `cond && '' || ' (test build)'` always yields the suffix, because
+          # the empty string is falsy - which labelled master releases as test
+          # builds even though they were published as full releases.
+          if [ "${{ github.ref }}" = "refs/heads/master" ]; then
+            echo "suffix=" >> "$GITHUB_OUTPUT"
+          else
+            echo "suffix= (test build)" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Build APK
         working-directory: android
@@ -72,7 +81,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: app-v${{ steps.version.outputs.code }}
-          name: App v${{ steps.version.outputs.code }}${{ github.ref == 'refs/heads/master' && '' || ' (test build)' }}
+          name: App v${{ steps.version.outputs.code }}${{ steps.version.outputs.suffix }}
           prerelease: ${{ github.ref != 'refs/heads/master' }}
           body: |
             Android app build ${{ steps.version.outputs.code }} from `${{ github.ref_name }}`
