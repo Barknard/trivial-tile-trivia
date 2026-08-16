@@ -5,912 +5,912 @@
   "audiences": {
     "kids_4_under": [
       {
-        "clue": "What color are most seagull feathers?",
-        "correctQuestion": "What is White and gray?",
+        "clue": "This white bird tries to steal the chips right out of your hand",
+        "correctQuestion": "What is a seagull?",
         "value": 100
       },
       {
-        "clue": "Pelicans have a special pouch in what part of their body?",
-        "correctQuestion": "What is Their bill?",
+        "clue": "A baby bird comes out of this before it can walk",
+        "correctQuestion": "What is an egg?",
         "value": 100
       },
       {
-        "clue": "What do beach birds use their wings for?",
-        "correctQuestion": "What is Flying?",
+        "clue": "Birds flap these two things to fly up into the sky",
+        "correctQuestion": "What are wings?",
+        "value": 200
+      },
+      {
+        "clue": "This big bird scoops up fish in its giant stretchy beak",
+        "correctQuestion": "What is a pelican?",
+        "value": 200
+      },
+      {
+        "clue": "Birds are covered all over in these soft light things",
+        "correctQuestion": "What are feathers?",
+        "value": 300
+      },
+      {
+        "clue": "This bird says quack and paddles along the water",
+        "correctQuestion": "What is a duck?",
         "value": 100
       },
       {
-        "clue": "How many legs do seagulls have?",
-        "correctQuestion": "What is Two?",
+        "clue": "Birds build this out of sticks to keep their eggs safe",
+        "correctQuestion": "What is a nest?",
         "value": 100
       },
       {
-        "clue": "Pelicans are known for diving to catch what?",
-        "correctQuestion": "What is Fish?",
+        "clue": "A bird picks up its food with this hard pointy part",
+        "correctQuestion": "What is a beak?",
+        "value": 200
+      },
+      {
+        "clue": "This tall pink bird likes to stand on just one leg",
+        "correctQuestion": "What is a flamingo?",
+        "value": 200
+      },
+      {
+        "clue": "Beach birds paddle with these flat stretchy feet",
+        "correctQuestion": "What are webbed feet?",
+        "value": 300
+      },
+      {
+        "clue": "This big white bird has a very long curvy neck",
+        "correctQuestion": "What is a swan?",
         "value": 100
       },
       {
-        "clue": "What color are most seagull bills?",
-        "correctQuestion": "What is Yellow or orange?",
+        "clue": "These tiny birds run away from every wave on skinny legs",
+        "correctQuestion": "What are sandpipers?",
         "value": 100
       },
       {
-        "clue": "Where do beach birds find food?",
-        "correctQuestion": "What is the beach or ocean?",
+        "clue": "This black bird sits on the fence and says caw caw",
+        "correctQuestion": "What is a crow?",
+        "value": 200
+      },
+      {
+        "clue": "Mother birds sit on their eggs to keep them this way",
+        "correctQuestion": "What is warm?",
+        "value": 200
+      },
+      {
+        "clue": "This black and white bird swims fast but cannot fly at all",
+        "correctQuestion": "What is a penguin?",
+        "value": 300
+      },
+      {
+        "clue": "Birds sit way up here on this tall wooden pole by the sea",
+        "correctQuestion": "What is a post?",
         "value": 100
       },
       {
-        "clue": "What sound do seagulls make?",
-        "correctQuestion": "What is They cry or call loudly?",
+        "clue": "Seagulls all shout at once when you drop this crunchy beach snack",
+        "correctQuestion": "What is a french fry?",
         "value": 100
       },
       {
-        "clue": "Do pelicans live near water?",
-        "correctQuestion": "What is Yes?",
+        "clue": "This is the sound a seagull makes over and over",
+        "correctQuestion": "What is a squawk?",
+        "value": 200
+      },
+      {
+        "clue": "Baby birds open their mouths wide when they want this",
+        "correctQuestion": "What is food?",
+        "value": 200
+      },
+      {
+        "clue": "Birds dip down into the water to catch this wiggly dinner",
+        "correctQuestion": "What is a fish?",
+        "value": 300
+      },
+      {
+        "clue": "Ducks and geese have this soft fluffy stuff under their feathers",
+        "correctQuestion": "What is down?",
         "value": 100
       },
       {
-        "clue": "What are baby seagulls called?",
-        "correctQuestion": "What is Chicks?",
+        "clue": "This bird walks on the sand and leaves these behind",
+        "correctQuestion": "What are footprints?",
         "value": 100
       },
       {
-        "clue": "Do terns live at the beach?",
-        "correctQuestion": "What is Yes?",
+        "clue": "Birds fluff up their feathers when the wind makes them feel this",
+        "correctQuestion": "What is cold?",
+        "value": 200
+      },
+      {
+        "clue": "Baby ducks all follow this bird in a line",
+        "correctQuestion": "What is their mother?",
+        "value": 200
+      },
+      {
+        "clue": "This bird is grey and white and lives in the city and the beach",
+        "correctQuestion": "What is a pigeon?",
+        "value": 300
+      },
+      {
+        "clue": "A bird cleans its feathers with this, not with soap",
+        "correctQuestion": "What is its beak?",
         "value": 100
       },
       {
-        "clue": "What do sandpipers look for on the beach?",
-        "correctQuestion": "What is Small food?",
+        "clue": "Birds fly south when this cold white season comes",
+        "correctQuestion": "What is winter?",
         "value": 100
       },
       {
-        "clue": "Do herons live near beaches?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
+        "clue": "This bird is bigger than you and cannot fly, but it runs fast",
+        "correctQuestion": "What is an ostrich?",
+        "value": 200
       },
       {
-        "clue": "Can seagulls swim?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
+        "clue": "Seagulls sometimes drop shells on rocks to open them and get this",
+        "correctQuestion": "What is the food inside?",
+        "value": 200
       },
       {
-        "clue": "What are oystercatchers known for eating?",
-        "correctQuestion": "What is Shellfish and mollusks?",
-        "value": 100
-      },
-      {
-        "clue": "Do cormorants dive into the water?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
-      },
-      {
-        "clue": "Are plovers found at the beach?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
-      },
-      {
-        "clue": "What body part helps pelicans float?",
-        "correctQuestion": "What is Their wings or body?",
-        "value": 100
-      },
-      {
-        "clue": "Do seagulls eat bread?",
-        "correctQuestion": "What is Yes, but it's not healthy?",
-        "value": 100
-      },
-      {
-        "clue": "What color are tern birds usually?",
-        "correctQuestion": "What is White and gray or black?",
-        "value": 100
-      },
-      {
-        "clue": "Do sandpipers have long beaks?",
-        "correctQuestion": "What is No, short beaks?",
-        "value": 100
-      },
-      {
-        "clue": "Can pelicans fly long distances?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
-      },
-      {
-        "clue": "Where do seagulls sleep?",
-        "correctQuestion": "What is On water or sand?",
-        "value": 100
-      },
-      {
-        "clue": "Do herons hunt fish?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
-      },
-      {
-        "clue": "What shape are seagull wings?",
-        "correctQuestion": "What is Long and pointed?",
-        "value": 100
-      },
-      {
-        "clue": "Do oystercatchers have colorful bills?",
-        "correctQuestion": "What is Yes, usually orange or red?",
-        "value": 100
-      },
-      {
-        "clue": "Can cormorants stay underwater for a long time?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
-      },
-      {
-        "clue": "Are plovers small birds?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
-      },
-      {
-        "clue": "Do terns catch fish by diving?",
-        "correctQuestion": "What is Yes?",
-        "value": 100
-      },
-      {
-        "clue": "What color are most pelican bills?",
-        "correctQuestion": "What is Pink, white, or gray?",
-        "value": 100
+        "clue": "A group of birds flying together in the sky is called this",
+        "correctQuestion": "What is a flock?",
+        "value": 300
       }
     ],
     "kids_10_under": [
       {
-        "clue": "How many species of seagulls are there in the world?",
-        "correctQuestion": "What is Over 40 species?",
+        "clue": "This noisy grey and white bird is the one raiding your beach picnic",
+        "correctQuestion": "What is a seagull?",
+        "value": 100
+      },
+      {
+        "clue": "This bird plunges beak-first into the sea and scoops fish into its pouch",
+        "correctQuestion": "What is a pelican?",
         "value": 200
       },
       {
-        "clue": "What is the largest species of pelican?",
-        "correctQuestion": "What is the Great White Pelican or Australian Pelican?",
+        "clue": "These small birds sprint along the wet sand chasing each wave out",
+        "correctQuestion": "What are sandpipers?",
+        "value": 300
+      },
+      {
+        "clue": "This orange-billed black and white bird is nicknamed the sea parrot",
+        "correctQuestion": "What is a puffin?",
+        "value": 400
+      },
+      {
+        "clue": "This long-legged grey bird stands dead still in shallow water hunting fish",
+        "correctQuestion": "What is a heron?",
+        "value": 500
+      },
+      {
+        "clue": "Beach birds have these between their toes so they can paddle",
+        "correctQuestion": "What are webbed feet?",
+        "value": 100
+      },
+      {
+        "clue": "This bird's white feathers hide it against the sky when it hunts",
+        "correctQuestion": "What is a gull?",
         "value": 200
       },
       {
-        "clue": "How do seagulls find food on the beach?",
-        "correctQuestion": "What is By sight and smell?",
+        "clue": "Birds do this twice a year, flying thousands of miles for warm weather",
+        "correctQuestion": "What is migration?",
+        "value": 300
+      },
+      {
+        "clue": "This snow-white wading bird was once hunted for its long fancy feathers",
+        "correctQuestion": "What is an egret?",
+        "value": 400
+      },
+      {
+        "clue": "A bird cleans and oils its feathers by doing this with its beak",
+        "correctQuestion": "What is preening?",
+        "value": 500
+      },
+      {
+        "clue": "This dark seabird holds its wings out to dry after diving",
+        "correctQuestion": "What is a cormorant?",
+        "value": 100
+      },
+      {
+        "clue": "Seabirds drink salt water and squeeze the salt out through these",
+        "correctQuestion": "What are salt glands?",
         "value": 200
       },
       {
-        "clue": "What is special about a pelican's pouch?",
-        "correctQuestion": "What is It can hold water and large amounts of fish?",
+        "clue": "This fish-hunting hawk hovers over the water then drops feet-first",
+        "correctQuestion": "What is an osprey?",
+        "value": 300
+      },
+      {
+        "clue": "This bird's black cap and forked tail make it look like a small gull",
+        "correctQuestion": "What is a tern?",
+        "value": 400
+      },
+      {
+        "clue": "Baby seabirds are this colour, speckled brown, so they hide in the sand",
+        "correctQuestion": "What is camouflaged?",
+        "value": 500
+      },
+      {
+        "clue": "This is the word for a bird sitting on eggs to keep them warm",
+        "correctQuestion": "What is incubating?",
+        "value": 100
+      },
+      {
+        "clue": "This huge seabird has the longest wings of any bird alive",
+        "correctQuestion": "What is an albatross?",
         "value": 200
       },
       {
-        "clue": "Where do most seagulls nest?",
-        "correctQuestion": "What is On cliffs, islands, or rooftops?",
+        "clue": "This shorebird got its name because it pries open shellfish",
+        "correctQuestion": "What is an oystercatcher?",
+        "value": 300
+      },
+      {
+        "clue": "Gulls swallow food fast so other gulls can't do this to them",
+        "correctQuestion": "What is steal it?",
+        "value": 400
+      },
+      {
+        "clue": "This bird makes a laughing call and is named for it",
+        "correctQuestion": "What is a laughing gull?",
+        "value": 500
+      },
+      {
+        "clue": "Seabirds nest crowded together on cliffs in this kind of noisy neighbourhood",
+        "correctQuestion": "What is a colony?",
+        "value": 100
+      },
+      {
+        "clue": "This bird skims the surface with its lower bill slicing the water",
+        "correctQuestion": "What is a black skimmer?",
         "value": 200
       },
       {
-        "clue": "How many eggs do seagulls typically lay?",
-        "correctQuestion": "What is Two to four eggs?",
+        "clue": "Gull chicks peck this bright marking on a parent's beak to be fed",
+        "correctQuestion": "What is the red spot?",
+        "value": 300
+      },
+      {
+        "clue": "This small pale shorebird is protected because so few nests survive",
+        "correctQuestion": "What is a piping plover?",
+        "value": 400
+      },
+      {
+        "clue": "This seabird dives from 30 metres and hits the water like an arrow",
+        "correctQuestion": "What is a gannet?",
+        "value": 500
+      },
+      {
+        "clue": "This bird steals fish from other birds in mid-air instead of fishing",
+        "correctQuestion": "What is a frigatebird?",
+        "value": 100
+      },
+      {
+        "clue": "Birds keep their feathers waterproof with oil from this gland near the tail",
+        "correctQuestion": "What is the preen gland?",
         "value": 200
       },
       {
-        "clue": "What is a group of pelicans called?",
-        "correctQuestion": "What is a pod or a squadron?",
-        "value": 200
+        "clue": "This tern flies pole to pole and back every single year",
+        "correctQuestion": "What is the Arctic tern?",
+        "value": 300
       },
       {
-        "clue": "Do seagulls migrate?",
-        "correctQuestion": "What is Some species do, others don't?",
-        "value": 200
+        "clue": "Seabird droppings pile up on islands and become this valuable fertiliser",
+        "correctQuestion": "What is guano?",
+        "value": 400
       },
       {
-        "clue": "How deep can terns dive for fish?",
-        "correctQuestion": "What is Several feet deep?",
-        "value": 200
-      },
-      {
-        "clue": "What do oystercatchers use their bills for?",
-        "correctQuestion": "What is To open shells and catch food?",
-        "value": 200
-      },
-      {
-        "clue": "How long do seagulls typically live?",
-        "correctQuestion": "What is 20 to 40 years?",
-        "value": 200
-      },
-      {
-        "clue": "What makes pelicans excellent swimmers?",
-        "correctQuestion": "What is Their webbed feet?",
-        "value": 200
-      },
-      {
-        "clue": "Where do cormorants dive to hunt?",
-        "correctQuestion": "What is In the ocean or lakes?",
-        "value": 200
-      },
-      {
-        "clue": "How do plovers find food on the beach?",
-        "correctQuestion": "What is By running and pecking?",
-        "value": 200
-      },
-      {
-        "clue": "What is the wingspan of an average seagull?",
-        "correctQuestion": "What is 3 to 4 feet?",
-        "value": 200
-      },
-      {
-        "clue": "How do herons catch fish?",
-        "correctQuestion": "What is They stand still and strike with their bills?",
-        "value": 200
-      },
-      {
-        "clue": "What do sandpipers eat?",
-        "correctQuestion": "What is Insects, small crustaceans, and worms?",
-        "value": 200
-      },
-      {
-        "clue": "Are seagulls vocal birds?",
-        "correctQuestion": "What is Yes, very vocal?",
-        "value": 200
-      },
-      {
-        "clue": "How do pelicans stay dry while diving?",
-        "correctQuestion": "What is Their feathers are waterproof?",
-        "value": 200
-      },
-      {
-        "clue": "What do terns hunt?",
-        "correctQuestion": "What is Small fish?",
-        "value": 200
-      },
-      {
-        "clue": "Do seagulls have good eyesight?",
-        "correctQuestion": "What is Yes, excellent eyesight?",
-        "value": 200
-      },
-      {
-        "clue": "How do cormorants differ from other water birds?",
-        "correctQuestion": "What is They are less waterproof and need to dry their wings?",
-        "value": 200
-      },
-      {
-        "clue": "What color are oystercatcher eggs?",
-        "correctQuestion": "What is Brown or speckled?",
-        "value": 200
-      },
-      {
-        "clue": "Do plovers have protective camouflage?",
-        "correctQuestion": "What is Yes, their coloring blends with the beach?",
-        "value": 200
-      },
-      {
-        "clue": "How fast can terns fly?",
-        "correctQuestion": "What is Around 20 to 40 mph?",
-        "value": 200
-      },
-      {
-        "clue": "What is the diet of a great blue heron?",
-        "correctQuestion": "What is Fish, frogs, and other small animals?",
-        "value": 200
-      },
-      {
-        "clue": "Where do sandpipers migrate?",
-        "correctQuestion": "What is Between Arctic breeding grounds and southern wintering areas?",
-        "value": 200
-      },
-      {
-        "clue": "How many chicks do pelicans typically raise?",
-        "correctQuestion": "What is One to three chicks?",
-        "value": 200
-      },
-      {
-        "clue": "Do seagulls form colonies?",
-        "correctQuestion": "What is Yes, they nest in colonies?",
-        "value": 200
-      },
-      {
-        "clue": "What is the lifespan of a pelican?",
-        "correctQuestion": "What is 20 to 30 years or more?",
-        "value": 200
+        "clue": "This bird runs so fast along the shore its legs blur, and it never stops",
+        "correctQuestion": "What is a sanderling?",
+        "value": 500
       }
     ],
     "teenagers": [
       {
-        "clue": "What is the scientific name for the Herring Gull?",
-        "correctQuestion": "What is Larus argentatus?",
-        "value": 300
+        "clue": "This bird is the one dive-bombing your boardwalk fries",
+        "correctQuestion": "What is a seagull?",
+        "value": 200
       },
       {
-        "clue": "How many fish can a pelican eat in a single day?",
-        "correctQuestion": "What is Up to 4 pounds or more?",
-        "value": 300
+        "clue": "This bird's throat pouch holds three times more than its stomach",
+        "correctQuestion": "What is a pelican?",
+        "value": 400
       },
       {
-        "clue": "What behavioral adaptation allows seagulls to survive in urban areas?",
-        "correctQuestion": "What is Their ability to eat almost anything and remember food locations?",
-        "value": 300
+        "clue": "This clown-faced seabird's bill turns bright orange only for breeding season",
+        "correctQuestion": "What is a puffin?",
+        "value": 600
       },
       {
-        "clue": "How do pelicans coordinate group fishing?",
-        "correctQuestion": "What is They work together to herd fish into shallow water?",
-        "value": 300
+        "clue": "This bird has the largest wingspan alive, over three metres tip to tip",
+        "correctQuestion": "What is the albatross?",
+        "value": 800
       },
       {
-        "clue": "What is the primary breeding season for most seagulls?",
-        "correctQuestion": "What is Spring to early summer?",
-        "value": 300
+        "clue": "This tern's yearly migration is the longest of any animal on Earth",
+        "correctQuestion": "What is the Arctic tern?",
+        "value": 1000
       },
       {
-        "clue": "Why do some seagull species have red spots on their bills?",
-        "correctQuestion": "What is Chicks peck these spots to stimulate feeding?",
-        "value": 300
+        "clue": "Seabirds excrete salt through glands above these, not through their kidneys",
+        "correctQuestion": "What is their eyes?",
+        "value": 200
       },
       {
-        "clue": "What adaptation do terns have that makes them skilled hunters?",
-        "correctQuestion": "What is Keen eyesight and the ability to hover above water?",
-        "value": 300
+        "clue": "This gull is the standard big grey-and-white bird of northern coasts",
+        "correctQuestion": "What is the herring gull?",
+        "value": 400
       },
       {
-        "clue": "How do oystercatchers crack open shells?",
-        "correctQuestion": "What is By hammering or stabbing with their bills?",
-        "value": 300
+        "clue": "This bird hits the water at 100 km/h with its neck braced by air sacs",
+        "correctQuestion": "What is the gannet?",
+        "value": 600
       },
       {
-        "clue": "What do cormorants do after diving to keep warm?",
-        "correctQuestion": "What is They hold their wings open to dry?",
-        "value": 300
+        "clue": "Stealing food from another bird instead of hunting has this Greek-derived name",
+        "correctQuestion": "What is kleptoparasitism?",
+        "value": 800
       },
       {
-        "clue": "How do plovers protect their nests?",
-        "correctQuestion": "What is With distraction displays that lead predators away?",
-        "value": 300
+        "clue": "This coastal raptor is the only hawk that dives feet-first for fish",
+        "correctQuestion": "What is the osprey?",
+        "value": 1000
       },
       {
-        "clue": "What unique hunting technique do herons use?",
-        "correctQuestion": "What is They stand motionless and then quickly strike?",
-        "value": 300
+        "clue": "This bird's lower bill is longer than the upper, so it can plough the water",
+        "correctQuestion": "What is the black skimmer?",
+        "value": 200
       },
       {
-        "clue": "How do sandpipers run on wet sand without sinking?",
-        "correctQuestion": "What is Their lightweight bodies and fast movements distribute their weight?",
-        "value": 300
+        "clue": "This frigatebird inflates a scarlet throat balloon to attract a mate",
+        "correctQuestion": "What is the magnificent frigatebird?",
+        "value": 400
       },
       {
-        "clue": "What is the function of a pelican's air sacs?",
-        "correctQuestion": "What is They cushion diving impacts and provide buoyancy?",
-        "value": 300
+        "clue": "Shorebirds, gulls and terns all belong to this order of birds",
+        "correctQuestion": "What is Charadriiformes?",
+        "value": 600
       },
       {
-        "clue": "How do seagulls communicate with each other?",
-        "correctQuestion": "What is Through vocalizations, body language, and posturing?",
-        "value": 300
+        "clue": "This tiny sanderling's feeding style is described as chasing the wave line",
+        "correctQuestion": "What is the sanderling?",
+        "value": 800
       },
       {
-        "clue": "What environmental threat affects tern populations most?",
-        "correctQuestion": "What is Loss of nesting sites and changes in fish availability?",
-        "value": 300
+        "clue": "This is the name for the group of seabirds nesting shoulder to shoulder",
+        "correctQuestion": "What is a colony?",
+        "value": 1000
       },
       {
-        "clue": "How do oystercatchers find their food under sand?",
-        "correctQuestion": "What is By probing with their bills or seeing the shells?",
-        "value": 300
+        "clue": "This pale plover is a US federally protected species on Atlantic beaches",
+        "correctQuestion": "What is the piping plover?",
+        "value": 200
       },
       {
-        "clue": "What is unique about a cormorant's feathers compared to other water birds?",
-        "correctQuestion": "What is They are less waterproof?",
-        "value": 300
+        "clue": "This bird can stay aloft for months, sleeping in flight over open ocean",
+        "correctQuestion": "What is the wandering albatross?",
+        "value": 400
       },
       {
-        "clue": "How do plovers find food while walking?",
-        "correctQuestion": "What is By spotting insects and small prey on the sand?",
-        "value": 300
+        "clue": "This bird's guano built industries and started a 19th-century trade war",
+        "correctQuestion": "What is the cormorant?",
+        "value": 600
       },
       {
-        "clue": "What type of fish do most seagulls prefer to eat?",
-        "correctQuestion": "What is Small fish like anchovies and sardines?",
-        "value": 300
+        "clue": "The oil that waterproofs feathers comes from this gland at the tail base",
+        "correctQuestion": "What is the uropygial gland?",
+        "value": 800
       },
       {
-        "clue": "How do herons adapt to different water depths?",
-        "correctQuestion": "What is They have long legs that allow them to wade in various depths?",
-        "value": 300
+        "clue": "This bright orange-billed shorebird specialises in prying bivalves apart",
+        "correctQuestion": "What is the oystercatcher?",
+        "value": 1000
       },
       {
-        "clue": "What is the migration pattern of most sandpipers?",
-        "correctQuestion": "What is North to breed in summer, south in winter?",
-        "value": 300
+        "clue": "This gull follows fishing boats and was nicknamed the sea eagle of Britain",
+        "correctQuestion": "What is the great black-backed gull?",
+        "value": 200
       },
       {
-        "clue": "How do pelicans help each other in the water?",
-        "correctQuestion": "What is They create cooperative fishing formations?",
-        "value": 300
+        "clue": "Coleridge hung this bird around a sailor's neck as a curse",
+        "correctQuestion": "What is an albatross?",
+        "value": 400
       },
       {
-        "clue": "What predators do seagull chicks face?",
-        "correctQuestion": "What is Foxes, rats, crows, and other gulls?",
-        "value": 300
+        "clue": "These seabirds return to the exact burrow they hatched in, years later",
+        "correctQuestion": "What are puffins?",
+        "value": 600
       },
       {
-        "clue": "How do terns locate fish underwater while diving?",
-        "correctQuestion": "What is Their eyes adjust to see underwater clearly?",
-        "value": 300
+        "clue": "This wading bird was hunted to near extinction for hat plumes around 1900",
+        "correctQuestion": "What is the snowy egret?",
+        "value": 800
       },
       {
-        "clue": "What is the average size of a seagull's egg?",
-        "correctQuestion": "What is About 2 to 2.5 inches long?",
-        "value": 300
+        "clue": "This behaviour, where a bird fakes injury to lure predators from a nest, has this name",
+        "correctQuestion": "What is a broken-wing display?",
+        "value": 1000
       },
       {
-        "clue": "How do cormorants hunt effectively in murky water?",
-        "correctQuestion": "What is They have excellent underwater vision?",
-        "value": 300
+        "clue": "This tern is the smallest in North America and nests on bare sand",
+        "correctQuestion": "What is the least tern?",
+        "value": 200
       },
       {
-        "clue": "What behavioral trait makes oystercatchers territorial?",
-        "correctQuestion": "What is They aggressively defend their feeding and nesting areas?",
-        "value": 300
+        "clue": "This large brown seabird pirates food and harasses colonies, earning a thuggish name",
+        "correctQuestion": "What is the skua?",
+        "value": 400
       },
       {
-        "clue": "How many chicks can a single tern pair raise per season?",
-        "correctQuestion": "What is Usually one to two chicks?",
-        "value": 300
+        "clue": "This genus name covers the ordinary grey-and-white gulls of the world",
+        "correctQuestion": "What is Larus?",
+        "value": 600
       },
       {
-        "clue": "What role do plovers play in beach ecosystems?",
-        "correctQuestion": "What is They control insect populations and indicate beach health?",
-        "value": 300
+        "clue": "This shorebird flies from the Arctic to Tierra del Fuego, refuelling on crab eggs",
+        "correctQuestion": "What is the red knot?",
+        "value": 800
       },
       {
-        "clue": "How do herons adjust their hunting speed to different prey?",
-        "correctQuestion": "What is They watch and time their strikes to match prey movement?",
-        "value": 300
+        "clue": "This seabird's tube-shaped nostrils give its whole family their common name",
+        "correctQuestion": "What are tubenoses?",
+        "value": 1000
       }
     ],
     "adults": [
       {
-        "clue": "What is the metabolic cost of diving for terns, and how do they manage it?",
-        "correctQuestion": "What is High metabolic cost; they compensate through rapid, efficient dives?",
+        "clue": "This bird is the generic beach thief in every seaside postcard",
+        "correctQuestion": "What is a seagull?",
+        "value": 200
+      },
+      {
+        "clue": "This bird's pouch, not its stomach, is what holds the catch",
+        "correctQuestion": "What is the pelican?",
         "value": 400
       },
       {
-        "clue": "How do seagulls exhibit learned behavior in urban environments?",
-        "correctQuestion": "What is They learn food locations, avoid dangerous areas, and pass knowledge to offspring?",
+        "clue": "This bird has the longest wingspan of any living bird",
+        "correctQuestion": "What is the wandering albatross?",
+        "value": 600
+      },
+      {
+        "clue": "This annual Arctic-to-Antarctic journey is the longest migration on Earth",
+        "correctQuestion": "What is the Arctic tern's?",
+        "value": 800
+      },
+      {
+        "clue": "Seabirds drink seawater and shed the salt through glands above these",
+        "correctQuestion": "What is the eyes?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the technical term for one bird robbing another's catch mid-air",
+        "correctQuestion": "What is kleptoparasitism?",
+        "value": 200
+      },
+      {
+        "clue": "This raptor is the only one that plunges feet-first and has reversible outer toes",
+        "correctQuestion": "What is the osprey?",
         "value": 400
       },
       {
-        "clue": "What is the evolutionary significance of a pelican's throat pouch?",
-        "correctQuestion": "What is It allows them to catch and store large amounts of fish for efficiency?",
+        "clue": "This bird's mandible asymmetry lets it fish by touch while flying",
+        "correctQuestion": "What is the black skimmer?",
+        "value": 600
+      },
+      {
+        "clue": "This gland at the base of the tail supplies waterproofing oil",
+        "correctQuestion": "What is the uropygial gland?",
+        "value": 800
+      },
+      {
+        "clue": "Gulls, terns, plovers and sandpipers all sit in this order",
+        "correctQuestion": "What is Charadriiformes?",
+        "value": 1000
+      },
+      {
+        "clue": "This species is the classic large gull of the North Atlantic",
+        "correctQuestion": "What is the herring gull?",
+        "value": 200
+      },
+      {
+        "clue": "This bird's dive is cushioned by air sacs beneath the skin of its face and chest",
+        "correctQuestion": "What is the gannet?",
         "value": 400
       },
       {
-        "clue": "How do oystercatchers' bills adapt to different prey?",
-        "correctQuestion": "What is Some individuals specialize in different techniques (stabbing vs. hammering)?",
+        "clue": "The nictitating one of these protects a diving bird's eye underwater",
+        "correctQuestion": "What is the third eyelid?",
+        "value": 600
+      },
+      {
+        "clue": "This shorebird's bill is a chisel evolved for prising open bivalves",
+        "correctQuestion": "What is the oystercatcher?",
+        "value": 800
+      },
+      {
+        "clue": "This seabird's accumulated droppings drove a 19th-century fertiliser boom",
+        "correctQuestion": "What is guano?",
+        "value": 1000
+      },
+      {
+        "clue": "Tinbergen's classic experiment showed chicks peck this feature of a parent's bill",
+        "correctQuestion": "What is the red spot?",
+        "value": 200
+      },
+      {
+        "clue": "This threatened plover nests in scrapes on open Atlantic sand",
+        "correctQuestion": "What is the piping plover?",
         "value": 400
       },
       {
-        "clue": "What physiological adaptations allow cormorants to dive deeper than other water birds?",
-        "correctQuestion": "What is Dense bones and collapsible air sacs?",
+        "clue": "Petrels and albatrosses share this nasal feature that names their group",
+        "correctQuestion": "What are tubenoses?",
+        "value": 600
+      },
+      {
+        "clue": "Coleridge's Ancient Mariner shot this bird and wore it as penance",
+        "correctQuestion": "What is the albatross?",
+        "value": 800
+      },
+      {
+        "clue": "This egret's breeding plumes fuelled the millinery trade and the first Audubon laws",
+        "correctQuestion": "What is the snowy egret?",
+        "value": 1000
+      },
+      {
+        "clue": "This piratical seabird family chases others until they disgorge their meal",
+        "correctQuestion": "What are skuas?",
+        "value": 200
+      },
+      {
+        "clue": "This wader's migration is timed to horseshoe crab spawning in Delaware Bay",
+        "correctQuestion": "What is the red knot?",
         "value": 400
       },
       {
-        "clue": "How do plovers' eyes adapt for sand hunting?",
-        "correctQuestion": "What is They can track rapid movement and have excellent color vision?",
+        "clue": "This frigatebird's gular pouch inflates scarlet in display",
+        "correctQuestion": "What is the magnificent frigatebird?",
+        "value": 600
+      },
+      {
+        "clue": "This behaviour lures predators away by feigning a broken wing",
+        "correctQuestion": "What is distraction display?",
+        "value": 800
+      },
+      {
+        "clue": "This cormorant species was trained by fishermen with a neck ring",
+        "correctQuestion": "What is the great cormorant?",
+        "value": 1000
+      },
+      {
+        "clue": "This gull is the largest in the world and takes puffins whole",
+        "correctQuestion": "What is the great black-backed gull?",
+        "value": 200
+      },
+      {
+        "clue": "This is the collective noun for a group of gulls in flight",
+        "correctQuestion": "What is a colony?",
         "value": 400
       },
       {
-        "clue": "What is the purpose of courtship displays in seagull behavior?",
-        "correctQuestion": "What is To establish bonds, assert dominance, and facilitate pair formation?",
-        "value": 400
+        "clue": "This seabird locks its wings and rides wind gradients for hours",
+        "correctQuestion": "What is the shearwater?",
+        "value": 600
       },
       {
-        "clue": "How do herons' long necks benefit their hunting strategy?",
-        "correctQuestion": "What is They allow rapid strikes from extended reach and balance during wading?",
-        "value": 400
+        "clue": "This shorebird's name comes from the Latin for lead, after its call",
+        "correctQuestion": "What is the plover?",
+        "value": 800
       },
       {
-        "clue": "What ecological role do sandpipers play in coastal food webs?",
-        "correctQuestion": "What is They consume massive quantities of invertebrates and serve as prey for predators?",
-        "value": 400
-      },
-      {
-        "clue": "How do pelicans' air sacs function in thermoregulation?",
-        "correctQuestion": "What is They help distribute warmth and provide insulation during diving?",
-        "value": 400
-      },
-      {
-        "clue": "What social hierarchies develop in seagull colonies?",
-        "correctQuestion": "What is Dominance hierarchies based on aggression, size, and experience?",
-        "value": 400
-      },
-      {
-        "clue": "How do terns balance the energy cost of reproduction with survival?",
-        "correctQuestion": "What is Through precise timing of breeding and careful mate selection?",
-        "value": 400
-      },
-      {
-        "clue": "What genetic factors influence seagull coloration patterns?",
-        "correctQuestion": "What is Polygenic inheritance with environmental factors affecting plumage color?",
-        "value": 400
-      },
-      {
-        "clue": "How do oystercatchers' specialized bills constrain their diet?",
-        "correctQuestion": "What is While specialized for shellfish, they limit flexibility in finding food when prey is scarce?",
-        "value": 400
-      },
-      {
-        "clue": "What is the energetic advantage of colonial breeding in pelicans?",
-        "correctQuestion": "What is Shared vigilance, collective defense, and efficient information sharing about food sources?",
-        "value": 400
-      },
-      {
-        "clue": "How do cormorants' swimming technique differ from ducks?",
-        "correctQuestion": "What is They propel with feet instead of wings, allowing better maneuverability?",
-        "value": 400
-      },
-      {
-        "clue": "What cognitive abilities do plovers demonstrate in predator avoidance?",
-        "correctQuestion": "What is They learn individual predator types and risk levels through experience?",
-        "value": 400
-      },
-      {
-        "clue": "How does a heron's bill structure maximize feeding efficiency?",
-        "correctQuestion": "What is It's designed for spearing and grasping with minimal water resistance?",
-        "value": 400
-      },
-      {
-        "clue": "What resource competition exists between seagulls and other beach birds?",
-        "correctQuestion": "What is Competition for nesting sites, fish, and scavenged food?",
-        "value": 400
-      },
-      {
-        "clue": "How do sandpipers' migration timing respond to climate change?",
-        "correctQuestion": "What is Some populations are shifting earlier, affecting synchronization with food availability?",
-        "value": 400
-      },
-      {
-        "clue": "What role does vocal communication play in seagull pair bonding?",
-        "correctQuestion": "What is Long calls and loud vocalizations reinforce pair bonds and territorial claims?",
-        "value": 400
-      },
-      {
-        "clue": "How do terns' visual adaptations include freshwater and saltwater hunting?",
-        "correctQuestion": "What is Their eyes adjust to different light refraction in both environments?",
-        "value": 400
-      },
-      {
-        "clue": "What physiological tolerance allows some seagull species to drink saltwater?",
-        "correctQuestion": "What is Salt glands above their eyes excrete excess salt?",
-        "value": 400
-      },
-      {
-        "clue": "How do oystercatchers' feeding specialization affect population dynamics?",
-        "correctQuestion": "What is It makes them vulnerable to shellfish depletion but efficient when food is abundant?",
-        "value": 400
-      },
-      {
-        "clue": "What is the relationship between pelican population size and breeding success?",
-        "correctQuestion": "What is Larger colonies have better breeding success due to collective defense?",
-        "value": 400
-      },
-      {
-        "clue": "How do cormorants' molting patterns reflect their ecological niche?",
-        "correctQuestion": "What is They molt slowly to maintain diving ability year-round?",
-        "value": 400
-      },
-      {
-        "clue": "What sensory advantages do plovers have in nocturnal foraging?",
-        "correctQuestion": "What is They rely on tactile sensitivity and low-light vision?",
-        "value": 400
-      },
-      {
-        "clue": "How does a heron's metabolism support its feeding habits?",
-        "correctQuestion": "What is Lower metabolic rate allows long periods of stillness while hunting?",
-        "value": 400
-      },
-      {
-        "clue": "What is the significance of synchronized diving in pelican fishing behavior?",
-        "correctQuestion": "What is It maximizes success by herding fish and reducing escape routes?",
-        "value": 400
-      },
-      {
-        "clue": "How do sandpipers' population fluctuations reflect Arctic ecosystem health?",
-        "correctQuestion": "What is Their breeding success indicates insect availability and climate conditions in Arctic regions?",
-        "value": 400
+        "clue": "This auk was hunted to extinction in 1844, the North Atlantic's flightless seabird",
+        "correctQuestion": "What is the great auk?",
+        "value": 1000
       }
     ],
     "no_humanity": [
       {
-        "clue": "How do seagull populations maintain genetic diversity despite colonial breeding patterns?",
-        "correctQuestion": "What is Through infrequent dispersal, occasional extra-pair copulations, and selection against inbreeding?",
-        "value": 500
+        "clue": "This beach bird is basically a flying pickpocket with no shame at all",
+        "correctQuestion": "What is a seagull?",
+        "value": 200
       },
       {
-        "clue": "What is the relationship between pelican diving depth and fish school density?",
-        "correctQuestion": "What is Deeper dives occur in response to scattered prey, optimizing energy expenditure?",
-        "value": 500
+        "clue": "This white surprise lands on your freshly washed windshield",
+        "correctQuestion": "What is bird poop?",
+        "value": 400
       },
       {
-        "clue": "How do tern populations respond to El Nino events affecting ocean productivity?",
-        "correctQuestion": "What is Population crashes occur due to reduced fish availability and altered breeding success?",
-        "value": 500
-      },
-      {
-        "clue": "What are the biomechanical constraints of oystercatcher feeding specialization?",
-        "correctQuestion": "What is Bill strength limits prey size; metabolic rates require consistent food availability?",
-        "value": 500
-      },
-      {
-        "clue": "How do cormorant populations indicate changes in coastal ecosystem productivity?",
-        "correctQuestion": "What is Population density and breeding timing reflect fish availability and water temperature?",
-        "value": 500
-      },
-      {
-        "clue": "What epigenetic factors influence plover nesting behavior and site selection?",
-        "correctQuestion": "What is Early experience with nesting habitats creates preferences passed to offspring through behavior?",
-        "value": 500
-      },
-      {
-        "clue": "How does heron population structure reflect habitat quality in estuaries?",
-        "correctQuestion": "What is Higher densities correlate with fresh-salt water mixing zones supporting diverse prey?",
-        "value": 500
-      },
-      {
-        "clue": "What is the energetic trade-off between seagull colonial nesting and predation risk?",
-        "correctQuestion": "What is Colony benefits (vigilance, defense) outweigh costs except under extreme predation pressure?",
-        "value": 500
-      },
-      {
-        "clue": "How do sandpiper populations measure global climate change impacts on breeding?",
-        "correctQuestion": "What is Phenological mismatches between arrival and peak food availability reduce breeding success?",
-        "value": 500
-      },
-      {
-        "clue": "What is the evolutionary stability of pelican cooperative fishing strategies?",
-        "correctQuestion": "What is Group dynamics maintain stability through free-rider detection and punishment?",
-        "value": 500
-      },
-      {
-        "clue": "How do seagull immune responses vary by age and social status?",
-        "correctQuestion": "What is Dominant individuals show stronger immune responses due to reduced stress and better nutrition?",
-        "value": 500
-      },
-      {
-        "clue": "What role do tern population fluctuations play in early warning systems for ocean change?",
-        "correctQuestion": "What is Rapid responses to fishing pressure and climate shifts make them sensitive environmental indicators?",
-        "value": 500
-      },
-      {
-        "clue": "How do oystercatcher populations respond to coastal development and habitat fragmentation?",
-        "correctQuestion": "What is Population declines due to nesting site loss and increased disturbance despite food availability?",
-        "value": 500
-      },
-      {
-        "clue": "What biochemical adaptations allow cormorants to function in hypoxic diving conditions?",
-        "correctQuestion": "What is Enhanced myoglobin concentration and tolerance to anaerobic metabolism during dives?",
-        "value": 500
-      },
-      {
-        "clue": "How do plover populations maintain mate fidelity and reproductive success in unstable environments?",
-        "correctQuestion": "What is Rapid re-pairing allows multiple breeding attempts if nests fail?",
-        "value": 500
-      },
-      {
-        "clue": "What is the relationship between heron foraging behavior and prey temporal availability?",
-        "correctQuestion": "What is Herons adjust hunting times and locations based on prey activity patterns and tidal cycles?",
-        "value": 500
-      },
-      {
-        "clue": "How do seagull populations respond to anthropogenic food subsidies in ecosystem dynamics?",
-        "correctQuestion": "What is Over-reliance on garbage reduces fitness, increases conflicts, and masks population decline signals?",
-        "value": 500
-      },
-      {
-        "clue": "What physiological trade-offs exist between pelican diving capacity and thermoregulation?",
-        "correctQuestion": "What is Air sac buoyancy aids diving but increases heat loss, requiring precise thermal management?",
-        "value": 500
-      },
-      {
-        "clue": "How do sandpiper stopover site selection affect migration success and survival?",
-        "correctQuestion": "What is Sites with abundant invertebrate food and low predation increase refueling efficiency and reduce mortality?",
-        "value": 500
-      },
-      {
-        "clue": "What is the significance of tern colony location choice for breeding success?",
-        "correctQuestion": "What is Colonies on islands minimize predation while proximity to fishing grounds reduces foraging costs?",
-        "value": 500
-      },
-      {
-        "clue": "How do cormorant diving patterns reflect individual specialization and learning?",
-        "correctQuestion": "What is Individuals develop preferred depths and techniques that persist across seasons?",
-        "value": 500
-      },
-      {
-        "clue": "What role do environmental stressors play in plover population crashes?",
-        "correctQuestion": "What is Combined effects of habitat loss, predation, and weather create population instability?",
-        "value": 500
-      },
-      {
-        "clue": "How do heron populations partition resources in sympatric species communities?",
-        "correctQuestion": "What is Species occupy different depths, prey sizes, and temporal niches within shared habitats?",
-        "value": 500
-      },
-      {
-        "clue": "What is the mechanistic basis for seagull urban adaptation and behavioral flexibility?",
-        "correctQuestion": "What is Neophobia reduction, enhanced learning rates, and social transmission of information?",
-        "value": 500
-      },
-      {
-        "clue": "How do pelican populations respond to fishery competition and bycatch pressure?",
-        "correctQuestion": "What is Populations decline without spatial management separating fishing and bird foraging zones?",
-        "value": 500
-      },
-      {
-        "clue": "What is the relationship between tern brain size and migration route complexity?",
-        "correctQuestion": "What is Larger brain regions support navigation and spatial memory for long-distance migration?",
-        "value": 500
-      },
-      {
-        "clue": "How do oystercatcher populations demonstrate phenotypic plasticity in response to prey changes?",
-        "correctQuestion": "What is Individuals switch from hammering to stabbing techniques based on prey characteristics?",
-        "value": 500
-      },
-      {
-        "clue": "What is the ecological consequence of cormorant population recovery in freshwater systems?",
-        "correctQuestion": "What is Increased predation pressure on fish stocks affects ecosystem balance and fishery economics?",
-        "value": 500
-      },
-      {
-        "clue": "How do plover populations utilize cryptic behavior to optimize reproductive success?",
-        "correctQuestion": "What is Camouflage coloration reduces predator detection while distraction displays protect nests?",
-        "value": 500
-      },
-      {
-        "clue": "What is the significance of heron bill size variation for ecological niche partitioning?",
-        "correctQuestion": "What is Larger bills capture larger prey; size variation allows sympatric coexistence with reduced competition?",
-        "value": 500
-      },
-      {
-        "clue": "How do seagull epigenetic modifications related to stress hormone expression influence transgenerational phenotypes?",
-        "correctQuestion": "What is Maternal stress affects offspring stress sensitivity through altered glucocorticoid receptor methylation patterns?",
+        "clue": "This bird's pouch looks like a stretched-out sack of pure regret",
+        "correctQuestion": "What is a brown pelican?",
         "value": 600
       },
       {
-        "clue": "What is the mechanistic pathway linking pelican diving physiology to anaerobic metabolism during extreme depths?",
-        "correctQuestion": "What is Synchronized myocardial depression with increased parasympathetic tone reduces oxygen consumption?",
+        "clue": "Gulls will fight to the death over this soggy dropped item",
+        "correctQuestion": "What is a chip?",
+        "value": 800
+      },
+      {
+        "clue": "This is what a whole flock does the second you unwrap a sandwich",
+        "correctQuestion": "What is descend?",
+        "value": 1000
+      },
+      {
+        "clue": "This bird screams like a car alarm at 5am outside your rental",
+        "correctQuestion": "What is a herring gull?",
+        "value": 200
+      },
+      {
+        "clue": "Seabird droppings pile so high on islands they get mined and sold as this",
+        "correctQuestion": "What is guano?",
+        "value": 400
+      },
+      {
+        "clue": "This bird will swallow a whole pigeon and act like nothing happened",
+        "correctQuestion": "What is a pelican?",
         "value": 600
       },
       {
-        "clue": "How do tern populations demonstrate predictive phenotypic plasticity in response to climate oscillations?",
-        "correctQuestion": "What is Breeding timing shifts correlate with barometric pressure and oceanographic indices ahead of seasonal peaks?",
+        "clue": "Gulls throw up their food to feed chicks, making this the family dinner",
+        "correctQuestion": "What is vomit?",
+        "value": 800
+      },
+      {
+        "clue": "This is the exact spot a gull aims for on a bald man's head",
+        "correctQuestion": "What is the top?",
+        "value": 1000
+      },
+      {
+        "clue": "This bird steals other birds' catches and has zero fishing skills of its own",
+        "correctQuestion": "What is a frigatebird?",
+        "value": 200
+      },
+      {
+        "clue": "Gulls drink seawater and squirt the leftover salt out of these",
+        "correctQuestion": "What are their nostrils?",
+        "value": 400
+      },
+      {
+        "clue": "This is what a gull does to a tourist who makes eye contact with a hot dog",
+        "correctQuestion": "What is attacks?",
         "value": 600
       },
       {
-        "clue": "What are the evolutionary game-theoretic dynamics underlying oystercatcher feeding technique polymorphism?",
-        "correctQuestion": "What is Frequency-dependent selection maintains mixed strategies; rare phenotypes gain advantage through reduced competition?",
+        "clue": "A gull's stomach can handle this beach food that would hospitalise you",
+        "correctQuestion": "What is rotting fish?",
+        "value": 800
+      },
+      {
+        "clue": "This piratical seabird bullies others until they puke up dinner mid-flight",
+        "correctQuestion": "What is a skua?",
+        "value": 1000
+      },
+      {
+        "clue": "This is the polite word for what coats every rock on a nesting island",
+        "correctQuestion": "What is seabird droppings?",
+        "value": 200
+      },
+      {
+        "clue": "This bird pretends to have a broken wing purely to waste your time",
+        "correctQuestion": "What is a plover?",
+        "value": 400
+      },
+      {
+        "clue": "This bird will eat a cigarette butt with total confidence",
+        "correctQuestion": "What is a gull?",
         "value": 600
       },
       {
-        "clue": "How do cormorant populations demonstrate regulatory plasticity in hemoglobin oxygen affinity across diving depth?",
-        "correctQuestion": "What is Increases in 2,3-DPG enhance oxygen release at tissue level during hypoxic dives?",
+        "clue": "Gull chicks peck this on a parent's beak until it gives up the goods",
+        "correctQuestion": "What is the red spot?",
+        "value": 800
+      },
+      {
+        "clue": "This bird's mating display is inflating a giant red throat balloon",
+        "correctQuestion": "What is the frigatebird's?",
+        "value": 1000
+      },
+      {
+        "clue": "This bird sleeps while flying, which is more rest than you got last night",
+        "correctQuestion": "What is a wandering albatross?",
+        "value": 200
+      },
+      {
+        "clue": "This seabird's beak is orange only when it's trying to get laid",
+        "correctQuestion": "What is a puffin's?",
+        "value": 400
+      },
+      {
+        "clue": "A group of these birds on one island can be heard from a mile out",
+        "correctQuestion": "What are seabirds?",
         "value": 600
       },
       {
-        "clue": "What are the computational models predicting plover population viability under combined stressor scenarios?",
-        "correctQuestion": "What is Integral population models incorporating habitat loss, predation, and climate variance predict critical thresholds?",
+        "clue": "This is what a pelican does to a fish that's too big for its throat",
+        "correctQuestion": "What is swallows it anyway?",
+        "value": 800
+      },
+      {
+        "clue": "Gulls have learned to stamp on wet sand to imitate this and trick worms",
+        "correctQuestion": "What is rain?",
+        "value": 1000
+      },
+      {
+        "clue": "This bird couldn't fly away in 1844 and that was the end of the species",
+        "correctQuestion": "What is the last great auk?",
+        "value": 200
+      },
+      {
+        "clue": "This bird's chicks eat until they weigh more than the parent, then get abandoned",
+        "correctQuestion": "What is a shearwater?",
+        "value": 400
+      },
+      {
+        "clue": "This is the technical word for a bird robbing another bird's hard-earned lunch",
+        "correctQuestion": "What is kleptoparasitism?",
         "value": 600
       },
       {
-        "clue": "How do heron populations demonstrate dynamic state-dependent optimization in foraging decisions?",
-        "correctQuestion": "What is Feeding location and time allocation shift based on energetic state and predation risk?",
+        "clue": "This bird dives at 100 km/h and has air bags in its face so it doesn't die",
+        "correctQuestion": "What is a gannet?",
+        "value": 800
+      },
+      {
+        "clue": "This bird nests in a burrow it digs with its face",
+        "correctQuestion": "What is a puffin?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what the whole beach smells like downwind of a gull colony",
+        "correctQuestion": "What is ammonia?",
+        "value": 200
+      },
+      {
+        "clue": "Gulls will take food straight from this, which is why the sign warns you",
+        "correctQuestion": "What is your hand?",
+        "value": 400
+      },
+      {
+        "clue": "This bird eats its own weight in fish and still looks miserable",
+        "correctQuestion": "What is a shag?",
         "value": 600
       },
       {
-        "clue": "What is the neurobiological basis for seagull problem-solving abilities and tool use observation?",
-        "correctQuestion": "What is Prefrontal cortex enlargement supports executive function and learning from social observation?",
+        "clue": "This bird holds its wings out to dry because it isn't waterproof, unlike every colleague",
+        "correctQuestion": "What is a cormorant?",
+        "value": 800
+      },
+      {
+        "clue": "This beach bird turns up in car parks hundreds of miles inland",
+        "correctQuestion": "What is a common gull?",
+        "value": 1000
+      },
+      {
+        "clue": "This throat pouch holds three times what the stomach can",
+        "correctQuestion": "What is a pelican's?",
+        "value": 200
+      },
+      {
+        "clue": "Seabirds nest this close together, which is a hygiene situation",
+        "correctQuestion": "What is shoulder to shoulder?",
+        "value": 400
+      },
+      {
+        "clue": "This is what a gull does to another gull that found food first",
+        "correctQuestion": "What is robs it?",
         "value": 600
       },
       {
-        "clue": "How do sandpiper populations demonstrate microevolutionary responses to climate-driven selection pressures?",
-        "correctQuestion": "What is Rapid shifts in migration timing (10+ days/decade) show directional selection on circannual rhythm genes?",
+        "clue": "This bird's guano was once worth more per ton than most cargo afloat",
+        "correctQuestion": "What is the cormorant's?",
+        "value": 800
+      },
+      {
+        "clue": "This bird follows trawlers for the guts thrown overboard",
+        "correctQuestion": "What is a fulmar?",
+        "value": 1000
+      },
+      {
+        "clue": "This bird's Latin name is the origin of the word for the whole noisy family",
+        "correctQuestion": "What is Larus?",
+        "value": 200
+      },
+      {
+        "clue": "This bird drinks straight from the sea, beating beach-bar prices",
+        "correctQuestion": "What is a black-headed gull?",
+        "value": 400
+      },
+      {
+        "clue": "This bird is the one your chips were never safe from in the first place",
+        "correctQuestion": "What is a European herring gull?",
         "value": 600
       },
       {
-        "clue": "What is the systems-level mechanism of pelican cooperative hunting and information transfer?",
-        "correctQuestion": "What is Chemical and acoustic signaling coordinates group movements to optimize predation success?",
+        "clue": "This is what gulls do to a bin bag left out for ten seconds",
+        "correctQuestion": "What is shred it?",
+        "value": 800
+      },
+      {
+        "clue": "This bird's chick is speckled so you step on its nest without seeing it",
+        "correctQuestion": "What is a plover's?",
+        "value": 1000
+      },
+      {
+        "clue": "This bird has a bill longer on the bottom, which looks like a factory error",
+        "correctQuestion": "What is a skimmer?",
+        "value": 200
+      },
+      {
+        "clue": "This is where a puffin puts up to a dozen fish at once",
+        "correctQuestion": "What is in its bill?",
+        "value": 400
+      },
+      {
+        "clue": "This bird will nest on a bare rock and call it a home",
+        "correctQuestion": "What is a tern?",
         "value": 600
       },
       {
-        "clue": "How do seagull populations demonstrate sexual conflict in parental investment allocation?",
-        "correctQuestion": "What is Asymmetric investment with females bearing greater metabolic costs creates divergent reproductive strategies?",
+        "clue": "This bird throws its head back and screams at the sky to display",
+        "correctQuestion": "What is a kittiwake?",
+        "value": 800
+      },
+      {
+        "clue": "This large gull will swallow a puffin whole, feet and all",
+        "correctQuestion": "What is the great black-backed gull?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what seabirds do to a fishing net full of somebody's livelihood",
+        "correctQuestion": "What is raid it?",
+        "value": 200
+      },
+      {
+        "clue": "This bird's wings lock open so it can glide for hours doing nothing",
+        "correctQuestion": "What is an albatross?",
+        "value": 400
+      },
+      {
+        "clue": "This seabird family is named for the tubes on top of its beaks",
+        "correctQuestion": "What are tubenoses?",
         "value": 600
       },
       {
-        "clue": "What are the molecular mechanisms underlying tern circadian synchronization with tidal foraging cycles?",
-        "correctQuestion": "What is Multiple clock genes interact with tidal cues to generate bimodal activity patterns?",
+        "clue": "This bird migrates pole to pole annually, making your commute look pathetic",
+        "correctQuestion": "What is the Arctic tern?",
+        "value": 800
+      },
+      {
+        "clue": "This bird stands on one leg because the other one is cold, not for art",
+        "correctQuestion": "What is a flamingo?",
+        "value": 1000
+      },
+      {
+        "clue": "This is what a cormorant looks like standing on a post with wings spread",
+        "correctQuestion": "What is a scarecrow?",
+        "value": 200
+      },
+      {
+        "clue": "This bird's egg is pointed at one end so it spins instead of rolling off a cliff",
+        "correctQuestion": "What is a guillemot's?",
+        "value": 400
+      },
+      {
+        "clue": "Fishermen tied this bird's throat shut so it couldn't swallow the catch",
+        "correctQuestion": "What is a great cormorant?",
         "value": 600
       },
       {
-        "clue": "How do oystercatcher populations maintain behavioral tradition through cultural transmission?",
-        "correctQuestion": "What is Fledglings copy parental feeding techniques creating regional feeding specialization with limited genetic basis?",
-        "value": 600
+        "clue": "This bird's colony smell is the reason nobody builds hotels on those islands",
+        "correctQuestion": "What is a gannet's?",
+        "value": 800
       },
       {
-        "clue": "What are the biophysical constraints on cormorant diving physiology under varying salinity and temperature?",
-        "correctQuestion": "What is Salinity affects buoyancy requiring compensatory diving angle changes; temperature affects metabolic efficiency?",
-        "value": 600
-      },
-      {
-        "clue": "How do plover populations demonstrate source-sink dynamics across fragmented coastal habitats?",
-        "correctQuestion": "What is High-quality sites produce surplus emigrants that maintain population viability in low-quality sinks?",
-        "value": 600
-      },
-      {
-        "clue": "What is the endocrine-mediated mechanism linking heron social status to reproductive hormone profiles?",
-        "correctQuestion": "What is Dominance hierarchy sustains elevated testosterone in breeding males, suppressing subordinate reproduction?",
-        "value": 600
-      },
-      {
-        "clue": "How do seagull populations demonstrate frequency-dependent selection in colony site abandonment?",
-        "correctQuestion": "What is As colonies exceed carrying capacity, increasing costs favor dispersal in nonlinear relationship?",
-        "value": 600
-      },
-      {
-        "clue": "What are the biomimetic applications derived from studying pelican feather hydrophobic properties?",
-        "correctQuestion": "What is Hierarchical nanotextures inspire next-generation water-resistant materials and coating technologies?",
-        "value": 600
-      },
-      {
-        "clue": "How do sandpiper populations demonstrate genotype-by-environment interactions in migratory timing?",
-        "correctQuestion": "What is Same genotypes show different migration timing across geographic populations due to local environment variation?",
-        "value": 600
-      },
-      {
-        "clue": "What is the evolutionary stable strategy for tern reproductive skew within colonies?",
-        "correctQuestion": "What is Dominant pair monopolization of best territories selects for subordinate tolerance through resource value variation?",
-        "value": 600
-      },
-      {
-        "clue": "How do cormorant populations demonstrate evolutionary rescue through rapid adaptation to pesticide exposure?",
-        "correctQuestion": "What is Selection on detoxification enzyme variants allows population persistence despite eggshell thinning?",
-        "value": 600
-      },
-      {
-        "clue": "What are the meta-population dynamics governing plover persistence in heterogeneous coastal landscapes?",
-        "correctQuestion": "What is Connectivity between patches determines rescue effect probability and long-term extinction risk?",
-        "value": 600
-      },
-      {
-        "clue": "How do heron populations demonstrate phenotypic integration in morphological traits related to ecological niche?",
-        "correctQuestion": "What is Integrated changes in bill length, leg length, and body size correlate with prey size specialization?",
-        "value": 600
-      },
-      {
-        "clue": "What is the theoretical basis for seagull colony size optimization balancing benefits against costs?",
-        "correctQuestion": "What is Optimal colony size reflects equilibrium between predation refuge, interference competition, and disease transmission?",
-        "value": 600
-      },
-      {
-        "clue": "How do pelican populations demonstrate heterochronic shifts in developmental timing related to climate change?",
-        "correctQuestion": "What is Earlier egg-laying dates correlate with precocial development advancement in chicks?",
-        "value": 600
-      },
-      {
-        "clue": "What are the immunological trade-offs between tern investment in migration preparation and immune function?",
-        "correctQuestion": "What is Enhanced stress hormone suppresses immune response making birds vulnerable to infection during migration?",
-        "value": 600
-      },
-      {
-        "clue": "How do oystercatcher populations demonstrate niche conservatism despite ecological opportunity in novel habitats?",
-        "correctQuestion": "What is Strong habitat fidelity and behavioral traditions limit colonization of suitable but unfamiliar sites?",
-        "value": 600
-      },
-      {
-        "clue": "What is the mechanistic model explaining cormorant population cycles driven by food availability and predation?",
-        "correctQuestion": "What is Time-lag dynamics in population growth coupled with predator response create limit cycles?",
-        "value": 600
-      },
-      {
-        "clue": "How do plover populations demonstrate fluctuating asymmetry as an indicator of environmental stress?",
-        "correctQuestion": "What is Increased bilateral asymmetry in morphological traits indicates developmental instability from stressors?",
-        "value": 600
-      },
-      {
-        "clue": "What is the integrative model linking heron metabolism, foraging behavior, and population dynamics under anthropogenic disturbance?",
-        "correctQuestion": "What is Increased vigilance and suboptimal foraging reduce energy intake, which suppresses reproduction and increases mortality?",
-        "value": 600
+        "clue": "This bird's stuffed corpses in museums are all anyone will ever see",
+        "correctQuestion": "What is the great auk?",
+        "value": 1000
       }
     ]
   }

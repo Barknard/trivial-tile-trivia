@@ -30,8 +30,10 @@ POINTER = re.compile(r'\b(this|these|those|his|her|hers|its|their|theirs)\b', re
 WORD = re.compile(r"[A-Za-z0-9'’-]+")
 # Abstract, adult register that small children will not follow even when the
 # underlying fact is simple.
+# Require a real stem before the suffix, or short everyday words like "fence"
+# and "city" get flagged as abstract vocabulary.
 ADULT_REGISTER = re.compile(
-    r'\b\w*(tion|sion|ment|ance|ence|ity|ology|ical|ically|ized|ised)\b', re.I)
+    r'\b\w{5,}(tion|sion|ment|ance|ence|ity|ology|ical|ically|ized|ised)\b', re.I)
 
 # Real clues run 12-16 words; allow generous slack before complaining, since
 # bare-term clues ("Iron pyrite") are legitimate.
