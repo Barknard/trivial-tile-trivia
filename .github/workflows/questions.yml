@@ -1,0 +1,41 @@
+name: Rebuild question set
+
+# The Android app downloads public/ straight from GitHub, so the merged
+# question file has to be committed rather than built on the device the way the
+# old Termux script did it.
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'output/**.json'
+      - 'import-questions.cjs'
+      - '.github/workflows/questions.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Merge output/*.json into the runtime question set
+        run: node import-questions.cjs output public/runtime-questions.json
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- public/runtime-questions.json; then
+            echo "Question set already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/runtime-questions.json
+          git commit -m "Rebuild runtime-questions.json from output/"
+          git push

@@ -23,9 +23,32 @@ LINUX:
   2. Run: bash start-mac.command (works on Linux too)
 
 ========================================
-ANDROID SETUP (Prerequisites Required)
+ANDROID - THE EASY WAY (recommended)
 ========================================
 
+Install the Android app. Open it, and the tablet is already
+hosting on whatever WiFi it's on. Nothing else to set up.
+
+1. On the tablet, open:
+   https://github.com/Barknard/trivial-tile-trivia/releases
+2. Download the newest trivial-tile-trivia-vNN.apk
+3. Tap the downloaded file and allow the install
+4. Open "Trivial Tile Trivia"
+
+The app shows the address players type in (and a QR code they
+can scan), with buttons for the Host controls and the Board.
+
+It updates itself from GitHub: questions and game files are
+downloaded automatically every launch, and when the app itself
+changes it offers an "Install app update" button.
+
+See android/README.md for details.
+
+========================================
+ANDROID VIA TERMUX (the old way)
+========================================
+
+*** Only needed if you'd rather not install the app ***
 *** IMPORTANT: Android requires manual setup first ***
 Due to Android security, you must install these apps BEFORE
 the game can run. This is a one-time setup.

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_stage"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp"
+        android:paddingTop="28dp"
+        android:paddingBottom="32dp">
+
+        <ImageView
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:src="@drawable/ic_tile_logo"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/app_name"
+            android:textColor="@color/text_bright"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.04" />
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/status_starting"
+            android:textColor="@color/text_dim"
+            android:textSize="15sp" />
+
+        <!-- Join card -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:background="@drawable/bg_card"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/players_join_at"
+                android:textColor="@color/text_dim"
+                android:textSize="13sp"
+                android:letterSpacing="0.12"
+                android:textAllCaps="true" />
+
+            <TextView
+                android:id="@+id/url"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:text="@string/url_placeholder"
+                android:textColor="@color/accent_amber"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:typeface="monospace" />
+
+            <TextView
+                android:id="@+id/game_code"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:gravity="center"
+                android:textColor="@color/text_bright"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:id="@+id/qr"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="14dp"
+                android:background="@drawable/bg_qr"
+                android:padding="8dp"
+                android:contentDescription="@string/qr_description" />
+
+            <TextView
+                android:id="@+id/players"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:textColor="@color/text_bright"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <!-- Host controls -->
+        <Button
+            android:id="@+id/open_host"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/bg_button_primary"
+            android:text="@string/open_host"
+            android:textColor="#08210F"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:padding="14dp" />
+
+        <Button
+            android:id="@+id/open_board"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_button_secondary"
+            android:text="@string/open_board"
+            android:textColor="@color/text_bright"
+            android:textSize="16sp"
+            android:padding="14dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/copy_link"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_button_secondary"
+                android:text="@string/copy_link"
+                android:textColor="@color/text_bright"
+                android:padding="12dp" />
+
+            <Button
+                android:id="@+id/share_link"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/bg_button_secondary"
+                android:text="@string/share_link"
+                android:textColor="@color/text_bright"
+                android:padding="12dp" />
+        </LinearLayout>
+
+        <!-- Updates -->
+        <TextView
+            android:id="@+id/update_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="22dp"
+            android:gravity="center"
+            android:textColor="@color/text_dim"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/install_update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/bg_button_primary"
+            android:textColor="#08210F"
+            android:textStyle="bold"
+            android:visibility="gone"
+            android:padding="12dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/check_updates"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_button_ghost"
+                android:text="@string/check_updates"
+                android:textColor="@color/text_dim"
+                android:textSize="13sp"
+                android:padding="10dp" />
+
+            <Button
+                android:id="@+id/stop_hosting"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:background="@drawable/bg_button_ghost"
+                android:text="@string/stop_hosting"
+                android:textColor="@color/text_dim"
+                android:textSize="13sp"
+                android:padding="10dp" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:text="@string/footer_hint"
+            android:textColor="@color/text_faint"
+            android:textSize="12sp"
+            android:lineSpacingExtra="3dp" />
+    </LinearLayout>
+</ScrollView>

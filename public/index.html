@@ -21,8 +21,21 @@
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap" rel="stylesheet">
-    <script type="module" crossorigin src="/assets/index-DsPlL9Qz.js"></script>
+    <!--
+      Load the web fonts WITHOUT blocking rendering. On a party WiFi with no
+      internet this request hangs rather than failing, and as a plain
+      <link rel="stylesheet"> it left every screen completely blank until it
+      timed out. Now the game paints straight away and the fonts drop in later
+      if the network can reach Google at all.
+    -->
+    <link rel="preload" as="style"
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap"
+          onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Oswald:wght@400;500;700&family=Rubik:wght@400;500;700;900&display=swap">
+    </noscript>
+    <script type="module" crossorigin src="/assets/index-408f0195.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-8zT-Q6kN.css">
     <style>
       /* Force game board grid to fit without scrolling on host page */
@@ -73,6 +86,30 @@
         font-size: 6px !important;
         line-height: 1 !important;
         padding: 1px 0 !important;
+      }
+
+      /*
+        Phones in portrait. The host layout hides the whole board panel below
+        Tailwind's sm breakpoint (640px), so a host on a phone saw the header
+        and "Select a clue" over an empty screen with no board at all. Show it,
+        and undo the squeeze-it-into-a-landscape-screen type sizes, which come
+        out at 7px here. Layout itself is left alone on purpose - overriding
+        the resizable panels fights their own sizing and makes the page jitter.
+      */
+      @media (max-width: 767px) {
+        #root .hidden.sm\:block {
+          display: block !important;
+        }
+        .grid.grid-cols-6 > button {
+          font-size: 12px !important;
+          padding-top: 3px !important;
+          padding-bottom: 3px !important;
+        }
+        .grid.grid-cols-6 > div:not(button) {
+          font-size: 9px !important;
+          line-height: 1.15 !important;
+          padding: 2px 0 !important;
+        }
       }
     </style>
   </head>

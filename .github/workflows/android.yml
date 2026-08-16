@@ -1,0 +1,85 @@
+name: Build Android app
+
+on:
+  push:
+    branches: ['**']
+    paths:
+      - 'android/**'
+      - 'public/**'
+      - '.github/workflows/android.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: android-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.14.3'
+
+      # Build number doubles as the versionCode, so the app can tell whether the
+      # release on GitHub is newer than what is installed.
+      - name: Work out the version
+        id: version
+        run: |
+          VERSION_CODE=$(( ${{ github.run_number }} + 100 ))
+          echo "code=$VERSION_CODE" >> "$GITHUB_OUTPUT"
+          echo "name=1.$VERSION_CODE" >> "$GITHUB_OUTPUT"
+
+      - name: Build APK
+        working-directory: android
+        env:
+          VERSION_CODE: ${{ steps.version.outputs.code }}
+          VERSION_NAME: ${{ steps.version.outputs.name }}
+          # The build follows its own branch for content updates, so a test
+          # build never pulls master's copy of the game over its newer files.
+          CONTENT_BRANCH: ${{ github.ref_name }}
+        run: gradle --no-daemon assembleRelease
+
+      - name: Name the APK
+        run: |
+          mkdir -p dist
+          cp android/app/build/outputs/apk/release/app-release.apk \
+             "dist/trivial-tile-trivia-v${{ steps.version.outputs.code }}.apk"
+          ls -la dist
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: trivial-tile-trivia-apk
+          path: dist/*.apk
+          if-no-files-found: error
+
+      # Every build is downloadable, but only master publishes a full release.
+      # Branch builds go out as prereleases, which the app's updater ignores -
+      # so a work-in-progress build never installs itself on the tablet.
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: app-v${{ steps.version.outputs.code }}
+          name: App v${{ steps.version.outputs.code }}${{ github.ref == 'refs/heads/master' && '' || ' (test build)' }}
+          prerelease: ${{ github.ref != 'refs/heads/master' }}
+          body: |
+            Android app build ${{ steps.version.outputs.code }} from `${{ github.ref_name }}`
+            (commit ${{ github.sha }}).
+
+            Download the APK below and open it on the tablet to install.
+            Already installed? The app updates its questions and game files from
+            GitHub by itself; it only needs a new APK when the app itself changes.
+          files: dist/*.apk
+          fail_on_unmatched_files: true

@@ -1,0 +1,100 @@
+plugins {
+    id 'com.android.application'
+}
+
+// CI passes a build number so every release gets a higher versionCode and the
+// app can tell when a newer APK is on GitHub. Local builds just use 1.
+def buildNumber = (System.getenv("VERSION_CODE") ?: "1") as Integer
+def buildName = System.getenv("VERSION_NAME") ?: "1.0.${buildNumber}"
+
+// A build follows the branch it was built from for its content updates, so a
+// test build off a branch can't pull the master copy of the game down over its
+// own newer files. Master builds track master, which is what installs get.
+def contentBranch = System.getenv("CONTENT_BRANCH") ?: System.getenv("GITHUB_REF_NAME") ?: "master"
+
+// The web app itself lives at the repo root in public/. Rather than keeping a
+// second copy under the Android project, it gets synced into assets/web at
+// build time.
+def webAssetsDir = new File(project.layout.buildDirectory.get().asFile, "generated/webAssets")
+
+tasks.register('syncWebContent', Sync) {
+    from rootProject.file("../public")
+    into new File(webAssetsDir, "web")
+}
+
+android {
+    namespace 'com.barknard.trivialtile'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.barknard.trivialtile"
+        minSdk 24
+        targetSdk 35
+        versionCode buildNumber
+        versionName buildName
+        buildConfigField "String", "CONTENT_BRANCH", "\"${contentBranch}\""
+    }
+
+    signingConfigs {
+        release {
+            // Prefer a keystore supplied by CI secrets; otherwise fall back to
+            // the shared key committed alongside the project so that sideloaded
+            // updates keep installing over the top of each other.
+            def storeFilePath = System.getenv("KEYSTORE_FILE") ?: rootProject.file("keystore/trivia-signing.jks").path
+            storeFile file(storeFilePath)
+            storePassword System.getenv("KEYSTORE_PASSWORD") ?: "trivialtile"
+            keyAlias System.getenv("KEY_ALIAS") ?: "trivia"
+            keyPassword System.getenv("KEY_PASSWORD") ?: "trivialtile"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.release
+        }
+    }
+
+    buildFeatures {
+        buildConfig true
+    }
+
+    androidResources {
+        // Audio and images are already compressed; leaving them alone keeps the
+        // first-run unpack fast.
+        noCompress += ['mp3', 'wav', 'png', 'jpg', 'jpeg', 'webp']
+    }
+
+    sourceSets {
+        main {
+            assets.srcDirs += webAssetsDir
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    packaging {
+        resources {
+            excludes += ['META-INF/*.kotlin_module', 'META-INF/DEPENDENCIES']
+        }
+    }
+
+    lint {
+        abortOnError false
+    }
+}
+
+tasks.named('preBuild') {
+    dependsOn 'syncWebContent'
+}
+
+dependencies {
+    // QR codes for players to scan. Pure Java, no Android dependencies.
+    implementation 'com.google.zxing:core:3.5.3'
+}
