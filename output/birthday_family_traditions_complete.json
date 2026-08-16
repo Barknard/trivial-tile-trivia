@@ -6,904 +6,904 @@
     "adults": [
       {
         "clue": "Who is your mom's mom called?",
-        "correctQuestion": "Grandmother or Grandma",
+        "correctQuestion": "What is Grandmother or Grandma?",
         "value": 800
       },
       {
         "clue": "What do family members sing to you on your birthday?",
-        "correctQuestion": "Happy Birthday",
+        "correctQuestion": "Who is Happy Birthday?",
         "value": 800
       },
       {
         "clue": "Who is your dad's brother?",
-        "correctQuestion": "Uncle",
+        "correctQuestion": "What is Uncle?",
         "value": 800
       },
       {
         "clue": "What do family members give you on your birthday?",
-        "correctQuestion": "Presents or gifts",
+        "correctQuestion": "What is Presents or gifts?",
         "value": 800
       },
       {
         "clue": "Who is your mom's sister?",
-        "correctQuestion": "Aunt",
+        "correctQuestion": "What is Aunt?",
         "value": 800
       },
       {
         "clue": "What sweet thing do families bring out to celebrate?",
-        "correctQuestion": "Birthday cake",
+        "correctQuestion": "What is Birthday cake?",
         "value": 800
       },
       {
         "clue": "What do you make on your birthday that family members listen to?",
-        "correctQuestion": "A wish",
+        "correctQuestion": "What is a wish?",
         "value": 800
       },
       {
         "clue": "Which family member helps plan your birthday party?",
-        "correctQuestion": "Parent or family member (parents, mom, dad, etc.)",
+        "correctQuestion": "What is Parent or family member (parents, mom, dad, etc.)?",
         "value": 800
       },
       {
         "clue": "What do grandparents often bring when they visit for your birthday?",
-        "correctQuestion": "Gifts, cake, or presents",
+        "correctQuestion": "What is Gifts, cake, or presents?",
         "value": 800
       },
       {
         "clue": "Who is your brother's sister?",
-        "correctQuestion": "You or your sister",
+        "correctQuestion": "What is You or your sister?",
         "value": 800
       },
       {
         "clue": "What color balloons does your family use at birthday parties?",
-        "correctQuestion": "Any color or your favorite color",
+        "correctQuestion": "What is Any color or your favorite color?",
         "value": 800
       },
       {
         "clue": "Where do families often go to celebrate a birthday?",
-        "correctQuestion": "Home, restaurant, or park",
+        "correctQuestion": "What is Home, restaurant, or park?",
         "value": 800
       },
       {
         "clue": "What do your relatives shout when you enter your birthday party?",
-        "correctQuestion": "Surprise or Happy Birthday",
+        "correctQuestion": "What is Surprise or Happy Birthday?",
         "value": 800
       },
       {
         "clue": "How many candles does your family put on a birthday cake for someone turning 3?",
-        "correctQuestion": "Three",
+        "correctQuestion": "What is Three?",
         "value": 800
       },
       {
         "clue": "What do you and your siblings do together at family birthday parties?",
-        "correctQuestion": "Play games, eat cake, or dance",
+        "correctQuestion": "What is Play games, eat cake, or dance?",
         "value": 800
       },
       {
         "clue": "Who does your family call to tell them it's your birthday?",
-        "correctQuestion": "Grandparents, aunts, uncles, or cousins",
+        "correctQuestion": "What is Grandparents, aunts, uncles, or cousins?",
         "value": 800
       },
       {
         "clue": "What special thing does your family cook for your birthday dinner?",
-        "correctQuestion": "Your favorite meal or special food",
+        "correctQuestion": "What is Your favorite meal or special food?",
         "value": 800
       },
       {
         "clue": "What does your family do with the birthday candles after you blow them out?",
-        "correctQuestion": "Take them off or throw them away",
+        "correctQuestion": "What is Take them off or throw them away?",
         "value": 800
       },
       {
         "clue": "What birthday tradition does your family repeat every year?",
-        "correctQuestion": "Cake, candles, singing, or party (any family tradition)",
+        "correctQuestion": "What is Cake, candles, singing, or party (any family tradition)?",
         "value": 800
       },
       {
         "clue": "What do grandparents and family members write in your birthday card?",
-        "correctQuestion": "Happy Birthday or a nice message",
+        "correctQuestion": "What is Happy Birthday or a nice message?",
         "value": 800
       },
       {
         "clue": "Who in your family teaches you how to cut the birthday cake?",
-        "correctQuestion": "Parent, mom, or dad",
+        "correctQuestion": "What is Parent, mom, or dad?",
         "value": 800
       },
       {
         "clue": "What does your family do after singing Happy Birthday?",
-        "correctQuestion": "Eat cake or blow out candles",
+        "correctQuestion": "What is Eat cake or blow out candles?",
         "value": 800
       },
       {
         "clue": "What family member is your dad's father?",
-        "correctQuestion": "Grandfather or Grandpa",
+        "correctQuestion": "What is Grandfather or Grandpa?",
         "value": 800
       },
       {
         "clue": "How does your family help make your birthday special?",
-        "correctQuestion": "Planning, decorating, cooking, or spending time together",
+        "correctQuestion": "What is Planning, decorating, cooking, or spending time together?",
         "value": 800
       },
       {
         "clue": "What is a family tradition that gets passed down from grandparents?",
-        "correctQuestion": "Special recipes, games, songs, or customs",
+        "correctQuestion": "What is Special recipes, games, songs, or customs?",
         "value": 800
       },
       {
         "clue": "What does your family promise to do every year for your birthday?",
-        "correctQuestion": "Celebrate, gather together, or have a tradition",
+        "correctQuestion": "What is Celebrate, gather together, or have a tradition?",
         "value": 800
       },
       {
         "clue": "Which family member tells stories about your birth on your birthday?",
-        "correctQuestion": "Mom, dad, or grandparent",
+        "correctQuestion": "What is Mom, dad, or grandparent?",
         "value": 800
       },
       {
         "clue": "What makes your family's birthday celebration different from other families?",
-        "correctQuestion": "Special traditions, recipes, or customs unique to your family",
+        "correctQuestion": "What is Special traditions, recipes, or customs unique to your family?",
         "value": 800
       },
       {
         "clue": "Why does your family come together for birthdays?",
-        "correctQuestion": "To celebrate, bond, show love, or create memories",
+        "correctQuestion": "What is To celebrate, bond, show love, or create memories?",
         "value": 800
       },
       {
         "clue": "What do all your family members do at the birthday party?",
-        "correctQuestion": "Sing, eat, give gifts, play games, or celebrate together",
+        "correctQuestion": "What is Sing, eat, give gifts, play games, or celebrate together?",
         "value": 800
       },
       {
         "clue": "What is the name of your dad's or mom's mom's mom?",
-        "correctQuestion": "Great-grandmother or great-grandma",
+        "correctQuestion": "What is Great-grandmother or great-grandma?",
         "value": 800
       },
       {
         "clue": "What do you do with your family to celebrate someone else's birthday?",
-        "correctQuestion": "Sing, eat cake, dance, play games, or give gifts",
+        "correctQuestion": "What is Sing, eat cake, dance, play games, or give gifts?",
         "value": 800
       },
       {
         "clue": "What year was your grandma born?",
-        "correctQuestion": "Any reasonable year for a grandparent (accept approximate answers)",
+        "correctQuestion": "What is Any reasonable year for a grandparent (accept approximate answers)?",
         "value": 800
       },
       {
         "clue": "How many cousins do you have at your birthday parties?",
-        "correctQuestion": "Number of cousins (any number is acceptable as open-ended)",
+        "correctQuestion": "What is Number of cousins (any number is acceptable as open-ended)?",
         "value": 800
       },
       {
         "clue": "What is the most special thing about your family's birthday?",
-        "correctQuestion": "Family together, special food, love, traditions, or memories",
+        "correctQuestion": "What is Family together, special food, love, traditions, or memories?",
         "value": 800
       },
       {
         "clue": "What does your family do that makes your birthday different from your friends' birthdays?",
-        "correctQuestion": "Unique traditions, special food, games, or family customs",
+        "correctQuestion": "What is Unique traditions, special food, games, or family customs?",
         "value": 800
       },
       {
         "clue": "What cultural influences shape your family's birthday traditions?",
-        "correctQuestion": "Heritage, ethnicity, religion, family background, or ancestors",
+        "correctQuestion": "What is Heritage, ethnicity, religion, family background, or ancestors?",
         "value": 800
       },
       {
         "clue": "How have your family's birthday practices changed from your parents' childhood?",
-        "correctQuestion": "Different activities, foods, locations, technology, or size",
+        "correctQuestion": "What is Different activities, foods, locations, technology, or size?",
         "value": 800
       },
       {
         "clue": "What role do siblings play in maintaining family birthday traditions?",
-        "correctQuestion": "Help plan, participate, support, carry on customs, or create memories",
+        "correctQuestion": "What is Help plan, participate, support, carry on customs, or create memories?",
         "value": 800
       },
       {
         "clue": "How does your family keep relationships strong through birthday celebrations?",
-        "correctQuestion": "Gathering together, quality time, shared experiences, or connecting",
+        "correctQuestion": "What is Gathering together, quality time, shared experiences, or connecting?",
         "value": 800
       },
       {
         "clue": "What family member is the keeper of family stories and traditions?",
-        "correctQuestion": "Grandparent, parent, elder, or family historian",
+        "correctQuestion": "What is Grandparent, parent, elder, or family historian?",
         "value": 800
       },
       {
         "clue": "How have modern technology changed how your family celebrates birthdays?",
-        "correctQuestion": "Video calls, social media, digital invitations, or long-distance connections",
+        "correctQuestion": "What is Video calls, social media, digital invitations, or long-distance connections?",
         "value": 800
       },
       {
         "clue": "What ancestral traditions does your family deliberately preserve?",
-        "correctQuestion": "Recipes, rituals, stories, languages, or customs from ancestors",
+        "correctQuestion": "What is Recipes, rituals, stories, languages, or customs from ancestors?",
         "value": 800
       },
       {
         "clue": "How does your family define what makes a birthday meaningful?",
-        "correctQuestion": "Togetherness, love, tradition, creating memories, or connection",
+        "correctQuestion": "What is Togetherness, love, tradition, creating memories, or connection?",
         "value": 800
       },
       {
         "clue": "What unwritten rules exist in your family's birthday celebrations?",
-        "correctQuestion": "Specific traditions, expectations, timing, or customs",
+        "correctQuestion": "What is Specific traditions, expectations, timing, or customs?",
         "value": 800
       },
       {
         "clue": "How do your parents explain the importance of family traditions to you?",
-        "correctQuestion": "Family bonds, identity, continuity, heritage, or history",
+        "correctQuestion": "What is Family bonds, identity, continuity, heritage, or history?",
         "value": 800
       },
       {
         "clue": "What challenges does your family face in maintaining traditions?",
-        "correctQuestion": "Distance, busy schedules, changing interests, or modern life",
+        "correctQuestion": "What is Distance, busy schedules, changing interests, or modern life?",
         "value": 800
       },
       {
         "clue": "How do adopted or blended family members participate in traditions?",
-        "correctQuestion": "Integration, creating new combined traditions, or acceptance",
+        "correctQuestion": "What is Integration, creating new combined traditions, or acceptance?",
         "value": 800
       },
       {
         "clue": "What psychological impact do family birthday traditions have on your identity?",
-        "correctQuestion": "Sense of belonging, self-worth, cultural pride, or family connection",
+        "correctQuestion": "What is Sense of belonging, self-worth, cultural pride, or family connection?",
         "value": 800
       },
       {
         "clue": "How do your family's traditions help you understand your ancestors?",
-        "correctQuestion": "Values, history, who you come from, cultural background, or heritage",
+        "correctQuestion": "What is Values, history, who you come from, cultural background, or heritage?",
         "value": 800
       },
       {
         "clue": "What tension exists between keeping old traditions and creating new ones?",
-        "correctQuestion": "Generational differences, changing values, or balancing past and present",
+        "correctQuestion": "What is Generational differences, changing values, or balancing past and present?",
         "value": 800
       },
       {
         "clue": "How do you feel about participating in family traditions as you get older?",
-        "correctQuestion": "Changing perspectives, independence, tradition importance, or growing appreciation",
+        "correctQuestion": "What is Changing perspectives, independence, tradition importance, or growing appreciation?",
         "value": 800
       },
       {
         "clue": "What family member role model shows you how to honor traditions?",
-        "correctQuestion": "Parent, grandparent, aunt, uncle, or family elder",
+        "correctQuestion": "What is Parent, grandparent, aunt, uncle, or family elder?",
         "value": 800
       },
       {
         "clue": "How do your family's birthday practices connect to larger family systems?",
-        "correctQuestion": "Extended family, cultural groups, religious communities, or networks",
+        "correctQuestion": "What is Extended family, cultural groups, religious communities, or networks?",
         "value": 800
       },
       {
         "clue": "What does research show about why families maintain traditions like birthday celebrations?",
-        "correctQuestion": "Bonding, identity, belonging, continuity, security, or cultural transmission",
+        "correctQuestion": "What is Bonding, identity, belonging, continuity, security, or cultural transmission?",
         "value": 800
       },
       {
         "clue": "How do family birthday traditions help siblings develop closer bonds?",
-        "correctQuestion": "Shared experiences, cooperation, inside jokes, memories, or teamwork",
+        "correctQuestion": "What is Shared experiences, cooperation, inside jokes, memories, or teamwork?",
         "value": 800
       },
       {
         "clue": "What intergenerational knowledge is transmitted through your family's traditions?",
-        "correctQuestion": "Skills, values, recipes, stories, language, or cultural practices",
+        "correctQuestion": "What is Skills, values, recipes, stories, language, or cultural practices?",
         "value": 800
       },
       {
         "clue": "How do your family's expectations about birthdays shape your behavior?",
-        "correctQuestion": "Participation, cooperation, gratitude, family loyalty, or values",
+        "correctQuestion": "What is Participation, cooperation, gratitude, family loyalty, or values?",
         "value": 800
       },
       {
         "clue": "What distinguishes your family's traditions from popular culture versions?",
-        "correctQuestion": "Authenticity, personal meaning, family-specific customs, or deeper significance",
+        "correctQuestion": "What is Authenticity, personal meaning, family-specific customs, or deeper significance?",
         "value": 800
       },
       {
         "clue": "How does your family navigate disagreements about tradition practices?",
-        "correctQuestion": "Discussion, compromise, respect, adaptation, or family meetings",
+        "correctQuestion": "What is Discussion, compromise, respect, adaptation, or family meetings?",
         "value": 800
       },
       {
         "clue": "How do family birthday traditions serve as a continuity mechanism across generations?",
-        "correctQuestion": "Link past to present, provide stability, transmit values, or maintain family identity",
+        "correctQuestion": "What is Link past to present, provide stability, transmit values, or maintain family identity?",
         "value": 800
       },
       {
         "clue": "What role do family traditions play in creating secure attachment between family members?",
-        "correctQuestion": "Predictability, togetherness, trust, safety, or emotional bonds",
+        "correctQuestion": "What is Predictability, togetherness, trust, safety, or emotional bonds?",
         "value": 800
       },
       {
         "clue": "How do your family's birthday practices reflect broader family values and systems?",
-        "correctQuestion": "Priorities, relationships, cultural identity, generosity, or togetherness",
+        "correctQuestion": "What is Priorities, relationships, cultural identity, generosity, or togetherness?",
         "value": 800
       },
       {
         "clue": "What responsibility do you feel to preserve and pass on family traditions?",
-        "correctQuestion": "Duty, love, identity, heritage preservation, or family legacy",
+        "correctQuestion": "What is Duty, love, identity, heritage preservation, or family legacy?",
         "value": 800
       },
       {
         "clue": "How might your family's traditions evolve based on your generation's values?",
-        "correctQuestion": "Adaptation, new customs, blending old and new, or innovation",
+        "correctQuestion": "What is Adaptation, new customs, blending old and new, or innovation?",
         "value": 800
       },
       {
         "clue": "What would losing your family's traditions mean for your sense of identity and belonging?",
-        "correctQuestion": "Loss of continuity, identity confusion, disconnection, or cultural loss",
+        "correctQuestion": "What is Loss of continuity, identity confusion, disconnection, or cultural loss?",
         "value": 800
       },
       {
         "clue": "How do your parents' birthday traditions compare to their parents' traditions?",
-        "correctQuestion": "Similarities, differences, or evolution over generations",
+        "correctQuestion": "What is Similarities, differences, or evolution over generations?",
         "value": 800
       },
       {
         "clue": "What part of your family's birthday tradition do you want to keep as an adult?",
-        "correctQuestion": "Specific tradition or practice they value",
+        "correctQuestion": "What is Specific tradition or practice they value?",
         "value": 800
       },
       {
         "clue": "How have your family's birthday celebrations changed as you've gotten older?",
-        "correctQuestion": "Different activities, responsibilities, or feelings",
+        "correctQuestion": "What is Different activities, responsibilities, or feelings?",
         "value": 800
       },
       {
         "clue": "What would your family do if someone couldn't make it to a birthday celebration?",
-        "correctQuestion": "Reschedule, include them remotely, celebrate anyway, or adapt",
+        "correctQuestion": "What is Reschedule, include them remotely, celebrate anyway, or adapt?",
         "value": 800
       },
       {
         "clue": "How do you balance enjoying family traditions with wanting to do things differently?",
-        "correctQuestion": "Compromise, negotiate, respect both perspectives, or thoughtful choice",
+        "correctQuestion": "What is Compromise, negotiate, respect both perspectives, or thoughtful choice?",
         "value": 800
       },
       {
         "clue": "What does your family's approach to birthdays reveal about what they value most?",
-        "correctQuestion": "Togetherness, celebration, food, memories, individual recognition, or love",
+        "correctQuestion": "What is Togetherness, celebration, food, memories, individual recognition, or love?",
         "value": 800
       },
       {
         "clue": "What does attachment theory tell us about family birthday traditions?",
-        "correctQuestion": "Create security, strengthen bonds, provide predictability, build trust, or enhance belonging",
+        "correctQuestion": "What is Create security, strengthen bonds, provide predictability, build trust, or enhance belonging?",
         "value": 800
       },
       {
         "clue": "How do family traditions serve as a mechanism for cultural transmission?",
-        "correctQuestion": "Pass values, heritage, skills, identity, or worldview between generations",
+        "correctQuestion": "What is Pass values, heritage, skills, identity, or worldview between generations?",
         "value": 800
       },
       {
         "clue": "What role do family narratives play in birthday celebrations?",
-        "correctQuestion": "Create meaning, establish identity, connect to history, or reinforce family bonds",
+        "correctQuestion": "What is Create meaning, establish identity, connect to history, or reinforce family bonds?",
         "value": 800
       },
       {
         "clue": "How do generational differences influence birthday celebration styles?",
-        "correctQuestion": "Values, technology, economics, social norms, or life experiences",
+        "correctQuestion": "What is Values, technology, economics, social norms, or life experiences?",
         "value": 800
       },
       {
         "clue": "What psychological needs do family traditions fulfill?",
-        "correctQuestion": "Belonging, identity, safety, continuity, meaning, or connection",
+        "correctQuestion": "What is Belonging, identity, safety, continuity, meaning, or connection?",
         "value": 800
       },
       {
         "clue": "How do family systems theory explain the importance of rituals like birthday celebrations?",
-        "correctQuestion": "Maintain family equilibrium, define roles, establish communication patterns, or strengthen bonds",
+        "correctQuestion": "What is Maintain family equilibrium, define roles, establish communication patterns, or strengthen bonds?",
         "value": 800
       },
       {
         "clue": "What is the relationship between family traditions and intergenerational resilience?",
-        "correctQuestion": "Provide stability, create connection, transmit coping skills, or build strength",
+        "correctQuestion": "What is Provide stability, create connection, transmit coping skills, or build strength?",
         "value": 800
       },
       {
         "clue": "How do conscious parents intentionally design birthday traditions?",
-        "correctQuestion": "Align with values, consider child's needs, create meaning, or establish culture",
+        "correctQuestion": "What is Align with values, consider child's needs, create meaning, or establish culture?",
         "value": 800
       },
       {
         "clue": "What distinguishes inherited traditions from newly created family customs?",
-        "correctQuestion": "Origins, intentionality, meaning, authenticity, or family choice",
+        "correctQuestion": "What is Origins, intentionality, meaning, authenticity, or family choice?",
         "value": 800
       },
       {
         "clue": "How do family traditions contribute to the development of family identity?",
-        "correctQuestion": "Define values, create unity, establish uniqueness, or build shared meaning",
+        "correctQuestion": "What is Define values, create unity, establish uniqueness, or build shared meaning?",
         "value": 800
       },
       {
         "clue": "What role does nostalgia play in how adults remember family birthdays?",
-        "correctQuestion": "Emotional significance, selective memory, meaning-making, or identity formation",
+        "correctQuestion": "What is Emotional significance, selective memory, meaning-making, or identity formation?",
         "value": 800
       },
       {
         "clue": "How do blended families negotiate and create unified birthday traditions?",
-        "correctQuestion": "Compromise, respect, integration, creating new combined customs, or flexibility",
+        "correctQuestion": "What is Compromise, respect, integration, creating new combined customs, or flexibility?",
         "value": 800
       },
       {
         "clue": "What does research reveal about the correlation between family traditions and mental health outcomes?",
-        "correctQuestion": "Lower anxiety, stronger identity, better family relationships, increased resilience, or sense of belonging",
+        "correctQuestion": "What is Lower anxiety, stronger identity, better family relationships, increased resilience, or sense of belonging?",
         "value": 800
       },
       {
         "clue": "How do family birthday rituals function as communication systems within family structures?",
-        "correctQuestion": "Express love, establish roles, transmit values, create predictability, or strengthen bonds",
+        "correctQuestion": "What is Express love, establish roles, transmit values, create predictability, or strengthen bonds?",
         "value": 800
       },
       {
         "clue": "What is the relationship between family traditions and the development of social-emotional competencies?",
-        "correctQuestion": "Empathy, belonging, communication skills, emotional regulation, or social awareness",
+        "correctQuestion": "What is Empathy, belonging, communication skills, emotional regulation, or social awareness?",
         "value": 800
       },
       {
         "clue": "How do adults negotiate the tension between honoring inherited traditions and creating modern families?",
-        "correctQuestion": "Selective adaptation, respectful innovation, blending old and new, or conscious choice",
+        "correctQuestion": "What is Selective adaptation, respectful innovation, blending old and new, or conscious choice?",
         "value": 800
       },
       {
         "clue": "What anthropological perspective explains why birthday celebrations are nearly universal?",
-        "correctQuestion": "Life transition marking, community bonding, individual recognition, or ritual necessity",
+        "correctQuestion": "What is Life transition marking, community bonding, individual recognition, or ritual necessity?",
         "value": 800
       },
       {
         "clue": "How do family traditions serve as anchors during major life transitions?",
-        "correctQuestion": "Provide continuity, stability, identity, connection, or meaning",
+        "correctQuestion": "What is Provide continuity, stability, identity, connection, or meaning?",
         "value": 800
       },
       {
         "clue": "What does systems theory suggest about how one family member's preferences affect birthday tradition practice?",
-        "correctQuestion": "Ripple effects through system, negotiation, balance, adaptation, or family equilibrium",
+        "correctQuestion": "What is Ripple effects through system, negotiation, balance, adaptation, or family equilibrium?",
         "value": 800
       },
       {
         "clue": "How do family traditions transmit implicit versus explicit values?",
-        "correctQuestion": "Explicit: stated values; Implicit: modeled behaviors, priorities, relationships, or culture",
+        "correctQuestion": "What is Explicit: stated values; Implicit: modeled behaviors, priorities, relationships, or culture?",
         "value": 800
       },
       {
         "clue": "What role does reciprocity play in maintaining family birthday traditions across generations?",
-        "correctQuestion": "Mutual obligation, fairness, equal participation, continuing cycle, or fair exchange",
+        "correctQuestion": "What is Mutual obligation, fairness, equal participation, continuing cycle, or fair exchange?",
         "value": 800
       },
       {
         "clue": "How do family traditions buffer against stress and contribute to family cohesion?",
-        "correctQuestion": "Provide stability, create routine, express care, build connection, or create safe spaces",
+        "correctQuestion": "What is Provide stability, create routine, express care, build connection, or create safe spaces?",
         "value": 800
       },
       {
         "clue": "What is the significance of birthday traditions in constructing family mythology and narrative?",
-        "correctQuestion": "Define identity, create shared story, establish values, connect to history, or meaning-making",
+        "correctQuestion": "What is Define identity, create shared story, establish values, connect to history, or meaning-making?",
         "value": 800
       },
       {
         "clue": "How do parents' own childhood experiences influence their birthday celebration practices?",
-        "correctQuestion": "Replication, improvement, rejection, adaptation, or conscious choice",
+        "correctQuestion": "What is Replication, improvement, rejection, adaptation, or conscious choice?",
         "value": 800
       },
       {
         "clue": "What does contemporary family systems theory suggest about the role of traditions in maintaining intergenerational boundaries and connections?",
-        "correctQuestion": "Balance autonomy with connection, respect differences, maintain family identity, or support development",
+        "correctQuestion": "What is Balance autonomy with connection, respect differences, maintain family identity, or support development?",
         "value": 800
       },
       {
         "clue": "How do family birthday traditions serve as both markers of continuity and opportunities for adaptive change?",
-        "correctQuestion": "Honor past while allowing growth, maintain identity while evolving, balance stability with flexibility",
+        "correctQuestion": "What is Honor past while allowing growth, maintain identity while evolving, balance stability with flexibility?",
         "value": 800
       },
       {
         "clue": "What psychological construct explains why individuals feel obligated to maintain family traditions even when they no longer fit their current identity?",
-        "correctQuestion": "Introjected values, family loyalty, guilt, identity fusion, internalization, or family enmeshment",
+        "correctQuestion": "What is Introjected values, family loyalty, guilt, identity fusion, internalization, or family enmeshment?",
         "value": 800
       },
       {
         "clue": "How do family traditions function as a form of cultural capital and class reproduction?",
-        "correctQuestion": "Status signaling, cultural knowledge transfer, economic practices, social positioning, or identity markers",
+        "correctQuestion": "What is Status signaling, cultural knowledge transfer, economic practices, social positioning, or identity markers?",
         "value": 800
       },
       {
         "clue": "What is the relationship between family tradition transmission and the development of secure vs. insecure attachment patterns across generations?",
-        "correctQuestion": "Secure: consistent care and connection; Insecure: inconsistency, emotional unavailability, or disconnection",
+        "correctQuestion": "What is Secure: consistent care and connection; Insecure: inconsistency, emotional unavailability, or disconnection?",
         "value": 800
       },
       {
         "clue": "How do family traditions interact with cultural narratives about individualism versus collectivism in shaping family relationships?",
-        "correctQuestion": "Reflect cultural values, shape participation patterns, influence communication styles, or define family roles",
+        "correctQuestion": "What is Reflect cultural values, shape participation patterns, influence communication styles, or define family roles?",
         "value": 800
       },
       {
         "clue": "How do adult responsibilities change how you experience family birthday traditions?",
-        "correctQuestion": "Less time, new roles, different expectations, or shifting perspective",
+        "correctQuestion": "What is Less time, new roles, different expectations, or shifting perspective?",
         "value": 800
       },
       {
         "clue": "What economic factors influence how your family celebrates birthdays?",
-        "correctQuestion": "Budget, resources, location, employment, or financial capacity",
+        "correctQuestion": "What is Budget, resources, location, employment, or financial capacity?",
         "value": 800
       },
       {
         "clue": "How do you create a sense of tradition when your family is geographically dispersed?",
-        "correctQuestion": "Technology, coordination, long-distance efforts, or creative adaptations",
+        "correctQuestion": "What is Technology, coordination, long-distance efforts, or creative adaptations?",
         "value": 800
       },
       {
         "clue": "What unspoken rules about gift-giving exist in your family's traditions?",
-        "correctQuestion": "Budget limits, reciprocity, types of gifts, or expectations",
+        "correctQuestion": "What is Budget limits, reciprocity, types of gifts, or expectations?",
         "value": 800
       },
       {
         "clue": "How do you navigate maintaining family traditions while establishing boundaries?",
-        "correctQuestion": "Communication, negotiation, selective participation, or respectful autonomy",
+        "correctQuestion": "What is Communication, negotiation, selective participation, or respectful autonomy?",
         "value": 800
       },
       {
         "clue": "What is your philosophy about which family traditions are worth preserving in your future family?",
-        "correctQuestion": "Thoughtful selection based on personal values, meaningful traditions, or conscious choice",
+        "correctQuestion": "What is Thoughtful selection based on personal values, meaningful traditions, or conscious choice?",
         "value": 800
       },
       {
         "clue": "How do family birthday traditions become repositories of family memory and identity?",
-        "correctQuestion": "Store experiences, preserve relationships, transmit values, maintain connection, or create continuity",
+        "correctQuestion": "What is Store experiences, preserve relationships, transmit values, maintain connection, or create continuity?",
         "value": 800
       },
       {
         "clue": "What role does legacy play in how adults and seniors approach family birthday traditions?",
-        "correctQuestion": "Ensure continuity, pass on values, create lasting impact, transmit heritage, or influence future generations",
+        "correctQuestion": "What is Ensure continuity, pass on values, create lasting impact, transmit heritage, or influence future generations?",
         "value": 800
       },
       {
         "clue": "How do traditions help older adults maintain connection to younger family members?",
-        "correctQuestion": "Create shared experiences, provide roles, demonstrate love, bridge generations, or stay involved",
+        "correctQuestion": "What is Create shared experiences, provide roles, demonstrate love, bridge generations, or stay involved?",
         "value": 800
       },
       {
         "clue": "What changes occur in how families celebrate birthdays as demographics shift?",
-        "correctQuestion": "Geographic distance, aging parents, empty nests, blended families, or redefined roles",
+        "correctQuestion": "What is Geographic distance, aging parents, empty nests, blended families, or redefined roles?",
         "value": 800
       },
       {
         "clue": "How do family historians serve as keepers of tradition and storytelling?",
-        "correctQuestion": "Preserve memories, tell stories, research genealogy, document practices, or maintain cultural knowledge",
+        "correctQuestion": "What is Preserve memories, tell stories, research genealogy, document practices, or maintain cultural knowledge?",
         "value": 800
       },
       {
         "clue": "What wisdom do elders transmit through their approach to birthday celebrations?",
-        "correctQuestion": "Values, perspectives on aging, importance of connection, life lessons, or reflections",
+        "correctQuestion": "What is Values, perspectives on aging, importance of connection, life lessons, or reflections?",
         "value": 800
       },
       {
         "clue": "How do adults consciously evaluate which family traditions to maintain and which to release?",
-        "correctQuestion": "Assess fit with values, consider practicality, respect family input, or make intentional choices",
+        "correctQuestion": "What is Assess fit with values, consider practicality, respect family input, or make intentional choices?",
         "value": 800
       },
       {
         "clue": "What is the relationship between family traditions and existential meaning-making in later adulthood?",
-        "correctQuestion": "Create purpose, provide continuity, mark time, connect to legacy, or find meaning in life",
+        "correctQuestion": "What is Create purpose, provide continuity, mark time, connect to legacy, or find meaning in life?",
         "value": 800
       },
       {
         "clue": "How do cultural heritage traditions influence how families navigate birthday celebrations?",
-        "correctQuestion": "Determine practices, shape values, guide expectations, maintain identity, or honor ancestors",
+        "correctQuestion": "What is Determine practices, shape values, guide expectations, maintain identity, or honor ancestors?",
         "value": 800
       },
       {
         "clue": "What happens to family traditions when key family members pass away?",
-        "correctQuestion": "Adaptation, continuity with change, new leadership, memory keeping, or evolution",
+        "correctQuestion": "What is Adaptation, continuity with change, new leadership, memory keeping, or evolution?",
         "value": 800
       },
       {
         "clue": "How do adults navigate the gap between the family traditions they experienced and those they want for their children?",
-        "correctQuestion": "Selective continuation, innovation, integration, conscious choice, or respectful revision",
+        "correctQuestion": "What are Selective continuation, innovation, integration, conscious choice, or respectful revision?",
         "value": 800
       },
       {
         "clue": "What role does forgiveness and healing play in renewing family birthday traditions?",
-        "correctQuestion": "Repair relationships, create safety, rebuild trust, enable participation, or allow reconciliation",
+        "correctQuestion": "What is Repair relationships, create safety, rebuild trust, enable participation, or allow reconciliation?",
         "value": 800
       },
       {
         "clue": "How does the awareness of mortality influence how adults and seniors approach family celebrations?",
-        "correctQuestion": "Increase appreciation, prioritize relationships, create memories, value time, or deepen meaning",
+        "correctQuestion": "What is Increase appreciation, prioritize relationships, create memories, value time, or deepen meaning?",
         "value": 800
       },
       {
         "clue": "What intergenerational conflicts arise around maintaining versus modernizing family traditions?",
-        "correctQuestion": "Generational values, technology, logistics, expectations, respect, or change management",
+        "correctQuestion": "What is Generational values, technology, logistics, expectations, respect, or change management?",
         "value": 800
       },
       {
         "clue": "How do family traditions serve as psychological anchors for adults navigating major life transitions?",
-        "correctQuestion": "Provide stability, continuity, identity, meaning, or connection during uncertainty",
+        "correctQuestion": "What is Provide stability, continuity, identity, meaning, or connection during uncertainty?",
         "value": 800
       },
       {
         "clue": "What role does documentation (photos, videos, writing) play in preserving family traditions?",
-        "correctQuestion": "Create records, transmit knowledge, preserve memories, honor heritage, or enable future access",
+        "correctQuestion": "What is Create records, transmit knowledge, preserve memories, honor heritage, or enable future access?",
         "value": 800
       },
       {
         "clue": "How do adults balance honoring parents' traditions while creating authenticity in their own families?",
-        "correctQuestion": "Respectful selection, blend approaches, communicate values, or make conscious adult choices",
+        "correctQuestion": "What is Respectful selection, blend approaches, communicate values, or make conscious adult choices?",
         "value": 800
       },
       {
         "clue": "What is the significance of birthdays as markers of biological and social time for aging families?",
-        "correctQuestion": "Life progress, aging awareness, generational transitions, family changes, or life review",
+        "correctQuestion": "What is Life progress, aging awareness, generational transitions, family changes, or life review?",
         "value": 800
       },
       {
         "clue": "How do family traditions reflect and reproduce social structures, power dynamics, and family hierarchies?",
-        "correctQuestion": "Decision-making roles, leadership, resource allocation, who is centered, or whose needs are prioritized",
+        "correctQuestion": "What is Decision-making roles, leadership, resource allocation, who is centered, or whose needs are prioritized?",
         "value": 800
       },
       {
         "clue": "What psychological processes allow adults to transform painful family histories into positive traditions?",
-        "correctQuestion": "Healing, reframing, conscious choice, breaking cycles, creating new narratives, or redemption",
+        "correctQuestion": "What is Healing, reframing, conscious choice, breaking cycles, creating new narratives, or redemption?",
         "value": 800
       },
       {
         "clue": "How do geographic dispersal and technological change alter the transmission of family traditions?",
-        "correctQuestion": "Virtual celebrations, selective continuation, adaptation, new communication modes, or innovation",
+        "correctQuestion": "What is Virtual celebrations, selective continuation, adaptation, new communication modes, or innovation?",
         "value": 800
       },
       {
         "clue": "What role do family reunions and milestone celebrations play in maintaining dispersed family bonds?",
-        "correctQuestion": "Create connection, renew relationships, transmit culture, build identity, or maintain continuity",
+        "correctQuestion": "What is Create connection, renew relationships, transmit culture, build identity, or maintain continuity?",
         "value": 800
       },
       {
         "clue": "How do adults navigate traditions from multiple cultural backgrounds when creating family practices?",
-        "correctQuestion": "Integration, respect, selection, blending, or creating new syncretic traditions",
+        "correctQuestion": "What is Integration, respect, selection, blending, or creating new syncretic traditions?",
         "value": 800
       },
       {
         "clue": "What is the relationship between family traditions and the development of resilience in children growing up with family instability?",
-        "correctQuestion": "Create predictability, provide anchor, build identity, ensure consistency, or maintain hope",
+        "correctQuestion": "What is Create predictability, provide anchor, build identity, ensure consistency, or maintain hope?",
         "value": 800
       },
       {
         "clue": "How do family traditions serve as a form of biological and cultural continuity in the face of human mortality?",
-        "correctQuestion": "Connect generations, ensure legacy, maintain identity, transmit values, transcend death, or create meaning",
+        "correctQuestion": "What is Connect generations, ensure legacy, maintain identity, transmit values, transcend death, or create meaning?",
         "value": 800
       },
       {
         "clue": "What does critical family scholarship reveal about how traditions can reproduce inequality or enable social change?",
-        "correctQuestion": "Reinforce hierarchy or challenge it, maintain status quo or transform, include or exclude",
+        "correctQuestion": "What is Reinforce hierarchy or challenge it, maintain status quo or transform, include or exclude?",
         "value": 800
       },
       {
         "clue": "How do adults reconcile the competing values of honoring ancestral traditions while creating inclusive, equitable family practices?",
-        "correctQuestion": "Thoughtful selection, respectful critique, evolution, honoring spirit while changing form",
+        "correctQuestion": "What is Thoughtful selection, respectful critique, evolution, honoring spirit while changing form?",
         "value": 800
       },
       {
         "clue": "What role do family birthday traditions play in constructing a coherent life narrative across the lifespan?",
-        "correctQuestion": "Create continuity, organize memory, establish identity, demonstrate growth, or integrate life experiences",
+        "correctQuestion": "What is Create continuity, organize memory, establish identity, demonstrate growth, or integrate life experiences?",
         "value": 800
       },
       {
         "clue": "How might family traditions be reimagined to support psychological wellbeing, equity, and authentic connection in multigenerational families?",
-        "correctQuestion": "Inclusive design, consent-based participation, flexibility, authentic expression, or intentional values alignment",
+        "correctQuestion": "What is Inclusive design, consent-based participation, flexibility, authentic expression, or intentional values alignment?",
         "value": 800
       },
       {
         "clue": "What philosophical questions emerge when considering the balance between individual autonomy and family obligation in tradition-keeping?",
-        "correctQuestion": "Identity, freedom, connection, responsibility, authenticity, belonging, or ethical obligation",
+        "correctQuestion": "What is Identity, freedom, connection, responsibility, authenticity, belonging, or ethical obligation?",
         "value": 800
       },
       {
         "clue": "How has your role in family birthday celebrations changed over your lifetime?",
-        "correctQuestion": "From guest to organizer, elder to leader, or various role shifts",
+        "correctQuestion": "What is From guest to organizer, elder to leader, or various role shifts?",
         "value": 800
       },
       {
         "clue": "What traditions have you deliberately chosen to pass on to younger generations?",
-        "correctQuestion": "Specific practices, recipes, values, or customs",
+        "correctQuestion": "What is Specific practices, recipes, values, or customs?",
         "value": 800
       },
       {
         "clue": "How do you balance maintaining long-standing traditions with respecting evolving family needs?",
-        "correctQuestion": "Flexibility, dialogue, adaptation, honoring both continuity and change",
+        "correctQuestion": "What is Flexibility, dialogue, adaptation, honoring both continuity and change?",
         "value": 800
       },
       {
         "clue": "What meaning does celebrating family birthdays hold as you reflect on your life journey?",
-        "correctQuestion": "Connection, legacy, relationships, continuity, memory, or life review",
+        "correctQuestion": "What is Connection, legacy, relationships, continuity, memory, or life review?",
         "value": 800
       },
       {
         "clue": "How have your family's birthday traditions served as anchors through major life transitions and losses?",
-        "correctQuestion": "Continuity during change, connection during hardship, meaning-making, or resilience",
+        "correctQuestion": "What is Continuity during change, connection during hardship, meaning-making, or resilience?",
         "value": 800
       },
       {
         "clue": "What would you want future generations to understand about the traditions you've nurtured?",
-        "correctQuestion": "Values, love, sacrifice, history, meaning, or what matters most",
+        "correctQuestion": "What is Values, love, sacrifice, history, meaning, or what matters most?",
         "value": 800
       }
     ],
     "kids_4_under": [
       {
         "clue": "What tradition does your family repeat every single birthday?",
-        "correctQuestion": "Singing Happy Birthday, eating cake, or specific family ritual",
+        "correctQuestion": "What is Singing Happy Birthday, eating cake, or specific family ritual?",
         "value": 200
       },
       {
         "clue": "Who in your family makes or bakes your birthday cake?",
-        "correctQuestion": "Mom, dad, grandparent, or family member",
+        "correctQuestion": "What is Mom, dad, grandparent, or family member?",
         "value": 200
       },
       {
         "clue": "What does your family do to make your birthday feel special?",
-        "correctQuestion": "Decorate, cook special food, give gifts, or spend time together",
+        "correctQuestion": "What is Decorate, cook special food, give gifts, or spend time together?",
         "value": 200
       },
       {
         "clue": "How many generations of family members usually come to your birthday?",
-        "correctQuestion": "Multiple generations or grandparents, parents, kids",
+        "correctQuestion": "What is Multiple generations or grandparents, parents, kids?",
         "value": 200
       },
       {
         "clue": "What is passed down in your family about birthday celebrations?",
-        "correctQuestion": "Traditions, recipes, stories, or customs",
+        "correctQuestion": "What is Traditions, recipes, stories, or customs?",
         "value": 200
       },
       {
         "clue": "Which relatives do you most look forward to seeing on your birthday?",
-        "correctQuestion": "Grandparents, cousins, aunts, uncles, or family members",
+        "correctQuestion": "What is Grandparents, cousins, aunts, uncles, or family members?",
         "value": 200
       },
       {
         "clue": "What story do your parents or grandparents tell about your birthday?",
-        "correctQuestion": "Birth story, early birthday celebration, or family memory",
+        "correctQuestion": "What is Birth story, early birthday celebration, or family memory?",
         "value": 200
       },
       {
         "clue": "What special food does your family make that's unique to your birthday?",
-        "correctQuestion": "Family recipe, favorite dish, or cultural food",
+        "correctQuestion": "What is Family recipe, favorite dish, or cultural food?",
         "value": 200
       },
       {
         "clue": "How does your grandparent participate in your birthday celebration?",
-        "correctQuestion": "Gives gifts, cooks, attends party, or tells stories",
+        "correctQuestion": "What is Gives gifts, cooks, attends party, or tells stories?",
         "value": 200
       },
       {
         "clue": "What role does your oldest sibling or family member play in birthdays?",
-        "correctQuestion": "Helps plan, gives gifts, leads singing, or organizes games",
+        "correctQuestion": "What is Helps plan, gives gifts, leads singing, or organizes games?",
         "value": 200
       },
       {
         "clue": "What family member is usually in charge of planning your party?",
-        "correctQuestion": "Parent, mom, or dad",
+        "correctQuestion": "What is Parent, mom, or dad?",
         "value": 200
       },
       {
         "clue": "How do your relatives show they care about your birthday?",
-        "correctQuestion": "Gifts, calls, cards, visiting, or spending time with you",
+        "correctQuestion": "What is Gifts, calls, cards, visiting, or spending time with you?",
         "value": 200
       },
       {
         "clue": "What tradition from your grandparent's generation is still done at your birthday?",
-        "correctQuestion": "Specific recipe, song, game, or ritual",
+        "correctQuestion": "What is Specific recipe, song, game, or ritual?",
         "value": 200
       },
       {
         "clue": "Who in your family helps you prepare for your birthday celebration?",
-        "correctQuestion": "Parents, siblings, grandparents, or family members",
+        "correctQuestion": "What is Parents, siblings, grandparents, or family members?",
         "value": 200
       },
       {
         "clue": "What do you learn about your family through birthday celebrations?",
-        "correctQuestion": "Values, history, who you are, family bonds, or culture",
+        "correctQuestion": "What is Values, history, who you are, family bonds, or culture?",
         "value": 200
       },
       {
         "clue": "How does your family's birthday tradition show love and connection?",
-        "correctQuestion": "Gathering together, special attention, gifts, time, or care",
+        "correctQuestion": "What is Gathering together, special attention, gifts, time, or care?",
         "value": 200
       },
       {
         "clue": "What responsibility do you have during a family member's birthday?",
-        "correctQuestion": "Help with party, sing, give gift, or participate",
+        "correctQuestion": "What is Help with party, sing, give gift, or participate?",
         "value": 200
       },
       {
         "clue": "What stories does your family tell about past birthdays?",
-        "correctQuestion": "Funny moments, traditions, memorable celebrations, or family history",
+        "correctQuestion": "What is Funny moments, traditions, memorable celebrations, or family history?",
         "value": 200
       },
       {
         "clue": "How have your family's birthday traditions changed over time?",
-        "correctQuestion": "Different locations, foods, guests, size, or style",
+        "correctQuestion": "What is Different locations, foods, guests, size, or style?",
         "value": 200
       },
       {
         "clue": "What does it mean to your family to celebrate birthdays together?",
-        "correctQuestion": "Love, connection, family importance, creating memories, or togetherness",
+        "correctQuestion": "What is Love, connection, family importance, creating memories, or togetherness?",
         "value": 200
       },
       {
         "clue": "How do you help keep your family's traditions alive?",
-        "correctQuestion": "Learn them, do them, teach younger siblings, pass them down",
+        "correctQuestion": "What is Learn them, do them, teach younger siblings, pass them down?",
         "value": 200
       },
       {
         "clue": "What family member carries on traditions from your great-grandparents?",
-        "correctQuestion": "Grandparent, parent, or family elder",
+        "correctQuestion": "What is Grandparent, parent, or family elder?",
         "value": 200
       },
       {
         "clue": "What does your family do differently at birthdays than other families?",
-        "correctQuestion": "Special traditions, cultural customs, family recipes, or unique rituals",
+        "correctQuestion": "What is Special traditions, cultural customs, family recipes, or unique rituals?",
         "value": 200
       },
       {
         "clue": "How do distant family members participate in your birthday?",
-        "correctQuestion": "Calls, video chats, cards, gifts, or visit when possible",
+        "correctQuestion": "What is Calls, video chats, cards, gifts, or visit when possible?",
         "value": 200
       },
       {
         "clue": "What life lessons do you learn from your family's birthday traditions?",
-        "correctQuestion": "Family values, love, heritage, identity, commitment, or belonging",
+        "correctQuestion": "What is Family values, love, heritage, identity, commitment, or belonging?",
         "value": 200
       },
       {
         "clue": "How do your family's birthday traditions connect you to your heritage?",
-        "correctQuestion": "Cultural practices, family history, ancestral customs, or values",
+        "correctQuestion": "What is Cultural practices, family history, ancestral customs, or values?",
         "value": 200
       },
       {
         "clue": "What family tradition will you pass down when you grow up?",
-        "correctQuestion": "Family birthday rituals, recipes, stories, or customs",
+        "correctQuestion": "What is Family birthday rituals, recipes, stories, or customs?",
         "value": 200
       },
       {
         "clue": "How does your family's celebration bring everyone closer together?",
-        "correctQuestion": "Shared experiences, creating memories, expressing love, bonding",
+        "correctQuestion": "What is Shared experiences, creating memories, expressing love, bonding?",
         "value": 200
       },
       {
         "clue": "What would birthdays feel like without your family's traditions?",
-        "correctQuestion": "Less special, empty, lonely, or not the same",
+        "correctQuestion": "What is Less special, empty, lonely, or not the same?",
         "value": 200
       },
       {
         "clue": "How do your siblings feel about your family's birthday traditions?",
-        "correctQuestion": "Happy, excited, connected, or bonded (positive feelings)",
+        "correctQuestion": "What is Happy, excited, connected, or bonded (positive feelings)?",
         "value": 200
       },
       {
         "clue": "What city or place was your parent born in?",
-        "correctQuestion": "Name of city or location (varies by family)",
+        "correctQuestion": "What is Name of city or location (varies by family)?",
         "value": 200
       },
       {
         "clue": "What is your family's favorite birthday food that's not cake?",
-        "correctQuestion": "Family-specific food or meal preference",
+        "correctQuestion": "What is Family-specific food or meal preference?",
         "value": 200
       },
       {
         "clue": "How many generations of your family usually celebrate together?",
-        "correctQuestion": "Number of generations (children, parents, grandparents, etc.)",
+        "correctQuestion": "What is Number of generations (children, parents, grandparents, etc.)?",
         "value": 200
       },
       {
         "clue": "What family member tells the best birthday stories?",
-        "correctQuestion": "Grandparent, parent, aunt, uncle, or older sibling",
+        "correctQuestion": "What is Grandparent, parent, aunt, uncle, or older sibling?",
         "value": 200
       },
       {
         "clue": "What is something you learned about your family from their birthday traditions?",
-        "correctQuestion": "Values, history, where they came from, what's important, or who they are",
+        "correctQuestion": "What is Values, history, where they came from, what's important, or who they are?",
         "value": 200
       },
       {
         "clue": "If you could change one thing about your family's birthday traditions, what would it be?",
-        "correctQuestion": "Any answer reflecting personal preference or family input",
+        "correctQuestion": "What is Any answer reflecting personal preference or family input?",
         "value": 200
       }
     ]

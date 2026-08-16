@@ -6,154 +6,154 @@
     "kids_4_under": [
       {
         "clue": "What is a guest list?",
-        "correctQuestion": "A list of people invited to an event",
+        "correctQuestion": "What is a list of people invited to an event?",
         "value": 100
       },
       {
         "clue": "What is the typical deadline for RSVP responses?",
-        "correctQuestion": "1-2 weeks before the event",
+        "correctQuestion": "What is 1-2 weeks before the event?",
         "value": 100
       },
       {
         "clue": "What is an invitation?",
-        "correctQuestion": "A written or verbal request asking someone to an event",
+        "correctQuestion": "What is a written or verbal request asking someone to an event?",
         "value": 100
       },
       {
         "clue": "What is a plus-one?",
-        "correctQuestion": "Permission to bring one additional guest to an event",
+        "correctQuestion": "What is Permission to bring one additional guest to an event?",
         "value": 100
       },
       {
         "clue": "What is a surprise party?",
-        "correctQuestion": "A party where the guest of honor doesn't know about it beforehand",
+        "correctQuestion": "What is a party where the guest of honor doesn't know about it beforehand?",
         "value": 100
       },
       {
         "clue": "What is an intimate birthday gathering?",
-        "correctQuestion": "A small party with close friends or family only",
+        "correctQuestion": "What is a small party with close friends or family only?",
         "value": 100
       },
       {
         "clue": "What is a guest of honor?",
-        "correctQuestion": "The most important person at an event, usually the birthday person",
+        "correctQuestion": "What is the most important person at an event, usually the birthday person?",
         "value": 100
       },
       {
         "clue": "What is a birthday registry?",
-        "correctQuestion": "A curated list of gifts or preferences from the birthday person",
+        "correctQuestion": "What is a curated list of gifts or preferences from the birthday person?",
         "value": 100
       },
       {
         "clue": "What is a 'no-show' at a party?",
-        "correctQuestion": "When an invited guest doesn't attend and doesn't notify the host",
+        "correctQuestion": "What is When an invited guest doesn't attend and doesn't notify the host?",
         "value": 100
       },
       {
         "clue": "What is a birthday theme party?",
-        "correctQuestion": "A party where decorations, food, and entertainment follow a specific theme",
+        "correctQuestion": "What is a party where decorations, food, and entertainment follow a specific theme?",
         "value": 100
       },
       {
         "clue": "What is a pot-luck party?",
-        "correctQuestion": "A gathering where each guest brings a dish to share",
+        "correctQuestion": "What is a gathering where each guest brings a dish to share?",
         "value": 100
       },
       {
         "clue": "What is a birthday countdown?",
-        "correctQuestion": "The period leading up to someone's birthday",
+        "correctQuestion": "What is the period leading up to someone's birthday?",
         "value": 100
       },
       {
         "clue": "What is a guest book at a party?",
-        "correctQuestion": "A book where guests sign their names and write messages",
+        "correctQuestion": "What is a book where guests sign their names and write messages?",
         "value": 100
       },
       {
         "clue": "What is a destination birthday party?",
-        "correctQuestion": "A celebration held at a location away from the birthday person's home",
+        "correctQuestion": "What is a celebration held at a location away from the birthday person's home?",
         "value": 100
       },
       {
         "clue": "What is virtual party attendance?",
-        "correctQuestion": "Joining a celebration remotely through video call or online platform",
+        "correctQuestion": "What is Joining a celebration remotely through video call or online platform?",
         "value": 100
       },
       {
         "clue": "What is a last-minute RSVP?",
-        "correctQuestion": "Responding to an invitation close to the event date",
+        "correctQuestion": "What is Responding to an invitation close to the event date?",
         "value": 100
       },
       {
         "clue": "What is a group chat for party planning?",
-        "correctQuestion": "A digital conversation where attendees discuss party logistics",
+        "correctQuestion": "What is a digital conversation where attendees discuss party logistics?",
         "value": 100
       },
       {
         "clue": "What is a birthday surprise planned by friends?",
-        "correctQuestion": "A coordinated effort by friends to surprise the birthday person",
+        "correctQuestion": "What is a coordinated effort by friends to surprise the birthday person?",
         "value": 100
       }
     ],
     "kids_10_under": [
       {
         "clue": "What does RSVP stand for?",
-        "correctQuestion": "Repondez s'il vous plait (Please respond)",
+        "correctQuestion": "What is Repondez s'il vous plait (Please respond)?",
         "value": 300
       },
       {
         "clue": "What is the proper way to decline an invitation?",
-        "correctQuestion": "Politely respond as soon as possible, usually by phone or card",
+        "correctQuestion": "What is Politely respond as soon as possible, usually by phone or card?",
         "value": 300
       },
       {
         "clue": "What is a cocktail party reception?",
-        "correctQuestion": "A formal gathering where guests mingle and drink",
+        "correctQuestion": "What is a formal gathering where guests mingle and drink?",
         "value": 300
       },
       {
         "clue": "What does 'no plus-ones' mean on an invitation?",
-        "correctQuestion": "You cannot bring additional guests beyond yourself",
+        "correctQuestion": "What is You cannot bring additional guests beyond yourself?",
         "value": 300
       },
       {
         "clue": "What should you do if you receive an invitation but cannot attend?",
-        "correctQuestion": "Respond as soon as possible with a polite decline and reason if appropriate",
+        "correctQuestion": "What is Respond as soon as possible with a polite decline and reason if appropriate?",
         "value": 300
       },
       {
         "clue": "What is the purpose of a seating arrangement at a formal dinner party?",
-        "correctQuestion": "To ensure good conversation and social flow among guests",
+        "correctQuestion": "What is To ensure good conversation and social flow among guests?",
         "value": 300
       },
       {
         "clue": "What is cocktail attire?",
-        "correctQuestion": "Semi-formal dress code for evening events",
+        "correctQuestion": "What is Semi-formal dress code for evening events?",
         "value": 300
       },
       {
         "clue": "What should an invitation include?",
-        "correctQuestion": "Date, time, location, RSVP details, and dress code if applicable",
+        "correctQuestion": "What is Date, time, location, RSVP details, and dress code if applicable?",
         "value": 300
       },
       {
         "clue": "What is an exclusive guest list?",
-        "correctQuestion": "A carefully selected limited group of invited guests",
+        "correctQuestion": "What is a carefully selected limited group of invited guests?",
         "value": 300
       },
       {
         "clue": "What is a rain date for an outdoor party?",
-        "correctQuestion": "An alternate date in case of bad weather",
+        "correctQuestion": "What is an alternate date in case of bad weather?",
         "value": 300
       },
       {
         "clue": "What is the etiquette for bringing uninvited guests?",
-        "correctQuestion": "You should not bring uninvited guests without asking the host first",
+        "correctQuestion": "What is You should not bring uninvited guests without asking the host first?",
         "value": 300
       },
       {
         "clue": "What is proper timing for sending birthday invitations?",
-        "correctQuestion": "Typically 2-3 weeks in advance for most occasions",
+        "correctQuestion": "What is Typically 2-3 weeks in advance for most occasions?",
         "value": 300
       }
     ],

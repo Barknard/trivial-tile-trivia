@@ -23,6 +23,9 @@ import sys
 from collections import Counter, defaultdict
 
 INTERROGATIVE = re.compile(r'^\s*(what|who|which|when|where|how|why|whose|whom|name)\b', re.I)
+# The response is spoken as a question - "What is red?", "Who are the elves?" -
+# so its length is judged on the part after the question opener.
+RESPONSE_OPENER = re.compile(r'^\s*(what|who|where|when)\s+(is|are|was|were)\s+', re.I)
 POINTER = re.compile(r'\b(this|these|those|his|her|hers|its|their|theirs)\b', re.I)
 WORD = re.compile(r"[A-Za-z0-9'’-]+")
 # Abstract, adult register that small children will not follow even when the
@@ -77,14 +80,20 @@ def check_entry(clue, response, value, audience, seen_responses):
     elif n > MAX_CLUE_WORDS:
         issues.append(('warn', 'clue-too-long', f'{n} words: {clue[:50]}'))
 
-    rn = len(words(response))
-    if rn > MAX_RESPONSE_WORDS or ';' in response:
-        issues.append(('error', 'response-is-an-essay', f'{rn} words: {response[:70]}'))
+    # Players say the response as a question; that is the format the game ships
+    # and displays, so a bare noun is incomplete rather than wrong.
+    if not RESPONSE_OPENER.match(response):
+        issues.append(('warn', 'response-not-phrased-as-a-question', response[:60]))
+    core = RESPONSE_OPENER.sub('', response).rstrip('?').strip()
+
+    rn = len(words(core))
+    if rn > MAX_RESPONSE_WORDS or ';' in core:
+        issues.append(('error', 'response-is-an-essay', f'{rn} words: {core[:70]}'))
 
     # The answer must not appear in the clue - check whole words, and stems for
     # compounds like sunscreen/sun.
     clue_words = {w.lower().rstrip('s') for w in words(clue)}
-    response_words = [w.lower().rstrip('s') for w in words(response)
+    response_words = [w.lower().rstrip('s') for w in words(core)
                       if len(w) > 3 and w.lower() not in
                       {'what', 'who', 'the', 'and', 'this', 'that', 'with', 'from', 'your'}]
     leaked = [w for w in response_words if w in clue_words]
