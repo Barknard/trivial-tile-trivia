@@ -17,17 +17,17 @@
       {
         "clue": "Birds flap these two things to fly up into the sky",
         "correctQuestion": "What are wings?",
-        "value": 200
+        "value": 100
       },
       {
         "clue": "This big bird scoops up fish in its giant stretchy beak",
         "correctQuestion": "What is a pelican?",
-        "value": 200
+        "value": 100
       },
       {
         "clue": "Birds are covered all over in these soft light things",
         "correctQuestion": "What are feathers?",
-        "value": 300
+        "value": 100
       },
       {
         "clue": "This bird says quack and paddles along the water",
@@ -42,17 +42,17 @@
       {
         "clue": "A bird picks up its food with this hard pointy part",
         "correctQuestion": "What is a beak?",
-        "value": 200
+        "value": 100
       },
       {
         "clue": "This tall pink bird likes to stand on just one leg",
         "correctQuestion": "What is a flamingo?",
-        "value": 200
+        "value": 100
       },
       {
         "clue": "Beach birds paddle with these flat stretchy feet",
         "correctQuestion": "What are webbed feet?",
-        "value": 300
+        "value": 100
       },
       {
         "clue": "This big white bird has a very long curvy neck",
@@ -77,17 +77,17 @@
       {
         "clue": "This black and white bird swims fast but cannot fly at all",
         "correctQuestion": "What is a penguin?",
-        "value": 300
+        "value": 200
       },
       {
         "clue": "Birds sit way up here on this tall wooden pole by the sea",
         "correctQuestion": "What is a post?",
-        "value": 100
+        "value": 200
       },
       {
         "clue": "Seagulls all shout at once when you drop this crunchy beach snack",
         "correctQuestion": "What is a french fry?",
-        "value": 100
+        "value": 200
       },
       {
         "clue": "This is the sound a seagull makes over and over",
@@ -102,17 +102,17 @@
       {
         "clue": "Birds dip down into the water to catch this wiggly dinner",
         "correctQuestion": "What is a fish?",
-        "value": 300
+        "value": 200
       },
       {
         "clue": "Ducks and geese have this soft fluffy stuff under their feathers",
         "correctQuestion": "What is down?",
-        "value": 100
+        "value": 200
       },
       {
         "clue": "This bird walks on the sand and leaves these behind",
         "correctQuestion": "What are footprints?",
-        "value": 100
+        "value": 200
       },
       {
         "clue": "Birds fluff up their feathers when the wind makes them feel this",
@@ -132,22 +132,22 @@
       {
         "clue": "A bird cleans its feathers with this, not with soap",
         "correctQuestion": "What is its beak?",
-        "value": 100
+        "value": 300
       },
       {
         "clue": "Birds fly south when this cold white season comes",
         "correctQuestion": "What is winter?",
-        "value": 100
+        "value": 300
       },
       {
         "clue": "This bird is bigger than you and cannot fly, but it runs fast",
         "correctQuestion": "What is an ostrich?",
-        "value": 200
+        "value": 300
       },
       {
         "clue": "Seagulls sometimes drop shells on rocks to open them and get this",
         "correctQuestion": "What is the food inside?",
-        "value": 200
+        "value": 300
       },
       {
         "clue": "A group of birds flying together in the sky is called this",
@@ -164,22 +164,22 @@
       {
         "clue": "This bird plunges beak-first into the sea and scoops fish into its pouch",
         "correctQuestion": "What is a pelican?",
-        "value": 200
+        "value": 100
       },
       {
         "clue": "These small birds sprint along the wet sand chasing each wave out",
         "correctQuestion": "What are sandpipers?",
-        "value": 300
+        "value": 100
       },
       {
         "clue": "This orange-billed black and white bird is nicknamed the sea parrot",
         "correctQuestion": "What is a puffin?",
-        "value": 400
+        "value": 100
       },
       {
         "clue": "This long-legged grey bird stands dead still in shallow water hunting fish",
         "correctQuestion": "What is a heron?",
-        "value": 500
+        "value": 100
       },
       {
         "clue": "Beach birds have these between their toes so they can paddle",
@@ -194,22 +194,22 @@
       {
         "clue": "Birds do this twice a year, flying thousands of miles for warm weather",
         "correctQuestion": "What is migration?",
-        "value": 300
+        "value": 200
       },
       {
         "clue": "This snow-white wading bird was once hunted for its long fancy feathers",
         "correctQuestion": "What is an egret?",
-        "value": 400
+        "value": 200
       },
       {
         "clue": "A bird cleans and oils its feathers by doing this with its beak",
         "correctQuestion": "What is preening?",
-        "value": 500
+        "value": 200
       },
       {
         "clue": "This dark seabird holds its wings out to dry after diving",
         "correctQuestion": "What is a cormorant?",
-        "value": 100
+        "value": 200
       },
       {
         "clue": "Seabirds drink salt water and squeeze the salt out through these",
@@ -224,22 +224,22 @@
       {
         "clue": "This bird's black cap and forked tail make it look like a small gull",
         "correctQuestion": "What is a tern?",
-        "value": 400
+        "value": 300
       },
       {
         "clue": "Baby seabirds are this colour, speckled brown, so they hide in the sand",
         "correctQuestion": "What is camouflaged?",
-        "value": 500
+        "value": 300
       },
       {
         "clue": "This is the word for a bird sitting on eggs to keep them warm",
         "correctQuestion": "What is incubating?",
-        "value": 100
+        "value": 300
       },
       {
         "clue": "This huge seabird has the longest wings of any bird alive",
         "correctQuestion": "What is an albatross?",
-        "value": 200
+        "value": 300
       },
       {
         "clue": "This shorebird got its name because it pries open shellfish",
@@ -254,22 +254,22 @@
       {
         "clue": "This bird makes a laughing call and is named for it",
         "correctQuestion": "What is a laughing gull?",
-        "value": 500
+        "value": 400
       },
       {
         "clue": "Seabirds nest crowded together on cliffs in this kind of noisy neighbourhood",
         "correctQuestion": "What is a colony?",
-        "value": 100
+        "value": 400
       },
       {
         "clue": "This bird skims the surface with its lower bill slicing the water",
         "correctQuestion": "What is a black skimmer?",
-        "value": 200
+        "value": 400
       },
       {
         "clue": "Gull chicks peck this bright marking on a parent's beak to be fed",
         "correctQuestion": "What is the red spot?",
-        "value": 300
+        "value": 400
       },
       {
         "clue": "This small pale shorebird is protected because so few nests survive",
@@ -284,22 +284,22 @@
       {
         "clue": "This bird steals fish from other birds in mid-air instead of fishing",
         "correctQuestion": "What is a frigatebird?",
-        "value": 100
+        "value": 500
       },
       {
         "clue": "Birds keep their feathers waterproof with oil from this gland near the tail",
         "correctQuestion": "What is the preen gland?",
-        "value": 200
+        "value": 500
       },
       {
         "clue": "This tern flies pole to pole and back every single year",
         "correctQuestion": "What is the Arctic tern?",
-        "value": 300
+        "value": 500
       },
       {
         "clue": "Seabird droppings pile up on islands and become this valuable fertiliser",
         "correctQuestion": "What is guano?",
-        "value": 400
+        "value": 500
       },
       {
         "clue": "This bird runs so fast along the shore its legs blur, and it never stops",
@@ -316,22 +316,22 @@
       {
         "clue": "This bird's throat pouch holds three times more than its stomach",
         "correctQuestion": "What is a pelican?",
-        "value": 400
+        "value": 200
       },
       {
         "clue": "This clown-faced seabird's bill turns bright orange only for breeding season",
         "correctQuestion": "What is a puffin?",
-        "value": 600
+        "value": 200
       },
       {
         "clue": "This bird has the largest wingspan alive, over three metres tip to tip",
         "correctQuestion": "What is the albatross?",
-        "value": 800
+        "value": 200
       },
       {
         "clue": "This tern's yearly migration is the longest of any animal on Earth",
         "correctQuestion": "What is the Arctic tern?",
-        "value": 1000
+        "value": 200
       },
       {
         "clue": "Seabirds excrete salt through glands above these, not through their kidneys",
@@ -346,22 +346,22 @@
       {
         "clue": "This bird hits the water at 100 km/h with its neck braced by air sacs",
         "correctQuestion": "What is the gannet?",
-        "value": 600
+        "value": 400
       },
       {
         "clue": "Stealing food from another bird instead of hunting has this Greek-derived name",
         "correctQuestion": "What is kleptoparasitism?",
-        "value": 800
+        "value": 400
       },
       {
         "clue": "This coastal raptor is the only hawk that dives feet-first for fish",
         "correctQuestion": "What is the osprey?",
-        "value": 1000
+        "value": 400
       },
       {
         "clue": "This bird's lower bill is longer than the upper, so it can plough the water",
         "correctQuestion": "What is the black skimmer?",
-        "value": 200
+        "value": 400
       },
       {
         "clue": "This frigatebird inflates a scarlet throat balloon to attract a mate",
@@ -376,22 +376,22 @@
       {
         "clue": "This tiny sanderling's feeding style is described as chasing the wave line",
         "correctQuestion": "What is the sanderling?",
-        "value": 800
+        "value": 600
       },
       {
         "clue": "This is the name for the group of seabirds nesting shoulder to shoulder",
         "correctQuestion": "What is a colony?",
-        "value": 1000
+        "value": 600
       },
       {
         "clue": "This pale plover is a US federally protected species on Atlantic beaches",
         "correctQuestion": "What is the piping plover?",
-        "value": 200
+        "value": 600
       },
       {
         "clue": "This bird can stay aloft for months, sleeping in flight over open ocean",
         "correctQuestion": "What is the wandering albatross?",
-        "value": 400
+        "value": 600
       },
       {
         "clue": "This bird's guano built industries and started a 19th-century trade war",
@@ -406,22 +406,22 @@
       {
         "clue": "This bright orange-billed shorebird specialises in prying bivalves apart",
         "correctQuestion": "What is the oystercatcher?",
-        "value": 1000
+        "value": 800
       },
       {
         "clue": "This gull follows fishing boats and was nicknamed the sea eagle of Britain",
         "correctQuestion": "What is the great black-backed gull?",
-        "value": 200
+        "value": 800
       },
       {
         "clue": "Coleridge hung this bird around a sailor's neck as a curse",
         "correctQuestion": "What is an albatross?",
-        "value": 400
+        "value": 800
       },
       {
         "clue": "These seabirds return to the exact burrow they hatched in, years later",
         "correctQuestion": "What are puffins?",
-        "value": 600
+        "value": 800
       },
       {
         "clue": "This wading bird was hunted to near extinction for hat plumes around 1900",
@@ -436,22 +436,22 @@
       {
         "clue": "This tern is the smallest in North America and nests on bare sand",
         "correctQuestion": "What is the least tern?",
-        "value": 200
+        "value": 1000
       },
       {
         "clue": "This large brown seabird pirates food and harasses colonies, earning a thuggish name",
         "correctQuestion": "What is the skua?",
-        "value": 400
+        "value": 1000
       },
       {
         "clue": "This genus name covers the ordinary grey-and-white gulls of the world",
         "correctQuestion": "What is Larus?",
-        "value": 600
+        "value": 1000
       },
       {
         "clue": "This shorebird flies from the Arctic to Tierra del Fuego, refuelling on crab eggs",
         "correctQuestion": "What is the red knot?",
-        "value": 800
+        "value": 1000
       },
       {
         "clue": "This seabird's tube-shaped nostrils give its whole family their common name",
@@ -468,22 +468,22 @@
       {
         "clue": "This bird's pouch, not its stomach, is what holds the catch",
         "correctQuestion": "What is the pelican?",
-        "value": 400
+        "value": 200
       },
       {
         "clue": "This bird has the longest wingspan of any living bird",
         "correctQuestion": "What is the wandering albatross?",
-        "value": 600
+        "value": 200
       },
       {
         "clue": "This annual Arctic-to-Antarctic journey is the longest migration on Earth",
         "correctQuestion": "What is the Arctic tern's?",
-        "value": 800
+        "value": 200
       },
       {
         "clue": "Seabirds drink seawater and shed the salt through glands above these",
         "correctQuestion": "What is the eyes?",
-        "value": 1000
+        "value": 200
       },
       {
         "clue": "This is the technical term for one bird robbing another's catch mid-air",
@@ -498,22 +498,22 @@
       {
         "clue": "This bird's mandible asymmetry lets it fish by touch while flying",
         "correctQuestion": "What is the black skimmer?",
-        "value": 600
+        "value": 400
       },
       {
         "clue": "This gland at the base of the tail supplies waterproofing oil",
         "correctQuestion": "What is the uropygial gland?",
-        "value": 800
+        "value": 400
       },
       {
         "clue": "Gulls, terns, plovers and sandpipers all sit in this order",
         "correctQuestion": "What is Charadriiformes?",
-        "value": 1000
+        "value": 400
       },
       {
         "clue": "This species is the classic large gull of the North Atlantic",
         "correctQuestion": "What is the herring gull?",
-        "value": 200
+        "value": 400
       },
       {
         "clue": "This bird's dive is cushioned by air sacs beneath the skin of its face and chest",
@@ -528,22 +528,22 @@
       {
         "clue": "This shorebird's bill is a chisel evolved for prising open bivalves",
         "correctQuestion": "What is the oystercatcher?",
-        "value": 800
+        "value": 600
       },
       {
         "clue": "This seabird's accumulated droppings drove a 19th-century fertiliser boom",
         "correctQuestion": "What is guano?",
-        "value": 1000
+        "value": 600
       },
       {
         "clue": "Tinbergen's classic experiment showed chicks peck this feature of a parent's bill",
         "correctQuestion": "What is the red spot?",
-        "value": 200
+        "value": 600
       },
       {
         "clue": "This threatened plover nests in scrapes on open Atlantic sand",
         "correctQuestion": "What is the piping plover?",
-        "value": 400
+        "value": 600
       },
       {
         "clue": "Petrels and albatrosses share this nasal feature that names their group",
@@ -558,22 +558,22 @@
       {
         "clue": "This egret's breeding plumes fuelled the millinery trade and the first Audubon laws",
         "correctQuestion": "What is the snowy egret?",
-        "value": 1000
+        "value": 800
       },
       {
         "clue": "This piratical seabird family chases others until they disgorge their meal",
         "correctQuestion": "What are skuas?",
-        "value": 200
+        "value": 800
       },
       {
         "clue": "This wader's migration is timed to horseshoe crab spawning in Delaware Bay",
         "correctQuestion": "What is the red knot?",
-        "value": 400
+        "value": 800
       },
       {
         "clue": "This frigatebird's gular pouch inflates scarlet in display",
         "correctQuestion": "What is the magnificent frigatebird?",
-        "value": 600
+        "value": 800
       },
       {
         "clue": "This behaviour lures predators away by feigning a broken wing",
@@ -588,22 +588,22 @@
       {
         "clue": "This gull is the largest in the world and takes puffins whole",
         "correctQuestion": "What is the great black-backed gull?",
-        "value": 200
+        "value": 1000
       },
       {
         "clue": "This is the collective noun for a group of gulls in flight",
         "correctQuestion": "What is a colony?",
-        "value": 400
+        "value": 1000
       },
       {
         "clue": "This seabird locks its wings and rides wind gradients for hours",
         "correctQuestion": "What is the shearwater?",
-        "value": 600
+        "value": 1000
       },
       {
         "clue": "This shorebird's name comes from the Latin for lead, after its call",
         "correctQuestion": "What is the plover?",
-        "value": 800
+        "value": 1000
       },
       {
         "clue": "This auk was hunted to extinction in 1844, the North Atlantic's flightless seabird",
@@ -620,22 +620,22 @@
       {
         "clue": "This white surprise lands on your freshly washed windshield",
         "correctQuestion": "What is bird poop?",
-        "value": 400
+        "value": 200
       },
       {
         "clue": "This bird's pouch looks like a stretched-out sack of pure regret",
         "correctQuestion": "What is a brown pelican?",
-        "value": 600
+        "value": 200
       },
       {
         "clue": "Gulls will fight to the death over this soggy dropped item",
         "correctQuestion": "What is a chip?",
-        "value": 800
+        "value": 200
       },
       {
         "clue": "This is what a whole flock does the second you unwrap a sandwich",
         "correctQuestion": "What is descend?",
-        "value": 1000
+        "value": 200
       },
       {
         "clue": "This bird screams like a car alarm at 5am outside your rental",
@@ -645,22 +645,22 @@
       {
         "clue": "Seabird droppings pile so high on islands they get mined and sold as this",
         "correctQuestion": "What is guano?",
-        "value": 400
+        "value": 200
       },
       {
         "clue": "This bird will swallow a whole pigeon and act like nothing happened",
         "correctQuestion": "What is a pelican?",
-        "value": 600
+        "value": 200
       },
       {
         "clue": "Gulls throw up their food to feed chicks, making this the family dinner",
         "correctQuestion": "What is vomit?",
-        "value": 800
+        "value": 200
       },
       {
         "clue": "This is the exact spot a gull aims for on a bald man's head",
         "correctQuestion": "What is the top?",
-        "value": 1000
+        "value": 200
       },
       {
         "clue": "This bird steals other birds' catches and has zero fishing skills of its own",
@@ -670,27 +670,27 @@
       {
         "clue": "Gulls drink seawater and squirt the leftover salt out of these",
         "correctQuestion": "What are their nostrils?",
-        "value": 400
+        "value": 200
       },
       {
         "clue": "This is what a gull does to a tourist who makes eye contact with a hot dog",
         "correctQuestion": "What is attacks?",
-        "value": 600
+        "value": 400
       },
       {
         "clue": "A gull's stomach can handle this beach food that would hospitalise you",
         "correctQuestion": "What is rotting fish?",
-        "value": 800
+        "value": 400
       },
       {
         "clue": "This piratical seabird bullies others until they puke up dinner mid-flight",
         "correctQuestion": "What is a skua?",
-        "value": 1000
+        "value": 400
       },
       {
         "clue": "This is the polite word for what coats every rock on a nesting island",
         "correctQuestion": "What is seabird droppings?",
-        "value": 200
+        "value": 400
       },
       {
         "clue": "This bird pretends to have a broken wing purely to waste your time",
@@ -700,22 +700,22 @@
       {
         "clue": "This bird will eat a cigarette butt with total confidence",
         "correctQuestion": "What is a gull?",
-        "value": 600
+        "value": 400
       },
       {
         "clue": "Gull chicks peck this on a parent's beak until it gives up the goods",
         "correctQuestion": "What is the red spot?",
-        "value": 800
+        "value": 400
       },
       {
         "clue": "This bird's mating display is inflating a giant red throat balloon",
         "correctQuestion": "What is the frigatebird's?",
-        "value": 1000
+        "value": 400
       },
       {
         "clue": "This bird sleeps while flying, which is more rest than you got last night",
         "correctQuestion": "What is a wandering albatross?",
-        "value": 200
+        "value": 400
       },
       {
         "clue": "This seabird's beak is orange only when it's trying to get laid",
@@ -725,27 +725,27 @@
       {
         "clue": "A group of these birds on one island can be heard from a mile out",
         "correctQuestion": "What are seabirds?",
-        "value": 600
+        "value": 400
       },
       {
         "clue": "This is what a pelican does to a fish that's too big for its throat",
         "correctQuestion": "What is swallows it anyway?",
-        "value": 800
+        "value": 400
       },
       {
         "clue": "Gulls have learned to stamp on wet sand to imitate this and trick worms",
         "correctQuestion": "What is rain?",
-        "value": 1000
+        "value": 600
       },
       {
         "clue": "This bird couldn't fly away in 1844 and that was the end of the species",
         "correctQuestion": "What is the last great auk?",
-        "value": 200
+        "value": 600
       },
       {
         "clue": "This bird's chicks eat until they weigh more than the parent, then get abandoned",
         "correctQuestion": "What is a shearwater?",
-        "value": 400
+        "value": 600
       },
       {
         "clue": "This is the technical word for a bird robbing another bird's hard-earned lunch",
@@ -755,22 +755,22 @@
       {
         "clue": "This bird dives at 100 km/h and has air bags in its face so it doesn't die",
         "correctQuestion": "What is a gannet?",
-        "value": 800
+        "value": 600
       },
       {
         "clue": "This bird nests in a burrow it digs with its face",
         "correctQuestion": "What is a puffin?",
-        "value": 1000
+        "value": 600
       },
       {
         "clue": "This is what the whole beach smells like downwind of a gull colony",
         "correctQuestion": "What is ammonia?",
-        "value": 200
+        "value": 600
       },
       {
         "clue": "Gulls will take food straight from this, which is why the sign warns you",
         "correctQuestion": "What is your hand?",
-        "value": 400
+        "value": 600
       },
       {
         "clue": "This bird eats its own weight in fish and still looks miserable",
@@ -780,27 +780,27 @@
       {
         "clue": "This bird holds its wings out to dry because it isn't waterproof, unlike every colleague",
         "correctQuestion": "What is a cormorant?",
-        "value": 800
+        "value": 600
       },
       {
         "clue": "This beach bird turns up in car parks hundreds of miles inland",
         "correctQuestion": "What is a common gull?",
-        "value": 1000
+        "value": 600
       },
       {
         "clue": "This throat pouch holds three times what the stomach can",
         "correctQuestion": "What is a pelican's?",
-        "value": 200
+        "value": 600
       },
       {
         "clue": "Seabirds nest this close together, which is a hygiene situation",
         "correctQuestion": "What is shoulder to shoulder?",
-        "value": 400
+        "value": 800
       },
       {
         "clue": "This is what a gull does to another gull that found food first",
         "correctQuestion": "What is robs it?",
-        "value": 600
+        "value": 800
       },
       {
         "clue": "This bird's guano was once worth more per ton than most cargo afloat",
@@ -810,22 +810,22 @@
       {
         "clue": "This bird follows trawlers for the guts thrown overboard",
         "correctQuestion": "What is a fulmar?",
-        "value": 1000
+        "value": 800
       },
       {
         "clue": "This bird's Latin name is the origin of the word for the whole noisy family",
         "correctQuestion": "What is Larus?",
-        "value": 200
+        "value": 800
       },
       {
         "clue": "This bird drinks straight from the sea, beating beach-bar prices",
         "correctQuestion": "What is a black-headed gull?",
-        "value": 400
+        "value": 800
       },
       {
         "clue": "This bird is the one your chips were never safe from in the first place",
         "correctQuestion": "What is a European herring gull?",
-        "value": 600
+        "value": 800
       },
       {
         "clue": "This is what gulls do to a bin bag left out for ten seconds",
@@ -835,27 +835,27 @@
       {
         "clue": "This bird's chick is speckled so you step on its nest without seeing it",
         "correctQuestion": "What is a plover's?",
-        "value": 1000
+        "value": 800
       },
       {
         "clue": "This bird has a bill longer on the bottom, which looks like a factory error",
         "correctQuestion": "What is a skimmer?",
-        "value": 200
+        "value": 800
       },
       {
         "clue": "This is where a puffin puts up to a dozen fish at once",
         "correctQuestion": "What is in its bill?",
-        "value": 400
+        "value": 800
       },
       {
         "clue": "This bird will nest on a bare rock and call it a home",
         "correctQuestion": "What is a tern?",
-        "value": 600
+        "value": 800
       },
       {
         "clue": "This bird throws its head back and screams at the sky to display",
         "correctQuestion": "What is a kittiwake?",
-        "value": 800
+        "value": 1000
       },
       {
         "clue": "This large gull will swallow a puffin whole, feet and all",
@@ -865,22 +865,22 @@
       {
         "clue": "This is what seabirds do to a fishing net full of somebody's livelihood",
         "correctQuestion": "What is raid it?",
-        "value": 200
+        "value": 1000
       },
       {
         "clue": "This bird's wings lock open so it can glide for hours doing nothing",
         "correctQuestion": "What is an albatross?",
-        "value": 400
+        "value": 1000
       },
       {
         "clue": "This seabird family is named for the tubes on top of its beaks",
         "correctQuestion": "What are tubenoses?",
-        "value": 600
+        "value": 1000
       },
       {
         "clue": "This bird migrates pole to pole annually, making your commute look pathetic",
         "correctQuestion": "What is the Arctic tern?",
-        "value": 800
+        "value": 1000
       },
       {
         "clue": "This bird stands on one leg because the other one is cold, not for art",
@@ -890,22 +890,22 @@
       {
         "clue": "This is what a cormorant looks like standing on a post with wings spread",
         "correctQuestion": "What is a scarecrow?",
-        "value": 200
+        "value": 1000
       },
       {
         "clue": "This bird's egg is pointed at one end so it spins instead of rolling off a cliff",
         "correctQuestion": "What is a guillemot's?",
-        "value": 400
+        "value": 1000
       },
       {
         "clue": "Fishermen tied this bird's throat shut so it couldn't swallow the catch",
         "correctQuestion": "What is a great cormorant?",
-        "value": 600
+        "value": 1000
       },
       {
         "clue": "This bird's colony smell is the reason nobody builds hotels on those islands",
         "correctQuestion": "What is a gannet's?",
-        "value": 800
+        "value": 1000
       },
       {
         "clue": "This bird's stuffed corpses in museums are all anyone will ever see",
